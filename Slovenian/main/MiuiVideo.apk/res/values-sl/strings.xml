@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">Pojdi na začetno</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Pojdi gor</string>
+  <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+  <string name="abc_action_mode_done">Končano</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+  <string name="abc_capital_off">IZKLJUČENO</string>
+  <string name="abc_capital_on">VKLJUČENO</string>
+  <string name="abc_search_hint">Poiščite…</string>
+  <string name="abc_searchview_description_clear">Izbriši povpraševenje</string>
+  <string name="abc_searchview_description_query">Povpraševenje za iskanje</string>
+  <string name="abc_searchview_description_search">Iskanje</string>
+  <string name="abc_searchview_description_submit">Pošlji povpraševenje</string>
+  <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+  <string name="abc_shareactionprovider_share_with">Deljenje z</string>
+  <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
+  <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima težave z storitvami Google Playa. Če se problem ponovi poiščite pomoč pri programerju.</string>  
+  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="app_name">Mi Video</string>
+  <string name="load_more_and_more">Naloži več…</string>
+  <string name="over_load_more">Naloži več</string>
+  <string name="push">Naloži</string>
+  <string name="push_load_more">Naloži več</string>
+  <string name="albums">Albumi</string>
+  <string name="allow_draw_overlays_title">Omogočite aplikaciji Player pojavno okno v odnosu na druge aplikacije</string>
+  <string name="allow_sdraw_overlays_description">Aplikacija Player potrebuje dovoljenje za prikazovanje videoposnetkov v pojavnih oknih v odnosu na druge aplikacije.</string>
+  <string name="allow_settings_access_brightness_description">Aplikacija Player potrebuje dovoljenje za spremembo načina osvetlitve.</string>
+  <string name="allow_settings_access_brightness_title">Omogočite aplikaciji Player da zamenja način osvetlitve</string>
+  <string name="allow_settings_access_ringtone_description">Aplikacija Player potrebuje dovoljenje za nastavljanje te pesmi za melodijo zvonjenja</string>
+  <string name="allow_settings_access_ringtone_title">Omogočite aplikaciji Player nastavljanje pesmi za melodijo zvonjenja</string>
+  <string name="allow_storage_access_description">Aplikacija Player potrebuje dovoljenje za dostop do multimedijskih datotek na tem računalniku.</string>
+  <string name="allow_storage_access_title">Omogočite aplikaciji Player dostop do multimedijskih datotek na tem računalniku</string>
+  <string name="artists">Umetniki</string>
+  <string name="audio">Avdio</string>
+  <string name="audio_delay">Zamik zvoka</string>
+  <string name="back_quit_lock">Pritisnite ponovno za prekinitev videa</string>
+  <string name="brightness">Osvetlitev</string>
+  <string name="cancel">Prekliči</string>
+  <string name="default_text">Privzeto</string>
+  <string name="delete">Izbriši</string>
+  <string name="delete_file_tips">Izbrišem to datoteko?</string>
+  <string name="details">Podrobnosti</string>
+  <string name="dselect_all">Prekliči izbrano</string>
+  <string name="encountered_error_message">"Aplikacija Player je našala  napako na tem mediju.
+Poskusite osvežiti knjižnico medija."</string>
+  <string name="encountered_error_title">Napaka pri predvajanju</string>
+  <string name="error_text_invalid_progressive_playback">"Ta vrsta datoteke ni podprta."</string>
+  <string name="exit_app">Zapri aplikacijo</string>
+  <string name="file">Datoteka</string>
+  <string name="file_details" formatted="false">"Velikost: %s
+
+Dolžina: %s
+
+Zadnja sprememba: %s
+
+Lokacija: %s
+
+"</string>
+  <string name="filter">Filter</string>
+  <string name="filter_file_tips">Filtriram to datoteko?</string>
+  <string name="firebase_database_url">https://miuiglobalvideoplayer.firebaseio.com</string>
+  <string name="folder">Mapa</string>
+  <string name="folder_up_tips">(Mapa gor)</string>
+  <string name="genres">Žanri</string>
+  <string name="hide">Skrij</string>
+  <string name="hide_file_tips">Skrijem to datoteko?</string>
+  <string name="hide_files_tips">Skrij datoteke</string>
+  <string name="hide_filter_folder_tips">Skrij mapo filtra</string>
+  <string name="history">Zgodovina</string>
+  <string name="home_tab_featured">Poudarjeno</string>
+  <string name="home_tab_hot">Popularno</string>
+  <string name="home_tab_local_video">Lokalno</string>
+  <string name="illegal_input_tips">Ilegalni vnos</string>
+  <string name="invalid_location">Loakcije %1$s ni možno predvajati.</string>
+  <string name="language_default">Privzeti jezik</string>
+  <string name="last_added_media">Zadnje dodano</string>
+  <string name="loading">Nalaganje</string>
+  <string name="locked">Zaklenjeno</string>
+  <string name="more">Več</string>
+  <string name="more_file_details" formatted="false">"Velikost: %s
+
+Dolžina: %s 
+
+"</string>
+  <string name="network_stream">Omrežni stream</string>
+  <string name="no_filter_folder_tips">Ni mape filtrov</string>
+  <string name="no_folder_found">Ne najdem videoposnetkov</string>
+  <string name="no_hidden_files_tips">Ni skritih datotek</string>
+  <string name="no_search_found">Ni najdenih rezultatov</string>
+  <string name="no_videos_found">Ne najdem nobenega videoposnetka</string>
+  <string name="ok">V redu</string>
+  <string name="online">Online</string>
+  <string name="open">Odpri</string>
+  <string name="open_subtitle_file">Odpri datoteko naslovov</string>
+  <string name="other">Ostalo</string>
+  <string name="pause">Premor</string>
+  <string name="permission_ask_again">Odobri dovoljenje</string>
+  <string name="playlists">Seznami</string>
+  <string name="please_wait">Počakajte…</string>
+  <string name="refresh">Osveži</string>
+  <string name="remove">Odstrani</string>
+  <string name="rename">Preimenuj</string>
+  <string name="rename_file">Preimenuj datoteko</string>
+  <string name="rename_folder">Preimenuj mapo</string>
+  <string name="rename_hidden_error">Datoteka bo skrita</string>
+  <string name="replace_num_files">Datotek: %d</string>
+  <string name="replace_num_videos">Videoposnetkov: %d</string>
+  <string name="ringtone_error">Napaka pri nastavljanju melodije zvonjenja.</string>
+  <string name="ringtone_set">"Datoteka '%1$s' nastavljena za melodijo zvonjenja."</string>
+  <string name="sdcard_text">SD Kartica</string>
+  <string name="sdcard_tips">SD Kartica/</string>
+  <string name="search">Išči</string>
+  <string name="search_history">Zgodovina iskanja</string>
+  <string name="search_null_text">Vnesite ključno besedo</string>
+  <string name="select_all">Izberi vse</string>
+  <string name="send">Pošlji</string>
+  <string name="settings">Nastavitve</string>
+  <string name="show_all_files_tips">Prikaži vse datoteke</string>
+  <string name="show_all_folder_tips">Prikaži vse mape</string>
+  <string name="small_a">A</string>
+  <string name="songs">Pesmi</string>
+  <string name="sound_off">Zvok izključen</string>
+  <string name="sound_on">Zvok vključen</string>
+  <string name="spu_delay">Zamik podnaslova</string>
+  <string name="subtitle">Podnaslov</string>
+  <string name="subtitle_color_text">Barva podnaslova</string>
+  <string name="subtitle_font_tips">Velikost</string>
+  <string name="subtitles">Podnaslovi</string>
+  <string name="synchronization">Sinhronizacija</string>
+  <string name="toast_player_list_header">Seznam za predvajanje</string>
+  <string name="toast_player_list_none">Ni več vsebine</string>
+  <string name="toast_screen_text_add">Uspešno dodano</string>
+  <string name="toast_screen_text_default">Privzeta velikost</string>
+  <string name="toast_screen_text_full">Cel zaslon</string>
+  <string name="toast_screen_text_horizontal">Vodoravno luščenje</string>
+  <string name="toast_screen_text_scaling">Luščenje</string>
+  <string name="toast_screen_text_stream">Klikni tipko Stream</string>
+  <string name="toast_screen_text_vertical">Pokončno luščenje</string>
+  <string name="track_audio">Avdio posnetek</string>
+  <string name="track_text">Zapis podnaslova</string>
+  <string name="track_unknown">Neznan posnetek</string>
+  <string name="track_video">Videoposnetek</string>
+  <string name="unknown_album">Neznan album</string>
+  <string name="unknown_artist">Neznan izvajalec</string>
+  <string name="unknown_genre">Neznan žanr</string>
+  <string name="unlocked">Odklenjeno</string>
+  <string name="unseekable_stream">Stream ki se ne more iskati</string>
+  <string name="v7_preference_off">IZKLJUČI</string>
+  <string name="v7_preference_on">VKLJUČI</string>
+  <string name="video">Video</string>
+  <string name="video_error_network_not_available">"Ne morem se povezati na omrežje"</string>
+  <string name="video_error_text_unknown">Neznana napaka.</string>
+  <string name="video_error_title">Neznana napaka</string>
+  <string name="video_file_details" formatted="false">%d Videoposnetkov | %s</string>
+  <string name="video_item_title_lines">2</string>
+  <string name="videos">Videoposnetkov</string>
+  <string name="volume">Glasnost</string>
+  <string name="wrapper_footer_text">Prišli ste na dno strani</string>
+</resources>
