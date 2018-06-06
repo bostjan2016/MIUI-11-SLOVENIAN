@@ -497,7 +497,6 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="monitoring_description_personal_profile_named_vpn">Vaš osebni osobni profil je povezan z  %1$s, ki lahko spremlja aktivnosti vašega omrežja, vključno z e-pošto, aplikacijami in spletnimi stranmi.</string>
   <string name="monitoring_description_two_named_vpns">"Povezani ste z %1$s in %2$s, ki lahko spremlja aktivnosti vašega omrežja, vključno z e-pošto, aplikacijami in spletnimi stranmi."</string>
   <string name="monitoring_description_vpn_settings">Odpri VPN nastavitve</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">CA certifikati</string>
   <string name="monitoring_subtitle_network_logging">Omrežni zapisi</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
@@ -600,7 +599,6 @@ Vaš administrator lahko nadzira in upravlja nastavitve, korporativni dostop, ap
   <string name="quick_settings_disclosure_vpns">Naprava je povezana s VPN-om</string>
   <string name="quick_settings_done">Končano</string>
   <string name="quick_settings_more_settings">Več nastavitev</string>
-  <string name="quick_settings_tiles">Privzeto</string>
   <string name="quick_settings_wifi_detail_empty_text">Ni dostopnih WiFi omrežij</string>
   <string name="quick_settings_wifi_label">WiFi</string>
   <string name="quick_settings_wifi_nearby">Izberite bližje omrežje</string>
