@@ -444,7 +444,6 @@ Uporabljajte samo originalen polnilec.</string>
   <string name="launch_defaults_some">Nekatere so prizeto nastavljene</string>
   <string name="legacy_dhcp_client_summary">Uporabljajte DHCP klijent iz Lollipopa namesto novega Android DHCP klijenta.</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Samo trenutek…</string>
   <string name="local_backup_password_summary_change">Tapnite da boste zamenjali ali odstranili geslo za popolne varnostne kopije na računalniku</string>

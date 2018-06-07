@@ -304,7 +304,6 @@ Uporabite priloženi polnilnik."</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Prikaži</string>
   <string name="legacy_dhcp_client_summary">Uporabljate DHCP klijent iz Lollipopa namesto novega Android DHCP klijenta.</string>
-  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="local_backup_password_summary_change">Dotaknite se, če želite spremeniti ali odstraniti geslo za popolno varnostno kopiranje namizja</string>
   <string name="local_backup_password_summary_none">Popolne varnostne kopije namizja trenutno niso zaščitene</string>
