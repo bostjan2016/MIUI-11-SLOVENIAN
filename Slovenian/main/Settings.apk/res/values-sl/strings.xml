@@ -706,7 +706,7 @@ Nazadnje zagnano: %2$s"</string>
     <string name="bluetooth_ask_disablement">Aplikacija %1$s želi izklopiti Bluetooth</string>
     <string name="bluetooth_ask_disablement_no_name">Aplikacija želi izklopiti Bluetooth</string>
     <string name="bluetooth_ask_discovery">Aplikacija %1$s želi omogočiti, da bodo lahko druge naprave Bluetooth videle vaš telefon za toliko sekund: %1$d.</string>
-  <string name="bluetooth_ask_discovery">Aplikacija želi da lahko druge naprave Bluetooth vidijo vaš telefon toliko sekund: %1$d.</string>
+  <string name="bluetooth_ask_discovery_no_name">Aplikacija želi da lahko druge naprave Bluetooth vidijo vaš telefon na %1$d s.</string>
     <string name="bluetooth_ask_enablement">Aplikacija želi vklopiti Bluetooth</string>
     <string name="bluetooth_ask_enablement_and_discovery">Aplikacija želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave Bluetooth videle vaš telefon za toliko sekund: %2$d.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" želi vklopiti Bluetooth in vašo napravo narediti vidno drugim napravam za %1$d sek."</string>
@@ -718,7 +718,7 @@ Nazadnje zagnano: %2$s"</string>
   <string name="bluetooth_ask_enablement_detected">" želi vklopiti Bluetooth."</string>
     <string name="bluetooth_ask_enablement_no_name">Aplikacija želi vklopiti Bluetooth</string>
   <string name="bluetooth_ask_lasting_discovery">Aplikacija želi vašo napravo narediti vidno drugim Bluetooth napravam. To lahko pozneje spremenite v nastavitvah Bluetootha.</string>
-    <string name="bluetooth_ask_lasting_discovery">Aplikacija želi omogočiti, da bodo lahko druge naprave Bluetooth videle vaš telefon. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Aplikacija želi da lahko druge naprave Bluetooth vidijo vaš telefon. To lahko spremenite v nastavitvah Bluetootha.</string>
   <string name="bluetooth_ask_start_broadcast">%1$s želi vklopiti oddajanje Bluetootha za komuniciranje z drugimi napravami v bližini. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
   <string name="bluetooth_auto_connect">Samodejno poveži</string>
   <string name="bluetooth_broadcasting">Oddajanje</string>
@@ -974,6 +974,7 @@ Hitrost vzorčenja"</string>
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je odklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -6110,9 +6111,9 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="vpn_replace">Zamenjaj</string>
     <string name="vpn_replace_always_on_vpn_disable_message">S stalno vklopljenim omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano in stalno vklopljeni način se bo izklopil.</string>
     <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli internetne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
-    <string name="vpn_replace_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
+  <string name="vpn_replace_always_on_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
   <string name="vpn_replace_always_on_vpn_title">Želite zamenjati dosedanji VPN?</string>
-  <string name="vpn_replace_vpn_message">Već ste povezani s VPN-om. Ako se povežete s nekim drugi VPN-om, on će zamijeniti dosadašnji.</string>
+  <string name="vpn_replace_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
     <string name="vpn_replace_vpn_title">Želite zamenjati obstoječe omrežje VPN?</string>
     <string name="vpn_require_connection">Blokiraj povezave brez omrežja VPN</string>
     <string name="vpn_require_connection_title">Ali zahtevate povezavo VPN?</string>
@@ -6244,8 +6245,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_assistant_permission_accepted">“Google WiFi Pomočniku” ste dali dovoljenje da vzpostavi VPN povezavo. To pomeni da aplikacija lahko nadzira omrežni promet.</string>
   <string name="wifi_assistant_setting_summary">Google WiFi Pomočnik</string>
   <string name="wifi_assistant_setting_title">WiFi Pomočnik</string>
-  <string name="wifi_assistant_setup">POSTAVI</string>
-  <string name="wifi_assistant_setup">Nastavi</string>
+  <string name="wifi_assistant_setup">NASTAVI</string>
+  <string name="wifi_assistant_setup_wifi_assistant">Nastavi</string>
   <string name="wifi_assistant_summary">Promjeniizmeđu WLAN mreža i mobilnih podataka kada je WLAN veza loša</string>
   <string name="wifi_assistant_switch_data">Koristi mobilne podatke</string>
   <string name="wifi_assistant_switch_wifi">Promjeni mreže</string>
