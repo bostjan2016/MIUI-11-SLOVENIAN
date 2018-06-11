@@ -83,7 +83,7 @@
   <string name="accessibility_power_button_ends_call_prerefence_title">Gumb za vklop konča klic</string>
     <string name="accessibility_preference_magnification_summary">Povečava zaslona</string>
   <string name="accessibility_screen_magnification_enable">Gibi povečanja</string>
-  <string name="accessibility_screen_magnification_gestures_title">Če želite povečati, se trikrat dotaknite/string>
+  <string name="accessibility_screen_magnification_gestures_title">Če želite povečati, se trikrat dotaknite</string>
   <string name="accessibility_screen_magnification_navbar_configuration_warning">Gumb Dostopnost je nastavljen na %1$s. Da uporabite povečanje, tapnite in držite gumb Dostopnost in nato izaberite povečanje.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Če želite povečati, se dotaknite gumba</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Ko je povečava vklopljena, za hitro povečevanje uporabite gumb Dostopnost na dnu zaslona.
