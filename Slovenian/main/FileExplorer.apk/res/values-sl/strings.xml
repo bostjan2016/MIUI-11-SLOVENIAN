@@ -170,7 +170,7 @@
   <string name="cution">Nasveti</string>
   <string name="data_capacity">Podatki %1$s</string>
   <string name="data_consumption_cancel">Izhod</string>
-  <string name="data_consumption_checkbox_hint">"Ne prikaži ponovno"</string>
+  <string name="data_consumption_checkbox_hint">"Ne kaži več"</string>
   <string name="data_consumption_confirm">V redu</string>
   <string name="data_consumption_message">Ta aplikacija potrebuje povezavo s spletom preko WiFi za normalno delovanje.</string>
   <string name="data_consumption_message1">Aplikacija Raziskovalec mora biti povezana s spletom za pregled popularnih nalepk in videoposnetkov.</string>

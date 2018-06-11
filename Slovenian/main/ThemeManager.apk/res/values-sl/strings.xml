@@ -455,7 +455,7 @@
   <string name="theme_user_agreement_content5">Aplikacija potrebuje povezavo s spletom za normalno delovanje. "</string>
   <string name="theme_user_agreement_exit">Izhod</string>
   <string name="theme_user_agreement_remind_again">Prikaži pogoje uporabe</string>
-  <string name="theme_user_agreement_remind_never">Ne kaži ponovno</string>
+  <string name="theme_user_agreement_remind_never">Ne kaži več</string>
   <string name="theme_user_agreement_remind_summary">Prikazuj Pogoje uporabe vsakič ko odprete Teme. Ta nastavitve bodo začele veljati ko boste ponovno zagnali napravo.</string>
   <string name="theme_user_agreement_title">Pogoji uporabe</string>
   <string name="theme_yes">Da</string>

@@ -274,4 +274,88 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="other">Omejena povezava za toliko aplikacij: %s</item>
         <item quantity="one">Omejena povezava za %s aplikacijo</item>
     </plurals>
+	     <plurals name="app_notification_listing_summary_others">
+        <item quantity="other">Izključeno za %d aplikacij</item>
+        <item quantity="one">Izključeno za %d aplikacijo</item>
+     </plurals>
+     <plurals name="default_camera_app_title">
+        <item quantity="other">Aplikacij za snemanje</item>
+        <item quantity="one">Aplikacija za snemanje</item>
+     </plurals>
+     <plurals name="default_email_app_title">
+        <item quantity="other">Aplikacij odjemalca e-pošte</item>
+        <item quantity="one">Aplikacija odjemalca e-pošte</item>
+     </plurals>
+     <plurals name="default_phone_app_title">
+        <item quantity="other">Aplikacij telefona</item>
+        <item quantity="one">Aplikacija telefona</item>
+     </plurals>
+     <plurals name="deleted_channels">
+        <item quantity="other">Izbrisano je %d kategorij</item>
+        <item quantity="one">Izbrisana je %d kategorija</item>
+     </plurals>
+     <plurals name="domain_urls_apps_summary_on">
+        <item quantity="other">%d aplikacij odpira podprte povezave</item>
+        <item quantity="one">%d aplikacija odpira podprte povezave</item>
+     </plurals>
+     <plurals name="enterprise_privacy_number_ca_certs">
+        <item quantity="other">Najmanj %d CA certifikatov</item>
+        <item quantity="one">Najmanj %d CA certifikat</item>
+     </plurals>
+     <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item quantity="other">%d poskusov</item>
+        <item quantity="one">%d poskus</item>
+     </plurals>
+     <plurals name="enterprise_privacy_number_packages">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+     </plurals>
+     <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item quantity="other">Najmanj %d aplikacij</item>
+        <item quantity="one">Najmanj %d aplikacija</item>
+     </plurals>
+     <plurals name="hours">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+     </plurals>
+     <plurals name="manage_trust_agents_summary_on">
+        <item quantity="other">%d aktivnih agentov zaupanja</item>
+        <item quantity="one">%d aktivni agent zaupanja</item>
+     </plurals>
+     <plurals name="master_clear_with_account_summary">
+        <item quantity="other">%1$d računov bo vrnjeno na privzeto</item>
+        <item quantity="one">%1$d račun bo vrnjen na privzeto</item>
+     </plurals>
+     <plurals name="minutes">
+        <item quantity="other">%s minut</item>
+        <item quantity="one">%s minuta</item>
+     </plurals>
+     <plurals name="network_restrictions_summary">
+        <item quantity="other">%1$d omejitev</item>
+        <item quantity="one">%1$d omejitev</item>
+     </plurals>
+     <plurals name="number_of_device_admins">
+        <item quantity="other">%d aktivnih aplikacij</item>
+        <item quantity="one">%d aktivna aplikacija</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekunda</item>
+     </plurals>
+     <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item quantity="other">Pokaži %d skritih stvari</item>
+        <item quantity="one">Pokaži %d skrito stvar</item>
+     </plurals>
+     <plurals name="special_access_summary">
+        <item quantity="other">%d aplikacij lahko uporablja neomejene podatke</item>
+        <item quantity="one">%d aplikacija lahko uporablja neomejene podatke</item>
+     </plurals>
+     <plurals name="wifi_saved_access_points_summary">
+        <item quantity="other">%d omrežij</item>
+        <item quantity="one">%d omrežje</item>
+     </plurals>
+     <plurals name="zen_mode_settings_summary_on">
+        <item quantity="other">Vključeno je %d samodejnih pravil</item>
+        <item quantity="one">Vključeno je %d samodejno pravilo</item>
+     </plurals>
 </resources> 

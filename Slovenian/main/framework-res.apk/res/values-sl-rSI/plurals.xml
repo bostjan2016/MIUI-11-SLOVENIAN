@@ -208,4 +208,8 @@
         <item quantity="other">Nameščeni so izdajatelji certifikatov</item>
         <item quantity="one">Nameščen je izdajatelj certifikata</item>
      </plurals>
+     <plurals name="autofill_picker_some_suggestions">
+          <item quantity="other">%1$s predlogov za samodejno izpolnjevanje</item>
+          <item quantity="one">%1$s predlog za samodejno izpolnjevanje</item>
+     </plurals>
 </resources>

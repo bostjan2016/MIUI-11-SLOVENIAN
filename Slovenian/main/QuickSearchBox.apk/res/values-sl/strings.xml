@@ -52,7 +52,7 @@
   <string name="corpus_label_web">Priporočila</string>
   <string name="corpus_selection_heading">Iskanje</string>
   <string name="cta_declaration">"Ta funkcija potrebuje povezavo s spletom, dostop do lokacije vaše naprave ter pregled zgodovine klicev in stikov za normalno delovanje."</string>
-  <string name="cta_declaration_ignore">"Ne prikaži ponovno"</string>
+  <string name="cta_declaration_ignore">"Ne kaži več"</string>
   <string name="cta_declaration_negative_text">"Ne dovoli"</string>
   <string name="cta_declaration_positive_text">Dovoli</string>
   <string name="cta_declaration_title">Pogoji uporabe</string>

@@ -557,7 +557,7 @@
   <string name="travel_train_station">Žel. postaja</string>
   <string name="user_notice_button_exit">Izhod</string>
   <string name="user_notice_button_ok">V redu</string>
-  <string name="user_notice_declaration_ignore">"Ne prikaži ponovno"</string>
+  <string name="user_notice_declaration_ignore">"Ne kaži več"</string>
   <string name="user_notice_message">"Z uporabo tega proizvoda pristajate na Xiaomi %1$s in %2$s. Nekatere funkcije potrebujejo povezavo s spletom, dostop do lokacije in stikov za normalno delovanje."</string>
   <string name="user_notice_title">Obvestila uporabniku</string>
   <string name="user_notification">Obvestila </string>

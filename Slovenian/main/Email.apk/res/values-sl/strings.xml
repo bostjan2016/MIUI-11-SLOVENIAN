@@ -815,7 +815,7 @@ Poskusite z ostalo pošto."</string>
   <string name="push_wps_better_confirm_download">Prenesi</string>
   <string name="push_wps_better_confirm_exit">Ne zdaj</string>
   <string name="push_wps_better_confirm_message">Poskusite uporabiti WPS Office za odpiranje te priponke.</string>
-  <string name="push_wps_better_confirm_noshow_hint">"Ne prikaži ponovno"</string>
+  <string name="push_wps_better_confirm_noshow_hint">"Ne kaži več"</string>
   <string name="push_wps_better_confirm_title">Poskusite WPS Office</string>
   <string name="push_wps_confirm_cancel">Ne zdaj</string>
   <string name="push_wps_confirm_download">Prenesi</string>

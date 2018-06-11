@@ -77,7 +77,7 @@
   <string name="description_version_szie">Verzija: %1$s Velikost: %2$s</string>
   <string name="didi_back">Nazaj</string>
   <string name="didi_close">Zapri</string>
-  <string name="do_not_remind_me">Ne kaži ponovno</string>
+  <string name="do_not_remind_me">Ne kaži več</string>
   <string name="dont_enable">Onemogoči</string>
   <string name="download_completed">Prenos končan! Datoteka shranjena v %s</string>
   <string name="download_failed">Prenos ni uspel</string>
@@ -397,7 +397,7 @@
   <string name="recharge_user_confirm_title">Potrdi</string>
   <string name="refresh">Osveži</string>
   <string name="remember_preference">Zapomni si prednosti</string>
-  <string name="remind_another_time">Ne kaži ponovno</string>
+  <string name="remind_another_time">Ne kaži več</string>
   <string name="remind_user_confirm">V redu</string>
   <string name="remind_user_suspect_number_message">Bodite previdni: Vedno morate preveriti identiteto stikov v telefonu ali videu preden se odzovete na vsa sporočila ki vključujejo vaše osebne podatke.</string>
   <string name="remind_user_suspect_number_title">Sumljiva številka</string>

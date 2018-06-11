@@ -188,7 +188,7 @@
         <item>Nič</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP ili CHAP</item>
+        <item>PAP ali CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -862,7 +862,7 @@
         <item>Tipka Nazaj na levo, Tipka Meni na desno</item>
      </string-array>
     <string-array name="long_press_volume_down_action">
-         <item>Ništa</item>
+         <item>Nič</item>
          <item>Quick snap način (fotografija)</item>
          <item>Quick snap način (videoposnetek)</item>
          <item>Mestni prevoz</item>
@@ -1101,11 +1101,11 @@
      </string-array>
      <string-array name="select_logd_size_summaries">
         <item>Izključeno</item>
-        <item>64 KB medpomnilnika</item>
-        <item>256 KB medpomnilnika</item>
-        <item>1 MB medpomnilnika</item>
-        <item>4 MB medpomnilnika</item>
-        <item>16 MB medpomnilnika</item>
+        <item>64 KB na medpomnilnik</item>
+        <item>256 KB na medpomnilnik</item>
+        <item>1 MB na medpomnilnik</item>
+        <item>4 MB na medpomnilnik</item>
+        <item>16 MB na medpomnilnik</item>
      </string-array>
      <string-array name="select_logd_size_titles">
         <item>Izključeno</item>
@@ -1157,4 +1157,113 @@
          <item>Privzeto</item>	         
         <item>Mobilna dostopna točka</item>
 	</string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Starejše od 30 dni</item>
+        <item>Starejše od 60 dni</item>
+        <item>Starejše od 90 dni</item>
+     </string-array>
+	 <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>16 bitov na vzorec</item>
+        <item>24 bitov na vzorec</item>
+        <item>32 bitov na vzorec</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>16 bitov na vzorec</item>
+        <item>24 bitov na vzorec</item>
+        <item>32 bitov na vzorec</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizirano za kvaliteto predvajanja zvoka</item>
+        <item>Uravnotežena kvaliteta predvajanja zvoka in povezave</item>
+        <item>Optimizirano za kvaliteto povezave</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizirano za kvaliteto predvajanja zvoka (990 kbps/909 kbps)</item>
+        <item>Uravnotežena kvaliteta predvajanja zvoka in povezave (660 kbps/606 kbps)</item>
+        <item>Optimizirano za kvaliteto povezave (330 kbps/303 kbps)</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Izbira sistema (privzeto)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Omogočanje izbornih kodekov</item>
+        <item>Onemogočanje izbornih kodekov</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Izbira sistema (privzeto)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Omogočanje izbornih kodekov</item>
+        <item>Onemogočanje izbornih kodekov</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (privzeto)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (privzeto)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Izključeno</item>
+        <item>Vsi medpomnilniki zapisov</item>
+        <item>Vse razen osim medpomnilnika zapisnika radija</item>
+        <item>samo medpomnilniki zapisnika jedra</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Izključeno</item>
+        <item>Vse</item>
+        <item>Vse razen radija</item>
+        <item>samo jedro</item>
+    </string-array>
+    <string-array name="vip_mode_text">
+        <item>Od kogarkoli</item>
+        <item>Samo od stikov</item>
+        <item>Samo od priljubljenih</item>
+        <item>Nič</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices_v2">
+        <item>WiFi</item>
+        <item>Mobilna naprava</item>
+        <item>Samo WiFi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>WiFi</item>
+        <item>Mobilna naprava</item>
+    </string-array>
 </resources>

@@ -699,7 +699,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="create_shortcut">Napravi bližnjico začetnega zaslona za pohitritev igranja</string> 
   <string name="cta_button_text_agree">V redu</string>
   <string name="cta_button_text_cancel">Prekliči</string>
-  <string name="cta_checkbox_title">Ne pokaži ponovno</string>
+  <string name="cta_checkbox_title">Ne pokaži več</string>
   <string name="cta_dialog_msg">Varnostni Center se bo povezal s spletom za namestitev posodobitev.</string>
   <string name="cta_dialog_title">Pogoji in storitve</string>
   <string name="cta_settings">Dovoli spletno povezavo</string>

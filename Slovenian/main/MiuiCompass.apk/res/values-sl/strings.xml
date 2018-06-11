@@ -30,7 +30,7 @@
   <string name="direction_south_east">JV</string>
   <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
-  <string name="do_not_show_next_time">Ne kaži ponovno</string>
+  <string name="do_not_show_next_time">Ne kaži več</string>
   <string name="error_camera_unavailable">Preverite ali trenutno kakšna druga aplikacija uporablja Kamero.</string>
   <string name="error_camera_unavailable_title">Kamera ni dostopna</string>
   <string name="first_using_dialog_message">"Kompas za pravilno delovanje potrebuje omrežno povezavo, kamero in storitve lokacije vaše naprave."</string>
