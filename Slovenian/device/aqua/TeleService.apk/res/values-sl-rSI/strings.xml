@@ -1881,7 +1881,6 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
   <string name="tty_mode_entries_off">TTY izklopljen</string>
   <string name="tty_mode_entries_vco">TTY VCO</string>
-  <string name="tty_mode_key">button_tty_mode_key</string>
   <string name="tty_mode_not_allowed_video_call">Sprememba načina TTY ni dovoljena med videoklicem</string>
   <string name="tty_mode_not_allowed_vt_call">Sprememba načina TTY ni dovoljena med VT klicem</string>
   <string name="tty_mode_option_summary">Nastavi TTY način</string>
@@ -1942,7 +1941,6 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="voicemail_settings_number_label">Številka govorne pošte</string>
   <string name="voicemail_settings_number_title">Številka govorne pošte</string>
   <string name="voicemail_settings_with_label">Govorna pošta (%s)</string>
-  <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Vizualno sporočilo v odzivniku</string>
   <string name="voip_setting">VOIP nastavitve</string>
   <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih in video klicev</string>
@@ -1971,7 +1969,6 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wifi_calling_preference_title">Nastavitev WiFi klica</string>
   <string name="wifi_calling_select_call_assistant">Izberite Asistenta klicev</string>
   <string name="wifi_calling_select_call_assistant_summary">Izberite aplikacijo ali uslugo za upravljanje z omrežji uporabljenimi za klice</string>
-  <string name="wifi_calling_settings_key">WiFi</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>

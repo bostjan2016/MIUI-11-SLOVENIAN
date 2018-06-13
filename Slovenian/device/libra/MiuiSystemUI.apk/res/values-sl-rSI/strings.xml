@@ -474,7 +474,6 @@ Uporabite priloženi polnilnik."</string>
   <string name="status_bar_network_flow_limit">"   Mesečna omejitev: %1$s  "</string>
   <string name="status_bar_network_flow_purchase">"   Kupljeno &gt;"</string>
   <string name="status_bar_network_flow_today">Danes: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">"Ni nedavnih aplikacij"</string>
   <string name="status_bar_notification_inspect_item_title">Podatki o aplikaciji</string>
   <string name="status_bar_recent_guide_all">"Povlecite navzgor za zapiranje

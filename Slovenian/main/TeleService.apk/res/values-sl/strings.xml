@@ -2201,7 +2201,6 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wifi_calling_preference_title">Nastavitev WiFi klica</string>
   <string name="wifi_calling_select_call_assistant">Izberite Asistenta klicev</string>
   <string name="wifi_calling_select_call_assistant_summary">Izberite aplikacijo ali uslugo za upravljanje z omrežji uporabljenimi za klice</string>
-  <string name="wifi_calling_settings_key">WiFi</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>
