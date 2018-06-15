@@ -5124,7 +5124,6 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_all_app_display_loading">Nalaganje…</string>
   <string name="status_bar_settings_app_notification_preferences">Nastavitve aplikacije</string>
   <string name="status_bar_settings_basic_settings">Osnovne nastavitve</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Uredi ime ponudnika storitev</string>
   <string name="status_bar_settings_custom_notification">Urejanje obvestil</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
