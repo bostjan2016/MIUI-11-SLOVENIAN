@@ -105,4 +105,24 @@
 	 <item quantity="other">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplikacije se že nekaj časa niso uporabljale. Poglej."&lt;/Data></item>
 	 <item quantity="one">&lt;Data>"&lt;font color=#ff0000 >%d&lt;/font> aplikacija se že nekaj časa ni uporabljala. Poglej."&lt;/Data></item>
       </plurals>		     
+     <plurals name="hour">
+        <item quantity="other">%1$d ur</item>
+        <item quantity="one">%1$d ura</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="second">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+     </plurals>	  
+	  <plurals name="clean_long_msg_p1">
+     <item quantity="other">"Čiščenje %1$d datotek (%2$d%%)\n"</item>
+        <item quantity="one">"Čiščenje %1$d datoteke (%2$d%%)\n"</item>
+     </plurals>
+     <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d stvari/sek. | Preostalo časa: %2$s</item>
+        <item quantity="one">%1$d stvar/sek. | Preostalo časa: %2$s</item>
+    </plurals>
 </resources>

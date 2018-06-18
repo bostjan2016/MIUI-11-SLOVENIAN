@@ -151,11 +151,21 @@ nastavitev in aplikacij"</string>
   <string name="feature_title_account">Račun</string>
   <string name="feature_title_antispam">Lista blokiranih</string>
   <string name="feature_title_call_log">Zgodovina klicev</string>
+  <string name="feature_title_contacts">Stiki</string>
   <string name="feature_title_mms">MMS</string>
+  <string name="feature_title_sms">Sporočila</string>
   <string name="file_uploading">Osveževanje…</string>
   <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videoposnetke, podatke aplikacij itd.)</string>
   <string name="findlost_contact">Obnovi stike</string>
   <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
+  <string name="flash_drive_backup_btn">Napravi var. kopijo v USB shrambo</string>
+  <string name="flash_drive_backup_note">"Napravi var. kopijo aplikacij v USB shrambo.
+Preverite mali ima USB naprava dovolj prostora."</string>
+  <string name="flash_drive_backup_restore">Var. kopije USB naprave</string>
+  <string name="flash_drive_connection_failed">USB naprava ni povezana</string>
+  <string name="flash_drive_restore_btn">Povrni var. kopijo iz USB naprave</string>
+  <string name="flash_drive_search_backup_files">"Iskanje var. kopije v USB napravi…
+Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu dela Gost."</string>
@@ -192,6 +202,8 @@ nastavitev in aplikacij"</string>
   <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
   <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje stikov iz vaših naprav.</string>
   <string name="import_tip_summary">Zaradi problemov z kompatibilnostjo lahko prenašate samo delne podatke iz iOS naprave. Napravite var. kopijo na iCloud pred začetkom prenosa.</string>
+  <string name="lack_perm_msg">Mi Mover potrebuje dovoljenja: &lt;b&gt;%s&lt;/b&gt;.</string>
+  <string name="lack_perm_title">Potrebno je dovoljenje</string>
   <string name="list_footer_tip_title">Nasveti:</string>
   <string name="loading_data">Nalaganje podatakov</string>
   <string name="local_app_name">Varnostno kopiraj</string>
@@ -258,14 +270,23 @@ nastavitev in aplikacij"</string>
   <string name="password_null">Polje Geslo ne sme biti prazno</string>
   <string name="pause">Premor</string>
   <string name="platform_chooser_item_android">Uvozi iz naprave Android</string>
+  <string name="perm_camera">Kamera</string>
+  <string name="perm_location">Lokacija</string>
+  <string name="perm_read_call_log">Branje zgodovine klicev</string>
+  <string name="perm_read_contacts">Branje stikov</string>
+  <string name="perm_read_phone_state">"Branje statusa telefona"</string>
+  <string name="perm_read_sms">Branje SMS-ov</string>
+  <string name="perm_storage">Branje in pisanje na zunanji pomnilnik</string>
+  <string name="platform_chooser_item_android_mi">Mi Telefon</string>
+  <string name="platform_chooser_item_android_others">Ostale znamke</string>
   <string name="platform_chooser_item_ios">Uvozi iz naprave Apple</string>
   <string name="platform_chooser_title">Izberite staro napravo</string>
   <string name="progress_backup_hint">Izdelava var. kopije…</string>
   <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
-  <string name="prompt_reading">Berem...</string>
-  <string name="prompt_sending">Prenašam...</string>
-  <string name="prompt_writing">Shranjujem...</string>
-  <string name="read_encrypt_fail">Šifrirane varnostne kopije ni mogoče prebrati</string>
+  <string name="prompt_reading">Berem…</string>
+  <string name="prompt_sending">Pošiljam…</string>
+  <string name="prompt_writing">Shranjujem…</string>
+  <string name="read_encrypt_fail">"Šifrirane varnostne kopije ni mogoče prebrati"</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="refresh">Osveži</string>
   <string name="remote_receive">Prejemanje</string>
@@ -329,6 +350,8 @@ nastavitev in aplikacij"</string>
   <string name="start_restore">Obnovi</string>
   <string name="state_mounting">Pristop prostoru za hrambo routerja…</string>
   <string name="state_waiting">Samo trenutek…</string>
+  <string name="storage_sd_card">SD kartica</string>
+  <string name="storage_usb">USB naprava</string>
   <string name="succ_description">Uspešno</string>
   <string name="succeed">Končano</string>
   <string name="summary_err_backup_encrypting">Prijavite se v vaš mi Račun.</string>
@@ -369,8 +392,9 @@ nastavitev in aplikacij"</string>
   <string name="trans_backingup_no_items">Sinhr. …</string>
   <string name="trans_button_cancel">Prekliči</string>
   <string name="trans_calculating">Izračunavanje…</string>
-  <string name="trans_calculating_app_sd_size">Izračun velikosti podatkov za pošiljanje, %s skenirano</string>
-  <string name="trans_calculating_base_size">"Izračun velikosti aplikacije"</string>
+  <string name="trans_calculating_app_sd_description">Podatki na SD kartici</string>
+  <string name="trans_calculating_media_description">Medijske datoteke</string>
+  <string name="trans_calculating_tip">Izračun %s…</string>  
   <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
   <string name="trans_cancelling">Nehaj</string>
   <string name="trans_connect_failed_device_incompatible">Naprava ni kompatibilna. Prekličite prenos in poskusite ponovno.</string>
@@ -412,18 +436,34 @@ nastavitev in aplikacij"</string>
   <string name="trans_generate_qr_code_failed">"Ne morem izdelati QR kode"</string>
   <string name="trans_generate_qrcode_failed">"Ne morem izdelati QR kode. Poskusite ponovno."</string>
   <string name="trans_generating_qrcode">Izdelava QR kode…</string>
+  <string name="trans_install_guide_button_start">Začni</string>
+  <string name="trans_install_guide_page_title">Namestite Mi Mover na svoj stari telefon</string>
+  <string name="trans_install_guide_scan_install_tip">"Skenirajte to QR kodo s svojim starim telefonom
+da prenesete in namestite Mi Mover."</string>
+  <string name="trans_install_guide_step1_content">Skenirajte QR kodo s svojim starim telefonom da prenesete in namestite \"Mi Mover\".</string>
+  <string name="trans_install_guide_step1_title">Korak 1</string>
+  <string name="trans_install_guide_step2_content">Po končani namestitvi, tapnite \"Začetek\".</string>
+  <string name="trans_install_guide_step2_title">Korak 2</string>
   <string name="trans_intro_desc_1">"Na Mi telefonu se povežite na WiFi. Tapnite \"Sem prejemnik\".Potem izberite "Apple naprava". Prijavite se v iCloud in uvozite podatke."</string>
   <string name="trans_intro_desc_3">Prekličite prenos, zaprite Mi Mover in začnite ponovno. Dvojne datoteke bodo prepisane med ponovnim prenosom.</string>
-  <string name="trans_intro_desc_4">"Mi Mover za prenos datotek uporablja WiFi. Zaradi tega se ne morete povezati v splet preko WiFi ja v času prenosa. Mobilne podatke pa lahko uporabljate. Nekatere novejše naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
+  <string name="trans_intro_desc_4">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke. Nekatere nove naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
+  <string name="trans_intro_desc_4_market">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke."</string>
   <string name="trans_intro_desc_5">Prostor za shranjevanje se na starih napravah uporablja za izdelavo paketov prenosa. Pred prenosom preverite ali imate na voljo najmanj 500 MB - 1 GB d prostora na svojem starem telefonu.</string>
   <string name="trans_intro_desc_6">Obstaja nekaj razlogov za to: težave s kompatibilnostjo sistema in aplikacij, težave z omrežjem, težave s kompatibilnostjo za določeno napravo, itd.</string>
   <string name="trans_intro_desc_7">Zaradi varnostnih razlogov, so nekateri profili aplikacij (e-bančništvo, finance itd.) povezani z določeno napravo. Poskusite zbrisati podatke aplikacije ali pa ponovno namestite aplikacijo na novo napravo.</string>
   <string name="trans_intro_desc_8">"Podatki WeChat aplikacije in zgodovina pogovorov se mogoče ne bodo v popolnosti prenesli s pomočjo programa Mi Mover. pojdite v nastavitve storitve WeChat in se odjaviteda bi imeli več možnosti za uspešen prenos."</string>
+  <string name="trans_intro_desc_9_method_1_dec">Pojdite na Začetni zaslon &gt; Orodja &gt; Povratna inf.</string>
+  <string name="trans_intro_desc_9_method_1_title">1. Delite nam povratne informacije s pomočjo aplikacije \"Povratne inf.\".</string>
+  <string name="trans_intro_desc_9_method_2_dec">Pošljite povratne informacije na miui-mover@xiaomi.com.</string>
+  <string name="trans_intro_desc_9_method_2_title">2. Pošljite nam e-mail</string>
+  <string name="trans_intro_desc_9_method_3_dec">"Mi Mover QQ skupina: 687338378"</string>
+  <string name="trans_intro_desc_9_method_3_title">3. Prijavite težave na QQ</string>
   <string name="trans_intro_desc_account">Zaradi varnostnih razlogov se morate ponovno prijaviti v svoje račune (npr. Mi Račun, Exchange, Google itd.) na novi napravi.</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenese podatke Dvojnih aplikacij da se izogne konfliktom med datotekami."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne more dostopati do nastavitev v Drugem prostoru. Prestavite nastavitve v Prvi prostor in tam zaženite Mi Mover."</string>
   <string name="trans_intro_desc_new">"Pritisnite \"Jaz sam prejemnik\". Generirala se bo QR koda."</string>
   <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
+  <string name="trans_intro_desc_old_market">Tapnite \"Začetek\". Skenirajte QR kodo na novem telefonu, počakajte da Mi Mover najde katere datoteke pošiljate in tapnite \"Pošlji\".</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
   <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatakov iz iOS naprave ?</string>
   <string name="trans_intro_question_2">%d. Kako uporabiti Mi Mover za premeščanje podatakov iz Android naprave?</string>
@@ -434,6 +474,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_intro_question_7">"%d. Zakaj se nekatere aplikacije ne zaženejo na novi napravi?"</string>
   <string name="trans_intro_question_8">"%d. Zakaj ni poslana celotna zgodovina WeChat?"</string>
   <string name="trans_intro_question_9">"%d. Katere nastavitve ni mogoče poslati?"</string>
+  <string name="trans_intro_question_9_market">%d. Povratne inf.</string>
   <string name="trans_intro_title">FAQ</string>
   <string name="trans_intro_title_account">Računi in gesla:</string>
   <string name="trans_intro_title_multiapp">Podatki Dvojnih aplikacij:</string>
@@ -443,11 +484,16 @@ nastavitev in aplikacij"</string>
   <string name="trans_intro_title_private">Skriti album:</string>
   <string name="trans_main_tutor">Premestite stike, zgodovino klicev, sporočila, začetni zaslon, aplikacije, nastavitve itd. na novo napravo</string>
   <string name="trans_my_device">Moja naprava</string>
-  <string name="trans_native_no_space">"V napravi ni dovolj prostora.
-  Izbrišite najmanj %s"</string>
+  <string name="trans_native_no_space">"V stari napravi ni dovolj prostora (%s na voljo).
+ Osvobodite prostor za shranjevanje ali prenesite samo važne stvari."</string>
   <string name="trans_old_phone_low_space_msg">"Mi Mover potebuje prostor za shranjevanje za pakiranje prenešenih podatakov, ki ga na stari napravi ni dovolj. Osvobodite prostor v \"Varnost\" ali prenesite samo važne stvari."</string>
   <string name="trans_old_phone_low_space_title">Ni dovolj prostora</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
+  <string name="trans_open_camera_failed_message">Ponovno zaženite napravo ali preverite če je Mi Mover-ju dovoljeno uporabiti &lt;b&gt;Kamero&lt;/b&gt;.</string>
+  <string name="trans_open_camera_failed_title">"Ne morem se povezati s kamero"</string>
+  <string name="trans_open_location_button">Vključi</string>
+  <string name="trans_open_location_message">Vključite storitve lokacije da dobite seznam dostopnih WiFi omrežij.</string>
+  <string name="trans_open_location_title">Vključi storitve lokacije</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
   <string name="trans_operate_new_phone_tips">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
@@ -460,6 +506,7 @@ nastavitev in aplikacij"</string>
     Dotaknite se [Sem pošiljatelj]"</string>
   <string name="trans_operate_reconnect_new_tips">"Počakajte da novi telefon pokaže "Povezava je prekinjena".\n  Nato pritisnite "Ponovno poveži" za izdelavo QR kode."</string>
   <string name="trans_operate_reconnect_old_tips">"Počakajte da stari telefon pokaže "Povezava je prekinjena".\n Nato pritisnite "Ponovno poveži" in skenirajte QR kodo."</string>
+  <string name="trans_operate_tip_for_other_android">Odprite Mi Mover na vašem starem telefonu, tapnite \"Začetek\" in skenirajte QR kodo.</string>
   <string name="trans_pausing">Premor…</string>
   <string name="trans_please_waiting">Samo trenutek…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
@@ -499,7 +546,7 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_sender_searching">Iskanje novih naprav</string>
   <string name="trans_sender_searching_ensurance">"Poskrbite da je druga naprava vključena.
     Čakanje povezovanja druge naprave…"</string>
-  <string name="trans_sender_time_remained">"%s preostalo.
+  <string name="trans_sender_time_remained">"%s ostalo.
     Ne izključite WiFi.
     Imejte obe napravi blizu skupaj."</string>
   <string name="trans_sending_completed">Uspešno poslano</string>
@@ -507,6 +554,9 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kodo z vašo staro napravo</string>
   <string name="trans_start_failed_message">"Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno."</string>
   <string name="trans_start_failed_title">"Pošiljanje ni uspelo"</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Ocenite Mi Mover</string>
+  <string name="trans_success_dialog_market_comment_title">"Vaša nova naprava uživa.
+Vam je všeč Mi Mover?"</string>
   <string name="trans_switching_5g">Menjava na 5GHz WiFi…</string>
   <string name="trans_time_format_second">Manj od 1 minute</string>
   <string name="trans_time_spent">"Porabljeni čas: %s"</string>
@@ -520,6 +570,16 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" stvari"</string>
   <string name="unknown_hint">Nepoznan</string>
+  <string name="usb_backup_select_data_too_large">"Izbrane datoteke so velike. Preverite ali ima USB naprava dovolj prostora.
+Prenesite samo važne stvari."</string>
+  <string name="usb_restore_select_data_too_large">"Datoteke var. kopije so velike. Trajalo bo nekaj časa.
+Prenos smo važnih stvari bo hitrejši."</string>
+  <string name="usb_trans_native_no_space">"Samo %s je na voljo.
+Osvobodite prostor ali napravite več manjših prenosov."</string>
+  <string name="usb_trans_old_phone_low_space_msg">"Za shranjevanje var. kopij je potreben dodatan prostor. Za nadaljevanje ni dovolj prostora. Oslobodite prostor in izbrišite nepotrebne datoteke v aplikaciji Varnost ali prenesite samo važne stvari."</string>
+  <string name="usb_trans_old_phone_low_space_title">Nema dovolj prostora</string>
+  <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
+Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="user_name">Apple ID ali E-pošta</string>
   <string name="user_name_null">Uporabniško ime ne sme biti prazno</string>
   <string name="user_notice_declaration_ignore">"Ne kaži več"</string>

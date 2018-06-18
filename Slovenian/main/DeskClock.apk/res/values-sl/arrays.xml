@@ -78,4 +78,13 @@
         <item>Peščeni vihar prihaja, nosite masko!</item>
         <item>Ugoden dan!</item>
     </string-array>
+    <string-array name="timer_duration">
+        <item>Skupaj %1$s</item>
+        <item>Skupaj %2$s</item>
+        <item>Skupaj %1$s%2$s</item>
+        <item>Skupaj %3$s</item>
+        <item>Skupaj %1$s%3$s</item>
+        <item>Skupaj %2$s%3$s</item>
+        <item>Skupaj %1$s%2$s%3$s</item>
+    </string-array>
 </resources> 

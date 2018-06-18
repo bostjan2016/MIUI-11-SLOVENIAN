@@ -88,6 +88,7 @@
   <string name="close_camera_requesting">Izklop kamere…</string>
   <string name="conference_call_description" formatted="false">%s,%s itd. skupaj %s</string>
   <string name="conference_call_number">%s ljudi</string>
+  <string name="conference_call_recorder_title">Konferenčni klic</string>
   <string name="conference_call_single_description" formatted="false">%s itd. skupaj %s</string>
   <string name="conference_caller_info_name">"%1$s konferenčni klic"</string>
   <string name="conference_caller_name_me">Jaz</string>

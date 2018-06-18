@@ -223,7 +223,6 @@
   <string name="dislike_video">"Nisem zainteresiran"</string>
   <string name="dlg_error_unmount_text">Ni bilo mogoče izvreči zunanjega pomnilnika.</string>
   <string name="download">Prenesi</string>
-  <string name="download_current_progress">%1$d%%</string>
   <string name="download_fail">"Ne morem prenesti"</string>
   <string name="download_failed">"Ne morem prenesti"</string>
   <string name="download_link_completed">Delil sem %1$s z uporabo KuaiPan. Tapni povezavo spodaj za ogled: </string>
@@ -326,6 +325,7 @@
   <string name="handsome_boy">Moški</string>
   <string name="has_installed">Nameščeno</string>
   <string name="homepage_tab_category">Kategorije</string>
+  <string name="homepage_tab_file_view">Pomnilnik</string>
   <string name="homepage_tab_file_view_phone">Pomnilnik</string>
   <string name="homepage_tab_recent">Nedavno</string>
   <string name="hot_app">Popularne aplik.</string>

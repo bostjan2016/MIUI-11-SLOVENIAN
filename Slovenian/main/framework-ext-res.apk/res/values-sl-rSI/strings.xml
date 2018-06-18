@@ -17,10 +17,10 @@
   <string name="auto_disable_screenbuttons_prompts_ok">V redu</string>
   <string name="auto_disable_screenbuttons_prompts_title">Samodejno onemogoči Navigacijske tipke</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tapnite ponovno za izhod</string>
-  <string name="autofill">Samod. izpolni</string>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
   <string name="auto_start_warning_title">Dovolim %s samod. zagon?</string>
+  <string name="autofill">Samod. izpolni</string>
   <string name="button_text_cancel">Prekliči</string>
   <string name="button_text_delete">Odstrani</string>
   <string name="button_text_delete_timer">Odstrani (%d)</string>
@@ -101,6 +101,7 @@
   <string name="reboot_progress">Ponovni zagon…</string>
   <string name="remain">Ostalo: %s</string>
   <string name="replace">Zamenjaj</string>
+  <string name="resolver_app_recommend_flag">Priporočeno</string>
   <string name="resource_select">Izberi</string>
   <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>
@@ -113,7 +114,7 @@
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
   <string name="screen_rotation_freeze_message">Samdejno vrtenje je onemogočeno.</string>
   <string name="screenshot_gesture_detect_alert_button">Vključi v Nastavitvah</string>
-  <string name="screenshot_gesture_detect_alert_dont_again">"Ne prikazuj ponovno"</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">"Ne kaži več"</string>
   <string name="screenshot_gesture_detect_alert_msg">Povleči navzdol s 3 prsti za izdelavo posnetka zaslona?</string>
   <string name="screenshot_gesture_detect_alert_title">Posnetek zaslona s 3 prsti</string>
   <string name="security_permission_denied_text">Dostop zavrnjen</string>
@@ -152,8 +153,8 @@
   <string name="status_bar_toggle_lock">Zakl.</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Tiho</string>
-  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_network_type">Omrežje</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Način branja</string>
   <string name="status_bar_toggle_power_mode">Zmogljivost</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>
@@ -171,6 +172,7 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WiFi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="super_resolution_maintain_tips">"Super ločljivost še ni na voljo."</string>
   <string name="switch_brand_desc_tv">Varnostne storitve ponuja Graphite</string>
   <string name="switch_desc_tv">Dva prostora. Ena naprava.</string>
   <string name="switching_tv">Sprememba…</string>
@@ -184,5 +186,7 @@
   <string name="twohours">1 ura</string>
   <string name="unknown_caller">Neznana številka</string>
   <string name="user_switching_dialog_text">Sprememba…</string>
+  <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>
   <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
 </resources>
