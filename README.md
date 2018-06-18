@@ -16,11 +16,11 @@ SLOVENIAN Translation For Xiaomi MIUI V10 Android Based OS
  
  • MIUI Adria Fansite
 
-  http://slovenia.miui.website/
+ http://miui.website/community/categories/miui-forum-slovenija.64/
    
  • Forum:
 
-   http://slovenia.miui.website/
+ http://miui.website/community/categories/miui-forum-slovenija.64/
   
  • Multilang MIUI Support
  
