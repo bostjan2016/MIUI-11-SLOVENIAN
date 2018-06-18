@@ -16,10 +16,12 @@
   <string name="app_name_which_call">Aplikacija: %s</string>
   <string name="app_version_which_call">Verzija aplikacije: %s</string>
   <string name="birthday">Rojstni dan</string>
+  <string name="cancel_description">Prekliči</string>
   <string name="check_phone_error_title">Sinhronizacija je izključena</string>
   <string name="check_phone_io_error">"Ne morem se povezati na omrežje".</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close">Zapri</string>
+  <string name="confirm_description">Potrdi</string>
   <string name="copyright">Avtorske pravice</string>
   <string name="date_picker_dialog_title">Nastavi datum</string>
   <string name="date_picker_label_day"/>
@@ -27,7 +29,9 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Končano</string>
   <string name="date_time_picker_dialog_title">Nastavi datum in čas</string>
+  <string name="delete_description">Izbriši</string>
   <string name="deselect_all">Prekliči izbrano</string>
+  <string name="deselect_all_description">Prekliči vse</string>
   <string name="early_morning">AM</string>
   <string name="email">E-pošta</string>
   <string name="eras_ad">AD</string>
@@ -167,6 +171,7 @@ pojdite na: %s."</string>
   <string name="search_input_description">Išči</string>
   <string name="search_mode_button_back_description">Nazaj</string>
   <string name="select_all">Izberi vse</string>
+  <string name="select_all_description">Izberi vse</string>
   <string name="select_item">Izberi stvari</string>
   <string name="send">Pošlji</string>
   <string name="send_sms_for_sync_notice">Odhodno SMS sporočilo bo morda potrebno za aktiviranje te storitve. Vaš mobilni operater vam to lahko računa.</string>

@@ -60,6 +60,9 @@
   
 in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="audio_focus_exit_button_text">Izključi</string>
+  <string name="back_bokeh_use_hint">"Pazite da objekt ne bo oddaljen več od 1.5 metra."</string>
+  <string name="beauty_fragment_tab_name_3d_beauty">Olepšanje</string>
+  <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
   <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
   <string name="bokeh_use_hint">Globinski efekt</string>
@@ -120,15 +123,22 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="dual_camera_lowlight_toast">Slaba osvetlitev lahko vpljiva na Dvojne efekte kamere.</string>
   <string name="dual_camera_too_close_toast">Preblizu za Dvojne efekte kamere.</string>
   <string name="dual_camera_use_hint">"Objekt ne bi smel biti dlje kot 2 metra."</string>
+  <string name="edit_chin">Brada</string>
   <string name="edit_eye_large">Velike oči</string>
   <string name="edit_face_ruddy">Rumeno</string>
   <string name="edit_face_slender">Vitko</string>
+  <string name="edit_lips">Ustnice</string>
+  <string name="edit_neck">Vrat</string>
+  <string name="edit_nose">Nos</string>
+  <string name="edit_risorius">Risorius</string>
   <string name="edit_skin_smooth">Smooth</string>
   <string name="edit_skin_white">Ton</string>
+  <string name="edit_slim_nose">Nos</string>
+  <string name="edit_smile">Nasmeh</string>
   <string name="effect_setting_top_text">Filtri</string>
-  <string name="error_fail_to_start_audio_capture">Ni bilo možno začeti avdio zajemanja</string>
+  <string name="error_fail_to_start_audio_capture">"Ni bilo možno začeti avdio zajemanja"</string>
   <string name="face_age_info">Starost: %d</string>
-  <string name="face_analyze_info">%1$s %2$s let</string>
+  <string name="face_analyze_info">Starost: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Ženska</string>
   <string name="face_analyze_info_male">Moški</string>
   <string name="face_beauty_advanced">Pro</string>
@@ -164,6 +174,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="hibernate_hint">Pritisnite zaslon da zbudite kamero</string>
   <string name="hine_hht">"Pri slabi svetlobi bo kamera posnela več fotografij
   nato pa izdelala fotografijo z minimalno količino šuma."</string>
+  <string name="hint_ae_af_lock">Samod. izostritev / Samod. ekspozicija je zaklenjena</string>
   <string name="hint_device_water_mark">Oznaka bo dodana na fotografijo samodejno.</string>
   <string name="hint_fast_motion">Videoposnetek ki ga snemate se bo predvajal hitreje.</string>
   <string name="hint_groupshot">"Kamera bo posnela več fotografij
@@ -174,6 +185,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="find_other_qrcode">Najdite QR kodo</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="install_confirmed">Namesti</string>
+  <string name="lens_dirty_detected_content">""Kaže da je leča vaše kamere umazana. Očistite jo."</string>
+  <string name="lens_dirty_detected_title_back">Leča zadnje kamere je umazana</string>
+  <string name="lens_dirty_detected_title_front">Leča sprednje kamere je umazana</string>
   <string name="message_snap_double_confirm">Trenutni dolg pritisk tipke za glasnost je NFC način, potrdim spremembo?</string>
   <string name="module_name_beauty">polepšaj</string> 
   <string name="module_name_capture">Fotografija</string>
@@ -198,6 +212,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pano_how_to_use_prompt_to_move">Začni počasi premikati</string>
   <string name="photos_portrait_type_description">Fotografije portreta imajo globinski efekt ki zadrži objekt v fokusu in zamegli ozadje.</string>
   <string name="photos_portrait_type_name">Portret</string>
+  <string name="popup_tip_3d_beauty_intro_text">3D olepšanje</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cool">Mint</string>
   <string name="portait_effect_entry_fairytale">Otroštvo</string>

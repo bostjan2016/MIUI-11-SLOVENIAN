@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="announce_for_unread">
+        <item quantity="other">Neprebrano %2$s od %1$s</item>
+     </plurals>
     <plurals name="editing_mode_title">
         <item quantity="other">Izbrano: %1$d</item>
         <item quantity="zero">Izbrano: %1$d</item>
