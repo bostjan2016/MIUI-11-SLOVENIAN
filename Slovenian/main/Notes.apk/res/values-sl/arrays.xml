@@ -1,5 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="first_guide_contents">
+        <item>Dobro došli v beležke!</item>
+        <item>Napravite beležko</item>
+        <item>Uporabljate lahko tekst, slike in posnetke glasu. Bogata knjižnica stilov in pisav vam bo pomagala</item>
+        <item>Opomniki vam lahko pomagajo pri planiranju vašega naslednjega potovanja ali sestavljanju seznama nakupov.</item>
+        <item>Delite beležke</item>
+        <item>Posnetke zaslona lahko generirate v beležkah samodejno, nato jih delite z prijatelji.</item>
+        <item>Napravi &amp; zamenjaj mape</item>
+        <item>Pritisnite puščico spodaj da boste naredili novo mapo ali premikali med obstoječimi.</item>
+     </string-array>
+	 <string-array name="second_guide_contents">
+        <item>Glasovne beležke</item>
+        <item>Napravite beležke s pomočjo tekst-v-govor orodja.</item>
+     </string-array>
     <string-array name="folder_operations">
         <item>Preimenuj</item>
         <item>Izbriši</item>

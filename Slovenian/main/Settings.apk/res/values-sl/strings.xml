@@ -985,6 +985,7 @@ Hitrost vzorčenja"</string>
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je odklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -3041,6 +3042,9 @@ Na tej napravi je več uporabnikov.
   <string name="miui_disturb_title">Ne moti</string>
   <string name="miui_enable_service_title">Storitev bo opravljala:</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
+  <string name="miui_lab_ai_cloud_closed">"AI pred-branje še ni dostopno."</string>
+  <string name="miui_lab_ai_preload_desc">AI pred-branje povečuje hirost zagona aplikacije</string>
+  <string name="miui_lab_ai_preload_title">AI pred-branje</string>
   <string name="miui_lab_drive_mode_desc">Uporabite glasovne kontrole &amp; poslušajte WeChat sporočila</string>
   <string name="miui_lab_drive_mode_title">Način Avto</string>
   <string name="miui_lab_feature_applied">Nastavljeno</string>

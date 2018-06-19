@@ -422,4 +422,12 @@
          <item quantity="other">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo, da preprečite probleme hitrosti omrežja.</item>
          <item quantity="one">%d d ostalo pred koncem seje povečanja hitrosti omrežja. Obnovite sejo, da preprečite probleme hitrosti omrežja.</item>
      </plurals>
+	 <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+     </plurals>
+     <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+     </plurals>
 </resources>

@@ -2,8 +2,8 @@
 <resources>
   <string name="Call_ADRESS">Lokalni seznam blokiranih</string>
   <string name="Call_BLACKLIST">Seznam blokiranih klicev</string>
-  <string name="Calnetwork_blocked_switch_wifiEFIX">Seznam blokiranih predštevilk</string>
   <string name="Call_PRIVATE_CALL">Zasebni klici</string>
+  <string name="Calnetwork_blocked_switch_wifiEFIX">Seznam blokiranih predštevilk</string>
   <string name="MALICIOUS_URL">Zlonameren URL</string>
   <string name="PAST_BLOCK">predhodno blokirano</string>
   <string name="Phonepass">Dovoli klice</string>
@@ -220,7 +220,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_defaults_setting">Privzete aplikacije</string>
   <string name="app_manager_details_electric_title">Baterija</string>
   <string name="app_manager_details_storage_title">Prostor za shranjevanje</string>
-  <string name="app_manager_details_traffic_title">Uporaba mobilnih podatkov ta mesec</string>
+  <string name="app_manager_details_title">Informacije o aplikaciji</string>
+  <string name="app_manager_details_traffic_title">Uporaba podatkov</string>
   <string name="app_manager_disable">"Ne dovoli"</string>
   <string name="app_manager_disable_dlg_text">Če onemogočite to aplikacijo druge aplikacije morda ne bodo delale normalno.</string>
   <string name="app_manager_disable_dlg_title">Onemogočim aplikacijo sistema?</string>
@@ -590,8 +591,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="buy_immediately">Kupi</string>
   <string name="buy_traffic_pack">Kupite več prenosa podatkov</string>
   <string name="byteShort">B</string>
-  <string name="call_address">Seznam blokiranih predštevilk</string>
   <string name="cache_header_title">Očisti %1$d datotek v predpomnilniku za sprostitev %2$s</string>
+  <string name="call_address">Seznam blokiranih predštevilk</string>
   <string name="call_and_contact">Klici in stiki</string>
   <string name="call_blacklist">Seznam blokiranih klicev</string>
   <string name="call_cloud_block">Cloud prestrezanje</string>
@@ -868,15 +869,15 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_remove_whitelist">Odstranim te številke iz izjem?</string>
   <string name="dlg_remove_whitelist_ing">Odstranjevanje…</string>
   <string name="dlg_remove_whitelist_title">Odstrani</string>
-  <string name="dlg_sec_network_unavailable">"Aplikacija varnost se ne more pododobiti ker ste ji omejili spletno povezavo. Dovolim aplikaciji varnost da se poveže na splet?"</string>
   <string name="dlg_retore">Vrnem SMS sporočila v aplikacijo?</string>
+  <string name="dlg_retore_ok">Vrni</string>
+  <string name="dlg_sec_network_unavailable">"Aplikacija varnost se ne more pododobiti ker ste ji omejili spletno povezavo. Dovolim aplikaciji varnost da se poveže na splet?"</string>
+  <string name="dlg_title_not_open_stranger_identify">ID klicatelja</string>
   <string name="dlg_update_btn_contiue">Nadaljuj</string>
   <string name="dlg_update_btn_open">Dovoli</string>
   <string name="dlg_update_data_content">"Niste povezani na WiFi. Uporaba mobilnih podatkov lahko povzroči dodatne stroške. Vseeno nadaljujem?"</string>
   <string name="dlg_update_date_title">Opozorilo</string>
   <string name="dlg_update_updating">Posodobljanje…</string>
-  <string name="dlg_retore_ok">Vrni</string>
-  <string name="dlg_title_not_open_stranger_identify">Prepoznaj strani</string>
   <string name="dlg_white_address_antispam_message">Dodam to lokacijo v izjeme?</string>
   <string name="dlg_white_antispam_hint">Izjeme</string>
   <string name="dlg_white_antispam_message">Dodam to sporočilo v izjeme?</string>
@@ -1018,6 +1019,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gamebooster_main_activity_back">Nazaj</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
+  <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
+  <string name="gamebox_wechat_not_find">Namestite WeChat in poskusite ponovno.</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
@@ -1025,7 +1028,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
-  <string name="gb_new_feature">Nova funkcija</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -1033,7 +1035,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
-  <string name="gdpr_msg">&lt;Data&gt;"Za uporabo osnovnih funkcij aplikacije Varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke vključno informacije o načinu uporabe funkcij aplikacije Varnost (npr. statistične podatke uporabe mobilnih podatkov, podatke o zlonamernih programih in osnovne informacije o vaši napravi) in druge vrste informacij navedenih v naših &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="gb_new_feature">Nova funkcija</string>
+  <string name="gdpr_msg">"Za uporabo aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke."</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Vključite to funkcijo če imate težave u uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
@@ -1060,6 +1063,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gs_game_net_priority_detail">Omejite hitrost prenosov da boste imeli dovolj prepustnosti za igranje</string>
   <string name="gs_game_performance">Zmogljivost</string>
   <string name="gs_game_shortcut">Izboljšajte izkušnje igranja</string>
+  <string name="gs_gamebox">Bližnjice znotraj igre</string>
+  <string name="gs_gamebox_detail">Pokaži bližnjico znotraj igre</string>
   <string name="gs_only_self_start_for_list">Omejite procese v ozadju za prihranek baterije za igranje</string>
   <string name="gs_open_game_booster">Pohitritev</string>
   <string name="gs_performance_mode">Način za zmogljivost</string>
@@ -1404,8 +1409,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_mark">Prijavi številko</string>
   <string name="menu_remove">Izbriši</string>
   <string name="menu_report">Prijavi napako</string>
-  <string name="menu_setting_traffic">Nastavi ročno</string>
   <string name="menu_restore">Vrni v prejeto</string>
+  <string name="menu_setting_traffic">Nastavi ročno</string>
   <string name="menu_sms">Pošlji SMS</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Varnost</string>
@@ -1429,7 +1434,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
-  <string name="mian_page_primary_txt">Gostovanje</string>
+  <string name="mian_page_primary_txt">Mednarodno gostovanje</string>
+  <string name="midrop_post_notification_contentText">"Poskusite Mi Drop. Hiter je in brez oglasov."</string>
+  <string name="midrop_post_notification_contentTitle">Morate prenesti datoteke?</string>
   <string name="mixed_need_to_confirm">Vnesite ponovno za potrditev</string>
   <string name="mixed_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
   <string name="mixed_password_confirmed_header_continue">Uspešno nastavljeno. Pritisnite \"Naprej\".</string>
@@ -1754,8 +1761,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
   <string name="power_analysis_consume_title">Poraba baterije</string>
-  <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
   <string name="power_analysis_suggestion_need_optimize">Najdene težave pri uporabi baterije.</string>
+  <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
@@ -2211,6 +2218,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="scanning_bar_system_text">Dovoljenje aplikacij</string>
   <string name="scanning_bar_system_title">Preverjam sistem...</string>
   <string name="score_pts">%</string>
+  <string name="screenrecord_not_find">Namestite najnovejšo verzijo snemalca zaslona in poskusite ponovno.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne najdem nobene aplikacije"</string>
   <string name="section_clear_acc_item_title">"%s. Če še vedno ni dovolj prostega prostora za shranjevanje poskusite uporabiti Čistilec."</string>

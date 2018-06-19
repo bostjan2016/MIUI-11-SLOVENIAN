@@ -408,6 +408,9 @@
   <string name="no_subject_view">(Ni predmeta)</string>
   <string name="non_english_subject_limit">Največ 13 znakov za neangleški predmet</string>
   <string name="nosend_message">Ne pošlji</string>
+  <string name="notification_channel_description">Obvestila iz sporočil</string>
+  <string name="notification_channel_name">Sporočila</string>
+  <string name="notification_copy">Kopiraj OTP</string>
   <string name="notification_failed_multiple">%s sporočil ni bilo možno poslati</string>
   <string name="notification_failed_multiple_title">Sporočila niso poslana</string>
   <string name="notification_multiple">[%s]</string>
@@ -707,10 +710,11 @@
   <string name="to_count">%d prejemnikov</string>
   <string name="to_label">Za</string>
   <string name="to_send_wrapper">Poslano bo ob %s</string>
+  <string name="toast_pending_hangup_msg">Sporočilo bo poslano po koncu klica</string>
   <string name="today">Danes</string>
-  <string name="too_many_attachments">Omejitev je %1$s prilog. Samo prvih %2$s bo dodano.</string>
+  <string name="too_many_attachments">"Omejitev je %1$s prilog. Samo prvih %2$s bo dodano."</string>
   <string name="too_many_recipients">Sporočilo ima preveč prejemnikov (%1$s). Ne morete imeti več kot %2$s prejemnikov.</string>
-  <string name="too_many_unsent_mms">Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil.</string>
+  <string name="too_many_unsent_mms">"Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil."</string>
   <string name="try_to_send">Poskusi poslati</string>
   <string name="type_attachment">priponka</string>
   <string name="type_audio">avdio</string>
@@ -738,9 +742,10 @@
   <string name="url_fraud_visit">&lt;u&gt;Vseeno obišči&lt;/u&gt;</string>
   <string name="url_result_safe">Ta povezava je varna</string>
   <string name="url_scanning">Preverjanje povezave…</string>
+  <string name="url_scan_again">Preveri ponovno</string>
   <string name="user_agreement1">Previdno preberite veljavne pogoje preden naložite dodatno programsko opremo ali pa uporabite ta izdelek.</string>
   <string name="user_agreement2">Pogoji uporabe</string>
-  <string name="user_agreement3">in</string>
+  <string name="user_agreement3">" in "</string>
   <string name="user_agreement4">Pravilnik o zasebnosti</string>
   <string name="user_agreement5">Z dotikom V redu se strinjate s Pogoji uporabe in Pravilnikom o zasebnosti.</string>
   <string name="verification_code_icon_name">V</string>
