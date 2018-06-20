@@ -951,8 +951,8 @@ hitrost vzorčenja"</string>
   <string name="force_rtl_layout_all_locales_summary">Vsili smer z desne v levo za vse države/jezike</string>
   <string name="fw_change_failed">"Ni bilo možno spremeniti posredovane številke.
   Kontaktirajte vašega operaterja če se bodo problemi ponavljali."</string>
-  <string name="fw_get_in_vm_failed"">Ni bilo možno priklicati in shraniti trenutne nastavitve posredovanih klicev.
-    Kljub temu preklopim na novega ponudnika?"</string>
+  <string name="fw_get_in_vm_failed">"Ni bilo možno priklicati in shraniti trenutne nastavitve posredovanih klicev.
+Kljub temu preklopim na novega ponudnika?"</string>
   <string name="general_news_settings">Splošne novice</string>
   <string name="general_remove">Odstrani</string>
   <string name="general_setting">Nastavitve</string>
