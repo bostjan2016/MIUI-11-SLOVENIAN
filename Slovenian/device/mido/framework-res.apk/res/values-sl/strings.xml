@@ -473,7 +473,6 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_reordering_delete_drop_target_text">Odstrani</string>
   <string name="kg_sim_pin_instructions">Vnesite PIN za kartico SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
-  <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
