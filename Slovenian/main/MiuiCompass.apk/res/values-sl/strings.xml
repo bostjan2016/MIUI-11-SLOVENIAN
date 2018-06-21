@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="allow">Dovoli</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_title">Nadmorska višina</string>
   <string name="altitude_uncalibrate_cancel">Prekliči</string>
@@ -18,6 +19,7 @@
   <string name="calibrate_success">Kalibrirano</string>
   <string name="calibrate_tip">Nagibajte napravo da ulovite piko v krog</string>
   <string name="calibrate_title">Kalibriranje kompasa</string>
+  <string name="cancel">Prekliči</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_body_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="dialog_calibrat_altitude">Kalibriranje...</string>
@@ -51,6 +53,8 @@
   <string name="menu_calibrate">Kalibriraj kompas</string>
   <string name="mobiledata_alert_dialog_message">Povežem s spletom za umerjanje nadmorske višine?</string>
   <string name="mobiledata_alert_dialog_title">Opozorilo uporabe podatkov</string>
+  <string name="open_perm_msg">Kompas potrebuje dostop do lokacije in kamere. To je potrebno za določanje koordinat in ponujanja pregleda v živo. Dovolim?</string>
+  <string name="open_perm_title">Potrebno je dovoljenje</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pritisk</string>
   <string name="pressure_unit">hPa</string>

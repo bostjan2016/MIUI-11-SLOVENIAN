@@ -97,6 +97,7 @@
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sistem</string>
+  <string name="default_folder_title_services">Storitve</string>
   <string name="default_folder_title_tools">Orodja</string>
   <string name="default_screen_preview_title">Tapni za nastavitev začetnega zaslona</string>
   <string name="delete">Izbriši</string>
@@ -242,6 +243,7 @@
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
   <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitve. Izključim?"</string>
+  <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati zakl. aplikacij (delnice, bližnice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
   <string name="open_personal_assistant_dialog_title">Izključi zakl. aplikacij</string>
   <string name="open_personal_assistant_title">Vključi zakl. aplikacij</string>
   <string name="out_of_space">Ni več prostora na tem zaslonu</string>

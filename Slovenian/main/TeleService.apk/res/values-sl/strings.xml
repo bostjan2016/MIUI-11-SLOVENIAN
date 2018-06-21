@@ -595,6 +595,8 @@ hitrost vzorčenja"</string>
   <string name="close_profile">Izklopi</string>
   <string name="close_volte">Izključi VoLTE</string>
   <string name="cloud_antispam_title">Prepoznaj neznane številke</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">"Ne morete izključiti Dual 4G ko uporabljate Mi gostovanje"</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">"Ne morem zamenjati nastavitve omrežja ko uporabljate Mi gostovanje"</string>
   <string name="cmcc_ut_data_enable_prompt">"Ne morem se povezati s pomočjo VoLTE omrežja. Vključite mobilne podatke."</string>
   <string name="command_error_fdn_failure">Najprej izklopite FDN</string>
   <string name="common_problem_message">Preberite več v %1$s ali pokličite našo službo za uporabnike na 400-100-5678</string>
@@ -658,11 +660,14 @@ hitrost vzorčenja"</string>
   <string name="daltonizer_type_overridden">Premoščeno z nastavitvijo %1$s</string>
   <string name="data_enable_summary">Dovoli uporabo podatkov</string>
   <string name="data_enabled">Podatki omogočeni</string>
+  <string name="data_plan">Plan mob. podatakov</string>
   <string name="data_usage_disable_mobile">Želite izključiti mobilne podatke?</string>
   <string name="data_usage_template">Porabljeno je %1$s mobilnih podatkov v obdobju: %2$s</string>
   <string name="data_usage_title">Poraba podatkov</string>
   <string name="data_usage_uninstalled_apps">Odstranjene aplikacije</string>
   <string name="data_usage_uninstalled_apps_users">Odstranjene aplikacije in uporabniki</string>
+  <string name="dc_alert_dialog_message">Nekatere aplikacije zahtevajo mobilno podatkovno povezavo. Obrnite se na operaterja da izveste koliko vam je na voljo %s.</string> 
+  <string name="dc_alert_dialog_title">Upozorenje uporabe podataka</string>
   <string name="deactivate_all">Prekini vse</string>
   <string name="debug_app">Aplikacija za odstranjevanje napak</string>
   <string name="debug_app_not_set">Ni aplikacije za odstranjevanje napak</string>
@@ -804,6 +809,7 @@ hitrost vzorčenja"</string>
   <string name="disconnect_data_confirm">Podatkovni podatki bodo začasno izključeni. Ste prepričani?</string>
   <string name="display_name_summary">Enako kot uporabniško ime&gt;</string>
   <string name="display_name_title">Ime za prikaz</string>
+  <string name="do_not_show_again">"Ne kaži več"</string>
   <string name="do_not_ask">"Ne sprašuj več"</string>
   <string name="domain_address_title">Strežnik</string>
   <string name="domestic_calls">Samo domači</string>

@@ -1020,6 +1020,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
+  <string name="gamebox_type_close">"Ne kaži"</string>
+  <string name="gamebox_type_float">Popravljena bližnjica</string>
+  <string name="gamebox_type_gesture">Podrsaj za prikaz</string>
   <string name="gamebox_wechat_not_find">Namestite WeChat in poskusite ponovno.</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>

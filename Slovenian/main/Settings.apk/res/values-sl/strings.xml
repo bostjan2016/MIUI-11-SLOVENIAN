@@ -985,6 +985,7 @@ Hitrost vzorčenja"</string>
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je odklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -1059,6 +1060,7 @@ Hitrost vzorčenja"</string>
   <string name="cancel_alert">Prekličem spremembe?</string>
   <string name="cancel_all_caps">PREKLIČI</string>
   <string name="cancel_button">Prekliči</string>
+  <string name="cancel_description">Prekliči</string>
   <string name="cancel_download_buton_text">Prekliči</string>
   <string name="cant_sync_dialog_message">Sinhronizacija za ta element je trenutno onemogočena. Če želite spremeniti nastavitev vklopite podatke v ozadju in samodejno sinhronizacijo.</string>
   <string name="cant_sync_dialog_title">Ročna sinhronizacija ni mogoča</string>
@@ -1219,6 +1221,7 @@ Hitrost vzorčenja"</string>
   <string name="confirm_action">V redu</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodaj</string>
   <string name="confirm_convert_to_fbe_warning">Ali želite res izbrisati uporabniške podatke in preklopiti na šifriranje podatkov?</string>
+  <string name="confirm_description">Potrdi</string>
   <string name="confirm_download_cancelation_dialog_message">Prekličem nalaganje?</string>
   <string name="confirm_enable_multi_window_text">OPOZORILO: To je poskusna funkcija ki prek uporabniškega vmesnika nedavnih aplikacij omogoča hkratno izvajanje več dejavnosti na zaslonu. Nekatere aplikacije se lahko pri uporabi te funkcije zrušijo ali pa ne bodo delovale pravilno.</string>
   <string name="confirm_enable_multi_window_title">Ali želite omogočiti način z več okni?</string>
@@ -2008,6 +2011,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="failed_to_open_app_settings_toast">"Ni mogoče odpreti nastavitev za %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Ne morem izključiti Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne morem izključiti Najdi napravo"</string>
+  <string name="fallback_home_title">Samo trenutek…</string>
   <string name="fcc_equipment_id">ID opreme</string>
   <string name="file_privacy_password_role_instruction">Vaše zasebne datoteke bodo shranjene tukaj.</string>
   <string name="filter">Filter</string>
@@ -2440,6 +2444,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="key_combination_power_back">Tipka Power + Nazaj</string>
   <string name="key_combination_power_home">Tipka Power + Domov</string>
   <string name="key_combination_power_menu">Tipka Power + Meni</string>
+  <string name="key_fsg_dialog_message">"Uporabi kretnje na celem zaslonu za navigacijo. Lastnosti povezane z tipkami zdaj niso na voljo. Zamenjam na tipke?"</string>
+  <string name="key_fsg_dialog_negative">Prekliči</string>
+  <string name="key_fsg_dialog_positive">Zamenjaj</string>
   <string name="key_gesture_function_dialog_message">%1$s je bližnjica za %2$s. Zamenjam z %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Prekini</string>
   <string name="key_gesture_function_dialog_positive">Zamenjaj</string>
