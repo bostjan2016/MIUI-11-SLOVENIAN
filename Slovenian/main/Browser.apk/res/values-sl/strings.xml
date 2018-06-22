@@ -243,8 +243,8 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="data_traffic_prompt_change">Uporaba podatkovne povezave za gledanje videov bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
   <string name="data_traffic_continue">Nadalju</string>
   <string name="data_traffic_goto">Brezplačni promet podatkov</string>
-  <string name="data_traffic_prompt_message">Uporaba podatkovne povezave za iskanje po spletu bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
-  <string name="data_traffic_prompt_message_short">Uporaba mobilnih podatkov za stream videoposnetkov lahko povzroči prekoračitev mesečne omejitve.</string>
+  <string name="data_traffic_prompt_free_data">Uporaba mobilnih podatkov za stream videoposnetkov lahko povzroči prekoračitev mesečne omejitve podatkov.</string>
+  <string name="data_traffic_prompt_message">Uporaba mobilnih podatkov za gledanje videoposnetkov lahko povzroči prekoračitev mesečne omejitve podatkov. Operater vam to lahko računa</string>
   <string name="data_traffic_prompt_title">Opozorilo porabe podatkov</string>
   <string name="data_traffic_stop">Stop</string>
   <string name="data_traffic_prompt_message_short">Uporaba mobilnih podatkov za stream videoposnetkov lahko povzroči prekoračitev mesečne omejitve podatkov.</string>
@@ -256,8 +256,8 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Izbriši</string>
   <string name="delete_bookmark_action_warning">Izbrišem zaznamke?</string>
-  <string name="delete_bookmark_group_warning">Odstranim %s? Vsi zaznamki v tej skupini bodo izbrisani.</string>
-  <string name="delete_bookmark_warning">Odstranim zaznamek %s?</string>
+  <string name="delete_bookmark_group_warning">Izbrišem \"%s\"? Vsi zaznamki v tej skupini bodo izbrisani.</string>
+  <string name="delete_bookmark_warning">Izbrišem \"%s\"?</string>
   <string name="delete_download">Izbriši</string>
   <string name="dialog_cannot_resume">Prenos je prekinjen</string>
   <string name="dialog_confirm_delete_checkbox_message">Izbrišite datoteko v notranjem pomnilniku</string>
@@ -351,7 +351,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="exit_fullscreen">Izhod iz celega zaslona</string>
   <string name="favorite">Dodaj v priljubljene</string>
   <string name="file_dir">Spremeni mapo</string>
-  <string name="file_name">"Ime:."</string>
+  <string name="file_name">"Ime: "</string>
   <string name="file_picker">Izberi pot</string>
   <string name="filename_empty_alert_message">"Vpiši ime datoteke"</string>
   <string name="filename_illegal_alert_message">Napačen znak je bil odstranjen iz imena datoteke</string>
@@ -430,8 +430,8 @@ Zapustim to stran?"</string>
   <string name="login_failed_toast">Ne morem se prijaviti, osvežite.</string>
   <string name="low_memory_error">Ni dovolj pomnilnika za to opravilo</string>
   <string name="low_memory_toast">"Ne morem uporabiti brskalnika zaradi premalo spomina"</string>
-  <string name="max_tabs_warning">Ne morem odpreti več zavihkov</string>
-  <string name="maximum_input_alert">Maksimalni vnos je 2048 znakov</string>
+  <string name="max_tabs_warning">"Ne morem odpreti več zavihkov"</string>
+  <string name="maximum_input_alert">"Maksimalni vnos je 2048 znakov"</string>
   <string name="media_error_action_refresh">Osveži</string>
   <string name="media_error_action_replace_video_source">"Ne morem zamenjati vira"</string>
   <string name="media_error_failure">"Ne morem predvajati videoposnetka"</string>
@@ -480,13 +480,13 @@ Zapustim to stran?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Izklopi Na letalu za povezavo</string>
   <string name="miuichromium_error_page_btn_close">Zapri</string>
   <string name="miuichromium_error_page_btn_refresh">Osveži</string>
-  <string name="miuichromium_error_page_btn_report_issue">Prijavite problem</string>
+  <string name="miuichromium_error_page_btn_report_issue">Prijavite težavo</string>
   <string name="miuichromium_error_page_description_no_connection" formatted="false">"Ne morem se povezati na omrežje zaradi slabega signala ali napačne nastavitve omrežja.
 Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="miuichromium_error_page_diagnose">Omrežna diagnostika</string>
   <string name="miuichromium_error_page_diagnose_banner">Omrežna diagnostika</string>
-  <string name="miuichromium_error_page_diagnose_certificate">Ne morem potrditi omrežja</string>
-  <string name="miuichromium_error_page_diagnose_connection">Ne morem se povezati na omrežje</string>
+  <string name="miuichromium_error_page_diagnose_certificate">"Ne morem potrditi omrežja"</string>
+  <string name="miuichromium_error_page_diagnose_connection">"Ne morem se povezati na omrežje"</string>
   <string name="miuichromium_error_page_diagnose_dns">Napačna povezava</string>
   <string name="miuichromium_error_page_diagnose_protocol">Napaka omrežja</string>
   <string name="miuichromium_error_page_diagnose_proxy_server">Napaka Proxy strežnika</string>
@@ -577,7 +577,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Ponovno naloži po odobritvi dostopa do spleta Brskalniku</string>
   <string name="miuichromium_error_page_suggestion_title">. Poskusite:</string>
   <string name="miuichromium_error_page_title">Zgodila se je napaka</string>
-  <string name="miuichromium_error_page_unknown_error">Ups! Nekaj je narobe....</string>
+  <string name="miuichromium_error_page_unknown_error">Ups! Nekaj je narobe</string>
   <string name="miuichromium_error_page_wlan">Vključite WiFi</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
@@ -727,7 +727,7 @@ Zapustim to stran?"</string>
   <string name="mw_media_player_error_button">V redu</string>
   <string name="mw_media_player_error_text_invalid_progressive_playback">Videoposnetek ni v redu.</string>
   <string name="mw_media_player_error_text_unknown">Ne morem predvajati videoposnetka.</string>
-  <string name="mw_media_player_error_title"Ne morem predvajati videoposnetka</string>
+  <string name="mw_media_player_error_title">Ne morem predvajati videoposnetka</string>
   <string name="mw_media_player_loading_video">Nalaganje videa</string>
   <string name="mw_miui_content_copy">Kopiraj</string>
   <string name="mw_miui_content_cut">Obreži</string>
@@ -743,7 +743,7 @@ Zapustim to stran?"</string>
   <string name="mw_miuichromium_error_page_airplane_mode_on">Izključite letalski način za povezovanje</string>
   <string name="mw_miuichromium_error_page_btn_close">Zapri</string>
   <string name="mw_miuichromium_error_page_btn_refresh">Osveži</string>
-  <string name="mw_miuichromium_error_page_btn_report_issue">Prijavite problem</string>
+  <string name="mw_miuichromium_error_page_btn_report_issue">Prijavite težavo</string>
   <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Ne morem se povezati na omrežje zaradi slabega signala ali napačne nastavitve omrežja.
 Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_miuichromium_error_page_diagnose">Diagnostika omrežja</string>
@@ -763,66 +763,66 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_miuichromium_error_page_network_off">Vključite WiFi ali mobilne podatke</string>
   <string name="mw_miuichromium_error_page_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="mw_miuichromium_error_page_problem_access_denied">Dostop na %s0 je zavrnjen</string>
-  <string name="mw_miuichromium_error_page_problem_cache_miss">Ova se stranica ne može učitati iz predmemorije</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page">"Stranica se ne može otvoriti"</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"Stranica se ne može otvoriti. Pristup je blokiran od strane %s0."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"Stranica se ne može otvoriti. %s0 je prekino vezu."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"Stranica se ne može otvoriti. %s0 odbija povezivanje."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"Stranica se ne može otvoriti. Veza je prekinuta."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"Stranica se ne može zato što URL nije valjan."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">"Stranica se ne može otvoriti. %s0 trenutno nije dostupan."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"Stranica se ne može otvoriti. %s0 vas preusmjerava na nesiguran način."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">"Nije moguće doći do stranice. Ova stranica na intranetu ima isti URL kao i vanjska web stranica."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">"Nije moguće doći do stranice. Ne mogu pronaći DNS adresu za %s0."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">"Nije moguće doći do stranice. IP adresa ili broj porta nije važeći."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">"Nije moguće doći do stranice. %s0 predugo ne reagira."</string>
-  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"Nije moguće doći do stranice. %s0 koristi nesiguran broj porta."</string>
-  <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Povezivanje je prekinuto kad je uređaj otišao u stanje mirovanja.</string>
-  <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Veza je prekinuta zbog promjene mreže.</string>
-  <string name="mw_miuichromium_error_page_problem_file_not_found">"Ne mogu pronaći datoteku"</string>
-  <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Ne mogu pronaći datoteku. It might have been moved or deleted."</string>
-  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Ne mogu čitati datoteku. Dopuštenja za datoteke možda spriječavaju pristup."</string>
-  <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 je trebalo predugo za odgovor</string>
-  <string name="mw_miuichromium_error_page_problem_network_access_denied">Mrežni pristup je ograničen</string>
-  <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Povezivanje s internetom nije uspjelo. Nešto nije u redu s proxy poslužiteljem ili je proxy adresa netočna."</string>
-  <string name="mw_miuichromium_error_page_problem_page_moved">Ova stranica na %s0 možda je premještena ili izbrisana</string>
-  <string name="mw_miuichromium_error_page_problem_page_not_found">"Ne mogu pronaći tu stranicu na %s0"</string>
-  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">"Ova stranica ne radi. %s0 je prekinuo povezivanje."</string>
-  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">"Ova stranica ne radi zato što %s0 nije poslao nikakve podatke."</string>
-  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_invalid_response">"Ova stranica ne radi zato što je %s0 poslao nevažeći odgovor."</string>
-  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"Ova stranica ne radi zato što vas je %s0 preusmjerio previše puta."</string>
-  <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">"Ova web lokacija ne može pružiti sigurnu vezu zato što %s0 nije prihvatio vaš certifikat."</string>
-  <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Ova web lokacija ne može pružiti sigurnu vezu zato što se %s0 ne pridržava sigurnosnih standarda."</string>
-  <string name="mw_miuichromium_error_page_problem_security_error_reason_invalid_response">"Ova web lokacija ne može pružiti sigurnu vezu because je %s0 poslao nevažeći odgovor."</string>
-  <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Ova web lokacija ne može pružiti sigurnu vezu because %s0 koristi nepodržani protokol."</string>
-  <string name="mw_miuichromium_error_page_problem_server_fault">%s0 trenutno ne može obraditi ovaj zahtjev</string>
-  <string name="mw_miuichromium_error_page_reason_site_unreachable">. %s0 trenutno nije dostupan</string>
-  <string name="mw_miuichromium_error_page_reload">Osvježi</string>
-  <string name="mw_miuichromium_error_page_safe_network">Siguran način</string>
-  <string name="mw_miuichromium_error_page_server_error">Previše se uređaja pokušava povezati</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Provjerite postavke proxy aplikacija instaliranih na vašem uređaju.</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_connetion">Provjerite internetsku vezu.</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podaci) Provjerite %s1 APN postavke %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_url">"Provjerite URL koji ste unijeli."</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Provjerite %s1 postavke proxyja %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Obriši predmemoriju (%s1Postavke%s2 - Obriši podatke).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Obriši predmemoriju i kolačiće (%s1Postavke%s2 - Obriši podatke, podaci o vašem računu mogu biti izgubljeni).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predmemoriju i kolačiće (podaci o vašem računu mogu biti izgubljeni).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Izbriši predmemoriju.</string>
-  <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Ponovno učitaj nakon povezivanja s internetom</string>
-  <string name="mw_miuichromium_error_page_suggestion_contact_admin">Obratite se administratoru sustava.</string>
-  <string name="mw_miuichromium_error_page_suggestion_correct_url">"Provjerite adresu koju ste unijeli i pokušajte ponovo pomoću ispravnog URL-a."</string>
-  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Ponovno učitaj nakon odobrenja Pregledniku pristup internetu.</string>
-  <string name="mw_miuichromium_error_page_suggestion_title">. Pokušajte ovo:</string>
-  <string name="mw_miuichromium_error_page_title">Dogodila se pogreška</string>
-  <string name="mw_miuichromium_error_page_unknown_error">Ups! Nešto je pošlo po zlu</string>
-  <string name="mw_miuichromium_error_page_wlan">Uključite WLAN</string>
-  <string name="mw_month_picker_dialog_title">Postavi mjesec</string>
-  <string name="mw_mr_button_content_description">Gumb za emitiranje</string>
-  <string name="mw_mr_cast_button_connected">Gumb za emitiranje. Povezan</string>
-  <string name="mw_mr_cast_button_connecting">Gumb za emitiranje. Povezivanje</string>
-  <string name="mw_mr_cast_button_disconnected">Gumb za emitiranje. Veza prekinuta</string>
-  <string name="mw_mr_chooser_searching">Traženje uređaja</string>
+  <string name="mw_miuichromium_error_page_problem_cache_miss">Ta stran se ne more naložiti iz odložiščs</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page">"Stran se ne more odpreti"</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"Stran se ne more odpreti. Dostop je blokiran s strani %s0."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"Stran se ne more odpreti. %s0 je prekinil povezavo."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"Stran se ne more odpreti. %s0 zavrača povezovanje."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"Stran se ne more odpreti. Povezava je prekinjena."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"Stran se ne more odpreti ker povezava ni veljavna."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">"Stran se ne more odpreti. %s0 trenutno ni na voljo."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"Stran se ne more odpreti. %s0 vas preusmerja na nevaren način."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">"Dostop do strani ni možen. Strani na intranetu ima isti URL kot zunanja stran"</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">"Dostop do strani ni možen. Ne najdem DNS naslova za %s0."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">"Dostop do strani ni možen. IP naslov ali številka porta ni veljavno."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">"Dostop do strani ni možen. %s0 predolgo ne reagira."</string>
+  <string name="mw_miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"Dostop do strani ni možen. %s0 uporablja nevarno številko porta."</string>
+  <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Povezovanje je prekinjeno ko je naprava šla v stanje mirovanja.</string>
+  <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Povezava je prekinjena zaradi spremembe omrežja.</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_found">"Ne najdem datoteke"</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Ne najdem datoteke. Morda je premaknjena ali odstranjena."</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"Ne morem brati datoteke. Dovoljenja za datoteke možda preprečujejo dostop."</string>
+  <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 je potrebval preveč za odgovor</string>
+  <string name="mw_miuichromium_error_page_problem_network_access_denied">Omrežni dostop je omejen</string>
+  <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"Povezovanje s spletom ni uspelo. Nekaj ni v redu z proxy strežnikom ali je proxy naslov napačen."</string>
+  <string name="mw_miuichromium_error_page_problem_page_moved">Stran na %s0 je morda premeščena ali izbrisana</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_found">"Ne najdem strani na %s0"</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_connection_closed">"Stran ne deluje. %s0 je prekinil povezavo."</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_empty_response">"Stran ne deluje ker %s0 ni poslal nobenih podatkov."</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_invalid_response">"Stran ne deluje ker je %s0 poslal neveljaven odgovor."</string>
+  <string name="mw_miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"Stran ne deluje ker vas je %s0 prevečkrat preusmeril."</string>
+  <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_client_cert">"Ta spletna lokacija ne more ponuditi varne povezave ker %s0 ni sprejel vaš certifikat."</string>
+  <string name="mw_miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Ta spletna lokacija ne more ponuditi varne povezave ker se %s0 ne drži varnostnih standardov."</string>
+  <string name="mw_miuichromium_error_page_problem_security_error_reason_invalid_response">"Ta spletna lokacija ne more ponuditi varne povezave ker je %s0 poslal neveljaven odgovor."</string>
+  <string name="mw_miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Ta spletna lokacija ne more ponuditi varne povezave ker %s0 uporablja nepodprt protokol."</string>
+  <string name="mw_miuichromium_error_page_problem_server_fault">%s0 trenutno ne more obdelati zahteve</string>
+  <string name="mw_miuichromium_error_page_reason_site_unreachable">. %s0 trenutno ni na voljo</string>
+  <string name="mw_miuichromium_error_page_reload">Osveži</string>
+  <string name="mw_miuichromium_error_page_safe_network">Varni način</string>
+  <string name="mw_miuichromium_error_page_server_error">Preveč naprav se skuša povezati</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Preverite nastavitve proxy aplikacij nameščenih v vaši napravi.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_connetion">Preverite spletno povezavo.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podatki) Preverite %s1 APN nastavitve %s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_url">"Preverite vnešeni URL."</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WLAN) Preverite %s1 nastavitve proxyja %s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Izbriši predspomin (%s1Nastavitve%s2 - Izbriši podatke).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Izbriši predspomin in piškotke (%s1Nastavitve%s2 - Izbriši podatke, podatki o vašem računu se lahko izgubijo).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Izbriši predspomin in piškotke (podatki o vašem računu se lahko izgubijo).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Izbriši predspomin.</string>
+  <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Po povezavi na splet ponovno naloži</string>
+  <string name="mw_miuichromium_error_page_suggestion_contact_admin">Obrnite se na skrbnika naprave.</string>
+  <string name="mw_miuichromium_error_page_suggestion_correct_url">"Preverite vnešeni naslov in poskusite ponovno z pravilnim naslovom."</string>
+  <string name="mw_miuichromium_error_page_suggestion_grant_permission">Ponovno naloži po odobritvi dostopa do spleta brskalniku.</string>
+  <string name="mw_miuichromium_error_page_suggestion_title">. Poskusite to:</string>
+  <string name="mw_miuichromium_error_page_title">Prišlo je do napake</string>
+  <string name="mw_miuichromium_error_page_unknown_error">Ups! Prišlo je do napake</string>
+  <string name="mw_miuichromium_error_page_wlan">Vključite WiFi</string>
+  <string name="mw_month_picker_dialog_title">Nastavi mesec</string>
+  <string name="mw_mr_button_content_description">Gumb za predvajanje</string>
+  <string name="mw_mr_cast_button_connected">Gumb za predvajanje. Povezan</string>
+  <string name="mw_mr_cast_button_connecting">Gumb za predvajanje. Povezovanje</string>
+  <string name="mw_mr_cast_button_disconnected">Gumb za predvajanje. Povezava prekinjena</string>
+  <string name="mw_mr_chooser_searching">Iskanje naprav</string>
   <string name="mw_mr_chooser_title">Emitiranje na</string>
   <string name="mw_mr_controller_album_art">Naslovnica albuma</string>
   <string name="mw_mr_controller_casting_screen">Emitiranje zaslona</string>
