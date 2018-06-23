@@ -41,6 +41,10 @@
   <string name="frequent_phrases_des">Vnesite pogoste izraze s samo nekoliko dotiki med urejanjem besedil</string>
   <string name="frequent_phrases_size_exceeded">Lahko dodate največ %1$d pogostih izrazov. Izbrišite nepotrebne da jih lahko dodate več</string>
   <string name="glockenspiel">Glockenspiel</string>
+  <string name="group_name_contacts">Stiki</string>
+  <string name="group_name_coworkers">Sodelavci</string>
+  <string name="group_name_family">Družina</string>
+  <string name="group_name_friends">Prijatelji</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
