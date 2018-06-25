@@ -129,6 +129,7 @@ nastavitev in aplikacij"</string>
   <string name="enable_encrypt_summery2">Varnostne kopije bodo samodejno šifrirane. Za dostop do le teh se prijavite v vaš Mi račun.</string>
   <string name="enable_encrypt_title">Šifriraj varnostne kopije</string>
   <string name="enable_encrypt_xiaomi_account">Varnostno kopijo je ustvaril %1$s. Za obnovitev izbrišite trenutni račun in se prijavite kot %2$s.</string>
+  <string name="err_acquire_system_service">"Ne morem zagnati sistemsko storitev."</string>
   <string name="err_authentication_failed">Kontrola ni uspela</string>
   <string name="err_bakfile_broken">"Ne morem uporabiti te var. kopije."</string>
   <string name="err_bakfile_not_exist">"Varnostna kopija ne obstaja."</string>

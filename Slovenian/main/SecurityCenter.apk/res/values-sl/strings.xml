@@ -1556,6 +1556,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
+  <string name="notify_channel_name_security">Varnost sistema</string>
   <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>
   <string name="notification_sysapp_cracked_title">Odkrtito varnostno tveganje</string>
   <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
