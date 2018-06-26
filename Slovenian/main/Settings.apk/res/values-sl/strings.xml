@@ -2723,11 +2723,14 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="lockpassword_choose_lock_generic_header">Izbira načina odklepanja</string>
   <string name="lockpassword_choose_your_password_header">Izberite geslo</string>
   <string name="lockpassword_choose_your_password_second_space">"Nastavite geslo
-  za Drugi prostor"</string>
+za Drugi prostor.
+Ta PIN mora vsebovati toliko znakov
+kot PIN za Prvi prostor"</string>
   <string name="lockpassword_choose_your_pattern_header">Izberite vzorec</string>
   <string name="lockpassword_choose_your_pin_header">Izberite kodo PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Nastavite PIN 
  za Drugi prostor"</string>
+  <string name="lockpassword_choose_your_pin_title">Vnesite 4-16 znakov</string>
   <string name="lockpassword_confirm_for_second_user">Potrdite geslo za Drugi prostor</string>
   <string name="lockpassword_confirm_passwords_dont_match">Gesli se ne ujemata</string>
   <string name="lockpassword_confirm_pins_dont_match">Kodi PIN se ne ujemata</string>

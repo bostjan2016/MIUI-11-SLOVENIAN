@@ -4,6 +4,8 @@
   <string name="action_mode_switcher_grid_description">Mreža</string>
   <string name="action_mode_switcher_list_description">Seznam</string>
   <string name="action_settings_description">Odpri Nastavitve</string>
+  <string name="actionbar_close_description">Zapri</string>
+  <string name="actionbar_home_description">Nazaj</string>
   <string name="add_account_desc">Sinhroniziram beležke z vašim Mi Računom?</string>
   <string name="alarm_bar_title">Opomnik</string>
   <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
@@ -66,7 +68,6 @@
   <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="done">Končano</string>
   <string name="edit_header_done_description">Končano</string>
-  <string name="edit_header_home_description">Nazaj</string>
   <string name="edit_header_lock_description">Skrita beležka</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
@@ -109,6 +110,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_delete_forever">Izbriši trajno</string>
   <string name="menu_folders">Mape</string>
   <string name="menu_hide">Skrij</string>
+  <string name="menu_more_description">Več</string>
   <string name="menu_mark_privacy">Skrij</string>
   <string name="menu_move_parent_folder">Nadrejena mapa</string>
   <string name="menu_move_to">Premesti v</string>
@@ -238,12 +240,12 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_reach_text_limit_checkbox">"Potrditveno okno ni mogoče dodati ker je beležka predolga"</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
   <string name="toast_refuse_to_record_when_in_call">"To ni mogoče med klicanjem"</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">"Ne morem uporabiti v deljenem zaslonu"</string>
   <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrit</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši to beležko</string>
   <string name="toolbar_gallery_description">Dodaj sliko</string>
-  <string name="toolbar_more_description">Več</string>
   <string name="toolbar_redo_description">Ponovi</string>
   <string name="toolbar_share_description">Deli beležko</string>
   <string name="toolbar_text_description">Stil teksta</string>

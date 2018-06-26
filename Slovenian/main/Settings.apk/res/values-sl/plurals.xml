@@ -243,12 +243,12 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="one">Deljeno %d omrežje</item>
      </plurals>
 	  <plurals name="lockpassword_pin_too_short">
-         <item quantity="other">PIN mora vsebovati %d znakov</item>
-         <item quantity="one">PIN mora vsebovati %d znak</item>
+         <item quantity="other">Vnesite najmanj %d znakov</item>
+         <item quantity="one">Vnesite najmanj %d znak</item>
      </plurals>
      <plurals name="lockpassword_pin_too_long">
-         <item quantity="other">PIN mora vsebovati %d znakov</item>
-         <item quantity="one">PIN mora vsebovati %d znakov</item>
+         <item quantity="other">Lahko vnesete do %d znakov</item>
+         <item quantity="one">Lahko vnesete do %d znak</item>
      </plurals>
      <plurals name="lockpattern_recording_incorrect_too_short">
          <item quantity="other">Povežite najmanj %d točk. Poskusite ponovno.</item>
