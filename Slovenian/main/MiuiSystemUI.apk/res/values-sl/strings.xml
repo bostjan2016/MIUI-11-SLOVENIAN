@@ -107,6 +107,8 @@
   <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
   <string name="accessibility_managed_profile">Delovni profil</string>
   <string name="accessibility_menu">Meni</string>
+  <string name="accessibility_menu_item_split_disable">"Aplikacija ne podpira deljeni zaslon."</string>
+  <string name="accessibility_menu_item_split_enable">Aplikacija podpira deljeni zaslon</string>
   <string name="accessibility_multi_user_switch_inactive">Trenutni uporabnik %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Prikaz profila</string>
   <string name="accessibility_multi_user_switch_switcher">Menjava uporabnika</string>
@@ -223,6 +225,8 @@
   <string name="accessibility_settings">Nastavitve</string>
   <string name="accessibility_settings_button">Sporočila sistema.</string>
   <string name="accessibility_signal_full">Signal poln.</string>
+  <string name="accessibility_splite_screen_primary">Dodaj v deljeni zaslon primarne aplikacije</string>
+  <string name="accessibility_splite_screen_secondary">Dodaj v deljeni zaslon sekundarne aplikacije</string>
   <string name="accessibility_status_bar_headphones">Slušalke so povezane</string>
   <string name="accessibility_status_bar_headset">Slušalke so povezane</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>

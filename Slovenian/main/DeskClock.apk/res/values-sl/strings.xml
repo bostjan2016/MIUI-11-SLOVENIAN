@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Dodaj budilko</string>
+  <string name="add_clock">Dodaj uro</string>
   <string name="add_timezone_title">Dodaj časovni pas</string>
   <string name="alarm_alert">Privzeto zvonenje</string>
   <string name="alarm_alert_alert_silenced">Alarm utišan po %d minutah.</string>
@@ -38,6 +39,7 @@
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
   <string name="confirm_abort">Zavrzi</string>
+  <string name="content_desc_keep_screen">Tipka \"Obdrži zaslon vkl.\"</string>
   <string name="control_set_alarm">Nastavi budilko</string>
   <string name="control_set_alarm_with_existing">Alarm nastavljen: %s</string>
   <string name="day">1 dan</string>

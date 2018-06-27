@@ -392,11 +392,15 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="trans_backingup">Izdelava var. kopije …</string>
   <string name="trans_backingup_no_items">Sinhr. …</string>
   <string name="trans_button_cancel">Prekliči</string>
+  <string name="trans_button_exit">Izhod</string>
+  <string name="trans_button_stay">Ostani</string>
   <string name="trans_calculating">Izračunavanje…</string>
   <string name="trans_calculating_app_sd_description">Podatki na SD kartici</string>
   <string name="trans_calculating_media_description">Medijske datoteke</string>
   <string name="trans_calculating_tip">Izračun %s…</string>  
   <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
+  <string name="trans_cancel_selection_message">Če zapustite Mi Mover bo prenos prekinjen. Počakajte do konca prenosa.</string>
+  <string name="trans_cancel_selection_title">Ostani v Mi Mover</string>
   <string name="trans_cancelling">Nehaj</string>
   <string name="trans_connect_failed_device_incompatible">Naprava ni kompatibilna. Prekličite prenos in poskusite ponovno.</string>
   <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
@@ -542,6 +546,8 @@ da prenesete in namestite Mi Mover."</string>
 Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
   <string name="trans_select_device_send">Izberite napravo za prenos podatkov.</string>
+  <string name="trans_select_notification_message">Tapni za prikaz</string>
+  <string name="trans_select_notification_title">Mi Mover dela…</string>
   <string name="trans_sender">"Sem pošiljatelj"</string>
   <string name="trans_sender_connectting">Potrdite na novi napravi</string>
   <string name="trans_sender_searching">Iskanje novih naprav</string>

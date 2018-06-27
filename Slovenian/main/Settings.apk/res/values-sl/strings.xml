@@ -182,6 +182,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
   <string name="add_facerecoginition_text">Dodaj obraz</string>
   <string name="add_fingerprint_cancel_button_text">Nazaj</string>
+  <string name="add_fingerprint_dirty_fingerprint">Preverite ali je površina zaslona čista. Poskusite ponovno posneti prstni odtis.</string>
   <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
   <string name="add_fingerprint_done_title">Končano!</string>
   <string name="add_fingerprint_edge_instruction_msg">Premikajte prst tako da lahko čitalec odčita robove vašega prstnega odtisa.</string>
@@ -191,6 +192,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj prstni odtis položite prst na senzor. Preverite ali vaš prst pokriva notranji rob senzorja"</string>
   <string name="add_fingerprint_instruction_msg">Uporabite prstni odtis za odklep naprave in plačila.</string>
   <string name="add_fingerprint_instruction_title">Postavite prst na skener prstnih odtisov</string>
+  <string name="add_fingerprint_move_fast">Držite prst na zaslonu malo dlje</string>
   <string name="add_fingerprint_name_suggest_text">Ime prstnega odtisa</string>
   <string name="add_fingerprint_put_finger_edge_msg">Po pritisku na senzor umaknite prst in ponovite.</string>
   <string name="add_fingerprint_put_finger_msg">Po pritisku na senzor umaknite prst in ponovite.</string>
