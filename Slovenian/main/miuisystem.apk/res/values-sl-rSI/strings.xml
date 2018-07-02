@@ -18,6 +18,9 @@
   <string name="cloud_state_disabled">Sinhronizacija z Mi Cloud je izključena</string>
   <string name="cloud_state_finished">Sinhronizirano z Mi Cloud</string>
   <string name="cloud_state_syncing">Sinhronizirano z Mi Cloud</string>
+  <string name="country">Country</string>
+  <string name="cowboy">Cowboy</string>
+  <string name="crystal">Crystal</string>
   <string name="cold_dews"/>
   <string name="cta_button_continue">Strinjam se</string>
   <string name="cta_button_quit">Izhod</string>
