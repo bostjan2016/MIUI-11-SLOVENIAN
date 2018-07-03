@@ -388,8 +388,8 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ext_media_status_unmountable">Poškodovan</string>
   <string name="ext_media_status_unmounted">Izvržen</string>
   <string name="ext_media_status_unsupported">Ni podprt</string>
-  <string name="ext_media_unmount_action">Izbaci</string>
-  <string name="ext_media_unmountable_notification_message">USB pomnilnik je poškodovan. Poskusite jo ponovno formatirati.</string>
+  <string name="ext_media_unmount_action">Izvrzi</string>
+  <string name="ext_media_unmountable_notification_message">USB pomnilnik je poškodovan. Poskusite ga ponovno formatirati.</string>
   <string name="ext_media_unmountable_notification_title">Poškodovan pomnilnik USB</string>
   <string name="ext_media_unmounting_notification_message">Ne odstanjujte</string>
   <string name="ext_media_unmounting_notification_title">Poteka izmet %s…</string>

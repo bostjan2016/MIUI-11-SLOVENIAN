@@ -1591,7 +1591,7 @@ Hitrost vzorčenja"</string>
     <string name="device_status_activity_title">Stanje</string>
     <string name="device_status_summary">Telefonska številka, signal itd.</string>
     <string name="device_theme">Tema naprave</string>
-  <string name="device_total_memory">Vsa shrmba</string>
+  <string name="device_total_memory">Vsa shramba</string>
     <string name="device_usage_list_summary">Poraba naprave od polne napolnjenosti akumulatorja</string>
   <string name="dial_application_title">Izbiraj</string>
     <string name="dial_pad_tones_title">Toni tipkovnice</string>
