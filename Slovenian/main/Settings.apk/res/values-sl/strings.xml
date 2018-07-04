@@ -2111,6 +2111,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="firewall_wifi">WiFi</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet preko WiFi kadar je ta storitev izključena."</string>
   <string name="firmware_version">Različica sistema Android</string>
+  <string name="flash_drive_backup_restore">Varnostmo kopiranje ali obnoba preko USB-ja</string>
+  <string name="flash_drive_backup_restore_summary">Priključite USB</string>
   <string name="floating_window_switch_label">Vklopite plavajoča okna</string>
   <string name="floating_window_switch_label_disable">Izklopite plavajoča okna</string>
   <string name="fluency_mode">Animacije sistema</string>
@@ -5157,10 +5159,11 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Prikaži ime operaterja ko je naprava zaklenjena</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
-  <string name="status_bar_settings_show_floating_notification_summary">"Lebdeča obvestila bodo samodejno izginila ko se prikažejo na vrhu zaslona"</string>
+  <string name="status_bar_settings_show_floating_notification_summary">"Dovoli važna obvestila na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži uporabo podatkov</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Obvestila zakl. zaslona</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Dovoli važna obvestila na zakl. zaslonu</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži v prosojnem obvestilu</string>
   <string name="status_bar_settings_show_notification_icon">Pokaži ikono obvestila</string>

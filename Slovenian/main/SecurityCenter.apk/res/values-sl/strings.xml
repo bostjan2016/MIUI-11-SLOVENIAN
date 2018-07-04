@@ -973,6 +973,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet z uporabo WiFi-ja če bo ta nastavitev izključena.​"</string>
   <string name="five_percent_total_pkg">%s (5%% od mes. podatkov)</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
+  <string name="fod_authentication_shift_button">Prekliči</string>
+  <string name="fod_button_finger">Uporabi prstni odtis</string>
+  <string name="fod_button_password">Vnesite geslo</string>
+  <string name="fod_finger_notice_title">Potavite prst na zaslon</string>
+  <string name="fod_finger_windows_tips">Potrdite prstni odtis</string>
+  <string name="fod_tips_split_screen_more_than_half">Vnesite geslo</string>
   <string name="forbid_autobright_summary">"Osvetlitev zaslona bo enaka ko igrate igrice"</string>
   <string name="forbid_autobright_title">Popravi osvetlitev zaslona</string>
   <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani preko WiFi omrežja."</string>
