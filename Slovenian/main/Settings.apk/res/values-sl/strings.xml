@@ -999,6 +999,17 @@ Hitrost vzorčenja"</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Zajemi vse pakete Bluetooth HCI v datoteko</string>
+  <string name="bt_ldac_declaration">Kadar Bluetooth naprava podpira LDAC, bo povezano po privzetih nastavitvah. LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije.</string>
+  <string name="bt_ldac_dialog_summary">"LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije
+To lahko izključite v [Nastavitve]"</string>
+  <string name="bt_ldac_dialog_title">Trenutna naprava podpira LDAC, ki je povezan po standardnem:</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije.</string>
+  <string name="bt_ldac_open_dialog_title">Želite vključiti LDAC?</string>
+  <string name="bt_ldac_pre_summary">Zagotovite visoko kvalitetno avdio izkušnjo</string>
+  <string name="bt_ldac_pre_title">LDAC</string>
+  <string name="bt_ldac_property">Lastnosti</string>
+  <string name="bt_ldac_remember_choice">Zapomni si izbran</string>
+  <string name="bt_ldac_settings">Nastavitve</string>
   <string name="bt_rarely_used_device_title">Redko uporabljene naprave (%d)</string>
   <string name="bt_trace_log">Dovoli Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
