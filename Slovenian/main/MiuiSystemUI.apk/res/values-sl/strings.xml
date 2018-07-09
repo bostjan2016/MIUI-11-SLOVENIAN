@@ -1804,6 +1804,13 @@ Shramba certifikatov mogoče ni omogočena"</string>
   <string name="wifi_wapi_psk_type">Vrsta gesla</string>
   <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
   <string name="window_animation_scale_title">Hitrost animacije okna</string>
+  <string name="wireless_change_to_ac_charging">Zamenjano na polnjenje z kablom</string>
+  <string name="wireless_charge_current">Poljenje</string>
+  <string name="wireless_charge_dialog_cancel">Razumem</string>
+  <string name="wireless_charge_dialog_title">Postavite napravo na sredino baze za polnjenje</string>
+  <string name="wireless_charge_reset_device">Polnjenje je počasno. Zamenjajte položaj telefona.</string>
+  <string name="wireless_charge_reset_device_detail">Preverite ali je položaj vaše naprave na bazi za polnjenje pravilen</string>
+  <string name="wireless_charge_stop">Brezžično polnjenje je ustavljeno</string>
   <string name="wrong_password">Napačno geslo</string>
     <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
     <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej te nastavitve ne izklopite</string>

@@ -1278,6 +1278,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="title_other_devices">Ostale naprave ki so na voljo</string>
   <string name="title_paired_devices">Seznanjene naprave</string>
   <string name="toast_call_detail_error">Ni bilo mogoče prebrati podrobnosti o zahtevanem klicu</string>
+  <string name="toast_call_no_SoundRecorder">Aplikacija Snemalec ni na voljo</string>
+  <string name="toast_call_no_notes">Aplikacija Beležka ni na voljo</string>
   <string name="toast_copy_done">Končano</string>
   <string name="toast_copying">Kopiram...</string>
   <string name="toast_displaying_all_contacts">Prikazujem vse stike</string>
