@@ -32,7 +32,7 @@
   <string name="correct_enter_password">Geslo ki ste ga vnesli je pravilno</string>
   <string name="correct_enter_update_password">Geslo ki ste ga vnesli je pravilno</string>
   <string name="counter_pin">Pridobite kodo</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaši podatki so uspešno uvoženi iz zastarele Authenticator aplikacije. Sedaj lahko varno odstranite prejšnjo verzijo.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaši podatki so uspešno uvoženi iz zastarele Authenticator aplikacije. Zdaj lahko varno odstranite prejšnjo verzijo.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Uvoz uspešen</string>
   <string name="decoding_exception">Izjema dekodiranja</string>
   <string name="details_patternforgotten">"Ponovna aktivacija:

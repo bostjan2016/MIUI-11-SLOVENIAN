@@ -665,7 +665,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cleaned">Očiščeno</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, dvojnike fotografij in druge nepotrebne stvari</string>
   <string name="clear_garbage">Izbrišite Smeti in sprostite prostor</string>
-  <string name="clear_immediately">Očisti sedaj</string>
+  <string name="clear_immediately">Očisti zdaj</string>
   <string name="close">Zapri</string>
   <string name="close_callwait">Izključeno</string>
   <string name="cmcc_app_check_dialog_message">Ponovno zaženite napravo za dokončanje.</string>
@@ -926,7 +926,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="exit_dialog_homepage_optimise_message">"Rezultat performansa vaše naprave je nižji od 80 točk. Optimiziram zdaj?"</string>
   <string name="exit_dialog_release_storage_positive_button">Sprosti prostor</string>
   <string name="exit_dialog_release_storage_title">Sprosti prostor</string>
-  <string name="exit_dialog_scan_message">"Rezultat zmogljivosti vaše naprave je nižji od 75 točk. Optimiziram sedaj?"</string>
+  <string name="exit_dialog_scan_message">"Rezultat zmogljivosti vaše naprave je nižji od 75 točk. Optimiziram zdaj?"</string>
   <string name="exit_dialog_scan_positive_button">Optimiziraj</string>
   <string name="exit_dialog_scan_title">Optimiziraj zmogljivosti</string>
   <string name="finger_remind_message">Zakl. aplikacija podpira odklepanje s pomočjo prstnih odtisov. Dodam prstni odtis?</string>
@@ -1684,7 +1684,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
   <string name="optimize_result_button_correct_now">Nastavi</string>
   <string name="optimize_result_button_fix_now">Popravi</string>
-  <string name="optimize_result_button_mifi_insurance">Kupi sedaj</string>
+  <string name="optimize_result_button_mifi_insurance">Kupi zdaj</string>
   <string name="optimize_result_button_onekey_open">Vključi</string>
   <string name="optimize_result_button_onekey_restore">Obnovi</string>
   <string name="optimize_result_button_open_now">Vključi</string>
@@ -2494,7 +2494,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="start_diagnostic_botton">Začni</string>
   <string name="start_downloading_app">Pričenjam s prenosom: %1$s</string>
   <string name="start_game">Start</string>
-  <string name="start_install">Namesti sedaj</string>
+  <string name="start_install">Namesti zdaj</string>
   <string name="start_tc_button">Kalibriraj</string>
   <string name="status_bar_network_flow_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Preostalo: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ta mesec: %2$s</string>
@@ -2936,7 +2936,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
-  <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
+  <string name="uninstall_app_dialog_title">Odstranim zdaj?</string>
   <string name="uninstall_app_done">Uspešno odstranjeno</string>
   <string name="uninstall_danagerous_btn">Odstrani</string>
   <string name="uninstall_danagerous_desc">\"%s\" lahko poškoduje vašo napravo</string>
@@ -3023,7 +3023,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>
   <string name="xiaomi_traffic_pass_expiry_date">Aktivno do %s</string>
   <string name="xiaomi_traffic_pass_in_use">Uporablja</string>
-  <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke kartice. Prestavim sedaj?</string>
+  <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke kartice. Prestavim zdaj?</string>
   <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira te funkcije"</string>
   <string name="xiaomi_traffic_pass_notify_content_using">Preostalo %s</string>
   <string name="xiaomi_traffic_pass_notify_title_using">Uporablja se Mi Data načrt</string>

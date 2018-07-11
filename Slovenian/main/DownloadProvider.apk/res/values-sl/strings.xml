@@ -12,8 +12,8 @@
   <string name="dialog_content_limit0">Omeji prenose</string>
   <string name="dialog_content_limit_max">Neomejeno</string>
   <string name="dialog_data_limit_button1">Čekaj na WiFi</string>
-  <string name="dialog_data_limit_button2">Prenesi sedaj</string>
-  <string name="dialog_data_limit_msg1">%s mobilnih podatkov se bo porabilo za prenos te datoteke. Prenesem sedaj?</string>
+  <string name="dialog_data_limit_button2">Prenesi zdaj</string>
+  <string name="dialog_data_limit_msg1">%s mobilnih podatkov se bo porabilo za prenos te datoteke. Prenesem zdaj?</string>
   <string name="dialog_data_limit_msg3">Spremeni omejitev</string>
   <string name="dialog_data_limit_title">Opozorilo porabe podatkov</string>
   <string name="dialog_insufficient_space_on_cache">Na notranjem pomnilniku ni dovolj prostora</string>

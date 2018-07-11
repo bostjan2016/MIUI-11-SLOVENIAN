@@ -54,7 +54,7 @@
   <string name="folder_name_invalid">"Ime mape ne sme vsebovati naslednjih znakov: /\\:*?&lt;&gt;"</string>
   <string name="gigabyteShort">GB</string>
   <string name="image_loading_error">"Ne morem prenesti slike"</string>
-  <string name="just_now">Ravno sedaj</string>
+  <string name="just_now">Ravno zdaj</string>
   <string name="kilobyteShort">KB</string>
   <string name="load_err">"Ne morem prenesti"</string>
   <string name="login_reg_content">Shranite datoteke in jih sinhronizirajte na več naprav.</string>

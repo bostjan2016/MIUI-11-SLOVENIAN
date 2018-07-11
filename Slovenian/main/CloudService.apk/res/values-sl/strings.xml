@@ -239,7 +239,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_upload_syncing">Branje %s</string>
   <string name="micloud_detail_wlan">%d čaka na sinhronizacijo</string>
   <string name="micloud_dialog_sync_now_message">Povežite se na WiFi da se izognete dodatnemu plačilu prenosa podatkov</string>
-  <string name="micloud_dialog_sync_now_negative">Ne sedaj</string>
+  <string name="micloud_dialog_sync_now_negative">Ne zdaj</string>
   <string name="micloud_dialog_sync_now_positive">Uporabi mobilne podatke</string>
   <string name="micloud_dialog_sync_now_title">Za sinhr. se povežite na WiFi</string>
   <string name="micloud_dspt">Uporabi Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>

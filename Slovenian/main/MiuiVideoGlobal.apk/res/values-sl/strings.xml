@@ -51,7 +51,7 @@
   <string name="screenrecord_share_gif">Deli GIF</string>
   <string name="screenrecord_share_video">Deli videoposnetek</string>
   <string name="screenrecord_slience">Posnet videoposnetek je brez zvoka ker trenutna verzija MIUI ne podpira snemanje avdio posnetkov.</string>
-  <string name="screenrecord_success">Uspješno snimljeno. Sedaj lahko delite videoposnetek.</string>
+  <string name="screenrecord_success">Uspešno posneto. Zdaj lahko delite videoposnetek.</string>
   <string name="share_tips">Posnetek zaslona je uspešno izdelan. Pritisni za deljenje.</string>
   <string name="storage_external_sdcard">Zunanja shramba</string>
   <string name="storage_internal_sdcard">Notranja shramba</string>

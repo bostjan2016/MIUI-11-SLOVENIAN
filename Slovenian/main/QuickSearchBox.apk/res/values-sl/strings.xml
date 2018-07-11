@@ -102,7 +102,7 @@
   <string name="recent_close_content">"Izključim to funkcijo?
  To lahko spremenite v Nastavitve &gt; Nameščene aplikacije &gt; Išči"</string>
   <string name="recent_close_title">Izključi funkcije</string>
-  <string name="recent_delete_content">"Skrijem te aplikacije sedaj?
+  <string name="recent_delete_content">"Skrijem te aplikacije zdaj?
   To lahko spremenite v Nastavitve &gt; Nameščene aplikacije &gt; Išči"</string>
   <string name="recent_delete_negative">Prekini</string>
   <string name="recent_delete_positive">V redu</string>

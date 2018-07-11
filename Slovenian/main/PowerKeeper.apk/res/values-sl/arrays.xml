@@ -54,7 +54,7 @@
         <item>Prihranek baterije</item>
      </string-array>
 	<string-array name="power_checker_group_prefix">
-        <item>Sedaj</item>
+        <item>Zdaj</item>
         <item>Ozadje</item>
         <item>Nedavno</item>
      </string-array>
@@ -84,19 +84,19 @@
      </string-array>
      <string-array name="power_checker_group_suffix">
         <item></item>
-        <item>Preveč sedaj</item>
-        <item>Preveč v teh dneh ovih dana</item>
+        <item>Preveč zdaj</item>
+        <item>Preveč v teh dneh</item>
      </string-array>
 	 <string-array name="invisible_app_groups">
          <item>Izbrano</item>
          <item>Neizbrano</item>
 	 </string-array>
 	  <string-array name="thermal_entries">
-         <item>Privzeti način upravljanja s temperaturo</item>
+         <item>Privzeti način upravljanja z temperaturo</item>
          <item>Zmogljiv način</item>
      </string-array>
      <string-array name="thermal_summaries">
-         <item>Trenutni način upravljanja s temperaturo</item>
+         <item>Trenutni način upravljanja z temperaturo</item>
          <item>Trenutni način izvedbe</item>
      </string-array>
 	 <string-array name="power_mode_entries">

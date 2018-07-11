@@ -63,7 +63,7 @@
   <string name="bind_phone_success_tip">Številka telefona uspešno dodana</string>
   <string name="bind_success_tip">Uspešno dodano</string>
   <string name="black_list">"Dobili ste prepoved. Pošljite svojo pov. informacijo na MIUI Forum da ugotovite zakaj.."</string>
-  <string name="binded_accout_description">Vaš Mi račun se je sinhroniziral z KuaiPan računom. Sedaj lahko z Mi računom dostopate do podatkov shranjenih na KuaiPan.</string>
+  <string name="binded_accout_description">Vaš Mi račun se je sinhroniziral z KuaiPan računom. Zdaj lahko z Mi računom dostopate do podatkov shranjenih na KuaiPan.</string>
   <string name="binded_accout_title">Račun sinhroniziran</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Ne morem poslati toliko stvari naenkrat"</string>
@@ -434,7 +434,7 @@
   <string name="midrop_msg_1">Vključite Mi Drop na drugi napravi</string>
   <string name="midrop_msg_2">Kadar je Mi Drop vključen lahko iščete naprave v bližini in pošiljate datoteke</string>
   <string name="midrop_send_files">Izberite datoteke za pošiljanje</string>
-  <string name="migrate_announcement_msg">Kuaipan Storitev se bo ugasnila po 30.06.2016, ampak predlagamo vam da prestavite podatke sedaj. Premeščanje podatkov ne bo obremenilo vaše porabe podatkov. Med premeščanjem bo prenos zaustavljen.</string>
+  <string name="migrate_announcement_msg">Kuaipan Storitev se bo ugasnila po 30.06.2016, ampak predlagamo vam da prestavite podatke zdaj. Premeščanje podatkov ne bo obremenilo vaše porabe podatkov. Med premeščanjem bo prenos zaustavljen.</string>
   <string name="migrate_announcement_title">Kuaipan je posodobljen v MI drive</string>
   <string name="migrate_cancel">Prekini</string>
   <string name="migrate_confirm">Potrdi</string>
@@ -446,10 +446,10 @@
   <string name="migrate_note">Pomembno: Kuaipan se menja z MI Drive. Klikni za prenos datotek.</string>
   <string name="migrate_runing">Premeščanje podatkov…Vrnite se kasneje.</string>
   <string name="migrate_success_cancel">V redu</string>
-  <string name="migrate_success_confirm">Preizkusite sedaj</string>
+  <string name="migrate_success_confirm">Preizkusite zdaj</string>
   <string name="migrate_success_msg">Čestitamo, vsi vaši Kuaipan podatki so uspešno premeščeni na MI Drive.</string>
   <string name="migrate_success_title">Premeščanje je uspelo</string>
-  <string name="migrate_update_confirm">Preizkusite sedaj</string>
+  <string name="migrate_update_confirm">Preizkusite zdaj</string>
   <string name="migrate_update_msg">Kuaipan je posodobljen v MI drive, da vam nudi boljšo izkušnjo.</string>
   <string name="migrate_update_title">Kuaipan je posodobljen v MI drive</string>
   <string name="mobile_network_dialog_cancle">Prekliči</string>
@@ -464,7 +464,7 @@
   <string name="move_failed">Ni mogoče izrezati</string>
   <string name="move_failed_retry">"Ne morem izrezati, poskusite ponovno čez %1$s"</string>
   <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše upravljanje datotek.</string>
-  <string name="move_icon_to_desktop_success">Sedaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
+  <string name="move_icon_to_desktop_success">Zdaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
   <string name="move_to">Premesti v…</string>
   <string name="msg_notify_setting">Nastavitve obvestil</string>
   <string name="msg_set_password">Najprej nastavite geslo</string>

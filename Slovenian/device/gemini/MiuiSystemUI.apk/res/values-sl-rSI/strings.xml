@@ -269,7 +269,7 @@
   <string name="ext_media_nomedia_notification_message">USB shramba je odstranjena. Vstavite nov medij.</string>
   <string name="ext_media_nomedia_notification_title">Odstranjena je USB shramba</string>
   <string name="ext_media_safe_remove">Odstrani na varen način</string>
-  <string name="ext_media_safe_unmount_notification_message">"Sedaj lahko odstranite USB shrambo na varen način."</string>
+  <string name="ext_media_safe_unmount_notification_message">"Zdaj lahko odstranite USB shrambo na varen način."</string>
   <string name="ext_media_safe_unmount_notification_title">USB shramba se lahko odstrani na varen način</string>
   <string name="ext_media_unmountable_notification_message">USB shramba je poškodovana. Mogoče jo bo potrebno ponovno formatirati.</string>
   <string name="ext_media_unmountable_notification_title">Poškodovana USB shramba</string>

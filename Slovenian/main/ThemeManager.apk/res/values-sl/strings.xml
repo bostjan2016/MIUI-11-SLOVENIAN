@@ -125,7 +125,7 @@
   <string name="home_apply_success">Ozadje zač. zaslona nastavljeno</string>
   <string name="in_the_end">Ni več predmetov za prikaz</string>
   <string name="incompatible_dialog_cancel">"Ne nastavi"</string>
-  <string name="incompatible_dialog_message">Ta tema ni  združljiva z nameščeno MIUI veruijo na vaši napravi. Nekateri elementi MIUI-ja mogoče ne bodo delovali pravilno če nastavite to temo.</string>
+  <string name="incompatible_dialog_message">Ta tema ni združljiva z nameščeno MIUI verzijo na vaši napravi. Nekateri elementi MIUI-ja mogoče ne bodo delovali pravilno če nastavite to temo.</string>
   <string name="incompatible_dialog_ok">Razumem</string>
   <string name="incompatible_dialog_title">Problemi z združljivostjo</string>
   <string name="internal_online_precust_gorgeous_black_name">Prekrasna črna</string>
@@ -192,7 +192,7 @@
   <string name="purchased_list_current">Optimizirane teme</string>
   <string name="purchased_list_legacy">Stare teme</string>
   <string name="recently_used">Nedavno uporabljeno</string>
-  <string name="refresh_footer_all_loaded">"To je za sedaj vse."</string>
+  <string name="refresh_footer_all_loaded">"To je za zdaj vse."</string>
   <string name="refresh_footer_failed">"Ne morem prenesti podatkov"</string>
   <string name="refresh_footer_finish">Uspešno preneseno</string>
   <string name="refresh_footer_loading">Samo trenutek…</string>
@@ -287,7 +287,7 @@
   <string name="resource_exchange_has_used">Vnesena koda je že bila uporabljena.</string>
   <string name="resource_exchange_hint">Vnesite svojo darilno kodo</string>
   <string name="resource_exchange_purchase_unkown_error">Ups! Prišlo je do neznane napake. Vpišite se v http://market.xiaomi.com če si želite ogledati stanje plačil.</string>
-  <string name="resource_exchange_share_code_content">Dobili ste kodo za %1$s v MIUI Teme. Vaša koda Mi Kredita je: %2$s. Dotaknite se %3$s za uporabo sedaj.</string>
+  <string name="resource_exchange_share_code_content">Dobili ste kodo za %1$s v MIUI Teme. Vaša koda Mi Kredita je: %2$s. Dotaknite se %3$s za uporabo zdaj.</string>
   <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s je %2$s. Ko jo pošljete drugemu MIUI uporabniku jo lahko uporabi za prenos te teme.</string>
   <string name="resource_exchange_share_code_dlg_title">Pošiljam</string>
   <string name="resource_exchange_success">Uživajte !</string>
@@ -502,12 +502,12 @@
   <string name="uid_change_dialog_ok">Razumem</string>
   <string name="uid_change_dialog_title">Ponovni zagon</string>
   <string name="up_to_the_end">"To je vse za zdaj. Vrnite se kasneje."</string>
-  <string name="update_immediately">Posodobi sedaj</string>
+  <string name="update_immediately">Posodobi zdaj</string>
   <string name="using_theme_has_update_tips">Dostopna je posodobitev te teme.</string>
   <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
   <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je zaslon izključen</string>
   <string name="video_apply_home">Zač. zaslon</string>
-  <string name="video_apply_home_lock">Zač. zaslon in Zaklj. zaslon</string>
+  <string name="video_apply_home_lock">Zač. zaslon in Zakl. zaslon</string>
   <string name="video_audio_apply_success">Video z zvokom uspešno nastavljen</string>
   <string name="video_data_tips_message">Uporaba mobilnih podatkov lahko povzroči dodatne stroške. Vseeno nadaljujem?</string>
   <string name="video_data_tips_title">Opozorilo porabe podatkov</string>

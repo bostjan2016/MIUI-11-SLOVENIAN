@@ -4890,7 +4890,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="setup_choose_unlock_pattern">Vzorec</string>  
   <string name="setup_choose_unlock_pattern_title">Narišite vzorec za odklepanje</string>
   <string name="setup_choose_unlock_type_title">Nastavi geslo</string>
-  <string name="setup_fingerprint_enroll_enrolling_skip_message">Izbrali ste da želite uporabljati prstni odtis kot en od načinov odklepanja telefona. Če to sedaj preskočite, boste morali nastaviti kasneje. Nastavitev traja samo minuto ali dve.</string>
+  <string name="setup_fingerprint_enroll_enrolling_skip_message">Izbrali ste da želite uporabljati prstni odtis kot en od načinov odklepanja telefona. Če to zdaj preskočite, boste morali nastaviti kasneje. Nastavitev traja samo minuto ali dve.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Preskočim nastavitev prstnega odtisa?</string>
   <string name="setup_fingerprint_enroll_finish_message">Dotaknite se tipala za prstne odtise da preklopite napravo iz stanja pripravljenosti in jo odklenete.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Ko je prikazana ta ikona lahko uporabite prstni odtis.</string>

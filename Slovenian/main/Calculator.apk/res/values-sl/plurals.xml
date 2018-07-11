@@ -27,7 +27,7 @@
          <item quantity="one">čez 1 min</item>
      </plurals>
      <plurals name="abbrev_less_than_one_minute_ago">
-         <item quantity="other">Ravno sedaj</item>
+         <item quantity="other">Ravno zdaj</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
          <item quantity="other">pred %d min</item>
@@ -54,7 +54,7 @@
          <item quantity="one">Izbrana: %d</item>
      </plurals>
      <plurals name="less_than_one_minute_ago">
-         <item quantity="other">Ravno sedaj</item>
+         <item quantity="other">Ravno zdaj</item>
      </plurals>
      <plurals name="num_minutes_ago">
          <item quantity="other">pred %d min</item>

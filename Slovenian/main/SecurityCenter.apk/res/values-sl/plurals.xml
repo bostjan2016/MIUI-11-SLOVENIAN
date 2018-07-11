@@ -246,8 +246,8 @@
          <item quantity="one">%d tveganje</item>
     </plurals>
     <plurals name="hints_scan_result_danger">
-         <item quantity="other">%d​ najdenih tveganj, popravi sedaj</item>
-         <item quantity="one">%d najdeno tveganje, popravi sedaj</item>
+         <item quantity="other">%d​ najdenih tveganj, popravi zdaj</item>
+         <item quantity="one">%d najdeno tveganje, popravi zdaj</item>
     </plurals>
 	<plurals name="virus_clean_num">
          <item quantity="other">Popravljeno je %1$d problemov. Vse zgleda v redu</item>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="abandon_update">Ne sedaj</string>
+  <string name="abandon_update">Ne zdaj</string>
   <string name="action_exit">Odjava</string>
   <string name="action_scan_friend">Dodaj prijatelja</string>
   <string name="action_settings">Nastavitve</string>
@@ -91,7 +91,7 @@ Vseeno posodobim?"</string>
   <string name="bind_mili_not_found_tips">"Ne morem najti Mi Band. Prepričajte se da je baterija napolnjena in v bližini telefona."</string>
   <string name="bind_mili_not_shake">"Moj Mi Band ne vibrira"</string>
   <string name="bind_mili_not_shake_help">Ko ga iščete imejte vaš Mi Band oddaljen od drugih</string>
-  <string name="bind_mili_quit">Ne sedaj</string>
+  <string name="bind_mili_quit">Ne zdaj</string>
   <string name="bind_mili_search_tips">Imejte Mi Band blizu svojega telefona</string>
   <string name="bind_mili_search_title">Iščem Mi Band…</string>
   <string name="bind_qq">QQ</string>
@@ -389,7 +389,7 @@ Vseeno nadaljujem?"</string>
   <string name="fw_upgrade_weight_tips">Imejte telefon blizu tehtnice</string>
   <string name="fw_upgrade_weight_title">Posodabljam firmware…</string>
   <string name="gen_qr_code">Izdelaj QR kodo</string>
-  <string name="generate_baby_weight_message">"Ne morem videti otroka med člani družine. Ga dodam sedaj?"</string>
+  <string name="generate_baby_weight_message">"Ne morem videti otroka med člani družine. Ga dodam zdaj?"</string>
   <string name="generate_baby_weight_title">"Teža otroka: %1$s"</string>
   <string name="generate_user_failure">"Ne morem dodati"</string>
   <string name="generate_user_succ">Uspešno dodano</string>
@@ -789,7 +789,7 @@ razpona merjenja (%s)"</string>
   <string name="phone_alarm">Vibriraj ko se oglasi alarm</string>
   <string name="phone_alarm_alert_tips">Mi Band mora biti povezan s telefonom preko Bluetootha</string>
   <string name="phone_alarm_not_bound">Seznanite Mi Band za prejemanje obvestil alarma</string>
-  <string name="phone_not_bind">Ne sedaj</string>
+  <string name="phone_not_bind">Ne zdaj</string>
   <string name="picker_menu_done">Končano</string>
   <string name="place_autocomplete_clear_button">Izbriši iskanje</string>
   <string name="place_autocomplete_search_hint">Iščite</string>
@@ -1394,7 +1394,7 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="unit_weight">" kg"</string>
   <string name="unlock_for_smartlock_pair_fail_tip">"Ne morem seznaniti"</string>
   <string name="unlock_for_smartlock_pair_start_tip">Seznanjanje…</string>
-  <string name="unlock_for_smartlock_pair_success_tip">Mi Band seznanjen, sedaj prilagodite Smart Lock</string>
+  <string name="unlock_for_smartlock_pair_success_tip">Mi Band seznanjen, zdaj prilagodite Smart Lock</string>
   <string name="unlock_for_smartlock_start_setting">Pojdi v Nastavitve</string>
   <string name="unlock_for_smartlock_tip">Ta funkcija zahteva da je aplikacija Mi Fit odprta v ozadju</string>
   <string name="unlock_for_smartlock_tip_step1">1. Pojdite na Nastavitve - Varnost</string>

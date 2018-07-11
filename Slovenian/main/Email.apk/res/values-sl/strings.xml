@@ -731,11 +731,11 @@ Poskusite z ostalo pošto."</string>
   <string name="parase_setup_data">Pridobivam podatke...</string>
   <string name="parse_recognize_describe">Analiza e-pošte…</string>
   <string name="password_expire_warning_content_title">Geslo zaslona za zaklep poteče</string>
-  <string name="password_expire_warning_dialog_content_fmt">Spremeniti morate PIN zaklepa zaslona ali geslo, drugače boste izgubili podatke za %s. Želite spremeniti sedaj?</string>
+  <string name="password_expire_warning_dialog_content_fmt">Spremeniti morate PIN zaklepa zaslona ali geslo, drugače boste izgubili podatke za %s. Želite spremeniti zdaj?</string>
   <string name="password_expire_warning_dialog_title">Geslo zaslona za zaklep je poteklo</string>
   <string name="password_expire_warning_ticker_fmt">\"%s\" zahteva da zamenjate PIN ali geslo za zaklep zaslona.</string>
   <string name="password_expired_content_title">Geslo za zaklep zaslona je poteklo</string>
-  <string name="password_expired_dialog_content_fmt">Podatki za %s se brišejo z vaše naprave. Povrnete jih lahko tako da spremenite vaš PIN ali geslo za zaklep zaslona. Želite spremeniti sedaj?</string>
+  <string name="password_expired_dialog_content_fmt">Podatki za %s se brišejo z vaše naprave. Povrnete jih lahko tako da spremenite vaš PIN ali geslo za zaklep zaslona. Želite spremeniti zdaj?</string>
   <string name="password_expired_dialog_title">Geslo za zaklep zaslona je poteklo</string>
   <string name="password_expired_ticker">Vaš PIN ali geslo zaklepa zaslona je poteklo</string>
   <string name="path_about_account_setting">Email/Setting/Accounts</string>
@@ -1053,7 +1053,7 @@ Poskusite z ostalo pošto."</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Vklop</string>
   <string name="turn_auto_sync_on_dialog_title">Vklopim samodejno sinhronizacijo?</string>
   <string name="unbind_dialog_text">"Po zaustavitvi analize ne boste imeli možnosti sprejeti opomnike.
-Zaustavim sedaj?"</string>
+Zaustavim zdaj?"</string>
   <string name="undo">Razveljavi</string>
   <string name="unknow">Neznano</string>
   <string name="unread_string">pogovor neprebran</string>

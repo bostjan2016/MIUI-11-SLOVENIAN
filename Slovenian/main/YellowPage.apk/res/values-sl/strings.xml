@@ -296,8 +296,8 @@
   <string name="miuishare_account_login_cancel">Prekliči</string>
   <string name="miuishare_account_login_confirmation">Prijavi se v Mi Račun</string>
   <string name="miuishare_account_login_ok">Prijava</string>
-  <string name="miuishare_account_need_activate">Vaš Weibo račun mora biti seznamjen z Mi Računom za deljenje. Kaže da vaš Mi Račun ni bil aktiviran. Ga želite aktivirati sedaj?</string>
-  <string name="miuishare_account_need_login">Vaš Weibo račun mora biti seznamjen z Mi Računom za deljenje. Vas prijavim sedaj?</string>
+  <string name="miuishare_account_need_activate">Vaš Weibo račun mora biti seznanjen z Mi Računom za deljenje. Kaže da vaš Mi Račun ni bil aktiviran. Ga želite aktivirati zdaj?</string>
+  <string name="miuishare_account_need_login">Vaš Weibo račun mora biti seznanjen z Mi Računom za deljenje. Vas prijavim zdaj?</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Omrežna povezava ni na voljo."</string>
   <string name="miuishare_publish">Pošlji</string>
@@ -375,7 +375,7 @@
   <string name="recharge_order_id">Naročilo #:</string>
   <string name="recharge_order_original_price">RMB %s</string>
   <string name="recharge_order_pay">Plačanje</string>
-  <string name="recharge_pay">Napolni sedaj</string>
+  <string name="recharge_pay">Napolni zdaj</string>
   <string name="recharge_pay_hint">Podpora s strani Xiaomi Inc.</string>
   <string name="recharge_pay_hint_license">Obvestila doplačila</string>
   <string name="recharge_payment_error">Rezervacija zaprta ali pa je prišlo do napake</string>
@@ -605,7 +605,7 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="yellow_page_details">Podrobnosti o podjetju</string>
   <string name="yellow_page_website">Uradna spletna stran</string>
   <string name="yellowpage_navigation_network_location_enable">Dovoli</string>
-  <string name="yellowpage_navigation_network_location_enable_later">Ne sedaj</string>
+  <string name="yellowpage_navigation_network_location_enable_later">Ne zdaj</string>
   <string name="yellowpage_navigation_network_location_enabled">Dostop do lokacije je dovoljen. To storitev lahko izklopite kadarkoli v nastavitavh</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Izboljšajte rezultate iskanja z dovoljenjem Rumenim stranem da pridobijo podatke o vaši lokaciji.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Dostop do lokacije</string>

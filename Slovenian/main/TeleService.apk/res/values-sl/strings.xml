@@ -1145,7 +1145,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="livetalk_continue_button_creat_account">Izdelava računa</string>
   <string name="livetalk_creat_account_fialed">Napaka računa</string>
   <string name="livetalk_dial_direct">Kliči direktno</string>
-  <string name="livetalk_experience_button">Poskusite sedaj</string>
+  <string name="livetalk_experience_button">Poskusite zdaj</string>
   <string name="livetalk_introduction_text">"Nizka poraba, nizki stroški in visoka kakovost
     Super poceni mednarodnih klici preko spleta"</string>
   <string name="livetalk_last_step">Nazaj</string>
@@ -1610,7 +1610,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="power_remaining_duration_only_short_enhanced">Še %1$s na temelju vaše uporabe</string>
-  <string name="prefered_network_type_3g_promp">Preden izberete 3G kot prednostno omrežje morate izključiti VoLTE. Izključim sedaj?</string>
+  <string name="prefered_network_type_3g_promp">Preden izberete 3G kot prednostno omrežje morate izključiti VoLTE. Izključim zdaj?</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
   <string name="preference_category_ringtone">Melodija zvonjenja &amp; vibracija</string>
   <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatkov</string>

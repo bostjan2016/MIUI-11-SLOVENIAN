@@ -203,7 +203,7 @@
   <string name="backup_sync_off_desc">Vključite sinhr. z Mi Cloudom za izdelavo var. kopiranja fotografij in videoposnetkov</string>
   <string name="backup_sync_off_title">Sinhr. z Mi Cloud je izključena</string>
   <string name="backup_with_gprs_dialog_btn">Shrani</string>
-  <string name="backup_with_gprs_dialog_message">%s podatkov je potrebno za izdelavo var. kopije. Izdelam var. kopijo sedaj?</string>
+  <string name="backup_with_gprs_dialog_message">%s podatkov je potrebno za izdelavo var. kopije. Izdelam var. kopijo zdaj?</string>
   <string name="backup_with_gprs_dialog_title">Izdelaj var. kopijo z uporabo mobilnih podatkov</string>
   <string name="backuped_desc">Fotografije in videoposnetki so var. kopirani na Mi Cloud</string>
   <string name="backuped_title">Var. kopija je uspešno izdelana</string>
@@ -480,7 +480,7 @@
   <string name="error_no_wifi_msg">"Vaša naprava ni povezana preko WiFi omrežja. Uporaba  mobilnih podatkov lahko povzroči dodatne stroške."</string>
   <string name="error_no_wifi_tip">"Ne morem se povezati na WiFi"</string>
   <string name="error_not_acceptable">Sinhronizacija je bila onemogočena.</string>
-  <string name="error_not_synced_action">Sinhr. sedaj</string>
+  <string name="error_not_synced_action">Sinhr. zdaj</string>
   <string name="error_not_synced_msg">"Podatki se ne sinhronizirajo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="error_not_synced_tip">"Podatki se ne sinhronizirajo."</string>
   <string name="error_over_quota_tip">Preveč zahtev. Počakajte minuto ali dve in poskusite ponovno.</string>
@@ -879,7 +879,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_editor_miui_beauty_no_face">"Ne najdem obraza"</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">Prekini</string>
-  <string name="photo_editor_navigator_download_network_metered_msg">Prenos %s potrebuje okoli 4 MB mobilnih podatkov. Prenesem sedaj?</string>
+  <string name="photo_editor_navigator_download_network_metered_msg">Prenos %s potrebuje okoli 4 MB mobilnih podatkov. Prenesem zdaj?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Opozorilo mob. podatkov</string>
   <string name="photo_editor_navigator_export">Shrani</string>
   <string name="photo_editor_navigator_module_download_failed">"Ne morem prenesti %s"</string>

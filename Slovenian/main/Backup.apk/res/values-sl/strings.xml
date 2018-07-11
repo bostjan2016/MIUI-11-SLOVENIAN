@@ -376,7 +376,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="task_post_running">Varnostno kopiranje...</string>
   <string name="task_pre_running">Začenjam...</string>
   <string name="task_progress">Napredek</string>
-  <string name="task_restore_cancel_dialog">Če ustavite sedaj lahko pride do izgube podatkov.</string>
+  <string name="task_restore_cancel_dialog">Če ustavite zdaj lahko pride do izgube podatkov.</string>
   <string name="task_restore_cancel_progress">Ustavljam...</string>
   <string name="task_restore_finished_local">Obnovitev končana</string>
   <string name="task_restore_none">Ničesar ni za obnoviti</string>

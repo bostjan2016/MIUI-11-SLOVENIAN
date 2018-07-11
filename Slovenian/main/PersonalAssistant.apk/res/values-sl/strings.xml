@@ -312,8 +312,8 @@
   <string name="locations">Pogosta mesta</string>
   <string name="locations_preferences">Naslovi</string>
   <string name="login_before_use">Najprej se morate prijaviti</string>
-  <string name="login_dialog_body">Vključite sinh. z Mi Cloudom za dostop stvarem z večih naprav. Prijavim in vklopim sedaj?</string>
-  <string name="login_dialog_negative">Ne sedaj</string>
+  <string name="login_dialog_body">Vključite sinh. z Mi Cloudom za dostop stvarem z večih naprav. Prijavim in vklopim zdaj?</string>
+  <string name="login_dialog_negative">Ne zdaj</string>
   <string name="login_dialog_positive">Prijavi se in vključi</string>
   <string name="login_dialog_title">Vključi sinhr.</string>
   <string name="login_ok">Prijavi se</string>
