@@ -272,7 +272,6 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s tem</string>
   <string name="resource_detail_recommend_other_themes">Uporabnikom je tudi všeč</string>
   <string name="resource_detail_update_log_title">Posodobitve</string>
-  <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Podrobnosti %1$s</string>
   <string name="resource_download">Prenos</string>
   <string name="resource_download_notification_title_many">Prenešenih tem: %1$s</string>
@@ -334,7 +333,6 @@
   <string name="resource_pack_price_info">Izvirna cena: %1$s</string>
   <string name="resource_pack_warning">Kupili ste že komponent %1$d v tej temi. Ceneje je če kupite preostale komponente posebej.</string>
   <string name="resource_present">Darilo</string>
-  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Brezplačno</string>
   <string name="resource_price_unit"> Mi Kreditov</string>
   <string name="resource_purchase_common_error">Prišlo je do napake, poskusite ponovno.</string>

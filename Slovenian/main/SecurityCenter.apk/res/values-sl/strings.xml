@@ -1443,10 +1443,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Varnost</string>
   <string name="menu_text_garbage_cleanup">Čiščenje</string>
-  <string name="menu_text_garbage_cleanup_danger">%s preseženo</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
-  <string name="menu_text_networkassistants_2">%s</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
   <string name="menu_text_networkassistants_remain">%s preostalo</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
@@ -1456,7 +1454,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_optimize_manage">Povečaj hitrost</string>
   <string name="menu_text_power_manager">Poraba baterije</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">Baterija %s</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
