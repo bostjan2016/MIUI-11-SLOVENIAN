@@ -1266,4 +1266,8 @@
         <item>WiFi</item>
         <item>Mobilna naprava</item>
     </string-array>
+	<string-array name="notch_battery_indicator_style_entries">
+        <item>Grafika</item>
+        <item>Odstotek</item>
+    </string-array>
 </resources>

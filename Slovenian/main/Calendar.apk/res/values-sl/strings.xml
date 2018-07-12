@@ -99,6 +99,7 @@
   <string name="delete_this_event_title">Izbrišem ta dogodek?</string>
   <string name="description_label">Opis:</string>
   <string name="directory_searching_fmt">Iskanje %s…</string>
+  <string name="discard_label">Prekini</string>
   <string name="does_not_repeat">Enkratni dogodek</string>
   <string name="done">Nazaj</string>
   <string name="edit_date_calculate_days_backward_error_hint">Ne morem izračunati naprej</string>

@@ -4320,6 +4320,7 @@ Vmesnik UT: %5$s"</string>
     <string name="retail_demo_reset_next">Naprej</string>
     <string name="retail_demo_reset_title">Vnesite geslo</string>
   <string name="retry">Poskusite znova</string>
+  <string name="rgb_manage_facerecoginition_text">Upravljaj podatke 2D obraza</string>
   <string name="ring_volume_option_title">Glasnost zvonenja</string>
   <string name="ring_volume_title">Glasnost zvonenja</string>
   <string name="ringtone_mute">Tiho</string>
@@ -5384,7 +5385,8 @@ Razmislite o uporabi hitrejše shrambe ^1, če želite boljše delovanje."</stri
   <string name="storageuse_settings_title">Uporaba pomnilnika</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
-  <string name="structure_add_facerecoginition_text">Dodaj 3D obraz</string>
+  <string name="structure_add_facerecoginition_text">Dodajte 3D obraz</string>
+  <string name="structure_manage_facerecoginition_text">Upravljaj podatke 3D obraza</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
   <string name="sub_activate_success">Uspešno aktivirano.</string>

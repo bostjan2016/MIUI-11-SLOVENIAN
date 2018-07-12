@@ -376,6 +376,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="apps_item_virus_summary_uninstalled">Aplik.</string>
   <string name="apps_list_header_title_sms">Kontrola aplikacije za pošiljanje sporočil</string>
   <string name="apps_list_header_title_sms_access">Omeji dostop na kode za potrditev</string>
+  <string name="ask_create_shortcut">Izdelajte bližnico Zač. zaslona?</string>
   <string name="auto_atsk_condition_battery_level_text_down">Ko baterija doseže %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Ko je baterija napolnjena do %s</string>
   <string name="auto_back_booster">Zaustavi pospeševanje</string>
@@ -824,7 +825,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
   <string name="dialog_roaming_warning_message">Po vklopu podatkovnega gostovanja vam bo operater zaračunal nadomestilo. Vključim vseeno?</string>
   <string name="dialog_roaming_warning_ok">Vključi</string>
-  <string name="dialog_text">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
   <string name="dialog_title_attention">Pozor</string>
   <string name="dialog_title_auto_start_declare">O samodejnem zagonu</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -1012,13 +1012,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="game_booster_title">Pohitritev</string>
   <string name="game_booster_total">Hitrost povečana %1$s krat, dodano %2$s časa igranja</string>
   <string name="game_bootser_tab_settings">Nastavitve pospeševanja</string>
-  <string name="game_improve_text1">Očisti predpomnilnik ozadja zaradi povečanja spomina za igranje</string>
-  <string name="game_improve_text2">Očisti predpomnilnik ozadja zaradi povečanja spomina za igranje in poboljšanja zmogljivosti procesorja</string>
-  <string name="game_improve_title">Optimiziraj zmogljivost</string>
   <string name="game_more_improve">Omejite aktivnosti v ozadju in hitrost prenosov da prihranite baterijo in prepustnost za igranje</string>
-  <string name="game_net_text1">Omejite hitrost prenosa v ozadju da zmanjšate omrežno zastajanje</string>
-  <string name="game_net_text2">Povečajte hitrost povezave omrežne igre z omejitvijo hitrosti prenosa v ozadju da zmanjšate omrežno zastajanje</string>
-  <string name="game_net_title">Optimiziraj hitrost povezave</string>
   <string name="game_setting">Nastavitve igre</string>
   <string name="gamebooster_lowbattery_notification_summary">Napolnite napravo predno se izključi.</string>
   <string name="gamebooster_lowbattery_notification_title">Baterija je na manj kot 5%%</string>
@@ -1034,9 +1028,20 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="gb_create_icon_summary">Izdelaj bližnjico Zač. zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
+  <string name="gb_first_window_antimsg_summary_quick_answer">Uporabi hitre odgovore</string>
+  <string name="gb_first_window_antimsg_summary_transparent_show">Poglejte tekst na prozorni podlagi</string>
+  <string name="gb_first_window_antimsg_title">Lepa obvestila</string>
+  <string name="gb_first_window_gamebox_summary_four">Brisanje predspomina, snemanje zaslona in izdelava posnetka zaslona</string>
+  <string name="gb_first_window_gamebox_summary_six">Uporabite hitre odgovore, posnemite zaslon in izdelajte posnetke zaslona</string>
+  <string name="gb_first_window_handsfree_summary">Samodejno vključi zvočnik</string>
+  <string name="gb_first_window_handsfree_title">Prostoročni klici</string>
+  <string name="gb_first_window_start">Začnite igrati</string>
+  <string name="gb_first_window_summary">Povečajte hitrost in zmogljivost na nivoju sistema</string>
+  <string name="gb_first_window_title">Pospeševalec igre</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -1178,8 +1183,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="international_Ad">Reklama</string>
   <string name="international_roaming_setting">Mednarodno gostovanje</string>
   <string name="international_roaming_whitelist_count">%d aplik. se lahko poveže na podatkovne storitve v gostovanju</string>
-  <string name="intro_improve">Povečajte svojo izkušnjo igranja na nivoju sistema</string>
-  <string name="intro_skip">Preskoči</string>
   <string name="ip_address_exception_summary">"Ni bilo mogoče dobiti IP naslova. Če ponovno naletite na to težavo poskusite uporabiti statični IP naslov."</string>
   <string name="item_app_permission">Dovoljenje aplikacije</string>
   <string name="item_dev_mode">Možnost za razvijalce</string>
@@ -1327,6 +1330,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_traffic_used_text">Izkoriščeno</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Dodajte ročni samod. zagon aplikacije</string>
+  <string name="manage_hybrid_permissions">"Upravljanje dovoljenj aplikacij"</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="manual_handle_title">DOSTOPNE FUNKCIJE</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
@@ -1453,7 +1457,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povečaj hitrost</string>
   <string name="menu_text_power_manager">Poraba baterije</string>
-  <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
@@ -2227,8 +2230,6 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>
-  <string name="save_energy_text">"Omeji samod. zagon in sinhronizacijo aplikacij v ozadju da dobite največ iz baterije naprave"</string>
-  <string name="save_energy_title">Optimiziraj baterijo</string>
   <string name="saving_conflict_dialog_cancel">Prekini</string>
   <string name="saving_conflict_dialog_ok">V redu</string>
   <string name="saving_conflict_dialog_title">Pozor</string>

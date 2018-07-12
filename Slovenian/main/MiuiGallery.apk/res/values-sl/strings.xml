@@ -72,6 +72,7 @@
   <string name="album_name_people">Osebe</string>
   <string name="album_name_recent_discovery">Nedavno</string>
   <string name="album_name_tags">Oznake</string>
+  <string name="album_notes">Beleške</string>
   <string name="album_others_share_baby_info_format">Otroški album od %s</string>
   <string name="album_others_share_info_format">Pošilja %s</string>
   <string name="album_owner_share">Deljeno</string>
@@ -540,7 +541,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="fancy_color_desc">Barve</string>
   <string name="fast_share_auto_render">Olepšanje</string>
   <string name="fast_share_auto_render_finish">Olepšano</string>
-  <string name="feature_guidance_photo_effects">Efekti za fotografije</string>
+  <string name="feature_guidance_photo_effects">"Dostopni so novi efekti
+za fotografije"</string>
+  <string name="feature_guidance_video_editor_smart_effects">Dostopni so novi efekti</string>
   <string name="filllight">Dopolnilna svetloba</string>
   <string name="filter_bi_memory">Spomin</string>
   <string name="filter_bi_mono">Mono</string>
@@ -923,6 +926,12 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photo_save_to_msg">Shranjeno v %s</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="photomovie_audio_custom">Lokalno</string>
+  <string name="photomovie_audio_default">Shramba</string>
+  <string name="photomovie_audio_kawaii">Romantika</string>
+  <string name="photomovie_audio_light">Balada</string>
+  <string name="photomovie_audio_linear">Rock</string>
+  <string name="photomovie_audio_soft">Ukulele</string>
+  <string name="photomovie_audio_sport">Techno</string>
   <string name="photomovie_audio_none">Nič</string>
   <string name="photomovie_audio_unsupport">Vrsta zvoka ni podprta</string>
   <string name="photomovie_cancel_download">Prekliči prenos</string>
@@ -946,6 +955,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="photomovie_tab_music">Glasba</string>
   <string name="photomovie_tab_template">Predloga</string>
   <string name="photomovie_template_default">Počasi</string>
+  <string name="photomovie_template_kawaii">Charms</string>
+  <string name="photomovie_template_light">Breeze</string>
+  <string name="photomovie_template_linear">Roadtrip</string>
+  <string name="photomovie_template_soft">Youth</string>
+  <string name="photomovie_template_sport">Vigor</string>
   <string name="pick_from_contact">Izberi iz stikov</string>
   <string name="pick_too_many_recipients">Preveč prejemnikov</string>
   <string name="picker_cancel_download">Odpovej prenos</string>
@@ -959,6 +973,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="picker_mobile_data_video">"Ne morem prenesti videposnetke z mobilnimi podatki, preskoči %d."</string>
   <string name="picker_no_network_message">Povežite se na omrežje za prenos</string>
   <string name="picker_origin_need_download">%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?</string>
+  <string name="picker_origin_request_progress_message">Priprava izvirnih datotek (%1$d/%2$d)…</string>
   <string name="picker_title_format">Izberite %1$d do %2$d fotografij</string>
   <string name="picker_title_selection_format">Izbrano %d fotografij</string>
   <string name="picker_title_selection_format_multiple">Izberite %1$d do %2$d fotografij (%3$d)</string>
@@ -1107,6 +1122,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_people_jump_failed">Počakajte da se fotografije z osebami sinhronizirajo z Mi Cloudom in poskusite ponovno</string>
   <string name="search_request_applied">Nastavljeno</string>
   <string name="search_request_open">Pridružite se raziskovalni ekipi</string>
+  <string name="search_request_requesting">Prejeto. Malo počakajte preden začnete.</string>
   <string name="search_result_empty">"Ne najdem nič"</string>
   <string name="search_retry">Poskusi ponovno</string>
   <string name="search_select_network">Izberi omrežje</string>
@@ -1144,6 +1160,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="secret_reason_too_large">Datoteka je prevelika</string>
   <string name="secret_reason_type_not_support">"Ta vrsta datotek ni podprta"</string>
   <string name="secret_reason_unknow_reasons">Neznana napaka</string>
+  <string name="secret_reason_video_not_support">"V skriti album ni možno dodati videoposnetka"</string>
   <string name="see_ignore_faces">"Pokaži ignorirane osebe"</string>
   <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_origin_tip">Izvirna datoteka (%s)</string>
@@ -1365,7 +1382,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_smart_effect_fastslow">Motion</string>
   <string name="video_editor_smart_effect_freesze">Stop motion</string>
   <string name="video_editor_smart_effect_halo">Halo</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Ta efekt najbolje deluje z videoposnetki visoke hitrosti prenosa.</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Ta efekt najbolje deluje s 120 FPS videoposnetki.</string>
   <string name="video_editor_smart_effect_movie">Film</string>
   <string name="video_editor_smart_effect_none">Nič</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
@@ -1394,6 +1411,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_unsupport_audio_file">Nepodprta avdio datoteka</string>
   <string name="video_editor_unzip_file_fail">"Ne morem razširiti videoposnetek."</string>
   <string name="video_editor_video_is_short">"Ne morem urediti ta videoposnetek."</string>
+  <string name="video_editor_video_loading">Priprava videoposnetka, počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="video_editor_watermark">Vodni žig</string>
   <string name="video_err">"Ne morem predvajati videoposnetka."</string>
   <string name="video_not_exist">Videoposnetek ne obstaja</string>

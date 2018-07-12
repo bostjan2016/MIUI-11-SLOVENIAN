@@ -119,6 +119,12 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_status_ok_international">Najdite svojo napravo na www.mi.com/micloud</string>
   <string name="find_device_success_title">Najdi napravo</string>
   <string name="forget_password">Pozabljeno geslo</string>
+  <string name="hybrid_check_network">Omrežne nastavitve</string>
+  <string name="hybrid_data_error">Prišlo je do napake</string>
+  <string name="hybrid_network_access_denied">Dostop do omrežja je zavrnjen</string>
+  <string name="hybrid_network_unavaliable">"Ne morem se povezati v omrežje"</string>
+  <string name="hybrid_service_unavailiable">Storitev ni dostopna</string>
+  <string name="hybrid_try_again">Poskusi ponovno</string>
   <string name="free_space_has_received">Ta mesec ste že dodali zastonjski prostor</string>
   <string name="free_space_receive_fail">"Nadgradnja ni mogoča"</string>
   <string name="get_first_month_gb">Pridobi %s brezplačnega prostora</string>
