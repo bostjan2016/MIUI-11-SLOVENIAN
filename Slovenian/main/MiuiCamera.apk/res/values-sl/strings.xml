@@ -513,6 +513,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_front_mirror_entry_on">Vklop</string>
   <string name="pref_front_mirror_label_auto">Samodejno</string>
   <string name="pref_front_mirror_title">Zrcalna sprednja kamera</string>
+  <string name="pref_google_lens">Google leče</string>
   <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
   <string name="pref_manual_exposure_title">čas ekspozicije</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>

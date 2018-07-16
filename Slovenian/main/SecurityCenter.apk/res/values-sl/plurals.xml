@@ -446,4 +446,12 @@
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+	 <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">%d aplikacij je lahko skrito</item>
+        <item quantity="one">%d aplikacija je lahko skrita</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d aplikacij je skrito</item>
+        <item quantity="one">%d aplikacija je skrita</item>
+    </plurals>
 </resources>

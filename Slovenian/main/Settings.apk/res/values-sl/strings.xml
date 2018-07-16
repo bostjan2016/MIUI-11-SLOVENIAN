@@ -5099,6 +5099,8 @@ Morda je koda PIN napačna."</string>
     <string name="sound_settings_summary">Glasnost zvonjenja %1$s</string>
     <string name="sound_settings_summary_silent">Zvonjenje je nastavljeno na tiho</string>
     <string name="sound_settings_summary_vibrate">Zvonjenje je nastavljeno na vibriranje</string>
+  <string name="sound_stereo_mode_summary">Na voljo samo ko predvajate zvok preko zvočnika</string>
+  <string name="sound_stereo_mode_title">Stereo zvok</string>
   <string name="sound_vibrate_settings">Zvok &amp; vibracija</string>
     <string name="sound_work_settings">Zvoki v delovnem profilu</string>
     <string name="special_access">Posebni dostop za aplikacije</string>
@@ -5787,6 +5789,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>
   <string name="unmount_inform_text">Pomnilnik USB bo izpet.</string>
+  <string name="unmute_sound_title">Vključi zvok</string>
   <string name="unrestrict_max_aspect_ratio_title">Te aplikacije so optimizirane za cel zaslon</string>
   <string name="unrestricted_app_summary">Dovoli neomejen dostop do podatkov ko je Varčevanje podatkov vključeno</string>
   <string name="unrestricted_app_title">Neomejena poraba prenosa podatkov</string>

@@ -353,7 +353,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da lahko prekličete geslo če ga slučajno pozabite"</string>
   <string name="applock_add_account_setting">Račun &amp; zasebnost</string>
   <string name="applock_bind_account_title">Pozabljeno geslo</string>
-  <string name="applock_close_dialog_summary">Po izključitvi zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
+  <string name="applock_close_dialog_summary">Vse skrite aplikacije bodo vidne, bližnjice zač. zaslona bodo obnovljene, gesla za zakl. aplikacije bodo izbrisana. Želite izključiti zakl. aplikacij?</string>
   <string name="applock_close_dialog_title">Izključim zakl. aplikacij?</string>
   <string name="applock_exit_account_info">Ko se odjavite bo račun samodejno odstranjen</string>
   <string name="applock_header_text_less_than_half">Premalo prostora. Povlecite separator malo naprej.</string>
@@ -1798,7 +1798,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Načrtovan čas vklop/izklop</string>
-  <string name="power_center_back">Nazaj v Baterija</string>
+  <string name="power_center_back">Nazaj</string>
   <string name="power_center_battery_full">"Baterija je napolnjena "</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
@@ -2099,8 +2099,22 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="preferred_app_entries_launcher">Zaganjalnik</string>
   <string name="preferred_app_entries_messaging">Sporočila</string>
   <string name="preferred_app_entries_music">Glasba</string>
-  <string name="privacy_declare_dialog_message">"Z uporabo te storitve se strinjate z Opera &lt;a href=%s&gt; Pogoji Nudenja storitve&lt;/a&gt;."</string>
-  <string name="privacy_declare_dialog_title">Pogoji Nudenja storitev</string>
+  <string name="privacy_apps">Skrite aplikacije</string>
+  <string name="privacy_apps_category_title">Skrite aplikacije</string>
+  <string name="privacy_apps_checkbox_remind_choice">"Ne kaži več"</string>
+  <string name="privacy_apps_close">Zapri</string>
+  <string name="privacy_apps_enable_summary">Premesti aplikacije v skrito mapo in odstrani njihove bližnjice zač. zaslona</string>
+  <string name="privacy_apps_go_to_use">Start</string>
+  <string name="privacy_apps_manage">Urejaj Skrite aplikacije</string>
+  <string name="privacy_apps_manage_dialog_title">O Skritih aplikacijah</string>
+  <string name="privacy_apps_manager_dialog_message">Skrivanje aplikacij zahteva nastavljanje zaklepanja zaslona aplikacije. Obvestila za skrite aplikacije bodo izključena. Skrijem to aplikacijo?</string>
+  <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Ko skrijete aplikacijo bo premeščena v skrito mapo. Bližnjica zač. zaslona bo tudi skrita.
+Ni podprto za sistemske aplikacije."</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Po vnosu gesla se bo pojavila mapa s skritimi aplikacijami.</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">"Razširite dva prsta na zaslonu. Videli boste sporočilo da vnesete geslo za zakl. aplikacije."</string>
+  <string name="privacy_declare_dialog_message">"Z uporabo te storitve se strinjate z Opera &lt;a href=%s&gt; Pogoji uporabe&lt;/a&gt;."</string>
+  <string name="privacy_declare_dialog_title">Pogoji uporabe</string>
   <string name="privacy_dialog_message">"Ko se povežete na splet bo to sporočilo skupaj z informacijami o mobilnem operaterju šifrirano in poslana na Mi strežnike da bomo izboljšali nadzor nad uporabo podatkov."</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi se posodobile informacije porabe podatkov."</string>
