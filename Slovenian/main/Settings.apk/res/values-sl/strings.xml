@@ -2424,7 +2424,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="instant_app_details_summary">Več informacij o aplikaciji %1$s</string>
     <string name="instant_apps_account">Račun za nenamestljive aplikacije</string>
   <string name="instruction_privacy_password">To geslo ščiti naslednje stvari</string>
-  <string name="instruction_title">Navodila</string>
+  <string name="instruction_title">Važne varnostne informacije</string>
   <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Opravilo:</string>
@@ -5388,6 +5388,8 @@ Razmislite o uporabi hitrejše shrambe ^1, če želite boljše delovanje."</stri
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
   <string name="structure_add_facerecoginition_text">Dodajte 3D obraz</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">"Ta storitev se ne more uporabiti zaradi slabe baterije"</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">Baterija mora biti napolnjena najmanj 5% za začetek snemanja.</string>
   <string name="structure_manage_facerecoginition_text">Upravljaj podatke 3D obraza</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>

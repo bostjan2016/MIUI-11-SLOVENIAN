@@ -21,6 +21,10 @@
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
   <string name="btn_back">Nazaj</string>
   <string name="btn_continue">Nadaljuj</string>
+  <string name="btn_restore_abort">Prekliči</string>
+  <string name="btn_restore_cancel">Prekliči</string>
+  <string name="btn_restore_resume">Nadaljuj</string>
+  <string name="btn_restore_retry">Poskusi ponovno</string>
   <string name="btn_retry">Ponovno preveri</string>
   <string name="btn_skip">Preskoči ta korak</string>
   <string name="button_cancel">Prekini</string>
@@ -125,6 +129,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="menu_item_sort_name">Ime</string>
   <string name="menu_item_sort_size">Velikost</string>
   <string name="miui_device_name">Android</string>
+  <string name="msg_alert_cancel_restore">Ustavim povrnitev var. kopije iz Mi Clouda?</string>
+  <string name="msg_alert_restore_error">Povrnitev var. kopije s Mi Clouda ni uspela, poskusite ponovno.</string>
   <string name="name_model">"%1$s %2$s"</string>
   <string name="no_account">Niste prijavljeni v Mi Račun.</string>
   <string name="no_backup">Ni var. kopij v Mi Cloudu</string>
@@ -135,7 +141,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="open_wifi">Vključi WiFi</string>
   <string name="open_wifi_description">Za obnovitev aplikacije se povežite v WiFi omrežje</string>
   <string name="open_wifi_setting">WiFi nastavitve</string>
-  <string name="process_whole_recovery">Obnavljam %s</string>
+  <string name="process_whole_recovery">Obnavljam \"%s\"</string>
   <string name="provision_error_connect_msg">Preverite omrežje in poskusite znova. Var. kopija ni dostopna brez omrežja.</string>
   <string name="provision_error_connect_title">Ne morem se povezati</string>
   <string name="query_restore_back_view">Mi Cloud var. kopija</string>
@@ -171,6 +177,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="start_backup_to_micloud">Varnostno kopiraj aplikacije na Mi Cloud</string>
   <string name="start_recover">Obnavljanje %s</string>
   <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
+  <string name="title_alert_cancel_restore">Ustavi obnovitev</string>
+  <string name="title_alert_restore_error">Obnovitev ni uspela</string>
   <string name="total_num">%d stvari,</string>
   <string name="total_space">Skupni prostor: %s</string>
   <string name="trans_pausing">Premor…</string>

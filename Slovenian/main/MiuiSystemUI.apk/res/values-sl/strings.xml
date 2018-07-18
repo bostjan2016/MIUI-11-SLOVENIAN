@@ -225,8 +225,8 @@
   <string name="accessibility_settings">Nastavitve</string>
   <string name="accessibility_settings_button">Sporočila sistema.</string>
   <string name="accessibility_signal_full">Signal poln.</string>
-  <string name="accessibility_splite_screen_primary">Dodaj v deljeni zaslon primarne aplikacije</string>
-  <string name="accessibility_splite_screen_secondary">Dodaj v deljeni zaslon sekundarne aplikacije</string>
+  <string name="accessibility_splite_screen_primary">Dodana kot primarna aplikacija v deljenem zaslonu</string>
+  <string name="accessibility_splite_screen_secondary">Dodana kot sekundarna aplikacija v deljenem zaslonu</string>
   <string name="accessibility_status_bar_headphones">Slušalke so povezane</string>
   <string name="accessibility_status_bar_headset">Slušalke so povezane</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>
@@ -1611,6 +1611,8 @@ morda nadzira"</string>
   <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obraza je majn varna od vzorca, PIN-a, ali gesla. Kadar je ta funkcija vključena se naprava lahko odklene z vašo fotografijo kot tudi z fotografijo vam podobnih ljudi.</string>
   <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je ta funkcija vključena. Toda ljudje ali predmeti ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje obraza</string>
+  <string name="structure_face_unlock_not_same_person">"Sami morate izvršiti vse korake. Ne menjajte mesta z nikomer."</string>
+  <string name="structure_face_unlock_really_person">"Kaže da ste zamenjali obraz z nekim objektom."</string>
     <string name="switch_bar_off">Izklop</string>
     <string name="switch_bar_on">Vklopljeno</string>
     <string name="system_ui_tuner">Uglaševalnik uporabniškega vmesnika sistema</string>
