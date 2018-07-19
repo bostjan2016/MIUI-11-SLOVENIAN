@@ -457,6 +457,9 @@ hitrost vzorčenja"</string>
   <string name="daltonizer_type_overridden">Urejeno s storitvijo %1$s</string>
   <string name="data_connection_no_internet">Ni spleta</string>
   <string name="data_saver">Varčevanje podatakov</string>
+  <string name="data_saver_description">Da biste zmanjšali porabo podatkov, bo varčevanje podatkov preprečilo nekaterim aplikacijam pošiljanje ali sprejemanje podatkov v ozadju. Aplikacija ki jo trenutno uporabljate lahko dostopa do podatkov, ampak manj pogosto. Npr. da se slike ne prikažejo dokler jih ne tapnete.</string>
+  <string name="data_saver_enable_button">Vključi</string>
+  <string name="data_saver_enable_title">Vključim varčevanje podatkov?</string>
   <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov.     
 
 Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna.</string>

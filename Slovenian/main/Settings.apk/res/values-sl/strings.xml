@@ -5166,6 +5166,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_notification_led">Svetloba obvestil</string>
   <string name="status_bar_settings_notification_priority">Prioriteta</string>
   <string name="status_bar_settings_notification_priority_summary">Pokaži obvestila na vrhu seznama</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Bližnjica plošče obvestil</string>
   <string name="status_bar_settings_notification_sound">Zvok</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
