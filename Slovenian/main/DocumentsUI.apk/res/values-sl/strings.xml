@@ -21,7 +21,7 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="allow">Dovoli</string>
   <string name="app_label">Dokumenti</string>
-  <string name="archive_loading_failed">Arhiv se ne more odpreti za pregledovanje. Datoteka je poškodovana iali njen format ni podprt.</string>
+  <string name="archive_loading_failed">Arhiv se ne more odpreti za pregledovanje. Datoteka je poškodovana ali njen format ni podprt.</string>
   <string name="authentication_required">Da boste pregledali ta direktorij se prijavite na %1$s</string>
   <string name="button_compress">Strni</string>
   <string name="button_copy">Kopiraj</string>

@@ -11,7 +11,7 @@
         <item quantity="few">Stiskanje %1$d datotek.</item>
     </plurals>
     <plurals name="compress_error_notification_title">
-        <item quantity="other">%1$d datoteka ni stisnjeno</item>
+        <item quantity="other">%1$d datotek ni stisnjeno</item>
         <item quantity="one">%1$d datoteka ni stisnjena</item>
         <item quantity="few">%1$d datoteke ni stisnjeno</item>
     </plurals>

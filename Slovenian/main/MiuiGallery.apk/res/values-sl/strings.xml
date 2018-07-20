@@ -1214,7 +1214,7 @@ za fotografije"</string>
   <string name="slim_description_dialog_ok">Razumem</string>
   <string name="slim_description_dialog_slim_after">"Po:  167KB"</string>
   <string name="slim_description_dialog_slim_before">"Pred:  3.07MB"</string>
-  <string name="slim_dialog_message">Optimizirane HD fotografije bodo prenešene iz Mi Clouda namesto izvirnih datoteka.</string>
+  <string name="slim_dialog_message">Optimizirane HD fotografije bodo prenešene iz Mi Clouda namesto izvirnih datotek.</string>
   <string name="slim_exit_dialog_positive">Ustavi</string>
   <string name="slim_exit_dialog_title">Ustavi optimiziranje</string>
   <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalnem pomnilniku z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>

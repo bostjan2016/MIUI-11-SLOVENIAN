@@ -445,7 +445,7 @@
   <string name="qq_clean_exit_confirm_msg">Ustavim pregled in izhod?</string>
   <string name="qq_clean_finish_summary">Izbrane datoteke so uspešno odstranjene</string>
   <string name="qq_data_type_cache">QQ predpomnilnik</string>
-  <string name="qq_data_type_cache_desc">"Te  datoteke boste lako povrnili ko se povežete na splet."</string>
+  <string name="qq_data_type_cache_desc">"Te  datoteke boste lahko povrnili ko se povežete na splet."</string>
   <string name="qq_data_type_chat">Zgodovina razgovorov razgovora</string>
   <string name="qq_data_type_chat_desc">"Ne morete povrniti zgodovine razgovorov."</string>
   <string name="qq_data_type_normal">Smeti</string>
