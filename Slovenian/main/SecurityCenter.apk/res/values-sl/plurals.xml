@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="fw_blocked_count_call">
-         <item quantity="other">%1$d klicov od %2$s in drugih</item>
+         <item quantity="other">%1$d klicev od %2$s in drugih</item>
          <item quantity="one">%1$d klic od %2$s</item>
      </plurals>
 	 <plurals name="fw_blocked_count_call_one">
@@ -114,11 +114,11 @@
          <item quantity="one">"%d aplikacija se ne more v ozadju povezati na omrežje"</item>
      </plurals>
      <plurals name="daily_sim_over_limit_notify_title">
-         <item quantity="other">"Izkoristili ste že %s dnevnih omejitve podatkov."</item>
+         <item quantity="other">"Izkoristili ste že %s dnevne omejitve podatkov."</item>
          <item quantity="one">"Izkoristili ste že %s dnevne omejitve podatkov."</item>
      </plurals>
      <plurals name="daily_sim_over_limit_dialog_message">
-         <item quantity="other">"Izkoristili ste že %s dnevnih omejitev podatkov.
+         <item quantity="other">"Izkoristili ste že %s dnevne omejitev podatkov.
  
  Če ponovno vključite mobilne podatke, vam vaš operater lahko zaračuna dodatne stroške."</item>
          <item quantity="one">"Izkoristili ste že %s dnevne omejitve podatkov.

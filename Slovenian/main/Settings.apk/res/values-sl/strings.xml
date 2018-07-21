@@ -1636,8 +1636,8 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_continue">Onemogoči</string>
   <string name="disable_data_string">Onemogoči podatkovno povezavo</string>
-  <string name="disable_overlays">Onemogući deljenje spom.</string>
-  <string name="disable_overlays_summary">Zmaraj uporabi GPU za zlaganje zaslona</string>
+  <string name="disable_overlays">Onemogoči deljenje spom.</string>
+  <string name="disable_overlays_summary">Zmeraj uporabi GPU za zlaganje zaslona</string>
   <string name="disable_power_key_long_press_under_keyguard">Izključi meni tipke za vklop</string>
     <string name="disable_service_message">Če se dotaknete \"V redu\", ustavite storitev %1$s.</string>
   <string name="disable_service_title">Želite izklopiti %1$s?</string>
@@ -5904,7 +5904,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
     <string name="use_open_wifi_automatically_summary">Samodejno povezovanje z zanesljivimi javnimi omrežji</string>
     <string name="use_open_wifi_automatically_title">Povezovanje z odprtimi omrežji</string>
   <string name="use_personalized_ad_service">Osebna priporočila oglasov</string>
-  <string name="use_personalized_ad_service_summary">Ko je priporočilo izključeno boste še naprej videli enako količino oglasov kot ko je vključena ampak ne bodo sloneli na vaših podatkoh o obnašanju ali na osebnih podatkih.</string>
+  <string name="use_personalized_ad_service_summary">Ko je priporočilo izključeno boste še naprej videli enako količino oglasov kot ko je vključena ampak ne bodo sloneli na vaših podatkih o obnašanju ali na osebnih podatkih.</string>
   <string name="use_privacy_password_immediate">Uporabi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
   <string name="use_this_wlan">Ostani povezan</string>
