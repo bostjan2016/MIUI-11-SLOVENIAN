@@ -144,6 +144,7 @@
   <string name="accessibility_quick_settings_airplane_off">Letalski način je izključen.</string>
   <string name="accessibility_quick_settings_airplane_on">Letalski način je vključen.</string>
   <string name="accessibility_quick_settings_alarm">Čas alarma: %s.</string>
+  <string name="accessibility_quick_settings_alarm_on">Alarm je nastavljen.</string>
   <string name="accessibility_quick_settings_alarm_set">Alarm je nastavljen.</string>
   <string name="accessibility_quick_settings_battery">Baterija – %s.</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth.</string>
@@ -151,6 +152,7 @@
   <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth vključen.</string>
   <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth povezan.</string>
   <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth se povezuje.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Baterija Bluetooth naprave %d odstotkov.</string>
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth izključen.</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth vključen.</string>
   <string name="accessibility_quick_settings_close">Zapiranje plošče.</string>
@@ -1012,7 +1014,7 @@ Poskusite ponovno čez %d sek."</string>
   <string name="miui_guide_dialog_message">Glasovi predstavnosti (glasba, videoposnetki ipd.) se bodo še dalje predvajali v tihem načinu. To lahko spremenite v nastavitvah.</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odklenjeno z Bluetooth napravo</string>
   <string name="miui_ringer_count_down">Odštevanje</string>
-  <string name="miui_ringer_count_down_time">Odštevanje: %s</string>
+  <string name="miui_ringer_count_down_time">%s</string>
   <string name="miui_ringer_standard">Tiho</string>
   <string name="miui_ringer_standard_description">Utišaj melodije zvonenja za dohodne klice in obvestila</string>
   <string name="miui_ringer_total">DND</string>

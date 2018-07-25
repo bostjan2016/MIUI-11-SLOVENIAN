@@ -476,6 +476,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_tilt_shift_entry_circle">Krog</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralela</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
+  <string name="pref_camera_video_bokeh_off">Video bokeh je zaprt</string>
+  <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_touchafaec_entry_off">Izključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Vključeno</string>
   <string name="pref_camera_ubifocus_title">Ponovni fokus</string>

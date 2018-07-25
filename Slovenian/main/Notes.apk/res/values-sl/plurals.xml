@@ -5,8 +5,8 @@
         <item quantity="one">Še %d sek.</item>
      </plurals>
      <plurals name="word_count">
-        <item quantity="other">Znakov: %s</item>
-        <item quantity="one">%s znak</item>
+        <item quantity="other">Znakova: %d</item>
+        <item quantity="one">%d znak</item>
      </plurals>
      <plurals name="note_count_in_folder">
         <item quantity="other">%1$s beležk</item>

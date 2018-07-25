@@ -5585,7 +5585,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="toast_need_login">Vpiši se v Mi Račun</string>
   <string name="total">DND</string>
   <string name="total_info">Utišaj zvoke in izključi vibracijo za vse razen alarma</string>
-  <string name="total_info_sub">in izključi vibracijo</string>
+  <string name="total_info_no_vibrator">Utišaj zvoke razen za alarme</string>
     <string name="total_memory">Pomnilnik skupaj</string>
   <string name="total_size">Skupaj %s</string>
   <string name="total_size_label">Skupaj</string>

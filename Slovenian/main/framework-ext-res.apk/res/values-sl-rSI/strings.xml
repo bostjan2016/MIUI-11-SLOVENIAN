@@ -182,6 +182,11 @@
   <string name="twohours">1 ura</string>
   <string name="unknown_caller">Neznana številka</string>
   <string name="user_switching_dialog_text">Sprememba…</string>
+  <string name="voice_begin">Kaj iščete?</string>
+  <string name="voice_button_action_down">Spusti za iskanje</string>
+  <string name="voice_button_action_up">Pritisni za govor</string>
+  <string name="voice_input_error_network">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="voice_input_error_other">Napaka. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>
   <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
