@@ -62,6 +62,7 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="audio_focus_exit_button_text">Izključi</string>
   <string name="back_bokeh_use_hint">"Pazite da objekt ne bo oddaljen več od 1.5 metra."</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Olepšanje</string>
+  <string name="beauty_fragment_tab_name_3d_makeup">Šminka</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
   <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
@@ -124,12 +125,16 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="dual_camera_too_close_toast">Preblizu za Dvojne efekte kamere.</string>
   <string name="dual_camera_use_hint">"Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="edit_chin">Brada</string>
+  <string name="edit_blusher">Rdečilo</string>
   <string name="edit_eye_large">Velike oči</string>
+  <string name="edit_eyebrow_dye">Obrvi</string>
   <string name="edit_face_ruddy">Rumeno</string>
   <string name="edit_face_slender">Vitko</string>
+  <string name="edit_jelly_lips">Sijaj za ustnice</string>
   <string name="edit_lips">Ustnice</string>
   <string name="edit_neck">Vrat</string>
   <string name="edit_nose">Nos</string>
+  <string name="edit_pupil_line">Črtalo za oči</string>
   <string name="edit_risorius">Risorius</string>
   <string name="edit_skin_smooth">Smooth</string>
   <string name="edit_skin_white">Ton</string>

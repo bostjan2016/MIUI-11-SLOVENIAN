@@ -3860,6 +3860,7 @@ Na tej napravi je več uporabnikov.
   <string name="picture_source">Vir slike</string>
   <string name="pin_failed">Postopek za odklepanje s kodo PIN kartice SIM ni uspel.</string>
   <string name="ping_test_label">Zaženi ping test</string>
+  <string name="play_pause_description">Tipka premor/predvajanje</string>
   <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
   <string name="please_type_passphrase">Geslo</string>
   <string name="pointer_location">Mesto kazalca</string>

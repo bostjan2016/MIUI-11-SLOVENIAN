@@ -16,7 +16,7 @@
   <string name="activate_feature_register_xiaomi_account">Nastavitev Mi Računa</string>
   <string name="activate_feature_remote_assist">Oddaljena pomoč</string>
   <string name="activate_feature_verify_mx_token">Preveritev Mi Računa</string>
-  <string name="activate_feature_voip">Mi Glasovno sporočilo</string>
+  <string name="activate_feature_voip">Mi sporočilo VoIP</string>
   <string name="activate_history_canceled_overview">Aktiviranje SIM kartice je preklicano. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">Aktiviranje SIM kartice %2$d je preklicano. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspešno aktivirana. Aktivirana s funkcijo \"%1$s\".</string>
@@ -41,9 +41,9 @@
   <string name="activate_popup_desc_2_intl_sim_cards">Vaš operater vam lahko zaračuna 2 mednarodni SMS sporočili uporabljeni za aktiviranje %s.</string>
   <string name="activate_popup_desc_2_sim_cards">Vaš operater vam lahko zaračuna 2 SMS sporočili uporabljeni za aktiviranje %s.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Ne morem najti vaše telefonske številke. Preverite ali je vaša SIM kartica aktivirana.
-vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivirate %s"</string>
+vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivirate %s."</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne morem poslati SMS aktivacije. Preverite ali je vaša SIM kartica aktivirana.
-Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivirate %s"</string>
+Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivirate %s."</string>
   <string name="activate_popup_desc_error_device_id">Vnesite *#06# za kontrolo IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">Številka telefona katero ste vnesli ni pravilna.</string>
   <string name="activate_popup_desc_failed_query_info">"Ne morem najti vaše številke telefona. Preverite ali je vaša SIM kartica aktivirana."</string>
@@ -67,7 +67,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_popup_desc_voip_privacy">Pravila o zasebnosti</string>
   <string name="activate_popup_desc_voip_privacy_prefix">"VoIP Storitev je podprta s strani Weihui. Prikaži Weihui "</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Ne morem najti številke telefona"</string>
-  <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne morem poslati aktivacijski SMS"</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne morem poslati SMS sporočilo"</string>
   <string name="activate_popup_title_error_device_id">Neveljaven IMEI</string>
   <string name="activate_popup_title_failed_phone_error">Neveljavna številka telefona</string>
   <string name="activate_popup_title_failed_query_info">"Ne morem najti številke"</string>
@@ -89,7 +89,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_status_desc_getting_gateway">Sprejem SMS-a za dostop</string>
   <string name="activate_status_desc_prepare_sending_sms">priprava pošiljanja aktivacijskega SMS-a za dostop</string>
   <string name="activate_status_desc_query_activation_info">Aktivacijska informativna poizvedba s strežnika</string>
-  <string name="activate_status_desc_query_activation_info_downlink_sms_error">Strežnik ni uspel poslati aktivacijskega SMS na vaš telefon</string>
+  <string name="activate_status_desc_query_activation_info_downlink_sms_error">"Strežnik ni uspel poslati aktivacijskega SMS na vaš telefon"</string>
   <string name="activate_status_desc_query_activation_info_no_info">"Ne morem najti informacije o aktivaciji na strežniku"</string>
   <string name="activate_status_desc_query_activation_info_server_error">Prišlo je do napake na strežniku pri pošiljanju informativne poizvedbe o aktivaciji</string>
   <string name="activate_status_desc_registering_sim_account">Registracija SIM kartice na strežniku</string>
@@ -107,12 +107,12 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_status_title_activating">Aktivacija SIM kartice…</string>
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %d…</string>
   <string name="agree">Strinjam se</string>
-  <string name="app_name">Aktivacija SIM kartice</string>
+  <string name="app_name">Xiaomi storitev aktivacije SIM kartice</string>
   <string name="checking_client">Preverjanje klienta</string>
-  <string name="error_checking_client">Napaka klienta</string>
+  <string name="error_checking_client">Prišlo je do napake med aktivacijo</string>
   <string name="error_network_io">Napaka omrežja</string>
-  <string name="error_no_send_sms_permission">Ni dovoljenja pošiljanja SMS-ov</string>
-  <string name="error_sim_not_in_service">SIM ni na voljo</string>
+  <string name="error_no_send_sms_permission">Xiaomi storitev aktivacije potrebuje dovoljenje za pošiljanje SMS-ov</string>
+  <string name="error_sim_not_in_service">Čakanje da bo SIM kartica aktivirana</string>
   <string name="explain_send_sms_permission_button">Preveri</string>
   <string name="explain_send_sms_permission_msg">Da vključite %s, bo Xiaomi Service Framework poslal SMS da preveri vašo številko telefona. Vaš operater vam bo to sporočilo zaračunal.</string>
   <string name="explain_send_sms_permission_title">Potrdite vašo številko telefona</string>

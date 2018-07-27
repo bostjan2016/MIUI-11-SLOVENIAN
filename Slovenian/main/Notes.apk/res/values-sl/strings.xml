@@ -149,8 +149,8 @@ Tapnite + da napravite mapo"</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
+  <string name="pref_title_alarm_when_silent">"Ne utišaj opomnike"</string>
   <string name="pref_title_cloud_trash_bin">Izbriši beležke iz Mi Clouda</string>
-  <string name="pref_title_alarm_when_silent">"Ne utišavaj opomnikov"</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>

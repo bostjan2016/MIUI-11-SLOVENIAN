@@ -1411,7 +1411,7 @@ za fotografije"</string>
   <string name="video_editor_unsupport_audio_file">Nepodprta avdio datoteka</string>
   <string name="video_editor_unzip_file_fail">"Ne morem razširiti videoposnetek."</string>
   <string name="video_editor_video_is_short">"Ne morem urediti ta videoposnetek."</string>
-  <string name="video_editor_video_loading">Priprava videoposnetka, počakajte trenutek ali dva in poskusite ponovno.</string>
+  <string name="video_editor_video_loading">Priprava videoposnetka… Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="video_editor_watermark">Vodni žig</string>
   <string name="video_err">"Ne morem predvajati videoposnetka."</string>
   <string name="video_not_exist">Videoposnetek ne obstaja</string>
