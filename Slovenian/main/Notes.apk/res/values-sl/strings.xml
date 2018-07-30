@@ -144,7 +144,6 @@ Tapnite + da napravite mapo"</string>
   <string name="notealert_enter">Poglej</string>
   <string name="notealert_ok">"Zavrzi"</string>
   <string name="notelist_menu_new">Dodaj beležko</string>
-  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Opomnik za beležke</string>
   <string name="permdesc_accessNote">Zlonamerne aplikacije lahko to uporabijo za dostop do vaših osebnih podatkov.</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
