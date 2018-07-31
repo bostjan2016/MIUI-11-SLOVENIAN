@@ -5173,6 +5173,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bližnjica plošče obvestil</string>
   <string name="status_bar_settings_notification_sound">Zvok</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
+  <string name="status_bar_settings_notification_sound_custom">Lastni zvok</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
   <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>

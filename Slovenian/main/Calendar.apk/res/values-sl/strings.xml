@@ -33,12 +33,12 @@
   <string name="app_label">Koledar</string>
   <string name="birthday_born">Rojstni dan</string>
   <string name="birthday_calendar_display_name">Rojstni dnevi</string>
-  <string name="birthday_event_description">Danes ima %4$s %1$s!</string>
+  <string name="birthday_event_description">Danes %4$s ima %1$s!</string>
   <string name="birthday_event_description_a_week_ago">Pred tednom</string>
   <string name="birthday_event_description_a_week_later">Teden kasneje</string>
   <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
-  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
+  <string name="birthday_event_description_default">"%1$s %4$s, %2$s. %3$s"</string>
   <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danes ima</string>
   <string name="birthday_event_description_tomorrow">Jutri bo</string>

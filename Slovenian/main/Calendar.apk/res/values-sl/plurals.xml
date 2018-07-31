@@ -92,16 +92,16 @@
          <item quantity="one">%1$d leto</item>
     </plurals>
     <plurals name="anniversary_year">
-         <item quantity="other">%1$ let</item>
-         <item quantity="one">%1$ leto</item>
+         <item quantity="other">%1$s let</item>
+         <item quantity="one">%1$s leto</item>
     </plurals>
     <plurals name="anniversary_day">
-         <item quantity="other">%1$ dni</item>
-         <item quantity="one">%1$ dan</item>
+         <item quantity="other">%1$s dni</item>
+         <item quantity="one">%1$s dan</item>
     </plurals>
     <plurals name="countdown_day">
-         <item quantity="other">preostalo %1$ dni</item>
-         <item quantity="one">preostal %1$ dan</item>
+         <item quantity="other">preostalo %1$s dni</item>
+         <item quantity="one">preostal %1$s dan</item>
     </plurals>
 	<plurals name="work_days">
          <item quantity="other">%d delovnih dni</item>
