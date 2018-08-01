@@ -1222,10 +1222,10 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="same_folder_name_warning">Mapa z istim imenom že obstaja</string>
   <string name="save_button_text">Shrani</string>
   <string name="save_dialog_title">Shrani</string>
-  <string name="save_file">Shrani datoteko %s</string>
+  <string name="save_file">"Shrani "</string>
   <string name="save_file_already_exist_alert_message">Datoteka z istim imenom že obstaja, želite da jo prepišem?</string>
   <string name="save_file_already_exist_alert_title">Prepišem datoteko?</string>
-  <string name="save_file_suffix">datoteka</string>
+  <string name="save_file_suffix">" datoteko"</string>
   <string name="save_form_data_confirm_message">Izklop te funkcije lahko vpliva na porabo.</string>
   <string name="save_image_failed">Slike ni bilo mogoče shraniti</string>
   <string name="save_image_success">Slika shranjena</string>

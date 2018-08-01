@@ -4,7 +4,7 @@
   <string name="aaid_info">"
  Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koristila.
  
- Če ne želite uporabljati prilagojene oglase se količina oglašavanja ne bo zmanjšala, manjša bo le količina korisnih oglasov."</string>
+ Če ne želite uporabljati prilagojene oglase se količina oglašavanja ne bo zmanjšala, manjša bo le količina koristnih oglasov."</string>
   <string name="abc_action_bar_home_description">Krmarjenje domov</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -3400,7 +3400,7 @@ Na tej napravi je več uporabnikov.
     <string name="notification_channel_badge_title">Pokaži obvestilno piko</string>
     <string name="notification_channel_sound_title">Zvok</string>
     <string name="notification_channel_title">Kategorija obvestil</string>
-    <string name="notification_channels">Kategorije</string>
+    <string name="notification_channels">Kategorije obvestil</string>
     <string name="notification_channels_other">Drugo</string>
     <string name="notification_content_block_summary">Nikoli ne pokaži obvestil na zaslonu z obvestili ali v zunanjih napravah.</string>
     <string name="notification_content_block_title">Pokaži obvestila</string>

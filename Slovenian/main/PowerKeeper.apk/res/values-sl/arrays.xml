@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="pc_manage_active_app_items">
-        <item>Neposredno mirovanje</item>
-        <item>Strategija prihranka energije</item>
+        <item>Postavite aplikacije v mirovanje</item>
+        <item>Varčevanje energije</item>
     </string-array>
     <string-array name="group_name_translate">
         <item>Privzeto</item>
@@ -104,8 +104,8 @@
          <item>Zmogljiv način</item>
      </string-array>
      <string-array name="thermal_summaries">
-         <item>Trenutni način upravljanja z temperaturo</item>
-         <item>Trenutni način izvedbe</item>
+         <item>Prednost kontroli temperature</item>
+         <item>Prednost</item>
      </string-array>
 	 <string-array name="power_mode_entries">
          <item>Zmogljivost</item>

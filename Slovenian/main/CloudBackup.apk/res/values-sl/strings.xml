@@ -129,8 +129,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="menu_item_sort_name">Ime</string>
   <string name="menu_item_sort_size">Velikost</string>
   <string name="miui_device_name">Android</string>
-  <string name="msg_alert_cancel_restore">Ustavim povrnitev var. kopije iz Mi Clouda?</string>
-  <string name="msg_alert_restore_error">Povrnitev var. kopije iz Mi Clouda ni uspela, poskusite ponovno.</string>
+  <string name="msg_alert_cancel_restore">Povrnitev stvari. Ustavim?</string>
+  <string name="msg_alert_restore_error">Povrnitev stvari iz Mi Clouda ni uspela, poskusite ponovno.</string>
   <string name="name_model">"%1$s %2$s"</string>
   <string name="no_account">Niste prijavljeni v Mi Račun.</string>
   <string name="no_backup">Ni var. kopij v Mi Cloudu</string>

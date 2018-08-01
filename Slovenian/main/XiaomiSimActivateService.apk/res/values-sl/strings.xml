@@ -108,11 +108,11 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %d…</string>
   <string name="agree">Strinjam se</string>
   <string name="app_name">Aktivacija SIM kartice</string>
-  <string name="checking_client">Preverjanje klienta</string>
+  <string name="checking_client">Preverjanje okolja plačila</string>
   <string name="error_checking_client">Napaka klienta</string>
   <string name="error_network_io">Napaka omrežja</string>
   <string name="error_no_send_sms_permission">Ni dovoljenja pošiljanja SMS-ov</string>
-  <string name="error_sim_not_in_service">SIM ni na voljo</string>
+  <string name="error_sim_not_in_service">Ne morem aktivirati SIM kartice. Preverite stanje svojega računa.</string>
   <string name="explain_send_sms_permission_button">Preveri</string>
   <string name="explain_send_sms_permission_msg">Da vključite %s, bo Xiaomi Service Framework poslal SMS da preveri vašo številko telefona. Vaš operater vam bo to sporočilo zaračunal.</string>
   <string name="explain_send_sms_permission_title">Potrdite vašo številko telefona</string>
@@ -125,5 +125,5 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="privacy_revoke_failed_msg">Aktivacija zahteva avtorizacijo tako da aplikacija Sporočila lahko dobi vašo številko telefona.</string>
   <string name="privacy_revoke_tips">Po Preklicu avtorizacije bo aplikacija Sporočila prenehala zbirati podatke, obstoječe pa izbrisala iz strežnika. Sinhkronizacija z Mi Cloudom, Mi sporočila in podobne storitve ne bodo več dosegljive. Vseeno prekličem avtorizacijo?</string>
   <string name="sim_unactivated_title">"Vaša SIM kartica ni aktivirana"</string>
-  <string name="waiting_sim_in_service">Čekam da bo SIM na voljo</string>
+  <string name="waiting_sim_in_service">Čekam da bo SIM aktivirana</string>
 </resources>

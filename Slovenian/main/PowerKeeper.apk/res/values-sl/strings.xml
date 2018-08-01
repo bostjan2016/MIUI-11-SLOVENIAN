@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_hide_mode">O Varčevanju baterije</string>
-  <string name="active_classify">Razvrsti glede na aktivno stanje</string>
+  <string name="active_classify">Razvrsti glede na status aktivnosti</string>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Nastavitve</string>
   <string name="action_title_optimize">Optimiziraj</string>
@@ -22,14 +22,14 @@
   <string name="app_name">Baterija in Zmogljivost</string>
   <string name="app_preload_policies_summary">Uporabite strojno učenje za predvidevanje aplikacij katere najpogosteje uporabljate in vnaprej naložite podatke</string>
   <string name="app_preload_policies_title">AI prednalaganje</string>
-  <string name="appconfig_active_app_dialog_title">Aktivno upravljanje s konfiguracijo aplikacije</string>
+  <string name="appconfig_active_app_dialog_title">Urejanje aktivnih aplikacij</string>
   <string name="background">Aplikacija se izvaja v ozadju</string>
   <string name="base_info">Osnovne informacije</string>
   <string name="cloud_addr_info">Cloud informacije</string>
   <string name="cloud_china_addr">Posodobi podatke kitajskega strežnika</string>
   <string name="cloud_international_addr">Posodobi podatke mednarodnega strežnika</string>
   <string name="cloud_staging_addr">Posodobi podatke strežnika</string>
-  <string name="config_classify">Razvrsti glede na konfiguriranje</string>
+  <string name="config_classify">Razvrsti po nastavitvah aplikacije</string>
   <string name="config_description">"MIUI lahko prepozna aplikacije s specifičnimi procesi v ozadju (npr. sporočila in aplikacije za navigacijo, media player) in uporabi varčevanje z baterijo tako da ne vpljiva bistveno na procese v ozadju."</string>
   <string name="config_mode_title">Nastavitve ozadja</string>
   <string name="config_no_restrict_description">"Varčevanje z baterijo ne omejuje aktivnosti aplikacij"</string>
