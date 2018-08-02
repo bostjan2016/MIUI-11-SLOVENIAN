@@ -105,7 +105,7 @@
      </string-array>
      <string-array name="thermal_summaries">
          <item>Prednost kontroli temperature</item>
-         <item>Prednost</item>
+         <item>Prednost zmogljivosti</item>
      </string-array>
 	 <string-array name="power_mode_entries">
          <item>Zmogljivost</item>
