@@ -20,7 +20,7 @@
   <string name="cb_channel_dialog_edit_channel">Uredi kanal</string>
   <string name="cb_default_new_channel_name">Nov kanal</string>
   <string name="cb_error_channel_id_exist">ID kanala obstaja.</string>
-  <string name="cb_error_channel_name">Dolžina imena kanala ni točna(1-10 znakova).</string>
+  <string name="cb_error_channel_name">Dolžina imena kanala ni točna(1-10 znakov).</string>
   <string name="cb_error_channel_num">Vnesi številko kanala (0-65534).</string>
   <string name="cb_menu_add_channel">Dodaj kanal</string>
   <string name="cb_menu_channel_list">Seznam kanalov</string>

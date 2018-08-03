@@ -103,7 +103,7 @@
   <string name="accessibility_home">Domov</string>
   <string name="accessibility_ime_switch_button">Zamenjaj tipko za način vnosa</string>
   <string name="accessibility_key">Prilagojene navigacijske tipke</string>
-  <string name="accessibility_left_button">bližnjica</string>
+  <string name="accessibility_left_button">Bližnjica</string>
   <string name="accessibility_location_active">Zahteve za lokacijo so aktivne</string>
   <string name="accessibility_managed_profile">Delovni profil</string>
   <string name="accessibility_menu">Meni</string>
@@ -276,7 +276,7 @@
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostupne temu uporabniku</string>
   <string name="app_info">Informacije o aplikaciji</string>
   <string name="app_label">Sistem UI</string>
-  <string name="app_name">Zaščita tipkovnice</string>
+  <string name="app_name">Zakl. zaslon</string>
   <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
   <string name="as_important">Pomembno</string>
   <string name="as_unimportant">Nepomembno</string>
@@ -814,7 +814,7 @@ Uporabite priloženi polnilnik."</string>
   <string name="keyguard_charging_info_tip_text2">"Ne prenapolnite baterije. Večkratna kratka polnjenja so boljša od tistega čez noč."</string>
   <string name="keyguard_charging_info_tip_text3">Ne polnite baterije če je okoljska temperatura nižja od 0 °C.</string>
   <string name="keyguard_charging_info_tip_text4">"Ne uporabljajte naprave med polnjenjem da se izognete pregrevanju."</string>
-  <string name="keyguard_charging_info_tip_text5">Baterija je med polnjenjem toplejša.</string>
+  <string name="keyguard_charging_info_tip_text5">Ko je baterija toplejša polnjenje traja dlje časa.</string>
   <string name="keyguard_charging_info_tip_text6">Izključite zaslon in pustite napravo da se ohladi.</string>
     <string name="keyguard_indication_charging_time">Polnjenje (%s do napolnjenosti)</string>
     <string name="keyguard_indication_charging_time_fast">Hitro polnjenje (%s do napolnjenosti)</string>
@@ -854,7 +854,7 @@ Uporabite priloženi polnilnik."</string>
     <string name="keyguard_unlock">Povlecite, da odklenete</string>
   <string name="keyguard_widget_12_hours_format">hmm</string>
   <string name="keyguard_widget_24_hours_format">kkmm</string>
-    <string name="kg_enter_confirm_pin_hint">Potrdite željeno kodo PIN</string>
+    <string name="kg_enter_confirm_pin_hint">Potrdite novo kodo PIN</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">Telefon ste neuspešno poskusili odkleniti %1$d-krat. Če ga neuspešno poskusite odkleniti še %2$d-krat, bo delovni profil odstranjen in vsi podatki profila bodo izbrisani.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">Telefon ste neuspešno poskusili odkleniti %1$d-krat. Če ga neuspešno poskusite odkleniti še %2$d-krat, bo ta uporabnik odstranjen in vsi podatki uporabnika bodo izbrisani.</string>
     <string name="kg_failed_attempts_almost_at_login">"Vzorec za odklepanje ste %1$d-krat napačno vnesli. Če ga neuspešno poskusite vnesti še %2$d-krat, boste pozvani, da telefon odklenete z Googlovimi podatki za prijavo.
@@ -871,8 +871,8 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8- ali večmestno število.</string>
     <string name="kg_login_too_many_attempts">Preveč poskusov vnosa vzorca</string>
     <string name="kg_password_instructions">Vnesite geslo</string>
-    <string name="kg_password_pin_failed">Postopek za odklepanje s kodo PIN kartice SIM ni uspel.</string>
-    <string name="kg_password_puk_failed">Postopek za odklepanje s kodo PUK kartice SIM ni uspel.</string>
+    <string name="kg_password_pin_failed">"Postopek za odklepanje s kodo PIN kartice SIM ni uspel"</string>
+    <string name="kg_password_puk_failed">"Postopek za odklepanje s kodo PUK kartice SIM ni uspel"</string>
     <string name="kg_password_wrong_pin_code_pukked">Napačna koda PIN kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
     <string name="kg_password_wrong_puk_code_dead">Kartica SIM ni več uporabna. Obrnite se na operaterja.</string>
     <string name="kg_pattern_instructions">Narišite vzorec</string>
@@ -889,7 +889,7 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_prompt_reason_timeout_pattern">Zaradi dodatne varnosti morate vnesti vzorec</string>
     <string name="kg_prompt_reason_timeout_pin">Zaradi dodatne varnosti morate vnesti kodo PIN</string>
     <string name="kg_prompt_reason_user_request">Naprava je bila ročno zaklenjena</string>
-    <string name="kg_puk_enter_pin_hint">Vnesite želeno kodo PIN</string>
+    <string name="kg_puk_enter_pin_hint">Vnesite novo kodo PIN</string>
     <string name="kg_puk_enter_puk_hint">Kartica SIM je onemogočena. Če želite nadaljevati, vnesite kodo PUK. Za dodatne informacije se obrnite na operaterja.</string>
     <string name="kg_puk_enter_puk_hint_multi">Kartica SIM operaterja »%1$s« je onemogočena. Če želite nadaljevati, vnesite kodo PUK. Za podrobnosti se obrnite na operaterja.</string>
     <string name="kg_sim_pin_instructions">Vnesite kodo PIN kartice SIM.</string>
@@ -980,7 +980,7 @@ Poskusite ponovno čez %d sek."</string>
     <string name="lockscreen_none">Ni izbrana</string>
     <string name="lockscreen_shortcut_left">Leva bližnjica</string>
     <string name="lockscreen_shortcut_right">Desna bližnjica</string>
-  <string name="lockscreen_sim_error_message_short">Nevažeća kartica.</string>
+  <string name="lockscreen_sim_error_message_short">SIM kartica ni veljavna.</string>
   <string name="lockscreen_storage_locked">Odkleni za vse storitve in podatke</string>
     <string name="lockscreen_unlock_left">Levo bližnjico uporabi tudi za odklepanje</string>
     <string name="lockscreen_unlock_right">Desno bližnjico uporabi tudi za odklepanje</string>

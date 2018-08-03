@@ -438,7 +438,7 @@ hitrost vzorčenja"</string>
   <string name="wapi_password_hex_format_add">Število heksadecimalnih znakov ne sme biti parno število</string>
   <string name="wapi_password_is_empty">Polje za geslo ne sme ostati prazno</string>
   <string name="wapi_password_is_not_hex_format">Neveljavni heksadecimalni znaki</string>
-  <string name="wapi_password_length_is_max">Geslo ne sme imeti več kot 64 znakova</string>
+  <string name="wapi_password_length_is_max">Geslo ne sme imeti več kot 64 znakov</string>
   <string name="wapi_password_length_is_min">Geslo ne sme biti krajše od 8 znakov</string>
   <string name="wapi_password_length_is_min_to_max">Geslo mora biti: 8-64 znakov</string>
   <string name="wapi_yes">da</string>
