@@ -5342,7 +5342,7 @@ Pomnilnik ^1 je formatiran tako da deluje samo v tej napravi. V drugih ne bo del
 Po formatiranju bo shramba ^1 delovala samo v tej napravi. 
 
 "<b>S formatiranjem se izbrišejo vsi podatki, ki so trenutno shranjeni v shrambi (^1).</b> Če se želite izogniti izgubi podatkov, priporočamo, da jih varnostno kopirate.</string>
-  <string name="storage_wizard_format_confirm_next">Izbriši i formatiraj</string>
+  <string name="storage_wizard_format_confirm_next">Izbriši in formatiraj</string>
   <string name="storage_wizard_format_confirm_public_body">"Za ta namen morate shrambo ^1 formatirati. 
 
 "<b>S formatiranjem bodo izbrisani vsi podatki, shranjeni v shrambi ^1.</b> Če se želite izogniti izgubi podatkov, priporočamo, da jih varnostno kopirate.</string>
