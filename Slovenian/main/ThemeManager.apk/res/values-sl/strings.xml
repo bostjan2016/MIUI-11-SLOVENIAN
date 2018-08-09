@@ -98,7 +98,6 @@
   <string name="exo_download_notification_channel_name">Prenosi</string>
   <string name="exo_download_removing">Odstranitev prenosova</string>
   <string name="exo_track_mono">Mono</string>
-  <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Samodejno</string>
   <string name="exo_track_selection_none">Nič</string>
   <string name="exo_track_selection_title_audio">Zvok</string>
