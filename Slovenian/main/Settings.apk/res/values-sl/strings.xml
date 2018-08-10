@@ -971,6 +971,8 @@ Hitrost vzorčenja"</string>
   <string name="bootloader_locked_answer_2">"1. Preverite ali ste vstavili SIM kartico.
   2.Tapnite \"Dodaj račun\" za povezovanje Mi Računa s to napravo.
   3.Potem pojdite na MIUI spletno stran, prenesite orodje za odklep in ga namestite na računalnik. Naslov:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1. Tapnite \"Dodaj račun\" da povežete vaš Mi Račun s to napravo.
+2. Prenesite orodje za odklep. Odlep bo potekal preko računalnika. Prenesite tu:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun in napravo</string>
   <string name="bootloader_locked_question_1">Zakaj naj bi naprave bile zaklenjene?</string>
   <string name="bootloader_locked_question_2">Razumem, ampak želim odkleniti napravo.</string>
@@ -2006,7 +2008,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Poskusno</string>
   <string name="experimental_preference">(Poskusno)</string>
-  <string name="external_code_size_label">Aplikacija nz pogon USB</string>
+  <string name="extended_power_menu">Razširjeni meni Vklop</string>
+  <string name="external_code_size_label">Aplikacija za pogon USB</string>
   <string name="external_data_size_label">Aplikacija za USB shrambo podatakov</string>
     <string name="external_source_switch_title">Dovoli aplikacije iz tega vira</string>
     <string name="external_source_trusted">Dovoljeno</string>
@@ -2182,6 +2185,12 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="foreground_traffic">V ospredju %s</string>
   <string name="forget">POZABI</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
+  <string name="forget_password_dialog_button_text">Nazaj</string>
+  <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Izberite &amp;lt;font color=#e6e6e6&amp;gt;[Izbriši podatke]&amp;lt;/font&amp;gt;, in počakajte ponovni zagon naprave.&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Če pozabite geslo, ga ne boste mogli obnoviti. Lahko ga ponovno nastavite ko &amp;lt;font color=#ec2700&amp;gt;izbrišete vse podatke na napravi&amp;lt;/font&amp;gt; (vključno fotografije, stike itd.). Napravite var. kopijo vaših podtkov pred tem."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Izključite napravo. Pritisnite istočasno tipke &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; in &amp;lt;font color=#e6e6e6&amp;gt;[Volume +]&amp;lt;/font&amp;gt;, in jih držite dokler ne vidite &amp;lt;img src=''&amp;gt; ikono."&lt;/Data&gt;</string>
+  <string name="forget_password_dialog_content_two">Sledite te korake za brisanje podatakov:</string>
+  <string name="forget_password_dialog_title">Ponastavitev gesla</string>
   <string name="forget_pattern">Ali ste pozabili geslo?</string>
   <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
   <string name="forget_privacy_password_summary">Uporabite Mi Račun za preklic vašega gesla</string>
@@ -2485,6 +2494,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyboard_shortcuts_helper">Pomočnik bližnjic tipkovnice</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostopnih bližnjic</string>
   <string name="keyguard_advance_setting_title">Napredne nastavitve</string>
+  <string name="keyguard_vertical_clock_title">Navpična ura</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Levo</string>
@@ -4333,6 +4343,7 @@ Vmesnik UT: %5$s"</string>
   <string name="ringtone_title">Melodija zvonenja telefona</string>
   <string name="ringtone_uniform_setting_title">Nastavitve za dve SIM kartici</string>
     <string name="ringtones_install_custom_sound_content">Ta datoteka bo kopirana v mapo %s</string>
+  <string name="ringtones_category_preference_title">Melodije zvonjenja</string>
     <string name="ringtones_install_custom_sound_title">Želite dodati zvok po meri?</string>
   <string name="roaming">Podatkovno gostovanje</string>
   <string name="roaming_disable">"Med gostovanjem ne vzpostavi povezave s podatkovnimi storitvami"</string>
@@ -4737,6 +4748,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="second_space">Drugi prostor</string>
   <string name="secondspace_category">Drugi prostor</string>
   <string name="secondspace_delete_space_title">Izbriši Drugi prostor</string>
+  <string name="secspace_fod_finger_tips">"Ne morem potrditi. Poskusite ponovno."</string>
+  <string name="secspace_fod_finger_title">Potvdite prstni odtis</string>
+  <string name="secspace_fod_use_password">Vnesite geslo</string>
   <string name="secure_keyguard_business_title">Nastavi zakl. zaslona</string>
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala PIN a ali gesla za zaklepanje zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
     <string name="security_dashboard_summary">Zaklepanje zaslona, prstni odtis</string>
@@ -4759,6 +4773,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_rejected_via_home_manager">"Ta storitev ne deluje v demo verziji."</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
+  <string name="security_input">Varnostni vnos</string>
+  <string name="security_input_hint">S pomočjo varnostne tipkovnice vnesite geslo</string>
   <string name="security_keyguard_category_name">Zaklenjen zaslon</string>
   <string name="security_password_category_name">Zakl. zaslona</string>
   <string name="security_passwords_title">Gesla</string>
@@ -5161,6 +5177,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_custom_carrier">Uredi ime ponudnika storitev</string>
   <string name="status_bar_settings_custom_notification">Urejanje obvestil</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
+  <string name="status_bar_settings_notification_led_custom">Prilagojena barva</string>
   <string name="status_bar_settings_enable_notification">Prikaži obvestila</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite da poberete bližnjico</string>

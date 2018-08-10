@@ -63,8 +63,8 @@
   <string name="month_day_format">MMM dd</string>
   <string name="move_failed">"Ne morem premakniti"</string>
   <string name="move_failed_retry">"Ne morem premakniti, počakajte %1$s in poskusite znova"</string>
-  <string name="need_get_accounts_permission">Aplikaciji Mi Drive je za normalno delo potrebno dovoljenje za dostop do računa.</string>
-  <string name="never_notify">"Ne prikazuj ponovno"</string>
+  <string name="need_get_accounts_and_storage_permission">Aplikaciji Mi Drive je za normalno delo potrebno dovoljenje za dostop do računa in zunanjega pomnilnika.</string>
+  <string name="never_notify">"Ne kaži več"</string>
   <string name="no_app_found_to_open_file">Ni aplikacije za izvedbo tega opravila.</string>
   <string name="no_more_space">Ni dovolj prostora.</string>
   <string name="no_network">"Ne morem se povezati na omrežje. Preverite omrežno povezavo in poskusite znova."</string>
@@ -111,7 +111,7 @@
   <string name="quota_info">Mi Drive: %1$s dostopno, %2$s skupno</string>
   <string name="rename_alert">"Če spremenite končnico datoteke jo mogoče ne boste mogli odpreti."</string>
   <string name="rename_failed">Datoteka s tem imenom že obstaja.</string>
-  <string name="request_permission_msg">Mi Drive  za normalno delovanje potrebije dovoljenje za dostop do informacij o računu.</string>
+  <string name="request_permission_msg">Mi Drive za normalno delovanje potrebuje dovoljenje za dostop do računa in zunanjega pomnilnika.</string>
   <string name="request_permission_title">Potrebna so dovoljenja</string>
   <string name="sd_full">Vaša SD kartica je polna.</string>
   <string name="sd_invalid">Vaša SD kartica je poškodovana.</string>

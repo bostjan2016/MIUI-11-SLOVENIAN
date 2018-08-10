@@ -1119,6 +1119,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="notification_all_categories">Vse kategorije</string>
   <string name="notification_app_settings">Nastavite: %1$s</string>
   <string name="notification_channel_alerts">Opozorila</string>
+  <string name="notification_channel_battery">Baterija</string>
     <string name="notification_channel_controls_closed_accessibility">Kontrolniki obvestil za aplikacijo %1$s so zaprti</string>
     <string name="notification_channel_controls_opened_accessibility">Kontrolniki obvestil za aplikacijo %1$s so odprti</string>
     <string name="notification_channel_disabled">Teh obvestil ne boste več prejemali</string>

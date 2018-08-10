@@ -561,6 +561,7 @@ hitrost vzorčenja"</string>
   <string name="cfu_title">Vedno posreduj klice</string>
   <string name="change">Nastavi</string>
   <string name="change_data_preference_4g_only_prompt">Kaže da imate samo 4G SIM kartico. Nastavim to kartico kot privzeto za mobilno podatkovno povezavo?</string>
+  <string name="change_data_sim_4g_only_prompt">"Samo SIM %1$s podpira 4G. Ko SIM %2$s ni vaša privzeta SIM za mobilne podatke, SIM kartica ne bo delala normalno. Zamenjam?"</string>
   <string name="change_default_data_card">Privzeti SIM mobilni podatki</string>
   <string name="change_default_data_card_summary">Kaže da ste zamenjali SIM kartice. Nastavim to kartico kot privzeto za mobilno podatkovno povezavo?</string>
   <string name="change_num">Posodobi</string>
@@ -1441,6 +1442,8 @@ Kontaktirajte vašega operaterja."</string>
   <string name="onscreenSwapCallsText">Zamenjaj</string>
   <string name="onscreenVideoCallText">Videoklic</string>
   <string name="open_miui">Odpri</string>
+  <string name="opened_dual_4g_confirm_prompt">Kaže da imate samo 4G SIM kartico. Dvojni 4G je samodejno vključen.</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">Samo SIM %1$s podpira 4G. Da boste sigurni da vaša SIM kartica dela normalno, je dvojni 4G vključen.</string>
   <string name="operation_successfully">Uspelo je!</string>
   <string name="operator_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_first_mins_hint">xx minut</string>

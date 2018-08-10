@@ -73,6 +73,7 @@
   <string name="preference_scenes">Vrsta snemanja</string>
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
+  <string name="privacy_policy_title">Pravila o zasebnosti</string>
   <string name="recognition_error_cancel">Odpovedano</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
   <string name="recognition_error_download_data_msg">Prenesite orodje za prepoznavanje da bo ta storitev dostopna. To bo porabilo okoli 20 MB mobilnih podatkov.</string>

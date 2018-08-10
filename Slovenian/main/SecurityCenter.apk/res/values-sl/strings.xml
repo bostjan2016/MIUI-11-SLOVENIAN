@@ -1057,7 +1057,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gmscore_support_service">Google storitve</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
-  <string name="google_base_app_install_choice">\"%s\" potrebuje Google Service Framework aplikacijo za normalno delo, jo prenesem in namestim?</string>
+  <string name="google_base_app_install_choice">Aplikacija potrebuje Google Service Framework aplikacijo za normalno delo, jo prenesem in namestim?</string>
   <string name="goto_set">Nastavi</string>
   <string name="gs_anto_clean_memory_whitelist">Izjeme</string>
   <string name="gs_app_back_self_start">Varčevanje baterije</string>
@@ -2023,7 +2023,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_leisure_not_opened">Izključeno</string>
   <string name="pref_leisure_traffic_limit">Kadar je maks. podatkov porabljen</string>
   <string name="pref_manual_adjust">Ročno nastavi statistiko porabe podatkov</string>
-  <string name="pref_mi_sim_settings">Mi SIM nastavitve</string>
+  <string name="pref_mi_sim_settings">%s nastvaitve paketa</string>
   <string name="pref_month_begin_date">Datum ponastavitve porabe</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_month_traffic_limit">Mesečna omejitev uporabe podatkov</string>
@@ -2052,7 +2052,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_specified_adjust">Nastavitev prilagojene omejitve podatkov</string>
   <string name="pref_specified_traffic_settings">Nastavitve omejitve podatkov</string>
   <string name="pref_summary_lock_screen_memory_clean">Samodejno čiščenje ko je naprava zaklenjena</string>
-  <string name="pref_summary_upload_data_usage">Prijavite statistiko o uporabi podatkov da nam pomagate izboljšati MIUI. poročanje se izvaja v skladu z našimi Pravili o zasebnosti.</string>
+  <string name="pref_summary_upload_data_usage">Prijavite podatke o uporabi podatkov da nam pomagate izboljšati MIUI. Poročanje se izvaja v skladu z našimi Pravili o zasebnosti.</string>
   <string name="pref_summary_virus_white_list">Izloči izbrane aplikacije iz čiščenja</string>
   <string name="pref_title_declaration">Odrekanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>
@@ -2064,7 +2064,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_title_traffic_limit_number">Velikost</string>
   <string name="pref_title_traffic_speed_state">Prikaži hitrost omrežja v obvestilni vrstici</string>
   <string name="pref_title_update_notification">Obvestila porabe podatkov</string>
-  <string name="pref_title_upload_data_usage">Prijavi statistiko uporabe podatkov</string>
+  <string name="pref_title_upload_data_usage">Prijavi podatke uporabe podatkov</string>
   <string name="pref_title_virus_white_list">Izjeme</string>
   <string name="pref_traffic_manage_title">Uporaba podatkov</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dovoli pametne izjeme</string>
@@ -2170,6 +2170,9 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="report_success">Sporočilo prijavljeno</string>
   <string name="report_warning">"Prijavim %1$s SMS-e na Mi? Ta sporočila in telefonske številke s katerih so bili poslani bodo oprenešeni na Mi strežnike za pregled. Vsi osebni podatki povezani s temi sporočili vedno ostanejo anonimni."</string>
   <string name="report_warning_title">Pozor</string>
+  <string name="reset_data_dialog_message">"Ta naprava ni povezana z vašim Mi Računom. Ne morem povrniti ali ponastaviti geslo. Napravite kopijo svojih stvari in povrnite na tovarniške nastavitve. Podatki bodo trajno izbrisani in SD kartica bo formatirana."</string>
+  <string name="reset_data_dialog_ok">Povrnitev na tovarniške nastavitve</string>
+  <string name="reset_data_title">"Ne morem vrniti gesla"</string>
   <string name="resource_antispam">Seznam blokiranih</string>
   <string name="resource_antivirus">Preverjanje virusov</string>
   <string name="resource_app_permissions">Dovoljenja aplikacij</string>
@@ -2513,6 +2516,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="start_tc_button">Kalibriraj</string>
   <string name="status_bar_network_flow_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Preostalo: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Ta mesec: %2$s</string>
+  <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
   <string name="status_bar_network_flow_exceed_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan presežen: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_phone_balance">"   Stanje:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Kupi &gt;"</string>
