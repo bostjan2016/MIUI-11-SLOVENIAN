@@ -505,7 +505,7 @@
   <string name="net_lose_connected">Povezava izgubljena.</string>
   <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>
   <string name="network_connect_confirm_des">Aplikacija Raziskovalec potrebuje povezavo s spletom</string>
-  <string name="network_dialog_checkbox_tip">"Ne prikaži več"</string>
+  <string name="network_dialog_checkbox_tip">"Ne kaži več"</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
   <string name="network_spent_reminding">Odpiranje te strani bo porabilo nekaj vašega mobilnega prometa.</string>
   <string name="network_spent_reminding_title">Obvestilo uporabe podatkov</string>

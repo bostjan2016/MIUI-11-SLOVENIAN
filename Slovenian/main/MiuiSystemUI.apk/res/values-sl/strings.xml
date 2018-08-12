@@ -1005,7 +1005,7 @@ Poskusite ponovno čez %d sek."</string>
     <string name="media_category">Predstavnosti</string>
     <string name="media_projection_action_text">Začni zdaj</string>
     <string name="media_projection_dialog_text">"Aplikacija %s bo začela snemati vse, kar je prikazano na zaslonu."</string>
-    <string name="media_projection_remember_text">Tega ne prikaži več</string>
+    <string name="media_projection_remember_text">Tega ne kaži več</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="memory_clear_result_giga">%1$sGB očiščeno</string>
   <string name="memory_clear_result_mega">%1$sMB očiščeno</string>

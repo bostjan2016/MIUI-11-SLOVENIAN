@@ -893,7 +893,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
     <string name="support_disclaimer_content">Zaradi reševanja vprašanj glede vašega telefona bodo Googlu poslani <annotation link="url">podatki o sistemu</annotation>", vključno s podatki o uporabi aplikacij. 
 
 Več informacij v Googleovim "<a href="https://www.google.com/policies/privacy/">Pravila o zasebnosti</a> in <a href="https://www.google.com/policies/terms/">Pogoji uporabe</a>.</string>
-    <string name="support_disclaimer_do_not_show">Ne prikaži več</string>
+    <string name="support_disclaimer_do_not_show">Ne kaži več</string>
     <string name="support_disclaimer_title">Pošiljanje podatkov o sistemu</string>
     <string name="support_escalation_24_7_content_description">Na voljo smo vam 24 ur na dan vse dni v tednu.</string>
     <string name="support_escalation_24_7_summary">Googlova skupina za podporo je na voljo vsak dan ob vsaki uri</string>

@@ -50,7 +50,7 @@
   <string name="dialog_share_as_text">Deli beležko kot tekst</string>
   <string name="dialog_share_title">Deli beležko</string>
   <string name="dlg_btn_set_password">Nastavi geslo</string>
-  <string name="dlg_check_reminder">"Ne prikaži več"</string>
+  <string name="dlg_check_reminder">"Ne kaži več"</string>
   <string name="dlg_delete_message">Brisanje…</string>
   <string name="dlg_desc_confirm_alarm_silent">Aktivni alarmi se ne bodo slišali če bo zvonjenje utišano.</string>
   <string name="dlg_hide_message">Skrivanje…</string>

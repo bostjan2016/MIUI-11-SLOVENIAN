@@ -45,7 +45,7 @@
   <string name="high_quality">Več (48 bps)</string>
   <string name="hotlist_name">Xiaomi vroča lista</string>
   <string name="impunity_declaration">Radio potrebuje povezavo s spletom in dostop do lokacije za normalno obratovanje.</string>
-  <string name="impunity_declaration_ignore">"Ne prikaži več"</string>
+  <string name="impunity_declaration_ignore">"Ne kaži več"</string>
   <string name="impunity_declaration_negative_text">Prekini</string>
   <string name="impunity_declaration_positive_text">V redu in Nadaljuj</string>
   <string name="impunity_declaration_title">Pogoji ponudnika storitev</string>
