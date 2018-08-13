@@ -183,6 +183,7 @@
   <string name="timer_alert_type_rain">Drizzle</string>
   <string name="timer_alert_type_stove_fire">Stove fire</string>
   <string name="timer_alert_type_summer_night">Poletna noč</string>
+  <string name="timer_can_continue_in_timer">Odpri časovnik za nadaljevanje</string>
   <string name="timer_cancel_hint">Stop</string>
   <string name="timer_cancel_timer">Odpovej časovnik</string>
   <string name="timer_clock_alert_text">Nastavi časovnik</string>
@@ -192,6 +193,7 @@
   <string name="timer_end_time_format">HH:mm dd.MM</string>
   <string name="timer_end_time_format_today">HH:mm</string>
   <string name="timer_got_it">V redu</string>
+  <string name="timer_is_paused">Časovnik ima premor</string>
   <string name="timer_item_duration_display">%1$d minut %2$d sekund</string>
   <string name="timer_item_label_hint">Oznaka časovnika</string>
   <string name="timer_item_picker_hour">Ura</string>

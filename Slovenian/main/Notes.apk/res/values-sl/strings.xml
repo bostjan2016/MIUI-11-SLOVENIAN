@@ -184,6 +184,8 @@ Tapnite + da napravite mapo"</string>
   <string name="search_setting_description">Besedilo v beležki</string>
   <string name="select_account_prompt">Sinh. beležke</string>
   <string name="set_alarm_description">Nastavi alarm</string>
+  <string name="setting_other">OSTALO</string>
+  <string name="setting_privacy">Pravila o zasebnosti</string>
   <string name="sina_share_fail">"Ni bilo mogoče poslati"</string>
   <string name="sina_share_fail_content_repeat">"To ste že delili."</string>
   <string name="sina_share_pendding">Pošiljam…</string>

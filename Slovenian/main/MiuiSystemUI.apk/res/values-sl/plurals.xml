@@ -132,4 +132,8 @@
         <item quantity="other">Vedro</item>
         <item quantity="one">Vedro</item>
     </plurals>
+	<plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d naprav povezano</item>
+        <item quantity="one">%1$d naprava povezana</item>
+    </plurals>
 </resources>

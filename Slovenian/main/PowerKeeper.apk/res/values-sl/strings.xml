@@ -97,9 +97,9 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="nonui_mode_config_title">Neprekinjeni način</string>
   <string name="none">Ni procesov</string>
   <string name="normal">Privzeto</string>
+  <string name="notify_app_consume_abnormal_title">močno porablja baterijo</string>
   <string name="notify_abnormal">Opozorilo nenormalne energije</string>
   <string name="notify_abnormal_title">Obvestilo</string>
-  <string name="notify_app_consume_abnormal_title">poraba baterije je velika</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
   <string name="performance_category">Zmogljivost</string>

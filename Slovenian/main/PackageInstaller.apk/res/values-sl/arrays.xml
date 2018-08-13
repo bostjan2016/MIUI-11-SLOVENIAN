@@ -189,47 +189,54 @@
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
-        <item>Optimizirano za kakovostavdio predvajanja (990 kbps/909 kbps)</item>
+        <item>Optimizirano za kakovost avdio predvajanja (990 kbps/909 kbps)</item>
         <item>Uravnotežena kakovost avdio predvajanja in povezave (660 kbps/606 kbps)</item>
         <item>Optimizirano za kakovost povezave (330 kbps/303 kbps)</item>
         <item>Najbolši rezultat (prilagodljiva hitrost prenosa)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Samodejno</item>
+        <item>Izbira sistema (privzeto)</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Samodejno</item>
+        <item>Izbira sistema (privzeto</item>
         <item>44.1 kHz</item>
         <item>48.0 kHz</item>
         <item>88.2 kHz</item>
         <item>96.0 kHz</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Samodejno</item>
+        <item>Izbira sistema (privzeto</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Omogočanje izbirnih kodekov</item>
         <item>Onemogočanje izbirnih kodekov</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Samodejno</item>
+        <item>Izbira sistema (privzeto</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-          <item>Omogočanje izbirnih kodekov</item>
+        <item>Omogočanje izbirnih kodekov</item>
         <item>Onemogočanje izbirnih kodekov</item>
      </string-array>
+	 <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktivno</item>
+        <item>, aktivno (predstavnost)</item>
+        <item>, aktivno (telefon)</item>
+    </string-array>
      <string-array name="bluetooth_avrcp_versions">
-        <item>AVRCP 1.4 (zadano)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4 (privzeto)</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
      </string-array>
