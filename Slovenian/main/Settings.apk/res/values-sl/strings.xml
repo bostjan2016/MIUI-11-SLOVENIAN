@@ -1925,6 +1925,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="enter_password">Vnesite trenutno geslo zakl. zaslona za dešifriranje naprave po ponovnem zagonu</string>
   <string name="enter_pattern">Vnesite trenutno geslo zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
   <string name="enter_pin">Vnesite trenutno geslo zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
+  <string name="enterprise_mode">Enterprise način</string>
     <string name="enterprise_privacy_always_on_vpn_device">Stalno vklopljen VPN je vklopljen</string>
     <string name="enterprise_privacy_always_on_vpn_personal">Stalno vklopljen VPN je vklopljen v vašem osebnem profilu</string>
     <string name="enterprise_privacy_always_on_vpn_work">Stalno vklopljen VPN je vklopljen v vašem delovnem profilu</string>

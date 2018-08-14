@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">pred %d dnevi</item>
+        <item quantity="one">pred %d dnem</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min </item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">pred %d leti</item>
+        <item quantity="one">pred %d letom</item>
+    </plurals>
     <plurals name="status_bar_settings_disabled_header_title">
         <item quantity="other">"%s aplik. ne more prikazati obvestil"</item>
         <item quantity="one">"1 aplik. ne more prikazati obvestil"</item>
@@ -73,11 +85,39 @@
         <item quantity="other">Število aplikacij ki nudijo pogoje: %d</item>
         <item quantity="one">%d aplikacija nudi pogoje</item>
      </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">Povezanih naprav: %1$d</item>
+        <item quantity="one">%1$d naprava povezana</item>
+    </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Napačen PIN SIM kartice; imate še toliko preostalih poskusov: %d.</item>
         <item quantity="one">Napačen PIN SIM kartice; imate še %d poskus preden boste morali kontaktirati svojega mobilnega operaterja da odklene vašo napravo.</item>
         <item quantity="few">Napačen PIN SIM kartice; imate še %d poskusa.</item>
 	</plurals>
+	<plurals name="battery_manager_app_restricted">
+        <item quantity="other">Omejenih aplikacij: %1$d</item>
+        <item quantity="one">Omejena aplikacija: %1$d</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item quantity="other">Omejim aplikacije: %1$d?</item>
+        <item quantity="one">Omejim aplikacijo?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item quantity="other">"Te aplikacije ne morejo delati v ozadju"</item>
+        <item quantity="one">"Ta aplikacija ne more delati v ozadju"</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item quantity="other">Nedavno omejene aplikacije: %2$d</item>
+        <item quantity="one">%1$s aplikacija nedavno omejena</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item quantity="other">Aplikacije z visoko porabo baterije v ozadju: %2$d</item>
+        <item quantity="one">%1$s aplikacija z visoko porabo baterije v ozadju</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item quantity="other">Omeji aplikacije: %1$d</item>
+        <item quantity="one">Omeji %1$d aplikacijo</item>
+    </plurals>
 	<plurals name="bg_network_allow_count">
         <item quantity="other">%d aplikacij se lahko poveže z omrežjem</item>
         <item quantity="one">%d aplikacija se lahko poveže z omrežjem</item>
@@ -85,6 +125,10 @@
     <plurals name="bg_network_restrict_count">
         <item quantity="other">"%d aplikacij se ne more povezati z omrežjem"</item>
         <item quantity="one">"%d aplikacija se ne more povezati z omrežjem"</item>
+    </plurals>
+	 <plurals name="billing_cycle_days_left">
+        <item quantity="other">preostalo %d dni</item>
+        <item quantity="one">preostal %d dan</item>
     </plurals>
 	<plurals name="connected_devices_number">
          <item quantity="other">%d naprav</item>
@@ -186,14 +230,34 @@
         <item quantity="other">Želite odstraniti izbrane jezike?</item>
         <item quantity="one">Želite odstraniti izbrani jezik?</item>
      </plurals>
+	 <plurals name="notification_group_summary">
+        <item quantity="other">%d kategorij</item>
+        <item quantity="one">%d kategorija</item>
+    </plurals>
      <plurals name="notification_summary">
         <item quantity="other">Blokirano je pošiljanje iz %d aplikacij</item>
         <item quantity="one">Blokirano je pošiljanje iz %d aplikacije</item>
      </plurals>
-     <plurals name="print_settings_title">
-        <item quantity="other">%d nalog izpisa</item>
-        <item quantity="one">%d naloga izpisa</item>
+	 <plurals name="notifications_categories_off">
+        <item quantity="other">Izključene kategorije: %d</item>
+        <item quantity="one">%d kategorija izključena</item>
+    </plurals>
+	<plurals name="power_high_usage_summary">
+        <item quantity="other">%2$d aplikacij se obnaša nenormalno</item>
+        <item quantity="one">%1$s aplikacija se obnaša nenormalno</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item quantity="other">Aplikacije praznijo baterijo</item>
+        <item quantity="one">%1$s aplikacija prazni baterijo</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d nalog tiska</item>
+        <item quantity="one">%d naloga tiska</item>
      </plurals>
+	  <plurals name="restricted_app_summary">
+        <item quantity="other">Omejevanje uporabe baterije za aplikacije: %1$d</item>
+        <item quantity="one">Omejitev uporabe baterije za %1$d aplikacijo</item>
+    </plurals>
      <plurals name="ssl_ca_cert_dialog_title">
         <item quantity="other">Verjemi ali odstrani certifikate</item>
         <item quantity="one">Verjemi ali odstrani certifikat</item>
@@ -218,6 +282,18 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="other">Preveri certifikate</item>
         <item quantity="one">Preveri certifikat</item>
      </plurals>
+	 <plurals name="show_number_hearingaid_count">
+        <item quantity="other">Shranjenih slušni aparatov: %1$d</item>
+        <item quantity="one">%1$d shranjen slušni aparat</item>
+    </plurals>
+	<plurals name="suggestions_collapsed_summary">
+        <item quantity="other">+%1$d predlogov</item>
+        <item quantity="one">+1 predlog</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item quantity="other">%1$d predlogov</item>
+        <item quantity="one">1 predlog</item>
+    </plurals>
      <plurals name="uri_permissions_text">
         <item quantity="other">%d stvari</item>
         <item quantity="one">%d stvar</item>
@@ -358,8 +434,20 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="other">%d omrežij</item>
         <item quantity="one">%d omrežje</item>
      </plurals>
-     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">Vključeno je %d samodejnih pravil</item>
-        <item quantity="one">Vključeno je %d samodejno pravilo</item>
+	 <plurals name="zen_mode_duration_summary_time_hours">
+        <item quantity="other">%d ur (razen če se samodejno ne vključi)</item>
+        <item quantity="one">1 ura (razen če samodejno ne vključi)</item>
      </plurals>
+     <plurals name="zen_mode_settings_summary_on">
+        <item quantity="other">%d pravil</item>
+        <item quantity="one">1 pravilo</item>
+     </plurals>
+	 <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item quantity="other">%d pravil se lahko samodejno vključi</item>
+        <item quantity="one">1 pravilo se lahko samodejno vključi</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item quantity="other">%d drugih</item>
+        <item quantity="one">1 drugi</item>
+    </plurals>   
 </resources> 

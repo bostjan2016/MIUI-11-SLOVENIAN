@@ -669,6 +669,8 @@ hitrost vzorčenja"</string>
   <string name="data_usage_uninstalled_apps_users">Odstranjene aplikacije in uporabniki</string>
   <string name="dc_alert_dialog_message">Nekatere aplikacije zahtevajo mobilno podatkovno povezavo. Obrnite se na operaterja da izveste koliko vam je na voljo %s.</string> 
   <string name="dc_alert_dialog_title">Upozorenje uporabe podataka</string>
+  <string name="dds_switch_warning_message_data_off">"Ne morem najti SIM %1$s. SIM %2$s je nastavljena kot vaša privzeta mobilna podatkovna kartica. Mobilni podaki so sedaj izključeni."</string>
+  <string name="dds_switch_warning_message_data_on">"Ne morem najti SIM %1$s. SIM %2$s je nastavljena kot vaša privzeta mobilna podatkovna kartica. Mobilni podatki so izključeni v izogib nepotrebnih izdatkov."</string>
   <string name="deactivate_all">Prekini vse</string>
   <string name="debug_app">Aplikacija za odstranjevanje napak</string>
   <string name="debug_app_not_set">Ni aplikacije za odstranjevanje napak</string>
