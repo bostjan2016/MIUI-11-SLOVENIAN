@@ -210,7 +210,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="account_sync_summary_all_off">Sinhronizacija izključena za vse stvari</string>
   <string name="account_sync_summary_all_on">Sinhronizacija vključena za vse stvari</string>
   <string name="account_sync_summary_some_on">Sinhronizacija vključena za %1$d od supaj stvari: %2$d</string>
-  <string name="account_sync_settings_title">Sinhroniziranje</string>
+  <string name="account_sync_title">Sinhronizacija računa</string>
   <string name="action_drag_label_move_bottom">Premesti na dno</string>
     <string name="action_drag_label_move_down">Premakni navzdol</string>
     <string name="action_drag_label_move_top">Premakni na vrh</string>
@@ -380,7 +380,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="app_and_notification_dashboard_summary">Dovoljenja, privzete aplikacije</string>
     <string name="app_and_notification_dashboard_title">Aplikacije in obvestila</string>
   <string name="app_backup">Varnostna kopija</string>
-    <string name="app_data_usage">Prenos podatkov aplikacije</string>
+  <string name="app_cellular_data_usage">Poraba podatkovnega prometa za aplikacije</string>
   <string name="app_data_usage">Uporaba podatkov za apl.</string>
     <string name="app_default_dashboard_title">Privzete aplikacije</string>
   <string name="app_detail">Podrobnosti</string>
@@ -451,7 +451,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="app_permission_summary_allowed">Dovoljene</string>
     <string name="app_permission_summary_not_allowed">Ni dovoljeno</string>
     <string name="app_permissions">Dovoljenja za aplikacije</string>
-    <string name="app_permissions_summary">Aplikacije uporabljajo: %1$s</string>
+  <string name="app_permissions_group_summary" formatted="false">Št. aplikacij z dovoljenjem: %d od %d</string>
   <string name="app_permissions_summary" formatted="false">Dod. dostop dovoljen toliko aplikacijam: %d od %d</string>
   <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
   <string name="app_restrictions_custom_label">Nastavitev omejitev za aplikacijo</string>
@@ -1166,6 +1166,7 @@ Avdio"</string>
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je odklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -1658,8 +1659,8 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="data_usage_metered_auto">Samodejno</string>
     <string name="data_usage_metered_body">Ko je prenos podatkov v ozadju omejen, se omrežja z omejeno količino prenosa obravnavajo kot mobilna omrežja. V primeru velikih prenosov lahko aplikacije opozorijo pred uporabo teh omrežij.</string>
   <string name="data_usage_metered_mobile">Mobilna omrežja</string>
-    <string name="data_usage_metered_title">Omejitve omrežja</string>
-    <string name="data_usage_metered_wifi">WiFi z omejeno količ. prenosa</string>
+  <string name="data_usage_metered_no">Brez plačila prenosa</string>
+  <string name="data_usage_metered_title">Prenosna dostopna točka</string>
   <string name="data_usage_metered_wifi">WLAN omrežja</string>
     <string name="data_usage_metered_wifi_disabled">Če želite izbrati omrežje z omej. kol. prenosa, vklopite WiFi.</string>
     <string name="data_usage_metered_yes">Z omejenim prenosom podatkov</string>
@@ -2776,7 +2777,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyboard_shortcuts_helper">Pomočnik bližnjic tipkovnice</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostopnih bližnjic</string>
   <string name="keyguard_advance_setting_title">Napredne nastavitve</string>
-  <string name="keyguard_vertical_clock_title">Navpična ura</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Levo</string>
@@ -3130,7 +3130,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockpassword_confirm_your_password_generic">Če želite nadaljevati, vnesite geslo za napravo.</string>
   <string name="lockpassword_confirm_your_password_generic_profile">Če želite nadaljevati vnesite geslo delovnega profila.</string>
     <string name="lockpassword_confirm_your_password_header">Znova vnesite geslo</string>
-  <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
+  <string name="lockpassword_confirm_your_password_header_frp">Potrdite geslo</string>
     <string name="lockpassword_confirm_your_pattern_details_frp">Telefon je bil ponastavljen na tovarniške nastavitve. Če želite uporabljati ta telefon, vnesite prejšnji vzorec.</string>
   <string name="lockpassword_confirm_your_pattern_generic">Če želite nadaljevati vnesite vzorec za napravo.</string>
   <string name="lockpassword_confirm_your_pattern_generic_profile">Če želite nadaljevati, uporabite vzorec za delovni profil.</string>
@@ -3140,7 +3140,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockpassword_confirm_your_pin_generic">Če želite nadaljevati vnesite kodo PIN za napravo.</string>
   <string name="lockpassword_confirm_your_pin_generic_profile">Če želite nadaljevati, uporabite PIN za delovni profil.</string>
     <string name="lockpassword_confirm_your_pin_header">Znova vnesite kodo PIN</string>
-  <string name="lockpassword_confirm_your_pin_header">Potrdite kodo PIN</string>
+  <string name="lockpassword_confirm_your_pin_header_frp">Potrdite PIN</string>
   <string name="lockpassword_confirm_your_private_password_header">Potrdite svoje geslo</string>
   <string name="lockpassword_confirm_your_private_pattern_header">Potrdite svoj vzorec</string>
   <string name="lockpassword_continue_label">Naprej</string>
@@ -4360,7 +4360,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_usage_history">Uporaba baterije</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
   <string name="power_usage_list_summary">Uporaba od zadnje polne napolnjenosti</string>
-    <string name="power_usage_list_summary">Poraba energije od polne napolnjenosti akumulatorja</string>
+  <string name="power_usage_list_summary_device">Uporaba energije od polne napolnjenosti akumulatorja (pred)</string>
   <string name="power_usage_not_available">Podatki o porabi akumulatorja niso na voljo.</string>
   <string name="power_usage_old_debug">%1$s levo (Old est)</string>
   <string name="power_usage_summary">Kaj porablja energijo akumulatorja</string>
@@ -7516,7 +7516,7 @@ Credential storage might not enable"</string>
   <string name="zen_event_rule_enabled_toast">Samodejno pravilo nastavljeno tako da se med določenimi dogodki vklopi stanje Ne moti</string>
   <string name="zen_event_rule_type_name">Pravilo za dogodek</string>
   <string name="zen_interruption_level_priority">Samo prioritetno</string>
-    <string name="zen_mode_add_rule">Dodajte več</string>
+  <string name="zen_mode_add">Dodaj</string>
   <string name="zen_mode_add_event_rule">Dodajte pravilo za dogodke</string>
   <string name="zen_mode_add_rule">Dodaj pravilo</string>
     <string name="zen_mode_add_time_rule">Dodaj časovno pravilo</string>
