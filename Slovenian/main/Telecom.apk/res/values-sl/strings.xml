@@ -170,7 +170,6 @@ hitrost vzorčenja"</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Tok: %1$s</string>
   <string name="bluetooth_select_a2dp_codec_type">Kodek za Bluetooth Avdio</string>
   <string name="bluetooth_select_a2dp_codec_type_dialog_title">Izberi kodek za Bluetooth</string>
-Izbor"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Izberite različico profila AVRCP za Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_string">Različica profila AVRCP za Bluetooth</string>
     <string name="bluetooth_show_devices_without_names">Prikaži naprave Bluetooth brez imen</string>
