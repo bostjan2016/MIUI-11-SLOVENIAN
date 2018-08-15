@@ -1776,7 +1776,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="deletion_helper_automatic_title">Samodejno</string>
     <string name="deletion_helper_manual_title">Ročno</string>
     <string name="deletion_helper_preference_title">Sprostitev prostora</string>
-  <string name="demo_mode">Predstavitveni način uporabniškega vmesnika sistema<</string>
+  <string name="demo_mode">Predstavitveni način uporabniškega vmesnika sistema</string>
   <string name="demo_mode_summary">Prikaži ikone določene statusne vrste za demo</string>
   <string name="density_pixel_summary">%1$s dp</string>
   <string name="deny">Zavrni</string>
