@@ -158,6 +158,7 @@
   <string name="chinese_female">Ženski izvajalci (Kitajska)</string>
   <string name="chinese_group">Skupine (Kitajska)</string>
   <string name="chinese_male">Moški izvajalci (Kitajska)</string>
+  <string name="checking_new_version">Preverba posodobitve…</string>
   <string name="choose_download_quality">Izberi kvaliteto prenosa</string>
   <string name="choose_language">Izberi jezik</string>
   <string name="choose_stream_quality">Želena kakovost predvajanja</string>
@@ -185,6 +186,7 @@
   <string name="confirm_exit">Spremembe niso shranjene. Jih shranim?</string>
   <string name="confirm_download">Prenesi</string>
   <string name="confirm_to_renew">Obnovi</string>
+  <string name="connect_now">Poveži</string>
   <string name="connecting_apk">Povezovanje…</string>
   <string name="continue_backup">Nadaljuj</string>
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
@@ -334,6 +336,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_completed">Prenešeno</string>
   <string name="download_confirm_button_text">Namesti</string>
   <string name="download_confirm_text">Mi Glasba bo prenesla in namestila %s</string>
+  <string name="download_connect_wifi_dialog_message">Potrebujete WiFi za prenos. Sepovežem?</string>
+  <string name="download_connect_wifi_dialog_title">Poveži se</string>
   <string name="download_done_btn">Prenešeno</string>
   <string name="download_error">Ni uspelo</string>
   <string name="download_error_insufficient_space">Premalo prostora</string>
@@ -1093,6 +1097,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="user_agreement">Uporabniški sporazum</string>
   <string name="valid_period">Veljavno:</string>
   <string name="version_info">Verzija</string>
+  <string name="video_play_cellular">"Vaša naprava ni povezana na WiFi. Uporabim mobilne podatke?"</string>
+  <string name="video_replay_btn">Predvajaj ponovno</string>
+  <string name="video_retry_btn">Poskusi ponovno</string>
+  <string name="view_album">Pokaži album</string>
   <string name="vip_auto_renew_message">Vaša naročnina bo samodejno obnovljena zvečer. Poskrbite za dovolj Mi Kreditov na računu za dokončanje plačila.</string>
   <string name="vip_auto_renew_notification_message">Dodajte Mi Kredite da obnovite vašo glasbeno naročnino.</string>
   <string name="vip_auto_renew_notification_title">Plačilo naročnine</string>

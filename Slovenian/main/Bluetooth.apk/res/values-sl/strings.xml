@@ -27,6 +27,7 @@
   <string name="bluetooth_map_settings_no_account_slots_left">Računa ni možno izbrati. Ni več nobenega prostora</string>
   <string name="bluetooth_map_settings_save">Shrani</string>
   <string name="bluetooth_map_settings_title">Nastavitve deljenja sporočil z Bluetoothom</string>
+  <string name="bluetooth_opp_file_limit_exceeded">Datotek večjih od 4 GB se ne da prenesti</string>
   <string name="bluetooth_preference_connected_devices">Povezane naprave</string>
   <string name="bluetooth_preference_found_devices">Naprave na voljo</string>
   <string name="bluetooth_preference_scan_title">Išči naprave</string>

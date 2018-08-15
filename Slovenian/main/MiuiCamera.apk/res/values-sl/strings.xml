@@ -210,6 +210,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="module_name_capture">Fotografija</string>
   <string name="module_name_fun">Kratek video</string>
   <string name="module_name_manual">Ročno</string>
+  <string name="module_name_new_slow_motion">Počasno gibanje</string>
   <string name="module_name_panorama">Panorama</string>
   <string name="module_name_portrait">Portret</string>
   <string name="module_name_square">Kvadrat</string>
@@ -478,6 +479,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_stereo_mode_title">Nastavljanje fokusa</string>
   <string name="pref_camera_super_resolution_title">Vključi SR</string>
+  <string name="pref_camera_sr_enable_title">Vključi SR</string>
   <string name="pref_camera_tilt_shift_entry_circle">Krog</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralela</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -523,6 +525,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_google_lens">Google leče</string>
   <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
   <string name="pref_manual_exposure_title">čas ekspozicije</string>
+  <string name="pref_new_slow_motion_video_quality_240_720only">Lahko snemate samo 720P videoposnetke z 240FPS</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_retain_camera_mode_summary">Premaknite kamero na zadnji uporabljen način ko odprete aplikacijo.</string>
@@ -538,6 +541,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_skin_beautify_slim_title">Slim</string>
   <string name="pref_skin_beautify_smooth_title">Koža</string>
   <string name="pref_video_captrue_ability_title">Snemanje fotografij med snemanjem</string>
+  <string name="pref_video_encoder_entry_h264">H.264 Visoka kompatibilnost</string>
+  <string name="pref_video_encoder_entry_h265">H.265 Visoka zmogljivost</string>
+  <string name="pref_video_encoder_title">Video kodek</string>
   <string name="pref_video_focusmode_entry_auto">Tapni</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Način fokusa</string>

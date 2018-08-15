@@ -23,6 +23,12 @@
   <string name="ad_pop_des">应用下载中：</string>
   <string name="add_launch_hint_text">Dodaj bližnjico zač. zaslona</string>
   <string name="app_name">Mi Wallpaper Carousel</string>
+  <string name="app_self_upgrade_dlg_checkbox_ignore_version">Zanemari to verzijo</string>
+  <string name="app_self_upgrade_dlg_content">Na voljo je nova verzija aplikacije, posodobim?</string>
+  <string name="app_self_upgrade_dlg_negative_btn">Opomni me kasnrje</string>
+  <string name="app_self_upgrade_dlg_postive_btn">Posodobi</string>
+  <string name="app_self_upgrade_dlg_title">Posodabljanje aplikacije</string>
+  <string name="app_self_upgrade_toast_downloading_install">Začetek prenosa in namestitve nove verzije</string>
   <string name="apply">Nastavi</string>
   <string name="apply_to_above_all">Nastavi oboje</string>
   <string name="apply_to_screenlock">Nastavi za zak. zaslon</string>
@@ -169,6 +175,7 @@
   <string name="passport_copy_message_vcode">Kopiraj kodo</string>
   <string name="passport_delete_account">Odjava</string>
   <string name="passport_downlink_reg">Telefonska številka</string>
+   <string name="passport_email">Naslov e-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
   <string name="passport_email_or_id_hint_text">Email/ID Mi računa</string>
   <string name="passport_email_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite da se prijavite ali za ponastavitev gesla.</string>
