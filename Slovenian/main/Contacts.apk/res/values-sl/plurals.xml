@@ -159,4 +159,8 @@
         <item quantity="other">Najdeno: %1$d</item>
         <item quantity="one">%1$d oseba</item>
     </plurals>
+	<plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">Uvoženo stikov:  %1$d</item>
+        <item quantity="one">Uvožen %1$d stik</item>
+	</plurals>
 </resources>

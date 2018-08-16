@@ -9,7 +9,7 @@
   <string name="app_search">Išči aplikacije</string>
   <string name="btn_send">Pošlji</string>
   <string name="bugreport_dialog_not_show_again">"Ne kaži več"</string>
-  <string name="bugreport_dialog_submit_content">"Pripravljate zapise softvera na to napravo. Dnevniki lahko vsebujejo osebne podatke in podatke o vaši lokaciji. Ne delite dnevnike z drugimi če ne želite prikaza podatkov."</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Pripravljate zapise softvera na to napravo. Dnevniki lahko vsebujejo osebne podatke in podatke o vaši lokaciji. Ne delite dnevnike z drugimi če ne želite prikaza podatkov. Če tapnete \"Strinjam se\" pomeni da ste prebrali in se strinjate z našimi &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Dotakni se za pregled.</string>
   <string name="bugreport_dump_complete_notification_title">Poročilo o napakah pripravljeno</string>
   <string name="bugreport_dump_start_notification_summary">To lahko traja nekaj minut.</string>
@@ -263,6 +263,7 @@
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije bodo skupaj s poročilom o napakah in priloženimi slikami poslane na Mi strežnike ko bo vaša naprava povezana z WiFi omrežjem."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapomni si </string>
   <string name="post_miui_bbs_failed">"Ne morem objaviti sporočila na Forumu"</string>
+  <string name="privacy_category_title">Zasebnost</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
   <string name="pull_to_refresh_pull_label">Povlecite za osvežitev</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutek…</string>
@@ -285,8 +286,8 @@
   <string name="select_system_app_tag">Izberi oznake</string>
   <string name="submit_dialog_cancel">Ne strinjam se</string>
   <string name="submit_dialog_confirm">Strinjam se</string>
-  <string name="submit_dialog_content">"Vaše povratne informacije, skupaj s priponkami in zapisi bodo poslani na Mi strežnike. Če pride do napak pri pošiljanju, boste zaprošeni za ponovno pošiljanje."</string>
-  <string name="submit_dialog_content_global">"Vaše povratne informacije bodo skupaj z prilogami (če obstajajo)  in poročili (lahko izberete kaj ne pošlje) poslane na MIUI strežnike. Informacije o vaših temah in forumu se bodo tudi zbirale za analizo in nadaljno komunikacijo. Dnevniki lahko vsebijejo osebne podatke in podatke o vaši lokaciji."</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Vaše povratne informacije, skupaj s priponkami in zapisi bodo poslani na Mi strežnike. Če pride do napak pri pošiljanju, boste zaprošeni za ponovno pošiljanje. Če tapnete \"Strinjam se\" pomeni da ste prebrali in se strinjate z našimi &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, skupaj s priponkami (če obstajajo) in zapisi (lahko izključite stvari ki jih ne želite poslati) bodo poslani na Mi strežnike in omejeni del MIUI Foruma za programerje. Informacije o vaših temah in forumu bodo tudi zbrane za analizo in nadaljno komunikacijo. Dnevniki lahko vsebujejo osebne podatke in podatke o lokaciji. Če tapnete \"Strinjam se\" pomeni da ste prebrali in se strinjate z našimi &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Pošlji poročilo o napaki</string>
   <string name="submit_feedback_info_failed">"Ne morem poslati poročilo"</string>
   <string name="suggestion_description">Opis napišite tukaj</string>

@@ -1018,6 +1018,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_other">Ostalo</string>
   <string name="preference_phone">"Naprava"</string>
   <string name="preference_phone_more_title">Nastavitve klicev</string>
+  <string name="preference_privacy_policy_title">Pravila o zasebnosti</string>
   <string name="preference_remove_duplicate">Združi podvojene stike</string>
   <string name="preference_show_firewall_calllog">Pokaži blokirane klice v zgodovini klicev</string>
   <string name="preference_show_yellowpage_tab_description">Yellow Pages storitev ne bo delala pravilno če izključite to storitev</string>
