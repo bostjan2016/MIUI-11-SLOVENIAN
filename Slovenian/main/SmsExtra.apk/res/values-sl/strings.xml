@@ -3,6 +3,11 @@
   <string name="activity_not_found">NiNi aplikacije za izvedbo tega opravila</string>
   <string name="back_to_message_list">Nazaj na spisek sporočil</string>
   <string name="button_close">Zapri</string>
+  <string name="cm_privacy_dialog_allow">Dovoli</string>
+  <string name="cm_privacy_dialog_cancel">Prekliči</string>
+  <string name="cm_privacy_dialog_spannable_tips">Protokol o zasebnosti mobilnega operaterja</string>
+  <string name="cm_privacy_dialog_tips">Pametno SMS storitev prilagaja mobilni operater. Če ste prebrali in se strinjate z %1s, odprite storitev, povežite se in dovolite lociranje med uporabo. Se strinjate?</string>
+  <string name="cm_privacy_dialog_title">Pozor</string>
   <string name="confirm_delete_conversation">Izbrišem vso temo?</string>
   <string name="confirm_delete_group_message">Izbrišem vsa skupinska sporočila?</string>
   <string name="confirm_delete_locked_message">Izbrišem zaklenjeno sporočilo?</string>
@@ -43,6 +48,8 @@
   <string name="sim2">SIM 2</string>
   <string name="smart_messages_network_allow_message">Mi sporočila potrebujejo spletno povezavo. Dovolim?</string>
   <string name="smart_messages_network_allow_title">Potrebna je spletna povezava</string>
+  <string name="summary_pref_cm_smart_sms">Ponuja predloge kartice, SMS številke storitev itd.</string>
   <string name="text_message">Tekstualno sporočilo</string>
+  <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="view_message_details">Prikaži podrobnosti</string>
 </resources>

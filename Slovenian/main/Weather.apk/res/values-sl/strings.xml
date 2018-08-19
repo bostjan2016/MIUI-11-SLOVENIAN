@@ -38,7 +38,9 @@
   <string name="aqi_publish_source">Posodobljeno ob %1$s iz CNEMC</string>
   <string name="aqi_publish_time">Posodobljeno %1$s</string>
   <string name="aqi_quality_detail_15_days">15-dnevna napoved</string>
+  <string name="aqi_quality_detail_24_hours">24-urna napoved</string>
   <string name="aqi_quality_detail_48_hours">48-urna napoved</string>
+  <string name="aqi_quality_detail_5_days">5-dnevna napoved</string>
   <string name="aqi_station_best_quality_station">Najboljša postaja</string>
   <string name="aqi_station_min_distance_station">Najbližja postaja</string>
   <string name="button_abandon">Opusti spremembe</string>
@@ -53,7 +55,7 @@
   <string name="button_settings_confirm_to_revoke_title">Prekličem avtorizacijo?</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="change_alert">Preverite omrežno povezavo in poskusite ponovno</string>
-  <string name="china_version_first_start_network_msg">"Z uporabe sprejemate Xiaomi %1$s in %2$s. Aplikacija potrebuje dostop do spleta in lokacije."</string>
+  <string name="china_version_first_start_network_msg">"Z uporabe sprejemate Xiaomi %1$s in %2$s. Aplikacija potrebuje dostop do spleta in lokacije. Se strinjate?"</string>
   <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
   <string name="close">Zapri</string>
   <string name="commercial">Komercialno</string>
@@ -82,7 +84,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="dislike_alert_dialog_title">Zakaj ne želite videti te vsebina?</string>
   <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="edit_city">Uredi</string>
-  <string name="eu_region_version_first_start_network_msg">"Z uporabo se strinjate da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno koordinate mest ki jih uporabljate in druge vrste podatkov navedenih v našim pravilih o zasebnosti. Preberite jih. Z dotikom na "Strinjam se", se strinjate z Xiaomi %1$s in %2$s."</string>
+  <string name="eu_region_version_first_start_network_msg">"Z uporabo se strinjate da se bo Xiaomi povezal na splet in zbiral, obdeloval in uporabljal vaše osebne podatke, vključno koordinate mest ki jih uporabljate in druge vrste podatkov navedenih v našim pravilih o zasebnosti. Preberite jih. Z dotikom na "Strinjam se", se strinjate z Xiaomi %1$s in %2$s."</string>
   <string name="feedback_heavy_rain">Nevihta</string>
   <string name="feedback_heavy_snow">Sneg</string>
   <string name="feedback_light_rain">Miren dež</string>
@@ -100,6 +102,8 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="hide_topic">Skrij</string>
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_date">d/M</string>
+  <string name="hourly_forecast_title_24_hours_desc">24-urna napoved</string>
+  <string name="hourly_forecast_title_hourly_desc">napoved vsako uro</string>
   <string name="hourly_forecast_title">Urna vremenska napoved</string>
   <string name="index_item_experience_now">Namesti zdaj</string>
   <string name="index_item_install_now">Namesti zdaj</string>
@@ -178,14 +182,15 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="precipitation_degree_three">zmerno</string>
   <string name="precipitation_degree_two">lahko</string>
   <string name="pressure_connect">%1$s hPa</string>
-  <string name="pull_fresh_updated">Uspešno posodobljeno</string>
-  <string name="pull_fresh_updating">Posodabljanje…</string>
   <string name="privacy_grant_failed">"Ne morem odobriti avtorizacijo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="privacy_grant_or_revoke_settings">Odobravanje &amp; preklic avtorizacije</string>
   <string name="privacy_grant_success">Avtorizacija uspešno odobrena</string>
+  <string name="privacy_policy">Privila o zasebnosti</string>
   <string name="privacy_revoke_failed">"Ne morem preklicati avtorizacijo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="privacy_revoke_success">Avtorizacija uspešno preklicana</string>
   <string name="privacy_settings">Pravila o zasebnosti</string>
+  <string name="pull_fresh_updated">Uspešno posodobljeno</string>
+  <string name="pull_fresh_updating">Posodabljanje…</string>
   <string name="radar_cloud_image_title">Mapa Radarja</string>
   <string name="rainfall_settings_summary">Nastavitve padavin</string>
   <string name="rainfall_settings_title">Opozorilo padavin</string>
@@ -243,6 +248,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="update_setting_title_text">Posodobite vremenske podatke</string>
   <string name="updated_a_moment_ago">Posodobljeno pred nekaj trenutki</string>
   <string name="updating">Posodabljanje…</string>
+  <string name="user_agreement">Pogoji uporabe</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
