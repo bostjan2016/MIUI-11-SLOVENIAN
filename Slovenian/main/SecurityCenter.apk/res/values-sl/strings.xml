@@ -929,7 +929,15 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="exit_dialog_scan_message">"Rezultat zmogljivosti vaše naprave je nižji od 75 točk. Optimiziram zdaj?"</string>
   <string name="exit_dialog_scan_positive_button">Optimiziraj</string>
   <string name="exit_dialog_scan_title">Optimiziraj zmogljivosti</string>
-  <string name="finger_remind_message">Zakl. aplikacija podpira odklepanje s pomočjo prstnih odtisov. Dodam prstni odtis?</string>
+  <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
+  <string name="extreme_add_white_list_title">Izjeme ozadjaa</string>
+  <string name="extreme_power_save_description">&lt;li&gt;"Ekstremno varčevanje baterije ustavlja vse dejavnosti aplikacij v ozadju ko jih zapustite in se vrnete na začetni zaslon. Ta aplikacija vam ne bo pošiljala obvestil in prejemala posodobitev."&lt;/li&gt;"
+"&lt;li&gt;Če želite da se aplikacija izvaja v ozadju, jo zaklenite je u Nedavno ali je dodajte v izjeme v nadaljevanju. V ozadju se lahko zažene do 4 aplikacije če je vključeno ekstremno varčevanje.&lt;/li&gt;"
+"&lt;li&gt;Ekstremno varčevanje baterije privzeto izključi NFC. To lahko spremenite v nastavitvah.&lt;/li&gt;"
+"&lt;li&gt;Da boste sigurni da lahko normalno uporabljate vse storitve vaše naprave, se bo ekstremno varčevanje baterije samodejno izklopilo ko se baterija napolni na 30%.&lt;/li&gt;</string>
+  <string name="extreme_power_save_mode_summary">Ekstremno varčevanje baterije omejuje aktivnost v ozadju, ustavlja sinhronizacijo in zmanjšuje barve zaslona.</string>
+  <string name="extreme_power_save_mode_title">Ekstremno varčevanje baterije</string>
+  <string name="finger_remind_message">Lahko uporabite prstni odtis za zakl. aplikacij</string>
   <string name="fingerprint_identify_msg">Preverjanje prstnega odtisa…</string>
   <string name="fingerprint_not_identified_msg">Da odklenete napravo vnesite svoje geslo.</string>
   <string name="fingerprint_not_remind">"Ne sprašuj ponovno"</string>
@@ -1570,6 +1578,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="note_sms_none">Ni sporočil</string>
   <string name="notification_battery_consume_abnormal_summary">Izpraznjeno %2$s baterije v teku zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
+  <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več od %s</string>
+  <string name="notification_exit_extreme_mode_title">Ekstremno varčevanje baterije je izključeno</string>
   <string name="notification_battery_over_heat_summary">Najdite tisto kar povzroča gretje in ohladite napravo.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
   <string name="notification_charging_title">Polnjenje</string>
@@ -1580,6 +1590,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_mask_title">Skrij vsebino</string>
   <string name="notification_masked_item">Skrij obvestila</string>
   <string name="notification_masked_subtitle">Skrij obvestila iz aplikacij zaščitenih z zakl. aplikacij</string>
+  <string name="notification_open_extreme_mode_text">Ekstremno varčevanje baterije je vključeno</string>
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>

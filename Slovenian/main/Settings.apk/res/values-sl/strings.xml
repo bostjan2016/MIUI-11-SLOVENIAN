@@ -1772,6 +1772,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrišem podatke o prstnem odtisu?</string>
   <string name="delete_rule">Odstrani pravila</string>
   <string name="delete_saved_network">Izbriši shranjena omrežja</string>
+  <string name="delete_sound_effect">Zvok \"Izbriši\"</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
     <string name="deletion_helper_automatic_title">Samodejno</string>
     <string name="deletion_helper_manual_title">Ročno</string>
@@ -2776,6 +2777,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyboard_shortcuts_helper">Pomočnik bližnjic tipkovnice</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostopnih bližnjic</string>
   <string name="keyguard_advance_setting_title">Napredne nastavitve</string>
+  <string name="keyguard_security_setting_others">Ostalo</string>
+  <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
+  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Levo</string>
@@ -5740,8 +5744,9 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_notification_priority_summary">Pokaži obvestila na vrhu seznama</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bližnjica plošče obvestil</string>
   <string name="status_bar_settings_notification_sound">Zvok</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_sound_custom">Lastni zvok</string>
+  <string name="status_bar_settings_notification_use_app_icon">Uporabi ikon aplikacije za obvestila</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
   <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>

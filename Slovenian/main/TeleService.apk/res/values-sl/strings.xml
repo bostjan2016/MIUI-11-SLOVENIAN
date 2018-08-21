@@ -1815,6 +1815,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_networks"/>
   <string name="preferred_phone_account">Prednostni račun klica</string>
   <string name="preferred_wificall_title">Nastavitve omrežja</string>
+  <string name="privacy_policy_title">Pravila o zasebnosti</string>
   <string name="primary_account_summary_with">Prvotni račun. %s</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>

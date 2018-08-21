@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Ekstremno varčevanje baterije</string>
   <string name="about_hide_mode">O Varčevanju baterije</string>
   <string name="active_classify">Razvrsti glede na status aktivnosti</string>
   <string name="action_bar_delete">Izbriši</string>
@@ -53,6 +54,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="enable_hide_mode">Vključi Varčevanje baterije</string>
   <string name="enable_sleep_mode">Vključite način mirovanja za optimiziranje porabe baterije ponoči</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
+  <string name="extreme_mode_max_item_alert">Samo 4 aplikacije se lahko izvajajo v ozadju v ekstremnem načinu varčevanja baterije</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
   <string name="extreme_power_config_mode_desc">Sprememba na ekstremni način bo izključila sinhronizacijo, Bluetooth, GPS, NFC, dvojni dotik, osvetlitev tipk, zbujanje zakl. zaslona ob obvestilih, utripajočo lučko obvestil itd in način varčevanja baterije nastavil na ultimativno</string>
   <string name="extreme_power_config_mode_title">Način ekstremno varčevanje baterije</string>
@@ -66,7 +68,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="full_screen_enter">Cel zaslon</string>
   <string name="full_screen_exit">Izhod iz celozaslonskega načina</string>
   <string name="google_base_app_install_choice">\"%s\" zahteva Google Service Framework aplikacije da dela normalno, ali jih prenesem in namestim?</string>
-  <string name="hide_mode_desc">"Ko aplikacija deluje v ozadju se bodo njene aktivnosti kontrolirale da se zmanjša poraba baterije. Omrežna povezava, storitev lokacije, radio, timer, itd. imajo lahko težave zaradi tega. Če neka določena aplikacija ne funkcionira normalno dokler deluje v ozadju prilagodite nastavitve te aplikacije."</string>
+  <string name="hide_mode_desc"><font color="#000000">Ko aplikacija deluje v ozadju se bodo njene aktivnosti kontrolirale da se zmanjša poraba baterije. Ta storitev bo dobila tudi oprabniške podatke po %s</font></string>
   <string name="hide_mode_ultimate_desc">Ultimativen način je vključen. Aplikacije v ozadju bodo zamrznjene. Izključite Varčevanje energije za izhod iz Ultimativnega načina dela.</string>
   <string name="hide_system_app">Skrij aplikacije sistema</string>
   <string name="high">Performanse</string>
@@ -74,6 +76,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
   <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
   <string name="lasttime_feature_cloud">Posodobljene funkcije:</string>
+  <string name="message_i_know">Razumem</string>
   <string name="important_warning">Pozor</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
   <string name="location_disable_title">Omeji</string>
@@ -203,6 +206,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_optimize_activity_profile_file_error">Napaka Varčevanja z baterijo</string>
   <string name="power_usage">Uporaba energije</string>
   <string name="pref_config_title">Optimiziranje zmogljivosti</string>
+  <string name="privacy">Pravila o zasebnosti</string>
   <string name="ragment_sys_listempty">Ni sistemskih aplikacij</string>
   <string name="reading">Način branja</string>
   <string name="scenario_policies_summary">Uporabite različne strategije varčevanja energije za različne scenarije.</string>

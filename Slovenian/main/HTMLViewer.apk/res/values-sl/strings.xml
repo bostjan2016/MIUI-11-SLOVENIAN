@@ -10,6 +10,7 @@
       pojdite na %s"</string>
   <string name="loading">Branje…</string>
   <string name="mibi_license">Mi Kredit Pogoji uporabe</string>
+  <string name="open_wifi_connect_and_use_data_summary">Nadaljuj uporabljati promet, tapnite da boste zamenjali WiFi in potrdili.</string>
   <string name="open_wifi_connect_summary">Dotaknite se za prikaz podrobnosti.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogoča pristop DRM zaščiteni vsebini.</string>

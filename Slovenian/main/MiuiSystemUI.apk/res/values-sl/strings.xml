@@ -296,6 +296,7 @@
   <string name="available_via_passpoint">Dostopno preko %1$s</string>
   <string name="back">Nazaj</string>
   <string name="battery">Baterija</string>
+  <string name="battery_can_use_time">Ostalo še %s</string>
   <string name="battery_detail_charging_summary">Varčevanje baterije ni na voljo med polnjenjem</string>
   <string name="battery_detail_switch_summary">Zmanjša količino dela in podatke v ozadju</string>
   <string name="battery_detail_switch_title">Varčevanje baterije</string>
@@ -552,10 +553,17 @@ hitrost vzorčenja"</string>
   <string name="divider_menu_close">Zapri</string>
   <string name="divider_menu_select_apps">Izberi</string>
   <string name="divider_menu_swap_task">Zamenjaj</string>
+  <string name="dlg_cancel">Prekliči</string>
+  <string name="dlg_confirm">Vključi</string>
   <string name="dlg_confirm_kill_storage_users_text">"Če boste vklopili USB shranjevanje bodo nekatere aplikacije prenehale delovati dokler ne boste izklopili USB shranjevanja."</string>
   <string name="dlg_confirm_kill_storage_users_title">"Vklopi USB shranjevanje"</string>
   <string name="dlg_error_title">USB opravilo neuspešno</string>
   <string name="dlg_ok">"V redu"</string>
+  <string name="dlg_summary_close_app">Omeji aktinost v ozadju in obvestila</string>
+  <string name="dlg_summary_close_theme">Omeji animirane teme</string>
+  <string name="dlg_summary_close_wifi">Izključi WiFi, Bluetooth in dostopno točko</string>
+  <string name="dlg_summary_nfc">Izključi NFC</string>
+  <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.Ekstremni štednja baterije zaustavlja sve pozadinske aktivnosti nakon što napustite aplikaciju i vratite se na početni zaslon. Ako želite da se aplikacija izvodi u pozadini, dodajte je u iznimke pozadine.</string>
   <string name="dnd_is_off">DND je izključen</string>
   <string name="do_disclosure_generic">S to napravo upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">S to napravo upravlja %s</string>
@@ -578,6 +586,7 @@ hitrost vzorčenja"</string>
   <string name="enable_bluetooth_message">Da boste povezali tipkovnico z napravo, morate vklopiti Bluetooth.</string>
   <string name="enable_bluetooth_title">Želite vklopiti Bluetooth?</string>
   <string name="enable_demo_mode">Omogoči demo način</string>
+  <string name="enable_extreme_power_save_mode">Ekstremno varčevanje baterije</string>
   <string name="enable_freeform_support">Omogoči okna svobodne oblike</string>
   <string name="enable_freeform_support_summary">Omogoči podporo za eksperimentalna okna svobodne oblike.</string>
   <string name="enable_opengl_traces_title">Omogoči OpenGL spremljanje</string>
@@ -1221,6 +1230,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="oldman_incall_text">Nazaj na klic</string>
   <string name="okay">V redu</string>
   <string name="open_camera_hint_text">Podrsajte levo za Kamera</string>
+  <string name="open_extreme_power_save_mode_title">Vključi ekstremno varčevanje baterije</string>
   <string name="open_remote_center_hint_text">Podrsajte desno za Telefon</string>
     <string name="orb_search_action">Dejanje iskanja</string>
     <string name="other">Drugo</string>
@@ -1376,6 +1386,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="quick_settings_drivemode_label">Samod. način</string>
   <string name="quick_settings_dual_location_label">Dvojni GPS</string>
   <string name="quick_settings_edit_label">Več</string>
+  <string name="quick_settings_extreme_batterysaver_label">Ekstremno varčevanje baterije</string>
     <string name="quick_settings_flashlight_label">Svetilka</string>
   <string name="quick_settings_gps_label">GPS</string>
     <string name="quick_settings_hotspot_label">Dostopna točka</string>

@@ -622,6 +622,7 @@
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_share">Skupna raba</string>
+  <string name="operation_show_privacy_policy">Pokaži pravila o zasebnosti</string>
   <string name="operation_show_sys">Pokaži skrite datoteke</string>
   <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
   <string name="operation_unlike">Ni mi všeč</string>

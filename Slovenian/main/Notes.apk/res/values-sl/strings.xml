@@ -149,8 +149,8 @@ Tapnite + da napravite mapo"</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
-  <string name="pref_title_cloud_trash_bin">Izbriši beležke iz Mi Clouda</string>
-  <string name="pref_title_alarm_when_silent">"Ne utišavaj opomnikov"</string>
+  <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
+  <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
@@ -236,6 +236,8 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_message_add_text_warn">"Ta vrsta datotek ni podprta"</string>
   <string name="toast_note_privacy_mode">"Ne morem napraviti beležke v načinu Gost"</string>
   <string name="toast_notes_delete_success">Uspešno izbrisano</string>
+  <string name="toast_notes_hidden_edit">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
+  <string name="toast_notes_hidden_home">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
   <string name="toast_notes_hidden">Uspešno skrito</string>
   <string name="toast_notes_hidden_count">%1$s uspešno skrit</string>
   <string name="toast_notes_unhidden">Uspešno odkrito</string>

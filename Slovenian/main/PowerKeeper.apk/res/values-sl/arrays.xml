@@ -107,6 +107,10 @@
          <item>Privzeti način upravljanja z temperaturo</item>
          <item>Zmogljiv način</item>
      </string-array>
+	 <string-array name="emode_app_groups">
+        <item>Sistemske aplikacije</item>
+        <item>Ostale aplikacije</item>
+    </string-array>
      <string-array name="thermal_summaries">
          <item>Prednost kontroli temperature</item>
          <item>Prednost zmogljivosti</item>

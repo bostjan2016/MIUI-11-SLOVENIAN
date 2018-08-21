@@ -100,8 +100,13 @@ Preverite ali je ime vaše korporacije točno. Pred aktivacijo preberite in spre
   <string name="ent_app_verified">Kaže da obstajajo Enterprise aplikacije nameščene na vaši napravi. Aktiviram Enterprise način dela?</string>
   <string name="ent_confirm_dialog_content">"Po aktiviranju Enterprise načina dela se ne boste mogli vrniti na zdajšnje stanje vašega sistema, toda vsi vaši podatki bodo še vedno shranjeni na tej napravi. Ponovno morate zagnati napravo da aktivirate Enterprise način dela. Aktiviram sedaj?"</string>
   <string name="ent_disallow_running">Aplikaciji je prepovedan zagon</string>
+  <string name="ent_download_install_dialog_content">Morate namestiti korporacijske aplikacije da boste aktivirali način dela Enterprise. Namestim?</string>
+  <string name="ent_download_install_dialog_title">Prenesi korporacijske aplikacije</string>
+  <string name="ent_downloading_message">Prenos %d%%</string>
   <string name="ent_error_dialog_content">Vsaj ena od vnesenih kod ni pravilna. Preverite korporacijske in licenčne kode in jih ponovno vnesite.</string>
   <string name="ent_get_code_hint">Korporativne in licenčne kode lahko dobite od svojega administratorja</string>
+  <string name="ent_install_dialog_content">Namestim aplikacije in ponovno zaženem napravo?</string>
+  <string name="ent_installing">Nameščanje…</string>
   <string name="ent_invalid_agency">Korporativna koda ni veljavna.</string>
   <string name="ent_invalid_qr">QR koda ni veljavna.</string>
   <string name="ent_licence_code">Licenčna koda</string>
@@ -173,6 +178,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="import_photo_suc">Uvožene fotografije</string>
   <string name="input_space_finger">Nastavi zdaj</string>
   <string name="input_space_password">Nastavi zdaj</string>
+  <string name="install">Namesti</string>
+  <string name="install_error">"Ne morem namestiti. Poskusite ponovno."</string>
   <string name="invalid_qr_code">Neveljavna QR koda</string>
   <string name="list_empty_text">Prazno</string>
   <string name="list_empty_text_xspace">Namesti WeChat/QQ/Weibo, napravi dvojne aplikacije in poskusi ponovno.</string>

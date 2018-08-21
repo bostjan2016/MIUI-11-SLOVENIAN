@@ -859,6 +859,7 @@ za fotografije"</string>
   <string name="photo_editor_beautify_auto">Samod</string>
   <string name="photo_editor_beauty_compare">Original</string>
   <string name="photo_editor_crop_and_rotate">Obreži</string>
+  <string name="photo_editor_crop_auto">Samodejno</string>
   <string name="photo_editor_crop_reset">Ponastavi</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
