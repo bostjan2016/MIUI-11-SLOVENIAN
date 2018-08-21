@@ -2779,7 +2779,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyguard_advance_setting_title">Napredne nastavitve</string>
   <string name="keyguard_security_setting_others">Ostalo</string>
   <string name="keyguard_security_setting_privacy_policy">Pravila o zasebnosti</string>
-  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Levo</string>
