@@ -450,6 +450,10 @@
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+	 <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d več znakov</item>
+        <item quantity="one">    +%1$d več znak</item>
+    </plurals>
 	 <plurals name="privacy_apps_enable_header_title">
         <item quantity="other">%d aplikacij je lahko skrito</item>
         <item quantity="one">%d aplikacija je lahko skrita</item>
@@ -457,5 +461,9 @@
     <plurals name="privacy_apps_disable_header_title">
         <item quantity="other">%d aplikacij je skrito</item>
         <item quantity="one">%d aplikacija je skrita</item>
+    </plurals>
+	<plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemov zahteva optimizacijo</item>
+        <item quantity="one">%1$d problem zahteva optimizacijo</item>
     </plurals>
 </resources>

@@ -37,6 +37,7 @@
   <string name="accessibility_hdr_off">HDR je izključen</string>
   <string name="accessibility_hdr_on">HDR je vključen</string>
   <string name="accessibility_intent_done_apply">Končano</string>
+  <string name="accessibility_intent_done_retry">Ponovno posnemi</string>
   <string name="accessibility_more">Več</string>
   <string name="accessibility_open">Vključeno</string>
   <string name="accessibility_mode_dismiss_button">Izključi</string>
@@ -643,5 +644,6 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Limit velikosti dosežen.</string>
+  <string name="view_privacy_policy">Pokaži Pravila o zasebnosti</string>
   <string name="wait">Počakaj…</string>
 </resources>

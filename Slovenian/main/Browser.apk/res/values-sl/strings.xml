@@ -1173,6 +1173,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_privacy_enable_geolocation_summary">Dovoli brskalniku da zahteva dostop do tvoje lokacije</string>
   <string name="pref_privacy_formdata_title">Podatki obrazca</string>
   <string name="pref_privacy_location_title">Lokacija</string>
+  <string name="pref_privacy_policy">Pravila o zasebnosti</string>
   <string name="pref_privacy_security_title">Zasebnost &amp; varnost</string>
   <string name="pref_save_bandwidth_mode_title">Zmanjšaj porabo podatkov</string>
   <string name="pref_security_accept_cookies">Sprejmi piškotke</string>
