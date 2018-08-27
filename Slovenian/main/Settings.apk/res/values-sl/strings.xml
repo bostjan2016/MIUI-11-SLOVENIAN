@@ -2322,12 +2322,14 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="factory_reset_summary">"Izbriši vse podatke iz notranjega pomnilnika telefona"</string>
   <string name="failed_to_check_find_device_status_content">"Ne morem preveriti statusa Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne morem preveriti statusa"</string>
+  <string name="failed_to_erase_text">Izključite geslo za zaklep zaslona pred izvedbo opravila 1217.</string>
+  <string name="failed_to_erase_title">Prepovedano opravilo</string>
   <string name="failed_to_open_app_settings_toast">"Ni mogoče odpreti nastavitev za %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Ne morem izključiti Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="fallback_home_title">Samo trenutek…</string>
   <string name="fcc_equipment_id">ID opreme</string>
-  <string name="feature_flags_dashboard_title">Feature flags</string>
+  <string name="feature_flags_dashboard_title">Lastnosti zastav</string>
   <string name="file_privacy_password_role_instruction">Vaše zasebne datoteke bodo shranjene tukaj.</string>
   <string name="filter">Filter</string>
   <string name="filter_all_apps">Vse aplikacije</string>
@@ -3647,6 +3649,9 @@ Na tej napravi je več uporabnikov.
   <string name="nature_color">Privzeto</string>
   <string name="navigation_guide_app_summary">Podrsajte s prstom levo ali desno od roba zaslona v zgornjem področju</string>
   <string name="navigation_guide_app_title">"Zažene opravilo aplikacije"</string>
+  <string name="navigation_guide_appswitch_anim_summary">Podrsajte s prstom po zaslonu začenši od roba za povratek na prejšnjo aplikacijo</string>
+  <string name="navigation_guide_appswitch_anim_title">Zamenjaj na prejšnjo aplikacijo</string>
+  <string name="navigation_guide_appswitch_click">Najprej izključite \"Pojdi nazaj na prejšnjo aplikacijo\"</string>
   <string name="navigation_guide_appswitch_summary">Podrsajte s prstom levo ali desno od roba zaslona in nekaj časa držite</string>
   <string name="navigation_guide_appswitch_title">Zamenjaj na pretdodno aplikacijo</string>
   <string name="navigation_guide_back_anim_summary">"Pokaži animacijo med podrsanjem od roba zaslona"</string>
