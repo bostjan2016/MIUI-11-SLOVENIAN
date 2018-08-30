@@ -1166,6 +1166,7 @@ Avdio"</string>
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je odklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -1317,7 +1318,8 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="charge_length_format">Pred toliko časa: %1$s</string>
   <string name="charging_sounds_title">Zvoki polnjenja</string>
   <string name="check_find_device_status_failure_confirm">V redu</string>
-  <string name="check_importance">Označim kot pomembne?</string>
+  <string name="check_importance">Pravila za skupinska obvestila</string>
+  <string name="check_importance_dialog_cancel">Prekini</string>
   <string name="check_update">Preveri posodobitve</string>
   <string name="checkbox_notification_same_as_incoming_call">Za obvestila uporabljaj glasnost dohodnih klicev</string>
     <string name="checking_decryption">Preverjanje ...</string>
@@ -1350,8 +1352,11 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="clear_instant_app_data">Počisti aplikacijo</string>
     <string name="clear_uri_btn_text">Počisti dostop</string>
     <string name="clear_user_data_text">Počisti shrambo</string>
+  <string name="close_aod">"Ta funkcija se ne more kombinirati z načinom \"Vedno vključeno\". najprej izključite \"Vedno vključeno\"."</string>
   <string name="close_app">Zapri trenutno aplikacijo</string>
   <string name="close_demo_mode">Prekliči</string>
+  <string name="close_fod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
+  <string name="close_fod_aod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. \"Vedno vključeno\" tudi ne bo dostopno. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
   <string name="close_dialog">V redu</string>
   <string name="close_gesture">Premik za zapiranje</string>
   <string name="close_install_and_connect">Ne hvala</string>
@@ -2601,6 +2606,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="handy_mode_enter_ask">Vprašaj pred vstopom v način Delo z eno roko</string>
   <string name="handy_mode_size">Velikost zaslona</string>
   <string name="handy_mode_tips">Podrsajte s prstom levo ali desno od tipke Domov da pomaknete zaslon bliže enemu robu.</string>
+  <string name="handy_mode_tips_full_screen">"Kadar uporabljate geste na celem zaslonu, lahko vključite Delo z eno roko s pomočjo menija bližnic. Lahko uporabite tudi tipke namesto gest celega zaslona."</string>
   <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
   <string name="haptic_feedback_level">Nivo vibracije</string>
   <string name="hardkeyboard_category">Nastavitve fizične tipkovnice</string>
@@ -6211,6 +6217,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_jeejen">Jeejen začetni zaslon</string>
   <string name="title_layout_current">Izberi velikost pisave</string>
   <string name="title_layout_current2">Velikost teksta</string>
+  <string name="to_close">Izključi</string>
   <string name="title_local_resource">Lokalni viri</string>
   <string name="title_system_resource">Sistemski viri</string>
   <string name="toast_lockscreen_glogin_empty_password">Vnesi geslo</string>
