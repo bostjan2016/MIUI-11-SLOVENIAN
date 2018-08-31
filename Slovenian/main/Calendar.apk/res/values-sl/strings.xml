@@ -138,7 +138,7 @@
   <string name="edit_event_birthday_import_from_contact">Uvozi rojstni dan iz stikov</string>
   <string name="edit_event_birthday_name_empty_hint">Vnesite ime</string>
   <string name="edit_event_birthday_name_hint">Ime</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Ravnotako opomni 3 dni prej</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Ravno tako opomni 3 dni prej</string>
   <string name="edit_event_birthday_reminder_time">Čas opomnika</string>
   <string name="edit_event_calendar_label">Koledar</string>
   <string name="edit_event_choose_date">Izberi datum</string>
