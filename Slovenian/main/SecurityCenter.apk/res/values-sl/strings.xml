@@ -1914,8 +1914,6 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
-  <string name="power_center_list_item_battery_status_capacity">mAh</string>
-  <string name="power_center_list_item_battery_status_temperature">℃</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Napredne nastavitve</string>
