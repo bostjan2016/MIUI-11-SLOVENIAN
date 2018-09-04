@@ -546,7 +546,7 @@ hitrost vzorčenja"</string>
   <string name="card_title_MOcall_forwarding">Odhodni klic je posredovan</string>
   <string name="card_title_MTcall_forwarding">Dohodni klic je posredovan</string>
   <string name="card_title_call_deflected">Zavrnjen klic</string>
-  <string name="card_title_call_ended">Klic je bil končan</string>
+  <string name="card_title_call_ended">"Klic je bil končan "</string>
   <string name="card_title_callconnectedect">Klic povezan z ECT</string>
   <string name="card_title_callconnectingect">Klic se povezuje na ECT</string>
   <string name="card_title_calliswaiting">Klic na čakanju</string>
@@ -567,7 +567,7 @@ hitrost vzorčenja"</string>
   <string name="card_title_incoming_call">Dohodni klic</string>
   <string name="card_title_multipartycall">Konferenčni klic</string>
   <string name="card_title_my_phone_number">Moja številka je %s</string>
-  <string name="card_title_on_hold">Zadržano</string>
+  <string name="card_title_on_hold">"Na čakanju "</string>
   <string name="card_title_outgoing_barred">Omejeni odhodni klici</string>
   <string name="card_title_redialing">Vnovično klicanje</string>
   <string name="card_title_unconditionalCF">Preusmeritev vseh klicev je vklopljena</string>

@@ -113,7 +113,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_checker_background_gps_title">%1$s pogosto prejema podatke o lokaciji</string>
   <string name="power_checker_mobile_radio_multi_apps_title">%1$s se pogosto povezuje v omrežje</string>
   <string name="power_checker_mobile_radio_title">%1$s se pogosto povezuje v omrežje</string>
-  <string name="power_checker_multi_apps_title">Aplikacije ki močno praznijo baterijo %2$s</string>
+  <string name="power_checker_multi_apps_title">Aplikacije ki močno praznijo baterijo: %2$s</string>
   <string name="power_checker_notify_summary">Optimizirajte aplikacije ki močno praznijo baterijo</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">%1$s onemogoča MIUI prehod v stanje mirovanja</string>
   <string name="power_checker_partial_wakelock_title">%1$s onemogoča MIUI prehod v stanje mirovanja</string>

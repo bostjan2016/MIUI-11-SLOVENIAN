@@ -336,8 +336,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_completed">Prenešeno</string>
   <string name="download_confirm_button_text">Namesti</string>
   <string name="download_confirm_text">Mi Glasba bo prenesla in namestila %s</string>
-  <string name="download_connect_wifi_dialog_message">Potrebujete WiFi za prenos. Sepovežem?</string>
+  <string name="download_connect_wifi_dialog_message">Potrebujete WiFi za prenos. Se povežem?</string>
   <string name="download_connect_wifi_dialog_title">Poveži se</string>
+  <string name="download_dialog_fail">"Ne morem prenesti"</string>
+  <string name="download_dialog_success">Uspešno prenešeno</string>
   <string name="download_done_btn">Prenešeno</string>
   <string name="download_error">Ni uspelo</string>
   <string name="download_error_insufficient_space">Premalo prostora</string>
@@ -487,6 +489,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="go_to_settings">Pojdi v nastavitve</string>
   <string name="group_artist">Skupine</string>
   <string name="handle_later">Ne zdaj</string>
+  <string name="hd_quality_audio">HD avdio kvaliteta</string>
   <string name="headset_and_audio_effect_category">Slušalke &amp; zvočni efekti</string>
   <string name="headset_and_audio_effect_summary">Slušalke &amp; equalizer</string>
   <string name="headset_and_audio_effect_title">Slušalke &amp; zvočni efekti</string>

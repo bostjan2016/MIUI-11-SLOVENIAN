@@ -113,7 +113,8 @@
     </string-array>
      <string-array name="thermal_summaries">
          <item>Prednost kontroli temperature</item>
-         <item>Prednost zmogljivosti</item>
+         <item>Prednost zmogljivosti</item>  
+         <item>Konfiguracija je onemogočena v ekstremnem načinu</item>		 
      </string-array>
 	 <string-array name="power_mode_entries">
          <item>Zmogljivost</item>

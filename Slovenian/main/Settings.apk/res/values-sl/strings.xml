@@ -5740,9 +5740,11 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_custom_carrier">Uredi ime ponudnika storitev</string>
   <string name="status_bar_settings_custom_notification">Urejanje obvestil</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
+  <string name="status_bar_settings_customer_feedback">Povratna inf.</string>
   <string name="status_bar_settings_enable_notification">Prikaži obvestila</string>
   <string name="status_bar_settings_expand_top_notification">Raširi zgornje obvestilo</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu</string>
+  <string name="status_bar_settings_function_description">O tej storitvi</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite da poberete bližnjico</string>
   <string name="status_bar_settings_manage_notification">Obvestila aplikacij</string>
   <string name="status_bar_settings_no_carrier">Brez</string>
@@ -5782,6 +5784,11 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Stran</string>
   <string name="status_bar_settings_toggle_position">Položaji bližnjic</string>
   <string name="status_bar_settings_user_fold">Mapa obvestil</string>
+  <string name="status_bar_settings_user_fold_description1">Mapa Obvestila je bila dodana v MIUI 9. Ta storitev filtrira nevažna obvestila in jih premakne v zasebno mapo.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI si bo zapomnil katerih obvestil ste se dotaknili, potem pa bo uporabil več kriterijev da ugotovi, ali so važna.</string>
+  <string name="status_bar_settings_user_fold_description3">"Če se obvestila ki jih smatrate za važna še naprej kažejo v mapi Obvestila nam to obvezno prijavite. Cenimo vaše povratne informacije."</string>
+  <string name="status_bar_settings_user_fold_disable">Izključi</string>
+  <string name="status_bar_settings_user_fold_enable">Vključi</string>
   <string name="status_bar_settings_user_fold_summary">Vsa nepomembna obvestila se bodo pojavila v zasebni mapi</string>
   <string name="status_bar_style_list">Kombinirano</string>
   <string name="status_bar_style_page">Ločeno</string>

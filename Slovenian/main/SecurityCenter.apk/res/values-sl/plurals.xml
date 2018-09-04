@@ -43,6 +43,14 @@
 	<plurals name="people">
          <item quantity="other">Preneslo %1$d oseb</item>
      </plurals>
+	 <plurals name="power_center_menu_text">
+        <item quantity="other">stvari</item>
+        <item quantity="one">stvar</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Dodaj %d minut</item>
+        <item quantity="one">Dodaj %d minuto</item>
+    </plurals>
      <plurals name="people_million">
          <item quantity="other">Preneslo %1$d oseb</item>
      </plurals>

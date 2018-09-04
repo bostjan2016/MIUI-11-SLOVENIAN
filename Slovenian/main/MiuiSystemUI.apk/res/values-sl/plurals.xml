@@ -64,6 +64,18 @@
         <item quantity="other">%1$d hr %2$d min.</item>
         <item quantity="one">%1$d hr %2$d min.</item>
      </plurals>
+	 <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Ostalo še još %d hr</item>
+        <item quantity="one">Ostalo še %d hr</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Ostalo še %d min.</item>
+        <item quantity="one">Ostalo še %d min.</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Ostalo še %1$d h %2$d m</item>
+        <item quantity="one">Ostalo še %1$d h %2$d m</item>
+    </plurals>
      <plurals name="kg_password_default_pin_message">
         <item quantity="other">Vnesite SIM PIN, imate še %d poskusov.</item>
         <item quantity="one">Vnesite SIM PIN, imate še %d poskus preden se boste morali obrniti na operaterja za odklep.</item>

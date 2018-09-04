@@ -103,9 +103,12 @@ Morate se strinjati z Kika Pravila o zasebnosti pred uporabo te storitve."</stri
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
   <string name="user_agreement">Pogoji uporabe</string>
-  <string name="user_strayed_warning">Ta stran je oblikovana za tovarniško preverjanje, pritisnite tipko \"Nazaj\" za izhod.</string>
-  <string name="voice_assist_desp">Recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznal vaš glas in lahko kontroliral vašo napravo.</string>
-  <string name="voice_assist_desp_screen_light">Ko se zaslon osvetli, recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznala vaš glas in lahko urejala telefon.</string>
+  <string name="voice_assist_advice">Mi AI vam omogoča uporabo glasovnih kontrol, porabi pa več energije (+1% vsako uro).</string>
+  <string name="voice_assist_condition">"V teh primreih na boste mogli uporabljati Mi AI:
+1. Ko je zaslon vključen.
+2. Ko poslušate glasbo z isključenim zaslonom."</string>
+  <string name="user_strayed_warning">Ta stran je dizajnirana za tovarniške raziskave. Tapnite \"Nazaj\" za izhod.</string>
+  <string name="voice_assist_desp">Recite \"Mi AI\" v svoj telefon. Mi AI bo prepoznala vaš glas in lahko urejala telefon.</string>
   <string name="voice_assist_title">Zbudi z glasom</string>
   <string name="welcome">Dobrodošli</string>
 </resources>
