@@ -986,7 +986,7 @@ za fotografije"</string>
   <string name="play_video_desc">Predvajaj video</string>
   <string name="posterize">Posterize</string>
   <string name="preparing_data">Trenutek…</string>
-  <string name="privacy_permission_request_message">Galerija potrebuje dostop do %3$s. Podactki bodo uporabljeni skladno z našim %1$s in %2$s. Dovolim?</string>
+  <string name="privacy_permission_request_message">Galerija potrebuje dostop do %3$s. Podatki bodo uporabljeni skladno z našimi %1$s in %2$s. Dovolim?</string>
   <string name="privacy_permission_request_negative">Omeji</string>
   <string name="privacy_permission_request_positive">Dovoli</string>
   <string name="privacy_permission_request_title">Potrebno je dovoljenje</string>
