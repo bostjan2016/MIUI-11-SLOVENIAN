@@ -986,6 +986,10 @@ za fotografije"</string>
   <string name="play_video_desc">Predvajaj video</string>
   <string name="posterize">Posterize</string>
   <string name="preparing_data">Trenutek…</string>
+  <string name="privacy_permission_request_message">Galerija potrebuje dostop do %3$s. Podactki bodo uporabljeni skladno z našim %1$s in %2$s. Dovolim?</string>
+  <string name="privacy_permission_request_negative">Omeji</string>
+  <string name="privacy_permission_request_positive">Dovoli</string>
+  <string name="privacy_permission_request_title">Potrebno je dovoljenje</string>
   <string name="projection_cancel">Prekliči</string>
   <string name="projection_checkbox_text">Shrani ta zaslon</string>
   <string name="projection_device_connection_failed">Ne morem se povezati z projektorjem</string>
@@ -1334,10 +1338,15 @@ za fotografije"</string>
   <string name="video_editor_auto_trim">Samodejno trimaj</string>
   <string name="video_editor_auto_trim_tip">Samodejno trimanje…</string>
   <string name="video_editor_cancel">Prekini</string>
+  <string name="video_editor_cancel_download">Prekliči</string>
   <string name="video_editor_done">Končano</string>
   <string name="video_editor_down_load_later">Kasneje</string>
   <string name="video_editor_down_load_no_wifi_tips">Prenesete lahko le preko WiFi</string>
   <string name="video_editor_down_load_now">Prenesi</string>
+  <string name="video_editor_download"></string>
+  <string name="video_editor_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
+  <string name="video_editor_download_without_wifi_msg">"Uporaba mobilne podatkovne povezave za prenos datotekbo povečala porabo. To vam operater lahko računa."</string>
+  <string name="video_editor_download_without_wifi_title">Upozorenje uporabe podatkov</string>
   <string name="video_editor_encode_video">Kodiranje videoposnetka…</string>
   <string name="video_editor_encode_video_error">"Ne morem kodirati videoposnetek"</string>
   <string name="video_editor_fatal_error">Neznana napaka </string>
@@ -1376,6 +1385,8 @@ za fotografije"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Prenesem glasbene podloge z uporabo mobilnih podatkov?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Uporabi mobilne podatke</string>
   <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te funkcije (več od 20MB).</string>
+  <string name="video_editor_return">Nazaj</string>
+  <string name="video_editor_save">Shrani</string>
   <string name="video_editor_smart_effect_beat">Beats</string>
   <string name="video_editor_smart_effect_big_film">Epic</string>
   <string name="video_editor_smart_effect_cadence">Rhythm</string>
