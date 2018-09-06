@@ -58,7 +58,6 @@
   <string name="toast_sleep_mode">Radio bo prenehal predvajati ob %s</string>
   <string name="toast_sleep_mode_exit">Časovnik preklican</string>
   <string name="turn_off_fm">Izklopi FM</string>
-  <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Spalni način</string>
   <string name="using_recorder_cancel">Zavrni</string>
   <string name="using_recorder_confirm">Strnjam se</string>
