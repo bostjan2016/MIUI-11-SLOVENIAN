@@ -136,7 +136,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je eksperimentalna in lahko vpliva na zmogljivosti.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je eksperimentalno in lahko vpliva na zmogljivosti.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
   <string name="accessibility_manual_zen_less_time">Manj časa.</string>
   <string name="accessibility_manual_zen_more_time">Več časa.</string>
@@ -749,7 +749,7 @@ hitrost vzorčenja"</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particijo v enkripcijo datotek.
  Opozorilo! Vsi vaši podatki bodo zbrisani.
- Opravilo je v alfa verziji in mogoče ne bo delovala pravilno.
+ Opravilo je v alfa verziji in mogoče ne bo delovalo pravilno.
  Pritisnite \"Izbriši in pretvori…\" za nadaljevanje."</string>
   <string name="convert_to_file_encryption">Pretvori v enkripciju datotek</string>
   <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>

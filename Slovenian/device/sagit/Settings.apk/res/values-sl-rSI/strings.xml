@@ -104,7 +104,7 @@ Tipkovnica in vrstica obvestil se ne moreta povečati."</string>
     <string name="audio_and_captions_category_title">Zvok in besedilo na zaslonu</string>
     <string name="audio_files_title">Zvočne datoteke</string>
     <string name="auto_brightness_default_title">Privzeta</string>
-    <string name="auto_brightness_disclaimer">Optimiziranje ravni svetlosti glede na razpoložljivo svetlobo. Ko je to opravilo vklopljena, lahko še vedno začasno prilagodite svetlost.</string>
+    <string name="auto_brightness_disclaimer">Optimiziranje ravni svetlosti glede na razpoložljivo svetlobo. Ko je to opravilo vklopljeno, lahko še vedno začasno prilagodite svetlost.</string>
     <string name="auto_brightness_high_title">Visoka</string>
     <string name="auto_brightness_low_title">Nizka</string>
     <string name="auto_brightness_off_summary">Ne prilagodi glede na razpoložljivo svetlobo</string>
@@ -930,7 +930,7 @@ Več informacij v Googleovim "<a href="https://www.google.com/policies/privacy/"
     <string name="target_opt_in_backup_auth_setup_wizard_close_button_label">Zapri</string>
     <string name="target_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">Če vklopite samodejno varnostno kopiranje, se podatki v napravi redno shranjujejo v Google Račun. Med varnostno kopiranimi podatki so morda podatki iz map s podatki aplikacij, kot so izbire, nastavitve, sporočila, fotografije in druge datoteke.</string>
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
-    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo s opravilomi telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
+    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo s opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="telephony_monitor_toast">Če želite uveljaviti spremembo nadziranja telefonije, znova zaženite napravo</string>
     <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogoče vzpostaviti povezave z internetom prek mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Internetna povezava prek telefona</string>
@@ -1117,7 +1117,7 @@ Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli ve�
     <string name="wifi_wakeup_summary_scanning_disabled">Ni na voljo, ker je iskanje omrežij Wi‑Fi izklopljeno</string>
     <string name="work_alarm_ringtone_title">Privzeti delovni zvok alarma</string>
     <string name="work_mode_label">Način za delo</string>
-    <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi</string>
+    <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravili</string>
     <string name="work_notification_ringtone_title">Privzeti delovni zvok obvestila</string>
     <string name="work_profile_notification_access_blocked_summary">Dostop do obvestil delovnega profila je blokiran</string>
     <string name="work_ringtone_title">Delovni ton zvonjenja</string>

@@ -204,7 +204,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="next_setp">Naprej</string>
   <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skeniraj ponovno"</string>
   <string name="normal_app">Prvi prostor</string>
-  <string name="not_support_air_space">"To opravilo ni podprta na vašem telefonu"</string>
+  <string name="not_support_air_space">"To opravilo ni podprto na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Večkratni prostori niso podprti"</string>
   <string name="notificationSetPassword">Nastavite geslo</string>
   <string name="notificationSetPasswordDes">Zaščitite podatke Drugega prostora</string>
@@ -343,7 +343,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="spaceSetting">Nastavitve</string>
   <string name="space_create_guide_desc_1">Shranite aplikacije in fotografije na varen način</string>
   <string name="space_create_guide_desc_2">Popolnoma pripravljen za uporabo zasebnega prostora</string>
-  <string name="space_create_guide_desc_3">"Drugi prostor ne vpljiva na ostale stvari na vaši napravi"</string>
+  <string name="space_create_guide_desc_3">"Drugi prostor ne vpliva na ostale stvari na vaši napravi"</string>
   <string name="space_create_guide_switchmode_title">Sprememba prostora</string>
   <string name="space_create_guide_title_1">Zaščitite svojo zasebnost</string>
   <string name="space_create_guide_title_2">Izdelajte kadarkoli</string>

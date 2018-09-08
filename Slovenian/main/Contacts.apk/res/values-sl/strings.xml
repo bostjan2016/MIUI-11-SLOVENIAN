@@ -391,7 +391,7 @@ Vizitke stikov so izključene"</string>
 
 - pri iOS napravah bi morali poiskati \"Bluetooth\" v Nastavitvah
 
-2. pri Android napravah mora biti vključena tudi opravilo \"Viden\";
+2. pri Android napravah mora biti vključeno tudi opravilo \"Viden\";
 
 3. Kliknite \"Dalje\" in dovolite dostop do stikov v naslednjem koraku."</string>
   <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi s SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>

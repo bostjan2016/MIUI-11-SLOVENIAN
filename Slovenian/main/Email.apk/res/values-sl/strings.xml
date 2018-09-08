@@ -647,7 +647,7 @@
   <string name="message_view_attachment_background_load">Ena ali več priponk ki ste jih posredovali se bodo prenesle za pošiljanje.</string>
   <string name="mibill_privacy_policy_button1">"Ne strinjam se"</string>
   <string name="mibill_privacy_policy_button2">Strinjam se</string>
-  <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. To opravilo je privzeto izključena za delo z povezanimi naslovi e-pošte.</string>
+  <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo te opravila se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
   <string name="more_context">Več</string>
@@ -1061,7 +1061,7 @@ Zaustavim zdaj?"</string>
   <string name="unselected_lable">Več</string>
   <string name="unzip_file_failed">"Ne morem razširiti!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
-  <string name="update_to_wps_mail">Uživajte v dodatnih opraviloh storitve WPS Mail</string>
+  <string name="update_to_wps_mail">Uživajte v dodatnih opravilih storitve WPS Mail</string>
   <string name="updated_at">Osveženo ob: %1$s</string>
   <string name="upload_log">Pošlji dnevnike</string>
   <string name="upload_log_failed">"Ne morem poslati dnevnika"</string>

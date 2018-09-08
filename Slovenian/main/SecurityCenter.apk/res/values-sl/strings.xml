@@ -1150,11 +1150,11 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
-  <string name="gb_new_feature">Nova opravilo</string>
+  <string name="gb_new_feature">Novo opravilo</string>
   <string name="gdpr_msg">"Za uporabo aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke."</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
-  <string name="gmscore_support_remind">Vključite to opravilo če imate težave u uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
+  <string name="gmscore_support_remind">Vključite to opravilo če imate težave z uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
   <string name="gmscore_support_service">Google storitve</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
@@ -2249,8 +2249,8 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="privacy_dialog_message">"Ko se povežete na splet bo to sporočilo skupaj z informacijami o mobilnem operaterju šifrirano in poslana na Mi strežnike da bomo izboljšali nadzor nad uporabo podatkov."</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi se posodobile informacije porabe podatkov."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"To opravilo mora poslati IMEI vaše naprave, številko telefona in podatke vašega mobilnega operaterja na Mi strežnike da bi dobili statistiko o porabi podatkov vašega mobilnega operaterja.</string>
-  <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi dobili več informacij o možnosti nakupa podatkov."</string>
+  <string name="privacy_prompt_traffic_adjust_message">"To opravilo mora poslati IMEI vaše naprave, številko telefona in podatke vašega mobilnega operaterja na Mi strežnike da boste dobili statistiko o porabi podatkov vašega mobilnega operaterja.</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da boste dobili več informacij o možnosti nakupa podatkov."</string>
   <string name="privacy_prompt_upload">Pošlji</string>
   <string name="process_mediaserver_label">Medijski strežnik</string>
   <string name="promotion">Oglas</string>

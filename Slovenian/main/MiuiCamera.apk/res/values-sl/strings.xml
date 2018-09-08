@@ -121,8 +121,8 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="dialog_ok">V redu</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
   <string name="dual_camera_lens_covered_toast">Objektiv je pokrit.</string>
-  <string name="dual_camera_low_constract_toast">Slab kontrast lahko vpljiva na Dvojne efekte kamere.</string>
-  <string name="dual_camera_lowlight_toast">Slaba osvetlitev lahko vpljiva na Dvojne efekte kamere.</string>
+  <string name="dual_camera_low_constract_toast">Slab kontrast lahko vpliva na Dvojne efekte kamere.</string>
+  <string name="dual_camera_lowlight_toast">Slaba osvetlitev lahko vpliva na Dvojne efekte kamere.</string>
   <string name="dual_camera_too_close_toast">Preblizu za Dvojne efekte kamere.</string>
   <string name="dual_camera_use_hint">"Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="edit_chin">Brada</string>
@@ -250,7 +250,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
   <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2.5 m</string>
   <string name="portrait_mode_use_hint">"Portretni način vam pomaga vam zamegliti ozadje</string>
-  <string name="portrait_with_facebeauty_hint">Dostopna je opravilo olepševanja v portretnem načinu dela.</string>
+  <string name="portrait_with_facebeauty_hint">Dostopno je opravilo olepševanja v portretnem načinu dela.</string>
   <string name="pref_advance_settings">Dodatne nastavitve</string>
   <string name="pref_audio_focus_entry_front">Spredaj</string>
   <string name="pref_audio_focus_entry_general">Normalno</string>

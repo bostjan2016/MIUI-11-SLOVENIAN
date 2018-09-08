@@ -80,7 +80,7 @@
     <string name="accessibility_daltonizer_master_switch_title">Uporaba popravljanja barv</string>
     <string name="accessibility_description_state_stopped">Ta storitev ne deluje pravilno.</string>
     <string name="accessibility_disable_animations">Odstranjevanje animacij</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusno opravilo in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
     <string name="accessibility_display_inversion_preference_subtitle">Lahko vpliva na učinkovitost delovanja</string>
   <string name="accessibility_display_inversion_preference_title">Inverzija barv</string>
@@ -517,7 +517,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="audio_record_proc_title">Zmanjšanje zunanjih zvokov</string>
     <string name="auto_brightness_default_title">Privzeto</string>
     <string name="auto_brightness_description">Svetlost zaslona se bo samodejno prilagajala glede na okolje in dejavnosti. Če želite, da si opravilo Prilagodljiva svetlost hitreje zapomni vaše nastavitve, lahko ročno premaknete drsnik.</string>
-    <string name="auto_brightness_disclaimer">Optimiziranje ravni svetlosti glede na razpoložljivo svetlobo. Ko je to opravilo vklopljena, lahko še vedno začasno prilagodite svetlost.</string>
+    <string name="auto_brightness_disclaimer">Optimiziranje ravni svetlosti glede na razpoložljivo svetlobo. Ko je to opravilo vklopljeno, lahko še vedno začasno prilagodite svetlost.</string>
     <string name="auto_brightness_high_title">Visoka</string>
     <string name="auto_brightness_low_title">Nizka</string>
     <string name="auto_brightness_off_summary">Ne prilagodi glede na razpoložljivo svetlobo</string>
@@ -767,7 +767,7 @@ Nazadnje zagnano: %2$s"</string>
   <string name="battery_sugg_apps_gps">Izberite način za varčevanje z energijo akumulatorja</string>
   <string name="battery_sugg_apps_info">Ustavi ali odstrani aplikacijo</string>
   <string name="battery_sugg_apps_settings">Aplikacija morda omogoča nastavitve za zmanjšanje porabe energije akumulatorja</string>
-  <string name="battery_sugg_bluetooth_basic">Izklopite opravilo Bluetooth kadar je ne uporabljate</string>
+  <string name="battery_sugg_bluetooth_basic">Izklopite opravilo Bluetooth kadar ga ne uporabljate</string>
   <string name="battery_sugg_bluetooth_headset">Poskusite vzpostaviti povezavo z drugo napravo Bluetooth</string>
   <string name="battery_sugg_display">Zmanjšajte svetlost zaslona in/ali časovno omejitev za vklop zaslona</string>
   <string name="battery_sugg_radio">Na območjih brez mobilnega signala preklopite v način za letalo da prihranite energijo</string>
@@ -1444,7 +1444,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="confirm_convert_to_fbe_warning">Ali želite res izbrisati uporabniške podatke in preklopiti na šifriranje podatkov?</string>
   <string name="confirm_description">Potrdi</string>
   <string name="confirm_download_cancelation_dialog_message">Prekličem nalaganje?</string>
-  <string name="confirm_enable_multi_window_text">OPOZORILO: To je poskusna opravilo ki prek uporabniškega vmesnika nedavnih aplikacij omogoča hkratno izvajanje več dejavnosti na zaslonu. Nekatere aplikacije se lahko pri uporabi te opravila zrušijo ali pa ne bodo delovale pravilno.</string>
+  <string name="confirm_enable_multi_window_text">OPOZORILO: To je poskusno opravilo ki prek uporabniškega vmesnika nedavnih aplikacij omogoča hkratno izvajanje več dejavnosti na zaslonu. Nekatere aplikacije se lahko pri uporabi te opravila zrušijo ali pa ne bodo delovale pravilno.</string>
   <string name="confirm_enable_multi_window_title">Ali želite omogočiti način z več okni?</string>
   <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
@@ -1494,7 +1494,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="convenience_key_category_title">Bližnjice</string>
     <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
- To opravilo je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovalo pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Datoteke so šifrirane</string>
@@ -2889,9 +2889,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="label_global_roaming_settings">Nastavitve za gostovanje</string>
   <string name="label_mi_stats">Mi analitika</string>
     <string name="language_empty_list_user_restricted">Nimate dovoljenja za spreminjanje jezika naprave.</string>
-    <string name="language_input_gesture_summary_off">Opravilo Active Edge je izklopljena</string>
-    <string name="language_input_gesture_summary_on_non_assist">Opravilo Active Edge je vklopljena</string>
-    <string name="language_input_gesture_summary_on_with_assist">Opravilo Active Edge je vklopljena, stisnite za Pomočnika</string>
+    <string name="language_input_gesture_summary_off">Opravilo Active Edge je izklopljeno</string>
+    <string name="language_input_gesture_summary_on_non_assist">Opravilo Active Edge je vklopljeno</string>
+    <string name="language_input_gesture_summary_on_with_assist">Opravilo Active Edge je vklopljeno, stisnite za Pomočnika</string>
     <string name="language_input_gesture_title">Jeziki, vnos in poteze</string>
     <string name="language_keyboard_settings_title">Jeziki in vnos</string>
     <string name="language_picker_title">Jeziki</string>
@@ -3084,7 +3084,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_settings">Zakl. zaslon &amp; geslo</string>
   <string name="lock_settings_common_title">Nastavitve zaklepa</string>
     <string name="lock_settings_picker_fingerprint_added_security_message">Zaradi večje varnosti nastavite nadomestno zaklepanje zaslona</string>
-    <string name="lock_settings_picker_fingerprint_message">Izberite nadomestni način zaklepanja zaslona za uporabo s opravilo Pixel Imprint</string>
+    <string name="lock_settings_picker_fingerprint_message">Izberite nadomestni način zaklepanja zaslona za uporabo z opravilom Pixel Imprint</string>
   <string name="lock_settings_picker_settings">Nastavi zaklep zaslona</string>
   <string name="lock_settings_picker_title">Izberite zaklep zaslona</string>
   <string name="lock_settings_picker_title_profile">Izbira zakl. del. p.</string>
@@ -3566,7 +3566,7 @@ Na tej napravi je več uporabnikov.
   <string name="msd_pc_system_install_summary_xp">1.Poženite namestitev</string>
   <string name="msg_wlan_signal_found">WiFi dostopna točka %s dosegljiva, povežem?</string>
   <string name="msim_sim_radio_off">Izključeno</string>
-  <string name="mtp_ptp_mode_summary">Opravilo MTP ali PTP je aktivna</string>
+  <string name="mtp_ptp_mode_summary">Opravilo MTP ali PTP je aktivno</string>
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
   <string name="music_HiFi_title">HiFi avdio</string>
@@ -4546,7 +4546,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="privacy_relative">Zasebnost</string>
   <string name="privacy_settings">Varnostno kopiraj &amp; ponastavi</string>
     <string name="privacy_settings_title">Varnostno kopiranje</string>
-    <string name="private_dns_help_message"><annotation id="url">Preberite več</annotation> o opraviloh zasebnega strežnika DNS</string>
+    <string name="private_dns_help_message"><annotation id="url">Preberite več</annotation> o opravilih zasebnega strežnika DNS</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
@@ -5348,7 +5348,7 @@ Pazite čigave odtise dodajate. Vsak doda se lahko uporabi za vsa ta opravila.
 Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko dobite od skrbnika v svoji organizaciji."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Več o tem</string>
-    <string name="security_settings_fingerprint_enroll_introduction_title">Odklepanje s opravilo Pixel Imprint</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Odklepanje z opravilom Pixel Imprint</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Pixel Imprint</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Dvignite prst in se znova dotaknite tipala</string>
   <string name="security_settings_fingerprint_enroll_onboard_message">Če želite za odklepanje zaslona ali potrjevanje nakupov uporabljati prstni odtis morate:</string>
@@ -5760,7 +5760,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
-  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je to opravilo izključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je to opravilo izključeno</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Prikaži ime operaterja ko je naprava zaklenjena</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Dovoli važna obvestila na vrhu zaslona"</string>
@@ -6143,7 +6143,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="tap_to_wake_summary">Za preklop naprave iz stanja pripravljenosti se dvakrat dotaknite kjerkoli na zaslonu</string>
   <string name="taplus_title">Taplus</string>
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
-    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo s opravilomi telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
+    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo s opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="telephony_monitor_toast">Če želite uveljaviti spremembo nadziranja telefonije, znova zaženite napravo</string>
   <string name="terms_title">Določila in pogoji</string>
   <string name="testing">Preizkušanje</string>
@@ -6768,7 +6768,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
     <string name="volume_ring_mute">Izklop zvonjenja in obvestil</string>
   <string name="volume_system_description">Kamera, zaklepanje zaslona in drugih sistemskih obvestil</string>
   <string name="volume_voice_description">Glas</string>
-  <string name="vpn_always_on_active">Opravilo Vedno vključeno aktivna</string>
+  <string name="vpn_always_on_active">Opravilo Vedno vključeno aktivno</string>
     <string name="vpn_always_on_invalid_reason_dns">Za stalno vklopljeno omrežje VPN morajo biti naslovi strežnikov DNS številski.</string>
     <string name="vpn_always_on_invalid_reason_no_dns">Za stalno vklopljeno omrežje VPN mora biti naveden strežnik DNS.</string>
     <string name="vpn_always_on_invalid_reason_other">Vneseni podatki ne podpirajo stalno vklopljenega omrežja VPN.</string>
@@ -7478,7 +7478,7 @@ Credential storage might not enable"</string>
     <string name="work_mode_label">Delovni profil</string>
     <string name="work_mode_off_summary">Aplikacije in obvestila so izklopljeni</string>
     <string name="work_mode_on_summary">Upravlja vaša organizacija</string>
-    <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi</string>
+    <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravili</string>
     <string name="work_notification_ringtone_title">Privzeti delovni zvok obvestila</string>
   <string name="work_profile_confirm_remove_message">Če nadaljujete bodo izbrisane vse aplikacije in podatki v tem profilu.</string>
   <string name="work_profile_confirm_remove_title">Želite odstraniti delovni profil?</string>

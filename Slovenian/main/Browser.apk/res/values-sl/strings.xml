@@ -381,7 +381,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="find_previous">Najdi prejšnje</string>
   <string name="finish_sync_cloud_tabs">Sinhronizacija je uspela</string>
   <string name="firstUsingSearchEngineTips">Zamenjam iskanje?</string>
-  <string name="fling_on_border_gesture_hint">Lahko izberet opravilo te geste v nastavitvah</string>
+  <string name="fling_on_border_gesture_hint">Lahko izberete opravilo te geste v nastavitvah</string>
   <string name="force_quick_search_title">Išči</string>
   <string name="force_touch_bookmark_history_title">Zaznamki &amp; Zgodovina</string>
   <string name="force_touch_infoflow_title">Novice</string>
@@ -1195,7 +1195,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_volume_key_action">Opravilo gumbov za glasnost</string>
   <string name="pref_weather_location_summary">"Uporabljeno s strani dodatka vremena brskalnika"</string>
   <string name="pref_weather_location_title">Lokacija vremena</string>
-  <string name="private_browsing_warning">To opravilo ni podprta v tej verziji Androida.</string>
+  <string name="private_browsing_warning">To opravilo ni podprto v tej verziji Androida.</string>
   <string name="profiler_error_toast">"Ne morem zagnati profiler"</string>
   <string name="profiler_no_storage_toast">Ne morem zagnati profiler ker zunanji pomnilnik ni na voljo</string>
   <string name="profiler_started_toast">Profiler se je zagnal</string>
@@ -1552,6 +1552,6 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="webpage_history_title">Zgodovina</string>
   <string name="webpage_title">Zaznamki &amp; Zgodovina</string>
   <string name="webview_find_on_page">Preišči to stran</string>
-  <string name="webviewchromium_private_browsing_warning">To opravilo ni podprta v tej verziji Androida.</string>
+  <string name="webviewchromium_private_browsing_warning">To opravilo ni podprto v tej verziji Androida.</string>
   <string name="week_picker_dialog_title">Nastavi teden</string>
 </resources>

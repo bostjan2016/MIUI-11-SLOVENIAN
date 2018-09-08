@@ -45,8 +45,8 @@
   <string name="common_category_entrance">Kartice</string>
   <string name="common_history">Povijest pretraživanja</string>
   <string name="common_history_first">Prioritize search history</string>
-  <string name="common_history_first_subtitle">Če je to opravilo izključena se bo najprej pokazala zgodovina iskanja</string>
-  <string name="common_history_subtitle">Ko je to opravilo izključana  ne boste videli predlogov iskanja</string>
+  <string name="common_history_first_subtitle">Če je to opravilo izključeno se bo najprej pokazala zgodovina iskanja</string>
+  <string name="common_history_subtitle">Ko je to opravilo izključeno  ne boste videli predlogov iskanja</string>
   <string name="common_personal">Personalizacija</string>
   <string name="common_recent_apps">Predlogi aplikacij</string>
   <string name="common_recent_apps_first">Razvrsti predloge aplikacij</string>

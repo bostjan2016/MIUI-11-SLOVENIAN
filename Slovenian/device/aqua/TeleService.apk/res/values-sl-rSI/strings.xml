@@ -66,7 +66,7 @@
   <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">PUK odklepanje je bilo uspešno.</string>
   <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">SIM odklepanje je bilo uspešno.</string>
   <string name="Result_title">Stiki SIM kartice</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusno opravilo in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
   <string name="accessibility_no_wifi">Povezava WiFi je prekinjena.</string>
   <string name="accessibility_settings_activity_title">Opravila za ljudi s posebnimi potrebami</string>
@@ -495,7 +495,7 @@
   <string name="contactdeleteSuccess">Izbrisan stik iz SIM</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
- To opravilo je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovalo pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>

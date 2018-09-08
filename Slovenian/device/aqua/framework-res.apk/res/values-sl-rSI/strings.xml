@@ -837,7 +837,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov, ki jih pozna telefon.To lahko vključuje račune, ki so jih ustvarile nameščene aplikacije.</string>
   <string name="permdesc_getPackageSize">Aplikaciji omogoča, da pridobi njeno kodo, podatke in velikosti predpomnilnika.</string>
   <string name="permdesc_getTasks">Aplikaciji omogoča prejemanje podatkov o trenutnih in nedavno izvajajočih se opravilih. S tem lahko aplikacija odkrije podatke o aplikacijah, ki se uporabljajo v napravi.</string>
-  <string name="permdesc_handoverStatus">Omogoči tej aplikaciji prejemanje podatkov o trenutnih prenosih s opravilo Android Beam</string>
+  <string name="permdesc_handoverStatus">Omogoči tej aplikaciji prejemanje podatkov o trenutnih prenosih s opravilom Android Beam</string>
   <string name="permdesc_install_shortcut">Aplikaciji omogoča dodajanje bližnjic na začetni zaslon brez posredovanja uporabnika.</string>
   <string name="permdesc_invokeCarrierSetup">Lastniku omogoča sproženje operaterjeve aplikacije za konfiguracijo. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_killBackgroundProcesses">Aplikaciji omogoča, da konča procese v ozadju drugih aplikacij. S tem lahko druge aplikacije nehajo delovati.</string>
@@ -960,7 +960,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permlab_getAccounts">iskanje računov v napravi</string>
   <string name="permlab_getPackageSize">izračunavanje prostora za shranjevanje aplikacije</string>
   <string name="permlab_getTasks">dobivanje aplikacij, ki se izvajajo</string>
-  <string name="permlab_handoverStatus">prejemanje stanja prenosov s opravilo Android Beam</string>
+  <string name="permlab_handoverStatus">prejemanje stanja prenosov s opravilom Android Beam</string>
   <string name="permlab_install_shortcut">nameščanje bližnjic</string>
   <string name="permlab_invokeCarrierSetup">sprožitev operaterjeve aplikacije za konfiguracijo</string>
   <string name="permlab_killBackgroundProcesses">zapiranje drugih aplikacij</string>
@@ -1406,7 +1406,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
-  <string name="work_mode_off_message">Dovoljeno delovanje delovnega profila, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi.</string>
+  <string name="work_mode_off_message">Dovoljeno delovanje delovnega profila, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravili.</string>
   <string name="work_mode_off_title">Delovni način IZKLOPLJEN</string>
   <string name="work_mode_turn_on">Vklop</string>
   <string name="work_profile_deleted">Delovni profil izbrisan</string>

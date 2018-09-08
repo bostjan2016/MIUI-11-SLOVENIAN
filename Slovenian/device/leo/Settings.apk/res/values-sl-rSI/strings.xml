@@ -51,7 +51,7 @@
   <string name="accessibility_captioning_title">Napisi</string>
   <string name="accessibility_category_personal">Računi za osebne profile</string>
   <string name="accessibility_category_work">Računi za delovne profile – %s</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusno opravilo in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Preizkusno) Lahko vpliva na učinkovitost delovanja</string>
   <string name="accessibility_display_inversion_preference_title">Inverzija barv</string>
@@ -59,7 +59,7 @@
   <string name="accessibility_enable">Dostopnost</string>
   <string name="accessibility_feature_state_off">Izklopljeno</string>
   <string name="accessibility_feature_state_on">Vklopljeno</string>
-  <string name="accessibility_global_gesture_preference_description">Ko je to opravilo vklopljena lahko hitro omogočite opravila dostopnosti v dveh korakih:
+  <string name="accessibility_global_gesture_preference_description">Ko je to opravilo vklopljeno lahko hitro omogočite opravila dostopnosti v dveh korakih:
 
  1. korak: Pritisnite in držite tipko za vklop dokler ne zaslišite zvoka ali začutite vibracije.
 
@@ -77,7 +77,7 @@
   <string name="accessibility_personal_account_title">Osebni račun – %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Gumb za vklop konča klic</string>
   <string name="accessibility_screen_magnification_enable">Gibi povečanja</string>
-  <string name="accessibility_screen_magnification_summary">Če je to opravilo vklopljena lahko vsebino na zaslonu povečate ali pomanjšate tako da se trikrat dotaknete zaslona. Po povečavi lahko: Premikate: z dvema ali več prstov povlecite po zaslonu. Prilagodite povečavo: stisnite dva ali več prstov ali jih razširite. Lahko začasno povečate predmet pod prsti če trikrat tapnete nanj in držite. Premikate morate prst da vidite različne dele zaslona. Dvignite prst za vrnitev nazaj. Trojni dotik deluje povsod razen na tipkovnici in v vrstici za krmarjenje."</string>
+  <string name="accessibility_screen_magnification_summary">Če je to opravilo vklopljeno lahko vsebino na zaslonu povečate ali pomanjšate tako da se trikrat dotaknete zaslona. Po povečavi lahko: Premikate: z dvema ali več prstov povlecite po zaslonu. Prilagodite povečavo: stisnite dva ali več prstov ali jih razširite. Lahko začasno povečate predmet pod prsti če trikrat tapnete nanj in držite. Premikate morate prst da vidite različne dele zaslona. Dvignite prst za vrnitev nazaj. Trojni dotik deluje povsod razen na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="accessibility_screen_magnification_title">Poteze za povečavo</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kot pomoč slepim im slabovidnim uporabnikom. Ga želite brezplačno namestiti iz Trg. Play?</string>
   <string name="accessibility_services_title">Storitve</string>
@@ -189,7 +189,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="amber_alerts_summary">Prejemanje objav o ugrabitvah otrok</string>
   <string name="amber_alerts_title">Opozorila AMBER</string>
   <string name="android_beam_disabled_summary">Ni na voljo ker je NFC izklopljen</string>
-  <string name="android_beam_explained">"Če je to opravilo vklopljena lahko vsebino iz aplikacije prenesete v drugo napravo ki podpira NFC tako da napravi približate. Prenesete lahko na primer strani brskalnika, videoposnetke v YouTubu, stike iz aplikacije Stiki in drugo. Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj se prenese je odvisno od aplikacije."</string>
+  <string name="android_beam_explained">"Če je to opravilo vklopljeno lahko vsebino iz aplikacije prenesete v drugo napravo ki podpira NFC tako da napravi približate. Prenesete lahko na primer strani brskalnika, videoposnetke v YouTubu, stike iz aplikacije Stiki in drugo. Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj se prenese je odvisno od aplikacije."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Izklopljeno</string>
   <string name="android_beam_on_summary">Pripravljen za prenos vsebine aplikacije preko NFC</string>
@@ -485,7 +485,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="battery_sugg_apps_gps">Izberite način za varčevanje z energijo akumulatorja</string>
   <string name="battery_sugg_apps_info">Ustavi ali odstrani aplikacijo</string>
   <string name="battery_sugg_apps_settings">Aplikacija morda omogoča nastavitve za zmanjšanje porabe energije akumulatorja</string>
-  <string name="battery_sugg_bluetooth_basic">Izklopite opravilo Bluetooth kadar je ne uporabljate</string>
+  <string name="battery_sugg_bluetooth_basic">Izklopite opravilo Bluetooth kadar ga ne uporabljate</string>
   <string name="battery_sugg_bluetooth_headset">Poskusite vzpostaviti povezavo z drugo napravo Bluetooth</string>
   <string name="battery_sugg_display">Zmanjšajte svetlost zaslona in/ali časovno omejitev za vklop zaslona</string>
   <string name="battery_sugg_radio">Na območjih brez mobilnega signala preklopite v način za letalo da prihranite energijo</string>
@@ -950,7 +950,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="convenience_key_category_title">Bližnjice</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  Opozorilo! S tem bodo izbrisani vsi podatki.
- To opravilo je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovalo pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>
@@ -1000,7 +1000,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="crypt_keeper_enter_password">Vnesite geslo</string>
   <string name="crypt_keeper_failed_summary">Šifriranje je bilo prekinjeno in se ne more dokončati. Podatki na vašem telefonu niso več na voljo. Če želite nadaljevati z uporabo morate telefon ponastaviti na tovarniške nastavitve. Ko vaš telefon po ponastavitvi na tovarniških nastavitve ponovno nastavljate boste imeli priložnost da obnovite vaše podatke ki so bili varnostno kopirani na vaš Google račun.</string>
   <string name="crypt_keeper_failed_title">Šifriranje neuspešno</string>
-  <string name="crypt_keeper_final_desc">Opravilo šifriranja je nepovratna, če jo prekinete boste izgubili podatke. Šifriranje traja uro ali več, med katero se bo telefon večkrat znova zagnal.</string>
+  <string name="crypt_keeper_final_desc">Opravilo šifriranja je nepovratno, če ga prekinete boste izgubili podatke. Šifriranje traja uro ali več, med katero se bo telefon večkrat znova zagnal.</string>
   <string name="crypt_keeper_force_power_cycle">Če želite odkleniti telefon ga izklopite in nato vklopite.</string>
   <string name="crypt_keeper_low_charge_text">Napolnite akumulator in poskusite znova.</string>
   <string name="crypt_keeper_settings_title">Šifriranje</string>
@@ -1292,7 +1292,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="dndm_auto_time_turn_on">Od</string>
   <string name="dndm_auto_time_turn_on_title">Samodejno vključi \"Ne moti“\</string>
   <string name="dndm_dlg_remove_ok">Odstrani</string>
-  <string name="dndm_dlg_remove_vip">Klici te osebe bodo utišani ko je opravilo Ne moti vklopljena</string>
+  <string name="dndm_dlg_remove_vip">Klici te osebe bodo utišani ko je opravilo Ne moti vklopljeno</string>
   <string name="dndm_menu_add_vip_custom">Dodaj izjemo</string>
   <string name="dndm_mute_all">Klici in sporočila so utišani.</string>
   <string name="dndm_notification">\"Ne moti“\ omogočeno</string>
@@ -2363,7 +2363,7 @@ Na tej napravi je več uporabnikov.
   <string name="msd_pc_system_install_summary_xp">1.Poženite namestitev</string>
   <string name="msg_wlan_signal_found">WiFi dostopna točka %s dosegljiva, povežem?</string>
   <string name="msim_sim_radio_off">Izključeno</string>
-  <string name="mtp_ptp_mode_summary">Opravilo MTP ali PTP je aktivna</string>
+  <string name="mtp_ptp_mode_summary">Opravilo MTP ali PTP je aktivno</string>
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
   <string name="music_HiFi_title">HiFi avdio</string>
@@ -3933,7 +3933,7 @@ Skrbnik lahko nadzira vašo dejavnost v omrežju, vključno z e-pošto, aplikaci
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
-  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je to opravilo izključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je to opravilo izključeno</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Lebdeča obvestila bodo samodejno izginila ko se prikažejo na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži podrobnosti lebdenja</string>
@@ -4311,7 +4311,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="turn_off_common_password_confirm_msg">Zakl. zaslona bo tudi izključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">Izključim geslo zakl. zaslona?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla za zakl.  zaslon ne boste mogli uporabljati opravilo prstnega odtisa</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla za zakl. zaslon ne boste mogli uporabljati opravilo prstnega odtisa</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi zakl. zaslona</string>
   <string name="turn_on_keyguard_password">Vključi geslo zakl. zaslona</string>
@@ -5166,7 +5166,7 @@ WiFi Assistant"</string>
   <string name="wizard_next">Naprej</string>
   <string name="wlan_to_cellular_hint_title">WiFi-&gt;Nasvet omrežja</string>
   <string name="work_mode_label">Način dela</string>
-  <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi</string>
+  <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravili</string>
   <string name="work_profile_confirm_remove_message">Če nadaljujete bodo izbrisane vse aplikacije in podatki v tem profilu.</string>
   <string name="work_profile_confirm_remove_title">Želite odstraniti delovni profil?</string>
   <string name="work_profile_usage_access_warning">Če za to aplikacijo izklopite dostop do podatkov o uporabi lahko vaš skrbnik kljub temu spremlja podatke o uporabi za aplikacije v vašem delovnem profilu.</string>

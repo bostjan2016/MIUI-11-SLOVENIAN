@@ -31,7 +31,7 @@
   <string name="accessibility_data_signal_full">Podatki poln signal.</string>
   <string name="accessibility_data_three_bars">Podatki tri črtice.</string>
   <string name="accessibility_data_two_bars">Podatki dve črtici.</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je eksperimentalna in lahko vpljiva na zmogljivost.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je eksperimentaln in lahko vpliva na zmogljivost.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
   <string name="accessibility_divider">Delitelj razdeljenega zaslona</string>
   <string name="accessibility_home">"Začetna"</string>

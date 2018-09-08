@@ -39,7 +39,7 @@
   <string name="ad_block_hint">Blokirano: %d</string>
   <string name="ad_install_monitor">Pregled aplikacija za oglasi</string>
   <string name="ad_install_monitor_hint">Kontrola oglasov pri nameščanju aplikacije</string>
-  <string name="ad_permission_hint">Uporaba Blokatorja oglasov lahko vpljiva na zmogljivost aplikacij ali njihovo funkcionalnost.</string>
+  <string name="ad_permission_hint">Uporaba Blokatorja oglasov lahko vpliva na zmogljivost aplikacij ali njihovo funkcionalnost.</string>
   <string name="ad_relative_setting">Nastavitve</string>
   <string name="ad_single_block_hint">Blokirano</string>
   <string name="ad_update_setting">Posodobi nastvavitve</string>

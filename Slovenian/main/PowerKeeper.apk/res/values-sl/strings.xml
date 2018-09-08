@@ -31,7 +31,7 @@
   <string name="cloud_international_addr">Posodobi podatke mednarodnega strežnika</string>
   <string name="cloud_staging_addr">Posodobi podatke strežnika</string>
   <string name="config_classify">Razvrsti po nastavitvah aplikacije</string>
-  <string name="config_description">"MIUI lahko prepozna aplikacije s specifičnimi procesi v ozadju (npr. sporočila in aplikacije za navigacijo, media player) in uporabi varčevanje z baterijo tako da ne vpljiva bistveno na procese v ozadju."</string>
+  <string name="config_description">"MIUI lahko prepozna aplikacije s specifičnimi procesi v ozadju (npr. sporočila in aplikacije za navigacijo, media player) in uporabi varčevanje z baterijo tako da ne vpliva bistveno na procese v ozadju."</string>
   <string name="config_mode_title">Nastavitve ozadja</string>
   <string name="config_no_restrict_description">"Varčevanje z baterijo ne omejuje aktivnosti aplikacij"</string>
   <string name="config_no_restrict_title">Ni omejitev</string>
@@ -228,7 +228,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="sleepmode_disclaimer_agree">Strinjam se</string>
   <string name="sleepmode_disclaimer_cancel">Prekini</string>
-  <string name="sleepmode_privacy_content">To opravilo bo uporabljala sistem telefona in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
+  <string name="sleepmode_privacy_content">To opravilo bo uporabljal sistem telefona in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
   <string name="sleepmode_privacy_link">Izvedite več o varnosti in zasebnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="still">Slika</string>

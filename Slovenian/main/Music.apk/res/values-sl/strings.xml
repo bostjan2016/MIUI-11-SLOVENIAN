@@ -520,7 +520,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="impunity_declaration_title">Pogoji storitev</string>
   <string name="in_searching_please_wait">Iščem...</string>
   <string name="individuation_recommend_message">Vključite priporočila za prejemanje prilagojenih predlogov na osnovi vaših nastavitev.</string>
-  <string name="individuation_recommend_switch_message">Izključitev te storitve bo vpljivala na osebne storitve Mi Glasbe. Izključim vseeno?</string>
+  <string name="individuation_recommend_switch_message">Izključitev te storitve bo vplivala na osebne storitve Mi Glasbe. Izključim vseeno?</string>
   <string name="individuation_recommend_title">Priporočila</string>
   <string name="input_hint_prefix">Vnesite %1$s</string>
    <string name="installing_apk">Nameščanje…</string>
@@ -604,7 +604,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="metered_serious_alert_msg_with_beyond_data">"Presegli ste omejitev mobilnih podatkov za %s. Uporabim mobilne podatke za predvajanje pesmi?"</string>
   <string name="metered_serious_alert_msg_with_data">Preostalo vam je %s mobilnih podakov. Uporabim mobilne podatke za predvajanje pesmi?</string>
   <string name="metered_serious_allow">Reproduciraj svejedno</string>
-  <string name="milink_unavaliable_please_update">Mi Link opravilo ni dostopna. Morate posodobiti MIUI.</string>
+  <string name="milink_unavaliable_please_update">Mi Link opravilo ni na voljo. Morate posodobiti MIUI.</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Neznano&gt;</string>
   <string name="miui_music">Mi Glasba</string>

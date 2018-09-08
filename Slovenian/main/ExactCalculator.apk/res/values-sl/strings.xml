@@ -17,7 +17,7 @@
   <string name="desc_fun_arcsin">inverzni sinus</string>
   <string name="desc_fun_arctan">inverzni tangens</string>
   <string name="desc_fun_cos">kosinus</string>
-  <string name="desc_fun_exp">eksponencialna opravilo</string>
+  <string name="desc_fun_exp">eksponencialno opravilo</string>
   <string name="desc_fun_ln">naravni logaritem</string>
   <string name="desc_fun_log">logaritem</string>
   <string name="desc_fun_sin">sinus</string>

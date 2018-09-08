@@ -757,7 +757,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov ki jih pozna telefon. To lahko vključuje račune ki so jih ustvarili nameščene aplikacije.</string>
   <string name="permdesc_getPackageSize">Aplikaciji omogoča da pridobi njegovo kodo, podatke in velikosti predpomnilnika.</string>
   <string name="permdesc_getTasks">Aplikaciji omogoča prejemanje podatkov o trenutnih in nedavno izvajajočih se opravilih. S tem lahko aplikacija odkrije podatke o aplikacijah ki se uporabljajo v napravi.</string>
-  <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih s opravilo Android Beam</string>
+  <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih z opravilom Android Beam</string>
   <string name="permdesc_install_shortcut">Aplikaciji omogoča dodajanje bližnjic na začetni zaslon brez posredovanja uporabnika.</string>
   <string name="permdesc_invokeCarrierSetup">Lastniku omogoča sproženje operaterjeve aplikacije za konfiguracijo. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_killBackgroundProcesses">Aplikaciji omogoča da konča procese v ozadju drugih aplikacij. S tem lahko druge aplikacije nehajo delovati.</string>
@@ -879,7 +879,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_getAccounts">iskanje računov v napravi</string>
   <string name="permlab_getPackageSize">izračunavanje prostora za shranjevanje aplikacij</string>
   <string name="permlab_getTasks">dobivanje aplikacij ki se izvajajo</string>
-  <string name="permlab_handoverStatus">Prejemanje stanja prenosov s opravilo Android Beam</string>
+  <string name="permlab_handoverStatus">Prejemanje stanja prenosov z opravilom Android Beam</string>
   <string name="permlab_install_shortcut">nameščanje bližnjic</string>
   <string name="permlab_invokeCarrierSetup">sprožitev operaterjeve aplikacije za konfiguracijo</string>
   <string name="permlab_killBackgroundProcesses">zapiranje drugih aplikacij</string>

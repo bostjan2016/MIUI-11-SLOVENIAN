@@ -17,9 +17,9 @@
   <string name="activate_feature_remote_assist">Oddaljena pomoč</string>
   <string name="activate_feature_verify_mx_token">Preveritev Mi Računa</string>
   <string name="activate_feature_voip">Mi Glasovno sporočilo</string>
-  <string name="activate_history_canceled_overview">Aktiviranje SIM kartice je preklicano. Aktivirana s opravilo \"%1$s\".</string>
-  <string name="activate_history_multisim_canceled_overview">Aktiviranje SIM kartice %2$d je preklicano. Aktivirana s opravilo \"%1$s\".</string>
-  <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspešno aktivirana. Aktivirana s opravilo \"%1$s\".</string>
+  <string name="activate_history_canceled_overview">Aktiviranje SIM kartice je preklicano. Aktivirano z opravilom \"%1$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">Aktiviranje SIM kartice %2$d je preklicano. Aktivirano z opravilom \"%1$s\".</string>
+  <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspešno aktivirana. Aktivirano z opravilom \"%1$s\".</string>
   <string name="activate_history_sms">SMS sporočilo poslano ob aktivaciji.</string>
   <string name="activate_history_success">Uspešno</string>
   <string name="activate_history_success_overview">SIM kartica uspešno aktivirana. Aktivirana s opravilo \"%1$s\".</string>

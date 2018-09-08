@@ -224,7 +224,7 @@
   <string name="function_keyguard_dialog_cancel">Prekini</string>
   <string name="function_keyguard_dialog_confirm">Nastavi</string>
   <string name="function_keyguard_dialog_content">Nastavite geslo zakl. zaslona da zaščitite svoja plačila.</string>
-  <string name="function_keyguard_dialog_title">"To opravilo še ni podprta"</string>
+  <string name="function_keyguard_dialog_title">"To opravilo še ni podprto"</string>
   <string name="function_mistore_cart">Shopping cart</string>
   <string name="function_mistore_favorite">Priljubljeni</string>
   <string name="function_mistore_title">Mi Store</string>

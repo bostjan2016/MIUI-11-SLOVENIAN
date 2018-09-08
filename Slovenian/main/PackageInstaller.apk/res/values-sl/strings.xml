@@ -21,7 +21,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je testna in lahko vpljiva na zmogljivosti.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je testno in lahko vpliva na zmogljivosti.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
   <string name="accessibility_manual_zen_less_time">Krajši čas.</string>
   <string name="accessibility_manual_zen_more_time">Daljši čas.</string>
@@ -209,7 +209,7 @@ hitrost vzorčenja"</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovno particijo v enkripcijo datotek.
  !!Opozorilo!! Izbrisali se bodo vsi vaši podatki.
- Opravilo je v alfa verziji in mogoče ne bo delovala pravilno.
+ Opravilo je v alfa verziji in mogoče ne bo delovalo pravilno.
  Pritisnite \"Izbriši in pretvori…\" za nadaljevanje."</string>
   <string name="convert_to_file_encryption">Pretvori v enkripcijo datotek</string>
   <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>
@@ -681,7 +681,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="uninstall_failed_retained_app_msg">Ta aplikacija je bila spremenjena in je ni mogoče odstraniti v sedanji obliki.</string>
   <string name="uninstall_failure_notification_channel">Neuspela odstranitev</string>
   <string name="uninstall_update_text">Aplikacija bo nadomeščena z originalno verzijo.</string>
-  <string name="uninstall_update_text_multiuser">Zamenjam to aplikacijo z originalno verzijo? Vsi podatki bodo odstranjeni. To bo vpljivalo na vse uporabnike te naprave, vključno z delovnimi profili.</string>
+  <string name="uninstall_update_text_multiuser">Zamenjam to aplikacijo z originalno verzijo? Vsi podatki bodo odstranjeni. To bo vplivalo na vse uporabnike te naprave, vključno z delovnimi profili.</string>
   <string name="uninstall_update_title">Odstranim to posodobitev?</string>
   <string name="uninstalling">Odstranjujem...</string>
   <string name="uninstalling_app">Odstranjevanje aplikacije %1$s…</string>

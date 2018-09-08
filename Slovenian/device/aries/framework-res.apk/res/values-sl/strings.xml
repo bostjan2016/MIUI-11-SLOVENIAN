@@ -797,7 +797,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_getTasks">Aplikaciji omogoča prejemanje podatkov o trenutnih in nedavno izvajajočih se opravilih. S tem lahko aplikacija odkrije podatke o aplikacijah ki se uporabljajo v napravi.</string>
   <string name="permdesc_getTopActivityInfo">Omogoča imetniku pridobivanje zasebnih podatkov o trenutni aplikaciji v ospredju zaslona.</string>
   <string name="permdesc_grantRevokePermissions">Aplikaciji omogoča dodeljevanje ali preklic posebnih dovoljenj zanjo ali za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za dostop do opravil za katere jim niste dodelili pravic.</string>
-  <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih s opravilo Android Beam</string>
+  <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih s opravilom Android Beam</string>
   <string name="permdesc_hardware_test">Aplikaciji omogoča nadzor različnih zunanjih naprav za preskušanje strojne opreme.</string>
   <string name="permdesc_injectEvents">Aplikaciji omogoča da svoje dogodke vnosa (pritiske tipk ipd.) dostavi drugim aplikacijam. Zlonamerne aplikacije lahko s tem prevzamejo nadzor nad telefonom.</string>
   <string name="permdesc_installLocationProvider">Ustvarjanje simuliranih virov lokacije za preverjanje ali namestitev novega ponudnika lokacije. S tem lahko aplikacija preglasi lokacijo in/ali stanje ki ga vrnejo drugi viri lokacije, kot so GPS in ponudniki lokacij.</string>
@@ -1109,7 +1109,7 @@ za račun %s."</string>
   <string name="permlab_getTasks">dobivanje aplikacij ki se izvajajo</string>
   <string name="permlab_getTopActivityInfo">pridobivanje podatkov o trenutni aplikaciji</string>
   <string name="permlab_grantRevokePermissions">dodeljevanje ali preklic dovoljenj</string>
-  <string name="permlab_handoverStatus">Prejemanje stanja prenosov s opravilo Android Beam</string>
+  <string name="permlab_handoverStatus">Prejemanje stanja prenosov s opravilom Android Beam</string>
   <string name="permlab_hardware_test">preskušanje strojne opreme</string>
   <string name="permlab_injectEvents">pritiskanje tipk in gumbov za nadzor</string>
   <string name="permlab_installLocationProvider">dovoljenje za namestitev ponudnika lokacije</string>

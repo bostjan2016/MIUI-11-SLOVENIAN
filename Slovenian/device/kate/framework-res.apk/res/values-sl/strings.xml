@@ -879,7 +879,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_getAccounts">iskanje računov v napravi</string>
   <string name="permlab_getPackageSize">izračunavanje prostora za shranjevanje aplikacij</string>
   <string name="permlab_getTasks">dobivanje aplikacij ki se izvajajo</string>
-  <string name="permlab_handoverStatus">Prejemanje stanja prenosov s opravilo Android Beam</string>
+  <string name="permlab_handoverStatus">Prejemanje stanja prenosov z opravilom Android Beam</string>
   <string name="permlab_install_shortcut">nameščanje bližnjic</string>
   <string name="permlab_invokeCarrierSetup">sprožitev operaterjeve aplikacije za konfiguracijo</string>
   <string name="permlab_killBackgroundProcesses">zapiranje drugih aplikacij</string>

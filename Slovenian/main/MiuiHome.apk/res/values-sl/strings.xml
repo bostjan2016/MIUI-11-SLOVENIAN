@@ -284,7 +284,7 @@
   <string name="recommend_apps_notice">Priporočene aplik.</string>
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>
-  <string name="recommend_apps_tips">"To opravilo za normalno delovanje potrebuje povezavo s spletom. Za izključitev te opravila se dotaknite imena te mape."</string>
+  <string name="recommend_apps_tips">"To opravilo za normalno delovanje potrebuje povezavo s spletom. Za izključitev tega opravila se dotaknite imena te mape."</string>
   <string name="recommend_loading">Samo trenutek</string>
   <string name="refresh">Osveži</string>
   <string name="reset_description_first_time">Lahko povrnete razpored iz %1$s v roku 2 ure</string>
