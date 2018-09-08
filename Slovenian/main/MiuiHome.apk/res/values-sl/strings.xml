@@ -243,7 +243,7 @@
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
   <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitve. Izključim?"</string>
-  <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati zakl. aplikacij (delnice, bližnice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
+  <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati zakl. aplikacij (delnice, bližnjice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
   <string name="open_personal_assistant_dialog_title">Izključi zakl. aplikacij</string>
   <string name="open_personal_assistant_title">Vključi zakl. aplikacij</string>
   <string name="out_of_space">Ni več prostora na tem zaslonu</string>
@@ -339,9 +339,9 @@
   <string name="uninstall_result_other_failed" formatted="false">"Ne morem odstraniti %s in %d ostalih aplikacij"</string>
   <string name="uninstall_result_succeeded">Aplikacija odstranjena</string>
   <string name="uninstall_result_two_failed">"Ne morem odstraniti %s in 1 ostalo aplikacijo"</string>
-  <string name="uninstall_with_xspace_dialog_message">Primerne klonirane aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>
-  <string name="uninstall_xspace_dialog_message">Odstranitev klonirane aplikacije bo odstranila vse podatke aplikacije.</string>
-  <string name="uninstall_xspace_dialog_title_format">Odstranim klonirano \"%s\" ?</string>
+  <string name="uninstall_with_xspace_dialog_message">Primerne dvojne aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>
+  <string name="uninstall_xspace_dialog_message">Odstranitev dvojne aplikacije bo odstranila vse podatke aplikacije.</string>
+  <string name="uninstall_xspace_dialog_title_format">Odstranim dvojno \"%s\" ?</string>
   <string name="unknown_artist_name">Neznan izvajalec</string>
   <string name="unnamed_folder_name">Mapa</string>
   <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>

@@ -915,7 +915,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="condition_hotspot_title">Dostopna točka je vklopljena</string>
   <string name="condition_turn_off">Izklop</string>
   <string name="condition_turn_on">Vklop</string>
-  <string name="condition_work_summary">Aplikacije, sinhronizacija v ozadju in druge funkcije, povezane z delovnim profilom, so izklopljeni.</string>
+  <string name="condition_work_summary">Aplikacije, sinhronizacija v ozadju in druga opravila, povezane z delovnim profilom, so izklopljene.</string>
   <string name="condition_work_title">Delovni profil je izklopljen</string>
   <string name="condition_zen_title">Način »ne moti« vklopljen (%1$s)</string>
   <string name="config_charging_function_name">Polnjenje</string>
@@ -927,7 +927,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodaj</string>
   <string name="confirm_convert_to_fbe_warning">Ali želite res izbrisati uporabniške podatke in preklopiti na šifriranje podatkov?</string>
   <string name="confirm_download_cancelation_dialog_message">Odpovem prenos?</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="confirm_erase">V redu</string>
   <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis če želite nadaljevati.</string>
@@ -2850,7 +2850,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_xiaomi_account">Nastavitve/Mi Račun</string>
   <string name="path_xiaomi_cloud_service">Aplikacije</string>
   <string name="path_xiaomi_money_service">Aplikacije</string>
-  <string name="path_xspace">Nastavitve/Klonirane aplikacije</string>
+  <string name="path_xspace">Nastavitve/Dvojne aplikacije</string>
   <string name="path_zen_mode_option_miui_silent">Nastavitve/Zvok &amp; vibracija/Tihi način</string>
   <string name="payment_summary">%1$s je privzeta aplikacija</string>
   <string name="performance_category">Zmogljivost</string>
@@ -3598,7 +3598,7 @@ Uporaba pripenjanja:
   <string name="search_wifi_wapi_cert_uninstall">Odstrani WAPI certifikat;WAPI certifikati;WAPI</string>
   <string name="search_wps_connect_title">WPS tipka;Poveži WPS;WPS</string>
   <string name="search_xiaomi_account">Mi Račun; ID Mi Računa;Račun;ID Računa</string>
-  <string name="search_xspace">Dvojne aplikacije;kloniraj aplikacije</string>
+  <string name="search_xspace">Dvojne aplikacije;podvoji aplikacije</string>
   <string name="search_zen_mode_option_miui_silent">Tihi način;tišina;tiho;utišaj</string>
   <string name="second_space">Drugi prostor</string>
   <string name="secure_keyguard_business_title">Nastavi zakl. zaslona</string>
@@ -4325,9 +4325,9 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="uninstall_dlg_msg">Odstanitev bo izbrisala vse podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Odstanim zdaj?</string>
   <string name="uninstall_text">Odstrani</string>
-  <string name="uninstall_with_xspace_app_dlg_msg">Odgovarjajoče klonirane aplikacije bodo odstranjene skupaj z podatki aplikacij.</string>
-  <string name="uninstall_xspace_app_dlg_msg">Odstranitev klonirane bo odstranila vse podatke aplikacije.</string>
-  <string name="uninstall_xspace_app_dlg_title">Odstranim klonirano aplikacijo?</string>
+  <string name="uninstall_with_xspace_app_dlg_msg">Odgovarjajoče dvojne aplikacije bodo odstranjene skupaj z podatki aplikacij.</string>
+  <string name="uninstall_xspace_app_dlg_msg">Odstranitev dvojne bo odstranila vse podatke aplikacije.</string>
+  <string name="uninstall_xspace_app_dlg_title">Odstranim dvojno aplikacijo?</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_app">Neznana aplikacija</string>
   <string name="unlock_change_lock_password_title">Spremeni geslo za odklepanje</string>
@@ -5191,7 +5191,7 @@ WiFi Assistant"</string>
   <string name="xiaomi_router_available_notif_title">Mi Router na voljo</string>
   <string name="xiaomi_router_notif_summary">Obvesti me ko bo Mi Router na voljo</string>
   <string name="xiaomi_router_notif_title">Mi Router obvestilo</string>
-  <string name="xspace">Klonirane aplikacije</string>
+  <string name="xspace">Dvojne aplikacije</string>
   <string name="yes">Da</string>
   <string name="zen_access_disabled_package_warning">Mora ostati vključen ker je dostop do obvestil vključen</string>
   <string name="zen_access_empty_text">Nobena nameščena aplikacija ni zahtevala dostopa do načina Ne moti</string>

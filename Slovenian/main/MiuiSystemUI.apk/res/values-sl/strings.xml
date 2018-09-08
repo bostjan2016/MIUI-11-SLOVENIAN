@@ -1844,7 +1844,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="user_guest">Gost</string>
   <string name="user_guide_for_notification">Povleci navzdol da dobiš obvestilno vrstico</string>
   <string name="user_guide_for_toggle">Bližnjice lahko premikate vodoravno</string>
-  <string name="user_guide_for_toggle_list">Upravljaj z bližnicami</string>
+  <string name="user_guide_for_toggle_list">Urejaj bližnjice</string>
     <string name="user_logout_notification_action">ODJAVA UPORABNIKA</string>
     <string name="user_logout_notification_text">Odjava trenutnega uporabnika</string>
     <string name="user_logout_notification_title">Odjava uporabnika</string>

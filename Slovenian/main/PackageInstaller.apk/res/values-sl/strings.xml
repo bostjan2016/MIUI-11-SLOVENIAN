@@ -33,7 +33,7 @@
   <string name="accessibility_wifi_signal_full">WiFi signal je poln.</string>
   <string name="accessibility_wifi_three_bars">WiFi signal ima tri črtice.</string>
   <string name="accessibility_wifi_two_bars">WiFi signal ima dve črtice.</string>
-  <string name="action_bar_expand_collapse_button">Tipka raširi/skrči</string>
+  <string name="action_bar_expand_collapse_button">Tipka razširi/skrči</string>
   <string name="accessibility_wimax_one_bar">WiMAX ima eno črtico.</string>
   <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
   <string name="adb_keys_warning_message">Ali želite preklicati dostop onemogočanja napak preko USB-a z vseh računalnikov ki ste jih avtorizirali?</string>

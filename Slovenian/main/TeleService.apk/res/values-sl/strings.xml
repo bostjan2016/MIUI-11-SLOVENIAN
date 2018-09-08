@@ -376,7 +376,7 @@ hitrost vzorčenja"</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bt_hci_snoop_log">Dnevniki za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Posnemi sve Bluetooth HCI pakete v datoteki</string>
-  <string name="bugreport_in_power">Bližnica poročila o napakah</string>
+  <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
   <string name="callEnded_pulled">Poziv prenesen na drugo napravo.</string>

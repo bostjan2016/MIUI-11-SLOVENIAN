@@ -407,7 +407,7 @@
   <string name="preferences_label">Nastavitve</string>
   <string name="qq_new">Nov status</string>
   <string name="qq_qzone">Qzone</string>
-  <string name="quickstart_accessibility_description">"Zakl. aplikacij omogoča bližnice za izbrane aplikacije tretjih strani. Te bližnice ne bodo delovale če izključite to funkcijo."</string>
+  <string name="quickstart_accessibility_description">"Zakl. aplikacij omogoča bližnjice za izbrane aplikacije tretjih strani. Te bližnjice ne bodo delovale če izključite to funkcijo."</string>
   <string name="recharge_flow">Doplačaj bon</string>
   <string name="recharge_tel">Doplačaj bon</string>
   <string name="recharge_title_monthused">Izkoriščeno ta mesec</string>

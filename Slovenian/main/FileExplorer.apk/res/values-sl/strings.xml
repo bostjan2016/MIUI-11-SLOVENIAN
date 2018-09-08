@@ -889,7 +889,7 @@
   <string name="stay_awake_title">Zaslon naj ostane vključen</string>
   <string name="sticker_btn_str_explore_tab">Preiščite kup zabavnih stvari!</string>
   <string name="stop_server">Ustavi strežnik</string>
-  <string name="storage_cloned_app">Prostor za shranjevanje za klonirane aplikacije</string>
+  <string name="storage_cloned_app">Prostor za shranjevanje za dvojne aplikacije</string>
   <string name="storage_info">%1$s dostopno</string>
   <string name="storage_info_detail">Dostopno:%1$s Skupaj:%2$s</string>
   <string name="storage_internal">Notranji pomnilnik</string>

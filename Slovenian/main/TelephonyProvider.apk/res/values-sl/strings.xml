@@ -3,5 +3,5 @@
   <string name="app_label">Pomnilnik telefona/sporočil</string>
   <string name="mms_provider_label">MMS</string>
   <string name="mms_sms_provider_label">Sporočila</string>
-  <string name="sms_provider_label">SMS sporočil</string>
+  <string name="sms_provider_label">SMS sporočila</string>
 </resources>

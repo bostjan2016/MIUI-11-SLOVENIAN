@@ -376,7 +376,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="apps_item_virus_summary_uninstalled">Aplik.</string>
   <string name="apps_list_header_title_sms">Kontrola aplikacije za pošiljanje sporočil</string>
   <string name="apps_list_header_title_sms_access">Omeji dostop na kode za potrditev</string>
-  <string name="ask_create_shortcut">Izdelajte bližnico Zač. zaslona?</string>
+  <string name="ask_create_shortcut">Izdelam bližnjico Zač. zaslona?</string>
   <string name="auto_atsk_condition_battery_level_text_down">Ko baterija doseže %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Ko je baterija napolnjena do %s</string>
   <string name="auto_back_booster">Zaustavi pospeševanje</string>
@@ -1517,7 +1517,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_item_notification_power_text">Moč</string>
   <string name="menu_item_notification_title">Pokaži meni v obvestilni vrstici</string>
   <string name="menu_item_settings_title">Nastavitve</string>
-  <string name="menu_item_shortcut_summary">Postavi funkcije na začetni zaslon</string>
+  <string name="menu_item_shortcut_summary">Postavi opravila na začetni zaslon</string>
   <string name="menu_item_shortcut_title">Urejanje bližnjic</string>
   <string name="menu_item_uninstall">Odstrani</string>
   <string name="menu_item_virus_cloud_scan_summary">Naloži ime in podrobnosti aplikacije in uporabi z preverjanjem v spletni verziji virusov</string>
@@ -2113,7 +2113,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_category_extra_package_tile">Paket doplačila</string>
   <string name="pref_category_half_year_package_tile">Polletni paket podatkov</string>
   <string name="pref_category_title_lock_screen_memory_clean">Počisti zaklenjen zaslon</string>
-  <string name="pref_category_title_module_settings">Nastavitev funkcij</string>
+  <string name="pref_category_title_module_settings">Nastavitev opravil</string>
   <string name="pref_category_title_other">Dodatne nastavitve</string>
   <string name="pref_category_title_reference_settings">Dodatne nastavitve</string>
   <string name="pref_category_title_securitycenter_settings">Splošno</string>

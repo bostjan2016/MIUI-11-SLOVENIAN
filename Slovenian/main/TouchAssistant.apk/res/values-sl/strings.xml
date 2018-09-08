@@ -37,7 +37,7 @@
   <string name="name_trans_cards">Transportna kartica</string>
   <string name="name_wechat_payment_code">Wechat hitro plačilo</string>
 	<string name="open">Vključi</string>
-	<string name="open_panel">Vključi Meni bližnic</string>
+	<string name="open_panel">Vključi Meni bližnjic</string>
   <string name="name_wechat_scan">Wechat skener</string>
   <string name="nfc_all_mipay_card_not_in_use">"Mi Pay ni aktiviran"</string>
   <string name="nfc_trans_card_not_in_use">"Transportna kartica ni aktivirana"</string>
