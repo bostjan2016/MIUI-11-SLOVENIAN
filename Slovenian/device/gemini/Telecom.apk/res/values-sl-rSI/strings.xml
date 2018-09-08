@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_call_muted">Klic utišan.</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
   <string name="accessibility_no_wifi">WiFi izključen.</string>
   <string name="accessibility_speakerphone_enabled">Zvočnik omogočen.</string>
@@ -53,7 +53,7 @@
   <string name="bluetooth_connected_no_map">Povezava vzp. (ni dostopa do sporočil)</string>
   <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
   <string name="bluetooth_disable_absolute_volume">Onemogočanje absolutnega praga glasnosti</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči funkcijo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči opravilo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
   <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
@@ -104,14 +104,14 @@
   <string name="charge_length_format">Pred toliko časa: %1$s</string>
   <string name="choose_profile">Izbira profila</string>
   <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
   <string name="connected_via_wfa">Povezava vzpostavljena preko pomočnika za WiFi</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
- Ta funkcija je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovala pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>

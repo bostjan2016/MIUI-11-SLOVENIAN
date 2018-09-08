@@ -33,7 +33,7 @@
   <string name="menu_speaker">Preklopi na zvočnik</string>
   <string name="msg_do_not_support_fm">Ta naprava ne podpira FM radia</string>
   <string name="msg_fm_starting">Začenjam...</string>
-  <string name="msg_noantenna_message">Najdenih ni nobenih slušalk. Nekatere funkcije morda niso na voljo.</string>
+  <string name="msg_noantenna_message">Najdenih ni nobenih slušalk. Nekatere opravila morda niso na voljo.</string>
   <string name="new_frequency">Nova frekvenca</string>
   <string name="next_station">Naslednja postaja</string>
   <string name="notification_rec_title">Dotaknite se za pregled posnetka</string>
@@ -48,7 +48,7 @@
   <string name="stations_list_empty">Ni priljubljenih postaj</string>
   <string name="toast_added_to_list">Dodano na seznam</string>
   <string name="toast_added_to_presets">Dodano med priljubljene</string>
-  <string name="toast_fm_error_startfailed">Napaka med snemanjem. Druga naprava morda uporablja funkcijo snemanja.</string>
+  <string name="toast_fm_error_startfailed">Napaka med snemanjem. Druga naprava morda uporablja opravilo snemanja.</string>
   <string name="toast_fm_recorder_access_error">Snemanje ni mogoče v načinu Gost</string>
   <string name="toast_fm_recorder_internal_error">FM napaka snemanja</string>
   <string name="toast_fm_recorder_storage_full">Ne morem nadaljevati snemati: ni dovolj pomnilniškega prostora</string>

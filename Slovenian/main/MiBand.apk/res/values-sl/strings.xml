@@ -318,7 +318,7 @@ Naslov: %2$s"</string>
   <string name="enable_broadcast">Vključi način dela odkrivanja</string>
   <string name="enable_id_broadcast_comments">Vključite vidljivost napravam v bližini in da se lahko poveže z njimi</string>
   <string name="enable_id_broadcast_query">Vključim način dela odkrivanja?</string>
-  <string name="enable_id_broadcast_query_msg">Izključitev te funkcije lahko malo zmanjša trajanje baterije</string>
+  <string name="enable_id_broadcast_query_msg">Izključitev te opravila lahko malo zmanjša trajanje baterije</string>
   <string name="enable_id_broadcast_tips">Vključite da bo viden napravam v bližini</string>
   <string name="enable_incoming_call_alert">Vključi obvestila za dohodne klice</string>
   <string name="enable_incoming_call_alert_tips">Mi Band bo vibriral ob dohodnih klicih</string>
@@ -653,12 +653,12 @@ razpona merjenja (%s)"</string>
   <string name="mili_low_battery_title">Napolnite svoj Mi Band</string>
   <string name="mili_not_connected">"Mi Band ni povezan"</string>
   <string name="mili_not_weared">Ni podataka sinočnjega spanja.</string>
-  <string name="mili_pro_display_item_title">Izberite naslednje funkcije ki bodo prikazane na Mi Bandu</string>
+  <string name="mili_pro_display_item_title">Izberite naslednje opravila ki bodo prikazane na Mi Bandu</string>
   <string name="mili_setting_bind_new">Seznani nov Mi Band</string>
   <string name="mili_setting_charge_full">Baterija polna</string>
   <string name="mili_setting_charging">Polnjenje…</string>
   <string name="mili_setting_display_item">Mi Band nastavitve prikaza</string>
-  <string name="mili_setting_display_item_tips">Izberite funkcije za prikaz</string>
+  <string name="mili_setting_display_item_tips">Izberite opravila za prikaz</string>
   <string name="mili_setting_find_bracelet">Najdi Mi Band</string>
   <string name="mili_setting_finding">Iščem Mi Band…</string>
   <string name="mili_setting_fw_version">Firmware verzija</string>
@@ -1396,7 +1396,7 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="unlock_for_smartlock_pair_start_tip">Seznanjanje…</string>
   <string name="unlock_for_smartlock_pair_success_tip">Mi Band seznanjen, zdaj prilagodite Smart Lock</string>
   <string name="unlock_for_smartlock_start_setting">Pojdi v Nastavitve</string>
-  <string name="unlock_for_smartlock_tip">Ta funkcija zahteva da je aplikacija Mi Fit odprta v ozadju</string>
+  <string name="unlock_for_smartlock_tip">To opravilo zahteva da je aplikacija Mi Fit odprta v ozadju</string>
   <string name="unlock_for_smartlock_tip_step1">1. Pojdite na Nastavitve - Varnost</string>
   <string name="unlock_for_smartlock_tip_step2">2. Prilagodite zakl. zaslona - Vzorec, PIN ali geslo</string>
   <string name="unlock_for_smartlock_tip_step3">3.Pritisnite- SmartLock za odklepanje telefona z Mi Bandom</string>
@@ -1411,7 +1411,7 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="unlock_screen_help_title3">Poskusite ponovno zagnati vaš telefon</string>
   <string name="unlock_screen_invalid">"Ne morete odkleniti svojo napravo?"</string>
   <string name="unlock_screen_invalid_helper">"Ne morete odkleniti to napravo z vašim Mi Bandom?"</string>
-  <string name="unlock_screen_modify_unlock_v6">"Lahko vključite/izključite to funkcijo kadarkoli v 
+  <string name="unlock_screen_modify_unlock_v6">"Lahko vključite/izključite to opravilo kadarkoli v 
 Nastavitve -&gt; Varnost zaslona -&gt; Odkleni z Bluetooth napravo"</string>
   <string name="unlock_screen_not_bound">Seznanite Mi Band da z njim odklenete vaš telefon</string>
   <string name="unlock_screen_set_success">To napravo lahko odklenete z Mi Bandom.</string>

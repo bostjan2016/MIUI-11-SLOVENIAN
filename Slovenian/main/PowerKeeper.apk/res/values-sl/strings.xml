@@ -75,7 +75,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="hints_loading_text">Nalaganje…</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
   <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
-  <string name="lasttime_feature_cloud">Posodobljene funkcije:</string>
+  <string name="lasttime_feature_cloud">Posodobljene opravila:</string>
   <string name="message_i_know">Razumem</string>
   <string name="important_warning">Pozor</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
@@ -173,7 +173,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_config_ultimate_off_already">Ultimativen način izključen</string>
   <string name="power_config_ultimate_on_already">Ultimativen način vključen</string>
   <string name="power_config_ultimate_title">Ultimativno</string>
-  <string name="power_config_ultimate_unlock_already">Vse funkcije so odklenjene</string>
+  <string name="power_config_ultimate_unlock_already">Vse opravila so odklenjene</string>
   <string name="power_configure_screen_brightness_enable">Nastavite osvetlitev zaslona</string>
   <string name="power_consume_abnormal_night">Baterija se je ponoči spraznila</string>
   <string name="power_customize_giveup_change">Zavržem spremembe?</string>
@@ -228,7 +228,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="sleep_config_enhance_title">Način mirovanja</string>
   <string name="sleepmode_disclaimer_agree">Strinjam se</string>
   <string name="sleepmode_disclaimer_cancel">Prekini</string>
-  <string name="sleepmode_privacy_content">Ta funkcija bo uporabljala sistem telefona in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
+  <string name="sleepmode_privacy_content">To opravilo bo uporabljala sistem telefona in podatke o napravi. Podatki ne bodo prenešeni na strežnik</string>
   <string name="sleepmode_privacy_link">Izvedite več o varnosti in zasebnosti</string>
   <string name="sleepmode_privacy_title">Način mirovanja</string>
   <string name="still">Slika</string>

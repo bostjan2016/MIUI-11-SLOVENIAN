@@ -4,8 +4,8 @@
   <string name="about_preference_activity_title">O globalnem iskanju</string>
   <string name="account_prifix">Račun:</string>
   <string name="app_name">Iskanje</string>
-  <string name="appindex_description">Funkcije instaliranih aplik.</string>
-  <string name="appindex_search_label">Funkcije aplik.</string>
+  <string name="appindex_description">Opravila instaliranih aplik.</string>
+  <string name="appindex_search_label">Opravila aplik.</string>
   <string name="application_desc">Aplikacija</string>
   <string name="applications_search_label">Aplikacije</string>
   <string name="apps_search_activity"/>
@@ -45,8 +45,8 @@
   <string name="common_category_entrance">Kartice</string>
   <string name="common_history">Povijest pretraživanja</string>
   <string name="common_history_first">Prioritize search history</string>
-  <string name="common_history_first_subtitle">Če je ta funkcija izključena se bo najprej pokazala zgodovina iskanja</string>
-  <string name="common_history_subtitle">Ko je ta funkcija izključana  ne boste videli predlogov iskanja</string>
+  <string name="common_history_first_subtitle">Če je to opravilo izključena se bo najprej pokazala zgodovina iskanja</string>
+  <string name="common_history_subtitle">Ko je to opravilo izključana  ne boste videli predlogov iskanja</string>
   <string name="common_personal">Personalizacija</string>
   <string name="common_recent_apps">Predlogi aplikacij</string>
   <string name="common_recent_apps_first">Razvrsti predloge aplikacij</string>
@@ -146,9 +146,9 @@
   <string name="recent_apps">Nedavne aplikacije</string>
   <string name="recent_apps_filter">"Skrijte aplikacije katere ne uporabljate"</string>
   <string name="recent_calls">Zadnji klici</string>
-  <string name="recent_close_content">"Izključim to funkcijo?
+  <string name="recent_close_content">"Izključim to opravilo?
  To lahko spremenite v Nastavitve &gt; Nameščene aplikacije &gt; Išči"</string>
-  <string name="recent_close_title">Izključi funkcije</string>
+  <string name="recent_close_title">Izključi opravila</string>
   <string name="recent_delete_content">"Skrijem te aplikacije zdaj?
   To lahko spremenite v Nastavitve &gt; Nameščene aplikacije &gt; Išči"</string>
   <string name="recent_delete_negative">Prekini</string>
@@ -156,8 +156,8 @@
   <string name="recent_delete_title">Skrij aplikacije</string>
   <string name="recent_edit">Uredi</string>
   <string name="recent_edit_done">Končano</string>
-  <string name="recent_filter_functions">Funkcije so izključene</string>
-  <string name="recent_function">Funkcije</string>
+  <string name="recent_filter_functions">Opravila so izključene</string>
+  <string name="recent_function">Opravila</string>
   <string name="recently_shortcut_label">Nedavne bližnjice</string>
   <string name="release_to_exit">Spusti za izhod</string>
   <string name="release_to_input">Spusti za prikaz vrste iskanja</string>

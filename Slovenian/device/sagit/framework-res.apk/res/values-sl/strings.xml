@@ -45,19 +45,19 @@
   <string name="VideoView_error_title">Težava z videoposnetkom</string>
     <string name="accept">Sprejmem</string>
     <string name="accessibility_binding_label">Pripomočki za osebe s posebnimi potrebami</string>
-    <string name="accessibility_button_instructional_text">Če želite spremeniti funkcije, se dotaknite gumba »Dostopnost« in ga pridržite.</string>
-    <string name="accessibility_button_prompt_text">Izberite funkcijo, ki jo želite uporabljati, ko se dotaknete gumba »Dostopnost«:</string>
+    <string name="accessibility_button_instructional_text">Če želite spremeniti opravila, se dotaknite gumba »Dostopnost« in ga pridržite.</string>
+    <string name="accessibility_button_prompt_text">Izberite opravilo, ki jo želite uporabljati, ko se dotaknete gumba »Dostopnost«:</string>
   <string name="accessibility_enabled">Dostopnost je omogočena.</string>
     <string name="accessibility_magnification_chooser_text">Povečava</string>
-    <string name="accessibility_shortcut_disabling_service">Bližnjica funkcij za ljudi s posebnimi potrebami je izklopila %1$s</string>
-    <string name="accessibility_shortcut_enabling_service">Bližnjica funkcij za ljudi s posebnimi potrebami je vklopila %1$s</string>
-    <string name="accessibility_shortcut_toogle_warning">"Ko je bližnjica vklopljena, pritisnite gumba za glasnost in ju pridržite tri sekunde, če želite zagnati funkcijo za ljudi s posebnimi potrebami.
+    <string name="accessibility_shortcut_disabling_service">Bližnjica opravil za ljudi s posebnimi potrebami je izklopila %1$s</string>
+    <string name="accessibility_shortcut_enabling_service">Bližnjica opravil za ljudi s posebnimi potrebami je vklopila %1$s</string>
+    <string name="accessibility_shortcut_toogle_warning">"Ko je bližnjica vklopljena, pritisnite gumba za glasnost in ju pridržite tri sekunde, če želite zagnati opravilo za ljudi s posebnimi potrebami.
 
- Trenutna funkcija za ljudi s posebnimi potrebami:
+ Trenutna opravilo za ljudi s posebnimi potrebami:
  %1$s
 
- Funkcijo lahko spremenite v »Nastavitve > Funkcije za ljudi s posebnimi potrebami«."</string>
-    <string name="accessibility_shortcut_warning_dialog_title">Želite uporabljati bližnjico funkcij za ljudi s posebnimi potrebami?</string>
+ Opravilo lahko spremenite v »Nastavitve > Opravila za ljudi s posebnimi potrebami«."</string>
+    <string name="accessibility_shortcut_warning_dialog_title">Želite uporabljati bližnjico opravil za ljudi s posebnimi potrebami?</string>
     <string name="action_bar_home_description">Krmarjenje domov</string>
     <string name="action_bar_up_description">Krmarjenje navzgor</string>
     <string name="action_menu_overflow_description">Več možnosti</string>
@@ -88,7 +88,7 @@
     <string name="aerr_wait">Počakajte</string>
     <string name="alert_windows_notification_channel_group_name">Prekrivanje drugih aplikacij</string>
     <string name="alert_windows_notification_channel_name">%s prekriva druge aplikacije</string>
-    <string name="alert_windows_notification_message">Če ne želite, da aplikacija %s uporablja to funkcijo, se dotaknite, da odprete nastavitve, in funkcijo izklopite.</string>
+    <string name="alert_windows_notification_message">Če ne želite, da aplikacija %s uporablja to opravilo, se dotaknite, da odprete nastavitve, in opravilo izklopite.</string>
     <string name="alert_windows_notification_title">%s prekriva druge aplikacije</string>
     <string name="alert_windows_notification_turn_off_action">IZKLOP</string>
     <string name="allow">Dovoli</string>
@@ -401,8 +401,8 @@ s številko %s"</string>
     <string name="factorytest_reboot">Znova zaženi</string>
   <string name="fast_scroll_alphabet">" ABCČDDEFGHIJKLLMNNOPRSŠTUVZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="fcComplete">Koda funkcije je dokončana.</string>
-    <string name="fcError">Težava s povezavo ali neveljavna koda funkcije.</string>
+    <string name="fcComplete">Koda opravila je dokončana.</string>
+    <string name="fcError">Težava s povezavo ali neveljavna koda opravila.</string>
     <string name="find">Najdi</string>
     <string name="find_next">Najdi naslednje</string>
     <string name="find_on_page">Najdi na strani</string>
@@ -681,7 +681,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
     <string name="lockscreen_sound_off_label">Izklopi zvok</string>
     <string name="lockscreen_sound_on_label">Vklopi zvok</string>
-    <string name="lockscreen_storage_locked">Odklenite za dostop do vseh funkcij in podatkov</string>
+    <string name="lockscreen_storage_locked">Odklenite za dostop do vseh opravil in podatkov</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
@@ -700,7 +700,7 @@ Znova poskusite čez %d s."</string>
     <string name="lockscreen_transport_rew_description">Previj nazaj</string>
     <string name="lockscreen_transport_stop_description">Ustavi</string>
     <string name="lockscreen_unlock_label">Odkleni</string>
-    <string name="low_internal_storage_view_text">Nekatere sistemske funkcije morda ne delujejo</string>
+    <string name="low_internal_storage_view_text">Nekatere sistemske opravila morda ne delujejo</string>
     <string name="low_internal_storage_view_text_no_boot">V shrambi ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
     <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
     <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
@@ -915,7 +915,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_configureWifiDisplay">Aplikaciji omogoča konfiguriranje zaslonov WiFi in povezovanje z njimi.</string>
   <string name="permdesc_confirm_full_backup">Aplikaciji omogoča zagon uporabniškega vmesnika za potrditev popolnega varnostnega kopiranja. Ni za uporabo z aplikacijami.</string>
   <string name="permdesc_connection_manager">Aplikaciji omogoča urejanje telekomunikacijskih povezav.</string>
-  <string name="permdesc_controlWifiDisplay">Aplikaciji omogoča nadzor osnovnih funkcij zaslonov WiFi.</string>
+  <string name="permdesc_controlWifiDisplay">Aplikaciji omogoča nadzor osnovnih opravil zaslonov WiFi.</string>
     <string name="permdesc_control_incall_experience">Aplikaciji omogoča zagotavljanje uporabniške izkušnje med klicem.</string>
   <string name="permdesc_control_keyguard">Aplikaciji omogoča nadzor zaklepanja tipkovnice.</string>
   <string name="permdesc_copyProtectedData">Aplikaciji omogoča klicanje privzete storitve vsebnika da kopira vsebino. Ni za uporabo z navadnimi aplikacijami.</string>
@@ -941,8 +941,8 @@ Znova poskusite čez %d s."</string>
     <string name="permdesc_getPackageSize">Aplikaciji omogoča da pridobi njeno kodo, podatke in velikosti predpomnilnika.</string>
     <string name="permdesc_getTasks">Aplikaciji omogoča prejemanje podatkov o trenutnih in nedavno izvajajočih se opravilih. S tem lahko aplikacija odkrije podatke o aplikacijah, ki se uporabljajo v napravi.</string>
   <string name="permdesc_getTopActivityInfo">Omogoča imetniku pridobivanje zasebnih podatkov o trenutni aplikaciji v ospredju zaslona.</string>
-  <string name="permdesc_grantRevokePermissions">Aplikaciji omogoča dodeljevanje ali preklic posebnih dovoljenj zanjo ali za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za dostop do funkcij za katere jim niste dodelili pravic.</string>
-    <string name="permdesc_handoverStatus">Omogoči tej aplikaciji prejemanje podatkov o trenutnih prenosih s funkcijo Android Beam</string>
+  <string name="permdesc_grantRevokePermissions">Aplikaciji omogoča dodeljevanje ali preklic posebnih dovoljenj zanjo ali za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za dostop do opravil za katere jim niste dodelili pravic.</string>
+    <string name="permdesc_handoverStatus">Omogoči tej aplikaciji prejemanje podatkov o trenutnih prenosih s opravilo Android Beam</string>
   <string name="permdesc_hardware_test">Aplikaciji omogoča nadzor različnih zunanjih naprav za preskušanje strojne opreme.</string>
   <string name="permdesc_injectEvents">Aplikaciji omogoča da svoje dogodke vnosa (pritiske tipk ipd.) dostavi drugim aplikacijam. Zlonamerne aplikacije lahko s tem prevzamejo nadzor nad telefonom.</string>
   <string name="permdesc_installLocationProvider">Ustvarjanje simuliranih virov lokacije za preverjanje ali namestitev novega ponudnika lokacije. S tem lahko aplikacija preglasi lokacijo in/ali stanje ki ga vrnejo drugi viri lokacije, kot so GPS in ponudniki lokacij.</string>
@@ -963,7 +963,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_manageDeviceAdmins">Imetniku omogoča da doda ali odstrani aktivne skrbnike naprave. Normalne aplikacije tega načeloma ne potrebujejo.</string>
   <string name="permdesc_manageDocs">Aplikaciji omogoči upravljanje shranjevanja dokumentov.</string>
     <string name="permdesc_manageFingerprint">Aplikaciji omogoča sprožanje načinov za dodajanje in brisanje predlog s prstnimi odtisi za uporabo.</string>
-  <string name="permdesc_manageMediaProjection">Aplikaciji omogoča upravljanje z projekcijskimi sejami multimedije. Te seje dajejo aplikacijam možnost snemanja zaslona in avdio vsebine. Navadne aplikacije verjetno ne bodo potrebovali te funkcije.</string>
+  <string name="permdesc_manageMediaProjection">Aplikaciji omogoča upravljanje z projekcijskimi sejami multimedije. Te seje dajejo aplikacijam možnost snemanja zaslona in avdio vsebine. Navadne aplikacije verjetno ne bodo potrebovali te opravila.</string>
   <string name="permdesc_manageNetworkPolicy">Aplikaciji omogoča upravljanje pravilnikov o omrežju in določanje pravil za aplikacije.</string>
     <string name="permdesc_manageOwnCalls">Dovoli, da aplikacija usmeri klice prek sistema, da se tako izboljša izkušnja klicanja.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Aplikaciji omogoča upravljanje nastavitev lastnika profila in naprave.</string>
@@ -978,7 +978,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_modifyAudioSettings">Aplikaciji omogoča spreminjanje splošnih zvočnih nastavitev, na primer glasnost in kateri zvočnik se uporablja.</string>
   <string name="permdesc_modifyNetworkAccounting">Aplikaciji omogoča, da spremeni uporabo omrežja na podlagi aplikacij. Ni za uporabo z navadnimi aplikacijami.</string>
   <string name="permdesc_modifyParentalControls">Aplikaciji omogoča da spremeni podatke o starševskem nadzoru sistema. Ne bi smelo biti potrebno za navadne aplikacije.</string>
-  <string name="permdesc_modifyPhoneState">Aplikaciji omogoča upravljanje telefonskih funkcij naprave. Aplikacija s tem dovoljenjem lahko spremeni omrežje, vključi in izključi radionapravo telefona in podobno, a vas o tem sploh ne bo obvestila.</string>
+  <string name="permdesc_modifyPhoneState">Aplikaciji omogoča upravljanje telefonskih opravil naprave. Aplikacija s tem dovoljenjem lahko spremeni omrežje, vključi in izključi radionapravo telefona in podobno, a vas o tem sploh ne bo obvestila.</string>
   <string name="permdesc_mount_format_filesystems">Aplikaciji omogoča formatiranje shrambe za izmenljive medije.</string>
   <string name="permdesc_mount_unmount_filesystems">Aplikaciji omogoča vpenjanje in izpenjanje datotečnih sistemov za izmenljive pomnilnike.</string>
   <string name="permdesc_movePackage">Aplikaciji omogoča premikanje sredstev aplikacij iz notranjih medijev v zunanje in obratno.</string>
@@ -1001,7 +1001,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_readLogs">Aplikaciji omogoča branje različnih sistemskih dnevniških datotek. To ji omogoča dostop do splošnih podatkov v telefonu, lahko tudi do osebnih podatkov.</string>
     <string name="permdesc_readNetworkUsageHistory">Aplikaciji omogoča branje pretekle uporabe omrežja za določena omrežja in aplikacije.</string>
     <string name="permdesc_readPhoneNumbers">Aplikaciji dovoljuje dostop do telefonskih številk v napravi.</string>
-    <string name="permdesc_readPhoneState">Aplikaciji omogoča dostop do funkcij telefona v napravi. S tem dovoljenjem lahko aplikacija določi telefonsko številko in ID-je naprave, določi lahko tudi, ali je klic aktiven, in oddaljeno številko, s katero je klic povezan.</string>
+    <string name="permdesc_readPhoneState">Aplikaciji omogoča dostop do opravil telefona v napravi. S tem dovoljenjem lahko aplikacija določi telefonsko številko in ID-je naprave, določi lahko tudi, ali je klic aktiven, in oddaljeno številko, s katero je klic povezan.</string>
   <string name="permdesc_readPrecisePhoneState">Aplikaciji omogoča pristop do natančnih stanj telefona. To dovoljenje omogoča aplikaciji da določi resnični status klica, ali je klic aktiven ali v ozadju, neuspele klice, natančne podatke o statusu povezave in neuspela vzpostavljanja podatkovnih povezav.</string>
   <string name="permdesc_readProfile">Aplikaciji omogoča branje osebnih podatkov v profilu ki so shranjeni v napravi, na primer ime in podatki za stik. To pomeni da vas lahko aplikacija prepozna in vaše podatke v profilu pošlje drugim.</string>
     <string name="permdesc_readSms">Ta aplikacija lahko prebere vsa sporočila SMS, ki so shranjena v telefonu.</string>
@@ -1039,10 +1039,10 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_sendRespondViaMessageRequest">Aplikaciji dovoli da pošilja zahteve drugim aplikacijam za sporočila za obravnavanje dogodkov z odgovori prek sporočil za dohodne klice.</string>
     <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerne aplikacije lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
   <string name="permdesc_serialPort">Imetniku omogoča da z API-jem za SerialManager dostopa do serijskih vrat.</string>
-    <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te funkcije.</string>
+    <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te opravila.</string>
   <string name="permdesc_setAlwaysFinish">Aplikaciji omogoča da nadzoruje ali so dejavnosti zaključene takoj ko so premaknjene v ozadje. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setAnimationScale">Aplikaciji omogoča da kadarkoli spremeni splošno hitrost animacije (hitrejše ali počasnejše animacije).</string>
-  <string name="permdesc_setDebugApp">Aplikaciji omogoča vklop funkcije za odpravljanje napak za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za zapiranje drugih aplikacij.</string>
+  <string name="permdesc_setDebugApp">Aplikaciji omogoča vklop opravila za odpravljanje napak za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za zapiranje drugih aplikacij.</string>
     <string name="permdesc_setInputCalibration">Aplikaciji dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setKeyboardLayout">Aplikaciji omogoča da kadarkoli spremeni postavitev tipkovnice. Običajne aplikacije tega ne potrebujejo.</string>
   <string name="permdesc_setOrientation">Aplikaciji omogoča da kadarkoli zasuka zaslon. Ne uporabljajte za navadne aplikacije.</string>
@@ -1058,7 +1058,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_signalPersistentProcesses">Aplikaciji omogoča da zahteva da je posredovani signal poslan vsem trajnim procesom.</string>
     <string name="permdesc_sim_communication">Aplikaciji dovoli pošiljanje ukazov kartici SIM. To je lahko zelo nevarno.</string>
   <string name="permdesc_startAnyActivity">Aplikaciji omogoča zagon poljubne dejavnosti, ne glede na zaščito dovoljenj ali izvoženo stanje.</string>
-  <string name="permdesc_startTasksFromRecents">Aplikaciji omogoča uporabo ActivityManager RecentTaskInfo objekta za zagon naloge ki ni več v funkciji vrnjenega iz ActivityManager.</string>
+  <string name="permdesc_startTasksFromRecents">Aplikaciji omogoča uporabo ActivityManager RecentTaskInfo objekta za zagon naloge ki ni več v opravili vrnjenega iz ActivityManager.</string>
     <string name="permdesc_statusBar">Aplikacijam omogoča onemogočenje vrstice stanja ali dodajanje in odstranjevanje ikon sistema.</string>
     <string name="permdesc_statusBarService">Aplikaciji omogoča, da postane vrstica stanja.</string>
   <string name="permdesc_stopAppSwitches">Uporabniku preprečuje preklop v drugo aplikacijo.</string>
@@ -1093,9 +1093,9 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_writeSocialStream">Aplikaciji omogoča prikaz objav vaših prijateljev v družabnih omrežjih. Previdno pri objavljanju informacij – aplikacija lahko s tem ustvari sporočila za katera je videti da jih pošiljajo prijatelji. Opomba: Tega dovoljenja ni mogoče uveljaviti v vseh družbenih omrežjih.</string>
     <string name="permdesc_writeSyncSettings">Aplikaciji omogoča spreminjanje nastavitev sinhronizacije za račun. S tem se lahko na primer omogoči sinhronizacijo aplikacije Ljudje z računom.</string>
   <string name="permdesc_writeVoicemail">Aplikaciji omogoča menjanje in brisanje sporočil iz prihodne glasovne pošte.</string>
-  <string name="permgroupdesc_accessibilityFeatures">Funkcije ki jih lahko zahteva tehnologija za ljudi s posebnimi potrebami.</string>
+  <string name="permgroupdesc_accessibilityFeatures">Opravila ki jih lahko zahteva tehnologija za ljudi s posebnimi potrebami.</string>
   <string name="permgroupdesc_accounts">Dostop do razpoložljivih računov.</string>
-  <string name="permgroupdesc_affectsBattery">Uporaba funkcij ki lahko hitro izpraznijo baterijo.</string>
+  <string name="permgroupdesc_affectsBattery">Uporaba opravil ki lahko hitro izpraznijo baterijo.</string>
   <string name="permgroupdesc_appInfo">Zmožnost vpliva na delovanje drugih aplikacij v napravi.</string>
   <string name="permgroupdesc_audioSettings">Spreminjanje nastavitev zvoka.</string>
   <string name="permgroupdesc_bluetoothNetwork">Dostopanje do naprav in omrežij prek povezave Bluetooth.</string>
@@ -1104,7 +1104,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_camera">Neposreden dostop do fotoaparata za fotografiranje ali snemanje videoposnetkov.</string>
   <string name="permgroupdesc_contacts">Neposreden dostop do stikov</string>
   <string name="permgroupdesc_costMoney">Dovolite stvari za katere bo morda treba plačati.</string>
-  <string name="permgroupdesc_developmentTools">Funkcije ki jih potrebujejo le razvijalci aplikacij.</string>
+  <string name="permgroupdesc_developmentTools">Opravila ki jih potrebujejo le razvijalci aplikacij.</string>
   <string name="permgroupdesc_deviceAlarms">Nastavitev budilke.</string>
   <string name="permgroupdesc_dictionary">Branje besed v uporabniškem slovarju.</string>
   <string name="permgroupdesc_display">Vpliv na uporabniški vmesnik drugih aplikacij.</string>
@@ -1112,7 +1112,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_location">dostop do lokacije.</string>
   <string name="permgroupdesc_messages">Pisanje in branje SMS-ov, e-pošte in drugih sporočil.</string>
     <string name="permgroupdesc_microphone">snemanje zvoka</string>
-  <string name="permgroupdesc_network">Dostop do različnih funkcij omrežja.</string>
+  <string name="permgroupdesc_network">Dostop do različnih opravil omrežja.</string>
   <string name="permgroupdesc_personalInfo">Neposreden dostop do podatkov o vas, shranjenih v vizitki.</string>
   <string name="permgroupdesc_phone">Spremljanje in obdelava klicev</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
@@ -1127,7 +1127,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_voicemail">Neposreden dostop do odzivnika.</string>
   <string name="permgroupdesc_wallpaper">Spreminjanje nastavitev slike za ozadje.</string>
   <string name="permgroupdesc_writeDictionary">Dodajanje besed v uporabniški slovar.</string>
-  <string name="permgrouplab_accessibilityFeatures">Funkcije za ljudi s posebnimi potrebami</string>
+  <string name="permgrouplab_accessibilityFeatures">Opravila za ljudi s posebnimi potrebami</string>
   <string name="permgrouplab_accounts">Vaši računi</string>
   <string name="permgrouplab_affectsBattery">Vpliv na baterijo</string>
   <string name="permgrouplab_appInfo">Podatki o vaših aplikacijah</string>
@@ -1151,7 +1151,7 @@ Znova poskusite čez %d s."</string>
     <string name="permgrouplab_phone">Telefon</string>
   <string name="permgrouplab_phoneCalls">Telefonski klici</string>
   <string name="permgrouplab_screenlock">Zaklepanje zaslona</string>
-  <string name="permgrouplab_sensors">Tipala telesnih funkcij</string>
+  <string name="permgrouplab_sensors">Tipala telesnih opravil</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_socialInfo">Podatki v družbenih omrežjih</string>
   <string name="permgrouplab_statusBar">Vrstica stanja</string>
@@ -1226,7 +1226,7 @@ za račun %s."</string>
   <string name="permlab_bluetoothAdmin">dostop do nastavitev Bluetooth</string>
   <string name="permlab_bluetoothMap">dostop do podatkov Bluetooth MAP-a</string>
   <string name="permlab_bluetoothPriv">Aplikaciji dovoli seznanjanje prek povezave Bluetooth</string>
-  <string name="permlab_bodySensors">tipala telesnih funkcij (npr. merilniki srčnega utripa)</string>
+  <string name="permlab_bodySensors">tipala telesnih opravil (npr. merilniki srčnega utripa)</string>
   <string name="permlab_brick">trajno onemogočenje telefona</string>
   <string name="permlab_broadcastNetworkPrivileged">pošiljanje privilegiranih omrežnih oddajanj</string>
   <string name="permlab_broadcastPackageRemoved">pošiljanje oddaje brez paketa</string>
@@ -1283,7 +1283,7 @@ za račun %s."</string>
   <string name="permlab_getTasks">dobivanje aplikacij ki se izvajajo</string>
   <string name="permlab_getTopActivityInfo">pridobivanje podatkov o trenutni aplikaciji</string>
   <string name="permlab_grantRevokePermissions">dodeljevanje ali preklic dovoljenj</string>
-  <string name="permlab_handoverStatus">prejemanje stanja prenosov s funkcijo Android Beam</string>
+  <string name="permlab_handoverStatus">prejemanje stanja prenosov s opravilo Android Beam</string>
   <string name="permlab_hardware_test">preskušanje strojne opreme</string>
   <string name="permlab_injectEvents">pritiskanje tipk in gumbov za nadzor</string>
   <string name="permlab_installLocationProvider">dovoljenje za namestitev ponudnika lokacije</string>
@@ -1464,7 +1464,7 @@ za račun %s."</string>
   <string name="pinpuk_attempts">"
 Ostalo poskusov :"</string>
     <string name="policydesc_disableCamera">Prepreči uporabo vseh fotoaparatov v napravi.</string>
-    <string name="policydesc_disableKeyguardFeatures">Prepreči uporabo nekaterih funkcij zaklepanja zaslona.</string>
+    <string name="policydesc_disableKeyguardFeatures">Prepreči uporabo nekaterih opravil zaklepanja zaslona.</string>
     <string name="policydesc_encryptedStorage">Shranjeni podatki aplikacije morajo biti šifrirani.</string>
     <string name="policydesc_expirePassword">Spreminjanje tega, kako pogosto je treba spremeniti geslo, kodo PIN ali vzorec za zaklepanje zaslona.</string>
     <string name="policydesc_forceLock">Nadzor nad tem, kako in kdaj se zaklene zaslon.</string>
@@ -1476,7 +1476,7 @@ Ostalo poskusov :"</string>
     <string name="policydesc_wipeData">Izbris podatkov v telefonu brez opozorila s ponastavitvijo na tovarniške nastavitve.</string>
     <string name="policydesc_wipeData_secondaryUser">Izbris podatkov uporabnika v tem telefonu brez opozorila.</string>
     <string name="policylab_disableCamera">Onemogoči fotoaparate</string>
-    <string name="policylab_disableKeyguardFeatures">Onemogočanje nekaterih funkcij zaklepanja zaslona</string>
+    <string name="policylab_disableKeyguardFeatures">Onemogočanje nekaterih opravil zaklepanja zaslona</string>
     <string name="policylab_encryptedStorage">Nastavitev šifriranja shrambe</string>
     <string name="policylab_expirePassword">Nastavitev poteka gesla za zaklepanje zaslona</string>
     <string name="policylab_forceLock">Zaklepanje zaslona</string>
@@ -1772,14 +1772,14 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
     <string name="user_creation_adding">Dovolite aplikaciji %1$s, da ustvari novega uporabnika za račun %2$s (uporabnik s tem računom že obstaja)?</string>
     <string name="user_encrypted_detail">Uporabniški podatki zaklenjeni</string>
     <string name="user_encrypted_message">Dotaknite se, da odklenete</string>
-    <string name="user_encrypted_title">Nekatere funkcije bodo omejene</string>
+    <string name="user_encrypted_title">Nekatere opravila bodo omejene</string>
     <string name="user_logging_out_message">Odjavljanje uporabnika %1$s …</string>
     <string name="user_owner_label">Preklop na osebni profil</string>
     <string name="user_switched">Trenutni uporabnik %1$s.</string>
     <string name="user_switching_message">Preklop na uporabnika %1$s …</string>
     <string name="validity_period">Veljavnost:</string>
     <string name="volume_alarm">Glasnost alarma</string>
-    <string name="volume_bluetooth_call">Glasnost funkcije Bluetooth v avtomobilu</string>
+    <string name="volume_bluetooth_call">Glasnost opravila Bluetooth v avtomobilu</string>
     <string name="volume_call">Glasnost dohodnih klicev</string>
     <string name="volume_icon_description_bluetooth">Glasnost Bluetootha</string>
     <string name="volume_icon_description_incall">Glasnost klica</string>
@@ -1865,7 +1865,7 @@ Ali jo želite zapreti?"</string>
   <string name="wifi_watchdog_network_disabled">"Z omrežjem WiFi se ni mogoče povezati"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
     <string name="wireless_display_route_description">Brezžični prikaz</string>
-    <string name="work_mode_off_message">S tem bo vklopljen delovni profil, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi funkcijami.</string>
+    <string name="work_mode_off_message">S tem bo vklopljen delovni profil, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi.</string>
     <string name="work_mode_off_title">Želite vklopiti delovni način?</string>
     <string name="work_mode_turn_on">Vklop</string>
     <string name="work_profile_deleted">Delovni profil izbrisan</string>

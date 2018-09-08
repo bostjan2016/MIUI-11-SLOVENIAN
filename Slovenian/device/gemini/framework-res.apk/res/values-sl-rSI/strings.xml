@@ -313,8 +313,8 @@ s številko %s"</string>
   <string name="factorytest_reboot">Znova zaženi</string>
   <string name="fast_scroll_alphabet">" ABCČDEFGHIJKLMNOPRSŠTUVZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-  <string name="fcComplete">Koda funkcije je dokončana.</string>
-  <string name="fcError">Težava s povezavo ali neveljavna koda funkcije.</string>
+  <string name="fcComplete">Koda opravila je dokončana.</string>
+  <string name="fcError">Težava s povezavo ali neveljavna koda opravila.</string>
   <string name="find">Najdi</string>
   <string name="find_next">Najdi naslednje</string>
   <string name="find_on_page">Najdi na strani</string>
@@ -596,7 +596,7 @@ Obiščite &lt;b&gt;google.com/accounts/recovery&lt;/b&gt;."</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
-  <string name="lockscreen_storage_locked">Odklenite za dostop do vseh funkcij in podatkov</string>
+  <string name="lockscreen_storage_locked">Odklenite za dostop do vseh opravil in podatkov</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message">"Vzorec za odklepanje ste nepravilno narisali %1$d krat. 
 
@@ -615,7 +615,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="lockscreen_transport_rew_description">Previj nazaj</string>
   <string name="lockscreen_transport_stop_description">Ustavi</string>
   <string name="lockscreen_unlock_label">Odkleni</string>
-  <string name="low_internal_storage_view_text">Nekatere sistemske funkcije morda ne bodo delovale</string>
+  <string name="low_internal_storage_view_text">Nekatere sistemske opravila morda ne bodo delovale</string>
   <string name="low_internal_storage_view_text_no_boot">V pomnilniku ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
   <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
   <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
@@ -838,7 +838,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov, ki jih pozna telefon.To lahko vključuje račune, ki so jih ustvarile nameščene aplikacije.</string>
   <string name="permdesc_getPackageSize">Aplikaciji omogoča, da pridobi njeno kodo, podatke in velikosti predpomnilnika.</string>
   <string name="permdesc_getTasks">Aplikaciji omogoča prejemanje podatkov o trenutnih in nedavno izvajajočih se opravilih. S tem lahko aplikacija odkrije podatke o aplikacijah, ki se uporabljajo v napravi.</string>
-  <string name="permdesc_handoverStatus">Omogoči tej aplikaciji prejemanje podatkov o trenutnih prenosih s funkcijo Android Beam</string>
+  <string name="permdesc_handoverStatus">Omogoči tej aplikaciji prejemanje podatkov o trenutnih prenosih s opravilo Android Beam</string>
   <string name="permdesc_install_shortcut">Aplikaciji omogoča dodajanje bližnjic na začetni zaslon brez posredovanja uporabnika.</string>
   <string name="permdesc_invokeCarrierSetup">Lastniku omogoča sproženje operaterjeve aplikacije za konfiguracijo. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_killBackgroundProcesses">Aplikaciji omogoča, da konča procese v ozadju drugih aplikacij. S tem lahko druge aplikacije nehajo delovati.</string>
@@ -875,7 +875,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permdesc_sdcardRead">Aplikaciji omogoča branje vsebine shrambe USB.</string>
   <string name="permdesc_sdcardWrite">Aplikaciji omogoča zapisovanje v pomnilnik USB.</string>
   <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerne aplikacije lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
-  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te funkcije.</string>
+  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te opravila.</string>
   <string name="permdesc_setInputCalibration">Aplikaciji dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setTimeZone">Aplikaciji omogoča spreminjanje časovnega pasu v telefonu.</string>
   <string name="permdesc_setWallpaper">Aplikaciji omogoča nastavitev ozadja sistema.</string>
@@ -913,7 +913,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permgrouplab_location">Lokacija</string>
   <string name="permgrouplab_microphone">Mikrofon</string>
   <string name="permgrouplab_phone">Telefon</string>
-  <string name="permgrouplab_sensors">Tipala telesnih funkcij</string>
+  <string name="permgrouplab_sensors">Tipala telesnih opravil</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Prostor za shranjevanje</string>
   <string name="permission">Dovoljenje</string>
@@ -943,7 +943,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permlab_bind_incall_service">interakcija z zaslonom pri klicu</string>
   <string name="permlab_bluetooth">seznanitev z napravami Bluetooth</string>
   <string name="permlab_bluetoothAdmin">dostop do nastavitev Bluetooth</string>
-  <string name="permlab_bodySensors">dostop do tipal telesnih funkcij (npr. merilnikov srčnega utripa)</string>
+  <string name="permlab_bodySensors">dostop do tipal telesnih opravil (npr. merilnikov srčnega utripa)</string>
   <string name="permlab_broadcastSticky">pošiljanje fiksne oddaje</string>
   <string name="permlab_callPhone">neposredno klicanje telefonskih številk</string>
   <string name="permlab_camera">fotografiranje in snemanje videoposnetkov</string>
@@ -961,7 +961,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permlab_getAccounts">iskanje računov v napravi</string>
   <string name="permlab_getPackageSize">izračunavanje prostora za shranjevanje aplikacije</string>
   <string name="permlab_getTasks">dobivanje aplikacij, ki se izvajajo</string>
-  <string name="permlab_handoverStatus">prejemanje stanja prenosov s funkcijo Android Beam</string>
+  <string name="permlab_handoverStatus">prejemanje stanja prenosov s opravilo Android Beam</string>
   <string name="permlab_install_shortcut">nameščanje bližnjic</string>
   <string name="permlab_invokeCarrierSetup">sprožitev operaterjeve aplikacije za konfiguracijo</string>
   <string name="permlab_killBackgroundProcesses">zapiranje drugih aplikacij</string>
@@ -1047,7 +1047,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="phoneTypeWorkPager">Službeni pozivnik</string>
   <string name="pin_target">Pripenjanje</string>
   <string name="policydesc_disableCamera">Prepreči uporabo vseh fotoaparatov v napravi.</string>
-  <string name="policydesc_disableKeyguardFeatures">Prepreči uporabo nekaterih funkcij zaklepanja zaslona.</string>
+  <string name="policydesc_disableKeyguardFeatures">Prepreči uporabo nekaterih opravil zaklepanja zaslona.</string>
   <string name="policydesc_encryptedStorage">Shranjeni podatki aplikacije morajo biti šifrirani.</string>
   <string name="policydesc_expirePassword">Spreminjanje tega, kako pogosto je treba spremeniti geslo, kodo PIN ali vzorec za zaklepanje zaslona.</string>
   <string name="policydesc_forceLock">Nadzor nad tem, kako in kdaj se zaklene zaslon.</string>
@@ -1059,7 +1059,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="policydesc_wipeData">Izbris podatkov v telefonu brez opozorila s ponastavitvijo na tovarniške nastavitve.</string>
   <string name="policydesc_wipeData_secondaryUser">Izbris podatkov uporabnika v tem telefonu brez opozorila.</string>
   <string name="policylab_disableCamera">Onemogoči fotoaparate</string>
-  <string name="policylab_disableKeyguardFeatures">Onemogočanje nekaterih funkcij zaklepanja zaslona</string>
+  <string name="policylab_disableKeyguardFeatures">Onemogočanje nekaterih opravil zaklepanja zaslona</string>
   <string name="policylab_encryptedStorage">Nastavitev šifriranja shrambe</string>
   <string name="policylab_expirePassword">Nastavitev poteka gesla za zaklepanje zaslona</string>
   <string name="policylab_forceLock">Zaklepanje zaslona</string>
@@ -1322,14 +1322,14 @@ Znova poskusite čez %2$d s."</string>
   <string name="user_creation_adding">Dovolite aplikaciji %1$s, da ustvari novega uporabnika z računom %2$s (uporabnik s tem računom že obstaja)?</string>
   <string name="user_encrypted_detail">Uporabniški podatki zaklenjeni</string>
   <string name="user_encrypted_message">Dotaknite se, da odklenete</string>
-  <string name="user_encrypted_title">Nekatere funkcije bodo omejene</string>
+  <string name="user_encrypted_title">Nekatere opravila bodo omejene</string>
   <string name="user_logging_out_message">Odjavljanje uporabnika %1$s …</string>
   <string name="user_owner_label">Osebno</string>
   <string name="user_switched">Trenutni uporabnik %1$s.</string>
   <string name="user_switching_message">Preklop na uporabnika %1$s…</string>
   <string name="validity_period">Veljavnost:</string>
   <string name="volume_alarm">Glasnost alarma</string>
-  <string name="volume_bluetooth_call">Glasnost funkcije Bluetooth v avtomobilu</string>
+  <string name="volume_bluetooth_call">Glasnost opravila Bluetooth v avtomobilu</string>
   <string name="volume_call">Glasnost dohodnih klicev</string>
   <string name="volume_icon_description_bluetooth">Glasnost Bluetootha</string>
   <string name="volume_icon_description_incall">Glasnost klica</string>
@@ -1407,7 +1407,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
-  <string name="work_mode_off_message">Dovoljeno delovanje delovnega profila, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi funkcijami.</string>
+  <string name="work_mode_off_message">Dovoljeno delovanje delovnega profila, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi.</string>
   <string name="work_mode_off_title">Delovni način IZKLOPLJEN</string>
   <string name="work_mode_turn_on">Vklop</string>
   <string name="work_profile_deleted">Delovni profil izbrisan</string>

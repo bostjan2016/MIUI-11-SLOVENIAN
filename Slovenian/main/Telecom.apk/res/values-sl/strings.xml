@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
     <string name="accessibility_call_muted">Klic izključen.</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
     <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
     <string name="accessibility_manual_zen_less_time">Krajši čas.</string>
     <string name="accessibility_manual_zen_more_time">Daljši čas.</string>
@@ -105,7 +105,7 @@
     <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil) %1$s</string>
   <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
   <string name="bluetooth_disable_absolute_volume">Onemogočanje absolutnega praga glasnosti</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči funkcijo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči opravilo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
   <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
@@ -216,7 +216,7 @@ Avdio"</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
- Ta funkcija je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovala pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>

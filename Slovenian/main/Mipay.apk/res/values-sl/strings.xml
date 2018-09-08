@@ -17,7 +17,7 @@
   <string name="mipay_bank_card_logo_desc">Logo banke</string>
   <string name="mipay_bank_card_name">Ime</string>
   <string name="mipay_bank_card_name_hint">Ime povezano z računom</string>
-  <string name="mipay_bank_card_need_open_china_union_card">"Vaša kartica se ne more uporabljati za UnionPay Online plačila. Da aktivirate funkcijo obiščite %1$s"</string>
+  <string name="mipay_bank_card_need_open_china_union_card">"Vaša kartica se ne more uporabljati za UnionPay Online plačila. Da aktivirate opravilo obiščite %1$s"</string>
   <string name="mipay_bank_card_number_error">Preverite vašo številko računa</string>
   <string name="mipay_bank_card_phone">Telefon</string>
   <string name="mipay_bank_card_phone_hint">"Bančni računi ustrezni osebni številki telefona"</string>

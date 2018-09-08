@@ -66,10 +66,10 @@
   <string name="PERSOSUBSTATE_SIM_SIM_PUK_SUCCESS">PUK odklepanje je bilo uspešno.</string>
   <string name="PERSOSUBSTATE_SIM_SIM_SUCCESS">SIM odklepanje je bilo uspešno.</string>
   <string name="Result_title">Stiki SIM kartice</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
   <string name="accessibility_no_wifi">Povezava WiFi je prekinjena.</string>
-  <string name="accessibility_settings_activity_title">Funkcije za ljudi s posebnimi potrebami</string>
+  <string name="accessibility_settings_activity_title">Opravila za ljudi s posebnimi potrebami</string>
   <string name="accessibility_wifi_off">WiFi je izklopljen.</string>
   <string name="accessibility_wifi_one_bar">Ena črtica signala WiFi.</string>
   <string name="accessibility_wifi_signal_full">Poln signal WiFi.</string>
@@ -208,7 +208,7 @@
   <string name="bluetooth_connected_no_map">Povezava vzp. (ni dostopa do sporočil)</string>
   <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
   <string name="bluetooth_disable_absolute_volume">Onemogočanje absolutnega praga glasnosti</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči funkcijo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči opravilo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
   <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
   <string name="bluetooth_dun_profile_summary_connected">Connected to Dun Server</string>
@@ -373,10 +373,10 @@
   <string name="call_waiting_tone_title">Obvestilo o čakajočem klicu</string>
   <string name="call_waiting_tone_twice_and_vibrate">Predvajaj zvok obveščanja in vibriraj dvakrat</string>
   <string name="call_waiting_tone_twice_only">Dvakrat predvajaj zvok obveščanja</string>
-  <string name="caller_id_summary">Skrij mojo številko za odhodne klice (prepričajte se da vaš operater podpira to funkcijo)</string>
+  <string name="caller_id_summary">Skrij mojo številko za odhodne klice (prepričajte se da vaš operater podpira to opravilo)</string>
   <string name="caller_id_title">ID klicatelja</string>
   <string name="calling_via_template">Klicanje preko %s</string>
-  <string name="callwait_open_hint">Storitev Klic na čakanju vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki se obrnite na svojega operaterja in si zagotovite da to funkcijo podpira.</string>
+  <string name="callwait_open_hint">Storitev Klic na čakanju vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki se obrnite na svojega operaterja in si zagotovite da to opravilo podpira.</string>
   <string name="can_not_call_self">"Ne morem izbrati svojo številko"</string>
   <string name="can_not_use_for_not_data_sim">"(Ne morem uporabiti: Mora biti nastavljena za privzeto SIM kartico za podatke)"</string>
   <string name="cancel">Prekliči</string>
@@ -419,8 +419,8 @@
   <string name="cdma_activate_device">Vklop naprave</string>
   <string name="cdma_alert_message">"Če izberete drugo kartico kot privzeto za mobilne podatke ne boste mogli uporabljati vaše SIM kartice (razen v gostovanju)."</string>
   <string name="cdma_alert_title">UIM kartica mora biti privzeta</string>
-  <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira te funkcije je lahko status klicev nepravilen.</string>
-  <string name="cdma_display_precise_call_state_summary">Prepričajte se da vaš operater podpira to funkcijo</string>
+  <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira te opravila je lahko status klicev nepravilen.</string>
+  <string name="cdma_display_precise_call_state_summary">Prepričajte se da vaš operater podpira to opravilo</string>
   <string name="cdma_display_precise_call_state_title">Prikaži status klica</string>
   <string name="cdma_lte_data_service">Nastavite podatkovni prenos</string>
   <string name="cdma_options">Možnosti CDMA</string>
@@ -471,7 +471,7 @@
   <string name="confirm">Potrdi</string>
   <string name="confirmPin2Label">Potrdi novi PIN2</string>
   <string name="confirmPinLabel">Potrdi novi PIN</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="confirm_password_label">Potrdite novo geslo</string>
   <string name="confirm_pin2_label">Potrdite novo PIN2</string>
@@ -494,7 +494,7 @@
   <string name="contactdeleteSuccess">Izbrisan stik iz SIM</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
- Ta funkcija je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovala pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>
@@ -627,7 +627,7 @@
   <string name="dialpad_wxyz">WXYZ</string>
   <string name="dialpad_zero">0</string>
   <string name="disable">Izklopi</string>
-  <string name="disable_all_cf">Izklopi vse funkcije posredovanja klicev</string>
+  <string name="disable_all_cf">Izklopi vse opravila posredovanja klicev</string>
   <string name="disable_cfb_forbidden">Operater ne podpira izklopa preusmeritve klicev, kadar je linija zasedena.</string>
   <string name="disable_cfnrc_forbidden">Vaš operater ne podpira izklopa preusmeritve klicev, kadar je telefon nedosegljiv.</string>
   <string name="disable_cfnry_forbidden">Operater ne podpira izklopa preusmeritve klicev, kadar ni odgovora.</string>
@@ -751,7 +751,7 @@
   <string name="fdn">Fiksne klicne številke</string>
   <string name="fdnListLabel">FDN seznam</string>
   <string name="fdn_activation">FDN aktivacija</string>
-  <string name="fdn_check_failure">Aplikacija Telefon ima vključeno Fiksno klicanje številk. Zaradi tega nekatere funkcije ne bodo delovale.</string>
+  <string name="fdn_check_failure">Aplikacija Telefon ima vključeno Fiksno klicanje številk. Zaradi tega nekatere opravila ne bodo delovale.</string>
   <string name="fdn_contact_added">Dodana fiksna klicna številka.</string>
   <string name="fdn_contact_deleted">Izbrisana fiksna klicna številka.</string>
   <string name="fdn_contact_updated">Posodobljena fiksna klicna številka.</string>
@@ -800,7 +800,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="gsm_umts_options">Možnosti GSM/UMTS</string>
   <string name="hac_mode_summary">Vključi združljivost s slušnim pripomočkom</string>
   <string name="hac_mode_title">Slušni pripomočki</string>
-  <string name="handon_ringer_summary">Zmanjšajte glasnost zvonjenja za dohodni klic ko se dvigne telefon. Ta funkcija ne deluje ko je vibracija za dohodne klice vklopljena.</string>
+  <string name="handon_ringer_summary">Zmanjšajte glasnost zvonjenja za dohodni klic ko se dvigne telefon. To opravilo ne deluje ko je vibracija za dohodne klice vklopljena.</string>
   <string name="handon_ringer_title">Ustavi vibracijo ko je dvignjen</string>
   <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
   <string name="hdcp_checking_title">Preverjanje HDCP</string>
@@ -858,7 +858,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="incall_error_turn_off_airplane_mode">Izključite Letalski način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se v omrežje WiFi če želite opraviti klic.</string>
   <string name="incall_status_dialed_mmi">Začetek zaporedja MMI ...</string>
-  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te funkcije vključite vizitko stika.</string>
+  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te opravila vključite vizitko stika.</string>
   <string name="incoming_video_show_pref_title">"Pokaži Video klicatelja"</string>
   <string name="input_password">Vnesite geslo</string>
   <string name="internation_remain_minutes">（ali %1$s %2$s mednarodnega časa razgovora）</string>
@@ -943,7 +943,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="list_language_summary">Izberite jezik novic</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_about_info">O</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te opravila. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
   <string name="livetalk_activate">Activacija top-up package</string>
   <string name="livetalk_activate_number">Preverjanje SIM kartice</string>
   <string name="livetalk_activate_number_1">Preverjanje SIM 1</string>
@@ -979,7 +979,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
   <string name="livetalk_network_unavailable">Omrežje ni dostopno</string>
   <string name="livetalk_next_step">Naprej</string>
-  <string name="livetalk_niece_price_arrow">Ta funkcija je na voljo v 13 državah in regijah</string>
+  <string name="livetalk_niece_price_arrow">To opravilo je na voljo v 13 državah in regijah</string>
   <string name="livetalk_niece_price_summary">Mednarodna tarifa, prosimo preverite cenik</string>
   <string name="livetalk_niece_price_title">V zaprtih beta preferencah</string>
   <string name="livetalk_nsufficient_balance">Premalo sredstev.</string>
@@ -1362,7 +1362,7 @@ Imate še toliko poskusov: %d."</string>
   <string name="pin2_invalid">FDN ni bil posodobljen ker ste vnesli napačen PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">Vnesli ste neveljavni PIN ali pa je ime ki ste ga vnesli predolgo.</string>
   <string name="pin2_lock_warning">"
-Funkcije povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu."</string>
+Opravila povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu."</string>
   <string name="pin2_or_fdn_invalid">FDN ni bil posodobljen. Koda PIN2 je bila napačna ali pa je bila telefonska številka zavrnjena.</string>
   <string name="pin2_unblocked">Koda PIN 2 ni več blokirana</string>
   <string name="pin_attempts">"
@@ -1498,7 +1498,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="propmpt_dialog_no_call_back_content">Povezovanje traja predolgo. Prestavljam na navaden klic, ki je lahko obračunan od ponudnika storitev.</string>
   <string name="propmpt_dialog_not_activate_sim_content">Potrdite svojo telefonsko številko da lahko začnete uporabljati paket doplačil. Še vedno lahko uporabite navaden klic, ki bo obračunan od ponudnika storitev.</string>
   <string name="propmpt_dialog_not_activate_sim_title">Telefonska številka ni preverjena</string>
-  <string name="provision_content">Ta funkcija potrebuje splet za normalno delovanje.</string>
+  <string name="provision_content">To opravilo potrebuje splet za normalno delovanje.</string>
   <string name="provision_title">Povezovanje z spletom</string>
   <string name="proxy_address_title">Naslov strežnika proxy za odhodne klice</string>
   <string name="pstn_connection_service_label">Vgrajene kartice SIM</string>
@@ -1904,7 +1904,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="use_current_account_creat_livetalk_info">Lahko uporabite paket doplačil z Mi Računom: %1$s</string>
   <string name="use_history">Aktivnost</string>
   <string name="use_history_duration_min">%1$smin</string>
-  <string name="use_range">Funkcije</string>
+  <string name="use_range">Opravila</string>
   <string name="user_guest">Gost</string>
   <string name="username_title">Uporabniško ime</string>
   <string name="ussdRunning">Koda USSD se izvaja ...</string>

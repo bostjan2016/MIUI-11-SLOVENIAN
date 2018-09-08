@@ -341,7 +341,7 @@
   <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil) %1$s</string>
   <string name="bluetooth_connecting">Povezovanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogoči absolutno glasnost</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogoča Bluetoothovo funkcijo absolutne glasnosti če imajo oddaljene naprave težave z zvokom, naprimer nesprejemljiva glasnost ali neobstoječi kontrolniki.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoča Bluetoothovo opravilo absolutne glasnosti če imajo oddaljene naprave težave z zvokom, naprimer nesprejemljiva glasnost ali neobstoječi kontrolniki.</string>
   <string name="bluetooth_disconnected">Niste povezani</string>
   <string name="bluetooth_disconnecting">Izključevanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
@@ -747,7 +747,7 @@ hitrost vzorčenja"</string>
     <string name="high_temp_dialog_message">"Telefon se bo samodejno poskusil ohladiti. Še naprej ga lahko uporabljate, vendar bo morda deloval počasneje.
 
 Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
-    <string name="high_temp_notif_message">Nekatere funkcije bodo med ohlajanjem omejene.</string>
+    <string name="high_temp_notif_message">Nekatere opravila bodo med ohlajanjem omejene.</string>
     <string name="high_temp_title">Telefon se segreva</string>
     <string name="home">Začetna stran nastavitev</string>
   <string name="hour_minute_time_format">HH:mm</string>
@@ -1256,7 +1256,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="pip_close">Zapri PiP</string>
     <string name="pip_fullscreen">Celozaslonsko</string>
     <string name="pip_menu_title">Meni</string>
-    <string name="pip_notification_message">Če ne želite, da aplikacija %s uporablja to funkcijo, se dotaknite, da odprete nastavitve, in funkcijo izklopite.</string>
+    <string name="pip_notification_message">Če ne želite, da aplikacija %s uporablja to opravilo, se dotaknite, da odprete nastavitve, in opravilo izklopite.</string>
     <string name="pip_notification_title">%s je v načinu slika v sliki</string>
     <string name="pip_notification_unknown_title">(Ni imena programa)</string>
     <string name="pip_pause">Začasno ustavi</string>
@@ -1474,7 +1474,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="reject_call">Klic zavrnjen</string>
   <string name="remaining_length_format">Še %1$s</string>
     <string name="remove_from_settings">Odstrani iz nastavitev</string>
-    <string name="remove_from_settings_prompt">Ali želite odstraniti Uglaševalnik uporabniškega vmesnika sistema iz nastavitev in prenehati uporabljati vse njegove funkcije?</string>
+    <string name="remove_from_settings_prompt">Ali želite odstraniti Uglaševalnik uporabniškega vmesnika sistema iz nastavitev in prenehati uporabljati vse njegove opravila?</string>
   <string name="report_rejected_touch">Prijavite odbiti dotik</string>
     <string name="reset">Ponastavi</string>
     <string name="retail_demo_reset_message">Geslo za tovar. nast. v predstav. načinu</string>
@@ -1637,7 +1637,7 @@ morda nadzira"</string>
   <string name="status_bar_volte_label">HD</string>
     <string name="status_bar_work">Profil za Android Work</string>
   <string name="status_unavailable">Nedostopno</string>
-    <string name="stream_accessibility">Funkcije za ljudi s posebnimi potrebami</string>
+    <string name="stream_accessibility">Opravila za ljudi s posebnimi potrebami</string>
     <string name="stream_alarm">Opozorilo</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Dvojna večtonska frekvenca</string>
@@ -1696,8 +1696,8 @@ morda nadzira"</string>
   <string name="structure_face_unlock_model_other">Ostalo</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D prepoznavanje</string>
   <string name="structure_face_unlock_model_other_msg_3d">3D prepoznavanje</string>
-  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obraza je majn varna od vzorca, PIN-a, ali gesla. Kadar je ta funkcija vključena se naprava lahko odklene z vašo fotografijo kot tudi z fotografijo vam podobnih ljudi.</string>
-  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je ta funkcija vključena. Toda ljudje ali predmeti ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obraza je majn varna od vzorca, PIN-a, ali gesla. Kadar je to opravilo vključena se naprava lahko odklene z vašo fotografijo kot tudi z fotografijo vam podobnih ljudi.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je to opravilo vključena. Toda ljudje ali predmeti ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje obraza</string>
   <string name="structure_face_unlock_not_same_person">"Sami morate izvršiti vse korake. Ne menjajte mesta z nikomer."</string>
   <string name="structure_face_unlock_really_person">"Kaže da ste zamenjali obraz z nekim objektom."</string>
@@ -1707,7 +1707,7 @@ morda nadzira"</string>
     <string name="system_ui_tuner">Uglaševalnik uporabniškega vmesnika sistema</string>
   <string name="task_access_locked_app_msg">Zakl. aplikacij vključeno</string>
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
-    <string name="telephony_monitor_switch_summary">Funkcija Nadziranje telefonije pridobi dnevnike, ko zazna težavo s funkcijami telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
+    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo s opravilomi telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
     <string name="tether_settings_title_bluetooth">Şplet preko Bluetootha</string>
     <string name="tether_settings_title_usb">Şplet prek USB-ja</string>
@@ -1777,12 +1777,12 @@ Telefon lahko postane prevroč ob:
     <string name="tuner_menu">Meni</string>
     <string name="tuner_minus">Minus</string>
     <string name="tuner_other_apps">Druge aplikacije</string>
-    <string name="tuner_persistent_warning">Te poskusne funkcije lahko v prihodnjih izdajah kadar koli izginejo, se spremenijo ali pokvarijo. Bodite previdni.</string>
+    <string name="tuner_persistent_warning">Te poskusne opravila lahko v prihodnjih izdajah kadar koli izginejo, se spremenijo ali pokvarijo. Bodite previdni.</string>
     <string name="tuner_plus">Plus</string>
     <string name="tuner_right">Desno</string>
     <string name="tuner_time">Ura</string>
     <string name="tuner_toast">Čestitke! Uglaševalnik uporabniškega vmesnika sistema je bil dodan v nastavitve.</string>
-    <string name="tuner_warning">Uglaševalnik uporabniškega vmesnika sistema vam omogoča dodatne načine za spreminjanje in prilagajanje uporabniškega vmesnika Android. Te poskusne funkcije lahko v prihodnjih izdajah kadar koli izginejo, se spremenijo ali pokvarijo. Bodite previdni.</string>
+    <string name="tuner_warning">Uglaševalnik uporabniškega vmesnika sistema vam omogoča dodatne načine za spreminjanje in prilagajanje uporabniškega vmesnika Android. Te poskusne opravila lahko v prihodnjih izdajah kadar koli izginejo, se spremenijo ali pokvarijo. Bodite previdni.</string>
     <string name="tuner_warning_title">Zabavno za nekatere, a ne za vse</string>
   <string name="un_important_notifications">Nepomembna obvestila</string>
   <string name="unimportant_desc">Vsa nepomembna obvestila se bodo pojavila v zasebni mapi.</string>
@@ -1805,7 +1805,7 @@ Telefon lahko postane prevroč ob:
     <string name="usb_debugging_always">Vedno dovoli iz tega računalnika</string>
     <string name="usb_debugging_message">"Računalnikov prstni odtis ključa RSA je:
 %1$s"</string>
-    <string name="usb_debugging_secondary_user_message">Uporabnik, trenutno prijavljen v napravo, ne more vklopiti odpravljanja napak s povezavo USB. Če želite uporabljati to funkcijo, preklopite na primarnega uporabnika.</string>
+    <string name="usb_debugging_secondary_user_message">Uporabnik, trenutno prijavljen v napravo, ne more vklopiti odpravljanja napak s povezavo USB. Če želite uporabljati to opravilo, preklopite na primarnega uporabnika.</string>
     <string name="usb_debugging_secondary_user_title">Odpravljanje napak s povezavo USB ni dovoljeno</string>
     <string name="usb_debugging_title">Ali dovolite odpravljanje težav prek USB?</string>
     <string name="usb_device_confirm_prompt">Želite, da se odpre %1$s, ko priključite to napravo USB?</string>
@@ -1911,7 +1911,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wifi_connected_mac_randomization">Povezana MAC Randomizacija</string>
   <string name="wifi_connected_mac_randomization_summary">Naključno prikaži MAC naslove pri povezavi v WiFi omrežje</string> 
     <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez spleta</string>
-  <string name="wifi_coverage_extend">Omogoči funkcijo razširitve WiFi pokritosti</string>
+  <string name="wifi_coverage_extend">Omogoči opravilo razširitve WiFi pokritosti</string>
   <string name="wifi_coverage_extend_summary">Omogoči razširitev WiFi pokritosti s pomočjo Hotspota</string>
     <string name="wifi_disabled_by_recommendation_provider">Ni povezano zaradi slabe kakovosti omrežja</string>
     <string name="wifi_disabled_generic">Onemogočeno</string>

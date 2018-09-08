@@ -117,7 +117,7 @@
         <item>Nič</item>
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
-        <item>Klicni snop za funkcijo glGetError</item>
+        <item>Klicni snop za opravilo glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Izključeno</item>

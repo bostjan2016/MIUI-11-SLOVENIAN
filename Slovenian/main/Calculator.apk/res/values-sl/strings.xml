@@ -49,7 +49,7 @@
   <string name="day">dan</string>
   <string name="degDesc">Kot</string>
   <string name="deleteDesc">Izbriši</string>
-  <string name="description_content">Razen osnovnih funkcij Kalkulator dela tudi kot večnamenski pretvarjalnik in za izračun hipotek, kreditov in davkov</string>
+  <string name="description_content">Razen osnovnih opravil Kalkulator dela tudi kot večnamenski pretvarjalnik in za izračun hipotek, kreditov in davkov</string>
   <string name="description_title">O Kalkulatorju</string>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
@@ -257,7 +257,7 @@
   <string name="preference_other">Ostalo</string>
   <string name="preference_privacy_title">Pravila o zasebnosti</string>
   <string name="preference_settings">Nastavitve</string>
-  <string name="preference_use_degress_summary">Spremenljivi radijani s koti v trigonometrijskih funkcijah</string>
+  <string name="preference_use_degress_summary">Spremenljivi radijani s koti v trigonometrijskih opraviloh</string>
   <string name="preference_use_degress_title">Uporabljaj kote</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="rate_data_provider">Obresti so zagotovljene od hexun.com</string>

@@ -79,7 +79,7 @@ nastavitev in aplikacij"</string>
   <string name="cancel_restore">Ustavi</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
   <string name="close_twice_auth_btn">Izključite Apple ID autorizacijo z dvema faktorjema</string>
-  <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo funkcija dvojne avtentifikacije izključena. Če ne vidite opcije izključitve dvojne prverbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
+  <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dvojne avtentifikacije izključena. Če ne vidite opcije izključitve dvojne prverbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
   <string name="close_twice_auth_operation">"Spletna stran:\nhttps://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="close_twice_auth_step_1">1. Odprite brskalnik na računalniku in pojdite na appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti avtorizacijo z dvema faktorjema, pojdite na poglavje \"Varnost\" v nastavitvah računa in izberite \"Uredi\"</string>
@@ -590,7 +590,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="user_name">Apple ID ali E-pošta</string>
   <string name="user_name_null">Uporabniško ime ne sme biti prazno</string>
   <string name="user_notice_declaration_ignore">"Ne kaži več"</string>
-  <string name="user_notice_message">Nekatere funkcije za normalno delo potrebujejo spletno povezavo.</string>
+  <string name="user_notice_message">Nekatere opravila za normalno delo potrebujejo spletno povezavo.</string>
   <string name="user_notice_title">Pozor</string>
   <string name="view_password_description">Prikaži geslo</string>
   <string name="wifi_title">WiFi nastavitve</string>

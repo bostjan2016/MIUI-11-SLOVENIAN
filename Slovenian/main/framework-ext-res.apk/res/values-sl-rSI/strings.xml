@@ -46,7 +46,7 @@
   <string name="force_exit_message">Prisilno zaprta aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne morem izključiti %1$s ker jo uporablja sistem."</string>
   <string name="fourhours">2 uri</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To funkcijo lahko Vključite/Izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na začetni zaslon.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To opravilo lahko Vključite/Izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na začetni zaslon.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
   <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
@@ -81,7 +81,7 @@
   <string name="miui_screen_ratio_hint_go_to_settings">Pojdi v Nastavitve</string>
   <string name="miui_screen_ratio_hint_message">Ta aplikacija se lahko zažene na celem zaslonu, kar lahko povzroči napačno prikazovanje. To lahko spremenite v Nastavitve &gt; Prikaz na celem zaslonu.</string>
   <string name="miui_screen_ratio_hint_ok">U redu</string>
-  <string name="miui_upgrading_notification_title">Sistem se prenaša, nekatere funkcije so lahko omejene</string>
+  <string name="miui_upgrading_notification_title">Sistem se prenaša, nekatere opravila so lahko omejene</string>
   <string name="miui_warning_button_cancel">Prekliči</string>
   <string name="miui_warning_button_ok">V redu</string>
   <string name="miui_warning_tip_info">Napaka %1$s. Zaprem aplikacijo?</string>
@@ -106,8 +106,8 @@
   <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>
   <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to funkcijo, pritisnite tipko Glasnost +.</string>
+  <string name="screen_on_proximity_sensor_hint">"Za izklop te opravila istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to opravilo, pritisnite tipko Glasnost +.</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>

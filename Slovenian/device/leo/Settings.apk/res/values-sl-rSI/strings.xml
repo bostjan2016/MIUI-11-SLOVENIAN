@@ -51,7 +51,7 @@
   <string name="accessibility_captioning_title">Napisi</string>
   <string name="accessibility_category_personal">Računi za osebne profile</string>
   <string name="accessibility_category_work">Računi za delovne profile – %s</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna opravilo in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Preizkusno) Lahko vpliva na učinkovitost delovanja</string>
   <string name="accessibility_display_inversion_preference_title">Inverzija barv</string>
@@ -59,7 +59,7 @@
   <string name="accessibility_enable">Dostopnost</string>
   <string name="accessibility_feature_state_off">Izklopljeno</string>
   <string name="accessibility_feature_state_on">Vklopljeno</string>
-  <string name="accessibility_global_gesture_preference_description">Ko je ta funkcija vklopljena lahko hitro omogočite funkcije dostopnosti v dveh korakih:
+  <string name="accessibility_global_gesture_preference_description">Ko je to opravilo vklopljena lahko hitro omogočite opravila dostopnosti v dveh korakih:
 
  1. korak: Pritisnite in držite tipko za vklop dokler ne zaslišite zvoka ali začutite vibracije.
 
@@ -77,7 +77,7 @@
   <string name="accessibility_personal_account_title">Osebni račun – %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Gumb za vklop konča klic</string>
   <string name="accessibility_screen_magnification_enable">Gibi povečanja</string>
-  <string name="accessibility_screen_magnification_summary">Če je ta funkcija vklopljena lahko vsebino na zaslonu povečate ali pomanjšate tako da se trikrat dotaknete zaslona. Po povečavi lahko: Premikate: z dvema ali več prstov povlecite po zaslonu. Prilagodite povečavo: stisnite dva ali več prstov ali jih razširite. Lahko začasno povečate predmet pod prsti če trikrat tapnete nanj in držite. Premikate morate prst da vidite različne dele zaslona. Dvignite prst za vrnitev nazaj. Trojni dotik deluje povsod razen na tipkovnici in v vrstici za krmarjenje."</string>
+  <string name="accessibility_screen_magnification_summary">Če je to opravilo vklopljena lahko vsebino na zaslonu povečate ali pomanjšate tako da se trikrat dotaknete zaslona. Po povečavi lahko: Premikate: z dvema ali več prstov povlecite po zaslonu. Prilagodite povečavo: stisnite dva ali več prstov ali jih razširite. Lahko začasno povečate predmet pod prsti če trikrat tapnete nanj in držite. Premikate morate prst da vidite različne dele zaslona. Dvignite prst za vrnitev nazaj. Trojni dotik deluje povsod razen na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="accessibility_screen_magnification_title">Poteze za povečavo</string>
   <string name="accessibility_service_no_apps_message">TalkBack daje govorne povratne informacije kot pomoč slepim im slabovidnim uporabnikom. Ga želite brezplačno namestiti iz Trg. Play?</string>
   <string name="accessibility_services_title">Storitve</string>
@@ -189,7 +189,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="amber_alerts_summary">Prejemanje objav o ugrabitvah otrok</string>
   <string name="amber_alerts_title">Opozorila AMBER</string>
   <string name="android_beam_disabled_summary">Ni na voljo ker je NFC izklopljen</string>
-  <string name="android_beam_explained">"Če je ta funkcija vklopljena lahko vsebino iz aplikacije prenesete v drugo napravo ki podpira NFC tako da napravi približate. Prenesete lahko na primer strani brskalnika, videoposnetke v YouTubu, stike iz aplikacije Stiki in drugo. Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj se prenese je odvisno od aplikacije."</string>
+  <string name="android_beam_explained">"Če je to opravilo vklopljena lahko vsebino iz aplikacije prenesete v drugo napravo ki podpira NFC tako da napravi približate. Prenesete lahko na primer strani brskalnika, videoposnetke v YouTubu, stike iz aplikacije Stiki in drugo. Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj se prenese je odvisno od aplikacije."</string>
   <string name="android_beam_label">Android Beam</string>
   <string name="android_beam_off_summary">Izklopljeno</string>
   <string name="android_beam_on_summary">Pripravljen za prenos vsebine aplikacije preko NFC</string>
@@ -485,7 +485,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="battery_sugg_apps_gps">Izberite način za varčevanje z energijo akumulatorja</string>
   <string name="battery_sugg_apps_info">Ustavi ali odstrani aplikacijo</string>
   <string name="battery_sugg_apps_settings">Aplikacija morda omogoča nastavitve za zmanjšanje porabe energije akumulatorja</string>
-  <string name="battery_sugg_bluetooth_basic">Izklopite funkcijo Bluetooth kadar je ne uporabljate</string>
+  <string name="battery_sugg_bluetooth_basic">Izklopite opravilo Bluetooth kadar je ne uporabljate</string>
   <string name="battery_sugg_bluetooth_headset">Poskusite vzpostaviti povezavo z drugo napravo Bluetooth</string>
   <string name="battery_sugg_display">Zmanjšajte svetlost zaslona in/ali časovno omejitev za vklop zaslona</string>
   <string name="battery_sugg_radio">Na območjih brez mobilnega signala preklopite v način za letalo da prihranite energijo</string>
@@ -517,7 +517,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_ask_start_broadcast">%1$s želi vklopiti oddajanje Bluetootha za komuniciranje z drugimi napravami v bližini. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
   <string name="bluetooth_auto_connect">Samodejno poveži</string>
   <string name="bluetooth_broadcasting">Oddajanje</string>
-  <string name="bluetooth_broadcasting_explaination">"Ko je ta funkcija vklopljena lahko telefon komunicira z drugimi napravami v bližini.
+  <string name="bluetooth_broadcasting_explaination">"Ko je to opravilo vklopljena lahko telefon komunicira z drugimi napravami v bližini.
 
   Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_confirm_passkey_msg">Za seznanitev z napravo:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;mora biti prikazano to geslo:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -551,7 +551,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_device_searchable">Viden</string>
   <string name="bluetooth_devices">Naprave Bluetooth</string>
   <string name="bluetooth_disable_absolute_volume">Onemogočanje absolutnega praga glasnosti</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči funkcijo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoči opravilo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disable_profile_message">S tem boste onemogočili:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Želite onemogočiti profil?</string>
   <string name="bluetooth_disabled">Onemogočeno</string>
@@ -628,7 +628,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_pan_user_profile_summary_connected">Povezava z napravo za spletni dostop</string>
   <string name="bluetooth_pb_acceptance_dialog_text">%1$s želi dostop do vaših stikov in zgodovine klicev. Želite dovoliti dostop %2$s?</string>
   <string name="bluetooth_pb_remember_choice">Ne vprašaj me več</string>
-  <string name="bluetooth_permission_request">Zahteva za dovoljenje za uporabo funkcije Bluetooth</string>
+  <string name="bluetooth_permission_request">Zahteva za dovoljenje za uporabo opravila Bluetooth</string>
   <string name="bluetooth_phonebook_request">Zahteva za dostop do telefonskega imenika</string>
   <string name="bluetooth_preference_connected_devices">Povezana naprava</string>
   <string name="bluetooth_preference_device_settings">Nastavitve naprave</string>
@@ -876,7 +876,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="clear_user_data_text">Počisti podatke</string>
   <string name="close_gesture">Zapri s kretnjo</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
-  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te funkcije bo spremenil razpored in druge elemente UI.</string>
+  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te opravila bo spremenil razpored in druge elemente UI.</string>
   <string name="collect_diagnostics_summary">Zberi dijagnostične podatke za reševanje problema</string>
   <string name="collect_diagnostics_title">Zberi dijagnostične podatke</string>
   <string name="color_black">Črna</string>
@@ -950,7 +950,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="convenience_key_category_title">Bližnjice</string>
   <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  Opozorilo! S tem bodo izbrisani vsi podatki.
- Ta funkcija je različice alfa, zato morda ne bo delovala pravilno.
+ To opravilo je različice alfa, zato morda ne bo delovala pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
   <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>
@@ -1000,7 +1000,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="crypt_keeper_enter_password">Vnesite geslo</string>
   <string name="crypt_keeper_failed_summary">Šifriranje je bilo prekinjeno in se ne more dokončati. Podatki na vašem telefonu niso več na voljo. Če želite nadaljevati z uporabo morate telefon ponastaviti na tovarniške nastavitve. Ko vaš telefon po ponastavitvi na tovarniških nastavitve ponovno nastavljate boste imeli priložnost da obnovite vaše podatke ki so bili varnostno kopirani na vaš Google račun.</string>
   <string name="crypt_keeper_failed_title">Šifriranje neuspešno</string>
-  <string name="crypt_keeper_final_desc">Funkcija šifriranja je nepovratna, če jo prekinete boste izgubili podatke. Šifriranje traja uro ali več, med katero se bo telefon večkrat znova zagnal.</string>
+  <string name="crypt_keeper_final_desc">Opravilo šifriranja je nepovratna, če jo prekinete boste izgubili podatke. Šifriranje traja uro ali več, med katero se bo telefon večkrat znova zagnal.</string>
   <string name="crypt_keeper_force_power_cycle">Če želite odkleniti telefon ga izklopite in nato vklopite.</string>
   <string name="crypt_keeper_low_charge_text">Napolnite akumulator in poskusite znova.</string>
   <string name="crypt_keeper_settings_title">Šifriranje</string>
@@ -1044,7 +1044,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="data_usage_app_restrict_background">Omeji prenos pod. aplik. v ozad.</string>
   <string name="data_usage_app_restrict_background_summary">Onemogoči prenos podatkov v ozadju v mobilnih omrežjih.</string>
   <string name="data_usage_app_restrict_background_summary_disabled">Če želite omejiti prenos podatkov v ozadju za to aplikacijo najprej nastavite omejitev prenosa podatkov v mobilnih omrežjih.</string>
-  <string name="data_usage_app_restrict_dialog">"Ta funkcija lahko povzroči da aplikacija ki je odvisna od prenosa podatkov v ozadju preneha delovati če so na voljo samo mobilna omrežja.
+  <string name="data_usage_app_restrict_dialog">"To opravilo lahko povzroči da aplikacija ki je odvisna od prenosa podatkov v ozadju preneha delovati če so na voljo samo mobilna omrežja.
 
   Ustreznejše možnosti nadzora porabe podatkov lahko najdete v nastavitvah v aplikaciji."</string>
   <string name="data_usage_app_restrict_dialog_title">Želite omejiti podatke v ozadju?</string>
@@ -1292,7 +1292,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="dndm_auto_time_turn_on">Od</string>
   <string name="dndm_auto_time_turn_on_title">Samodejno vključi \"Ne moti“\</string>
   <string name="dndm_dlg_remove_ok">Odstrani</string>
-  <string name="dndm_dlg_remove_vip">Klici te osebe bodo utišani ko je funkcija Ne moti vklopljena</string>
+  <string name="dndm_dlg_remove_vip">Klici te osebe bodo utišani ko je opravilo Ne moti vklopljena</string>
   <string name="dndm_menu_add_vip_custom">Dodaj izjemo</string>
   <string name="dndm_mute_all">Klici in sporočila so utišani.</string>
   <string name="dndm_notification">\"Ne moti“\ omogočeno</string>
@@ -2008,8 +2008,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_profile_wipe_warning_content_pin">Če tudi tokrat vnesete nepravilno kodo PIN za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_title">Zadnji poskus</string>
   <string name="lock_screen_cells_title">Zakleni razpored začet. zaslona</string>
-  <string name="lock_screen_intro_skip_dialog_text">Funkcije za zaščito naprave ne bodo aktivirane. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
-  <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitne funkcije naprave ne bodo aktivirane. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
+  <string name="lock_screen_intro_skip_dialog_text">Opravila za zaščito naprave ne bodo aktivirane. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitne opravila naprave ne bodo aktivirane. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
   <string name="lock_screen_notifications_interstitial_message">Kako naj se obvestila prikazujejo, ko je naprava zaklenjena?</string>
   <string name="lock_screen_notifications_interstitial_message_profile">Kako naj se obvestila o profilu prikazujejo, ko je naprava zaklenjena?</string>
   <string name="lock_screen_notifications_interstitial_title">Obvestila</string>
@@ -2363,7 +2363,7 @@ Na tej napravi je več uporabnikov.
   <string name="msd_pc_system_install_summary_xp">1.Poženite namestitev</string>
   <string name="msg_wlan_signal_found">WiFi dostopna točka %s dosegljiva, povežem?</string>
   <string name="msim_sim_radio_off">Izključeno</string>
-  <string name="mtp_ptp_mode_summary">Funkcija MTP ali PTP je aktivna</string>
+  <string name="mtp_ptp_mode_summary">Opravilo MTP ali PTP je aktivna</string>
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
   <string name="music_HiFi_title">HiFi avdio</string>
@@ -2418,13 +2418,13 @@ Na tej napravi je več uporabnikov.
   <string name="music_headset_calibrate_volume_down">Znižanje glasnosti</string>
   <string name="music_headset_calibrate_volume_up">Zvišaj glasnost</string>
   <string name="music_headset_calibrate_wrong_key">Napačna tipka</string>
-  <string name="music_headset_function">Funkcija tipk</string>
+  <string name="music_headset_function">Opravilo tipk</string>
   <string name="music_headset_mode_music">Nadzor predvajanja glasbe</string>
   <string name="music_headset_mode_settings">Tipke na slušalkah</string>
   <string name="music_headset_mode_volume">Glasnost - Gor/Dol</string>
   <string name="music_headset_no_contected">Ni zaznanih slušalk</string>
   <string name="music_headset_settings">Slušalke &amp; zvočni efekti</string>
-  <string name="music_hifi_summary">Zmanjševanje hrupa, izenačevanje in povečanje kakovosti zvoka. Ta funkcija povečuje uporabo baterije.</string>
+  <string name="music_hifi_summary">Zmanjševanje hrupa, izenačevanje in povečanje kakovosti zvoka. To opravilo povečuje uporabo baterije.</string>
   <string name="music_hifi_title">HiFi avdio</string>
   <string name="music_hifi_volume">HiFi glasnost</string>
   <string name="music_mi_effect_summary">Vedno uporabljajte Mi Sound Enhancer ko uporabljate zvočnike</string>
@@ -2688,7 +2688,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_alarm_sound_title">Nastavitve/Zvok/Zvok alarma</string>
   <string name="path_android_beam_settings">Nastavitve/Več/Android Beam</string>
   <string name="path_apn_settings">Nastavitve/Nastavitve mobilnega omrežja/Imena dostopnih točk</string>
-  <string name="path_app_invisible">Nastavitve/Dodatne nastavitve/Beta funkcije/Aplik. skrita</string>
+  <string name="path_app_invisible">Nastavitve/Dodatne nastavitve/Beta opravila/Aplik. skrita</string>
   <string name="path_app_permission">Nastavitve/Dovoljenja</string>
   <string name="path_app_switch_key">Nastavitve/Dodatne nastavitve/Tipke/Nedavno</string>
   <string name="path_application_lock">Nastavitve/Zakl.  aplikacije</string>
@@ -2736,7 +2736,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_handy_mode_settings">Nastavitve/Dodatne nastavitve/Delo z eno roko</string>
   <string name="path_home_key">Nastavitve/Dodatne nastavitve/Tipke/Začetna</string>
   <string name="path_key_settings">Nastavitve/Dodatne nastavitve/Tipke</string>
-  <string name="path_lab_functions_title">Nastavitve/Dodatne nastavitve/Beta funkcije</string>
+  <string name="path_lab_functions_title">Nastavitve/Dodatne nastavitve/Beta opravila</string>
   <string name="path_language_picker_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Jezik</string>
   <string name="path_language_settings">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos</string>
   <string name="path_led_settings">Nastavitve/Dodatne nastavitve/Opozorilna lučka</string>
@@ -2768,10 +2768,10 @@ Na tej napravi je več uporabnikov.
   <string name="path_page_layout_settings">Nastavitve/Velikost teksta</string>
   <string name="path_permission_settings_title">Nastavitve/Dovoljenja/Dovoljenja</string>
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
-  <string name="path_power_checker">Nastavitve/Dodatne nastavitve/Beta funkcije/Kontrola energije</string>
+  <string name="path_power_checker">Nastavitve/Dodatne nastavitve/Beta opravila/Kontrola energije</string>
   <string name="path_power_hide_mode_title">Nastavitve/Baterija/Upravljanje porabe baterije aplikacij</string>
   <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; performanse/Nastavitve energije</string>
-  <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta funkcije/Varčevanje baterije</string>
+  <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta opravila/Varčevanje baterije</string>
   <string name="path_pref_volume_wake_title">Nastavitve/Zakl.  zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
   <string name="path_preferred_network_type_settings">Nastavitve/Nastavitve mobilnega omrežja/Željeni tip omrežja</string>
   <string name="path_privacy_policy">Nastavitve/O napravi/Pravne informacije/Pravila o zasebnosti</string>
@@ -3269,7 +3269,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="runningservicedetails_processes_title">Procesi</string>
   <string name="runningservicedetails_services_title">Storitve</string>
   <string name="runningservicedetails_settings_title">Aplikacija ki se izvaja</string>
-  <string name="runningservicedetails_stop_dlg_text">Če ustavite to storitev lahko nekatere funkcije v telefonu nehajo pravilno delovati dokler ga ne izklopite in znova vklopite.</string>
+  <string name="runningservicedetails_stop_dlg_text">Če ustavite to storitev lahko nekatere opravila v telefonu nehajo pravilno delovati dokler ga ne izklopite in znova vklopite.</string>
   <string name="runningservicedetails_stop_dlg_title">Želite ustaviti sistemsko storitev?</string>
   <string name="runningservices_settings_summary">Preglejte in nadzorujte storitve ki so trenutno zagnane</string>
   <string name="runningservices_settings_title">Zagnane storitve</string>
@@ -3292,11 +3292,11 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_compatibility_text">Ta aplikacija morda ni namenjena za vaš zaslon. Tu lahko nastavite način prilagajanja zaslonu.</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
   <string name="screen_key_long_press">Daljši pritisk na navigacijske tipke</string>
-  <string name="screen_key_long_press_action">Funkcija sprožilca</string>
+  <string name="screen_key_long_press_action">Opravilo sprožilca</string>
   <string name="screen_key_long_press_timeout">Določite dolžino pritiska</string>
   <string name="screen_key_position">Navigacijske tipke</string>
   <string name="screen_key_press">Pritisnite navigacijske tipke</string>
-  <string name="screen_key_press_action">Funkcija sprožilca</string>
+  <string name="screen_key_press_action">Opravilo sprožilca</string>
   <string name="screen_locking_sounds_title">Zvoki zaklepanja zaslona</string>
   <string name="screen_never_timeout_title">Nikoli ne zaspi</string>
   <string name="screen_on_proximity_sensor_summary">Zakleni geste dotika ko je v žepu</string>
@@ -3478,7 +3478,7 @@ Uporaba pripenjanja:
   <string name="search_hint">Nastavitve iskanja</string>
   <string name="search_home_key">Začetna</string>
   <string name="search_key">Tipke;Tipke</string>
-  <string name="search_lab_functions_title">Beta funkcije,Lab funkcije</string>
+  <string name="search_lab_functions_title">Beta opravila,Lab opravila</string>
   <string name="search_label">Nastavitve</string>
   <string name="search_language">Jezik &amp; vnos</string>
   <string name="search_language_picker_title">Jezik</string>
@@ -3573,7 +3573,7 @@ Uporaba pripenjanja:
   <string name="search_vibrate_in_silent_title">Vibracija če je tiho;vibriraj;vibracija</string>
   <string name="search_vibrate_on_touch_title">Vključi Vibracijo na dotik;Vibriraj na dotik;vibriraj;vibracija</string>
   <string name="search_vibrate_when_ringing_title">Vibracija tudi za klice;vibriraj;vibracija</string>
-  <string name="search_virtual_sim">Mednarodni mobilni podatki;Podatki v gostovanju;Gostovanje;Mobilni podatki v gostovanju;Lab funkcije</string>
+  <string name="search_virtual_sim">Mednarodni mobilni podatki;Podatki v gostovanju;Gostovanje;Mobilni podatki v gostovanju;Lab opravila</string>
   <string name="search_vpn">VPN;Dodaj VPN;Vključi VPN</string>
   <string name="search_vpn_enable">Vključi VPN;VPN</string>
   <string name="search_vpn_settings_password">VPN geslo;Zaščiti VPN</string>
@@ -3605,7 +3605,7 @@ Uporaba pripenjanja:
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogočil skrbnik</string>
   <string name="security_enable_widgets_title">Omogoči pripomočke</string>
-  <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop te funkcije. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
+  <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop te opravila. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
   <string name="security_encryption_alert_dialog_title_first">Najprej nastavite geslo za zaklepanje zaslona</string>
   <string name="security_encryption_attention_1">"Ne morete uporabljati alarma če je naprava izključena."</string>
   <string name="security_encryption_attention_2">"Geslo boste morali vnesti po vsakem ponovnem zagonu. Ponovni zagon bo trajal dlje kot ponavadi."</string>
@@ -3727,7 +3727,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="setup_fingerprint_enroll_finish_message_secondary">Ko je prikazana ta ikona, lahko uporabite prstni odtis.</string>
   <string name="setup_fingerprint_enroll_finish_secondary_message">Če želite spremeniti nastavitve, odprite »Nastavitve &gt; Varnost &gt; Prstni odtis«.</string>
   <string name="setup_lock_settings_picker_fingerprint_message">Prstni odtis bo morda manj varen kot zapleten vzorec, koda PIN ali geslo. Zaradi varnosti nastavite nadomestno zaklepanje zaslona.</string>
-  <string name="setup_lock_settings_picker_message">Vklopite zaščitne funkcije naprave, da drugim preprečite uporabo tega telefona brez vašega dovoljenja. Izberite zaklepanje zaslona, ki ga želite uporabljati.</string>
+  <string name="setup_lock_settings_picker_message">Vklopite zaščitne opravila naprave, da drugim preprečite uporabo tega telefona brez vašega dovoljenja. Izberite zaklepanje zaslona, ki ga želite uporabljati.</string>
   <string name="setup_lock_settings_picker_title">Zaščita telefona</string>
   <string name="setup_wifi_nfc_tag">Nastavitev brezžič. oznake NFC</string>
   <string name="severe_threats_summary">Prejem. opozoril o resnih grožnjah za življenje in premož.</string>
@@ -3838,7 +3838,7 @@ Morda je koda PIN napačna."</string>
   <string name="sim_status_title">Stanje kartice SIM</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
   <string name="single_key_use">Ena tipka</string>
-  <string name="single_key_use_summary">Uporabite tipko Domov za funkcije ki jih opravljata druge dve tipke</string>
+  <string name="single_key_use_summary">Uporabite tipko Domov za opravila ki jih opravljata druge dve tipke</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -3933,7 +3933,7 @@ Skrbnik lahko nadzira vašo dejavnost v omrežju, vključno z e-pošto, aplikaci
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
-  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>
+  <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na zakl. zaslonu in na obvestilni plošči ko je to opravilo izključena</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Lebdeča obvestila bodo samodejno izginila ko se prikažejo na vrhu zaslona"</string>
   <string name="status_bar_settings_show_flow_info">Prikaži podrobnosti lebdenja</string>
@@ -4038,7 +4038,7 @@ Vse aplikacije shranjene v pomnilniku ^1 bodo odstranjene in podatki aplikacij i
 
 Pomnilnik ^1 je formatiran tako da deluje samo v tej napravi. V drugih ne bo delovala.</string>
   <string name="storage_label">Prostor za shranjevanje</string>
-  <string name="storage_low_summary">Nekatere sistemske funkcije, na primer sinhronizacija morda ne delujejo pravilno. Poskusite sprostiti nekaj prostora tako da zbrišete ali odpnete elemente kot so aplikacije ali medijska vsebina.</string>
+  <string name="storage_low_summary">Nekatere sistemske opravila, na primer sinhronizacija morda ne delujejo pravilno. Poskusite sprostiti nekaj prostora tako da zbrišete ali odpnete elemente kot so aplikacije ali medijska vsebina.</string>
   <string name="storage_low_title">Prostor za shranjevanje bo pošel</string>
   <string name="storage_menu_cleanup">Čiščenje pomnilnika</string>
   <string name="storage_menu_explore">Razišči</string>
@@ -4311,7 +4311,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="turn_off_common_password_confirm_msg">Zakl. zaslona bo tudi izključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">Izključim geslo zakl. zaslona?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla za zakl.  zaslon ne boste mogli uporabljati funkcijo prstnega odtisa</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla za zakl.  zaslon ne boste mogli uporabljati opravilo prstnega odtisa</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi zakl. zaslona</string>
   <string name="turn_on_keyguard_password">Vključi geslo zakl. zaslona</string>
@@ -4333,22 +4333,22 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="unlock_change_lock_password_title">Spremeni geslo za odklepanje</string>
   <string name="unlock_change_lock_pattern_title">Spremeni vzorec za odklepanje</string>
   <string name="unlock_change_lock_pin_title">Spremeni kodo PIN za odklepanje</string>
-  <string name="unlock_disable_frp_warning_content_password">Funkcije za zaščito naprave ne bodo delovale brez gesla.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez gesla. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez gesla. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_password_profile">Funkcije za zaščito profila ne bodo delovale brez gesla.</string>
-  <string name="unlock_disable_frp_warning_content_pattern">Funkcije za zaščito naprave ne bodo delovale brez vzorca.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez vzorca. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez vzorca. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pattern_profile">Funkcije za zaščito profila ne bodo delovale brez vzorca.</string>
-  <string name="unlock_disable_frp_warning_content_pin">Funkcije za zaščito naprave ne bodo delovale brez kode PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez kode PIN. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez kode PIN. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pin_profile">Funkcije za zaščito profila ne bodo delovale brez kode PIN.</string>
-  <string name="unlock_disable_frp_warning_content_unknown">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez zaklepanja zaslona. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_unknown_profile">Funkcije za zaščito profila ne bodo delovale brez zaklepanja zaslona.</string>
+  <string name="unlock_disable_frp_warning_content_password">Opravila za zaščito naprave ne bodo delovale brez gesla.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">Opravila za zaščito naprave ne bodo delovale brez gesla. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez gesla. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_password_profile">Opravila za zaščito profila ne bodo delovale brez gesla.</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Opravila za zaščito naprave ne bodo delovale brez vzorca.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Opravila za zaščito naprave ne bodo delovale brez vzorca. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez vzorca. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pattern_profile">Opravila za zaščito profila ne bodo delovale brez vzorca.</string>
+  <string name="unlock_disable_frp_warning_content_pin">Opravila za zaščito naprave ne bodo delovale brez kode PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Opravila za zaščito naprave ne bodo delovale brez kode PIN. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez kode PIN. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Opravila za zaščito profila ne bodo delovale brez kode PIN.</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Opravila za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Opravila za zaščito naprave ne bodo delovale brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez zaklepanja zaslona. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_unknown_profile">Opravila za zaščito profila ne bodo delovale brez zaklepanja zaslona.</string>
   <string name="unlock_disable_frp_warning_ok">Da, odstrani</string>
   <string name="unlock_disable_frp_warning_title">Želite odstraniti zaščito naprave?</string>
   <string name="unlock_disable_frp_warning_title_profile">Želite odstraniti zaščito profila?</string>
@@ -4420,7 +4420,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB odpravljanja težav</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usmerjanje</string>
   <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanje na zun. zvoč. naprave USB</string>
-  <string name="usb_charging_summary">Izključi vse ostale funkcije USB povezovanja za pospešitev polnjenja.</string>
+  <string name="usb_charging_summary">Izključi vse ostale opravila USB povezovanja za pospešitev polnjenja.</string>
   <string name="usb_charging_title">Pospeši polnjenje</string>
   <string name="usb_connection_category">Vzpostavi povezavo kot</string>
   <string name="usb_eject">Izključi USB pomnilnik</string>
@@ -4624,7 +4624,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="virus_scanner_select_trust_lib">Izberite definicije virusov</string>
   <string name="virus_scanner_title">Preverjanje virusov</string>
   <string name="virus_scanner_update_lib">Posodobi definicije</string>
-  <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. Te funkcije za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
+  <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. Te opravila za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
   <string name="vision_settings_title">Nastavitve vidnosti</string>
   <string name="voice_category">Govor</string>
   <string name="voice_input_output_settings">Glasovni vnos in izhod</string>
@@ -4787,7 +4787,7 @@ WiFi Assistant"</string>
   <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Način klicanja prek WiFi-ja</string>
   <string name="wifi_calling_mode_title">Nastavitev klicanja</string>
-  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom te funkcije pri operaterju preverite cene in druge podrobnosti.</string>
+  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom te opravila pri operaterju preverite cene in druge podrobnosti.</string>
   <string name="wifi_calling_settings_title">Klicanje prek WiFi-ja</string>
   <string name="wifi_calling_suggestion_summary">Uporaba WiFi-ja namesto mobilnega omrežja</string>
   <string name="wifi_calling_suggestion_title">Vklop klicanja prek WiFi-ja</string>
@@ -5166,7 +5166,7 @@ WiFi Assistant"</string>
   <string name="wizard_next">Naprej</string>
   <string name="wlan_to_cellular_hint_title">WiFi-&gt;Nasvet omrežja</string>
   <string name="work_mode_label">Način dela</string>
-  <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi funkcijami</string>
+  <string name="work_mode_summary">Omogočanje, da delovni profil deluje, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi opravilomi</string>
   <string name="work_profile_confirm_remove_message">Če nadaljujete bodo izbrisane vse aplikacije in podatki v tem profilu.</string>
   <string name="work_profile_confirm_remove_title">Želite odstraniti delovni profil?</string>
   <string name="work_profile_usage_access_warning">Če za to aplikacijo izklopite dostop do podatkov o uporabi lahko vaš skrbnik kljub temu spremlja podatke o uporabi za aplikacije v vašem delovnem profilu.</string>

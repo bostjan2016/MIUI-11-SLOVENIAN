@@ -220,7 +220,7 @@
   <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
   <string name="festival">Hitri odgovori</string>
   <string name="festival_continue">V redu</string>
-  <string name="festival_networking_desc">Ta funkcija potrebuje povezavo s spletom za normalno delovanje.</string>
+  <string name="festival_networking_desc">To opravilo potrebuje povezavo s spletom za normalno delovanje.</string>
   <string name="festival_networking_title">Obvestilo</string>
   <string name="festival_never_remind">Ne kaži več</string>
   <string name="festival_sms_category_count_format">%s</string>
@@ -409,8 +409,8 @@
   <string name="network_error_description">Napaka omrežja. Počakajte trenutak ali dva in poskusite ponovno.</string>
   <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">Dovoli</string>
-  <string name="networking_allow_desc">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi ponudili brezplačne tekstne in govorne storitve, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge funkcije, Mi Sporočila uporabljajo Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
-  <string name="networking_allow_desc_without_mx">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge funkcije, Mi Sporočila uporablja Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
+  <string name="networking_allow_desc">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi ponudili brezplačne tekstne in govorne storitve, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge opravila, Mi Sporočila uporabljajo Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge opravila, Mi Sporočila uporablja Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
   <string name="networking_allow_title">Pozor</string>
   <string name="new_message">Novo sporočilo</string>
   <string name="new_message_arrived">Imate novo sporočilo</string>
@@ -474,7 +474,7 @@
   <string name="pref_show_photo_word_summary">Samodejno dodeli sliko stikom ki je nimajo</string>
   <string name="pref_show_sms_template_entry_summary">Odkrij enkratna gesla v SMS-u</string>
   <string name="pref_show_sms_template_in_summary">Samodejno odkrij OTP v SMS sporočilih</string>
-  <string name="pref_show_sms_template_summary">Vključite za uporabo pametnih funkcij Mi Sporočil, kot so kopiranje kod, preverba stanja računa itd.</string>
+  <string name="pref_show_sms_template_summary">Vključite za uporabo pametnih opravil Mi Sporočil, kot so kopiranje kod, preverba stanja računa itd.</string>
   <string name="pref_smart_messages_settings">Pametna sporočila</string>
   <string name="pref_sms_storage_title">Prostor za shranjevanje</string>
   <string name="pref_sms_theme_title">Nastavitve teme</string>
@@ -484,7 +484,7 @@
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>
   <string name="pref_summary_delivery_reports">Prikaži stanje dostave za vsako sporočilo ki ga pošljete</string>
   <string name="pref_summary_delivery_ringtone">Prejmi zvočna obvestila za dostavljena sporočila.</string>
-  <string name="pref_summary_hide_festival">Skrij funkcije kitajskega jezika, ko je sistem nastavljen na drug jezik.</string>
+  <string name="pref_summary_hide_festival">Skrij opravila kitajskega jezika, ko je sistem nastavljen na drug jezik.</string>
   <string name="pref_summary_manage_sim_messages">Upravljaj s sporočili shranjenimi na SIM kartici</string>
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
   <string name="pref_summary_mms_read_reports">Zahtevaj poročilo za vsako sporočilo, ki ste ga poslali</string>
@@ -509,7 +509,7 @@
   <string name="pref_title_delivery_reports">Status dostave</string>
   <string name="pref_title_festival_networking">Spletna povezava</string>
   <string name="pref_title_fwd_sender_info">Posreduj informacije pošiljatelja</string>
-  <string name="pref_title_hide_festival">Skrij funkcije kitajskega jezika</string>
+  <string name="pref_title_hide_festival">Skrij opravila kitajskega jezika</string>
   <string name="pref_title_manage_sim_messages">Upravljanje sporočil na kartici SIM</string>
   <string name="pref_title_miui_card">Pošlji preko kartice</string>
   <string name="pref_title_mms_auto_retrieval">Samodejno pridobi MMS</string>
@@ -847,7 +847,7 @@
   <string name="wild_msg_processing">Obdelava…</string>
   <string name="wild_msg_title">Izberite številke telefona za sinhr.</string>
   <string name="xiaomi_service_number">Številka storitve</string>
-  <string name="yellowpage_recommend_msg">"Preverite MIUI funkcijo za pošiljanje sporočil"</string>
+  <string name="yellowpage_recommend_msg">"Preverite MIUI opravilo za pošiljanje sporočil"</string>
   <string name="yes">V redu</string>
   <string name="yesterday">Včeraj</string>
 </resources>

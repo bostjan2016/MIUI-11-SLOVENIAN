@@ -17,8 +17,8 @@
        <item quantity="one">%1$d korak do izključitve Ultimativnega načina</item>
     </plurals>
     <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">Naredite še %1$d korakov za odklepanje vseh funkcij</item>
-        <item quantity="one">Naredite še %1$d korak za odklep vseh funkcij</item>
+        <item quantity="other">Naredite še %1$d korakov za odklepanje vseh opravil</item>
+        <item quantity="one">Naredite še %1$d korak za odklep vseh opravil</item>
     </plurals>
 	<plurals name="search_app_count_txt_na">
         <item quantity="other">Išči aplikacije: %d</item>

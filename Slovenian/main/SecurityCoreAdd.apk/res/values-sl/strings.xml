@@ -5,7 +5,7 @@
   <string name="PrivacyContactDes1">"Stiki bodo postali zasebni.
 Sporočila se bodo pojavila samo v Drugem prostoru."</string>
   <string name="PrivacyContactDes2">"Če ste uporabljali zasebna sporočila v Prvem prostoru
-bo ta funkcija samodejno dodana v Drugi prostor."</string>
+bo to opravilo samodejno dodana v Drugi prostor."</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
   <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
@@ -204,7 +204,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="next_setp">Naprej</string>
   <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skeniraj ponovno"</string>
   <string name="normal_app">Prvi prostor</string>
-  <string name="not_support_air_space">"Ta funkcija ni podprta na vašem telefonu"</string>
+  <string name="not_support_air_space">"To opravilo ni podprta na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Večkratni prostori niso podprti"</string>
   <string name="notificationSetPassword">Nastavite geslo</string>
   <string name="notificationSetPasswordDes">Zaščitite podatke Drugega prostora</string>
@@ -282,7 +282,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="search_result_text">"Ne morem najti nobene aplikacije"</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Prstni odtis za Drugi prostor</string>
-  <string name="second_space_desktop_tips_dialog_message">Po tej posodobitvi ikone za prestavljanje podatkov in upravljanje z Drugim prostorom ne bodo več prikazane na začetnem zaslonu. Do potrebnih funkcij boste lahko dostopali v Nastavitvah.</string>
+  <string name="second_space_desktop_tips_dialog_message">Po tej posodobitvi ikone za prestavljanje podatkov in upravljanje z Drugim prostorom ne bodo več prikazane na začetnem zaslonu. Do potrebnih opravil boste lahko dostopali v Nastavitvah.</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Razumem</string>
   <string name="second_space_desktop_tips_dialog_title">Pomembna posodobitev</string>
   <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebej uporabljal za vstop v Drugi prostor</string>

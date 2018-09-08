@@ -391,7 +391,7 @@ Vizitke stikov so izključene"</string>
 
 - pri iOS napravah bi morali poiskati \"Bluetooth\" v Nastavitvah
 
-2. pri Android napravah mora biti vključena tudi funkcija \"Viden\";
+2. pri Android napravah mora biti vključena tudi opravilo \"Viden\";
 
 3. Kliknite \"Dalje\" in dovolite dostop do stikov v naslednjem koraku."</string>
   <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi s SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
@@ -734,7 +734,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="miprofile_alertdialog_edit">Vnesite ime</string>
   <string name="miprofile_alertdialog_message">Prikaži to ime stikom kadar zahtevajo menjavo vizitk.</string>
   <string name="miprofile_alertdialog_title">Vnesite ime</string>
-  <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo te funkcije."</string>
+  <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo te opravila."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Dodaj številko</string>
   <string name="miprofile_bind_account_alertdialog_title">Dodaj številko telefona</string>
   <string name="miprofile_contact_add">Dodaj</string>
@@ -1066,7 +1066,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="qrcode_detail_menu_scan">Skeniraj</string>
   <string name="qrcode_editor_flash">QR koda posodobljena</string>
   <string name="qrcode_editor_flash_failed">Ne morem posodobiti QR kode"</string>
-  <string name="quickcontact_missing_app">Ni aplikacije ki bi upravljaja to funkcijo</string>
+  <string name="quickcontact_missing_app">Ni aplikacije ki bi upravljaja to opravilo</string>
   <string name="quit_dialog_confirm_message">"Niste dodali nobenega stika"</string>
   <string name="quit_dialog_confirm_title">Opusti združevanje</string>
   <string name="rcs_app_name">Mini aplikacija</string>

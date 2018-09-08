@@ -66,7 +66,7 @@
   <string name="feedback_description_bugreport_hint">V nekaterih primerih (…) se telefon slabo odziva (…).</string>
   <string name="feedback_description_hint">"Opišite problem na katerega ste naleteli"</string>
   <string name="feedback_description_label">Opis</string>
-  <string name="feedback_description_suggest_hint">"Želim da dodate novo funkcijo (…) ker potrebujem (…)."</string>
+  <string name="feedback_description_suggest_hint">"Želim da dodate novo opravilo (…) ker potrebujem (…)."</string>
   <string name="feedback_detail_tile">Napredek</string>
   <string name="feedback_empty_report_list">Ni še prijav</string>
   <string name="feedback_guess">Naše predvidevanje</string>

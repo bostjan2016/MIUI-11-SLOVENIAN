@@ -17,13 +17,13 @@
   <string name="desc_fun_arcsin">inverzni sinus</string>
   <string name="desc_fun_arctan">inverzni tangens</string>
   <string name="desc_fun_cos">kosinus</string>
-  <string name="desc_fun_exp">eksponencialna funkcija</string>
+  <string name="desc_fun_exp">eksponencialna opravilo</string>
   <string name="desc_fun_ln">naravni logaritem</string>
   <string name="desc_fun_log">logaritem</string>
   <string name="desc_fun_sin">sinus</string>
   <string name="desc_fun_tan">tangens</string>
-  <string name="desc_inv_off">prikaz inverznih funkcij</string>
-  <string name="desc_inv_on">skritje inverznih funkcij</string>
+  <string name="desc_inv_off">prikaz inverznih opravil</string>
+  <string name="desc_inv_on">skritje inverznih opravil</string>
   <string name="desc_lparen">levi oklepaj</string>
   <string name="desc_mode_deg">način stopinj</string>
   <string name="desc_mode_rad">način radianov</string>

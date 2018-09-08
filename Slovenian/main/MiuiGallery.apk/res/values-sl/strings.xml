@@ -486,7 +486,7 @@
   <string name="error_not_synced_tip">"Podatki se ne sinhronizirajo."</string>
   <string name="error_over_quota_tip">Preveč zahtev. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="error_repeat_apply">Ta album je že v skupni rabi</string>
-  <string name="error_share_not_support">"Ta funkcija še ni podprta"</string>
+  <string name="error_share_not_support">"To opravilo še ni podprta"</string>
   <string name="error_share_with_creator">Ta album je že v skupni rabi z vami</string>
   <string name="error_socket_timeout">Potekel čas povezave</string>
   <string name="error_socket_timeout_action">Izberi omrežje</string>
@@ -1298,7 +1298,7 @@ za fotografije"</string>
   <string name="title_warn">Opozorilo</string>
   <string name="to_count">%d vseh skupaj</string>
   <string name="to_enable_gallery_sync_dialog_message">Najprej omogočite sinhr. Galerije</string>
-  <string name="to_enable_sync_dialog_message">Najprej omogočite funkcijo sinhr.</string>
+  <string name="to_enable_sync_dialog_message">Najprej omogočite opravilo sinhr.</string>
   <string name="to_enable_sync_dialog_positive_button_text">Pojdi v Nastavitve</string>
   <string name="to_enable_sync_dialog_title">Sinhr.</string>
   <string name="today">Danes</string>
@@ -1375,7 +1375,7 @@ za fotografije"</string>
   <string name="video_editor_intelligent_special_effect">Učinki</string>
   <string name="video_editor_invalid_trim_arguments">Moralo bi biti daljše od 1 sekunde</string>
   <string name="video_editor_loading_plugin">Nalaganje…</string>
-  <string name="video_editor_loading_warning_msg">"Zaradi napake kodiranja so lahko nekatere funkcije in pregledinedodtopni. To vseeno ne bo vpljivalo na končni videoposnetek."</string>
+  <string name="video_editor_loading_warning_msg">"Zaradi napake kodiranja so lahko nekatere opravila in pregledinedodtopni. To vseeno ne bo vpljivalo na končni videoposnetek."</string>
   <string name="video_editor_loading_warning_title">Napaka kodiranja</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takšne video datoteke niso podprte"</string>
@@ -1384,7 +1384,7 @@ za fotografije"</string>
   <string name="video_editor_res_download_failed_tips">"Ne morem prenesti, preverite omrežne nastavitve in poskusite znova"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Prenesem glasbene podloge z uporabo mobilnih podatkov?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Uporabi mobilne podatke</string>
-  <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te funkcije (več od 20MB).</string>
+  <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te opravila (več od 20MB).</string>
   <string name="video_editor_return">Nazaj</string>
   <string name="video_editor_save">Shrani</string>
   <string name="video_editor_smart_effect_beat">Beats</string>

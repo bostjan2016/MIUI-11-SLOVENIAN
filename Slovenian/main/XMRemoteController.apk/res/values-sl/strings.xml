@@ -399,7 +399,7 @@ Poskusite naslednje da  rešite problem:
   <string name="input_tip">Kode potečejo čez 15 minut</string>
   <string name="install">Namesti</string>
   <string name="install_failed">"Ne morem namestiti %s"</string>
-  <string name="install_peel_content">Da boste omogočili funkcijo TV vodiča namestite Peel Mi Remote.</string>
+  <string name="install_peel_content">Da boste omogočili opravilo TV vodiča namestite Peel Mi Remote.</string>
   <string name="install_peel_title">Namesti Peel Mi Remote</string>
   <string name="install_succed">Nameščeno %s</string>
   <string name="installing">Nameščam…</string>
@@ -566,7 +566,7 @@ počakajte trenutek po opravilu"</string>
   <string name="month_day_format">MMM dd</string>
   <string name="more">Več</string>
   <string name="more_fav_channel">Več priljubljenih</string>
-  <string name="more_function">Več funkcij</string>
+  <string name="more_function">Več opravil</string>
   <string name="more_hot_programs">Več oddaj…</string>
   <string name="movie_tag">Video tags</string>
   <string name="mute">Utišaj</string>
@@ -998,7 +998,7 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="succeed_content">Seznanjanje %3$s %4$s uspešno.</string>
   <string name="succeed_finish">Končano</string>
   <string name="succeed_title">Seznanjeno</string>
-  <string name="suggest_use_wifi_rc">*Brežični daljinec tudi vsebuje funkcije kot so video-cast, aplikacije, itd.</string>
+  <string name="suggest_use_wifi_rc">*Brežični daljinec tudi vsebuje opravila kot so video-cast, aplikacije, itd.</string>
   <string name="supported_by_kookong">Tehnična podpora by Youku</string>
   <string name="supporting_soon">Prihaja kmalu</string>
   <string name="swipe_loading">Samo trenutek…</string>

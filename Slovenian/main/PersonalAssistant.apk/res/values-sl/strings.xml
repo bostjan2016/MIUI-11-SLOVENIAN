@@ -36,7 +36,7 @@
   <string name="assistant_place">Prepoznaj pogoste kraje</string>
   <string name="assistant_summary">Dobite uporabne predloge takrat ko jih potrebujete</string>
   <string name="ball_dialog_confirm">Namesti</string>
-  <string name="ball_dialog_content">Namesti HuPu Sports za uporabo te funkcije. Namestim zdaj?</string>
+  <string name="ball_dialog_content">Namesti HuPu Sports za uporabo te opravila. Namestim zdaj?</string>
   <string name="ball_dialog_tip">Ne kaži več</string>
   <string name="ball_dialog_title">Najprej namestite aplikacijo.</string>
   <string name="ball_hupu">HuPu Sport</string>
@@ -224,13 +224,13 @@
   <string name="function_keyguard_dialog_cancel">Prekini</string>
   <string name="function_keyguard_dialog_confirm">Nastavi</string>
   <string name="function_keyguard_dialog_content">Nastavite geslo zakl. zaslona da zaščitite svoja plačila.</string>
-  <string name="function_keyguard_dialog_title">"Ta funkcija še ni podprta"</string>
+  <string name="function_keyguard_dialog_title">"To opravilo še ni podprta"</string>
   <string name="function_mistore_cart">Shopping cart</string>
   <string name="function_mistore_favorite">Priljubljeni</string>
   <string name="function_mistore_title">Mi Store</string>
   <string name="function_music_recognize">Prepoznaj pesmi</string>
   <string name="function_music_title">Glasba</string>
-  <string name="function_not_support">"Ta funkcija ni podprta na tej napravi."</string>
+  <string name="function_not_support">"To opravilo ni podprta na tej napravi."</string>
   <string name="function_open_error_content">"Aplikacija za to bližnjico ni nameščena na napravi. Namestite to aplikacijo ali pa uporabite drugo bližnjico."</string>
   <string name="function_open_error_content_app">"Ta aplikacija ni nameščena na vaši napravi. Namestite to aplikacijo ali uporabite drugo bližnjico."</string>
   <string name="function_open_error_content_app_xspace">"Ta dvojna aplikacija ni izdelana na vaši napravi. Izdelajte dvojno aplikacijo ali uporabite drugo bližnjico."</string>
@@ -283,7 +283,7 @@
   <string name="launch_change_order">Spremeni zaporedje</string>
   <string name="launch_else">Ostalo</string>
   <string name="launch_enable">Prikaži hitro dostopne kartice</string>
-  <string name="launch_function">Izberite funkcije</string>
+  <string name="launch_function">Izberite opravila</string>
   <string name="launch_label">Hitri dostop</string>
   <string name="launch_no_dapp_dialog_reset">Nastavitve Dvojnih aplikacij</string>
   <string name="launch_noapp_dialog_cancel">Prekini</string>
@@ -302,7 +302,7 @@
   <string name="launch_setting_alipay_logout_msg">Izpis iz Alipay računa?</string>
   <string name="launch_setting_alipay_logout_posi">Izpiši</string>
   <string name="launch_setting_alipay_logout_success">Izpis uspešen</string>
-  <string name="launch_top">Odprite določene funkcije priljubljenih aplikacij</string>
+  <string name="launch_top">Odprite določene opravila priljubljenih aplikacij</string>
   <string name="launcher_else">Ostalo</string>
   <string name="list_icon_add">Dodaj</string>
   <string name="list_icon_delete">Odstrani</string>
@@ -407,7 +407,7 @@
   <string name="preferences_label">Nastavitve</string>
   <string name="qq_new">Nov status</string>
   <string name="qq_qzone">Qzone</string>
-  <string name="quickstart_accessibility_description">"Zakl. aplikacij omogoča bližnjice za izbrane aplikacije tretjih strani. Te bližnjice ne bodo delovale če izključite to funkcijo."</string>
+  <string name="quickstart_accessibility_description">"Zakl. aplikacij omogoča bližnjice za izbrane aplikacije tretjih strani. Te bližnjice ne bodo delovale če izključite to opravilo."</string>
   <string name="recharge_flow">Doplačaj bon</string>
   <string name="recharge_tel">Doplačaj bon</string>
   <string name="recharge_title_monthused">Izkoriščeno ta mesec</string>
@@ -491,7 +491,7 @@
   <string name="setting_launch_change">Spremeni</string>
   <string name="setting_launch_select_other_app">Izberite druge aplikacije</string>
   <string name="setting_list_guide">Vodič</string>
-  <string name="setting_list_guide_desc">Dodajte pogosto uporabljene funkcije in informacije.</string>
+  <string name="setting_list_guide_desc">Dodajte pogosto uporabljene opravila in informacije.</string>
   <string name="setting_map">Promet</string>
   <string name="setting_map_brief">Izračunajte čas potreben za izlet in pokličite taksi</string>
   <string name="setting_map_brief_detail">Izračunajte čas potreben za izlet in pokličite taksi</string>

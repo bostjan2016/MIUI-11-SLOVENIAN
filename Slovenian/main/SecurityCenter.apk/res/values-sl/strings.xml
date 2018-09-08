@@ -148,7 +148,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pošlji imena in podrobnosti aplikacij in jih preveri s pomočjo online opredelitev virusov.</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
-  <string name="antivirus_privacy_dialog_summary">"Ta funkcija šifrira in pošilja ID vaše naprave na Avast, AVL in Tencent strežnike (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">"To opravilo šifrira in pošilja ID vaše naprave na Avast, AVL in Tencent strežnike (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o zasebnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
   <string name="antivirus_sec_network_unavailable">"Aplikacija Varnost ne more posodobiti ker ste omejili spletno povezavo. Dovolim aplikaciji povezavo na splet?"</string>
@@ -193,7 +193,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_app_update">Posodobitve</string>
   <string name="app_manager_app_version_name">Različica:</string>
   <string name="app_manager_apps_generatioin">Posodobitve</string>
-  <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejše funkcije</string>
+  <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejše opravila</string>
   <string name="app_manager_appupdate_remind">Obvesti o posodobitvah</string>
   <string name="app_manager_as_dlg_msg">Dovoljenje aplikacijam za samod. zagon lahko zahteva dodatni RAM in vir baterije. Vseeno dovolim?</string>
   <string name="app_manager_as_dlg_title">Pozor</string>
@@ -273,7 +273,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_permission">Dovoljenja vezana na zasebnost (zadnjih 7 dni)</string>
   <string name="app_manager_permission_call_phone_over">Klicano 100000+ krat</string>
   <string name="app_manager_permission_manager_title">Dovoljenja</string>
-  <string name="app_manager_permission_notify_summary">Obvestila funkcij, lebdečih obvestil in zakl. zaslona</string>
+  <string name="app_manager_permission_notify_summary">Obvestila opravil, lebdečih obvestil in zakl. zaslona</string>
   <string name="app_manager_permission_notify_title">Obvestila</string>
   <string name="app_manager_permission_power_saving_summary">MIUI Varčevanje baterije</string>
   <string name="app_manager_permission_power_saving_title">Varčevanje baterije</string>
@@ -685,7 +685,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_prompt_all_permission">Iščem dovoljenja za vse aplikacije?</string>
-  <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te funkcije?</string>
+  <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te opravila?</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna povezava</string>
   <string name="connect_internet_by_usbshare">Splet preko USB-a</string>
   <string name="connect_internet_by_wifi">Splet preko WiFi-ja</string>
@@ -783,7 +783,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="datausage_purchase_title_order">Doplačilo</string>
   <string name="datausage_purchase_title_pkglist">Doplačilo</string>
   <string name="datausage_purchase_view_detail">Prikaži podrobnosti</string>
-  <string name="declaration_dialog_msg">Ta funkcija vam pomaga spremljati vašo porabo, ne jamči pa da ne bo prišlo do dodatnih stroškov. Za najboljše rezultate nastavite strogo omejitev.</string>
+  <string name="declaration_dialog_msg">To opravilo vam pomaga spremljati vašo porabo, ne jamči pa da ne bo prišlo do dodatnih stroškov. Za najboljše rezultate nastavite strogo omejitev.</string>
   <string name="deep_clean_disconnect_data_title">Izključi mobilne podatke kadar je naprava zaklenjena</string>
   <string name="deep_clean_memory_clean_title">Izbriši predpomnilnik kadar je naprava zaklenjena</string>
   <string name="deep_clean_never_memory_clean">Nikoli</string>
@@ -862,7 +862,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_import_blacklist">Dodajanje…</string>
   <string name="dlg_import_whitelist">Dodajanje…</string>
   <string name="dlg_keyword_ok">Shrani</string>
-  <string name="dlg_message_not_open_stranger_identify">Za vklop te funkcije, pojdite v Nastavitve &gt; Telefon.</string>
+  <string name="dlg_message_not_open_stranger_identify">Za vklop te opravila, pojdite v Nastavitve &gt; Telefon.</string>
   <string name="dlg_move_to_white">Dodaj v izjeme</string>
   <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirani predmeti ne bodo vidni v zgodovini klicev.</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
@@ -922,7 +922,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="examination_score_80_100_with_recommend">Elementov (%d) se lahko optimizira</string>
   <string name="examination_score_80_60">Nekaj stvari je lahko optimiziranih</string>
   <string name="examination_score_has_virus">Zaznanih je bilo nekaj sumljivih aplikacij.</string>
-  <string name="exception_dialog_message">"Zaradi napake ne morem izračunati statistike porabe. Brez točne statistike aplikacija Varnost ne more spremljati porabo podatkov. Ponovno zaženem da povrnete to funkcijo?"</string>
+  <string name="exception_dialog_message">"Zaradi napake ne morem izračunati statistike porabe. Brez točne statistike aplikacija Varnost ne more spremljati porabo podatkov. Ponovno zaženem da povrnete to opravilo?"</string>
   <string name="exception_dialog_ok_button">Ponovno zaženi</string>
   <string name="exception_notify_message">"Zaradi napake ne morem izračunati statistične podatke. Ponovno zaženite napravo zaradi povrnitve."</string>
   <string name="exception_titile">Prišlo je do napake</string>
@@ -982,7 +982,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fingerprint_remind_dialog_title">Odklepanje s pomočjo prstnega odtisa</string>
   <string name="fingerprint_to_lock">Odklenite s pomočjo prstnega odtisa</string>
   <string name="fingerprint_verification">Preverjanje prstnega odtisa</string>
-  <string name="fingerprint_verification_message">Potrdite trenutne prstne odtise da začnete uporabljati to funkcijo.</string>
+  <string name="fingerprint_verification_message">Potrdite trenutne prstne odtise da začnete uporabljati to opravilo.</string>
   <string name="fingerprint_verify_failed">"Ne morem potrditi"</string>
   <string name="fingerprint_verify_succeed">Uspešno potrjeno</string>
   <string name="fingerprint_verify_try_agin">"Ne morem preveriti prstnega odtisa, poskusite ponovno"</string>
@@ -1150,11 +1150,11 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
-  <string name="gb_new_feature">Nova funkcija</string>
+  <string name="gb_new_feature">Nova opravilo</string>
   <string name="gdpr_msg">"Za uporabo aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke."</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
-  <string name="gmscore_support_remind">Vključite to funkcijo če imate težave u uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
+  <string name="gmscore_support_remind">Vključite to opravilo če imate težave u uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
   <string name="gmscore_support_service">Google storitve</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
@@ -1438,7 +1438,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="man_add_application">Dodajte ročni samod. zagon aplikacije</string>
   <string name="manage_hybrid_permissions">"Upravljanje dovoljenj aplikacij"</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
-  <string name="manual_handle_title">DOSTOPNE FUNKCIJE</string>
+  <string name="manual_handle_title">DOSTOPNA OPRAVILA</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>
   <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim aplikacijam</string>
@@ -1809,7 +1809,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optimize_result_button_to_set">Nastavi</string>
   <string name="optimize_result_button_update_now">Posodobi</string>
   <string name="optimize_result_header_view_summary">Povečaj hitrost</string>
-  <string name="optimize_result_summary_sucurity_risk">Nekatere varnostne funkcije so izključene. Vključite jih za večjo varnost:</string>
+  <string name="optimize_result_summary_sucurity_risk">Nekatere varnostne opravila so izključene. Vključite jih za večjo varnost:</string>
   <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in varnost sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
   <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
@@ -1880,7 +1880,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="permission_close_permission_control_dialog_title">Izklopim dovoljenje vodje?</string>
   <string name="permission_exception_title">Omejena povezava za aplikacije</string>
   <string name="permission_group_title_others">Drugo</string>
-  <string name="permission_permission_control_closed_desc_dialog_msg">Aplikacije ne bodo zahtevale vašega dovoljenja pred branjem vaših stikov, ogledom zgodovine klicev, spreminjanjem sistemskih nastavitev ali dostopa do kamere in drugih virov. Naprava ne bo vprašala za vaše dovoljenje. To funkcijo lahko vklopite v nastavitvah.</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">Aplikacije ne bodo zahtevale vašega dovoljenja pred branjem vaših stikov, ogledom zgodovine klicev, spreminjanjem sistemskih nastavitev ali dostopa do kamere in drugih virov. Naprava ne bo vprašala za vaše dovoljenje. To opravilo lahko vklopite v nastavitvah.</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Dovoljenje vodje</string>
   <string name="permission_send_sms_descx">Aplikacije lahko pošiljajo SMS in MMS sporočila</string>
   <string name="permission_with_SMS_and_MMS">Dovoljenja povezana s sporočili SMS in MMS</string>
@@ -1944,7 +1944,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Baterija</string>
   <string name="power_chooser_check_box_title">Izberi profil</string>
-  <string name="power_chooser_sleep_summary">Izklopi vse funkcije (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>
+  <string name="power_chooser_sleep_summary">Izklopi vse opravila (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>
   <string name="power_chooser_sleep_title">Spanje</string>
   <string name="power_chooser_smart_summary">Počisti procese v ozadju na zaklenjenem zaslonu</string>
   <string name="power_chooser_smart_title">Privzeto</string>
@@ -2249,7 +2249,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="privacy_dialog_message">"Ko se povežete na splet bo to sporočilo skupaj z informacijami o mobilnem operaterju šifrirano in poslana na Mi strežnike da bomo izboljšali nadzor nad uporabo podatkov."</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi se posodobile informacije porabe podatkov."</string>
-  <string name="privacy_prompt_traffic_adjust_message">"Ta funkcija mora poslati IMEI vaše naprave, številko telefona in podatke vašega mobilnega operaterja na Mi strežnike da bi dobili statistiko o porabi podatkov vašega mobilnega operaterja.</string>
+  <string name="privacy_prompt_traffic_adjust_message">"To opravilo mora poslati IMEI vaše naprave, številko telefona in podatke vašega mobilnega operaterja na Mi strežnike da bi dobili statistiko o porabi podatkov vašega mobilnega operaterja.</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi dobili več informacij o možnosti nakupa podatkov."</string>
   <string name="privacy_prompt_upload">Pošlji</string>
   <string name="process_mediaserver_label">Medijski strežnik</string>
@@ -2383,7 +2383,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="saving_conflict_dialog_title">Pozor</string>
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Omejili ste omrežno povezavo in dostop do lokacije za aplikacijo Varnost. Dajte aplikaciji potrebna dovoljenja za uporabo te storitve.</string>
-  <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te funkcije"</string>
+  <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te opravila"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
   <string name="sc_warning_updater_not_found">"Aplikacija Posodobitev ni najdena."</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
@@ -2434,7 +2434,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih ponovno vključite</string>
   <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="show_system_app">Prikaži sistemske animacije</string>
-  <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
+  <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to opravilo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
   <string name="shutdown_cancel_reminder">"Naprava se ni izključila"</string>
@@ -2673,7 +2673,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="summary_cloud_account">Dobite največ iz vaše Mi naprave</string>
   <string name="summary_cloud_service">Sinhroniziraj fotografije, imenik in ostalo v vseh vaših napravah</string>
   <string name="summary_cloud_space_almost_full">Kupite več prostora</string>
-  <string name="summary_cloud_space_full">Pridobite več prostora za shranjevanje in dostop do več funkcij</string>
+  <string name="summary_cloud_space_full">Pridobite več prostora za shranjevanje in dostop do več opravil</string>
   <string name="summary_cmcc_app_check">"Nekaterih aplikacij ne morem preveriti"</string>
   <string name="summary_consume_power">Najdeni problemi z pregrevanjem ki lahko vplivajo na trajanje baterije</string>
   <string name="summary_data_flow">Izogibajte se nalaganja podatkov čez mejo mesečnega limita svojega operaterja</string>
@@ -2776,7 +2776,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_diagnostic_status_updating">Testiranje…</string>
   <string name="tc_diagnostic_success_notification_summary">Prijavite to težavo da pomagate izboljšati diagnostična orodja</string>
   <string name="tc_diagnostic_success_notification_title">Omrežje in znamka mobilnega operaterja sta pravilni</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Omrezje in znamka sta pravilno nastavljeni&lt;br/&gt;&lt;br/&gt;Ne morem dokončati nastavitve:&lt;br/&gt;1. Statistika operaterja mogoče ni zanesljiva na začetku in na koncu mesec.&lt;br/&gt;2. Funkcije aplikacije Varnost niso posodobljene.&lt;br/&gt;&lt;br/&gt;Prijavite to težavo da pomagate izboljšati diagnostična orodja&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Omrezje in znamka sta pravilno nastavljeni&lt;br/&gt;&lt;br/&gt;Ne morem dokončati nastavitve:&lt;br/&gt;1. Statistika operaterja mogoče ni zanesljiva na začetku in na koncu mesec.&lt;br/&gt;2. Opravila aplikacije Varnost niso posodobljene.&lt;br/&gt;&lt;br/&gt;Prijavite to težavo da pomagate izboljšati diagnostična orodja&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Diagnostika omrežja</string>
   <string name="tc_diagnostic_upload_button">Prijavi</string>
   <string name="tc_diagnostic_upload_no_network">Hvala vam za povratno informacijo! Vaše poročilo bo poslano ko se boste povezali v omrežje.</string>
@@ -2809,11 +2809,11 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_notify_get_timeout_body">Čas obdelave je potekel. Potrdi pri operaterju da je koda zahteve SMS ki ste jo vnesli pravilna.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne morem dobiti SMS o porabi podatkov"</string>
   <string name="tc_sms_report_receive_content">Vsebina SMS poročila porabe podatkov (Potrditev statistike o porabi podatkov)</string>
-  <string name="tc_sms_report_receive_content_null">"​Pomagajte nam izboljšati to funkcijo!&lt;br/&gt;Kako:&lt;br/&gt;1. Pojdite na \"Preveri ukaz SMS\" in \"Številka prejemnika\"&lt;br/&gt;2. Tapnite \"Dobivanje SMS predloge\"&lt;br/&gt;3. Počakajte SMS sporočilo od svojega mobilnega operaterja &lt;br/&gt;4. Tapnite \"Pošlji MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"​Pomagajte nam izboljšati to opravilo!&lt;br/&gt;Kako:&lt;br/&gt;1. Pojdite na \"Preveri ukaz SMS\" in \"Številka prejemnika\"&lt;br/&gt;2. Tapnite \"Dobivanje SMS predloge\"&lt;br/&gt;3. Počakajte SMS sporočilo od svojega mobilnega operaterja &lt;br/&gt;4. Tapnite \"Pošlji MIUI\"​"</string>
   <string name="tc_sms_report_receive_num">Številka prejemnika</string>
   <string name="tc_sms_report_send_num">Številka operaterja #</string>
-  <string name="tc_sms_report_summary">Pomagajte nam izboljšati to funkcijo s pošiljanjem poročila ko je informacija porabe podatkov netočna ali ko je posodabljanje neuspešno</string>
-  <string name="tc_sms_report_tips_dialog_message">"Poraba podatkov uporablja posebno formatirana SMS sporočila da boste dobili svoje najnovejše poročilo porabe podatkov od svojega mobilnega operaterja. Če ta funkcija ne dela normalno poskusite posodobiti podatke porabe formata SMS sporočila. Novi obnovljeni format bo takrat naložen na naše strežnike."</string>
+  <string name="tc_sms_report_summary">Pomagajte nam izboljšati to opravilo s pošiljanjem poročila ko je informacija porabe podatkov netočna ali ko je posodabljanje neuspešno</string>
+  <string name="tc_sms_report_tips_dialog_message">"Poraba podatkov uporablja posebno formatirana SMS sporočila da boste dobili svoje najnovejše poročilo porabe podatkov od svojega mobilnega operaterja. Če to opravilo ne dela normalno poskusite posodobiti podatke porabe formata SMS sporočila. Novi obnovljeni format bo takrat naložen na naše strežnike."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS poraba podatkov</string>
   <string name="tc_sms_report_title">Poročilo o napaki porabe podatkov</string>
   <string name="tc_sms_report_title_bill">Napaka v poročilu porabe podatkov</string>
@@ -3087,7 +3087,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
   <string name="try_game">Poskusi</string>
-  <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo nove funkcije Varnost</string>
+  <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo nove opravila Varnost</string>
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
@@ -3180,7 +3180,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_expiry_date">Aktivno do %s</string>
   <string name="xiaomi_traffic_pass_in_use">Uporablja</string>
   <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke kartice. Prestavim zdaj?</string>
-  <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira te funkcije"</string>
+  <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira te opravila"</string>
   <string name="xiaomi_traffic_pass_notify_content_using">Preostalo %s</string>
   <string name="xiaomi_traffic_pass_notify_title_using">Uporablja se Mi Data načrt</string>
   <string name="xiaomi_traffic_pass_pass_activate_msg">Najden je Mi Data Načrt. Vključim?</string>

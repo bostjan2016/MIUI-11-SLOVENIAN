@@ -69,7 +69,7 @@
         <item>uporaba protokola SIP</item>
         <item>obdelava odhodnega klica</item>
         <item>prstni odtis</item>
-        <item>tipala telesnih funkcij</item>
+        <item>tipala telesnih opravil</item>
         <item>branje oddaj v celici</item>
         <item>lažna lokacija</item>
         <item>branje shrambe</item>
@@ -136,7 +136,7 @@
         <item>Uporaba protokola SIP</item>
         <item>Obdelava odhodnega klica</item>
         <item>Prstni odtis</item>
-        <item>Tipala telesnih funkcij</item>
+        <item>Tipala telesnih opravil</item>
         <item>Branje oddaj v celici</item>
         <item>Lažna lokacija</item>
         <item>Branje shrambe</item>
@@ -144,7 +144,7 @@
         <item>Vklop zaslona</item>
         <item>Pridobivanje računov</item>
         <item>Izvajanje v ozadju</item>
-        <item>Glasnost za funkcije za ljudi s posebnimi potrebami</item>
+        <item>Glasnost za opravila za ljudi s posebnimi potrebami</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
         <item>Uporaba privzetih nastavitev aplikacije</item>

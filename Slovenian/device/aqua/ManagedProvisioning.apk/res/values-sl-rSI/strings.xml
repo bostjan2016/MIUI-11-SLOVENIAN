@@ -87,7 +87,7 @@
   <string name="suw_next_button_label">Naprej</string>
   <string name="the_following_is_your_mdm">Ta aplikacija bo morala pristopati do profila:</string>
   <string name="the_following_is_your_mdm_for_device">Z vašo napravo bo upravljala aplikacija:</string>
-  <string name="theft_protection_disabled_warning">Če nadaljujete se funkcija zaščite pred krajo ne bo omogočila. Za vklop zaščite pred krajo, prekličite nadaljevanje in nastavite to napravo kot osebno.</string>
+  <string name="theft_protection_disabled_warning">Če nadaljujete se opravilo zaščite pred krajo ne bo omogočila. Za vklop zaščite pred krajo, prekličite nadaljevanje in nastavite to napravo kot osebno.</string>
   <string name="user_cannot_have_work_profile">Ta uporabnik ne more imeti delovnega profila</string>
   <string name="user_consent_msg">Sprejemam</string>
   <string name="user_setup_incomplete">Nastavitev uporabnika ni končana</string>

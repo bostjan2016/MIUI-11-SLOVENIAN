@@ -239,7 +239,7 @@
   <string name="guide_virus_dialog_positive">Skeniraj</string>
   <string name="guide_virus_dialog_title">Antivirusno skeniranje</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
-  <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
+  <string name="header_optimizer">Z uporabo te opravila pristajate na %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
   <string name="hint_clean_select_similar_image">Brisanje dvojnikov…</string>
   <string name="hints_ad_header_left">Stare datoteke</string>
@@ -341,7 +341,7 @@
   <string name="menu_install">Namesti to aplikacijo</string>
   <string name="menu_open">Odpri</string>
   <string name="menu_view">Prikaži v mapi</string>
-  <string name="micloud_find_device_close_alert_content">"Če izključite to funkcijo ne boste mogli najti napravo če jo izgubite."</string>
+  <string name="micloud_find_device_close_alert_content">"Če izključite to opravilo ne boste mogli najti napravo če jo izgubite."</string>
   <string name="micloud_find_device_close_alert_negtive">Izključi vseeno</string>
   <string name="micloud_find_device_close_alert_positive">Pusti vključeno</string>
   <string name="micloud_find_device_close_alert_title">Izključim Najdi napravo?</string>
@@ -493,7 +493,7 @@
   <string name="summary_delete_cache">Očistim predpomnilnik izbranih aplikacij?</string>
   <string name="summary_delete_large_file">Trajno izbrišem izbrane datoteke?</string>
   <string name="summary_delete_video">Trajno izbrišem izbrane videoposnetke?</string>
-  <string name="summary_optimizer">"Ta funkcija bere imena nepoznanih datotek za pododobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
+  <string name="summary_optimizer">"To opravilo bere imena nepoznanih datotek za pododobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Preberi imena map</string>
   <string name="there_is_no">Vse izgleda dobro, vrnite se kasneje</string>

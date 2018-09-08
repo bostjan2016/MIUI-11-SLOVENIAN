@@ -483,7 +483,7 @@
         <item>Nič</item>
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
-        <item>Pozivni snop za funkcijo glGetError</item>
+        <item>Pozivni snop za opravilo glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Izključeno</item>
@@ -841,8 +841,8 @@
         <item>"Lahko upočasni zmogljivost naprave"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-      <item>Ponovno zaženem za uporabo te funkcije?</item>
-        <item>Ponovno zaženem napravo za uporabo te funkcije?</item>
+      <item>Ponovno zaženem za uporabo te opravila?</item>
+        <item>Ponovno zaženem napravo za uporabo te opravila?</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Vsak dan</item>

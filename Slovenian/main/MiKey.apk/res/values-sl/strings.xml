@@ -157,7 +157,7 @@ na dnu seznama"</string>
   <string name="hint_mikey_during_link">MiKey v okviru programa</string>
   <string name="hint_mikey_sprite">"Nastavite MiKey Čarovnik kjer koli
 S pritiskom na MiKey simulirate dotik na izbranem mestu.
-Ob uporabi so ostale funkcije MiKey nedostopne."</string>
+Ob uporabi so ostale opravila MiKey nedostopne."</string>
   <string name="input_phone">Vnesi številko telefona</string>
   <string name="key_direction_down">Dol</string>
   <string name="key_direction_left">Levo</string>
@@ -252,8 +252,8 @@ To lahko povzroči večjo porabo baterije"</string>
   <string name="setting_speed_slow">Počasi</string>
   <string name="setting_speed_text">Hitrost</string>
   <string name="setting_toolbar">Orodna vrstica</string>
-  <string name="setting_toolbar_desc">"Da bi bilo bolj praktično lahko do funkcij Orodne vrstice dostopate iz vrstice obvestil "</string>
-  <string name="setting_toolbar_tip">"Pritisnite gumb "+" za dodajanje novih funkcij.
+  <string name="setting_toolbar_desc">"Da bi bilo bolj praktično lahko do opravil Orodne vrstice dostopate iz vrstice obvestil "</string>
+  <string name="setting_toolbar_tip">"Pritisnite gumb "+" za dodajanje novih opravil.
 Dolg pritisk za brisanje.
 Napravite lastno orodno vrstico!
 
@@ -294,9 +294,9 @@ S pritiskom na MiKey simulirajte dotik na izbranem mestu"</string>
   <string name="toggle_shake">Vibracija</string>
   <string name="toggle_sleep">Mirovanje</string>
   <string name="toggle_wifi">WLAN</string>
-  <string name="toolbox_outer_desc">Pritisnite plus ali obstoječo funkcijo</string>
-  <string name="unsupport_content">Posodobite na najnovejšo verzijo MIUI da lahko uporabljate to funkcijo!!!!</string>
-  <string name="unsupport_title">Ta funkcija ni podprta</string>
+  <string name="toolbox_outer_desc">Pritisnite plus ali obstoječo opravilo</string>
+  <string name="unsupport_content">Posodobite na najnovejšo verzijo MIUI da lahko uporabljate to opravilo!!!!</string>
+  <string name="unsupport_title">To opravilo ni podprta</string>
   <string name="update_message">Posodabljanje!</string>
   <string name="vcard_prompt">Stika ni mogoče dodati ker ni imena</string>
   <string name="wallpaper_action">Sprememba ozadja</string>

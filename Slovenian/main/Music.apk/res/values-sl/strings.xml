@@ -530,7 +530,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="is_scanning">Preverjam prostor za shranjevanje…</string>
   <string name="is_scanning_support_online">"Preverjam prostor za shranjevanje…      
     (Medtem lahko poslušate glasbo online)"</string>
-  <string name="karaoke_message">Prenesite in namestite Karaoke dodatek za uporabo te funkcije.</string>
+  <string name="karaoke_message">Prenesite in namestite Karaoke dodatek za uporabo te opravila.</string>
   <string name="karaoke_my_studio">Moj Studio</string>
   <string name="karaoke_negative_text">Kasneje</string>
   <string name="karaoke_positive_text">V redu</string>
@@ -604,7 +604,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="metered_serious_alert_msg_with_beyond_data">"Presegli ste omejitev mobilnih podatkov za %s. Uporabim mobilne podatke za predvajanje pesmi?"</string>
   <string name="metered_serious_alert_msg_with_data">Preostalo vam je %s mobilnih podakov. Uporabim mobilne podatke za predvajanje pesmi?</string>
   <string name="metered_serious_allow">Reproduciraj svejedno</string>
-  <string name="milink_unavaliable_please_update">Mi Link funkcija ni dostopna. Morate posodobiti MIUI.</string>
+  <string name="milink_unavaliable_please_update">Mi Link opravilo ni dostopna. Morate posodobiti MIUI.</string>
   <string name="min_sleep_time">%d</string>
   <string name="missing_title">&lt;Neznano&gt;</string>
   <string name="miui_music">Mi Glasba</string>
@@ -988,7 +988,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="stream_quality">Kvaliteta streama</string>
   <string name="streamloadingtext">Povezujem do %s</string>
   <string name="sub_explanation">Plan podatkov glasbe</string>
-  <string name="sub_explanation_message">Plan podatkov glasbe je trenutno podprt s strani China Unicom. Vaš mobilni operater ne podpira te funkcije."</string>
+  <string name="sub_explanation_message">Plan podatkov glasbe je trenutno podprt s strani China Unicom. Vaš mobilni operater ne podpira te opravila."</string>
   <string name="subed">Vključeno</string>
   <string name="suggest_text">Osebe ki jim je to všeč</string>
   <string name="sync_only_in_wifi">Sinhr. samo preko WiFi-ja</string>

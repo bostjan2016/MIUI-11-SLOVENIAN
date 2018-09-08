@@ -157,7 +157,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="remove_task_unfinished">Odstranjevanje ni dokončano</string>
   <string name="remove_unfinished">Odstranjevanje, poskusite ponovno kasneje</string>
   <string name="restore_cloud_backup_to_phone">Vrni stvari iz Mi Clouda</string>
-  <string name="restore_data_summary">Ta funkcija potrebuje spletno povezavo.</string>
+  <string name="restore_data_summary">To opravilo potrebuje spletno povezavo.</string>
   <string name="restore_data_title">Obnovi upor. podatke</string>
   <string name="restore_finished_notification_content">Vrnjene aplikacije začetnega zaslona, nastavitve sistema itd.</string>
   <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>

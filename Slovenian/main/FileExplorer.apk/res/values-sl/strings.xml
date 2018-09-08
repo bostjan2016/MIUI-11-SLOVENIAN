@@ -557,7 +557,7 @@
   <string name="notification_dialog_title">Obvestila</string>
   <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
   <string name="notification_setting">Obvestila</string>
-  <string name="notification_summary">"%1$s še ne podpira te funkcije"</string>
+  <string name="notification_summary">"%1$s še ne podpira te opravila"</string>
   <string name="notification_title">Obvesti me ko %1$s napravi datoteko</string>
   <string name="notification_wechat_auto_backup_hint">Dotaknite se da boste zvedeli več.</string>
   <string name="notification_wechat_auto_backup_switch_title">Napravi var. kopijo Chats videoposnetkov</string>

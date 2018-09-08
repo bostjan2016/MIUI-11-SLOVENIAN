@@ -220,7 +220,7 @@
   <string name="upcoming_alarm_hint">Alarm lahko izključite vnaprej</string>
   <string name="vibrate_pref_summary">Vibriraj med zvonjenjem</string>
   <string name="vibrate_when_ringing">Vibriraj med zvonenjem</string>
-  <string name="volume_button_setting_summary">Nastavi funkcijo tipk za glasnost med bujenjem</string>
+  <string name="volume_button_setting_summary">Nastavi opravilo tipk za glasnost med bujenjem</string>
   <string name="volume_button_setting_title">Tipke za glasnost</string>
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>

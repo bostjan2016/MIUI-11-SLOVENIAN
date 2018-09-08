@@ -97,7 +97,7 @@ Poskusite ponovno čez %d sekund."</string>
 
 Poskusite ponovno čez %d sekund."</string>
   <string name="low_internal_storage_view_title">Zmanjkuje prostora v notranjem pomnilniku</string>
-  <string name="low_storage_warning_message">Sprostite nekaj prostora ali pa nekatere aplikacije in funkcije sistema ne bodo pravilno delovale.</string>
+  <string name="low_storage_warning_message">Sprostite nekaj prostora ali pa nekatere aplikacije in opravila sistema ne bodo pravilno delovale.</string>
   <string name="media_controller_buffering">Shranjevanje v odložišče %d%%...</string>
   <string name="media_controller_connecting">Povezovanje...</string>
   <string name="media_controller_live">V živo</string>

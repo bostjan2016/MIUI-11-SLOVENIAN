@@ -62,14 +62,14 @@
   <string name="permdesc_downloadCacheNonPurgeable">Aplikaciji omogoči prenos datotek v predpomnilnik za prenose ki jih ni mogoče samodejno izbrisati ko upravitelj prenosov potrebuje več prostora.</string>
   <string name="permdesc_downloadCompletedIntent">Aplikaciji omogoči pošiljanje obvestil o končanih prenosih. Zlonamerne aplikacije lahko s tem zmedejo druge aplikacije ki prenašajo datoteke.</string>
   <string name="permdesc_downloadManager">Aplikaciji omogoči dostop do upravitelja prenosov in ga uporablja za prenos datotek. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
-  <string name="permdesc_downloadManagerAdvanced">Aplikaciji omogoči dostop do naprednih funkcij upravitelja prenosov. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
+  <string name="permdesc_downloadManagerAdvanced">Aplikaciji omogoči dostop do naprednih opravil upravitelja prenosov. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
   <string name="permdesc_downloadWithoutNotification">Aplikaciji omogoči prenos datotek preko upravitelja prenosov brez kakršnega koli obvestila uporabniku.</string>
   <string name="permdesc_seeAllExternal">Aplikaciji omogoči ogled vseh prenosov na zunanjem pomnilniku ne glede na to katera aplikacija jih je prenesla.</string>
   <string name="permlab_accessAllDownloads">Dostop do vseh prenosov</string>
   <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor na pomnilniku za prenose.</string>
   <string name="permlab_downloadCompletedIntent">Pošlji obvestilo o prenosu.</string>
   <string name="permlab_downloadManager">Dostop do upravitelja prenosov.</string>
-  <string name="permlab_downloadManagerAdvanced">Napredne funkcije upravitelja prenosov.</string>
+  <string name="permlab_downloadManagerAdvanced">Napredne opravila upravitelja prenosov.</string>
   <string name="permlab_downloadWithoutNotification">Prenesi brez obvestil</string>
   <string name="permlab_seeAllExternal">Odpri vse prenose na zunanjem pomnilniku</string>
   <string name="privacy_notif_content">Tapni za ogled podrobnosti.</string>

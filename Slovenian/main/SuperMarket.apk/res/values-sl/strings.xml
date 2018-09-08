@@ -284,7 +284,7 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="permdesc_downloadCacheNonPurgeable">"Omogoča aplikaciji prenos datotek v predpomnilnik prenosov ki se ne da samodejno izbrisati kadar je potrebno več prostora."</string>
   <string name="permdesc_downloadCompletedIntent">Omogoča aplikaciji pošiljanje obvestil o končanih prenosih. Zlonamerne aplikacije to lahko izkoristijo za zmedo ostalih aplikacij.</string>
   <string name="permdesc_downloadManager">Omogoča aplikaciji dostop do upravitelja prenosov in njegovo uporabo za prenose datotek. Zlonamerne aplikacije to lahko izkoristijo za motenje prevzemov.</string>
-  <string name="permdesc_downloadManagerAdvanced">"Omogoča aplikaciji dostop do naprednih funkcij upravitelja prenosov. Zlonamerne aplikacije to lahko izkoristijo za motenje prevzemov."</string>
+  <string name="permdesc_downloadManagerAdvanced">"Omogoča aplikaciji dostop do naprednih opravil upravitelja prenosov. Zlonamerne aplikacije to lahko izkoristijo za motenje prevzemov."</string>
   <string name="permdesc_downloadWithoutNotification">Aplikaciji omogoča prenos datotek preko upravitelja prenosov brez prikazovanja obvestil uporabniku.</string>
   <string name="permdesc_seeAllExternal">Omogoča aplikaciji da vidi vse prenose na SD kartici.</string>
   <string name="permission_button">Dovoljenja (%1$s)</string>
@@ -297,7 +297,7 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor v predpomnilniku prenosov</string>
   <string name="permlab_downloadCompletedIntent">Pošljite obvestila o prenosih.</string>
   <string name="permlab_downloadManager">Dostopite do upravitelja za prenos</string>
-  <string name="permlab_downloadManagerAdvanced">Napredne funkcije upravitelja za prenos</string>
+  <string name="permlab_downloadManagerAdvanced">Napredne opravila upravitelja za prenos</string>
   <string name="permlab_downloadWithoutNotification">Prenesi datoteke brez obvestila</string>
   <string name="permlab_seeAllExternal">Prikaz vseh prenosov na USB/SD shrambo</string>
   <string name="pref_category_title_update_all">Posodobi vse</string>

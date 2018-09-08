@@ -21,7 +21,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcija je testna in lahko vpljiva na zmogljivosti.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je testna in lahko vpljiva na zmogljivosti.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
   <string name="accessibility_manual_zen_less_time">Krajši čas.</string>
   <string name="accessibility_manual_zen_more_time">Daljši čas.</string>
@@ -96,7 +96,7 @@
   <string name="bluetooth_connected_no_map">Povezano (brez dostopa do obvestil) %1$s</string>
   <string name="bluetooth_connecting">Povezovanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogoči absolutno glasnost</string>
-  <string name="bluetooth_disable_absolute_volume_summary">Onemogoča Bluetooth funkcijo absolutne glasnosti če imajo oddaljene naprave težave z zvokom, kot npr. nedopustna glasnost ali neobstoječe kontrole.</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoča Bluetooth opravilo absolutne glasnosti če imajo oddaljene naprave težave z zvokom, kot npr. nedopustna glasnost ali neobstoječe kontrole.</string>
   <string name="bluetooth_disconnected">Niste povezani</string>
   <string name="bluetooth_disconnecting">Izključevanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
@@ -199,7 +199,7 @@ hitrost vzorčenja"</string>
   <string name="clear_adb_keys">Preklic dovoljenja za odpravljanje težav preko USB-a</string>
   <string name="clear_all">Izbriši vse</string>
   <string name="clear_all_message">Želite izbrisati vse podatke in stike?</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: funkcije za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite dovoliti OEM odklepanje?</string>
   <string name="connected_via_carrier">Povezan preko %1$s</string>
   <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
@@ -209,7 +209,7 @@ hitrost vzorčenja"</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovno particijo v enkripcijo datotek.
  !!Opozorilo!! Izbrisali se bodo vsi vaši podatki.
- Funkcija je v alfa verziji in mogoče ne bo delovala pravilno.
+ Opravilo je v alfa verziji in mogoče ne bo delovala pravilno.
  Pritisnite \"Izbriši in pretvori…\" za nadaljevanje."</string>
   <string name="convert_to_file_encryption">Pretvori v enkripcijo datotek</string>
   <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>
@@ -618,7 +618,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="status_unavailable">Nedostopno</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti.</string>
-  <string name="system_warning">Če zavrnete to dovoljenje osnovne funkcije naprave morda ne bodo več delovale kot bi morale.</string>
+  <string name="system_warning">Če zavrnete to dovoljenje osnovne opravila naprave morda ne bodo več delovale kot bi morale.</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor bo zbiral zapisnike ko odkrije težavo z delovanjem telefona/modema in obvesti uporabnika da prijavi programsko napako</string>
   <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
@@ -688,7 +688,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="uninstalling_notification_channel">Odstranitve v teku</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_apps_admin_dlg_text">Vaš skrbnik ne dovoli nameščanje aplikacij iz neznanih virov.</string>
-  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to funkcijo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
+  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to opravilo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
   <string name="unknown_apps_dlg_title">Namestitev je blokirana</string>
   <string name="unknown_apps_user_restriction_dlg_text">Ta uporabnik ne more nameščati neznane aplikacije</string>
   <string name="unknown_installer">Neznana PC orodja</string>

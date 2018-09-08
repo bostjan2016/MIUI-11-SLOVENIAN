@@ -70,7 +70,7 @@
   <string name="failed_to_resize_image">Ne morem spremeniti velikosti slike.</string>
   <string name="feedback_description_hint">Vnesite povratno informacijo tukaj</string>
   <string name="feedback_submit">Pošlji</string>
-  <string name="festival_networking_desc">Ta funkcija potrebuje povezavo s spletom.</string>
+  <string name="festival_networking_desc">To opravilo potrebuje povezavo s spletom.</string>
   <string name="festival_never_remind">"Ne kaži več."</string>
   <string name="festival_sms_loading">Nalaganje…</string>
   <string name="file_create_time">"Izdelano: "</string>

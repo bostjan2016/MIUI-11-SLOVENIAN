@@ -373,8 +373,8 @@
   <string name="sniff_terms_agree_new">Sprejmem se</string>
   <string name="sniff_terms_check_text">Sprejmem Pogoje dajanja storitev</string>
   <string name="sniff_terms_msg">Morate sprejeti \"Pogoji uporabe\" da začnete uporabljati drug brskalnik.</string>
-  <string name="sniff_terms_msg_a">To funkcijo iskanja dajejo razvijalci drugih proizvajalcev. Morate se strinjati z Pogoji dajanja storitev pred uporabo.</string>
-  <string name="sniff_terms_msg_b">To funkcijo iskanja dajejo razvijalci drugih proizvajalcev. Morate se strinjati z Pogoji dajanja storitev pred uporabo. Če se strinjate tapnite kljukico spodaj.</string>
+  <string name="sniff_terms_msg_a">To opravilo iskanja dajejo razvijalci drugih proizvajalcev. Morate se strinjati z Pogoji dajanja storitev pred uporabo.</string>
+  <string name="sniff_terms_msg_b">To opravilo iskanja dajejo razvijalci drugih proizvajalcev. Morate se strinjati z Pogoji dajanja storitev pred uporabo. Če se strinjate tapnite kljukico spodaj.</string>
   <string name="sniff_terms_msg_bold">Pogoji uporabe</string>
   <string name="sniff_terms_msg_bold_new">Pogoji dajanja storitev</string>
   <string name="sniff_terms_reject">Ne sprejmem</string>
@@ -486,7 +486,7 @@
   <string name="xunlei_brand">Omogočeno s strani Xunlei</string>
   <string name="xunlei_close_tips_button">Pohitri prenose</string>
   <string name="xunlei_close_tips_content">Samo za Kitajsko</string>
-  <string name="xunlei_close_tips_title">Ta funkcija se ne priporoča izven Kitajske</string>
+  <string name="xunlei_close_tips_title">To opravilo se ne priporoča izven Kitajske</string>
   <string name="xunlei_gaosu">Xunlei pospeševalnik prenosa</string>
   <string name="xunlei_member_annual_fee">Letno</string>
   <string name="xunlei_member_one_month">Mesečno</string>

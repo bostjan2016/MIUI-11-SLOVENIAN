@@ -8,7 +8,7 @@
   <string name="beam_canceled">Prenos je preklican</string>
   <string name="beam_complete">Prenos končan</string>
   <string name="beam_failed">"Ne morem predvajati"</string>
-  <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek prek funkcije Android Beam.</string>
+  <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek prek opravila Android Beam.</string>
   <string name="beam_outgoing">Prenašanje ...</string>
   <string name="beam_progress">Dohodni prenos ...</string>
   <string name="beam_requires_nfc_enabled">Za Android Beam mora biti omogočen NFC. Ali ga želite omogočiti?</string>

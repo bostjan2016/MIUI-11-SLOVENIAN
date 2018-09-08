@@ -136,7 +136,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcija je eksperimentalna in lahko vpliva na zmogljivosti.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">To opravilo je eksperimentalna in lahko vpliva na zmogljivosti.</string>
   <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
   <string name="accessibility_manual_zen_less_time">Manj časa.</string>
   <string name="accessibility_manual_zen_more_time">Več časa.</string>
@@ -535,10 +535,10 @@ hitrost vzorčenja"</string>
   <string name="call_waiting_tone_title">Obvestilo o čakajočem klicu</string>
   <string name="call_waiting_tone_twice_and_vibrate">Predvajaj zvok obveščanja in vibriraj dvakrat</string>
   <string name="call_waiting_tone_twice_only">Dvakrat predvajaj zvok obveščanja</string>
-  <string name="caller_id_summary">Skrij mojo številko za odhodne klice (prepričajte se da vaš operater podpira to funkcijo)</string>
+  <string name="caller_id_summary">Skrij mojo številko za odhodne klice (prepričajte se da vaš operater podpira to opravilo)</string>
   <string name="caller_id_title">ID klicatelja</string>
   <string name="calling_via_template">Klicanje preko %s</string>
-  <string name="callwait_open_hint">Storitev Klic na čakanju vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki se obrnite na svojega operaterja in si zagotovite da to funkcijo podpira.</string>
+  <string name="callwait_open_hint">Storitev Klic na čakanju vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki se obrnite na svojega operaterja in si zagotovite da to opravilo podpira.</string>
   <string name="can_not_call_self">"Ne morem klicati svoje številke"</string>
   <string name="can_not_use_for_not_data_sim">"(Ne morem uporabiti: Mora biti nastavljena za privzeto SIM kartico za podatke)"</string>
   <string name="cancel">Prekliči</string>
@@ -585,8 +585,8 @@ hitrost vzorčenja"</string>
   <string name="cdma_activate_device">Aktiviraj napravo</string>
   <string name="cdma_alert_message">"Če izberete drugo kartico kot privzeto za mobilne podatke ne boste mogli uporabljati vaše SIM kartice (razen v gostovanju)."</string>
   <string name="cdma_alert_title">UIM kartica mora biti privzeta</string>
-  <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira te funkcije je lahko status klicev nepravilen.</string>
-  <string name="cdma_display_precise_call_state_summary">Prepričajte se da vaš operater podpira to funkcijo</string>
+  <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira te opravila je lahko status klicev nepravilen.</string>
+  <string name="cdma_display_precise_call_state_summary">Prepričajte se da vaš operater podpira to opravilo</string>
   <string name="cdma_display_precise_call_state_title">Prikaži status klica</string>
   <string name="cdma_lte_data_service">Nastavi podatkovne nastavitve</string>
   <string name="cdma_options">CDMA možnosti</string>
@@ -721,7 +721,7 @@ hitrost vzorčenja"</string>
   <string name="confirm">Potrdi</string>
   <string name="confirmPin2Label">Potrdi novi PIN2</string>
   <string name="confirmPinLabel">Potrdi novi PIN</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: funkcije za zaščito naprave ne bodo delovale na tej napravi dokler je ta nastavitev omogočena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovale na tej napravi dokler je ta nastavitev omogočena.</string>
   <string name="confirm_enable_oem_unlock_title">Ali želite dovoliti OEM odklepanje?</string>
   <string name="confirm_password_label">Potrdite novo geslo</string>
   <string name="confirm_pin2_label">Potrdite novo PIN2</string>
@@ -749,7 +749,7 @@ hitrost vzorčenja"</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particijo v enkripcijo datotek.
  Opozorilo! Vsi vaši podatki bodo zbrisani.
- Funkcija je v alfa verziji in mogoče ne bo delovala pravilno.
+ Opravilo je v alfa verziji in mogoče ne bo delovala pravilno.
  Pritisnite \"Izbriši in pretvori…\" za nadaljevanje."</string>
   <string name="convert_to_file_encryption">Pretvori v enkripciju datotek</string>
   <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>
@@ -906,7 +906,7 @@ hitrost vzorčenja"</string>
   <string name="dialpad_zero">0</string>
   <string name="direct_boot_unaware_dialog_message">Opomba: ta plikacija se ne bo zagnala po ponovnem zagonu naprave dokler ne odklenete telefon</string>
   <string name="disable">Izklopi</string>
-  <string name="disable_all_cf">Izklopi vse funkcije posredovanja klicev</string>
+  <string name="disable_all_cf">Izklopi vse opravila posredovanja klicev</string>
   <string name="disable_cfb_forbidden">Vaš operater ne podpira izklopa posredovanja klicev ko je vaš telefon zaseden.</string>
   <string name="disable_cfnrc_forbidden">Vaš operater ne podpira izklopa posredovanja klicev ko je vaš telefon nedosegljiv.</string>
   <string name="disable_cfnry_forbidden">Vaš operater ne podpira izklopa posredovanja klicev pri neodgovorjenih klicih.</string>
@@ -1044,7 +1044,7 @@ hitrost vzorčenja"</string>
   <string name="fdn">Fiksne klicne številke</string>
   <string name="fdnListLabel">FDN seznam</string>
   <string name="fdn_activation">FDN aktivacija</string>
-  <string name="fdn_check_failure">Aplikacija Telefon ima vključeno Fiksno klicanje številk. Zaradi tega nekatere funkcije ne bodo delovale.</string>
+  <string name="fdn_check_failure">Aplikacija Telefon ima vključeno Fiksno klicanje številk. Zaradi tega nekatere opravila ne bodo delovale.</string>
   <string name="fdn_contact_added">Dodana fiksna klicna številka.</string>
   <string name="fdn_contact_deleted">Izbrisana fiksna klicna številka.</string>
   <string name="fdn_contact_updated">Posodobljena fiksna klicna številka.</string>
@@ -1094,7 +1094,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="gsm_umts_options">GSM/UMTS možnosti</string>
   <string name="hac_mode_summary">Vklopite združljivosti slušnega aparata</string>
   <string name="hac_mode_title">Slušni aparat</string>
-  <string name="handon_ringer_summary">Zmanjšajte glasnost zvonjenja za dohodni klic ko se dvigne telefon. Ta funkcija ne deluje ko je vibracija za dohodne klice vklopljena.</string>
+  <string name="handon_ringer_summary">Zmanjšajte glasnost zvonjenja za dohodni klic ko se dvigne telefon. To opravilo ne deluje ko je vibracija za dohodne klice vklopljena.</string>
   <string name="handon_ringer_title">Ustavi vibracijo ko je dvignjen</string>
   <string name="hdcp_checking_dialog_title">Nastavitve obnaš. HDCP kont.</string>
   <string name="hdcp_checking_title">HDCP kontrola</string>
@@ -1156,7 +1156,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="incall_error_turn_off_airplane_mode">Izključite Letalski način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se v omrežje WiFi če želite opraviti klic.</string>
   <string name="incall_status_dialed_mmi">Začetek zaporedja MMI ...</string>
-  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te funkcije vključite vizitko stika.</string>
+  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te opravila vključite vizitko stika.</string>
   <string name="incoming_video_show_pref_title">"Pokaži Video klicatelja"</string>
   <string name="input_password">Vnesite geslo</string>
   <string name="install_other_apps">Namestitev neznanih aplikacij</string>
@@ -1246,7 +1246,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="list_language_summary">Izberite jezik novic</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_about_info">O</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te opravila. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
   <string name="livetalk_activate">Activacija top-up package</string>
   <string name="livetalk_activate_number">Preverjanje SIM kartice</string>
   <string name="livetalk_activate_number_1">Preverjanje SIM 1</string>
@@ -1279,7 +1279,7 @@ za uporabo top-up package"</string>
   <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
   <string name="livetalk_network_unavailable">Omrežje ni dostopno</string>
   <string name="livetalk_next_step">Naprej</string>
-  <string name="livetalk_niece_price_arrow">Ta funkcija je na voljo v 13 državah in regijah</string>
+  <string name="livetalk_niece_price_arrow">To opravilo je na voljo v 13 državah in regijah</string>
   <string name="livetalk_niece_price_summary">Mednarodna tarifa, prosimo preverite cenik</string>
   <string name="livetalk_niece_price_title">V zaprtih beta preferencah</string>
   <string name="livetalk_nsufficient_balance">Premalo sredstev.</string>
@@ -1672,7 +1672,7 @@ Imate še toliko preostalih poskusov: %d."</string>
   <string name="pin2_invalid">FDN ni bil posodobljen ker ste vnesli napačen PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">Vnesli ste neveljavni PIN ali pa je ime ki ste ga vnesli predolgo.</string>
   <string name="pin2_lock_warning">"
-Funkcije povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu."</string>
+Opravila povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu."</string>
   <string name="pin2_or_fdn_invalid">FDN ni bil posodobljen. Koda PIN2 je bila napačna ali pa je bila telefonska številka zavrnjena.</string>
   <string name="pin2_unblocked">Koda PIN 2 ni več blokirana</string>
   <string name="pin_attempts">"
@@ -1835,7 +1835,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="propmpt_dialog_no_call_back_content">Povezovanje traja predolgo. Prestavljam na navaden klic, ki je lahko obračunan od ponudnika storitev.</string>
   <string name="propmpt_dialog_not_activate_sim_content">Potrdite svojo telefonsko številko da lahko začnete uporabljati paket doplačil. Še vedno lahko uporabite navaden klic, ki bo obračunan od ponudnika storitev.</string>
   <string name="propmpt_dialog_not_activate_sim_title">Telefonska številka ni preverjena</string>
-  <string name="provision_content">Ta funkcija potrebuje splet za normalno delovanje.</string>
+  <string name="provision_content">To opravilo potrebuje splet za normalno delovanje.</string>
   <string name="provision_title">Povezovanje z spletom</string>
   <string name="proximity_mode_title">Vključi senzor bližine</string>
   <string name="proximity_off_summary">Ko odgovorite na klic bo zaslon vedno vključen.</string>
@@ -1965,7 +1965,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="roaming_warning">Dovolim podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
   <string name="rsp_unlock_failed">RUIM zahtevek odklepa ponudnika storitev neuspešen.</string>
   <string name="rsp_unlock_success">RUIM odklep ponudnika storitev uspešen.</string>
-    <string name="rtt_mode_more_information">"Funkcija RTT pomaga klicateljem, ki so gluhi, naglušni, imajo govorno motnjo ali potrebujejo več kot samo glas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Več o tem&lt;/a>
+    <string name="rtt_mode_more_information">"Opravilo RTT pomaga klicateljem, ki so gluhi, naglušni, imajo govorno motnjo ali potrebujejo več kot samo glas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Več o tem&lt;/a>
        &lt;br>&lt;br> – Klici RTT se shranijo kot prepis sporočila
        &lt;br> – RTT ni na voljo pri videoklicih"</string>
     <string name="rtt_mode_summary">Dovoli izmenjavo sporočil v glasovnem klicu</string>
