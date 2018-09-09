@@ -239,7 +239,7 @@
   <string name="guide_virus_dialog_positive">Skeniraj</string>
   <string name="guide_virus_dialog_title">Antivirusno skeniranje</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
-  <string name="header_optimizer">Z uporabo te opravila pristajate na %s.</string>
+  <string name="header_optimizer">Z uporabo tega opravila pristajate na %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
   <string name="hint_clean_select_similar_image">Brisanje dvojnikov…</string>
   <string name="hints_ad_header_left">Stare datoteke</string>

@@ -193,7 +193,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_app_update">Posodobitve</string>
   <string name="app_manager_app_version_name">Različica:</string>
   <string name="app_manager_apps_generatioin">Posodobitve</string>
-  <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejše opravila</string>
+  <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejša opravila</string>
   <string name="app_manager_appupdate_remind">Obvesti o posodobitvah</string>
   <string name="app_manager_as_dlg_msg">Dovoljenje aplikacijam za samod. zagon lahko zahteva dodatni RAM in vir baterije. Vseeno dovolim?</string>
   <string name="app_manager_as_dlg_title">Pozor</string>
@@ -685,7 +685,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_prompt_all_permission">Iščem dovoljenja za vse aplikacije?</string>
-  <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te opravila?</string>
+  <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo tega opravila?</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna povezava</string>
   <string name="connect_internet_by_usbshare">Splet preko USB-a</string>
   <string name="connect_internet_by_wifi">Splet preko WiFi-ja</string>
@@ -862,7 +862,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_import_blacklist">Dodajanje…</string>
   <string name="dlg_import_whitelist">Dodajanje…</string>
   <string name="dlg_keyword_ok">Shrani</string>
-  <string name="dlg_message_not_open_stranger_identify">Za vklop te opravila, pojdite v Nastavitve &gt; Telefon.</string>
+  <string name="dlg_message_not_open_stranger_identify">Za vklop tega opravila, pojdite v Nastavitve &gt; Telefon.</string>
   <string name="dlg_move_to_white">Dodaj v izjeme</string>
   <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirani predmeti ne bodo vidni v zgodovini klicev.</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
@@ -1079,7 +1079,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fod_tips_split_screen_more_than_half">Vnesite geslo</string>
   <string name="forbid_autobright_summary">"Osvetlitev zaslona bo enaka ko igrate igrice"</string>
   <string name="forbid_autobright_title">Popravi osvetlitev zaslona</string>
-  <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani preko WiFi omrežja."</string>
+  <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovala če niste povezani preko WiFi omrežja."</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
@@ -1809,7 +1809,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optimize_result_button_to_set">Nastavi</string>
   <string name="optimize_result_button_update_now">Posodobi</string>
   <string name="optimize_result_header_view_summary">Povečaj hitrost</string>
-  <string name="optimize_result_summary_sucurity_risk">Nekatere varnostne opravila so izključene. Vključite jih za večjo varnost:</string>
+  <string name="optimize_result_summary_sucurity_risk">Nekatera varnostna opravila so izključena. Vključite jih za večjo varnost:</string>
   <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in varnost sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
   <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
@@ -2383,7 +2383,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="saving_conflict_dialog_title">Pozor</string>
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Omejili ste omrežno povezavo in dostop do lokacije za aplikacijo Varnost. Dajte aplikaciji potrebna dovoljenja za uporabo te storitve.</string>
-  <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te opravila"</string>
+  <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati tega opravila"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
   <string name="sc_warning_updater_not_found">"Aplikacija Posodobitev ni najdena."</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
@@ -3087,7 +3087,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
   <string name="try_game">Poskusi</string>
-  <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo nove opravila Varnost</string>
+  <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo novega opravila Varnost</string>
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
@@ -3180,7 +3180,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_expiry_date">Aktivno do %s</string>
   <string name="xiaomi_traffic_pass_in_use">Uporablja</string>
   <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke kartice. Prestavim zdaj?</string>
-  <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira te opravila"</string>
+  <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira tega opravila"</string>
   <string name="xiaomi_traffic_pass_notify_content_using">Preostalo %s</string>
   <string name="xiaomi_traffic_pass_notify_title_using">Uporablja se Mi Data načrt</string>
   <string name="xiaomi_traffic_pass_pass_activate_msg">Najden je Mi Data Načrt. Vključim?</string>

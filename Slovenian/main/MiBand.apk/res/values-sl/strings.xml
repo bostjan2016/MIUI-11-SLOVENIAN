@@ -318,7 +318,7 @@ Naslov: %2$s"</string>
   <string name="enable_broadcast">Vključi način dela odkrivanja</string>
   <string name="enable_id_broadcast_comments">Vključite vidljivost napravam v bližini in da se lahko poveže z njimi</string>
   <string name="enable_id_broadcast_query">Vključim način dela odkrivanja?</string>
-  <string name="enable_id_broadcast_query_msg">Izključitev te opravila lahko malo zmanjša trajanje baterije</string>
+  <string name="enable_id_broadcast_query_msg">Izključitev tega opravila lahko malo zmanjša trajanje baterije</string>
   <string name="enable_id_broadcast_tips">Vključite da bo viden napravam v bližini</string>
   <string name="enable_incoming_call_alert">Vključi obvestila za dohodne klice</string>
   <string name="enable_incoming_call_alert_tips">Mi Band bo vibriral ob dohodnih klicih</string>
@@ -653,7 +653,7 @@ razpona merjenja (%s)"</string>
   <string name="mili_low_battery_title">Napolnite svoj Mi Band</string>
   <string name="mili_not_connected">"Mi Band ni povezan"</string>
   <string name="mili_not_weared">Ni podataka sinočnjega spanja.</string>
-  <string name="mili_pro_display_item_title">Izberite naslednje opravila ki bodo prikazane na Mi Bandu</string>
+  <string name="mili_pro_display_item_title">Izberite naslednja opravila ki bodo prikazane na Mi Bandu</string>
   <string name="mili_setting_bind_new">Seznani nov Mi Band</string>
   <string name="mili_setting_charge_full">Baterija polna</string>
   <string name="mili_setting_charging">Polnjenje…</string>

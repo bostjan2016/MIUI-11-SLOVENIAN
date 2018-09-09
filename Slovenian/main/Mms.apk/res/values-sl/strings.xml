@@ -410,7 +410,7 @@
   <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">Dovoli</string>
   <string name="networking_allow_desc">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi ponudili brezplačne tekstne in govorne storitve, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge opravila, Mi Sporočila uporabljajo Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
-  <string name="networking_allow_desc_without_mx">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge opravila, Mi Sporočila uporablja Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druga opravila, Mi Sporočila uporablja Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>
   <string name="networking_allow_title">Pozor</string>
   <string name="new_message">Novo sporočilo</string>
   <string name="new_message_arrived">Imate novo sporočilo</string>

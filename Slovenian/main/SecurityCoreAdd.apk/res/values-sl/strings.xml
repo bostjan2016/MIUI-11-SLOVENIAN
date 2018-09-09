@@ -5,7 +5,7 @@
   <string name="PrivacyContactDes1">"Stiki bodo postali zasebni.
 Sporočila se bodo pojavila samo v Drugem prostoru."</string>
   <string name="PrivacyContactDes2">"Če ste uporabljali zasebna sporočila v Prvem prostoru
-bo to opravilo samodejno dodana v Drugi prostor."</string>
+bo to opravilo samodejno dodano v Drugi prostor."</string>
   <string name="about_ent_mode">O načinu Enterprise</string>
   <string name="activate_ent_mode">Aktiviraj način Enterprise</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
@@ -274,9 +274,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="scanner_second_space_fingerprint">Skeniraj prstni odtis za Drugi prostor</string>
   <string name="sdcardfs_dialog_message">MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za rešitev te težave sledite korakom za namestitev posodobitve. Vaša naprava se bo dvakrat ponovno zagnala v toku te posodobitve.</string>
   <string name="sdcardfs_dialog_title">Pomembna posodobitev</string>
-  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za posodobitev prestavite predmete iz Drugega prostora, ponovno zaženite napravo in ponovno ustvarite Drugi prostor.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovale pravilno."</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 ima nov datotečni sistem. Stari podatki mogoče ne bodo kompatibilni z njim. Za posodobitev prestavite predmete iz Drugega prostora, ponovno zaženite napravo in ponovno ustvarite Drugi prostor.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
   <string name="sdcradfs_dialog_in_owner_title">Drugi prostor</string>
-  <string name="sdcradfs_dialog_in_sec_message">"Za posodobitev morate izbrisati Drugi prostor in ga ponovno ustvariti. Premestite podatke iz Drugega prostora v Prvi prostor in ponovo zaženite napravo da dokončate posodobitev.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovale pravilno."</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Za posodobitev morate izbrisati Drugi prostor in ga ponovno ustvariti. Premestite podatke iz Drugega prostora v Prvi prostor in ponovo zaženite napravo da dokončate posodobitev.\nČe ne posodobite, dvojne aplikacije mogoče ne bodo delovala pravilno."</string>
   <string name="sdcradfs_dialog_in_sec_title">Pomembna posodobitev</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Ne morem najti nobene aplikacije"</string>

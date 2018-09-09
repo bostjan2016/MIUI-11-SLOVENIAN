@@ -33,7 +33,7 @@
   <string name="menu_speaker">Preklopi na zvočnik</string>
   <string name="msg_do_not_support_fm">Ta naprava ne podpira FM radia</string>
   <string name="msg_fm_starting">Začenjam...</string>
-  <string name="msg_noantenna_message">Najdenih ni nobenih slušalk. Nekatere opravila morda niso na voljo.</string>
+  <string name="msg_noantenna_message">Najdenih ni nobenih slušalk. Nekatera opravila morda niso na voljo.</string>
   <string name="new_frequency">Nova frekvenca</string>
   <string name="next_station">Naslednja postaja</string>
   <string name="notification_rec_title">Dotaknite se za pregled posnetka</string>

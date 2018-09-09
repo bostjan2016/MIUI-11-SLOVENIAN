@@ -269,7 +269,7 @@
   <string name="pref_keep_in_memory_title">Zakleni MIUI v spomin</string>
   <string name="pref_keep_layout_summary">Spreminjanje postavitve začetnega zaslona ne bo vplivalo medsebojni položaj ikon</string>
   <string name="pref_keep_layout_title">Zaklepanje pozicij aplikacij</string>
-  <string name="pref_render_in_truecolor_summary">Izklop te opravila izboljša delovanje</string>
+  <string name="pref_render_in_truecolor_summary">Izklop tega opravila izboljša delovanje</string>
   <string name="pref_render_in_truecolor_title">Visoko kvalitetne grafike</string>
   <string name="pref_screen_transformation_type_title">Prehod zaslona</string>
   <string name="pref_wallpaper_scroll_type_title">Poravnava ozadja</string>

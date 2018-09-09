@@ -530,7 +530,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="is_scanning">Preverjam prostor za shranjevanje…</string>
   <string name="is_scanning_support_online">"Preverjam prostor za shranjevanje…      
     (Medtem lahko poslušate glasbo online)"</string>
-  <string name="karaoke_message">Prenesite in namestite Karaoke dodatek za uporabo te opravila.</string>
+  <string name="karaoke_message">Prenesite in namestite Karaoke dodatek za uporabo tega opravila.</string>
   <string name="karaoke_my_studio">Moj Studio</string>
   <string name="karaoke_negative_text">Kasneje</string>
   <string name="karaoke_positive_text">V redu</string>
@@ -988,7 +988,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="stream_quality">Kvaliteta streama</string>
   <string name="streamloadingtext">Povezujem do %s</string>
   <string name="sub_explanation">Plan podatkov glasbe</string>
-  <string name="sub_explanation_message">Plan podatkov glasbe je trenutno podprt s strani China Unicom. Vaš mobilni operater ne podpira te opravila."</string>
+  <string name="sub_explanation_message">Plan podatkov glasbe je trenutno podprt s strani China Unicom. Vaš mobilni operater ne podpira tega opravila."</string>
   <string name="subed">Vključeno</string>
   <string name="suggest_text">Osebe ki jim je to všeč</string>
   <string name="sync_only_in_wifi">Sinhr. samo preko WiFi-ja</string>

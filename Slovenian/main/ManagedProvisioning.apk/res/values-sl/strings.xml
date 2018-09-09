@@ -156,7 +156,7 @@
   <string name="terms">Pogoji</string>
   <string name="the_following_is_your_mdm">Ta aplikacija bo morala dostopati do tega profila:</string>
   <string name="the_following_is_your_mdm_for_device">Ta aplikacija bo upravljala napravo:</string>
-  <string name="theft_protection_disabled_warning">Če nadaljujete, opravila zaščite pred krajo ne bodo omogočene. Če želite vklopiti zaščito pred krajo prekličite in napravo nastavite kot osebno.</string>
+  <string name="theft_protection_disabled_warning">Če nadaljujete, opravila zaščite pred krajo ne bodo omogočena. Če želite vklopiti zaščito pred krajo prekličite in napravo nastavite kot osebno.</string>
   <string name="this_will_reset_take_back_first_screen">Naprava se bo povrnila na tovarniške nastavitve in na osnovni zaslon</string>
   <string name="url_error">Strani ni mogoče prikazati.</string>
   <string name="user_consent_msg">Sprejmem</string>

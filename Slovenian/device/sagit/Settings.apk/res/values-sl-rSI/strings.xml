@@ -300,7 +300,7 @@ hitrost vzorčenja"</string>
     <string name="condition_night_display_title">Nočna svetloba je vklopljena</string>
     <string name="condition_turn_off">Izklop</string>
     <string name="condition_turn_on">Vklop</string>
-    <string name="condition_work_summary">Aplikacije, sinhronizacija v ozadju in druge opravila, povezane z delovnim profilom, so izklopljeni.</string>
+    <string name="condition_work_summary">Aplikacije, sinhronizacija v ozadju in druge opravila, povezana z delovnim profilom, so izklopljeni.</string>
     <string name="condition_work_title">Delovni profil je izklopljen</string>
     <string name="condition_zen_title">Način »ne moti« vklopljen (%1$s)</string>
     <string name="configure">Konfiguriranje</string>
@@ -533,8 +533,8 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="lock_profile_wipe_warning_content_pattern">Če tudi tokrat vnesete nepravilni vzorec za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
     <string name="lock_profile_wipe_warning_content_pin">Če tudi tokrat vnesete nepravilno kodo PIN za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
     <string name="lock_profile_wipe_warning_title">Zadnji poskus</string>
-    <string name="lock_screen_intro_skip_dialog_text">Opravila za zaščito naprave ne bodo aktivirane. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
-    <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitne opravila naprave ne bodo aktivirane. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
+    <string name="lock_screen_intro_skip_dialog_text">Opravila za zaščito naprave ne bodo aktivirana. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitna opravila naprave ne bodo aktivirana. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
     <string name="lock_screen_notifications_interstitial_message_profile">Kako naj se obvestila o profilu prikazujejo, ko je naprava zaklenjena?</string>
     <string name="lock_screen_notifications_interstitial_title_profile">Obvestila o profilu</string>
     <string name="lock_screen_notifications_summary_disable_profile">Ne prikazuj obvestil za delovni profil</string>
@@ -814,7 +814,7 @@ To lahko naredijo vsi dodani prstni odtisi, zato pazljivo.
 Opomba: prstni odtis ni tako varen kot močno geslo ali PIN."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Pixel Imprint omogoča uporabo prstnega odtisa za odobritev nakupov ali prijavo v aplikacije.
 
-Pazite čigave odtise dodajate. Vsak doda se lahko uporabi za vsa ta opravila.
+Pazite čigave odtise dodajate. Vsak dodan se lahko uporabi za vsa ta opravila.
 
 Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko dobite od skrbnika v svoji organizaciji."</string>
     <string name="security_settings_fingerprint_preference_summary_none">Dotaknite se, da nastavite prstni odtis</string>
@@ -835,7 +835,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
     <string name="setup_fingerprint_enroll_enrolling_skip_message">Za odklepanja telefona ste izbrali možnost prstnega odtisa. Če zdaj preskočite, boste to morali nastaviti pozneje. Nastavitev traja samo približno eno minuto.</string>
     <string name="setup_fingerprint_enroll_enrolling_skip_title">Želite preskočiti nast. prstnega odtisa?</string>
     <string name="setup_lock_settings_picker_fingerprint_message">Zaradi večje varnosti nastavite nadomestno zaklepanje zaslona.</string>
-    <string name="setup_lock_settings_picker_message">Vklopite zaščitne opravila naprave, da drugim preprečite uporabo tega telefona brez vašega dovoljenja. Izberite zaklepanje zaslona, ki ga želite uporabljati.</string>
+    <string name="setup_lock_settings_picker_message">Vklopite zaščitna opravila naprave, da drugim preprečite uporabo tega telefona brez vašega dovoljenja. Izberite zaklepanje zaslona, ki ga želite uporabljati.</string>
     <string name="setup_lock_settings_picker_title">Zaščita telefona</string>
     <string name="share_remote_bugreport_action">Skupna raba</string>
     <string name="share_remote_bugreport_dialog_message">Skrbnik za IT je zahteval poročilo o napakah za pomoč pri odpravljanju napak v tej napravi. Aplikacije in podatki bodo morda dani v skupno rabo in delovanje naprave bo morda začasno upočasnjeno.</string>
@@ -930,7 +930,7 @@ Več informacij v Googleovim "<a href="https://www.google.com/policies/privacy/"
     <string name="target_opt_in_backup_auth_setup_wizard_close_button_label">Zapri</string>
     <string name="target_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">Če vklopite samodejno varnostno kopiranje, se podatki v napravi redno shranjujejo v Google Račun. Med varnostno kopiranimi podatki so morda podatki iz map s podatki aplikacij, kot so izbire, nastavitve, sporočila, fotografije in druge datoteke.</string>
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
-    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo s opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
+    <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo z opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="telephony_monitor_toast">Če želite uveljaviti spremembo nadziranja telefonije, znova zaženite napravo</string>
     <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogoče vzpostaviti povezave z internetom prek mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Internetna povezava prek telefona</string>
@@ -973,37 +973,37 @@ Medtem lahko nadaljujete nastavljanje naprave %1$s."</string>
     <string name="tts_sliders_title">Hitrost in višina tona govora</string>
     <string name="tts_spoken_language">Govorjeni jezik</string>
     <string name="uninstall_device_admin">Odstrani aplikacijo</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Opravila za zaščito naprave ne bodo delovale brez gesla.
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Opravila za zaščito naprave ne bodo delovala brez gesla.
 
 Iz naprave bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Opravila za zaščito profila ne bodo delovale brez gesla.
+    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Opravila za zaščito profila ne bodo delovala brez gesla.
 
 Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_password_profile">Opravila za zaščito profila ne bodo delovale brez gesla.</string>
-    <string name="unlock_disable_frp_warning_content_pattern">Opravila za zaščito naprave ne bodo delovale brez vzorca.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Opravila za zaščito naprave ne bodo delovale brez vzorca.
+    <string name="unlock_disable_frp_warning_content_password_profile">Opravila za zaščito profila ne bodo delovala brez gesla.</string>
+    <string name="unlock_disable_frp_warning_content_pattern">Opravila za zaščito naprave ne bodo delovala brez vzorca.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Opravila za zaščito naprave ne bodo delovala brez vzorca.
 
 Iz naprave bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Opravila za zaščito profila ne bodo delovale brez vzorca.
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Opravila za zaščito profila ne bodo delovala brez vzorca.
 
 Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_pattern_profile">Opravila za zaščito profila ne bodo delovale brez vzorca.</string>
-    <string name="unlock_disable_frp_warning_content_pin">Opravila za zaščito naprave ne bodo delovale brez kode PIN.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Opravila za zaščito naprave ne bodo delovale brez kode PIN.
+    <string name="unlock_disable_frp_warning_content_pattern_profile">Opravila za zaščito profila ne bodo delovala brez vzorca.</string>
+    <string name="unlock_disable_frp_warning_content_pin">Opravila za zaščito naprave ne bodo delovala brez kode PIN.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Opravila za zaščito naprave ne bodo delovala brez kode PIN.
 
 Iz naprave bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Opravila za zaščito profila ne bodo delovale brez kode PIN.
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Opravila za zaščito profila ne bodo delovala brez kode PIN.
 
 Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_pin_profile">Opravila za zaščito profila ne bodo delovale brez kode PIN.</string>
-    <string name="unlock_disable_frp_warning_content_unknown">Opravila za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Opravila za zaščito naprave ne bodo delovale brez zaklepanja zaslona.
+    <string name="unlock_disable_frp_warning_content_pin_profile">Opravila za zaščito profila ne bodo delovala brez kode PIN.</string>
+    <string name="unlock_disable_frp_warning_content_unknown">Opravila za zaščito naprave ne bodo delovala brez zaklepanja zaslona.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Opravila za zaščito naprave ne bodo delovala brez zaklepanja zaslona.
 
 Iz naprave bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Opravila za zaščito profila ne bodo delovale brez zaklepanja zaslona.
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Opravila za zaščito profila ne bodo delovala brez zaklepanja zaslona.
 
 Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli več uporabljati."</string>
-    <string name="unlock_disable_frp_warning_content_unknown_profile">Opravila za zaščito profila ne bodo delovale brez zaklepanja zaslona.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_profile">Opravila za zaščito profila ne bodo delovala brez zaklepanja zaslona.</string>
     <string name="unlock_disable_frp_warning_title_profile">Želite odstraniti zaščito profila?</string>
     <string name="unlock_set_do_later_title">Ne zdaj</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s po stanju pripravljenosti</string>
@@ -1036,7 +1036,7 @@ Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli ve�
     <string name="user_lockscreen_settings">Nastavitve zaklepanja zaslona</string>
     <string name="users_and_accounts_summary">Trenutni uporabnik: %1$s</string>
     <string name="users_summary">Prijavljeni ste kot %1$s</string>
-    <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. Te opravila za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
+    <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. To opravilo za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
     <string name="vision_settings_title">Nastavitve vidnosti</string>
     <string name="volte_provisioned_switch_string">Pripravljeno za uporabo tehnologije VoLTE</string>
     <string name="vpn_always_on_invalid_reason_dns">Za stalno vklopljeno omrežje VPN morajo biti naslovi strežnikov DNS številski.</string>

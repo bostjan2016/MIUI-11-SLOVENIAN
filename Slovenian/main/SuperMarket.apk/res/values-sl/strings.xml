@@ -297,7 +297,7 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor v predpomnilniku prenosov</string>
   <string name="permlab_downloadCompletedIntent">Pošljite obvestila o prenosih.</string>
   <string name="permlab_downloadManager">Dostopite do upravitelja za prenos</string>
-  <string name="permlab_downloadManagerAdvanced">Napredne opravila upravitelja za prenos</string>
+  <string name="permlab_downloadManagerAdvanced">Napredna opravila upravitelja za prenos</string>
   <string name="permlab_downloadWithoutNotification">Prenesi datoteke brez obvestila</string>
   <string name="permlab_seeAllExternal">Prikaz vseh prenosov na USB/SD shrambo</string>
   <string name="pref_category_title_update_all">Posodobi vse</string>

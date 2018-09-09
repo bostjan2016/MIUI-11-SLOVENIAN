@@ -178,7 +178,7 @@
   <string name="chooseUsbActivity">"Izbira aplikacije za USB napravo"</string>
   <string name="choose_profile">Izbira profila</string>
   <string name="clear_adb_keys">Preklic autorizacij za odstranjevanje napak preko USB-a</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovala dokler je ta nastavitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite dovoliti OEM odklepanje?</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezano preko WiFi pomočnika</string>

@@ -39,7 +39,7 @@
   <string name="notify_device_lose_connection_title">Povezava z %1$s je izgubljena</string>
   <string name="ok_button">"V redu"</string>
   <string name="progress_scanning">Iskanje…</string>
-  <string name="reset_function_msg">Ponastavitev te opravila lahko prepreči %1$s normalno delo.</string>
+  <string name="reset_function_msg">Ponastavitev tega opravila lahko prepreči %1$s normalno delo.</string>
   <string name="some_app_taking">(%1$s že uporablja to opravilo…)</string>
   <string name="unbind_device_alert_cancel">Prekini</string>
   <string name="unbind_device_alert_content">Povezava z %1$s je izgubljena. Da varčujete z baterijo, prekinite povezavo z to napravo.</string>

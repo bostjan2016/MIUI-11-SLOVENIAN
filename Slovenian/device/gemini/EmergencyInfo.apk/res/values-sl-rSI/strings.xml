@@ -125,14 +125,14 @@
   <string name="clear_adb_keys">Preklic pooblastil za odpravljanje težav z USB</string>
   <string name="clear_all">Izbriši vse</string>
   <string name="clear_all_message">Ali želite izbrisati vse podatke in stike?</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovala dokler je ta nastavitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite dovoliti OEM odklepanje?</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezani preko pomočnika za WiFi</string>
   <string name="content_description_menu_button">Meni</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovno particijo v enkripcijo datotek.
  Opozorilo! S tem se bodo izbrisali vsi vaši podatki.
- Opravilo je v alfa verziji in mogoče ne bo delovala pravilno.
+ Opravilo je v alfa verziji in mogoče ne bo delovalo pravilno.
  Pritisnite \"Izbriši in pretvori…\" za nadaljevanje."</string>
   <string name="convert_to_file_encryption">Pretvori v enkripcijo datotek</string>
   <string name="convert_to_file_encryption_done">Datoteke so že šifrirane</string>

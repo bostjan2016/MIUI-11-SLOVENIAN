@@ -467,7 +467,7 @@ hitrost vzorčenja"</string>
   <string name="compat_mode_off">Raztegni in zapolni zaslon</string>
   <string name="compat_mode_on">Zumiraj in zapolni zaslon</string>
   <string name="confirm">Razumem</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: storitve zaščite naprave ne bodo delovale, dokler je ta storitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: storitve zaščite naprave ne bodo delovala, dokler je ta storitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Dovolite OEM odklep?</string>
   <string name="confirm_pin_msg">Vnesite PIN ponovno</string>
   <string name="connected_via_carrier">Povezano preko %1$s</string>
@@ -747,7 +747,7 @@ hitrost vzorčenja"</string>
     <string name="high_temp_dialog_message">"Telefon se bo samodejno poskusil ohladiti. Še naprej ga lahko uporabljate, vendar bo morda deloval počasneje.
 
 Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
-    <string name="high_temp_notif_message">Nekatere opravila bodo med ohlajanjem omejene.</string>
+    <string name="high_temp_notif_message">Nekatera opravila bodo med ohlajanjem omejena.</string>
     <string name="high_temp_title">Telefon se segreva</string>
     <string name="home">Začetna stran nastavitev</string>
   <string name="hour_minute_time_format">HH:mm</string>
@@ -1474,7 +1474,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="reject_call">Klic zavrnjen</string>
   <string name="remaining_length_format">Še %1$s</string>
     <string name="remove_from_settings">Odstrani iz nastavitev</string>
-    <string name="remove_from_settings_prompt">Ali želite odstraniti Uglaševalnik uporabniškega vmesnika sistema iz nastavitev in prenehati uporabljati vse njegove opravila?</string>
+    <string name="remove_from_settings_prompt">Ali želite odstraniti Uglaševalnik uporabniškega vmesnika sistema iz nastavitev in prenehati uporabljati vsa njegova opravila?</string>
   <string name="report_rejected_touch">Prijavite odbiti dotik</string>
     <string name="reset">Ponastavi</string>
     <string name="retail_demo_reset_message">Geslo za tovar. nast. v predstav. načinu</string>
@@ -1696,8 +1696,8 @@ morda nadzira"</string>
   <string name="structure_face_unlock_model_other">Ostalo</string>
   <string name="structure_face_unlock_model_other_msg_2d">2D prepoznavanje</string>
   <string name="structure_face_unlock_model_other_msg_3d">3D prepoznavanje</string>
-  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obraza je manj varno od vzorca, PIN-a, ali gesla. Kadar je to opravilo vključenoa se naprava lahko odklene z vašo fotografijo kot tudi z fotografijo vam podobnih ljudi.</string>
-  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je to opravilo vključena. Toda ljudje ali predmeti ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
+  <string name="structure_face_unlock_model_other_suggestion_2d">2D prepoznavanje obraza je manj varno od vzorca, PIN-a, ali gesla. Kadar je to opravilo vključeno se naprava lahko odklene z vašo fotografijo kot tudi z fotografijo vam podobnih ljudi.</string>
+  <string name="structure_face_unlock_model_other_suggestion_3d">"3D prepoznavanje obraza je relativno varno. Zelo malo je verjetno da se vaša naprava lahko odklene z vašo fotografijo kadar je to opravilo vključenoo. Toda ljudje ali predmeti ki so vam podobni mogoče lahko odklenejo vašo napravo."</string>
   <string name="structure_face_unlock_model_other_title">Prepoznavanje obraza</string>
   <string name="structure_face_unlock_not_same_person">"Sami morate izvršiti vse korake. Ne menjajte mesta z nikomer."</string>
   <string name="structure_face_unlock_really_person">"Kaže da ste zamenjali obraz z nekim objektom."</string>
@@ -1782,7 +1782,7 @@ Telefon lahko postane prevroč ob:
     <string name="tuner_right">Desno</string>
     <string name="tuner_time">Ura</string>
     <string name="tuner_toast">Čestitke! Uglaševalnik uporabniškega vmesnika sistema je bil dodan v nastavitve.</string>
-    <string name="tuner_warning">Uglaševalnik uporabniškega vmesnika sistema vam omogoča dodatne načine za spreminjanje in prilagajanje uporabniškega vmesnika Android. Te poskusne opravila lahko v prihodnjih izdajah kadar koli izginejo, se spremenijo ali pokvarijo. Bodite previdni.</string>
+    <string name="tuner_warning">Uglaševalnik uporabniškega vmesnika sistema vam omogoča dodatne načine za spreminjanje in prilagajanje uporabniškega vmesnika Android. Ta poskusna opravila lahko v prihodnjih izdajah kadar koli izginejo, se spremenijo ali pokvarijo. Bodite previdni.</string>
     <string name="tuner_warning_title">Zabavno za nekatere, a ne za vse</string>
   <string name="un_important_notifications">Nepomembna obvestila</string>
   <string name="unimportant_desc">Vsa nepomembna obvestila se bodo pojavila v zasebni mapi.</string>

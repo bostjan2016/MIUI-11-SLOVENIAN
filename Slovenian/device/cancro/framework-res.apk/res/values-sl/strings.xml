@@ -555,7 +555,7 @@ Znova poskusite čez %d s."</string>
   <string name="lockscreen_transport_rew_description">Previj nazaj</string>
   <string name="lockscreen_transport_stop_description">Ustavi</string>
   <string name="lockscreen_unlock_label">Odkleni</string>
-  <string name="low_internal_storage_view_text">Nekatere sistemske opravila morda ne bodo delovale</string>
+  <string name="low_internal_storage_view_text">Nekatera sistemska opravila morda ne bodo delovala</string>
   <string name="low_internal_storage_view_text_no_boot">V pomnilniku ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
   <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
   <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
@@ -757,7 +757,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov ki jih pozna telefon. To lahko vključuje račune ki so jih ustvarili nameščene aplikacije.</string>
   <string name="permdesc_getPackageSize">Aplikaciji omogoča da pridobi njegovo kodo, podatke in velikosti predpomnilnika.</string>
   <string name="permdesc_getTasks">Aplikaciji omogoča prejemanje podatkov o trenutnih in nedavno izvajajočih se opravilih. S tem lahko aplikacija odkrije podatke o aplikacijah ki se uporabljajo v napravi.</string>
-  <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih s opravilom Android Beam</string>
+  <string name="permdesc_handoverStatus">Aplikaciji omogoča prejemanje podatkov o trenutnih prenosih z opravilom Android Beam</string>
   <string name="permdesc_install_shortcut">Aplikaciji omogoča dodajanje bližnjic na začetni zaslon brez posredovanja uporabnika.</string>
   <string name="permdesc_invokeCarrierSetup">Lastniku omogoča sproženje operaterjeve aplikacije za konfiguracijo. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_killBackgroundProcesses">Aplikaciji omogoča da konča procese v ozadju drugih aplikacij. S tem lahko druge aplikacije nehajo delovati.</string>
@@ -794,7 +794,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_sdcardRead">Aplikaciji omogoča branje vsebine shrambe USB.</string>
   <string name="permdesc_sdcardWrite">Aplikaciji omogoča zapisovanje v pomnilnik USB.</string>
   <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS sporočil. To lahko povzroči dodatne stroške brez vaše odobritve.</string>
-  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te opravila.</string>
+  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo tega opravila.</string>
   <string name="permdesc_setInputCalibration">Aplikaciji dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setTimeZone">Aplikaciji omogoča spreminjanje časovnega pasu v telefonu.</string>
   <string name="permdesc_setWallpaper">Aplikaciji omogoča nastavitev ozadja sistema.</string>
@@ -879,7 +879,7 @@ za račun %s."</string>
   <string name="permlab_getAccounts">iskanje računov v napravi</string>
   <string name="permlab_getPackageSize">izračunavanje prostora za shranjevanje aplikacij</string>
   <string name="permlab_getTasks">dobivanje aplikacij ki se izvajajo</string>
-  <string name="permlab_handoverStatus">Prejemanje stanja prenosov s opravilom Android Beam</string>
+  <string name="permlab_handoverStatus">Prejemanje stanja prenosov z opravilom Android Beam</string>
   <string name="permlab_install_shortcut">nameščanje bližnjic</string>
   <string name="permlab_invokeCarrierSetup">sprožitev operaterjeve aplikacije za konfiguracijo</string>
   <string name="permlab_killBackgroundProcesses">zapiranje drugih aplikacij</string>

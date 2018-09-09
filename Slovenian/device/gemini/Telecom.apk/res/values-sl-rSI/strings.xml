@@ -104,7 +104,7 @@
   <string name="charge_length_format">Pred toliko časa: %1$s</string>
   <string name="choose_profile">Izbira profila</string>
   <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, opravila za zaščito naprave v tej napravi ne bodo delovala.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
   <string name="connected_via_wfa">Povezava vzpostavljena preko pomočnika za WiFi</string>

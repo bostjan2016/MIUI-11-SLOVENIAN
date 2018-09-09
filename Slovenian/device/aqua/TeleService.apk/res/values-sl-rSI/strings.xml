@@ -419,7 +419,7 @@
   <string name="cdma_activate_device">Vklop naprave</string>
   <string name="cdma_alert_message">"Če izberete drugo kartico kot privzeto za mobilne podatke ne boste mogli uporabljati vaše SIM kartice (razen v gostovanju)."</string>
   <string name="cdma_alert_title">UIM kartica mora biti privzeta</string>
-  <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira te opravila je lahko status klicev nepravilen.</string>
+  <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira tega opravila je lahko status klicev nepravilen.</string>
   <string name="cdma_display_precise_call_state_summary">Prepričajte se da vaš operater podpira to opravilo</string>
   <string name="cdma_display_precise_call_state_title">Prikaži status klica</string>
   <string name="cdma_lte_data_service">Nastavite podatkovni prenos</string>
@@ -472,7 +472,7 @@
   <string name="confirm">Potrdi</string>
   <string name="confirmPin2Label">Potrdi novi PIN2</string>
   <string name="confirmPinLabel">Potrdi novi PIN</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, opravila za zaščito naprave v tej napravi ne bodo delovala.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="confirm_password_label">Potrdite novo geslo</string>
   <string name="confirm_pin2_label">Potrdite novo PIN2</string>
@@ -752,7 +752,7 @@
   <string name="fdn">Fiksne klicne številke</string>
   <string name="fdnListLabel">FDN seznam</string>
   <string name="fdn_activation">FDN aktivacija</string>
-  <string name="fdn_check_failure">Aplikacija Telefon ima vključeno Fiksno klicanje številk. Zaradi tega nekatere opravila ne bodo delovale.</string>
+  <string name="fdn_check_failure">Aplikacija Telefon ima vključeno Fiksno klicanje številk. Zaradi tega nekatera opravila ne bodo delovala.</string>
   <string name="fdn_contact_added">Dodana fiksna klicna številka.</string>
   <string name="fdn_contact_deleted">Izbrisana fiksna klicna številka.</string>
   <string name="fdn_contact_updated">Posodobljena fiksna klicna številka.</string>
@@ -858,7 +858,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="incall_error_turn_off_airplane_mode">Izključite Letalski način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se v omrežje WiFi če želite opraviti klic.</string>
   <string name="incall_status_dialed_mmi">Začetek zaporedja MMI ...</string>
-  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te opravila vključite vizitko stika.</string>
+  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo tega opravila vključite vizitko stika.</string>
   <string name="incoming_video_show_pref_title">"Pokaži Video klicatelja"</string>
   <string name="input_password">Vnesite geslo</string>
   <string name="internation_remain_minutes">（ali %1$s %2$s mednarodnega časa razgovora）</string>
@@ -943,7 +943,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="list_language_summary">Izberite jezik novic</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_about_info">O</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te opravila. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo tega opravila. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te storitve, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
   <string name="livetalk_activate">Activacija top-up package</string>
   <string name="livetalk_activate_number">Preverjanje SIM kartice</string>
   <string name="livetalk_activate_number_1">Preverjanje SIM 1</string>
@@ -1363,7 +1363,7 @@ Imate še toliko poskusov: %d."</string>
   <string name="pin2_invalid">FDN ni bil posodobljen ker ste vnesli napačen PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">Vnesli ste neveljavni PIN ali pa je ime ki ste ga vnesli predolgo.</string>
   <string name="pin2_lock_warning">"
-Opravila povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu."</string>
+Opravila povezana z PIN2 bodo zaklenjena po ponovnem napačnem vnosu."</string>
   <string name="pin2_or_fdn_invalid">FDN ni bil posodobljen. Koda PIN2 je bila napačna ali pa je bila telefonska številka zavrnjena.</string>
   <string name="pin2_unblocked">Koda PIN 2 ni več blokirana</string>
   <string name="pin_attempts">"

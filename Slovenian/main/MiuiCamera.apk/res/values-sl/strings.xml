@@ -583,7 +583,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_watermark_style_title">Dodaj oznako časa na fotografijo</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik...</string>
   <string name="record_back_pressed_hint">Ponovno se dotakni če hočeš prenehati s snemanjem</string>
-  <string name="screen_on_proximity_sensor_hint">Za izklop te opravila istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
+  <string name="screen_on_proximity_sensor_hint">Za izklop tega opravila istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>
   <string name="see_qrcode_detals">Prikaži podrobnosti QR kode</string>
   <string name="setting_top_text">Možnosti</string>

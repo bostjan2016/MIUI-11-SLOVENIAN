@@ -734,7 +734,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="miprofile_alertdialog_edit">Vnesite ime</string>
   <string name="miprofile_alertdialog_message">Prikaži to ime stikom kadar zahtevajo menjavo vizitk.</string>
   <string name="miprofile_alertdialog_title">Vnesite ime</string>
-  <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo te opravila."</string>
+  <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo tega opravila."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Dodaj številko</string>
   <string name="miprofile_bind_account_alertdialog_title">Dodaj številko telefona</string>
   <string name="miprofile_contact_add">Dodaj</string>

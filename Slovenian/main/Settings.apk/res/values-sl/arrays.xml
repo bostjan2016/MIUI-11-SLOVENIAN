@@ -841,8 +841,8 @@
         <item>"Lahko upočasni zmogljivost naprave"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-      <item>Ponovno zaženem za uporabo te opravila?</item>
-        <item>Ponovno zaženem napravo za uporabo te opravila?</item>
+      <item>Ponovno zaženem za uporabo tega opravila?</item>
+        <item>Ponovno zaženem napravo za uporabo tega opravila?</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Vsak dan</item>

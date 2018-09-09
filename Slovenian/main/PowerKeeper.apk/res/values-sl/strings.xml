@@ -75,7 +75,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="hints_loading_text">Nalaganje…</string>
   <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
   <string name="lasttime_applist_cloud">Posodobljene aplikacije:</string>
-  <string name="lasttime_feature_cloud">Posodobljene opravila:</string>
+  <string name="lasttime_feature_cloud">Posodobljena opravila:</string>
   <string name="message_i_know">Razumem</string>
   <string name="important_warning">Pozor</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
@@ -173,7 +173,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_config_ultimate_off_already">Ultimativen način izključen</string>
   <string name="power_config_ultimate_on_already">Ultimativen način vključen</string>
   <string name="power_config_ultimate_title">Ultimativno</string>
-  <string name="power_config_ultimate_unlock_already">Vse opravila so odklenjene</string>
+  <string name="power_config_ultimate_unlock_already">Vse opravila so odklenjena</string>
   <string name="power_configure_screen_brightness_enable">Nastavite osvetlitev zaslona</string>
   <string name="power_consume_abnormal_night">Baterija se je ponoči spraznila</string>
   <string name="power_customize_giveup_change">Zavržem spremembe?</string>
@@ -242,5 +242,5 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="vip_feedback_apply_msg">Prosimo kontaktirajte qiufeng@xiaomi.com za uporabo VIP Feedback</string>
   <string name="vip_feedback_enable">Vklopi VIP Feedback</string>
   <string name="warm_configure">Nastavtve kotrole temperature</string>
-  <string name="warm_performance_tip">Vaša naprava bo toplejša kadaz je zagnanih več opravil.</string>
+  <string name="warm_performance_tip">Vaša naprava bo toplejša kadar je zagnanih več opravil.</string>
 </resources>

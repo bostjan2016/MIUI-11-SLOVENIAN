@@ -109,7 +109,7 @@
   <string name="android_upgrading_apk">Optimiziranje aplikacije %1$d od %2$d.</string>
   <string name="android_upgrading_complete">Dokončevanje zagona.</string>
   <string name="android_upgrading_fstrim">Optimiziranje shrambe.</string>
-  <string name="android_upgrading_notification_body">Nekatere aplikacije morda ne bodo delovale pravilno, dokler ne bo dokončana nadgradnja.</string>
+  <string name="android_upgrading_notification_body">Nekatere aplikacije morda ne bodo delovala pravilno, dokler ne bo dokončana nadgradnja.</string>
   <string name="android_upgrading_notification_title">Dokončanje posodobitve Androida …</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
@@ -745,7 +745,7 @@ Obiščite "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
-  <string name="lockscreen_storage_locked">Odklenite za vse opravila in podatke</string>
+  <string name="lockscreen_storage_locked">Odklenite za vsa opravila in podatke</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
@@ -764,7 +764,7 @@ Znova poskusite čez %d s."</string>
   <string name="lockscreen_transport_rew_description">Previj nazaj</string>
   <string name="lockscreen_transport_stop_description">Ustavi</string>
   <string name="lockscreen_unlock_label">Odkleni</string>
-  <string name="low_internal_storage_view_text">Nekatere sistemske opravila morda ne bodo delovale</string>
+  <string name="low_internal_storage_view_text">Nekatera sistemska opravila morda ne bodo delovala</string>
   <string name="low_internal_storage_view_text_no_boot">V pomnilniku ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
   <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
   <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
@@ -1140,7 +1140,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_manageDeviceAdmins">Imetniku omogoča da doda ali odstrani aktivne skrbnike naprave. Normalne aplikacije tega načeloma ne potrebujejo.</string>
   <string name="permdesc_manageDocs">Aplikaciji omogoči upravljanje shranjevanja dokumentov.</string>
   <string name="permdesc_manageFingerprint">Aplikaciji omogoča sprožanje načinov za dodajanje in brisanje predlog s prstnimi odtisi za uporabo.</string>
-  <string name="permdesc_manageMediaProjection">Aplikaciji omogoča upravljanje z projekcijskimi sejami multimedije. Te seje dajejo aplikacijam možnost snemanja zaslona in avdio vsebine. Navadne aplikacije verjetno ne bodo potrebovali te opravila.</string>
+  <string name="permdesc_manageMediaProjection">Aplikaciji omogoča upravljanje z projekcijskimi sejami multimedije. Te seje dajejo aplikacijam možnost snemanja zaslona in avdio vsebine. Navadne aplikacije verjetno ne bodo potrebovali tega opravila.</string>
   <string name="permdesc_manageNetworkPolicy">Aplikaciji omogoča upravljanje pravilnikov o omrežju in določanje pravil za aplikacije.</string>
   <string name="permdesc_manageOwnCalls">Omogoča aplikaciji da preusmerja klice preko sistema.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Aplikaciji omogoča upravljanje nastavitev lastnika profila in naprave.</string>
@@ -1216,7 +1216,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_sendRespondViaMessageRequest">Aplikaciji dovoli da pošilja zahteve drugim aplikacijam za sporočila za obravnavanje dogodkov z odgovori prek sporočil za dohodne klice.</string>
   <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerne aplikacije lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
   <string name="permdesc_serialPort">Imetniku omogoča da z API-jem za SerialManager dostopa do serijskih vrat.</string>
-  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te opravila.</string>
+  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo tega opravila.</string>
   <string name="permdesc_setAlwaysFinish">Aplikaciji omogoča da nadzoruje ali so dejavnosti zaključene takoj ko so premaknjene v ozadje. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setAnimationScale">Aplikaciji omogoča da kadarkoli spremeni splošno hitrost animacije (hitrejše ali počasnejše animacije).</string>
   <string name="permdesc_setDebugApp">Aplikaciji omogoča vklop opravila za odpravljanje napak za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za zapiranje drugih aplikacij.</string>
@@ -1235,7 +1235,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_signalPersistentProcesses">Aplikaciji omogoča da zahteva da je posredovani signal poslan vsem trajnim procesom.</string>
   <string name="permdesc_sim_communication">Aplikaciji dovoli pošiljanje ukazov kartici SIM. To je lahko zelo nevarno.</string>
   <string name="permdesc_startAnyActivity">Aplikaciji omogoča zagon poljubne dejavnosti, ne glede na zaščito dovoljenj ali izvoženo stanje.</string>
-  <string name="permdesc_startTasksFromRecents">Aplikaciji omogoča uporabo ActivityManager RecentTaskInfo objekta za zagon naloge ki ni več v opravili vrnjenega iz ActivityManager.</string>
+  <string name="permdesc_startTasksFromRecents">Aplikaciji omogoča uporabo ActivityManager RecentTaskInfo objekta za zagon naloge ki ni več v opravilih vrnjenih iz ActivityManager.</string>
   <string name="permdesc_statusBar">Aplikaciji omogoča onemogočenje vrstice stanja ali dodajanje in odstranjevanje ikon sistema.</string>
   <string name="permdesc_statusBarService">Aplikaciji omogoča da postane vrstica stanja.</string>
   <string name="permdesc_stopAppSwitches">Uporabniku preprečuje preklop v drugo aplikacijo.</string>
@@ -1989,7 +1989,7 @@ Preostalo poskusov :"</string>
   <string name="user_creation_adding">Dovolite aplikaciji %1$s, da ustvari novega uporabnika za račun %2$s (uporabnik s tem računom že obstaja)?</string>
   <string name="user_encrypted_detail">Uporabniški podatki zaklenjeni</string>
   <string name="user_encrypted_message">Dotaknite se, da odklenete</string>
-  <string name="user_encrypted_title">Nekatere opravila bodo omejene</string>
+  <string name="user_encrypted_title">Nekatera opravila bodo omejena</string>
   <string name="user_logging_out_message">Odjavljanje uporabnika %1$s …</string>
   <string name="user_owner_label">Osebno</string>
   <string name="user_switched">Trenutni uporabnik %1$s.</string>

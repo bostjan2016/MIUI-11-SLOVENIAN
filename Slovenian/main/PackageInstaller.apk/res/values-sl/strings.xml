@@ -199,7 +199,7 @@ hitrost vzorčenja"</string>
   <string name="clear_adb_keys">Preklic dovoljenja za odpravljanje težav preko USB-a</string>
   <string name="clear_all">Izbriši vse</string>
   <string name="clear_all_message">Želite izbrisati vse podatke in stike?</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovala dokler je ta nastavitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite dovoliti OEM odklepanje?</string>
   <string name="connected_via_carrier">Povezan preko %1$s</string>
   <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
@@ -618,7 +618,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="status_unavailable">Nedostopno</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti.</string>
-  <string name="system_warning">Če zavrnete to dovoljenje osnovne opravila naprave morda ne bodo več delovale kot bi morale.</string>
+  <string name="system_warning">Če zavrnete to dovoljenje osnovne storitve naprave morda ne bodo več delovale kot bi morale.</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor bo zbiral zapisnike ko odkrije težavo z delovanjem telefona/modema in obvesti uporabnika da prijavi programsko napako</string>
   <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
@@ -688,7 +688,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="uninstalling_notification_channel">Odstranitve v teku</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_apps_admin_dlg_text">Vaš skrbnik ne dovoli nameščanje aplikacij iz neznanih virov.</string>
-  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to opravilo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
+  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
   <string name="unknown_apps_dlg_title">Namestitev je blokirana</string>
   <string name="unknown_apps_user_restriction_dlg_text">Ta uporabnik ne more nameščati neznane aplikacije</string>
   <string name="unknown_installer">Neznana PC orodja</string>

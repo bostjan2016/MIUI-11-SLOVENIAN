@@ -104,7 +104,7 @@
   <string name="dlg_import_blacklist">Dodajam...</string>
   <string name="dlg_import_whitelist">Dodajam...</string>
   <string name="dlg_keyword_ok">Shrani</string>
-  <string name="dlg_message_not_open_stranger_identify">Za vklop te opravila pojdi v Nastavitve &gt; Telefon</string>
+  <string name="dlg_message_not_open_stranger_identify">Za vklop tega opravila pojdi v Nastavitve &gt; Telefon</string>
   <string name="dlg_no_block">Odblokiram to številko?</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
   <string name="dlg_remove_address_blacklist">Odstranim naslov iz seznama blokiranih?</string>

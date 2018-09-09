@@ -125,7 +125,7 @@
   <string name="clear_adb_keys">Preklic pooblastil za odpravljanje težav z USB</string>
   <string name="clear_all">Izbriši vse</string>
   <string name="clear_all_message">Ali želite izbrisati vse podatke in stike?</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovale dokler je ta nastavitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: opravila za zaščito naprave ne bodo delovala dokler je ta nastavitev vključena.</string>
   <string name="confirm_enable_oem_unlock_title">Želite dovoliti OEM odklepanje?</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezani preko pomočnika za WiFi</string>

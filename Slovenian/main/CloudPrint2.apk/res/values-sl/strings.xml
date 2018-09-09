@@ -111,7 +111,7 @@
   <string name="content_description_account_image">Slika računa</string>
   <string name="content_description_navigation_drawer_close">Zapiranje bočne navigacije</string>
   <string name="content_description_navigation_drawer_open">Odpiranje bočne navigacije</string>
-  <string name="content_description_navigation_item">Ikona navigacijske opravila</string>
+  <string name="content_description_navigation_item">Ikona navigacijskega opravila</string>
   <string name="content_description_printer_icon">Ikona tiskalnika</string>
   <string name="content_description_printer_info_icon">Standardna ikona informacij o tiskalniku</string>
   <string name="could_not_receive_printers_heading">Seznam tiskalnikov ni mogoče prejeti</string>

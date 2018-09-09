@@ -59,7 +59,7 @@
   <string name="accessibility_enable">Dostopnost</string>
   <string name="accessibility_feature_state_off">Izklopljeno</string>
   <string name="accessibility_feature_state_on">Vklopljeno</string>
-  <string name="accessibility_global_gesture_preference_description">Ko je to opravilo vklopljeno lahko hitro omogočite opravila dostopnosti v dveh korakih:
+  <string name="accessibility_global_gesture_preference_description">Ko je to opravilo vklopljeno lahko hitro omogočite opravilo dostopnosti v dveh korakih:
 
  1. korak: Pritisnite in držite tipko za vklop dokler ne zaslišite zvoka ali začutite vibracije.
 
@@ -876,7 +876,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="clear_user_data_text">Počisti podatke</string>
   <string name="close_gesture">Zapri s kretnjo</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
-  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te opravila bo spremenil razpored in druge elemente UI.</string>
+  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop tega opravila bo spremenil razpored in druge elemente UI.</string>
   <string name="collect_diagnostics_summary">Zberi dijagnostične podatke za reševanje problema</string>
   <string name="collect_diagnostics_title">Zberi dijagnostične podatke</string>
   <string name="color_black">Črna</string>
@@ -915,7 +915,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="condition_hotspot_title">Dostopna točka je vklopljena</string>
   <string name="condition_turn_off">Izklop</string>
   <string name="condition_turn_on">Vklop</string>
-  <string name="condition_work_summary">Aplikacije, sinhronizacija v ozadju in druga opravila, povezane z delovnim profilom, so izklopljeni.</string>
+  <string name="condition_work_summary">Aplikacije, sinhronizacija v ozadju in druga opravila, povezana z delovnim profilom, so izklopljeni.</string>
   <string name="condition_work_title">Delovni profil je izklopljen</string>
   <string name="condition_zen_title">Način »ne moti« vklopljen (%1$s)</string>
   <string name="config_charging_function_name">Polnjenje</string>
@@ -927,7 +927,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodaj</string>
   <string name="confirm_convert_to_fbe_warning">Ali želite res izbrisati uporabniške podatke in preklopiti na šifriranje podatkov?</string>
   <string name="confirm_download_cancelation_dialog_message">Odpovem prenos?</string>
-  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev opravila za zaščito naprave v tej napravi ne bodo delovale.</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev opravila za zaščito naprave v tej napravi ne bodo delovala.</string>
   <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
   <string name="confirm_erase">V redu</string>
   <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis če želite nadaljevati.</string>
@@ -1106,8 +1106,8 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="data_usage_other_apps">Ostale aplikacije vključene v uporabo</string>
   <string name="data_usage_pick_cycle_day">Dan za ponastavitev cikla porabe podatkov:</string>
   <string name="data_usage_received_sent">prejeto: %1$s, poslano: %2$s</string>
-  <string name="data_usage_restrict_background">Če omejite prenos podatkov v mobilnih omrežjih v ozadju nekatere aplikacije in storitve ne bodo delovale kadar ne boste povezani v omrežje WiFi.</string>
-  <string name="data_usage_restrict_background_multiuser">"Če omejite prenos podatkov v mobilnih omrežjih v ozadju nekatere aplikacije in storitve ne bodo delovale kadar ne boste povezani v omrežje WiFi.Ta nastavitev velja za vse uporabnike tega telefona."</string>
+  <string name="data_usage_restrict_background">Če omejite prenos podatkov v mobilnih omrežjih v ozadju nekatere aplikacije in storitve ne bodo delovala kadar ne boste povezani v omrežje WiFi.</string>
+  <string name="data_usage_restrict_background_multiuser">"Če omejite prenos podatkov v mobilnih omrežjih v ozadju nekatere aplikacije in storitve ne bodo delovala kadar ne boste povezani v omrežje WiFi.Ta nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="data_usage_restrict_background_title">Želite omejiti podatke v ozadju?</string>
   <string name="data_usage_restrict_denied_dialog">Prenos podatkov v ozadju lahko omejite samo če nastavite omejitev prenosa podatkov v mobilnih omrežjih.</string>
   <string name="data_usage_summary_title">Podatkovni promet</string>
@@ -2008,8 +2008,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_profile_wipe_warning_content_pin">Če tudi tokrat vnesete nepravilno kodo PIN za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_title">Zadnji poskus</string>
   <string name="lock_screen_cells_title">Zakleni razpored začet. zaslona</string>
-  <string name="lock_screen_intro_skip_dialog_text">Opravila za zaščito naprave ne bodo aktivirane. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
-  <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitne opravila naprave ne bodo aktivirane. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
+  <string name="lock_screen_intro_skip_dialog_text">Opravila za zaščito naprave ne bodo aktivirana. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
+  <string name="lock_screen_intro_skip_dialog_text_frp">Zaščitna opravila naprave ne bodo aktivirana. V primeru izgube ali kraje telefona oziroma izbrisa vseh podatkov v njem ne boste mogli preprečiti drugim, da ga uporabljajo.</string>
   <string name="lock_screen_notifications_interstitial_message">Kako naj se obvestila prikazujejo, ko je naprava zaklenjena?</string>
   <string name="lock_screen_notifications_interstitial_message_profile">Kako naj se obvestila o profilu prikazujejo, ko je naprava zaklenjena?</string>
   <string name="lock_screen_notifications_interstitial_title">Obvestila</string>
@@ -3269,7 +3269,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="runningservicedetails_processes_title">Procesi</string>
   <string name="runningservicedetails_services_title">Storitve</string>
   <string name="runningservicedetails_settings_title">Aplikacija ki se izvaja</string>
-  <string name="runningservicedetails_stop_dlg_text">Če ustavite to storitev lahko nekatere opravila v telefonu nehajo pravilno delovati dokler ga ne izklopite in znova vklopite.</string>
+  <string name="runningservicedetails_stop_dlg_text">Če ustavite to storitev lahko nekatera opravila v telefonu nehajo pravilno delovati dokler ga ne izklopite in znova vklopite.</string>
   <string name="runningservicedetails_stop_dlg_title">Želite ustaviti sistemsko storitev?</string>
   <string name="runningservices_settings_summary">Preglejte in nadzorujte storitve ki so trenutno zagnane</string>
   <string name="runningservices_settings_title">Zagnane storitve</string>
@@ -3605,7 +3605,7 @@ Uporaba pripenjanja:
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogočil skrbnik</string>
   <string name="security_enable_widgets_title">Omogoči pripomočke</string>
-  <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop te opravila. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
+  <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop tega opravila. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
   <string name="security_encryption_alert_dialog_title_first">Najprej nastavite geslo za zaklepanje zaslona</string>
   <string name="security_encryption_attention_1">"Ne morete uporabljati alarma če je naprava izključena."</string>
   <string name="security_encryption_attention_2">"Geslo boste morali vnesti po vsakem ponovnem zagonu. Ponovni zagon bo trajal dlje kot ponavadi."</string>
@@ -3727,7 +3727,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="setup_fingerprint_enroll_finish_message_secondary">Ko je prikazana ta ikona, lahko uporabite prstni odtis.</string>
   <string name="setup_fingerprint_enroll_finish_secondary_message">Če želite spremeniti nastavitve, odprite »Nastavitve &gt; Varnost &gt; Prstni odtis«.</string>
   <string name="setup_lock_settings_picker_fingerprint_message">Prstni odtis bo morda manj varen kot zapleten vzorec, koda PIN ali geslo. Zaradi varnosti nastavite nadomestno zaklepanje zaslona.</string>
-  <string name="setup_lock_settings_picker_message">Vklopite zaščitne opravila naprave, da drugim preprečite uporabo tega telefona brez vašega dovoljenja. Izberite zaklepanje zaslona, ki ga želite uporabljati.</string>
+  <string name="setup_lock_settings_picker_message">Vklopite zaščitna opravila naprave, da drugim preprečite uporabo tega telefona brez vašega dovoljenja. Izberite zaklepanje zaslona, ki ga želite uporabljati.</string>
   <string name="setup_lock_settings_picker_title">Zaščita telefona</string>
   <string name="setup_wifi_nfc_tag">Nastavitev brezžič. oznake NFC</string>
   <string name="severe_threats_summary">Prejem. opozoril o resnih grožnjah za življenje in premož.</string>
@@ -4038,7 +4038,7 @@ Vse aplikacije shranjene v pomnilniku ^1 bodo odstranjene in podatki aplikacij i
 
 Pomnilnik ^1 je formatiran tako da deluje samo v tej napravi. V drugih ne bo delovala.</string>
   <string name="storage_label">Prostor za shranjevanje</string>
-  <string name="storage_low_summary">Nekatere sistemske opravila, na primer sinhronizacija morda ne delujejo pravilno. Poskusite sprostiti nekaj prostora tako da zbrišete ali odpnete elemente kot so aplikacije ali medijska vsebina.</string>
+  <string name="storage_low_summary">Nekatera sistemska opravila, na primer sinhronizacija morda ne delujejo pravilno. Poskusite sprostiti nekaj prostora tako da zbrišete ali odpnete elemente kot so aplikacije ali medijska vsebina.</string>
   <string name="storage_low_title">Prostor za shranjevanje bo pošel</string>
   <string name="storage_menu_cleanup">Čiščenje pomnilnika</string>
   <string name="storage_menu_explore">Razišči</string>
@@ -4093,13 +4093,13 @@ Po formatiranju bo ta pomnilnik (^1) deloval samo v tej napravi.
   <string name="storage_wizard_init_title">Nastavitev imena za: ^1</string>
   <string name="storage_wizard_migrate_body">"Fotografije, datoteke in nekatere aplikacije lahko premaknete v novo shrambo ^1. 
 
-Premik traja približno ^2 in bo sprostil ^3 prostora v notranji shrambi. Nekatere aplikacije med premikanjem ne bodo delovale."</string>
+Premik traja približno ^2 in bo sprostil ^3 prostora v notranji shrambi. Nekatere aplikacije med premikanjem ne bodo delovala."</string>
   <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Premik traja pribli&amp;#382;no ^1. Sprostil bo ^2 prostora v shrambi ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Premik</string>
   <string name="storage_wizard_migrate_confirm_title">Premik podatkov</string>
   <string name="storage_wizard_migrate_details">Med premikanjem: 
 • Ne odstranite pomnilnika (^1). 
-• Nekatere aplikacije ne bodo delovale pravilno. 
+• Nekatere aplikacije ne bodo delovala pravilno. 
 • Naprava naj bo napolnjena.</string>
   <string name="storage_wizard_migrate_later">Premik pozneje</string>
   <string name="storage_wizard_migrate_now">Premik zdaj</string>
@@ -4333,22 +4333,22 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="unlock_change_lock_password_title">Spremeni geslo za odklepanje</string>
   <string name="unlock_change_lock_pattern_title">Spremeni vzorec za odklepanje</string>
   <string name="unlock_change_lock_pin_title">Spremeni kodo PIN za odklepanje</string>
-  <string name="unlock_disable_frp_warning_content_password">Opravila za zaščito naprave ne bodo delovale brez gesla.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">Opravila za zaščito naprave ne bodo delovale brez gesla. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez gesla. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_password_profile">Opravila za zaščito profila ne bodo delovale brez gesla.</string>
-  <string name="unlock_disable_frp_warning_content_pattern">Opravila za zaščito naprave ne bodo delovale brez vzorca.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Opravila za zaščito naprave ne bodo delovale brez vzorca. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez vzorca. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pattern_profile">Opravila za zaščito profila ne bodo delovale brez vzorca.</string>
-  <string name="unlock_disable_frp_warning_content_pin">Opravila za zaščito naprave ne bodo delovale brez kode PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Opravila za zaščito naprave ne bodo delovale brez kode PIN. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez kode PIN. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pin_profile">Opravila za zaščito profila ne bodo delovale brez kode PIN.</string>
-  <string name="unlock_disable_frp_warning_content_unknown">Opravila za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Opravila za zaščito naprave ne bodo delovale brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Opravila za zaščito profila ne bodo delovale brez zaklepanja zaslona. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_unknown_profile">Opravila za zaščito profila ne bodo delovale brez zaklepanja zaslona.</string>
+  <string name="unlock_disable_frp_warning_content_password">Opravila za zaščito naprave ne bodo delovala brez gesla.</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint">Opravila za zaščito naprave ne bodo delovala brez gesla. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Opravila za zaščito profila ne bodo delovala brez gesla. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_password_profile">Opravila za zaščito profila ne bodo delovala brez gesla.</string>
+  <string name="unlock_disable_frp_warning_content_pattern">Opravila za zaščito naprave ne bodo delovala brez vzorca.</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Opravila za zaščito naprave ne bodo delovala brez vzorca. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Opravila za zaščito profila ne bodo delovala brez vzorca. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pattern_profile">Opravila za zaščito profila ne bodo delovala brez vzorca.</string>
+  <string name="unlock_disable_frp_warning_content_pin">Opravila za zaščito naprave ne bodo delovala brez kode PIN.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint">Opravila za zaščito naprave ne bodo delovala brez kode PIN. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Opravila za zaščito profila ne bodo delovala brez kode PIN. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Opravila za zaščito profila ne bodo delovala brez kode PIN.</string>
+  <string name="unlock_disable_frp_warning_content_unknown">Opravila za zaščito naprave ne bodo delovala brez zaklepanja zaslona.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Opravila za zaščito naprave ne bodo delovala brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Opravila za zaščito profila ne bodo delovala brez zaklepanja zaslona. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_unknown_profile">Opravila za zaščito profila ne bodo delovala brez zaklepanja zaslona.</string>
   <string name="unlock_disable_frp_warning_ok">Da, odstrani</string>
   <string name="unlock_disable_frp_warning_title">Želite odstraniti zaščito naprave?</string>
   <string name="unlock_disable_frp_warning_title_profile">Želite odstraniti zaščito profila?</string>
@@ -4420,7 +4420,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB odpravljanja težav</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usmerjanje</string>
   <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanje na zun. zvoč. naprave USB</string>
-  <string name="usb_charging_summary">Izključi vse ostale opravila USB povezovanja za pospešitev polnjenja.</string>
+  <string name="usb_charging_summary">Izključi vsa ostala opravila USB povezovanja za pospešitev polnjenja.</string>
   <string name="usb_charging_title">Pospeši polnjenje</string>
   <string name="usb_connection_category">Vzpostavi povezavo kot</string>
   <string name="usb_eject">Izključi USB pomnilnik</string>
@@ -4624,7 +4624,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="virus_scanner_select_trust_lib">Izberite definicije virusov</string>
   <string name="virus_scanner_title">Preverjanje virusov</string>
   <string name="virus_scanner_update_lib">Posodobi definicije</string>
-  <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. Te opravila za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
+  <string name="vision_settings_description">To napravo lahko prilagodite svojim potrebam. To opravilo za ljudi s posebnimi potrebami lahko pozneje spremenite v nastavitvah.</string>
   <string name="vision_settings_title">Nastavitve vidnosti</string>
   <string name="voice_category">Govor</string>
   <string name="voice_input_output_settings">Glasovni vnos in izhod</string>
@@ -4787,7 +4787,7 @@ WiFi Assistant"</string>
   <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Način klicanja prek WiFi-ja</string>
   <string name="wifi_calling_mode_title">Nastavitev klicanja</string>
-  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom te opravila pri operaterju preverite cene in druge podrobnosti.</string>
+  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom tega opravila pri operaterju preverite cene in druge podrobnosti.</string>
   <string name="wifi_calling_settings_title">Klicanje prek WiFi-ja</string>
   <string name="wifi_calling_suggestion_summary">Uporaba WiFi-ja namesto mobilnega omrežja</string>
   <string name="wifi_calling_suggestion_title">Vklop klicanja prek WiFi-ja</string>

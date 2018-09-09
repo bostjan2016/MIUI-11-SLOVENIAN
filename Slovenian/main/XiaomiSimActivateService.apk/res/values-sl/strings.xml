@@ -22,7 +22,7 @@
   <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspešno aktivirana. Aktivirano z opravilom \"%1$s\".</string>
   <string name="activate_history_sms">SMS sporočilo poslano ob aktivaciji.</string>
   <string name="activate_history_success">Uspešno</string>
-  <string name="activate_history_success_overview">SIM kartica uspešno aktivirana. Aktivirana s opravilo \"%1$s\".</string>
+  <string name="activate_history_success_overview">SIM kartica uspešno aktivirana. Aktivirana z opravilom \"%1$s\".</string>
   <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice preklicano</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %d preklicano</string>

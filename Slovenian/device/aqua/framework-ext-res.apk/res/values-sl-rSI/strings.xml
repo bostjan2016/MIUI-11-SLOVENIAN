@@ -90,7 +90,7 @@
   <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>
   <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za izklop te opravila istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za izklop tega opravila istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to opravilo, pritisnite tipko Glasnost +.</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
