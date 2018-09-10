@@ -341,12 +341,15 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="another_migration_already_in_progress">Poteka že druga selitev.</string>
   <string name="anr_record_interval_title">Posnemi ANR intervale</string>
   <string name="anti_spam">AntiSpam</string>
+  <string name="aod_close_color_inversion">"To opravilo se ne more kombinirati z inverzijo barv. Izključite jo."</string>
+  <string name="aod_got_it">Razumem</string>
   <string name="aod_mode_summary">Zmeraj prikaži čas, datum in sporočila ko je zaslon izključen.</string>
   <string name="aod_mode_time_summary">Nastavite čas ko naj se naprava poveže na Vedno vključeno</string>
   <string name="aod_mode_time_title">Razpored</string>
   <string name="aod_mode_title">Zmeraj vključen delovni način</string>
   <string name="aod_mode_turn_off">Izključi</string>
   <string name="aod_mode_turn_on">Vključi</string>
+  <string name="aod_to_close">Izključi</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta preverjanja pristnosti</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -408,9 +411,9 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_launch_open_domain_urls_title">Odpiranje podprtih povezav</string>
   <string name="app_launch_other_defaults_title">Druge privzete nastavitve</string>
   <string name="app_launch_supported_domain_urls_title">Podprte povezave</string>
-  <string name="app_link_open_always">Odpri v tej aplikaciji</string>
+  <string name="app_link_open_always">Odpri</string>
   <string name="app_link_open_ask">Vedno vprašaj</string>
-  <string name="app_link_open_never">Ne odpri v tej aplikaciji</string>
+  <string name="app_link_open_never">"Ne odpiraj"</string>
   <string name="app_list_memory_use">Uporaba aplikacije</string>
   <string name="app_list_preference_none">Nič</string>
   <string name="app_lock_role_instruction">Zaščitite svoje zasebne aplikacije</string>
@@ -2442,6 +2445,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="floating_window_switch_label_disable">Izklopite plavajoča okna</string>
   <string name="fluency_mode">Animacije sistema</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno zaženi</string>
+  <string name="following_us_title">Spremljajte nas</string>
   <string name="fluency_mode_confirm_title">Ponovno zaženem?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Za uveljavitev teh nastvitev morate ponovno zagnati napravo.</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">Omogočene animacije in povečana uporaba RAM-a lahko povzroči počasnost sistema na napravah z 1GB RAM-a.</string>
@@ -2656,7 +2660,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="high_power_system">Optimizacija akumulatorja ni na voljo</string>
   <string name="history_details_title">Podrobnosti zgodovine</string>
     <string name="home">Začetna stran nastavitev</string>
-  <string name="home_app">Začetna aplikacija</string>
+  <string name="home_app">Zaganjalnik</string>
   <string name="home_app_uninstall_button">Odstrani to aplikacijo</string>
   <string name="home_key">Domov</string>
   <string name="home_settings">Domov</string>
@@ -2712,7 +2716,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="install_no_market_app_summary">Preveri aplikacije iz drugih virov za virusi pred namestitvijo</string>
   <string name="install_no_market_app_title">Preverjanje aplikacij iz drugih virov</string>
     <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
-  <string name="install_preinstall_app">Osveževanje aplikacij…</string>
+  <string name="install_preinstall_app">Zamenjava regije…</string>
   <string name="install_text">"Namesti"</string>
     <string name="install_type_instant">Nenamestljiva aplikacija</string>
   <string name="install_unknown_applications">Dovoli namestitev aplikacij iz neznanih virov</string>
@@ -3798,7 +3802,7 @@ Na tej napravi je več uporabnikov.
   <string name="no_connected_devices">Ni povezanih naprav</string>
   <string name="no_data_usage">Ni bilo uporabe podatkov</string>
   <string name="no_default_apps">Ni privzetih aplikacij</string>
-    <string name="no_default_home">Ni privzetega začetnega zaslona</string>
+    <string name="no_default_home">Ni izbrano</string>
   <string name="no_device_admins">Na voljo ni nobenega skrbnika naprave</string>
   <string name="no_internet_access_remember">Ne sprašuj več za to omrežje</string>
   <string name="no_internet_access_text">To omrežje nima dostopa do spleta. Ali želite ostati povezani?</string>
@@ -5644,7 +5648,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smart Cover način</string>
   <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite telefon s smart cover-jem</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
-  <string name="sms_application_title">Aplikacija za SMS-e</string>
+  <string name="sms_application_title">SMS</string>
     <string name="sms_change_default_dialog_text">Ali želite za SMS-e namesto aplikacije %2$s uporabljati aplikacijo %1$s?</string>
   <string name="sms_change_default_dialog_title">Ali želite zamenjati aplikacijo za SMS-e?</string>
     <string name="sms_change_default_no_previous_dialog_text">Ali želite za SMS-e uporabljati aplikacijo %s?</string>
@@ -6434,7 +6438,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unlock_set_unlock_password_title">Geslo</string>
   <string name="unlock_set_unlock_pattern_summary">Narišite enostaven vzorec z prstom za odklep naprave</string>
   <string name="unlock_set_unlock_pattern_title">Vzorec</string>
-    <string name="unlock_set_unlock_pin_summary">Srednja do visoka varnost</string>
+  <string name="unlock_set_unlock_pin_summary">Vnesite 4-16 številk za odklep naprave</string>
     <string name="unlock_set_unlock_pin_title">Koda PIN</string>
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>

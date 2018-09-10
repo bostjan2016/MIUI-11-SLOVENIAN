@@ -10,6 +10,10 @@
         <item>Napravi &amp; zamenjaj mape</item>
         <item>Pritisnite puščico spodaj da boste naredili novo mapo ali premikali med obstoječimi.</item>
      </string-array>
+	 <string-array name="second_guide_contents_pad_or_inter">
+        <item>Glasovne beležke</item>
+        <item>Lahko napravite glasovne beležke. Enostavno tapnite ikono, posnemite svoj glas in shranite avdio datoteko v beležko.</item>
+    </string-array>
 	 <string-array name="second_guide_contents">
         <item>Glasovne beležke</item>
         <item>Napravite beležke s pomočjo tekst-v-govor orodja.</item>
