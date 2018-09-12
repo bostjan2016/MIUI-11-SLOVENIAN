@@ -66,6 +66,10 @@
         <item quantity="other">Odblokiram številke telefona: %1$d?</item>
         <item quantity="one">Odblokiram %1$d številko telefona?</item>
     </plurals>
+	<plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">Najdeno več od %d stikov.</item>
+        <item quantity="one">Najdeno več od %d stika.</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">Dodani stiki: %1$d</item>
         <item quantity="one">Dodan je %1$d stik</item>
@@ -94,6 +98,10 @@
         <item quantity="other">Številk: %1$d</item>
         <item quantity="one">%1$d številka</item>
     </plurals>
+	<plurals name="label_duplicate_count_plurals">
+        <item quantity="other">(%1$d)</item>
+        <item quantity="one">(%1$d)</item>
+    </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Najdeno stikov: %d</item>
         <item quantity="one">1 najden</item>
@@ -105,6 +113,10 @@
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Stiki z številko telefona: %d</item>
         <item quantity="one">1 stik z številko telefona</item>
+    </plurals>
+	<plurals name="merge_contact_message_plurals">
+        <item quantity="other">Stiki z delno ujemajočimi informacijami: %1$d</item>
+        <item quantity="one">%1$d stik z delno ujemajočimi informacijami</item>
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">združeno iz vira: %0$d</item>
@@ -154,6 +166,14 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">Najdeno: %d</item>
         <item quantity="one">1 najden</item>
+    </plurals>
+	<plurals name="select_all_exceed_plurals">
+        <item quantity="other">"Izberite ne več kot %1$d, ne morete izbrati vse"</item>
+        <item quantity="one">"Izberite ne več kot %1$d, ne morete izbrati vs"</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">Izberite ne več kot %1$d</item>
+        <item quantity="one">Izberite ne več kot %1$d</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">Najdeno: %1$d</item>

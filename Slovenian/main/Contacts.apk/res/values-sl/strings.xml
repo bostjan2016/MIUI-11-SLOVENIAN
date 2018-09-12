@@ -195,6 +195,7 @@
   <string name="composer_failed_to_get_database_infomation">"Ni bilo mogoče pridobiti informacij iz podatkovne baze."</string>
   <string name="composer_has_no_exportable_contact">"Ni stikov za izvoz. Če imate stike v napravi nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov iz telefona."</string>
   <string name="composer_not_initialized">"vCard se ni zagnala pravilno."</string>
+  <string name="conference_call_disable_tip">"Ne morem klicati. Preverite ali je naprava povezana na 4G omrežje z podporo za VoLTE."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
   <string name="config_export_file_extension">vcf</string>
@@ -502,7 +503,6 @@ Razlog: \"%s\""</string>
   <string name="followed_yellowpage">Preverjeni Računi</string>
   <string name="force_touch_miprofile">Vizitka stika</string>
   <string name="force_touch_new_contact">Nov stik</string>
-  <string name="foundTooManyContacts">Več kot %d najdenih.</string>
   <string name="fraud_more_indemnity">Več odškodnin</string>
   <string name="frequentList">Pogosto</string>
   <string name="full_name">Ime</string>
@@ -728,7 +728,6 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="menu_splitAggregate">Loči</string>
   <string name="menu_sync_remove">Odstrani sinhronizirano skupino</string>
   <string name="menu_viewContact">Ogled stika</string>
-  <string name="merge_contact_message">%1$d stikov z delno identičnimi podatki</string>
   <string name="messageShortcutActivityTitle">Izberi številko za pošiljanje</string>
   <string name="miprofile_account_type">Mi Račun</string>
   <string name="miprofile_alertdialog_edit">Vnesite ime</string>
@@ -1158,8 +1157,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_wipe_data">Organiziraj;Stiki</string>
   <string name="searching_vcard_message">"Iskanje vCard podatkov v napravi…"</string>
   <string name="select_all">"Izberi vse"</string>
-  <string name="select_all_exceed">"Izberite ne več od %1$d, ne morete izbrati vse"</string>
-  <string name="select_exceed">Izberite ne več od %1$d</string>
   <string name="select_done">Vse je izbrano</string>
   <string name="select_groups">Izberi skupine</string>
   <string name="select_none">Nič ni izbrano</string>

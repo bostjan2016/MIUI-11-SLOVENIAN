@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Ekstremno varčevanje baterije</string>
+  <string name="about_extreme_mode">Ekstremni način</string>
   <string name="about_hide_mode">O Varčevanju baterije</string>
   <string name="active_classify">Razvrsti glede na status aktivnosti</string>
   <string name="action_bar_delete">Izbriši</string>

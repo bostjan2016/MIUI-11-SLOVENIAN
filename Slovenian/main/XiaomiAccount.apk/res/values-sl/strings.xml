@@ -21,7 +21,7 @@
   <string name="account_error_user_name">Vneseno ime ni veljavno</string>
   <string name="account_global_region">Globalno</string>
   <string name="account_has_been_set">Spremeni</string>
-  <string name="account_invalid_user_avatar">Fotografija ni veljavna</string>
+  <string name="account_invalid_user_avatar">Fotografija ni veljavna. Poskusite kako drugo.</string>
   <string name="account_limit_update_birthday">"Ne morem zdaj posodobiti datuma rojstva"</string>
   <string name="account_mibi_center">Mi Krediti</string>
   <string name="account_mibi_charge">Plačanje Mi Kreditov</string>

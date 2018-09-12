@@ -5,6 +5,14 @@
   <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o zasebnosti"</string>
   <string name="agree_terms_input_method_facemoji">"Prebral sem in se strinjam z Facemoji Pravila o zasebnosti."</string>
   <string name="agree_terms_input_method_kika">"Prebral sem in se strinjam z Kika Pravila o zasebnosti."</string>
+  <string name="ai_button_desc">S pomočjo tipke zaženite Mi AI in opravite naloge na vašem telefonu samo z uporabo vašega glasu</string>
+  <string name="ai_button_double_press">Dvakrat pritisnite</string>
+  <string name="ai_button_double_press_desc">Nastavite opravila Mi AI</string>
+  <string name="ai_button_long_press">Pritisnite in držite</string>
+  <string name="ai_button_long_press_desc">Izgovorite ukaz in spustite tipko</string>
+  <string name="ai_button_single_press">Pritisnite</string>
+  <string name="ai_button_single_press_desc">Zaženi Mi AI</string>
+  <string name="ai_button_title">O tipki AI</string>
   <string name="app_name">Določila</string>
   <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="back">Nazaj</string>
