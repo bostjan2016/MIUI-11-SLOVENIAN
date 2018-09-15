@@ -214,10 +214,7 @@
   <string name="auto_advance_summary">Izberite kaj prikazati po brisanju sporočila</string>
   <string name="auto_login_fail">Samodejna prijava ni uspela</string>
   <string name="auto_login_fail_to_retry">Samodejna prijava ni uspela, poskusite ponovno.</string>
-  <string name="auto_mail_describe">139 Email Storitev samod. nastavitev vam lahko pomaga da izpolnite podatke za prijavo v poštni nabiralnik. Želite omogočiti to opravilo?</string>
-  <string name="auto_mail_disable_txt">Onemogočeno</string>
   <string name="auto_mail_enable_txt">Začetne nastavitve</string>
-  <string name="auto_mail_go_email">Mailbox</string>
   <string name="auto_mail_name">AutoMail</string>
   <string name="auto_mail_title_note">Najdi možnost \"139 Mailbox samod. nastavitev\" in jo kliknite za začetek.</string>
   <string name="auto_mail_window_description">139 Email Storitev samod. nastavitve</string>
@@ -560,6 +557,7 @@
   <string name="login139">CMCC prijava z eno tipko</string>
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
   <string name="login_failed_title">Ni se mogoče vpisati</string>
+  <string name="login_mail">Prijavi se</string>
   <string name="login_support_tip_text">Podpira vse glavne račune e-pošte</string>
   <string name="long_press_to_select_tip">Tapnite &amp; držite za izbor enega pogovora, nato tapnite za izbor večih.</string>
   <string name="long_string">dooooooooooooooooooolgo</string>
@@ -692,6 +690,9 @@ Poskusite z ostalo pošto."</string>
   <string name="notification_action_undo_delete">Izbrisano</string>
   <string name="notification_action_undo_remove_label">Oznaka odstranjena</string>
   <string name="notification_exchange_calendar_added">Dodan Exchange koledar</string>
+  <string name="notify_channel_new_mail">Obvestila o novih sporočilih</string>
+  <string name="notify_channel_permission_notice">Opomnik obvestil o dovoljenju</string>
+  <string name="notify_channel_send_fail">Obvesti o neuspešni dostavi</string>
   <string name="oauth_error_description">"Ne morem preveriti avtentičnosti"</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
@@ -972,6 +973,7 @@ Poskusite z ostalo pošto."</string>
   <string name="shortcut_name_title">Imenuj bližnjico mape</string>
   <string name="show_elided">▶ Prikaži citirano besedilo</string>
   <string name="show_images">Prenesi in prikaži slike</string>
+  <string name="show_more_attachment">Več priponk</string>
   <string name="show_password">Pokaži geslo</string>
   <string name="signature">"
 
@@ -1078,6 +1080,8 @@ Zaustavim zdaj?"</string>
   <string name="veiled_alternate_text_unknown_person"/>
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">preko %1$s</string>
+  <string name="verify_code">Koda za preverjanje</string>
+  <string name="version_string">Različica: %s</string>
   <string name="view_more_conversations">Prikaži več pogovorov</string>
   <string name="wait_for_manual_sync_body">"Račun ni nastavljen na samodejno sinhronizacijo.
 Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizirali enkrat ali &lt;b&gt;Sprememba sinhronizacije&lt;/b&gt; da boste ta račun nastavili za automatsko sinhronizacijo pošte.</string>

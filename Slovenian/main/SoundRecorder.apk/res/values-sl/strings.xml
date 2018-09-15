@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_clear_records">Izbrišem izbrane posnetke?</string>
+  <string name="alert_message_delete_local_record">Izbrišem ta posnetek?</string>
   <string name="alert_message_delete_record">Brisanje posnetka z vaše naprave bo izbrisal ta posnetek na Mi Cloudu. Izbrišem zdaj?</string>
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
   <string name="app_name">Snemanje</string>

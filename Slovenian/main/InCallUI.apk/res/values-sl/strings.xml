@@ -119,6 +119,7 @@
   <string name="description_image_button_two">dve</string>
   <string name="description_image_button_video_answer">Videoklic</string>
   <string name="description_image_button_zero">nič</string>
+  <string name="description_message_list_title">Seznam hitrih odgovorov</string>
   <string name="description_target_answer">Odgovori</string>
   <string name="dialog_activate_livetalk">Potrdi številko</string>
   <string name="dialog_call_ordinary_telephone">Navaden klic</string>

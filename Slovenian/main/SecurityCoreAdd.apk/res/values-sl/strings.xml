@@ -46,8 +46,11 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
   <string name="confirmDelete">Izbriši</string>
   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
   <string name="confirm_airspace_password">Potrdite geslo %s</string>
+  <string name="confirm_close_password_desc">"Ne boste mogli vstopiti v Drugi prostor iz zakl. zaslona ko izključite geslo.
+Vseeno izključim?"</string>
+  <string name="confirm_close_password_title">Izklop gesla</string>
   <string name="confirm_main_space_password">Potrdite geslo Prvega prostora</string>
-  <string name="confirm_restore">"Ne prikazuj"</string>
+  <string name="confirm_restore">"Ne kaži"</string>
   <string name="contactData">Stiki</string>
   <string name="contact_sub_titile_text">Podatki sporočil se bodo delili med dvema prostoroma</string>
   <string name="contact_titile_text">"Prikaži zasebna sporočila v Drugem prostoru

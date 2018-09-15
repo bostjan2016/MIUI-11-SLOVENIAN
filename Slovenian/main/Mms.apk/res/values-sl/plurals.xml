@@ -60,6 +60,10 @@
         <item quantity="other">"Sporočil (%d) ni sinhronizirano"</item>
         <item quantity="one">"%d sporočilo ni sinhronizirano"</item>
     </plurals>
+	<plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Označeno kot %2$s s strani %1$d osob</item>
+        <item quantity="one">Označeno kot %2$s s strani %1$d osebe</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">Sporočil: %1$s</item>
         <item quantity="one">%1$s sporočilo</item>

@@ -14,6 +14,7 @@
   <string name="open_wifi_connect_summary">Dotaknite se za prikaz podrobnosti.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogoča pristop DRM zaščiteni vsebini.</string>
+  <string name="poco_privacy_policy">POCO Zaganjalnik Pravila o zasebnosti &amp; POCO Zaganjalnik Pogoji uporabe</string>
   <string name="policy_name">Pravilo:%s</string>
   <string name="pre_installed_apps">Prednameščene aplikacije</string>
   <string name="settings_ad_loading">Samo trenutek…</string>

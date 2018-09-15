@@ -70,8 +70,9 @@
   <string name="other_settings_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
   <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati proizvode in storitve pošiljanjem podatkov o uporabi</string>
-  <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o zasebnosti</string>
+  <string name="other_settings_user_experience_summary_index">Podrobnosti</string>
+  <string name="poco_agree_terms_other">(Vključno POCO zaganjalnik Pravila o zasebnosti in Pogoji uporabe)</string>
   <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
   <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>

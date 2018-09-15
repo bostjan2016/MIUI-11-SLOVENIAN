@@ -157,6 +157,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="accessibility_shortcut_description">Ko je bližnjica vklopljena, lahko opravilo za ljudi s posebnimi potrebami zaženete tako, da pritisnete obe tipki za glasnost in ju pridržite tri sekunde.</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Dovoli na zaklenjenem zaslonu</string>
     <string name="accessibility_shortcut_service_title">Storitev z bližnjico</string>
+  <string name="accessibility_summary_source">Prinaša %s</string>
     <string name="accessibility_summary_state_disabled">Izklopljeno</string>
     <string name="accessibility_summary_state_enabled">Vklopljeno</string>
     <string name="accessibility_summary_state_stopped">Ne deluje. Dotaknite se za več informacij.</string>
@@ -1142,15 +1143,19 @@ Avdio"</string>
   <string name="bootloader_device_bind_fail">"Ne morem preveriti, poskusite ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprava za dodajanje računa in naprave…</string>
   <string name="bootloader_device_bind_no_account">Prijavite se najprej v svoj Mi Račun</string>
+  <string name="bootloader_device_bind_no_data_network">Izključite WiFi in dodajte svoj račun in napravo s pomočjo mobilnih podatakov.</string>
   <string name="bootloader_device_bind_no_network">Povežite se na omrežje in poskusite ponovno</string>
   <string name="bootloader_device_bind_no_sim">Vstavite SIM kartico in poskusite znova.</string>
   <string name="bootloader_device_bind_server_code">"Ne morem dodati. Koda napake:"</string>
+  <string name="bootloader_device_bind_server_token_expired_1">"Ne morem preveriti. Poskusite ponovno dodati svoj račun in napravo"</string>
+  <string name="bootloader_device_bind_server_token_expired_2">"Ne morem preveriti. Ponovno se prijavite v svoj račun in začnite znova."</string>
   <string name="bootloader_device_bind_sim_invalid">SIM kartica ni veljavna. Zamenjajte je in poskusite ponovno.</string>
   <string name="bootloader_locked_answer_1">"Naprava je zaklenjena zaradi varnosti in da vaši osebni podatki ne budo odkriti tretjim osebam. Če morate v Fastboot način dela za flashanje jo lahko odklenete."</string>
   <string name="bootloader_locked_answer_1_warning">"Pozor: Ne boste mogli uporabljati \"Najdi napravo\" ko bo naprava odklenjena."</string>
   <string name="bootloader_locked_answer_2">"1. Preverite ali ste vstavili SIM kartico.
-  2.Tapnite \"Dodaj račun\" za povezovanje Mi Računa s to napravo.
-  3.Potem pojdite na MIUI spletno stran, prenesite orodje za odklep in ga namestite na računalnik. Naslov:"</string>
+2. Izključite WiFi in vključite mobilne podatke. Pazite da se naprava lahko poveže s spletom z mobilnimi podatki.
+  3.Tapnite \"Dodaj račun\" za povezovanje Mi Računa s to napravo.
+  4.Potem pojdite na MIUI spletno stran, prenesite orodje za odklep in ga namestite na računalnik. Naslov:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1. Tapnite \"Dodaj račun\" da povežete vaš Mi Račun s to napravo.
 2. Prenesite orodje za odklep. Odlep bo potekal preko računalnika. Prenesite tu:"</string>
   <string name="bootloader_locked_check_status">Dodaj račun in napravo</string>
@@ -1530,6 +1535,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="credentials_reset_warning_plural">Napačno geslo. Poskusite lahko še %1$d krat preden se shramba poverilnic izbriše.</string>
   <string name="credentials_settings_not_available">Za tega uporabnika niso na voljo poverilnice</string>
   <string name="credentials_title">Shramba poverilnic</string>
+  <string name="credentials_title_verification">Preverjanje</string>
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Vnesite geslo za shrambo poverilnic.</string>
   <string name="credentials_wrong_password">Napačno geslo.</string>
@@ -2329,8 +2335,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="factory_reset_summary">"Izbriši vse podatke iz notranjega pomnilnika telefona"</string>
   <string name="failed_to_check_find_device_status_content">"Ne morem preveriti statusa Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_check_find_device_status_title">"Ne morem preveriti statusa"</string>
-  <string name="failed_to_erase_text">Izključite geslo za zaklep zaslona pred izvedbo opravila 1217.</string>
-  <string name="failed_to_erase_title">Prepovedano opravilo</string>
+  <string name="failed_to_erase_text">Izključite geslo za zaklep zaslona pred vnosom kode \"1217\".</string>
+  <string name="failed_to_erase_title">"Ne morem dokončati"</string>
   <string name="failed_to_open_app_settings_toast">"Ni mogoče odpreti nastavitev za %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"Ne morem izključiti Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne morem izključiti Najdi napravo"</string>
@@ -5309,8 +5315,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_rejected_via_home_manager">"Ta storitev ne deluje v demo verziji."</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
-  <string name="security_input">Varnostni vnos</string>
-  <string name="security_input_hint">S pomočjo varnostne tipkovnice vnesite geslo</string>
+  <string name="security_input">Varna tipkovnica</string>
+  <string name="security_input_hint">S pomočjo varne tipkovnice vnesite geslo</string>
   <string name="security_keyguard_category_name">Zaklenjen zaslon</string>
   <string name="security_password_category_name">Zakl. zaslona</string>
     <string name="security_passwords_title">Zasebnost</string>

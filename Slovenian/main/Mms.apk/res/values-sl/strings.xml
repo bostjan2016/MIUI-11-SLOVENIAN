@@ -53,13 +53,13 @@
   <string name="batch_delete_confirm_dialog_message">Izbrišem %1$s sporočil?</string>
   <string name="batch_deleting_message_progress_message">Brišem...</string>
   <string name="batch_deleting_progress_message">Brišem...</string>
-  <string name="bcc_label">Skp:</string>
+  <string name="bcc_label">"Skp: "</string>
   <string name="block_messaging_entry_title">Blokirani SMS-i</string>
   <string name="block_support_text">Podprto od Antiy.</string>
-  <string name="bookmark">Označeni</string>
-  <string name="bookmark_confirm_delete_message">Odznači izbrana sporočila?</string>
-  <string name="bookmark_empty">Ni označenih sporočil</string>
-  <string name="bookmark_list_title">Označeno</string>
+  <string name="bookmark">Dodano v priljubljene</string>
+  <string name="bookmark_confirm_delete_message">Odznačim izbrana sporočila?</string>
+  <string name="bookmark_empty">Ni  sporočil</string>
+  <string name="bookmark_list_title">Priljubljeno</string>
   <string name="button_emoji_creature">Animal emojis</string>
   <string name="button_emoji_lifestyle">Življenje</string>
   <string name="button_emoji_smiley">Obrazi</string>
@@ -156,7 +156,7 @@
   <string name="dialog_message_fake_cell_detect_error">Popravim informacije o tem sporočilu? Za to mora MIUI prebrati številko telefona (%1$s), vsebino sporočila in informacije o najbližji lokaciji njegovih strežnikov.</string>
   <string name="dialog_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe.</string>
   <string name="dialog_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
-  <string name="dialog_message_networking">Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
+  <string name="dialog_message_networking">Sporočila se morajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznati ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
   <string name="dialog_message_networking_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
   <string name="dialog_message_networking_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
   <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
@@ -216,7 +216,7 @@
   <string name="fake_cell_detection_entry">Odkrivanje neprave bazne postaje</string>
   <string name="fake_cell_safe_hint">To sporočilo je varno</string>
   <string name="fake_cell_timeout_hint">"Ne morem preveriti varnosti"</string>
-  <string name="favorite_at_time">Označeno: %1s</string>
+  <string name="favorite_at_time">Dodano v priljubljeno: %1s</string>
   <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
   <string name="festival">Hitri odgovori</string>
   <string name="festival_continue">V redu</string>
@@ -224,7 +224,7 @@
   <string name="festival_networking_title">Obvestilo</string>
   <string name="festival_never_remind">Ne kaži več</string>
   <string name="festival_sms_category_count_format">%s</string>
-  <string name="festival_sms_loading">Nalagam...</string>
+  <string name="festival_sms_loading">Nalagam…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Ustvarjeno:</string>
   <string name="file_share_message_description">Hočem deliti nekaj datotek s teboj.</string>
@@ -285,6 +285,7 @@
   <string name="loading_conversations">Nalagam pogovore...</string>
   <string name="loading_mms">Nalagam...</string>
   <string name="manage_permission_app_label">Dovoljenja naprave</string>
+  <string name="mark_number_by_own_dialog_subtitle">Označeno kot %1$s</string>
   <string name="me">Jaz</string>
   <string name="menu_add_black">Blokiraj to številko</string>
   <string name="menu_add_contact">Dodaj k obstoječim stikom</string>
@@ -294,7 +295,7 @@
   <string name="menu_delete_messages">Izbriši sporočila</string>
   <string name="menu_edit">Spremeni</string>
   <string name="menu_forward">Posreduj</string>
-  <string name="menu_lock">Zvezda</string>
+  <string name="menu_lock">Dodano v priljubljeno</string>
   <string name="menu_mark">Označi</string>
   <string name="menu_more">Več</string>
   <string name="menu_new_contact">Nov stik</string>
@@ -302,7 +303,7 @@
   <string name="menu_pick_from_contact">Izberi iz stikov</string>
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_send_as_common">Pošlji kot SMS</string>
-  <string name="menu_unlock">Odznači</string>
+  <string name="menu_unlock">Odstrani iz priljubljenih</string>
   <string name="menu_view_contact">Prikaži stik</string>
   <string name="menu_yellowpage">Prikaži %s</string>
   <string name="message_class_label">Vrsta sporočila:</string>
@@ -348,7 +349,7 @@
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obvestilo o MMS-u</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktiviranje brezplačnih sporočil in govornih storitev. Razen tega ta storitev uporablja omrežje.</string>
+  <string name="mx_activate_allow_notice">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktiviranje brezplačnih sporočil in govornih storitev. Razen tega ta storitev uporablja omrežje. Se strinjate?</string>
   <string name="mx_activate_dlg_title">Aktivirajte Mi sporočila</string>
   <string name="mx_activate_dlg_title_ex">Aktiviraj Mi Sporočila &amp; Zvok</string>
   <string name="mx_activate_error_malformed_info">Ponovno morate aktivirati Mi sporočila.</string>
@@ -361,7 +362,7 @@
   <string name="mx_activate_int_hint_malformed_info">Vaš operater vam bo zračunal za mednarodna sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo Mi Sporočila.</string>
   <string name="mx_activate_int_hint_server">Vaš operater vam bo zračunal za mednarodna sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo Mi Sporočila.</string>
   <string name="mx_activate_int_hint_sim_change">Kaže da ste zamenjali SIM kartice. Vaš operater vam bo zračunal za sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo MI Sporočila.</string>
-  <string name="mx_activate_network_allow_notice">Ta storitev bo uporabljala omrežje.</string>
+  <string name="mx_activate_network_allow_notice">Ta storitev bo uporabljala omrežje. Se strinjate?</string>
   <string name="mx_activate_status_desc_activating_now">Aktiviranje…</string>
   <string name="mx_activate_status_desc_check_net_connection">"Ne morem se povezati na omrežje"</string>
   <string name="mx_activate_status_desc_fail">"Ne morem aktivirati Mi sporočila"</string>
@@ -385,7 +386,7 @@
   <string name="mx_current_status">Na spletu</string>
   <string name="mx_dspt">"Pošiljajte SMS in MMS sporočila drugim MIUI napravam brezplačno ko ste povezani na WiFi."</string>
   <string name="mx_dspt_listview">Pošiljajte sporočila drugim MIUI napravam brezplačno</string>
-  <string name="mx_dspt_provision">Mi Sporočila vam omogočajo pošiljanje sporočil drugim MIUI uporabnikom preko spleta ne da bi nastali SMS stroški. Vaš operater vam bo zračunal za SMS sporočilo ki bo mogoče potrebno aktivacijo te storitve. Razen tega ta storitev potrebuje dostop do mobilnih podatkov da dela normalno</string>
+  <string name="mx_dspt_provision">Mi sporočila omogočajo pošiljanje sporočil drugim MIUI uporabnikom preko spleta brez stroškov. Morda bo potrebno odhodno SMS sporočilo za ponovno aktiviranje Mi sporočil. Vaš mobilni operater vam to lahko računa. Potrebna je manjša količina mobilnih podatkov. Se strinjate?</string>
   <string name="mx_dspt_provision_ex">"Pošiljajte sporočila in kličite druge MIUI uporabnike preko spleta brez stroškov. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
   <string name="mx_dspt_provision_ex2">Pravila o zasebnosti</string>
   <string name="mx_enable">Mi sporočilo</string>
@@ -404,7 +405,7 @@
   <string name="mx_reactivate">Ponovno aktiviraj Mi sporočila</string>
   <string name="mx_recommend_msg">Dotakni se za vklop Mi sporočila.</string>
   <string name="mx_stranger_recommend_msg">Pritisni za blokiranje Mi Sporočil iz neznanih številk</string>
-  <string name="mx_type_guide">Mi sporočila vam ponuja pošiljanje sporočil drugim MIUI uporabnikom ne da bi nastali SMS stroški.</string>
+  <string name="mx_type_guide">Mi sporočila vam ponuja pošiljanje sporočil drugim MIUI uporabnikom brez stroškov.</string>
   <string name="need_download">Sinhroniziram…</string>
   <string name="network_error_description">Napaka omrežja. Počakajte trenutak ali dva in poskusite ponovno.</string>
   <string name="network_error">Omrežna napaka</string>
@@ -423,7 +424,7 @@
   <string name="no_delivery_report">Ni potrdila o dostavi</string>
   <string name="no_subject">(Ni predmeta)</string>
   <string name="no_subject_view">(Ni predmeta)</string>
-  <string name="non_english_subject_limit">Največ 13 znakov za neangleški predmet</string>
+  <string name="non_english_subject_limit">13 znakov</string>
   <string name="nosend_message">Ne pošlji</string>
   <string name="not_prepare_for_send">Ni sporočil za pošiljanje</string>
   <string name="notification_channel_msg_description">Obvestilo o sporočilu</string>
@@ -489,7 +490,7 @@
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
   <string name="pref_summary_mms_read_reports">Zahtevaj poročilo za vsako sporočilo, ki ste ga poslali</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Samodejno prenesti sporočila med gostovanjem</string>
-  <string name="pref_summary_notification_body_enabled">Predogled sporočil na zaklenjenem zaslonu in v vrstici stanja</string>
+  <string name="pref_summary_notification_body_enabled">Pokaži sporočila na zaklenjenem zaslonu in v plošči obvestil</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Ne morete si ogledati sporočil v načinu za goste</string>
   <string name="pref_summary_off_system_mms_priority">Uporabite aplikacije tretjih oseb za pošiljanje in prejemanje MMS</string>
   <string name="pref_summary_on_system_mms_priority">Nastavi MIUI aplikacijo za sporočila kot privzeto aplikacijo za pošiljanje in prejemanje MMS</string>
@@ -552,7 +553,7 @@
   <string name="private_message">Privatna sporočila</string>
   <string name="private_new_notification">Obvestilo o sporočilu</string>
   <string name="private_protect">Zaščita zasebnosti</string>
-  <string name="private_settings">Privatne nastavitve sporočil</string>
+  <string name="private_settings">Nastavitve</string>
   <string name="processing">Obdelujem...</string>
   <string name="prvate_contact">Privatni stiki</string>
   <string name="quick_reply">Odgovori</string>
@@ -591,9 +592,9 @@
   <string name="recipient_label">Prejemnik:</string>
   <string name="recipients_over_size">Preveč prejemnikov.</string>
   <string name="recommend_bar_cancel">Zanemari</string>
-  <string name="recommend_bar_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov.</string>
-  <string name="recommend_bar_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov.</string>
-  <string name="recommend_bar_message_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov.</string>
+  <string name="recommend_bar_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI uporabnikom brez stroškov.</string>
+  <string name="recommend_bar_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI uporabnikom in uporabnikom China Mobile brez stroškov.</string>
+  <string name="recommend_bar_message_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim MIUI uporabnikom brez stroškov.</string>
   <string name="recommend_bar_message_smart_message">Kopirajte enkratna gesla, spremljajte pakete, uporabite pametne menije in še več</string>
   <string name="recommend_bar_ok">Vključi</string>
   <string name="recommend_bar_title_mx_rcs">Mi sporočilo</string>

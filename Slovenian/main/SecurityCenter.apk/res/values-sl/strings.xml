@@ -469,7 +469,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_desc_bluetooth">Baterija porabljena od Bluetootha</string>
   <string name="battery_desc_display">Baterija porabljena od zaslona in osvetlitev</string>
   <string name="battery_desc_other_apps">Baterija porabljena od ostalih aplikacij</string>
-  <string name="battery_desc_radio">Baterija porabljena od radia</string>
+  <string name="battery_desc_radio">Baterija porabljena od GSM</string>
   <string name="battery_desc_standby">Baterija porabljena ko je telefon nedejaven</string>
   <string name="battery_desc_voice">Baterija porabljena ob klicih</string>
   <string name="battery_desc_wifi">Baterija porabljena od WiFi</string>
@@ -1030,15 +1030,10 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="first_aid_card_apn_title">"Ne morem se povezati na omrežje"</string>
   <string name="first_aid_card_consume_power_button1">Omeji</string>
   <string name="first_aid_card_consume_power_button2">Izključi</string>
-  <string name="first_aid_card_consume_power_button3">Izključi</string>
-  <string name="first_aid_card_consume_power_button4">Izključi</string>
   <string name="first_aid_card_consume_power_summary1">Več kot 5 aplikacijam je dovoljen samodejni zagon. Omejite zaradi varčevanja baterije.</string>
   <string name="first_aid_card_consume_power_summary2">Izključite prenosno dostopno točko zaradi varčevanja baterije.</string>
-  <string name="first_aid_card_consume_power_summary3">Izključite Bluetooth zaradi varčevanja baterije.</string>
-  <string name="first_aid_card_consume_power_summary4">Izključite GPS zaradi varčevanja baterije.</string>
   <string name="first_aid_card_consume_power_title">Uporaba baterije</string>
   <string name="first_aid_card_float_window_button">Omeji</string>
-  <string name="first_aid_card_float_window_summary">%s se lahko prikaže na napačen način. Omejite plavajoča obvestila.</string>
   <string name="first_aid_card_float_window_title">Omogočili ste plavajoča obvestila</string>
   <string name="first_aid_card_kadun_button1">Osvobodite prostor</string>
   <string name="first_aid_card_kadun_button2">Omeji</string>
@@ -1067,6 +1062,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="first_aid_result_feedback_summary">"Ne morem rešiti problemov na tej napravi."</string>
   <string name="first_aid_result_feedback_title">Povratne inf.</string>
   <string name="first_aid_result_summary_normal">Vse zgleda dobro!</string>
+  <string name="first_aid_result_summary_not_finished">"Skeniranje ni končano. Nekatera tveganja morda ne bodo odkrita."</string>
   <string name="first_aid_scanning_item1">Preverjanje problemov z zmogljivostjo…</string>
   <string name="first_aid_scanning_item2">Preverjanje problemov z omrežjem…</string>
   <string name="first_aid_scanning_item3">Preverjanje netočnih stvari…</string>

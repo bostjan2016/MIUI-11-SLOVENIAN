@@ -35,6 +35,7 @@
   <string name="add_to_secret_successful">Dodano v skriti album</string>
   <string name="add_to_share_album_not_delete">"Ne morem izbrisati fotografije v deljenem albumu"</string>
   <string name="added_to_favorites">Dodano v priljubljene</string>
+  <string name="added_to_favorites_desc">Dodano v priljubljene</string>
   <string name="added_to_favorites_tip">Dodano v album \"Priljubljeno\"</string>
   <string name="adding">Dodajanje</string>
   <string name="adding_recipients">Dodajanje prejemnikov…</string>
@@ -122,7 +123,7 @@
   <string name="aspect_ratio_free">Prilagojeno</string>
   <string name="aspect_ratio_origin">Original</string>
   <string name="aspect_ratio_square">1:1</string>
-  <string name="assistant_page_label">Asistent</string>
+  <string name="assistant_page_label">Zgodbe</string>
   <string name="associate_face_album">Izberi album</string>
   <string name="auto_backup_introduce">Samodejno izdelaj var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
   <string name="auto_download_media_title">Prenesi fotografije samodejno iz Mi Clouda</string>
@@ -254,7 +255,7 @@
   <string name="cleaner_screen_shot_action">Izbriši</string>
   <string name="cleaner_screen_shot_description">Izbrišite posnetke zaslona ki jih ne rabite več.</string>
   <string name="cleaner_screen_shot_title">Izbriši posnetke zaslona</string>
-  <string name="cleaner_slim_action">Začetek optimizacije…</string>
+  <string name="cleaner_slim_action">Začni optimizacijo</string>
   <string name="cleaner_slim_description">Obdrži optimizirane fotografije v napravi. Prvotne datoteke so shranjene v Mi Cloudu.</string>
   <string name="cleaner_slim_start">Optimiziraj</string>
   <string name="cleaner_slim_title">Optimiziraj fotografije</string>
@@ -433,6 +434,7 @@
   <string name="empty_recommend_back">Nazaj</string>
   <string name="empty_recommend_face_page_view">Ni več priporočil</string>
   <string name="empty_relation">"Ime skupine ne more biti prazno"</string>
+  <string name="empty_title_no_cards">Vaše zgodbe se bodo pojavile tu.</string>
   <string name="empty_title_no_photos">Ni fotografij ali video posnetkov</string>
   <string name="enable_auto_upload_tip">"Vključim sinhr. z Mi Cloud za ta album?"</string>
   <string name="enable_auto_upload_title">Vključi sinhr. z Mi Cloud</string>
@@ -744,6 +746,7 @@ za fotografije"</string>
   <string name="merge_album_title">Združi z osebo</string>
   <string name="messagelist_sender_self">Jaz</string>
   <string name="micloud_introduce">Samodejno izdelaj var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
+  <string name="more">Več</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face">Več oseb ki so si podobne</string>
   <string name="more_face_album_name">Več oseb</string>
@@ -800,7 +803,8 @@ za fotografije"</string>
   <string name="operation_enable_auto_upload">Omogoči samod. var. kopijo</string>
   <string name="operation_enter_delete_local">Izbriši var. kopije fotografij in videoposnetkov iz naprave</string>
   <string name="operation_enter_delte_thumbnail">Izbriši var. kopije fotografij in videoposnetkov iz naprave</string>
-  <string name="operation_failed">Opravilo ni uspelo</string>
+  <string name="operation_failed">"Ne morem dokončati"</string>
+  <string name="operation_favorites">Priljubleno</string>
   <string name="operation_force_top">Na vrh</string>
   <string name="operation_hide">Skrij</string>
   <string name="operation_in_process">Obdelujem…</string>
@@ -810,7 +814,7 @@ za fotografije"</string>
   <string name="operation_remove_face">Odstrani</string>
   <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
   <string name="operation_remove_from_other_albums">Odstrani iz drugih albumov</string>
-  <string name="operation_remove_secret">Prikaži</string>
+  <string name="operation_remove_secret">Pokaži</string>
   <string name="operation_rename">Preimenuj</string>
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
@@ -1051,6 +1055,7 @@ za fotografije"</string>
   <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
   <string name="remove_to_album_title">Združi z</string>
   <string name="remove_to_other_album">Združi z drugo osebo</string>
+  <string name="removed_from_favorites_desc">Odstranjeno iz priljubljenih</string>
   <string name="remover_edit_type_free">Objekti</string>
   <string name="remover_edit_type_line">Linije</string>
   <string name="remover_erase_aera_too_big">Območje brisanja je preveliko</string>
@@ -1059,6 +1064,8 @@ za fotografije"</string>
   <string name="rename_album">Preimenuj album</string>
   <string name="rename_album_failed">"Ne morem preimenovati"</string>
   <string name="rename_album_succeeded">Uspešno preimenovano</string>
+  <string name="rename_dialog_hint">Vnesi naslov</string>
+  <string name="rename_dialog_title">Preimenuj zgodbo</string>
   <string name="rename_face_album">Spremeni ime</string>
   <string name="rename_fail_msg">"Preimenovanje ni mogoče"</string>
   <string name="rename_from_contact">Ime iz stikov</string>
@@ -1242,6 +1249,14 @@ za fotografije"</string>
   <string name="storage_description_usb">USB shramba</string>
   <string name="storage_description_xspace">Podatki dvojnih aplikacij</string>
   <string name="storage_no_space">Ni dovolj prostora</string>
+  <string name="story_action_remove">Odstrani iz zgodb</string>
+  <string name="story_action_share">Deli</string>
+  <string name="story_option_menu_rename">Preimenuj</string>
+  <string name="story_remove_confirm_message">"Odstranjene fotografije se ne bodo več pojavile v tej zgodbi. Še naprej bodo v Galeriji."</string>
+  <string name="story_remove_confirm_positive">Odstrani</string>
+  <string name="story_remove_confirm_title">Odstranjanje fotografij…</string>
+  <string name="story_rename_invalid_char">"Ne morete uporabiti \"%s\" v naslovu zgodbe. Uporabite črke in znake."</string>
+  <string name="story_rename_invalid_prefix">"Naslovi zgodb se ne morejo začeti z \".\" ili \"_\""</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povleci fotografijo za poravnavo</string>
   <string name="sub_discard_confirm_message">Shranim spremembe?</string>
