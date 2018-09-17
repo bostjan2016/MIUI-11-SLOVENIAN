@@ -55,7 +55,7 @@
   <string name="button_settings_confirm_to_revoke_title">Prekličem avtorizacijo?</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="change_alert">Preverite omrežno povezavo in poskusite ponovno</string>
-  <string name="china_version_first_start_network_msg">"Z uporabe sprejemate Xiaomi %1$s in %2$s. Aplikacija potrebuje dostop do spleta in lokacije. Se strinjate?"</string>
+  <string name="china_version_first_start_network_msg">Morate se strinjati z Xiaomi %1$s in %2$s. Aplikacija potrebuje dostop do spleta in lokacije. Se strinjate?"</string>
   <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
   <string name="close">Zapri</string>
   <string name="commercial">Komercialno</string>
@@ -65,6 +65,7 @@
   <string name="content_desc_activity_main_add_city_manage">Upravljaj s krajom</string>
   <string name="content_desc_activity_main_more_settings">Več nastavitev</string>
   <string name="content_desc_back_button">Nazaj</string>
+  <string name="content_desc_city_manage_del">Izbriši</string>
   <string name="content_desc_close_button">Zapri</string>
   <string name="content_desc_edit_city_manage">Urejaj mesta</string>
   <string name="daily_forcast_drawer_on_bottom">Skrij</string>

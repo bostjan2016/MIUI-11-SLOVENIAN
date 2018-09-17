@@ -631,10 +631,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_deepclean_wechat_action">Izbriši</string>
   <string name="card_main_deepclean_wechat_summary">Izbriši WeChat predspomin da sprostite prostor za shranjevanje</string>
   <string name="card_main_deepclean_wechat_title">WeChat predspomin</string>
+  <string name="card_main_deepclean_whatsapp_title">WhatsApp čistilec</string>
   <string name="card_main_gamebooster_summary">Povečajte stabilnost povezave za igre</string>
   <string name="card_main_gamebooster_title">Izboljšajte hitrost igranja</string>
   <string name="card_main_hbassistant_summary">Pohitrite in izboljšajte reakcijo iger</string>
   <string name="card_main_hbassistant_title">Pohitri igre</string>
+  <string name="card_main_hwtest_title">Hardware test</string>
   <string name="card_main_monthreport_action">Pokaži</string>
   <string name="card_main_monthreport_summary">Prikaži mesečna poročila</string>
   <string name="card_main_monthreport_title">Varnostna statistika</string>
