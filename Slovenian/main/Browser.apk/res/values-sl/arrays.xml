@@ -135,4 +135,9 @@
     <item>Dež</item>
     <item>Sneg</item>
   </string-array>
+  <string-array name="pref_tab_restore_array">
+        <item>Vprašaj</item>
+        <item>Odpri</item>
+        <item>Zapri</item>
+    </string-array>
 </resources>
