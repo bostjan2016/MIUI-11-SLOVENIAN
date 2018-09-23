@@ -161,7 +161,7 @@ nastavitev in aplikacij"</string>
   <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
   <string name="flash_drive_backup_btn">Napravi var. kopijo v USB shrambo</string>
   <string name="flash_drive_backup_note">"Napravi var. kopijo aplikacij v USB shrambo.
-Preverite mali ima USB naprava dovolj prostora."</string>
+Preverite ali ima USB naprava dovolj prostora."</string>
   <string name="flash_drive_backup_restore">Var. kopije USB naprave</string>
   <string name="flash_drive_connection_failed">USB naprava ni povezana</string>
   <string name="flash_drive_restore_btn">Povrni var. kopijo iz USB naprave</string>

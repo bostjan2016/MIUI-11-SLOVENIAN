@@ -192,7 +192,7 @@
      <plurals name="zen_mode_summary_alarms_only_by_minute">
         <item quantity="other">Spremeni na \"Samo alarmi\" za %1$d minut (do %2$s)</item>
         <item quantity="one">Spremeni na \"Samo alarmi\" za %1$d minuto (do %2$s)</item>
-        <item quantity="two">Spremeni na \"Samo alarmi\" za %1$d minuti (do %2$s)</item>
+        <item quantity="few">Spremeni na \"Samo alarmi\" za %1$d minuti (do %2$s)</item>
      </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Vedno onemogoči za %d aplikacij</item>
@@ -450,4 +450,100 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="other">%d drugih</item>
         <item quantity="one">1 drugi</item>
     </plurals>   
+	     <plurals name="backup_items_app_tailer">
+         <item quantity="other">Podatkovne datoteke aplikacij: %d</item>
+         <item quantity="one">%d podatkovna datoteka aplikacije</item>
+     </plurals>
+     <plurals name="backup_items_sysdata_tailer">
+         <item quantity="other">Podatkovne datoteke sistema: %d</item>
+         <item quantity="one">%d podatkovna datoteka sistema</item>
+     </plurals>
+     <plurals name="custom_progress">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
+     <plurals name="data_item_count">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d dovoljenje</item>
+        <item quantity="one">%d dovoljenje</item>
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d aplikacij nima samod. zagona</item>
+        <item quantity="one">%d aplikacija nima samod. zagona</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d aplikacij ima samod. zagon</item>
+        <item quantity="one">%d aplikacija ima samod. zagon</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d aplikacij</item>
+        <item quantity="one">%d aplikacija</item>
+     </plurals>
+     <plurals name="install_game_count_title">
+         <item quantity="other">Število dodanih iger: %d</item>
+         <item quantity="one">Dodana %d igra</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg1">
+         <item quantity="other">"Uvoženo stvari: %d"</item>
+         <item quantity="one">"Uvožena %d stvar."</item>
+     </plurals>
+     <plurals name="save_item_failed_summary_seg2">
+         <item quantity="other">Ponovno uvozite stvari: %d.</item>
+         <item quantity="one">Ponovno uvozite %d stvar</item>
+     </plurals>
+     <plurals name="save_item_saved_summary">
+         <item quantity="other">Uvožene in obnovljene stvari: %d</item>
+         <item quantity="one">Uvožena in obnovljena %d stvar</item>
+     </plurals>
+     <plurals name="save_item_saving_summary">
+         <item quantity="other">Obnovljenih stvari: %d</item>
+         <item quantity="one">Obnovljena stvar: %d</item>
+     </plurals>
+     <plurals name="select_item_count_unit">
+        <item quantity="other">stvari</item>
+        <item quantity="one">stvar</item>
+     </plurals>
+     <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d stvari</item>
+        <item quantity="one">%1$s | %2$d stvar</item>
+     </plurals>
+     <plurals name="show_audio_logcat_countdown">
+        <item quantity="other">%1$d korakov preden dobite zvočni zapis</item>
+        <item quantity="one">%1$d korak preden dobite zvočni zapis</item>
+     </plurals>
+     <plurals name="show_gps_logcat_countdown">
+        <item quantity="other">%1$d korakov preden dobite GPS zapis</item>
+        <item quantity="one">%1$d korak preden dobite GPS zapis</item>
+     </plurals>
+     <plurals name="show_modem_logcat_countdown">
+        <item quantity="other">%1$d korakov preden dobite zapis modema</item>
+        <item quantity="one">%1$d korak preden dobite zapis modema</item>
+     </plurals>
+     <plurals name="total_num">
+        <item quantity="other">%d stvari,</item>
+        <item quantity="one">%d stvar,</item>
+     </plurals>
+     <plurals name="trans_failed_summary">
+        <item quantity="other">"Ne morem poslati stvari: %d. Tapni za podrobnosti."</item>
+        <item quantity="one">"Ne morem poslati %d stvar. Tapni za podrobnosti."</item>
+     </plurals>
+     <plurals name="trans_item_failed_summary">
+        <item quantity="other">"Ne morem poslati stvari: %d."</item>
+        <item quantity="one">"Ne morem poslati %d stvar."</item>
+     </plurals>
+     <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="trans_time_format_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+         <item quantity="other">"Število nedodanih iger: %d"</item>
+         <item quantity="one">"Ni dodana %d igra"</item>
+     </plurals>
 </resources> 
