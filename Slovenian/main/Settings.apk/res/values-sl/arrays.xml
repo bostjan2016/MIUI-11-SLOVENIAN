@@ -1295,5 +1295,18 @@
 	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Išči</item>
         <item>Nastavitve</item>
+	</string-array>
+     <string-array name="trans_succeed_survey_title">
+        <item>Celotna ocena</item>
+        <item>Trajanje prenosa</item>
+        <item>Enostavnost procesa</item>
+        <item>Jasnost navodil</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Zelo nezadovoljen</item>
+        <item>Zmereno nezadovoljen</item>
+        <item>Ne vem</item>
+        <item>Zmerno zadovoljen</item>
+        <item>Zelo zadovoljen</item>
     </string-array>
 </resources>

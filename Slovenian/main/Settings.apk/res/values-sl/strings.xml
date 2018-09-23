@@ -1709,7 +1709,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="dark_ui_mode_title">Nastavitev nočnega načina</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
   <string name="dashboard_title">Nastavitve</string>
-  <string name="data_limit">Omejitev prenosa podatkov</string>
+  <string name="data_detail_description">Podrobnosti</string>
   <string name="data_item_desc">Podatki</string>
   <string name="data_limit">Omejitev podatkov</string>
   <string name="data_no_enough_space_message">"Ni dovolj prostora nv pomnilniku vaše naprave."</string>
@@ -4348,6 +4348,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
     <string name="overlay_settings">Prekrivanje drugih aplikacij</string>
   <string name="owner_info_settings_edit_text_hint">Npr. Janezov Android</string>
+  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Brez</string>
     <string name="owner_info_settings_title">Spor. na zakl. zasl.</string>
   <string name="owner_space">Prvi prostor</string>
@@ -4426,7 +4427,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="password">Geslo</string>
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
   <string name="password_entrance_title">Zakl. zaslona</string>
-  <string name="password">Geslo</string>
+  <string name="password_guard">Geslo</string>
   <string name="password_null">Polje Geslo ne sme biti prazno</string>
   <string name="password_turned_off_text">Geslo je izključeno</string>
   <string name="password_turned_on_text">Geslo je vključeno</string>

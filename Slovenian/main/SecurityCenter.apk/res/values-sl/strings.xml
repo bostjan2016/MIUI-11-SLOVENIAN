@@ -1213,7 +1213,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="hide_mode_app_background_setting_text">Varčevanje baterije aplikacij</string>
   <string name="hide_mode_result_summary_text">Prilagodite nastavitve varčevanja baterije za posamezne aplikacije</string>
   <string name="hide_mode_title_text">Prihranek baterije</string>
-  <string name="hide_system_app">Skrij sistemske animacije</string>
+  <string name="hide_system_app">Skrij sistemske aplikacije</string>
   <string name="hint_antispam_mode_edit">Prilagojeni način</string>
   <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
   <string name="hints_cleanning_done">Uspešno preverjeno</string>
@@ -2285,7 +2285,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="recommend_app">Priporočene aplikacije</string>
   <string name="recommend_news">Priporočeni viri</string>
   <string name="recommended">Izpostavljeno</string>
-  <string name="reject_all">Omejitev za vse</string>
+  <string name="reject_all">Omeji vse</string>
   <string name="reject_countdown">Zavrni (%d)</string>
   <string name="reject_usb_install">Zavrnjen pristop namestitve teh aplikacij preko USB-a</string>
   <string name="release_meminfo">Osvobodite %dMB</string>
@@ -2435,7 +2435,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="share">Deli</string>
   <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih ponovno vključite</string>
   <string name="shield_keyboard_title">Izključi tipke</string>
-  <string name="show_system_app">Prikaži sistemske animacije</string>
+  <string name="show_system_app">Prikaži sistemske aplikacije</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to opravilo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>

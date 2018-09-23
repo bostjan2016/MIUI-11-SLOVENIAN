@@ -111,4 +111,8 @@
         <item quantity="other">pred %1$d dni</item>
         <item quantity="one">pred %1$d dnem</item>
     </plurals>
+	 <plurals name="event_reminders_to_max">
+        <item quantity="other">Lahko nastavite do %d opomnikov</item>
+        <item quantity="one">Lahko nastavite %d opomnik</item>
+    </plurals>
 </resources>

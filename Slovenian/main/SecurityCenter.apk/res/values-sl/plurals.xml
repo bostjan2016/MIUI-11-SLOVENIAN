@@ -138,7 +138,7 @@
         <item quantity="one">Uporabljeno včeraj</item>
     </plurals>
     <plurals name="search_app_count_txt">
-        <item quantity="other">Pregledovanje (%d) aplikacij</item>
+        <item quantity="other">Pregledovanje aplikacij: %d</item>
         <item quantity="one">Pregled %d aplikacije</item>
     </plurals>
     <plurals name="hints_roaming_enable_title">
@@ -202,28 +202,28 @@
          <item quantity="one">Izbrisan %d virus</item>
      </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">(%d) aplikacij s Samodejnim zagonom</item>
-        <item quantity="one">(%d) aplikacija s Samodejnim zagonom</item>
+        <item quantity="other">%d aplikacij s Samodejnim zagonom</item>
+        <item quantity="one">%d aplikacija s Samodejnim zagonom</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">"(%d) aplikacij brez Samodejnega zagona"</item>
-        <item quantity="one">"(%d) aplikacija brez Samodejnega zagona"</item>
+        <item quantity="other">"%d aplikacij brez Samodejnega zagona"</item>
+        <item quantity="one">"%d aplikacija brez Samodejnega zagona"</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">Dovoljenj: %d</item>
-        <item quantity="one">Dovoljenje: %d</item>
+        <item quantity="other"> %d dovoljenj</item>
+        <item quantity="one"> %d dovoljenje</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
-        <item quantity="other">Aplikacij: %d</item>
-        <item quantity="one">Aplikacija: %d</item>
+        <item quantity="other"> %d aplikacij</item>
+        <item quantity="one"> %d aplikacija</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">(%d) aplikacij z ROOT dostopom</item>
-        <item quantity="one">(%d) aplikacija z ROOT dostopom</item>
+        <item quantity="other">%d aplikacij z ROOT dostopom</item>
+        <item quantity="one">%d aplikacija z ROOT dostopom</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">"(%d) aplikacij brez ROOT dostopa"</item>
-        <item quantity="one">"(%d) aplikacija bez ROOT dostopa"</item>
+        <item quantity="other">"%d aplikacij brez ROOT dostopa"</item>
+        <item quantity="one">"%d aplikacija bez ROOT dostopa"</item>
     </plurals>
 	<plurals name="manual_white_list_header">
          <item quantity="other">%d izjem</item>

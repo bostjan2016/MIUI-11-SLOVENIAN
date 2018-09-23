@@ -1903,7 +1903,10 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wapi_password_length_is_min_to_max">Geslo mora biti: od 8-64 znakov</string>
   <string name="wapi_yes">da</string>
   <string name="weather_publish_time">Posodobljeno %1$s</string>
+  <string name="wifi_aggressive_handover">Agresivni WiFi na mobilni prenos</string>
+  <string name="wifi_aggressive_handover_summary">Ko je omogočeno se bo povezava aktivnrje preklopila na mobilne podatke ko bo WiFi signal slab.</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka začasno zasedena</string>
+  <string name="wifi_allow_scan_with_traffic">Zmeraj omogoči skeniranje WiFi prostorov</string>
   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
   <string name="wifi_cant_connect">"Ne morem se povezati"</string>
   <string name="wifi_cant_connect_to_ap">"Ne morem se povezati na '%1$s'"</string>

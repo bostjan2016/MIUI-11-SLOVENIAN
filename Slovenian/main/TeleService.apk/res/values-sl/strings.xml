@@ -335,6 +335,7 @@
   <string name="bluetooth_profile_a2dp">Medijski zvok</string>
   <string name="bluetooth_profile_a2dp_high_quality">Uporabljaj visokokakovosten avdio: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Uporabljaj visokokakovosten avdio</string>
+  <string name="bluetooth_profile_dun">Klicni dostop</string>
   <string name="bluetooth_profile_headset">Telefonski klici</string>
   <string name="bluetooth_profile_hearing_aid">Slušni aparat</string>
   <string name="bluetooth_profile_hid">Vhodna naprava</string>
@@ -381,13 +382,21 @@ hitrost vzorčenja"</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
   <string name="callEnded_pulled">Poziv prenesen na drugo napravo.</string>
   <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni dostopna</string>
+  <string name="callFailed_access_information_discarded">Informacije o dostopu zavrnjene</string>
+  <string name="callFailed_bearer_capability_not_authorized">Možnost nosilca ni pooblaščena</string>
+  <string name="callFailed_bearer_capability_unavailable">Možnost nosilca trenutno ni dostopna</string>
+  <string name="callFailed_bearer_service_not_implemented">Storitev nosilca not implemented</string>
+  <string name="callFailed_call_rejected">Klic zavrnjen</string>
   <string name="callFailed_cb_enabled">Med aktivno zaporo klicev ni mogoče opravljati odhodnih klicev.</string>
   <string name="callFailed_cdma_activation">Kartica SIM je aktivirala vašo storitev in posodobila možnosti telefona za gostovanje.</string>
   <string name="callFailed_cdma_call_limit">Preveč aktivnih klicev. Prekinite ali združite obstoječe klice pred vzpostavitvijo novega klica.</string>
+  <string name="callFailed_channel_unacceptable">Kanal nesprejemljiv</string>
+  <string name="callFailed_conditional_IE_error">Pogojna IE napaka</string>
   <string name="callFailed_congestion">Omrežje je zasedeno</string>
   <string name="callFailed_data_disabled">Klic je končan ker so mobilni podatki onemogočeni.</string>
   <string name="callFailed_data_limit_reached">Dosežena je omejitev prenosa podatkov. Klic je končan.</string>
   <string name="callFailed_data_limit_reached_description">Klic je končan ker je dosežena omejitev prenosa mobilnih podatkov.</string>
+  <string name="callFailed_destination_out_of_order">Destinacija izven vrste</string>
   <string name="callFailed_dialToDial">Spremenjeno v drugo barvo</string>
   <string name="callFailed_dialToDialVideo">DIAL zahteva je spremenjena v Video DIAL.</string>
   <string name="callFailed_dialToSs">DIAL zahtevek modificiran za SS zahtevek.</string>
@@ -1587,7 +1596,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="operator_mins_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
-  <string name="optional_summary">&lt;Izbirno></string>
+  <string name="optional_summary">&lt;Izbirno&gt;</string>
   <string name="order_by_name">Po abesedi</string>
   <string name="order_by_recent">Pogosto uporabljano</string>
   <string name="order_error_network">Ne morem prenesti, omrežje ni dostopno.</string>
@@ -1708,10 +1717,12 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
     <string name="power_discharge_by_only_enhanced">Naprava bi morala glede na način uporabe delovati do približno %1$s</string>
     <string name="power_discharging_duration">Še približno %1$s (%2$s)</string>
     <string name="power_discharging_duration_enhanced">Glede na način uporabe še približno %1$s (%2$s)</string>
+  <string name="power_discharging_duration_short">^1 – še ^2</string>
   <string name="power_remaining_charging_duration_only">Še %1$s do polne napolnjenosti</string>
   <string name="power_remaining_duration_only">Še približno %1$s</string>
     <string name="power_remaining_duration_only_enhanced">Glede na način uporabe še približno %1$s</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
+  <string name="power_remaining_duration_only_short_enhanced">^1 ostalo na osnovi vaše uporabe</string>
     <string name="power_remaining_duration_only_shutdown_imminent">Telefon se bo morda kmalu zaustavil</string>
     <string name="power_remaining_duration_shutdown_imminent">Telefon se bo morda kmalu zaustavil (%1$s)</string>
     <string name="power_remaining_less_than_duration">Preostanek: manj kot %1$s (%2$s)</string>
@@ -1815,8 +1826,8 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_networks"/>
   <string name="preferred_phone_account">Prednostni račun klica</string>
   <string name="preferred_wificall_title">Nastavitve omrežja</string>
+  <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
-  <string name="primary_account_summary_with">Prvotni račun. %s</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
@@ -1965,9 +1976,9 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="roaming_warning">Dovolim podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
   <string name="rsp_unlock_failed">RUIM zahtevek odklepa ponudnika storitev neuspešen.</string>
   <string name="rsp_unlock_success">RUIM odklep ponudnika storitev uspešen.</string>
-    <string name="rtt_mode_more_information">"Opravilo RTT pomaga klicateljem, ki so gluhi, naglušni, imajo govorno motnjo ali potrebujejo več kot samo glas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt>Več o tem&lt;/a>
-       &lt;br>&lt;br> – Klici RTT se shranijo kot prepis sporočila
-       &lt;br> – RTT ni na voljo pri videoklicih"</string>
+    <string name="rtt_mode_more_information">"Opravilo RTT pomaga klicateljem, ki so gluhi, naglušni, imajo govorno motnjo ali potrebujejo več kot samo glas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Več o tem&lt;/a&gt;
+     &lt;br&gt;&lt;br&gt; – Klici RTT se shranijo kot prepis sporočila
+     &lt;br&gt; – RTT ni na voljo pri videoklicih"</string>
     <string name="rtt_mode_summary">Dovoli izmenjavo sporočil v glasovnem klicu</string>
     <string name="rtt_mode_title">Klic s sprotnim besedilom (RTT)</string>
   <string name="ruim_unlock_failed">RUIM zahtevek odklepa neuspešen.</string>
@@ -2383,7 +2394,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibriranje</string>
   <string name="voicemail_notification_vibrate_when_title">Vibriranje</string>
   <string name="voicemail_notifications_preference_title">Obvestila</string>
-  <string name="voicemail_number_not_set">Ni nastavljeno</string>
+  <string name="voicemail_number_not_set">&lt;Ni nastavljeno&gt;</string>
   <string name="voicemail_provider">Storitev glasovne pošte</string>
   <string name="voicemail_provider_summary">Izberite storitev glasovne pošte</string>
   <string name="voicemail_set_pin_dialog_title">Nastavitev PIN-a</string>
@@ -2477,6 +2488,8 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_no_internet_no_reconnect">Dostop do spleta ni najden. Ni ponovnega samodejnega povezovanja.</string>
   <string name="wifi_not_in_range">Ni v dosegu</string>
   <string name="wifi_only">Samo WiFi</string>
+  <string name="wifi_p2p_allow_passive_listen">Omogoči WiFi P2P pasivno poslušanje</string>
+  <string name="wifi_p2p_allow_passive_listen_summary">Omogoči/onemogoči WiFi P2P pasivno poslušanje, naprava ne more skenirati druge naprave, druge naprave pa lahko skenirajo trenutno napravo</string>
   <string name="wifi_pref_none">Ni izbranih preferenc</string>
   <string name="wifi_preferred">WiFi preferirano</string>
   <string name="wifi_remembered">Shranjeno</string>

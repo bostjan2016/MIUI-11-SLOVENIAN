@@ -78,9 +78,9 @@ nastavitev in aplikacij"</string>
   <string name="cancel_moving_dialog_title">Ustavi uvoz</string>
   <string name="cancel_restore">Ustavi</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
-  <string name="close_twice_auth_btn">Izključite Apple ID autorizacijo z dvema faktorjema</string>
+  <string name="close_twice_auth_btn">Izključite autorizacijo z dvema faktorjema</string>
   <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dvojne avtentifikacije izključeno. Če ne vidite opcije izključitve dvojne prveerbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
-  <string name="close_twice_auth_operation">"Spletna stran:\nhttps://appleid.apple.com/#!&amp;page=signin to close"</string>
+  <string name="close_twice_auth_operation">"Spletna stran:\nhttps://appleid.apple.com/#!&amp;page=signin da zaprete"</string>
   <string name="close_twice_auth_step_1">1. Odprite brskalnik na računalniku in pojdite na appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Prijavite se na Apple ID za katerega želite onemogočiti avtorizacijo z dvema faktorjema, pojdite na poglavje \"Varnost\" v nastavitvah računa in izberite \"Uredi\"</string>
   <string name="close_twice_auth_step_3">3. Kliknite \"Izključi avtorizacijo z dvemaa faktorjema\". Kliknite ponovno za potrditev.</string>
@@ -92,15 +92,14 @@ nastavitev in aplikacij"</string>
   <string name="cloud_backup_window_title">Mi Cloud varnostna kopija</string>
   <string name="cloud_home_title">Mi Cloud</string>
   <string name="cloud_item_info_summary">" (Lokalno : %1$s | Mi Cloud : %2$s)"</string>
-  <string name="cloud_last_backup">"Zadnja  var. kopija"</string>
+  <string name="cloud_last_backup">"Zadnja var. kopija"</string>
   <string name="cloud_no_backup">Ni varnostnih kopij</string>
   <string name="cloud_restore_guide">Za obnovitev podatkov %s tapni Obnovi</string>
   <string name="cloud_restore_title">Obnovi iz varnostne kopije</string>
   <string name="cloud_restore_window_title">Obnovi iz Mi Cloud</string>
   <string name="cloud_search">Iščem...</string>
-  <string name="comma_seperator">", "</string>
-  <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji...</string>
-  <string name="compute_delete_contact_info">Pridobivanje podrobnosti...</string>
+  <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji…</string>
+  <string name="compute_delete_contact_info">Pridobivanje podrobnosti…</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
   <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatakov iz iClouda potrbujete WiFi.</string>
   <string name="contact_title">Stiki</string>
@@ -161,7 +160,7 @@ nastavitev in aplikacij"</string>
   <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
   <string name="flash_drive_backup_btn">Napravi var. kopijo v USB shrambo</string>
   <string name="flash_drive_backup_note">"Napravi var. kopijo aplikacij v USB shrambo.
-Preverite ali ima USB naprava dovolj prostora."</string>
+Preverite mali ima USB naprava dovolj prostora."</string>
   <string name="flash_drive_backup_restore">Var. kopije USB naprave</string>
   <string name="flash_drive_connection_failed">USB naprava ni povezana</string>
   <string name="flash_drive_restore_btn">Povrni var. kopijo iz USB naprave</string>
@@ -199,6 +198,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="import_data_from_icloud">Uvozi podatke iz iClouda</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
   \u0009http://www.miliao.com 
+
   2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”"</string>
   <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
   <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje stikov iz vaših naprav.</string>
@@ -221,7 +221,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="local_select_userapp">Aplikacije</string>
   <string name="local_select_video">Videoposnetki</string>
   <string name="login">Prijava</string>
-  <string name="login_failed">Prijava ni uspela. Poskusite ponovno.</string>
+  <string name="login_failed">Ne morem se prijaviti. Poskusite ponovno.</string>
   <string name="logining">Prijava…</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
@@ -290,7 +290,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="read_encrypt_fail">"Šifrirane varnostne kopije ni mogoče prebrati"</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="refresh">Osveži</string>
-  <string name="remote_receive">Prejemanje</string>
+  <string name="remote_receive">Sprejmi</string>
   <string name="restore">Obnovi</string>
   <string name="restore_backup">Vrni</string>
   <string name="restore_contact">Obnovi stike</string>
@@ -299,7 +299,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="restore_counts">Obnovi:</string>
   <string name="restore_data">Izberi datoteke za obnovitev:</string>
   <string name="restore_failed">Obnovitev ni mogoča</string>
-  <string name="restore_finished">Obnovitev uspešna</string>
+  <string name="restore_finished">Uspešno obnovljeno</string>
   <string name="restore_is_running">Vračanje naprave</string>
   <string name="restore_launcher_layout_hit">Obnavljam nastavitve zaganjalnika</string>
   <string name="restore_progress">Obnavljam...</string>
