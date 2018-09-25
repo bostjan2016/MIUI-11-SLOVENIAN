@@ -363,7 +363,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="animator_duration_scale_title">Lestvica trajanja animacije</string>
     <string name="another_migration_already_in_progress">Poteka že druga selitev.</string>
   <string name="anr_record_interval_title">Posnemi ANR intervale</string>
-  <string name="anti_spam">AntiSpam</string>
+  <string name="anti_spam">Seznam blokiranih</string>
   <string name="aod_close_color_inversion">"To opravilo se ne more kombinirati z inverzijo barv. Izključite jo."</string>
   <string name="aod_got_it">Razumem</string>
   <string name="aod_mode_summary">Zmeraj prikaži čas, datum in sporočila ko je zaslon izključen.</string>
@@ -1545,7 +1545,6 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="condition_zen_title">Način »ne moti« je vklopljen</string>
   <string name="config_charging_function_name">Polnjenje</string>
   <string name="config_list_label">Konfigurirana omrežja</string>
-  <string name="config_mass_storage_function_name">mass_storage</string>
   <string name="configure">Nastavi</string>
     <string name="configure_apps">Konfiguriranje aplikacij</string>
     <string name="configure_input_method">Nastavitev načinov vnosa</string>
@@ -2041,7 +2040,6 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dirac_mode_piston_youth">Mi piston-youth</string>
     <string name="direct_boot_unaware_dialog_message">Opomba: po vnovičnem zagonu te aplikacije ni mogoče zagnati, če ne odklenete telefona.</string>
     <string name="directory_access">Dostop do imenika</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_continue">Onemogoči</string>
   <string name="disable_data_string">Onemogoči podatkovno povezavo</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
@@ -3825,13 +3823,13 @@ Na tej napravi je več uporabnikov.
   <string name="model_summary">Model: %1$s</string>
   <string name="modem_tool_log">Zabeleži zapise modema</string>
   <string name="modem_tool_log_start">Začni</string>
-  <string name="modem_tool_log_start_toast">"Začni zapisnik modema na %s"</string>
+  <string name="modem_tool_log_start_toast">"Začni zapis modema na %s"</string>
   <string name="modem_tool_log_stop">Ustavi</string>
-  <string name="modem_tool_log_stop_toast">"Ustavi zapisnik modema iz %s"</string>
+  <string name="modem_tool_log_stop_toast">"Ustavi zapis modema iz %s"</string>
   <string name="modify_instruction_password_settings">Nastavi geslo</string>
   <string name="modify_privacy_password">Zamenjaj geslo</string>
   <string name="move_app">Premakni</string>
-    <string name="move_app_failed_dlg_text">Aplikacije ni bilo mogoče premakniti. %1$s</string>
+    <string name="move_app_failed_dlg_text">"Ne morem premakniti aplikacijo %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Premakni v telefon</string>
     <string name="move_app_to_sdcard">Premakni na pomnilnik USB</string>
@@ -3840,7 +3838,7 @@ Na tej napravi je več uporabnikov.
   <string name="mqs_privacy_automatically_upload">Samodejno preberi</string>
   <string name="mqs_privacy_dialog_cancel">Prekliči</string>
   <string name="mqs_privacy_dialog_confirm">Preberi</string>
-  <string name="mqs_privacy_dialog_content">Preberem dnevnike za rešitev problema? Lahko vsebujejo vaše osebne podatke, vključno informacije o vaši lokaciji.</string>
+  <string name="mqs_privacy_dialog_content">Preberem zapise za rešitev problema? Lahko vsebujejo vaše osebne podatke, vključno informacije o vaši lokaciji.</string>
   <string name="mqs_privacy_dialog_title">Prišlo je do napake</string>
   <string name="msd_driver_download">Prenesite gonilnik</string>
   <string name="msd_driver_download_mac">"Za Mac prenesite upravljalski program in kliknite AndroidFileTransfer.dmg za namestitev"</string>
@@ -4153,7 +4151,7 @@ Na tej napravi je več uporabnikov.
   <string name="notif_parse_select_descript_error">"Ne morem sinhronizirati seznam shranjenih stvari."</string>
   <string name="notif_receiving_transingsd">Sprejem %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">Uspešno vrnjeno</string>
-  <string name="notif_restore_content">Vračanje upor. podatkov</string>
+  <string name="notif_restore_content">Vračanje upor. podatkov…</string>
   <string name="notif_restore_title">Vrni upor. podatke</string>
   <string name="notif_sending_transingsd">Pošiljanje %1$s (%2$s)…</string>
   <string name="notif_trans_auto_reconnecting_content">Če je potrebno, lahko odpoveste trenutno nalogo.</string>
@@ -5504,9 +5502,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_credentials_install">Namesti iz pomnilnika;Neposredna namestitev;Namesti APK</string>
   <string name="search_date_and_time_settings_title">Date &amp; time;Date and time;Date;Time</string>
   <string name="search_date_time">Datum &amp; čas;Datum in čas;Datum;Čas</string>
-  <string name="search_description">"Nastavitve iskanja"</string>
-  <string name="search_development_settings">Možnosti za razvijalce, Assist</string>
-  <string name="search_development_settings_title">Developer options;Assist</string>
+  <string name="search_description">"Preišči nastavitve"</string>
+  <string name="search_development_settings">Možnosti za razvijalce, Asistent</string>
+  <string name="search_development_settings_title">Možnosti za razvijalce;Asistent</string>
   <string name="search_device_name">Ime naprave</string>
   <string name="search_device_status">Status</string>
   <string name="search_display">Zaslon;Zaslon;Ambientna svetloba;Klic v žepu</string>
@@ -5722,7 +5720,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
   <string name="security_input">Varna tipkovnica</string>
   <string name="security_input_hint">S pomočjo varne tipkovnice vnesite geslo</string>
-  <string name="security_keyguard_category_name">Zaklenjen zaslon</string>
+  <string name="security_keyguard_category_name">Zakl. zaslon</string>
   <string name="security_password_category_name">Zakl. zaslona</string>
     <string name="security_passwords_title">Zasebnost</string>
   <string name="security_patch">Raven popravkov za varnost v Androidu</string>
@@ -6033,7 +6031,7 @@ Morda je koda PIN napačna."</string>
   <string name="sim_pins_dont_match">Kodi PIN se ne ujemata</string>
   <string name="sim_pref_divider">Prednostna kartica SIM za:</string>
   <string name="sim_preferred_message">%1$s je edina kartica SIM v napravi. Želite uporabljati to kartico SIM za prenos podatkov v mobilnih omrežjih, klice in sporočila SMS?</string>
-    <string name="sim_preferred_title">Želite sprem. pred. kart. SIM?</string>
+  <string name="sim_preferred_title">Posodobim željeno SIM?</string>
   <string name="sim_radio_off">Izključeno</string>
   <string name="sim_reenter_new">Znova vnesite novi PIN</string>
   <string name="sim_select_card">Izberite kartico SIM</string>
@@ -7749,8 +7747,8 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="wifi_context_menu_change_wapi_certificate">Spremeni WAPI certifikate</string>
   <string name="wifi_context_menu_connect">Poveži</string>
   <string name="wifi_context_menu_forget">Pozabi</string>
-  <string name="wifi_coverage_extend">Enable WLAN Coverage Extend Feature</string>
-  <string name="wifi_coverage_extend_summary">Enable extending WLAN coverage using Hotspot</string>
+  <string name="wifi_coverage_extend">Omogoči storitev širjenja pokritosti WiFi-ja</string>
+  <string name="wifi_coverage_extend_summary">Omogoči širjenje WiFi pokritosti preko dostopne točke</string>
     <string name="wifi_data_template">^1 podatkov prek omrežij WiFi</string>
     <string name="wifi_data_usage">Prenesena količina podatkov v omrežju WiFi</string>
   <string name="wifi_datanetwork_switch_not_remind">"Ne kaži več"</string>
@@ -7845,16 +7843,16 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
     <string name="wifi_hotspot_configure_ap_text_summary">Dostopna točka AndroidAP WPA2 PSK</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
     <string name="wifi_hotspot_footer_info_local_only">Aplikacije lahko ustvarijo dostopno točko za skupno rabo vsebin z napravami v bližini.</string>
-    <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje Wi‑Fi za svoje druge naprave. Dostopna točka omogoča uporabo interneta prek mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
+    <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje WiFi za svoje druge naprave. Dostopna točka omogoča uporabo interneta prek mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
     <string name="wifi_hotspot_message">%1$s zahteva spletno prijavo pred povezavo v omrežje.</string>
     <string name="wifi_hotspot_name_summary_connected">Druge naprave se lahko povežejo z dostopno točko %1$s</string>
-    <string name="wifi_hotspot_name_summary_connecting">Vklapljanje dostopne točke %1$s...</string>
+  <string name="wifi_hotspot_name_summary_connecting">Vklapljanje dostopne točke %1$s…</string>
     <string name="wifi_hotspot_name_title">Ime dostopne točke</string>
     <string name="wifi_hotspot_no_password_subtext">Geslo ni nastavljeno</string>
-    <string name="wifi_hotspot_off_subtext">Internetna povezava ali vsebina ni v skupni rabi z drugimi napravami</string>
-    <string name="wifi_hotspot_on_local_only_subtext">Aplikacija daje vsebino v skupno rabo. Če želite omogočiti skupno rabo internetne povezave, dostopno točko izklopite in znova vklopite.</string>
+    <string name="wifi_hotspot_off_subtext">Spletna povezava ali vsebina ni v skupni rabi z drugimi napravami</string>
+    <string name="wifi_hotspot_on_local_only_subtext">Aplikacija daje vsebino v skupno rabo. Če želite omogočiti skupno rabo spletne povezave, dostopno točko izklopite in znova vklopite.</string>
     <string name="wifi_hotspot_password_title">Geslo za dostopno točko</string>
-    <string name="wifi_hotspot_tethering_on_subtext">Skupna raba internetne povezave tega telefona prek dostopne točke</string>
+    <string name="wifi_hotspot_tethering_on_subtext">Skupna raba spletne povezave tega telefona prek dostopne točke</string>
   <string name="wifi_hotspot_title">Ali se želite prijaviti da se lahko povežete?</string>
   <string name="wifi_in_airplane_mode">V načinu Letalo</string>
   <string name="wifi_info_reconnect">Povezava ni uspela, poskusite ponovno!</string>
@@ -7959,10 +7957,10 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_scan_always_turnoff_message">Če želite to možnost izklopiti v meniju z dodatnimi elementi odprite »Dodatno«.</string>
   <string name="wifi_scan_always_turnon_message">"Za izboljšanje natančnosti lokacijskih podatkov in druge namene želi %1$s vklopiti iskanje omrežij tudi ko je WiFi izklopljen. Želite to dovoliti vsem aplikacijam ki želijo iskati omrežja?"</string>
   <string name="wifi_scan_notify_remember_choice">Ne kaži več</string>
-  <string name="wifi_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno iščejo omrežja WiFi. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
+  <string name="wifi_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno iščejo omrežja WiFi. To lahko spremenite v nastavitvah iskanja.</string>
   <string name="wifi_scan_notify_text_location_off">Aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno dostopno.</string>
   <string name="wifi_scan_notify_text_location_on">Zaradi izboljšavanja natančnosti in drugih namenov Google in ostale aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno dostopno.</string>
-    <string name="wifi_scan_notify_text_scanning_off">Če želite izboljšati natančnost ugotavljanja lokacije, v LINK_BEGINnastavitvah iskanjaLINK_END vklopite iskanje omrežij Wi-Fi.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Če želite izboljšati natančnost ugotavljanja lokacije v nastavitvah iskanja vklopite iskanje omrežij WiFi.</string>
   <string name="wifi_secured_first_item">Varovano z geslom %1$s</string>
   <string name="wifi_secured_second_item">, varovano z geslom %1$s</string>
   <string name="wifi_security">Varnost</string>
@@ -8140,13 +8138,13 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_wapi_cert_uninstall">Odstrani WAPI Certifikat</string>
   <string name="wifi_wapi_cert_uninstall_button">"Odstrani"</string>
   <string name="wifi_wapi_certification_dont_exist">Vneseno geslo omrežja ni pravilno. Poskusite ponovno.</string>
-  <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
-Please check validity of certificates"</string>
-  <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
-Credential storage might not enable"</string>
-  <string name="wifi_wapi_psk_type">Password type</string>
+  <string name="wifi_wapi_fail_to_auth">"WAPI preverjanje ni uspelo
+  Preverite veljavnost certifikata"</string>
+  <string name="wifi_wapi_fail_to_init">"Ne morem odpreti WAPI certifikate.
+Shramba poverilnic morda ne bo omogočena"</string>
+  <string name="wifi_wapi_psk_type">Vrsta gesla</string>
   <string name="wifi_wapi_user_cert">Uporabniški certifikat</string>
-  <string name="wifi_wapi_user_certificate">User certificate</string>
+  <string name="wifi_wapi_user_certificate">Uporabniški certifikat</string>
   <string name="wifi_wps_available_first_item">WPS je na voljo</string>
   <string name="wifi_wps_available_second_item">" (WPS je na voljo)"</string>
   <string name="wifi_wps_complete">Nastavitev WPS je uspela. Povezovanje z omrežjem…</string>
@@ -8441,22 +8439,22 @@ Upoštevajte, da se bodo nujna obvestila o delovanju in stanju telefona še vedn
     <string name="zen_msg_event_reminder_title">Sporočila, dogodki in opomniki</string>
     <string name="zen_onboarding_current_setting_summary">(trenutna nastavitev)</string>
     <string name="zen_onboarding_current_setting_title">Brez zvočnega opozarjanja na obvestila</string>
-  <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
+  <string name="zen_onboarding_dnd_visual_disturbances_description">"Vaš telefon vam lahko pomaga da se osredotočite.
 
-Update settings to:
+Posodobite nastavitve da:
 
-- Hide notifications completely
+- Popolnoma skrijete obvestila
 
-- Allow calls from starred contacts and repeat callers"</string>
+- Dovolite klice stikov z zvezdico in ponovljenih klicateljev"</string>
     <string name="zen_onboarding_dnd_visual_disturbances_header">Želite spremeniti nastavitve obvestil v načinu »ne moti«?</string>
-  <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
+  <string name="zen_onboarding_more_options">To lahko prilagodite v nastavitvah.</string>
     <string name="zen_onboarding_new_setting_summary">Obvestila ne bodo prikazana in ne bodo pospremljena z zvokom. Klici od stikov z zvezdico in večkratnih klicateljev so dovoljeni.</string>
     <string name="zen_onboarding_new_setting_title">Brez vidnega in zvočnega opozarjanja na obvestila</string>
     <string name="zen_onboarding_ok">Končano</string>
-  <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
-  <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
-  <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
-  <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
+  <string name="zen_onboarding_screen_off_summary">"Ne vklapljaj in zbujaj zaslona pri obvestilih"</string>
+  <string name="zen_onboarding_screen_off_title">Blokiraj ko je zaslon izključen</string>
+  <string name="zen_onboarding_screen_on_summary">"Ne kaži obvestil, razen osnovnih telefonskih aktivnosti in statusa"</string>
+  <string name="zen_onboarding_screen_on_title">Blokiraj ko je zaslon vključen</string>
     <string name="zen_onboarding_settings">Nastavitve</string>
     <string name="zen_schedule_rule_enabled_toast">Samodejno pravilo nastavljeno tako, da se v določenem obdobju vklopi stanje »Ne moti«</string>
   <string name="zen_schedule_rule_type_name">Pravilo za čas</string>
