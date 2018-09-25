@@ -6072,7 +6072,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="smartcover_sensitive_summary">Samodejno zaklenite/odklenite telefon s smart cover-jem</string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">SMS</string>
-    <string name="sms_change_default_dialog_text">Ali želite za SMS-e namesto aplikacije %2$s uporabljati aplikacijo %1$s?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Ali želite za SMS-e namesto aplikacije %s uporabljati aplikacijo %s?</string>
   <string name="sms_change_default_dialog_title">Ali želite zamenjati aplikacijo za SMS-e?</string>
     <string name="sms_change_default_no_previous_dialog_text">Ali želite za SMS-e uporabljati aplikacijo %s?</string>
   <string name="sms_delivered_sound_dialog_title">Izberi zvok za dostavljeno besedilo</string>
