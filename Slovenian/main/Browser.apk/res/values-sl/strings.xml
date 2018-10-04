@@ -154,6 +154,7 @@
   <string name="bookmark_needs_title">Zaznamek mora imeti ime.</string>
   <string name="bookmark_needs_url">Zaznamek mora imeti povezavo.</string>
   <string name="bookmark_not_saved">Zaznamka ni mogoče shraniti</string>
+  <string name="bookmark_not_saved">"Ne morem dodati v zaznamke."</string>
   <string name="bookmark_rename_group">Preimenuj skupino</string>
   <string name="bookmark_saved">Shranjeno med zaznamke</string>
   <string name="bookmark_title">Ime zaznamka</string>

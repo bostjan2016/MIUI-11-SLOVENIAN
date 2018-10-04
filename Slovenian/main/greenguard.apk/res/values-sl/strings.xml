@@ -19,7 +19,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
     <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-    <string name="about_settings">O </string>
+  <string name="about">O</string>
   <string name="about_detail">"Ime verzije: %s 
 Check Privacy Policy"</string>
   <string name="agree">I agree</string>

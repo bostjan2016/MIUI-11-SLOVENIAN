@@ -2570,6 +2570,7 @@ Za ve훾 informacij se obrnite na skrbnika organizacije."</string>
   <string name="fingerprint_manage_tittle">Prstni odtis</string>
   <string name="fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa. Vnesite svoje geslo"</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
+  <string name="fingerprint_others_title">Ostalo</string>
   <string name="fingerprint_payment">Pla훾ila s prstnim odtisom</string>
   <string name="fingerprint_removal_failed">"Ne morem odstraniti prstnega odtisa, poskusite kasneje"</string>
     <string name="fingerprint_swipe_for_notifications_suggestion_title">Hiter ogled obvestil</string>
@@ -2786,6 +2787,11 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gxzw_add_fingerprint_put_finger_message">Pritisnite malo mo훾neje in po vibraciji dvignite prst. Ponovite nekajkrat</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Pritisnite mo훾neje in dvignite po vibraciji</string>
   <string name="gxzw_add_fingerprint_title">Dodajte prstni odtis</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Puls</string>
+  <string name="gxzw_anim_rhythm">Ritam</string>
+  <string name="gxzw_anim_title">Prstni odtis</string>
   <string name="hand_mode_notification_summary">Dotaknite se za ve훾.</string>
   <string name="hand_mode_notification_title">Uporabite kontrole roba</string>
   <string name="handy_mode">Delo z eno roko</string>
@@ -3678,6 +3684,7 @@ Na tej napravi je ve훾 uporabnikov.
   <string name="menu_use_uss">Uporabi Uss</string>
   <string name="mi_pay">Mi Wallet</string>
   <string name="mi_pay_summary">Bus Card/Mi Pay/Card Emulator</string>
+  <string name="mi_service">Mi storitve</string>
   <string name="mi_service_app_detail">Podrobnosti uporabe podatkov</string>
   <string name="mi_shopping_mall">Mi Store</string>
   <string name="mi_upi_settings">Mi Pay ra훾un</string>
