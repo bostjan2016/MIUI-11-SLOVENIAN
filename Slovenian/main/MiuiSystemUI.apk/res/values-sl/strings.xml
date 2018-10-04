@@ -83,7 +83,7 @@
   <string name="accessibility_desc_connecting">Povezovanje.</string>
   <string name="accessibility_desc_lock_screen">Zaklepnje zaslona.</string>
   <string name="accessibility_desc_notification_icon">%1$s obvestilo: %2$s</string>
-  <string name="accessibility_desc_notification_shade">Zaslon obvestil.</string>
+  <string name="accessibility_desc_notification_shade">Plošča obvestil.</string>
   <string name="accessibility_desc_off">Izključeno.</string>
   <string name="accessibility_desc_on">Vključeno.</string>
   <string name="accessibility_desc_quick_settings">Hitre nastavitve.</string>
@@ -332,12 +332,12 @@
   <string name="bluetooth_battery_level">baterija %1$s</string>
   <string name="bluetooth_connected">Povezano %1$s</string>
   <string name="bluetooth_connected_battery_level">Povezano, baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_a2dp">Povezano (brez medija) %1$s</string>
-  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez medija), baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez predstavnosti), baterija %1$</string>
   <string name="bluetooth_connected_no_headset">Povezano (brez telefona) %1$s</string>
-  <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona), baterija %1$s%2$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali medija) %1$s</string>
-  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (brez telefona ali medija), baterija %1$s%2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona), baterija %1$</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali predstavnosti) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (brez telefona ali predstavnosti), baterija %1$s</string>
   <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil) %1$s</string>
   <string name="bluetooth_connecting">Povezovanje…</string>
   <string name="bluetooth_disable_absolute_volume">Onemogoči absolutno glasnost</string>
@@ -563,7 +563,7 @@ hitrost vzorčenja"</string>
   <string name="dlg_summary_close_theme">Omeji animirane teme</string>
   <string name="dlg_summary_close_wifi">Izključi WiFi, Bluetooth in dostopno točko</string>
   <string name="dlg_summary_nfc">Izključi NFC</string>
-  <string name="dlg_summary_title">Extreme battery saver stops all background activity after you leave an app and go back to the Home screen. If you want an app to be running in the background, add it to background exceptions.Ekstremni štednja baterije zaustavlja sve pozadinske aktivnosti nakon što napustite aplikaciju i vratite se na početni zaslon. Ako želite da se aplikacija izvodi u pozadini, dodajte je u iznimke pozadine.</string>
+  <string name="dlg_summary_title">Ekstremno varčevanje baterije ustavi vse dejavnosti v ozadju. Če želite da se aplikacija izvaja v ozadju jo dodajte v izjeme ozadja.</string>
   <string name="dnd_is_off">DND je izključen</string>
   <string name="do_disclosure_generic">S to napravo upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">S to napravo upravlja %s</string>
@@ -572,7 +572,7 @@ hitrost vzorčenja"</string>
   <string name="dock_forced_resizable">Aplikacija morda ne bo delovala v deljenem zaslonu</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Deljeni zaslon ni podprt na zakl. zaslonu.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Ta aplikacija ne podpira deljeni zaslon</string>
-  <string name="drag_to_add_tiles">Podrsajte da boste dodali ploščice</string>
+  <string name="drag_to_add_tiles">Pritisnite in držite da boste dodali ali zamenjali razpored stvari</string>
   <string name="drag_to_remove_tiles">Podrsajte tu za odstranitev</string>
   <string name="drive_mode_tip">"Ste v načinu avta"</string>
   <string name="drive_mode_tip_idle">Tapnite za izhod iz načina avto</string>
@@ -1430,6 +1430,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="quick_settings_sync_label">Sinhr.</string>
     <string name="quick_settings_tethering_label">Splet preko mobilne naprave</string>
     <string name="quick_settings_time_label">Čas</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodajanje stvari jo tapnite in podržite, potem pa jo odvlecite na zgornji del plošče.</string>
     <string name="quick_settings_user_label">Jaz</string>
     <string name="quick_settings_user_new_user">Nov uporabnik</string>
     <string name="quick_settings_user_title">Uporabnik</string>
@@ -1457,7 +1458,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="recents_accessibility_split_screen_top">Razdeljen zaslon na vrhu</string>
     <string name="recents_app_info_button_label">Podatki o aplikaciji</string>
     <string name="recents_caption_resize">Izberite novo postavitev opravil</string>
-    <string name="recents_drag_hint_message">Povlecite sem za razdeljeni zaslon</string>
+  <string name="recents_drag_hint_message">Pritisnite in podržite aplikacijo, potem pa jo povlecite sem</string>
     <string name="recents_empty_message">Ni nedavnih elementov</string>
     <string name="recents_empty_message_dismissed_all">Vse ste počistili</string>
   <string name="recents_empty_message_multi_window">Odprite aplikacije na začetnem zaslonu</string>
@@ -1874,7 +1875,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="volume_stream_suppressed">%1$s utišan — %2$s</string>
   <string name="volume_stream_vibrate">%s vibracija</string>
   <string name="volume_stream_vibrate_dnd">%s vibracija — Samo prednostno</string>
-    <string name="volume_up_silent">Zapustitev načina »ne moti« pri povečanju glasnosti</string>
+  <string name="volume_up_silent">Ustavi \"Ne moti\" pri povečanju glasnosti</string>
     <string name="volume_zen_end_now">Izklopi</string>
     <string name="vpn_footer">Omrežje je lahko nadzorovano</string>
     <string name="vpn_settings_not_available">Nastavitve VPN niso na voljo za tega uporabnika</string>
