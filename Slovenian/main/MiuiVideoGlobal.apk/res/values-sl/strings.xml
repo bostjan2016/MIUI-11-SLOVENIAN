@@ -87,7 +87,7 @@
   <string name="common_open_on_phone">Odpiranje na telefonu</string>
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava s storitvijo Google</string>
-  <string name="data_empty">Tu ni nič/string>
+  <string name="data_empty">Tu ni nič</string>
   <string name="dialog_privacy_info_new2">"Da boste lahko uporabili te storitve morate sprejeti %1$s kar zbiramo, obdelujemo in uporabljamo vaše osebne podatke. Verjamemo da ste prebrali in sprejeli naše &lt;a href=%2$s&gt;Pravila o zasebnosti&lt;/a&gt; ko tapnete \"Strinjam se\"."</string>
   <string name="dialog_privacy_title">Avtorizacija</string>
   <string name="dialog_revoke_privacy_info_new2">Po preklicu avtorizacije bo aplikacija nehala zbirati podatke, zbrani podatki pa bodo zbrisani. To lahko napravi aplikacijo skoraj neuporabno. Prekličem avtorizacijo?</string>
@@ -179,7 +179,7 @@
   <string name="lv_home_settings">Nastavitve</string>
   <string name="lv_input_password">Vnesite Geslo</string>
   <string name="lv_local_folder">Mape</string>
-  <string name="lv_local_video">Videoposnetki/string>
+  <string name="lv_local_video">Videoposnetki</string>
   <string name="lv_media_type_unsported">"Ne morem predvajati ta format videoposnetka."</string>
   <string name="lv_menu_delete">Izbriši</string>
   <string name="lv_menu_hide">Skrij</string>
