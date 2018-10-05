@@ -409,7 +409,6 @@ Poglejte ostale videoposnetke!"</string>
   <string name="search_menu_title">Išči</string>
   <string name="selectall">Prekliči vse</string>
   <string name="selectnull">Prekliči izbranor</string>
-  <string name="sender_id">XXXXX</string>
   <string name="session_create_error">Strežnik je vrnil SESSION CREATE ERROR kodo, prosim kontaktirajte SDK programerje!</string>
   <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>
   <string name="t_downloading">Prenosi:</string>
