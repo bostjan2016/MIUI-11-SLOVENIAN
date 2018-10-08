@@ -1878,6 +1878,8 @@ Preostalo poskusov :"</string>
   <string name="ssl_ca_cert_warning">Omrežje je lahko nadzorovano</string>
   <string name="ssl_certificate">Varnostno potrdilo</string>
   <string name="ssl_certificate_is_valid">To potrdilo je veljavno.</string>
+  <string name="status_communication_speaker_summary">Prostoročni pogovor poteka. Zvuk bo še naprej predvajan preko zvočnika ko bodo priključene slušalke.</string>
+  <string name="status_communication_summary">Klic poteka. Lahko prilagodite samo glasnost klica.</string>
   <string name="stk_cc_ss_to_dial">Zahteva SS je spremenjena v zahtevo DIAL.</string>
   <string name="stk_cc_ss_to_dial_video">SS zahteva e spremenjena v Video DIAL zahtevo.</string>
   <string name="stk_cc_ss_to_ss">Zahteva SS je spremenjena v novo zahtevo SS.</string>

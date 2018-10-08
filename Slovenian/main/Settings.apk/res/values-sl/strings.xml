@@ -1413,6 +1413,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="checking_decryption">Preverjanje ...</string>
   <string name="checking_find_device_status">Preverjanje statusa Najdi napravo…</string>
   <string name="checking_for_updates">Preverjanje za posodobitve…</string>
+  <string name="child_mode_settings">Starševski nadzor</string>
   <string name="childmod_privacy_password_role_instruction">Vključite Otroški način da preprečite neželjena dejanja dokler napravo uporablja otrok</string>
   <string name="children_mode_enable_title">Otroški način</string>
   <string name="children_mode_set_apps_title">Dostopne aplikacije</string>
@@ -1704,6 +1705,9 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (modra – rumena)</string>
   <string name="daltonizer_type">Način za popravljanje</string>
   <string name="daltonizer_type_overridden">Preglasila nastavitev: %1$s</string>
+  <string name="dangerous_option">Razvojne opcije visokega tveganja</string>
+  <string name="dangerous_option_hint">%1$s so omogočene. Tapnite za spremembo nastavitev.</string>
+  <string name="dangerous_option_hint_title">Razvojne opcije visokega tveganja omogočene</string>
     <string name="dark_ui_mode">Nočni način</string>
     <string name="dark_ui_mode_title">Nastavitev nočnega načina</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
@@ -3750,6 +3754,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_super_resolution_desc">Napravi slike ostrejše</string>
   <string name="miui_lab_super_resolution_title">Super ločljivost</string>
     <string name="miui_master_clear_summary">Briše vse podatke na telefonu</string>
+  <string name="miui_optimization_disabled">Izključi MIUI optimizacijo</string>
   <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Nastavi trajanje prezentacije</string>
@@ -6552,6 +6557,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="suw_back_button_label">Nazaj</string>
   <string name="suw_more_button_label">Več</string>
   <string name="suw_next_button_label">Naprej</string>
+  <string name="switch_access_service_on">Menjava dostopa</string>
     <string name="swipe_up_to_switch_apps_suggestion_summary">Vklop nove poteze za preklop aplikacij</string>
     <string name="swipe_up_to_switch_apps_suggestion_title">Preskus novega gumba za začetni zaslon</string>
     <string name="swipe_up_to_switch_apps_summary">Če želite preklopiti med aplikacijami, povlecite navzgor po gumbu za začetni zaslon. Znova povlecite navzgor, da prikažete vse aplikacije. To deluje na katerem koli zaslonu. Gumb »Pregled« ne bo več prikazan v spodnjem desnem delu zaslona.</string>
