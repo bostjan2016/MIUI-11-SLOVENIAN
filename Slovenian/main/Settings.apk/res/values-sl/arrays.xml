@@ -844,6 +844,15 @@
       <item>Ponovno zaženem za uporabo tega opravila?</item>
         <item>Ponovno zaženem napravo za uporabo tega opravila?</item>
     </string-array>
+	<string-array name="ai_key_item_name">
+        <item>Razgovor z Google pomočnikom</item>
+        <item>Odpri zadnjo kamero</item>
+        <item>Odpri sprednjo kamero</item>
+        <item>Odpri prejšnjo aplikacijo</item>
+        <item>Vključi bliskavico</item>
+        <item>Vključi način branja</item>
+        <item>Nič</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Vsak dan</item>
         <item>Vikend</item>

@@ -348,8 +348,8 @@
   <string name="pull_to_refresh_pull_label">Potegni dol za osvežitev…</string>
   <string name="pull_to_refresh_refreshing_label">Samo trenutek…</string>
   <string name="pull_to_refresh_release_label">Spusti za osvežitev…</string>
-  <string name="push_message_switch">Push sporočilo</string>
-  <string name="push_message_tips">Uključi za dobivanje push poruka</string>
+  <string name="push_message_switch">Push obvestilo</string>
+  <string name="push_message_tips">Vključi za dobivanje push obvestil</string>
   <string name="pw_category">Kategorije</string>
   <string name="pw_click_channel_scrol_to_top">Tapni spet za povratek na vrh</string>
   <string name="pw_comment_back">Nazaj</string>
@@ -408,7 +408,7 @@ Poglejte ostale videoposnetke!"</string>
   <string name="search">Išči</string>
   <string name="search_menu_title">Išči</string>
   <string name="selectall">Prekliči vse</string>
-  <string name="selectnull">Prekliči izbranor</string>
+  <string name="selectnull">Prekliči izbrano</string>
   <string name="session_create_error">Strežnik je vrnil SESSION CREATE ERROR kodo, prosim kontaktirajte SDK programerje!</string>
   <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>
   <string name="t_downloading">Prenosi:</string>

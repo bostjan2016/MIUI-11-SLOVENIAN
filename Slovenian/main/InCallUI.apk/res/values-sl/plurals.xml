@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
    <plurals name="call_recording_notification_complete">
-        <item quantity="other">Posneto %d klicev.</item>
+        <item quantity="other">Posneto: %d klicev.</item>
         <item quantity="one">%d klic posnet.</item>
 	</plurals>
 	<plurals name="livetalk_left_minute">
         <item quantity="other">%d minut ostalo</item>
         <item quantity="one">%d minuta ostalo</item>
       </plurals>		     
+   <plurals name="duration_seconds">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">1 sekunda</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">1 ura</item>
+    </plurals>	  
 </resources>

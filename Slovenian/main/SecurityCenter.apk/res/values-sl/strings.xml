@@ -1571,7 +1571,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
   <string name="mian_page_primary_txt">Mednarodno gostovanje</string>
-  <string name="midrop_post_notification_contentText">"Poskusite Mi Drop. Hiter je in brez oglasov."</string>
+  <string name="midrop_post_notification_contentText">Prenesite datoteke s hitrostjo do 50 Mbps z Mi Drop-om</string>
   <string name="midrop_post_notification_contentTitle">Morate prenesti datoteke?</string>
   <string name="mixed_need_to_confirm">Vnesite ponovno za potrditev</string>
   <string name="mixed_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
