@@ -387,10 +387,14 @@ pritisnite sprožilec"</string>
   <string name="portait_effect_entry_riddle">Uganka</string>
   <string name="portait_effect_entry_romance">Romantika</string>
   <string name="portait_effect_entry_story">Zgodba</string>
+  <string name="portrait_bokeh_first_tips">"Uporabite Portretni način da zameglite ozadje slike
+na svojih fotografijah"</string>
+  <string name="portrait_bokeh_text">Portretni način</string>
+  <string name="portrait_bokeh_tips">Postavite predmet znotraj 1.5 m</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
   <string name="portrait_mode_lowlight_hint">"Zdaj je preveč mračno"</string>
   <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
-  <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2.5 m</string>
+  <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2 m</string>
   <string name="portrait_mode_use_hint">"Portretni način vam pomaga vam zamegliti ozadje</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Poskusite portretni način.
 Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
