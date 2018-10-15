@@ -11,6 +11,8 @@
   <string name="accessibility_beauty_panel_open">Meni Beautify je odprt</string>
   <string name="accessibility_beauty_switch_closed">Beautify je izključen</string>
   <string name="accessibility_beauty_switch_open">Beautify je vključen</string>
+  <string name="accessibility_camera_lighting_close_panel">Meni osvetlitve je zaprt</string>
+  <string name="accessibility_camera_lighting_open_panel">Meni osvetlitve je odprt</string>
   <string name="accessibility_bokeh_normal">Zameglitev ozadja prednje kamere je izključena</string>
   <string name="accessibility_bokeh_on">Zameglitev ozadja prednje kamere je vključena</string>
   <string name="accessibility_camera_auto_flashmode">Samodejna bliskavica</string>
@@ -323,6 +325,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="lighting_pattern_leaf">Listje</string>
   <string name="lighting_pattern_movie">Film</string>
   <string name="lighting_pattern_nature">Naravno</string>
+  <string name="lighting_pattern_null">Nič</string>
   <string name="lighting_pattern_rainbow">Mavrica</string>
   <string name="lighting_pattern_shutter">Zavese</string>
   <string name="lighting_pattern_stage">Oder</string>
