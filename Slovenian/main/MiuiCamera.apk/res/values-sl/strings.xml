@@ -881,6 +881,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>
   <string name="ubi_focus_capture_fail">Slike ni bilo mogoče zajeti</string>
   <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati predmete tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
+  <string name="ultra_wide_mode">Ultra-širok kot</string>
   <string name="undo">Prekliči</string>
   <string name="unit_mm">mm</string>
   <string name="user_agree">Strinjam se</string>

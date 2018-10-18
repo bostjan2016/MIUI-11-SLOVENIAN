@@ -443,6 +443,8 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="guide_rocket_type_main_title">Hiter kot blisk</string>
   <string name="guide_rocket_type_subtitle">Neverjatna hitrost, tekoč vmesnik</string>
   <string name="guide_skip">Preskoči</string>
+  <string name="guide_slide_down">Podrsaj dol</string>
+  <string name="guide_slide_up">Podrsaj gor</string>
   <string name="guide_sports_text">šport</string>
   <string name="guide_start_experience">Začni</string>
   <string name="guide_tech_text">tehnologija</string>

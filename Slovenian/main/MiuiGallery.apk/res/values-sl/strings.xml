@@ -303,6 +303,7 @@
   <string name="collage_poster_global_summer_flower_text">POLETJE</string>
   <string name="collage_poster_global_tea_text">ČAS ZA ČAJ</string>
   <string name="collage_rotate">Rotiraj</string>
+  <string name="collage_select_image_range">Kolaži lahko vsebujejo 1-4 fotografij</string>
   <string name="collage_title_layout">Razpored</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collaps_people">Skrij osebe</string>
@@ -610,6 +611,7 @@ za fotografije"</string>
   <string name="fisheye">Ribje oko</string>
   <string name="flash_off">Brez blisk.</string>
   <string name="flash_on">Blisk. sprožena</string>
+  <string name="frame_not_support_image_ratio">"To razmerje ni podprto"</string>
   <string name="flip">Obrni</string>
   <string name="flip_tooltip">Povleci sliko za obrat</string>
   <string name="focal_length">Goriščna razdalja</string>
@@ -810,6 +812,7 @@ za fotografije"</string>
   <string name="operation_in_process">Obdelujem…</string>
   <string name="operation_move_to_other_albums">Premesti v druge albume</string>
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj v zavihku Fotografije"</string>
+  <string name="operation_produce">Kreativnost</string>
   <string name="operation_projection">Predvajaj</string>
   <string name="operation_remove_face">Odstrani</string>
   <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
@@ -864,10 +867,12 @@ za fotografije"</string>
   <string name="photo_editor_beauty_compare">Original</string>
   <string name="photo_editor_crop_and_rotate">Obreži</string>
   <string name="photo_editor_crop_auto">Samodejno</string>
+  <string name="photo_editor_crop_auto_tips">Obrezano samodejno</string>
   <string name="photo_editor_crop_reset">Ponastavi</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
   <string name="photo_editor_filter">Filter</string>
+  <string name="photo_editor_frame">Okvir</string>
   <string name="photo_editor_label">Uredi</string>
   <string name="photo_editor_long_crop">Obreži</string>
   <string name="photo_editor_miui_beauty">Olepšaj</string>
@@ -922,6 +927,7 @@ za fotografije"</string>
   <string name="photo_editor_talkback_redo">Povrni</string>
   <string name="photo_editor_talkback_undo">Razveljavi</string>
   <string name="photo_editor_text">Besedilo</string>
+  <string name="photo_movie_select_image_range">Izseki lahko vsebujejo 3-6 fotografij</string>
   <string name="photo_page_save_uri_image_fail">"Ni bilo možno shraniti v Galerijo"</string>
   <string name="photo_page_save_uri_image_ok">Slika shranjena v Galerijo</string>
   <string name="photo_print_menu_loading">Nalagam dodatek…</string>
@@ -1174,6 +1180,7 @@ za fotografije"</string>
   <string name="secret_reason_unknow_reasons">Neznana napaka</string>
   <string name="secret_reason_video_not_support">"V skriti album ni možno dodati videoposnetka"</string>
   <string name="see_ignore_faces">"Pokaži ignorirane osebe"</string>
+  <string name="select_image_operation">Dodajanje fotografij</string>
   <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_origin_tip">Izvirna datoteka (%s)</string>
   <string name="send_file_beautify_failed">"Ne morem poslati"</string>
@@ -1330,6 +1337,7 @@ za fotografije"</string>
   <string name="unpublish_failed">"Ne morem preklicati objave"</string>
   <string name="unpublish_succeeded">Album ni objavljen!</string>
   <string name="unpublishing">Preklic…</string>
+  <string name="unsupport_video">"%s ne deluje z videoposnetki"</string>
   <string name="user_agree">Strinjam se</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>

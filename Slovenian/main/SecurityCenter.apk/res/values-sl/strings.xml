@@ -1122,6 +1122,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebooster_main_activity_back">Nazaj</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
+  <string name="gamebox_app_not_find">Najprej namestite apliakcijo.</string>
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
   <string name="gamebox_type_close">"Ne kaži"</string>
   <string name="gamebox_type_float">Popravljena bližnjica</string>
@@ -1182,6 +1183,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gs_game_shortcut">Izboljšajte izkušnje igranja</string>
   <string name="gs_gamebox">Bližnjice znotraj igre</string>
   <string name="gs_gamebox_detail">Pokaži bližnjico znotraj igre</string>
+  <string name="gs_gamebox_slip">Povlecite zaslon dol za odpiranje</string>
   <string name="gs_only_self_start_for_list">Omejite procese v ozadju za prihranek baterije za igranje</string>
   <string name="gs_open_game_booster">Pohitritev</string>
   <string name="gs_performance_mode">Način za zmogljivost</string>

@@ -11,6 +11,11 @@
         <item>Deček</item>
         <item>Deklica</item>
      </string-array>
+	 <string-array name="menu_copy_or_move">
+        <item>Premjsti</item>
+        <item>Kopiraj</item>
+        <item>Prekliči</item>
+    </string-array>
      <string-array name="owner_relation">
         <item>Oče</item>
         <item>Mama</item>

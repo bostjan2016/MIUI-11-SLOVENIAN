@@ -119,6 +119,7 @@
   <string name="security_permission_denied_text">Dostop zavrnjen</string>
   <string name="security_permission_failed_text">Interna napaka, poskusite kasneje</string>
   <string name="security_permission_network_failed_text">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusita znova"</string>
+  <string name="security_permission_open_wifi_settings">Odpri nastavitve WiFi-ja</string>
   <string name="security_permission_validate_warning">Hvala vam ker nam pomagate izboljšati MIUI!</string>
   <string name="security_permission_wifi_and_data_opened_text">WiFi in mobilni podatki vključeni</string>
   <string name="security_permission_xiaomi_account_missed_text">Vnesite vaš ID Mi Računa</string>

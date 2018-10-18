@@ -181,6 +181,10 @@
   <string name="timer_alarm_cancel_pad">Dotaknite se zaslona za zaustavitev zvonca</string>
   <string name="timer_alarm_dot_matrix_label">Časovnik</string>
   <string name="timer_alert_alert_silenced">Časovnik izključen po %d minutah.</string>
+  <string name="timer_alert_mute_off">Alarm se bo oglasil ko se časovnik ustavi</string>
+  <string name="timer_alert_mute_on">"Alarm se ne bo oglasil ko se časovnik ustavi"</string>
+  <string name="timer_alert_mute_remind">tapni za izklop alarma</string>
+  <string name="timer_alert_mute_switch">Preskoči na izklop časovnika</string>
   <string name="timer_alert_type_beach">Plaža</string>
   <string name="timer_alert_type_forest">Gozd</string>
   <string name="timer_alert_type_mute">Privzeto</string>
