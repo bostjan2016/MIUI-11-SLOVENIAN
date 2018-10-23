@@ -1715,6 +1715,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="dangerous_option">Razvojne opcije visokega tveganja</string>
   <string name="dangerous_option_hint">%1$s so omogočene. Tapnite za spremembo nastavitev.</string>
   <string name="dangerous_option_hint_title">Razvojne opcije visokega tveganja omogočene</string>
+  <string name="dangerous_option_switch_title">Obvesti o visokokritičnih stvareh</string>
     <string name="dark_ui_mode">Nočni način</string>
     <string name="dark_ui_mode_title">Nastavitev nočnega načina</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
@@ -6082,13 +6083,15 @@ Morda je koda PIN napačna."</string>
   <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole glasbe in bližnjice ne bodo prikazane na zakl. zaslonu.</string>
   <string name="skip_step">Preskoči</string>
   <string name="slider_app_open">Odpri aplikacijo</string>
-  <string name="slider_app_open_name">Odpri</string>
+  <string name="slider_app_open_name">Odpri %1$s</string>
   <string name="slider_app_open_none">Nič</string>
   <string name="slider_button_title">Zamenjaj</string>
   <string name="slider_choose_app">Izberi aplikacijo</string>
   <string name="slider_game_tool_summary">Povlecite zaslon dol da vidite dostopne bližnjice med igranjem igre</string>
   <string name="slider_game_tool_tilte">Bližnjice iger</string>
-  <string name="slider_global_summary">Povlecite zaslon dol da izvršite prilagojeno opravilo</string>
+  <string name="slider_global_summary_app">Povlecite zaslon dol da odprete aplikacij</string>
+  <string name="slider_global_summary_drawer">Povlecite zaslon dol da vidite dostopne bližnjice</string>
+  <string name="slider_global_summary_selfie">Povlecite zaslon dol da posnamete selfie</string>
   <string name="slider_global_title">Bližnjice drsnika</string>
   <string name="slider_high_grade_summary">Povlecite zaslon dol da izvršite prilagojeno opravilo pod določenimi pogoji</string>
   <string name="slider_high_grade_title">Dodatne nastavitve drsnika</string>
@@ -6101,6 +6104,7 @@ Morda je koda PIN napačna."</string>
   <string name="slider_title_zippo">ZIPPO</string>
   <string name="slider_tool_drawer">Odpri prodja</string>
   <string name="slider_tool_none">Nič</string>
+  <string name="slider_tool_none_summary">NI dodeljenih bližnjic</string>
   <string name="slider_video_tool_summary">Povlecite zaslon dol da vidite dostopne bližnjice med gledanjem videoposnetka</string>
   <string name="slider_video_tool_title">Bližnjice videoposnetka</string>
   <string name="slider_vocie_click_too_often">Prehitro! Počakajte trenutak ali dva in poskusite ponovno.</string>
@@ -6248,6 +6252,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bližnjica plošče obvestil</string>
   <string name="status_bar_settings_notification_sound">Zvok</string>
   <string name="status_bar_settings_notification_sound_custom">Lastni zvok</string>
+  <string name="status_bar_settings_notification_style">Stil obvestil</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
   <string name="status_bar_settings_notification_use_app_icon">Uporabi ikon aplikacije za obvestila</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>

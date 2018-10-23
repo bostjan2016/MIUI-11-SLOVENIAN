@@ -8,7 +8,7 @@
   <string name="add_attachment">Dodaj priponko</string>
   <string name="add_contact">Stik</string>
   <string name="add_festival">Hitri odogovori</string>
-  <string name="add_miui_contact">Mi Card</string>
+  <string name="add_miui_contact">Stik</string>
   <string name="add_music">Dodaj glasbo</string>
   <string name="add_nickname">Vzdevek</string>
   <string name="add_nickname_title">Spremeni vzdevek</string>
@@ -152,7 +152,6 @@
   <string name="delete_wild_sims_title">Izbriši izbrane številke</string>
   <string name="delivery_report_activity">Poročilo o dostavi</string>
   <string name="delivery_toast_body">%s prejel/a sporočilo.</string>
-  <string name="delivery_toast_body_more">Sporočilo prejeto od %1$s, in %2$d drugih oseb</string>
   <string name="dialog_message_fake_cell_detect_error">Popravim informacije o tem sporočilu? Za to mora MIUI prebrati številko telefona (%1$s), vsebino sporočila in informacije o najbližji lokaciji njegovih strežnikov.</string>
   <string name="dialog_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe.</string>
   <string name="dialog_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>

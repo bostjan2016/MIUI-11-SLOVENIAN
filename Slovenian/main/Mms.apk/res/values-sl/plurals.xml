@@ -30,6 +30,10 @@
          <item quantity="other">Poslanih sporočil: %1$s</item>
          <item quantity="one">Poslano %1$s sporočilo</item>
      </plurals>
+	 <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Sporočila prejeta od %1$s in še od %2$d drugih oseb</item>
+        <item quantity="one">Sporočila prejeta od %1$s in %2$d drugih oseb<</item>
+    </plurals>
      <plurals name="group_message_failed_title">
          <item quantity="other">"Ne morem poslati stikom: %d"</item>
          <item quantity="one">"Ne morem poslati %d stiku"</item>

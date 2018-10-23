@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="timer_message_hour">
-        <item quantity="other">"%1$d ur "</item>
-        <item quantity="one">"%1$d ura "</item>
+        <item quantity="other">"%1$d h "</item>
+        <item quantity="one">"%1$d h "</item>
      </plurals>
      <plurals name="timer_message_minute">
         <item quantity="other">"%1$d min. "</item>

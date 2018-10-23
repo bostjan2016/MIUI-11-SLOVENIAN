@@ -87,6 +87,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_virus_settings">Nastavitve</string>
   <string name="activity_title_white_list">Izjeme</string>
   <string name="ad_btn_default_text">Izvedite več</string>
+  <string name="ad_split_screen_title">Zamenjajte na način dela cel zaslon da odklenete</string>
   <string name="ad_update_time">Zadnja posodobitev %s</string>
   <string name="ad_update_time_unKnown">Zadnja posodobitev neznana</string>
   <string name="adb_install_no_network">Povežite se na omrežje in poskusite ponovno</string>
@@ -1678,7 +1679,6 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="note_keyword_none">Ni ključnih besed</string>
   <string name="note_list_none">Seznam je prazen</string>
   <string name="note_sms_none">Ni sporočil</string>
-  <string name="notification_battery_consume_abnormal_summary">Izpraznjeno %2$s baterije v teku zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremno varčevanje baterije je izključeno</string>

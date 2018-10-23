@@ -43,6 +43,10 @@
 	<plurals name="people">
          <item quantity="other">Preneslo %1$d oseb</item>
      </plurals>
+	 <plurals name="notification_battery_consume_abnormal_summary">
+        <item quantity="other">Porabljeno %2$d%% baterije zadnjih %1$d min.</item>
+        <item quantity="one">Porabljeno %2$d%% baterije zadnjih %1$d min.</item>
+    </plurals>
 	 <plurals name="power_center_menu_text">
         <item quantity="other">stvari</item>
         <item quantity="one">stvar</item>

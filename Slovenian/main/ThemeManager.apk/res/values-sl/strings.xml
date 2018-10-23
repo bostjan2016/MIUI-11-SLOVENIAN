@@ -68,6 +68,7 @@
   <string name="component_category_finest_title">SPLOŠNO</string>
   <string name="component_category_more_title">NAPREDNO</string>
   <string name="component_title_ringtone">Melodija zvonenja</string>
+  <string name="component_title_settings_video_wallpaper">Slike zadja s posebnimi efekti</string>
   <string name="component_title_video_wallpaper">Filmi</string>
   <string name="component_title_wallpaper">Slika za ozadje</string>
   <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
@@ -537,6 +538,9 @@
   <string name="theme_current_using_has_update">Posodobitev za teme na voljo</string>
   <string name="theme_description_title_customized">Po meri</string>
   <string name="theme_description_title_default">Privzeto</string>
+  <string name="theme_detail_tab_comment">Komentarji</string>
+  <string name="theme_detail_tab_recommend">Priporočila</string>
+  <string name="theme_detail_tab_theme">Teme</string>
   <string name="theme_empty_redirect">Nazaj v Teme</string>
   <string name="theme_favorite_add_fail">"Ne morem dodati v priljubljene"</string>
   <string name="theme_favorite_add_success">Dodano v priljubljene</string>

@@ -19,6 +19,33 @@
   <string name="bugreport_notification_channel">Poročilo o napaki</string>
   <string name="bugreport_tool_log_dumping_desc">Traja okoli minute</string>
   <string name="bugreport_tool_log_dumping_title">Izdelava poročila o napaki</string>
+  <string name="catch_full_log_action_cancel">Prekliči</string>
+  <string name="catch_full_log_action_complete">Končano in pošlji</string>
+  <string name="catch_full_log_action_start">Napravi zapis</string>
+  <string name="catch_full_log_add_original_photo">Dodaj fotografijo</string>
+  <string name="catch_full_log_add_photo">Dodaj fotografiju</string>
+  <string name="catch_full_log_add_photo_dialog_content">"Če je problem ki ga prijavljate povezan z kvaliteto slike kamere, dodajte prvotno fotografijo vzorca (neobrezano) da lahko lažje najdemo problem. Želite dodati fotografijo?"</string>
+  <string name="catch_full_log_dialog_confirm_text">Pojdi na Zač.. zaslon</string>
+  <string name="catch_full_log_dialog_content">"MIUI generira zapis. To lahko vpliva na produktivnost vaše naprave. Če ne morete ponoviti problem ki ga želite prijaviti, se vrnite na zapise in tapnite \"Prekliči\"."</string>
+  <string name="catch_full_log_dump_hprof_failed">"Ne morem generirati zapis napake"</string>
+  <string name="catch_full_log_item_content_catch_direct">"Koraki:
+1. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vzpostavite.
+2. Vratite se na to strani in tapnite \"Končano in pošlji\"."</string>
+  <string name="catch_full_log_item_content_need_open">"Koraki:
+1. Tapnite \"Napravi zapis\".
+2. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vzpostavite..
+3. Vrnite se na to stran in tapnite \"Končano in pošlji\"."</string>
+  <string name="catch_full_log_item_title_audio">Zvok, snemanje zvoka in zvok med klicem</string>
+  <string name="catch_full_log_item_title_bt">Bluetooth</string>
+  <string name="catch_full_log_item_title_dump_heap">Lag</string>
+  <string name="catch_full_log_item_title_gps">Storitve lociranja</string>
+  <string name="catch_full_log_item_title_sensor">Senzorji</string>
+  <string name="catch_full_log_item_title_signal">Telefon, signal in mobilna omrežja</string>
+  <string name="catch_full_log_item_title_wifi">WiFi in Mi Drop</string>
+  <string name="catch_full_log_notification_content">Tapnite za vrnitev na zapisnike</string>
+  <string name="catch_full_log_notification_title">Izdelava zapisa…</string>
+  <string name="catch_full_log_start_dump_hprof">Izdelava lagging zapisa</string>
+  <string name="catch_full_log_submit_directly">Pošlji</string>
   <string name="close_feedback_main">Skrij</string>
   <string name="cta_cancel">Prekliči</string>
   <string name="cta_confirm">V redu</string>
@@ -63,7 +90,7 @@
   <string name="feedback_continue">Nadaljuj s povr. informacijo</string>
   <string name="feedback_delete_images">Izbriši slike</string>
   <string name="feedback_description">Opis</string>
-  <string name="feedback_description_bugreport_hint">V nekaterih primerih (…) se telefon slabo odziva (…).</string>
+  <string name="feedback_description_bugreport_hint">V nekaterih primerih (…) se telefon čudno obnaša (…).</string>
   <string name="feedback_description_hint">"Opišite problem na katerega ste naleteli"</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">"Želim da dodate novo opravilo (…) ker potrebujem (…)."</string>
@@ -257,8 +284,8 @@
   <string name="non_system_app_select">Prenesene aplikacije</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Več</string>
-  <string name="packaging_dialog_content">Ustvarjanje poročila o napaki ...</string>
-  <string name="permission_granted">odobreno %1$s dovoljenj</string>
+  <string name="packaging_dialog_content">Izdelava zapisa…</string>
+  <string name="permission_granted">Odobrena dovoljenja: %1$s</string>
   <string name="pic_not_exist">"Ta slika ne obstaja"</string>
   <string name="plus_one_submit_dialog_content">"Vaše povratne informacije bodo skupaj s poročilom o napakah in priloženimi slikami poslane na Mi strežnike ko bo vaša naprava povezana z WiFi omrežjem."</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapomni si </string>
@@ -299,6 +326,7 @@
   <string name="tab_title_report">Pov. informacije</string>
   <string name="time_in_justnow">Ravno zdaj</string>
   <string name="title_answer_feedback_main">Našli smo odgovore!</string>
+  <string name="title_catch_full_log">Zapisi</string>
   <string name="title_bbs_feedback_main">Več o Mi telefonih</string>
   <string name="title_customer_service">Servis za uporabnike</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
@@ -306,6 +334,7 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Podobne težave na MIUI forumu</string>
   <string name="title_system_app">MIUI Aplik.</string>
+  <string name="toast_catch_full_log_catching">Istočasno lahko generirate samo en zapis.</string>
   <string name="toast_description_required">Napisati morate opis napake</string>
   <string name="toast_feedback_collect_store">Zbiranje poročila…</string>
   <string name="toast_feedback_network_unavailable">Povezave ni mogoče vzpostaviti</string>
