@@ -330,6 +330,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Želite ustvariti pripomoček in dovoliti dostop?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Vedno dovoli da %1$s ustvari pripomočke in dostopa do njihovih podatkov</string>
   <string name="allow_data_usage_title">Dovoli prenos podat. med gost.</string>
+  <string name="allow_device_id_access">Aplikacije z identifikacijo naprave</string>
     <string name="allow_interruption">Dovoli prekinitve</string>
     <string name="allow_interruption_summary">Dovoli aplikaciji, da predvaja zvok, vibrira in/ali prikaže obvestila na zaslonu</string>
   <string name="allow_mock_location">Dovoli lažne lokacije</string>
@@ -1967,6 +1968,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="device_display_layout_title">Opravila</string>
   <string name="device_edit_title">Preimenuj telefon</string>
   <string name="device_feedback">Pošlji povratne info. o tej napravi</string>
+  <string name="device_id">Identifikacija naprave</string>
   <string name="device_info_default">Neznano</string>
   <string name="device_info_label">Informacije o napravi</string>
   <string name="device_info_not_available">Ni na voljo</string>
@@ -4781,6 +4783,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="pref_manage_bg_network">"Urejanje  omrežno povezovanje v ozadju"</string>
   <string name="pref_new_installed_preconfig_title">"Privzete nastavitve novih aplikacij"</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
+  <string name="pref_show_lunar_calendar_title">Pokaži tradicionalni kitajski kalendar na zakl. zaslonu</string>
     <string name="pref_title_lang_selection">Jezikovne nastavitve</string>
     <string name="pref_title_network_details">O omrežju</string>
   <string name="pref_title_update_notification">Obvestila uporabe podatkov</string>
@@ -5205,6 +5208,11 @@ Vmesnik UT: %5$s"</string>
   <string name="restore_data">Izberi datoteke za obnovitev</string>
   <string name="restore_default_apn">Obnavljanje privzetih nastavitev APN-jev</string>
   <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
+  <string name="restore_device_id_content">Ponastavi personalizirana priporočila</string>
+  <string name="restore_device_id_title">Ponastavi identifikacijo naprave</string>
+  <string name="restore_dialog_content">Ponastavljanje identifikacije naprave bo ponastavilo vaša prilagojena priporočila.</string>
+  <string name="restore_dialog_positive">Vrni</string>
+  <string name="restore_dialog_title">Opomnik</string>
   <string name="restore_failed">Obnovitev ni mogoča</string>
   <string name="restore_finished">Obnovitev uspešna</string>
   <string name="restore_is_running">Vračanje naprave</string>
