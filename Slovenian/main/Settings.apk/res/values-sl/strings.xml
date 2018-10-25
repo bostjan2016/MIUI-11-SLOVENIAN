@@ -3162,6 +3162,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launch_recents">Zaženi Nedavno</string>
   <string name="launch_voice_assistant">Zaženi glasovni pomočnik</string>
     <string name="launch_wifi_text">Ogled podrobnosti</string>
+  <string name="launcher_icon">Ikone</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
   <string name="launcher_settings_title">MIUI zaganjalnik</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
@@ -4404,6 +4405,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="page_layout_31">Clark Kent</string>
   <string name="page_layout_32">Trgovina Play</string>
   <string name="page_layout_33">Google</string>
+  <string name="page_layout_34">Telefon</string>
+  <string name="page_layout_35">Beležke</string>
   <string name="page_layout_4">Glasba</string>
   <string name="page_layout_5">Videoposnetki</string>
   <string name="page_layout_6">Aplikacije</string>
@@ -8247,6 +8250,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="wizard_back">Nazaj</string>
   <string name="wizard_finish">Dokončaj</string>
   <string name="wizard_next">Naprej</string>
+  <string name="words_title">Tekst</string>
   <string name="wlan_to_cellular_hint_title">WiFi-&gt;Mobilni nasvet</string>
     <string name="work_alarm_ringtone_title">Privzeti delovni zvok alarma</string>
     <string name="work_mode_label">Delovni profil</string>

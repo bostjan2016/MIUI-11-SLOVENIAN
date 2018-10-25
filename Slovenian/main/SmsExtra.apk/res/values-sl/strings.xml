@@ -1,8 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">NiNi aplikacije za izvedbo tega opravila</string>
+  <string name="activity_not_found">Ni aplikacije za izvedbo tega opravila</string>
+  <string name="allow_network_hint">Vključite dostop do omrežja</string>
+  <string name="already_updated">Vse je posodobljeno</string>
   <string name="back_to_message_list">Nazaj na spisek sporočil</string>
   <string name="button_close">Zapri</string>
+  <string name="click_to_update">Preveri za posodobitve</string>
   <string name="cm_privacy_dialog_allow">Dovoli</string>
   <string name="cm_privacy_dialog_cancel">Prekliči</string>
   <string name="cm_privacy_dialog_spannable_tips">Protokol o zasebnosti mobilnega operaterja</string>
@@ -16,6 +19,7 @@
   <string name="confirm_dialog_title">Izbrišem?</string>
   <string name="copy_message_text">Kopiraj</string>
   <string name="copy_message_text_success">Tekst uspešno kopiran</string>
+  <string name="current_data_version">Trenutna verzija podatakov</string>
   <string name="delete">Izbriši</string>
   <string name="delete_message">Izbriši</string>
   <string name="from_label">"Pošilja: "</string>
@@ -51,5 +55,6 @@
   <string name="summary_pref_cm_smart_sms">Ponuja predloge kartice, SMS številke storitev itd.</string>
   <string name="text_message">Tekstualno sporočilo</string>
   <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
+  <string name="updating">Posodabljanje</string>
   <string name="view_message_details">Prikaži podrobnosti</string>
 </resources>
