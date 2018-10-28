@@ -907,7 +907,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
           &lt;li&gt;vaša iskanja
         &lt;/ul&gt;"</string>
   <string name="mw_new_tab_otr_not_saved_bullet_points">Te informacije |ne bodo shranjene|:#zgodovina ogledov#vaša iskanja#podatki o piškotkih</string>
-  <string name="mw_new_tab_otr_subtitle">Zdaj lahko pregledujete zasebno in ostali uporabniki naprave neć bodo videli vaše aktivnosti.</string>
+  <string name="mw_new_tab_otr_subtitle">Zdaj lahko pregledujete zasebno in ostali uporabniki naprave ne bodo videli vaše aktivnosti.</string>
   <string name="mw_new_tab_otr_title">Delate v anonimnem načinu</string>
   <string name="mw_new_tab_otr_visible">Vaše aktivnosti |so še naprej vidne|:#obiskanim spletnim stranem#vašemu delodajalcu#vašemu ponudniku spletnih storitev</string>
   <string name="mw_no_matches">Ni ujemanj</string>
@@ -1574,7 +1574,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="voice_open_permission_xiaoai">Pojdite v nastavitve da vključite glasovna dovoljenja za Xiaoai Voice Engine</string>
   <string name="voice_open_permission_xunfei">Pojdite v nastavitve da vključite glasovna dovoljenja za nastavitve glasu</string>
   <string name="voice_search_permission">Glasovno iskanje zahteva dostop do mikrofona za normalno delo</string>
-  <string name="voice_semantic_analysis">Brskalnik bo lahko analiziral semantiko ko mu omogoćite povezavo.</string>
+  <string name="voice_semantic_analysis">Brskalnik bo lahko analiziral semantiko ko mu omogočite povezavo.</string>
   <string name="voice_start_description">Začni</string>
   <string name="voice_stop_description">Ustavi</string>
   <string name="voice_sub_title">Ne veste kaj bi rekli? Poskusite odpreti mi.com!</string>

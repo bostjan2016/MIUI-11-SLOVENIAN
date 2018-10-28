@@ -1655,7 +1655,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="go_back_button_label">Nazaj</string>
   <string name="google_backup_enable">Vključi var. kopije</string>
   <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
-  <string name="got_it">Shvaćam</string>
+  <string name="got_it">Razumem</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
   <string name="handy_mode">Delo z eno roko</string>
   <string name="handy_mode_enter_ask">Vprašaj pred vstopom v način Delo z eno roko</string>

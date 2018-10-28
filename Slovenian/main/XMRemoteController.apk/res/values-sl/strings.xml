@@ -306,7 +306,7 @@ Poskusite naslednje da  rešite problem:
   <string name="epg_program_share_drama">Poglej z mano: %3$s Kanal: %1$s, Ob:%2$s. Oceni in predvidi dogodek s Mi Remote</string>
   <string name="epg_program_share_game">Poglej z mano: %3$s Kanal: %1$s, Ob:%2$s.</string>
   <string name="epg_program_updated_to">Program postavljen na: %1$d</string>
-  <string name="epg_search_box_hint">TV program ili kanal koji želite pronaći</string>
+  <string name="epg_search_box_hint">TV program ali kanal ki ga želite najti</string>
   <string name="epg_search_history">Zgodovina iskanja</string>
   <string name="epg_search_hot_channel">Najpopularnejša iskanja</string>
   <string name="epg_search_hot_program">Najpopularnejša iskanja</string>

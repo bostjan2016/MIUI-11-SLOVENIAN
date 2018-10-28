@@ -698,7 +698,7 @@ nastavitev in aplikacij"</string>
   <string name="backup_pw_cancel_button_text">Prekliči</string>
   <string name="backup_pw_set_button_text">Nastavi geslo za varnostno kopijo</string>
   <string name="backup_report">Pokaži podrobnosti</string>
-  <string name="backup_section_title">Sig. kopija &amp; vraćanje</string>
+  <string name="backup_section_title">Sig. kopija &amp; vračanje</string>
   <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali povrnjene.</string>
   <string name="backup_security_tips_title">Var. kopije morda ne bodo delovale</string>
   <string name="backup_update">Posodobi</string>
@@ -2662,7 +2662,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="font_size_preview_text_title">Čarovnik iz Oza</string>
   <string name="font_size_save">"V redu"</string>
   <string name="font_size_small">Majhno</string>
-  <string name="font_size_summary">"Zamenjajte velikost fontov teksta zaćetnega zaslona, plošče obvestil, tipkovnice in sistemskega menija.    
+  <string name="font_size_summary">"Zamenjajte velikost fontov teksta začetnega zaslona, plošče obvestil, tipkovnice in sistemskega menija.    
 
 "</string>
   <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>

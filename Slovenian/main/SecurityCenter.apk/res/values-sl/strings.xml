@@ -1547,7 +1547,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="menu_summary_garbage_cleanup_2">Velikost smeti</string>
   <string name="menu_summary_garbage_cleanup_3">Izbriši smeti</string>
   <string name="menu_summary_networkassistants">Urejajte svoj plan podatkov</string>
-  <string name="menu_summary_networkassistants_2">Omejitev prekoraćena</string>
+  <string name="menu_summary_networkassistants_2">Omejitev prekoračena</string>
   <string name="menu_summary_networkassistants_3">Ostalo je dovolj podatkov</string>
   <string name="menu_summary_networkassistants_4">Zmanjkuje podatkov</string>
   <string name="menu_summary_power_manager">Varčevanje baterije vam dajeveč časa med polnjenji</string>
@@ -1921,7 +1921,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Napredne nastavitve</string>
-  <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja ćez 30 sek. neaktivnosti</string>
+  <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
