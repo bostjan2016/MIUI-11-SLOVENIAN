@@ -822,6 +822,7 @@ za fotografije"</string>
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_set_contact_photo">Nastavi za sliko stika</string>
+  <string name="operation_set_slide_wallpaper">Nastavi kot slideshow ozadje</string>
   <string name="operation_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="operation_share">Deli</string>
   <string name="operation_show_in_photos_tab">Prikaži na začetni strani</string>
@@ -979,11 +980,12 @@ za fotografije"</string>
   <string name="picker_download">Prenesi</string>
   <string name="picker_download_progress_message">Prenos, končano: %1$d/%2$d</string>
   <string name="picker_full_format">Lahko izberete %d fotografij.</string>
-  <string name="picker_image_need_download">%d izbranih fotografij ni v napravi, prenesem z mobilnimi podatki?</string>
-  <string name="picker_image_will_download">%d izbranih fotografij ni v napravi, prenos…</string>
+  <string name="picker_image_need_download">"%d izbranih fotografij ni v napravi, prenesem z mobilnimi podatki?"</string>
+  <string name="picker_image_will_download">"%d izbranih fotografij ni v napravi. Bodo prenešene."</string>
   <string name="picker_mobile_data_video">"Ne morem prenesti videposnetke z mobilnimi podatki, preskoči %d."</string>
   <string name="picker_no_network_message">Povežite se na omrežje za prenos</string>
-  <string name="picker_origin_need_download">%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?</string>
+  <string name="picker_origin_need_download">"%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?"</string>
+  <string name="picker_origin_request_progress_fail">"Ne morem prenesti izvirne slike zaradi napake omrežja."</string>
   <string name="picker_origin_request_progress_message">Priprava izvirnih datotek (%1$d/%2$d)…</string>
   <string name="picker_title_format">Izberite %1$d do %2$d fotografij</string>
   <string name="picker_title_selection_format">Izbrano %d fotografij</string>
@@ -1192,6 +1194,8 @@ za fotografije"</string>
   <string name="send_too_many_files_error">"Ne morem poslati toliko predmetov (maks. %d)."</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
+  <string name="set_as_slide_wallpaper_description">Ta slika je miniatura, prenesem original?</string>
+  <string name="set_as_slide_wallpaper_title">Nastavi za slideshow sliko ozadja</string>
   <string name="set_as_wallpaper_description">Ta slika je miniatura, prenesem najprej original?</string>
   <string name="set_as_wallpaper_title">Nastavi za sliko ozadja</string>
   <string name="set_face_group_toast_msg_new_user">Nastavite obraz osebe za združevanje ali ignoriranje te osebe</string>

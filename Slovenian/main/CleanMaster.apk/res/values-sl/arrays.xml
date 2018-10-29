@@ -80,4 +80,8 @@
          <item>Očisti</item>
          <item>Prikaži</item>
     </string-array>
+		  <string-array name="wechat_sort">
+        <item>Datum</item>
+        <item>Velikost</item>
+    </string-array>
 </resources>

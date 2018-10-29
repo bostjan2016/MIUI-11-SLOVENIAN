@@ -426,6 +426,8 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="google_bookmarks">Google</string>
   <string name="green_kid_block_request">Spletna stran je blokirana s starševskim geslom.</string>
   <string name="guide_chosen_type_main_title">Recite nam kaj vam je všeč</string>
+  <string name="guide_chosen_type_main_title_behind">kaj vam je všeč</string>
+  <string name="guide_chosen_type_main_title_front">Recite nam</string>
   <string name="guide_chosen_type_subtitle">Označite svoja zanimanja da boste dobili ustrezna priporočila</string>
   <string name="guide_entertainment_text">zabava</string>
   <string name="guide_fashion_text">moda</string>

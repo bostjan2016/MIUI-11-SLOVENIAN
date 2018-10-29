@@ -33,6 +33,10 @@
   <string name="apk_status_install">Nameščeno</string>
   <string name="apk_status_installed_old">Starejša vezija</string>
   <string name="apk_status_uninstalled">Ni nameščeno</string>
+  <string name="app_clean_group_document_recv">Prejete datoteke</string>
+  <string name="app_clean_group_document_send">Poslane datoteke</string>
+  <string name="app_clean_group_image_recv">Prejete slike</string>
+  <string name="app_clean_group_image_send">Poslane slike</string>
   <string name="app_description_content">Čistilec najde smeti v vaši napravi in osvobaja prostor za shranjevanje.</string>
   <string name="app_description_title">O Čistilcu</string>
   <string name="app_install_tips_go_to">Odpri</string>
@@ -214,6 +218,15 @@
   <string name="engine_cm">Clean Master</string>
   <string name="engine_init">Zagon…</string>
   <string name="engine_tm">Tencent</string>
+  <string name="facebook_clean_exit_confirm_cancel">Nadaljuj pregled</string>
+  <string name="facebook_clean_exit_confirm_msg">"Niste še končali pregled Facebooka. Želite ustaviti pregled?"</string>
+  <string name="facebook_clean_exit_confirm_ok">Ustavi</string>
+  <string name="facebook_clean_exit_confirm_title">Ustavim pregled?</string>
+  <string name="facebook_cleaner">Facebook čistilec</string>
+  <string name="facebook_group_cache">Datoteke predpomnilnika</string>
+  <string name="facebook_group_gif">GIF-i</string>
+  <string name="facebook_group_image">Slike</string>
+  <string name="facebook_group_video">Videoposnetki</string>
   <string name="file">Datoteka</string>
   <string name="file_not_found">Datoteka ni najdena</string>
   <string name="find_device_operation_failure_rpc">"Opravila ni mogoče izvršiti zaradi RPC napake. "</string>
@@ -581,10 +594,6 @@
   <string name="whatsapp_group_voice">Zvok</string>
   <string name="whatsapp_group_wallpaper">Slika ozadja</string>
   <string name="whatsapp_title">Očisti WhatsApp</string>
-  <string name="whatsapp_type_document_recv">Prejete datoteke</string>
-  <string name="whatsapp_type_document_send">Poslane datoteke</string>
-  <string name="whatsapp_type_image_recv">Prejete slike</string>
-  <string name="whatsapp_type_image_send">Poslane slike</string>
   <string name="white_list_ad_header">Stare datoteke: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predpomnilnik: %d</string>
