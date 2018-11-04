@@ -2809,6 +2809,10 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gxzw_anim_pulse">Puls</string>
   <string name="gxzw_anim_rhythm">Ritam</string>
   <string name="gxzw_anim_title">Prstni odtis</string>
+  <string name="gxzw_dialog_message">"Za normalno uporabo senzorja prstnih odtisov znotraj zaslona ne uporabljajte zaščite zaslona. Če mislite da je vseeno potrebna, jo izberite med pooblaščenimi kompatibilnimi opcijami."</string>
+  <string name="gxzw_dialog_not_show_again">"Ne kaži več"</string>
+  <string name="gxzw_dialog_ok">Razumem</string>
+  <string name="gxzw_dialog_title">O senzorju prstnih odtisov znotraj zaslona</string>
   <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
   <string name="hand_mode_notification_title">Uporabite kontrole roba</string>
   <string name="handy_mode">Delo z eno roko</string>
@@ -3511,6 +3515,7 @@ kot PIN za Prvi prostor"</string>
   <string name="login_action">Prijavite se</string>
   <string name="login_failed">Prijava ni uspela. Poskusite ponovno.</string>
   <string name="logining">Prijava…</string>
+  <string name="long_press_AI_button">Pritisnite in držite tipko AI</string>
   <string name="long_press_back_key">Dolg pritisk tipka Nazaj</string>
   <string name="long_press_buttom_key">Dolg pritisk tipke Meni na zakl. zaslonu</string>
   <string name="long_press_home_key">Dolg pritisk tipke Domov</string>

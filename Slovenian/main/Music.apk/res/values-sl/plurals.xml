@@ -179,4 +179,8 @@ skupaj %2$d pesemi</item>
         <item quantity="other">%1$s pregledov</item>
         <item quantity="one">%1$s pregled</item>
      </plurals>
+	 <plurals name="video_count">
+        <item quantity="other">Videoposnetki</item>
+        <item quantity="one">Videoposnetek</item>
+     </plurals>
 </resources> 

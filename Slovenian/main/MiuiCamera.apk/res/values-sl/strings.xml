@@ -86,6 +86,8 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
   <string name="beauty_fragment_tab_name_beauty">Olepšaj</string>
   <string name="beauty_fragment_tab_name_makeup">Napredno</string>
+  <string name="beauty_mode_reset_toast">Efekti remodeliranja odstranjeni</string>
+  <string name="beauty_reset">Ponastavi</string>
   <string name="bg_replacement_message">"Postavite napravo na stabilno površino,
 in za trenutek zapustite pregled"</string>
   <string name="bokeh_use_hint">Globinski efekt</string>
@@ -113,6 +115,8 @@ in za trenutek zapustite pregled"</string>
   <string name="capture_back_pressed_hint">Tapnite ponovno za izhod</string>
   <string name="clear_effects">Počisti efekte</string>
   <string name="close">Zapri</string>
+  <string name="close_back_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
+  <string name="close_front_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
   <string name="cloud_album_details">Podrobnosti Cloud albuma:</string>
   <string name="color_effect_entry_berry">Sadje</string>
   <string name="color_effect_entry_blackwhite">Č&amp;B</string>
@@ -763,6 +767,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_video_quality_entry_vga">VGA</string>
   <string name="pref_video_quality_entry_wqvga">WQVGA</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
+  <string name="pref_video_quality_summary">4K videoposnetek ne more biti podprt v načinu dela 120FPS</string>
   <string name="pref_video_quality_title">Video kvaliteta</string>
   <string name="pref_video_slow_speed_title_simple_mode">Hitro gibanje</string>
   <string name="pref_video_speed_entry_fast">Hitro</string>
@@ -862,6 +867,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="sticker_tab1">Sladko</string>
   <string name="sticker_tab2">Smešno</string>
   <string name="success_message_import_from_account">Uvoženo</string>
+  <string name="super_night_toast">Fotografiranje, držite telefon mirno</string>
   <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>
   <string name="tap_to_focus">Pritisni za izostritev</string>

@@ -1185,7 +1185,7 @@
          <item>Obvestila se bodo prikazala v zasebni mapi</item>
      </string-array>
 	 <string-array name="ap_identify">
-         <item>Privzeto</item>	         
+        <item>Privzeto</item>	         
         <item>Mobilna dostopna točka</item>
 	</string-array>
     <string-array name="automatic_storage_management_days">
@@ -1263,9 +1263,16 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
+	<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+	<string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, aktivno</item>
+        <item>, aktivno (predstavnost)</item>
+        <item>, aktivno (telefon)</item>
+     </string-array>
     <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (privzeto)</item>
         <item>OpenGL (Skia)</item>

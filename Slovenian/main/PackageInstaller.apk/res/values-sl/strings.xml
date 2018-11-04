@@ -490,6 +490,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="out_of_space_dlg_text">Ni dovolj prostora za namestitev %1$s.</string>
   <string name="out_of_space_dlg_title">Ni dovolj prostora</string>
   <string name="overlay_display_devices_title">Simuliraj sekund. zaslone</string>
+  <string name="password_toggle_content_description">Vidnost gesla bližnjic</string>
   <string name="perm_action_accept">Dovoli</string>
   <string name="perm_action_prompt">Vprašaj</string>
   <string name="perm_action_reject">Zavrni</string>
@@ -734,6 +735,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wifi_display_certification">Potrjevanje brezžičnega prikaza</string>
   <string name="wifi_display_certification_summary">Prikaži možnosti za potrjevanje brezžičnega prikaza</string>
   <string name="wifi_fail_to_scan">"Iskanje omrežij ni možno"</string>
+  <string name="wifi_metered_label">Merjeno</string>
   <string name="wifi_no_internet">Ni dostopa na splet.</string>
   <string name="wifi_no_internet_no_reconnect">Dostop na splet ni odkrit. Ni samodejne ponovne povezave.</string>
   <string name="wifi_not_in_range">Ni v dometu</string>

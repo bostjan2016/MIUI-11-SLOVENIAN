@@ -266,8 +266,9 @@
   <string name="pref_summary_no_limit_popup">Neomejeno</string>
   <string name="pref_title_enable_max_bytes_popup">Prikaži podatke o porabi</string>
   <string name="preferences_title">Nastavitve</string>
+  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_tip_cancel">Prekliči</string>
-  <string name="privacy_tip_content">Uporabim Xunlei Accelerator za pospešitev prenosov? Povezava gostitelja za prenos bo naložena na strežnike Xunlei. Vaši podatki Mi računa se bodo naložili zaradi preverbe če imate kakršne koli aktivne naročnine za to storitev.</string>
+  <string name="privacy_tip_content">"Uporabim Xunlei Accelerator za pospešitev prenosov? Povezava gostitelja za prenos bo naložena na strežnike Xunlei. Vaši podatki Mi računa se bodo naložili zaradi preverbe če imate kakršne koli aktivne naročnine za to storitev."</string>
   <string name="privacy_tip_ok">V redu</string>
   <string name="privacy_tip_title">Uporabim Xunlei pospeševalnik?</string>
   <string name="quit_btn">Izhod</string>

@@ -1508,6 +1508,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="menu_clear_current_sms">Izbriši vse blokirane SMS poslane iz te številke</string>
   <string name="menu_edit">Uredi</string>
   <string name="menu_item_about_content">Verzija %s</string>
+  <string name="menu_item_about_privacy_title">Pravila o zasebnosti</string>
   <string name="menu_item_about_summary">Verzija %s</string>
   <string name="menu_item_about_title">O</string>
   <string name="menu_item_app_details">Podrobnosti</string>
