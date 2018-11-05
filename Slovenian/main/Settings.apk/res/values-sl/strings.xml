@@ -1318,6 +1318,12 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="call_manager_enable_summary">Omogoči tej storitvi upravljanje načina izvajanja klicev.</string>
   <string name="call_manager_enable_title">Omogočanje Upravitelja klicev</string>
   <string name="call_manager_title">Upravitelj klicev</string>
+  <string name="call_records_name_1">Boštjan REBOLJ</string>
+  <string name="call_records_name_2">MIUI Adria</string>
+  <string name="call_records_name_3">Olimpija Ljubljana</string>
+  <string name="call_records_summary_1">9:35 AM | 26 sek. | China Unicom</string>
+  <string name="call_records_summary_2">August 16 | 1m 16s | China Mobile</string>
+  <string name="call_records_summary_3">August 16 | 2m 24s | China Unicom</string>
   <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v privzetem prostoru</string>
   <string name="call_settings_summary">Nastavite telefonski predal, preusmeritev klicev, čakajoči klic, ID klicatelja</string>
   <string name="call_settings_title">Nastavitve klicanja</string>

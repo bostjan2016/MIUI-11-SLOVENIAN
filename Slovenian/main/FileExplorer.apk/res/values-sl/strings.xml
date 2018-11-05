@@ -724,7 +724,8 @@
   <string name="rename_alert">"Če spremenite končnico datoteke je morda ne boste mogli odpreti."</string>
   <string name="rename_alert2">Datoteka bo skrita, če spremenite njeno končnico.</string>
   <string name="rename_description">Preimenujem…</string>
-  <string name="rename_failed">Ni mogoče preimenovati %1$s</string>
+  <string name="rename_failed">"Ni mogoče preimenovati %1$s"</string>
+  <string name="rename_input_null">Vnesite novo ime datoteke</string>
   <string name="repair_done">Obnovljeno</string>
   <string name="repair_error">"Ne morem obnoviti"</string>
   <string name="repair_error_no_media">"Ne morem obnoviti, izberite vsaj eno medijsko datoteko."</string>

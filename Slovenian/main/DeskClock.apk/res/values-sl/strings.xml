@@ -151,7 +151,7 @@
   <string name="setting_alarm_arriving_title">Obvesti pred zvonenjem</string>
   <string name="settings">Nastavitve</string>
   <string name="shutdown_alarm_disable_summary">Alarm je izklopljen</string>
-  <string name="shutdown_alarm_enable_summary">Alarm je vklopljen</string>
+  <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 5 minut potem ko izključite napravo"</string>
   <string name="shutdown_alarm_title">Izklop alarma</string>
   <string name="shut_down_keep_screen">"Zaslon ne bo ostal vključen"</string>
   <string name="silent_alarm_summary">Tiho</string>

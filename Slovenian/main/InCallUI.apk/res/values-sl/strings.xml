@@ -148,7 +148,7 @@
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Zavrni</string>
   <string name="fraud_call_waring">Bodite previdni: Vedno morate preveriti identiteto osebe s katero se pogovarjate po telefonu ali videoklicu, preden se odzovete na vsa sporočila, ki vključujejo vaše osebne podatke.</string>
-  <string name="inCallLabel">InCallUI</string>
+  <string name="inCallLabel">Telefon</string>
   <string name="incall_call_type_label_sip">Spletni klic</string>
   <string name="incall_error_supp_service_conference">"Ne morem uporabiti konferenčni klic."</string>
   <string name="incall_error_supp_service_hangup">"Ne morem prekiniti klic."</string>

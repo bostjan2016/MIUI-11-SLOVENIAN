@@ -196,5 +196,6 @@
   <string name="voice_input_error_other">Dogodila se pogreška. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="wifi_assistant_wifi_no_internet">To WiFi omrežje nima dostopa do spleta</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Tapni za prikaz podrobnosti</string>
+  <string name="xspace_head">Dvojna aplikacija</string>
   <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
 </resources>

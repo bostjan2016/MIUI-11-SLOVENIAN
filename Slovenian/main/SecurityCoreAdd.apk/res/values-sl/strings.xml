@@ -364,9 +364,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="start_new_fingerprint_tips">"Uporabite prstni odtis za Drugi prostor 
 za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="start_setting_guide_desc_title">Nastavite še nekaj stvari</string>
-  <string name="stop_xspace_alert_content">"Izbrisali ste vse dvojne aplikacije. Izbrišem tudi račune za dvojne aplikacije in podatke aplikacije? Po tem boste morali ponovno izdelati dvojne aplikacije ko jih boste rabili."</string>
+  <string name="stop_xspace_alert_content">"Vse dvojne aplikacije in podatki bodo trajno izbrisani. Morali boste ponovno zagnati napravo. Želite zdaj izbrisati račune?."</string>
   <string name="stop_xspace_alert_title">Brisanje računa dvojne aplikacije</string>
-  <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Trenutnem prostoru</string>
+  <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v trenutnem prostoru</string>
   <string name="support_desc">Varnostne storitve ponuja Spaces Mobile</string>
   <string name="sure_to_use">Potrdi</string>
   <string name="switchDataSummary">Premeščajte stvari med prostoroma</string>
@@ -437,6 +437,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Nalaganje aplikacij…</string>
   <string name="xspace_qq_title">QQ</string>
+  <string name="xspace_remove">"Izbriši račune dvojnih aplikacij"</string>
   <string name="xspace_setting_label">Nastavitve dvojne aplikacije</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspešno odstranjena</string>
   <string name="xspace_uninstall_dialog_content">Odstranitev dvojne aplikacije bo odstranila vse podatke aplikacije.</string>
