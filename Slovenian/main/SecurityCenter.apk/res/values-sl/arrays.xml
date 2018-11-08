@@ -135,4 +135,9 @@
         <item>Čas namestitve</item>
         <item>Aplikacije ki se lahko odstranijo</item>
      </string-array>
+	 <string-array name="traffic_package_type">
+        <item>Mesečni plan podatkov</item>
+        <item>Dnevni plan podatkov</item>
+        <item>Neomejeni plan podatkov</item>
+    </string-array>
 </resources>

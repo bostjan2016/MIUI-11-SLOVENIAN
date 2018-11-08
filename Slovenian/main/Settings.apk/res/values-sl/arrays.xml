@@ -846,6 +846,7 @@
     </string-array>
 	<string-array name="ai_key_item_name">
         <item>Razgovor z Google pomočnikom</item>
+	<item>Odpri Google iskanje</item>
         <item>Odpri zadnjo kamero</item>
         <item>Odpri sprednjo kamero</item>
         <item>Odpri prejšnjo aplikacijo</item>

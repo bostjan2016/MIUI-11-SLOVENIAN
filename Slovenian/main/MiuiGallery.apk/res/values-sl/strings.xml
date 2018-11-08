@@ -390,7 +390,12 @@
   <string name="detail_title">Podrobnosti</string>
   <string name="disable_auto_upload_tip">"Izključim sinhr. z Mi Cloudom za ta album?"</string>
   <string name="disable_auto_upload_title">Izključi sinhr. z Mi Cloud</string>
-  <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
+  <string name="do_not_remind_me">"Ne kaži več"</string>
+  <string name="document_provider_guide_step_1">1. Tapni tipko \"Več\".</string>
+  <string name="document_provider_guide_step_2">2. Tapni \"Prikaži notranji pomnilnik\".</string>
+  <string name="document_provider_guide_step_3">3. Tapni tipko menija na strani.</string>
+  <string name="document_provider_guide_step_4">4. Tapni \"SD kartica\".</string>
+  <string name="document_provider_guide_step_5">5. Tapni \"Izberi\".</string>
   <string name="do_not_save">"Ne shranjuj"</string>
   <string name="documentary">Dokumentarec</string>
   <string name="doodle">Risba</string>
@@ -516,6 +521,18 @@
   <string name="exit_video_play">Izhod</string>
   <string name="expand_desc">Več</string>
   <string name="expand_people">Prikaži več oseb</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">Namesto tega bo Galerija shranila stvari na notranji pomnilnik. To lahko spremenite v Nastavitve &gt; Shramba &gt; Nastavitve shrambe.</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">"Ne morem odobriti dovoljenja."</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Naprej</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Odobrite dovoljenje</string>
+  <string name="ext_sdcard_guide_text">"Galerija treba vaše dovoljenje za dostop do SD kartice. Kaj lahko naredite:"</string>
+  <string name="ext_sdcard_operation_failed_text">Galerija treba dovoljenje za dostop do SD kartice</string>
+  <string name="ext_sdcard_operation_failed_title">"Ne morem dokončati"</string>
+  <string name="ext_sdcard_permission_request_button_text">Razumem</string>
+  <string name="ext_sdcard_permission_request_reason">Galerija treba vaše dovoljenje za dostop do SD kartice. To ji omogoča brisanje in urejanje fotografij in videoposnetkov shranjenih na SD kartici.</string>
+  <string name="ext_sdcard_permission_request_title">Odobrite galeriji dostop do SD kartice</string>
+  <string name="ext_sdcard_request_failed_button_text">V redu</string>
+  <string name="ext_sdcard_request_succeed_toast_text">"Vse je pripravljeno!"</string>
   <string name="face_album_detecting_tip">Samo trenutek…</string>
   <string name="face_album_empty">"Ni dovolj fotografij za prepoznavanje osebe.
 Napravite več fotografij vaših prijateljev!"</string>
