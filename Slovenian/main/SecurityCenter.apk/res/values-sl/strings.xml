@@ -2350,7 +2350,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Varnost</string>
   <string name="resource_securitycenter_settings">Varnost</string>
-  <string name="resource_usb_install">Instaliraj preko USB-a</string>
+  <string name="resource_usb_install">Namesti preko USB-a</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatkov in omejim podatke v ozadju?"</string>
   <string name="result_autoscan_header">Kontrola plačil</string>
   <string name="result_autoscan_info">Samodejno nadziraj sistem kadar so aplikacije za plačila zagnane</string>

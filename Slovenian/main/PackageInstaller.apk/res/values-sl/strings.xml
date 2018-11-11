@@ -340,7 +340,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="install_failed_system_incompatible">Ta aplikacija ni kompatibilna z MIUI</string>
   <string name="install_failed_verify_failed">Paket ni opravil preverjanja in ga ni mogoče namestiti.</string>
   <string name="install_failed_verify_timeout">Potekel je čas pri preverjanju tega paketa. Poskusite ga namestiti ponovno pozneje.</string>
-  <string name="install_from_appstore_hint">Priporočamo vam da instalirate aplikacijo iz App Store</string>
+  <string name="install_from_appstore_hint">Priporočamo vam da namestite aplikacijo iz App Store</string>
   <string name="install_other_apps">Namestitev neznanih aplikacij</string>
   <string name="installing">Nameščanje...</string>
   <string name="installing_app">Nameščanje paketa %1$s…</string>
