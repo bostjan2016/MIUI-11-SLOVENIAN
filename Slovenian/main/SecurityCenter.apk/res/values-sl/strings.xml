@@ -1094,9 +1094,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovala če niste povezani preko WiFi omrežja."</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
   <string name="foreground_traffic">Prednja stran %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
+  <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_password_button_text_normal">Pozabljeno geslo</string>
-  <string name="forget_pattern">&lt;u&gt;Pozabljen vzorec?&lt;/u&gt;</string>
+  <string name="forget_pattern">Pozabljen vzorec</string>
   <string name="free_send_net_booster">Brezplačno povečanje hitrosi omrežja</string>
   <string name="free_send_net_booster_busniess">Pridobite brezplačno hitrost Xunlei</string>
   <string name="free_send_net_booster_busniess_tip">Pritisni za sprejem</string>
@@ -1768,11 +1768,16 @@ vašo napravo"</string>
   <string name="om_lock_app_locked_app_occupy_memory">"Zaklep preveč aplikacij zmanjšuje performanse dela telefona"</string>
   <string name="om_lock_app_tip_msg">Tapni za zaklep</string>
   <string name="om_lock_app_unlocked_app">Odklenjeno</string>
+  <string name="om_locked_apps_summary">Zaklenjene aplikacije bodo prezrte zaradi povečanja hitrosti.</string>
   <string name="om_media_scan_time_warn_title">"Medijski server deluje v ozadju.
 To skrajšuje trajanje baterije."</string>
   <string name="om_media_scan_timeout_proc_detail">Medijski server deluje v ozadju. Lahko omejite njegovo aktivnost.</string>
   <string name="om_media_scan_timeout_proc_name">Medijski server</string>
   <string name="om_memory_clean_cleaning_text">Povečanje hitrosti…</string>
+  <string name="om_not_finish_speedboost">Potrebno je povečanje hitrosti</string>
+  <string name="om_promotion">Oglas</string>
+  <string name="om_running_system_apps">Zagon sistemske aplikacije</string>
+  <string name="om_running_third_apps">Zagon 3th aplikacij</string>
   <string name="om_notify_cpu_load_too_high_summary">Omeji aktivnosti v ozadju za povečanje hitrosti</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU od %s je previsoka</string>
   <string name="om_notify_need_clean_memory_summary">Izbriši predpomnilnik za povečanje hitrosti</string>

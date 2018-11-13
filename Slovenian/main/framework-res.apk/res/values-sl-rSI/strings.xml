@@ -962,6 +962,7 @@ Znova poskusite čez %d s."</string>
     <string name="notification_channel_voice_mail">Sporočila v odzivniku</string>
     <string name="notification_channel_vpn">Stanje omrežja VPN</string>
     <string name="notification_channel_wfc">Klicanje prek WiFi-ja</string>
+  <string name="notification_description">Status zvočnega klica</string>
   <string name="notification_hidden_by_policy_text">Pravilnik je skril vsebino</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
   <string name="notification_inbox_ellipsis">…</string>

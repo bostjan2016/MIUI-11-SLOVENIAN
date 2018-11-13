@@ -157,9 +157,9 @@
         <item quantity="other">Najdeno (%d) aplikacij</item>
         <item quantity="one">Najdena %d aplikacija</item>
     </plurals>
-	<plurals name="om_ill_proc_multi_app_title">
-         <item quantity="other">"%d aplik. ne dela pravilno in porabljajo baterijo"</item>
-         <item quantity="one">"%d aplik. ne dela pravilno in porablja baterijo"</item>
+	<plurals name="om_locked_apps_title">
+         <item quantity="other">%d zakl. aplikacij</item>
+         <item quantity="one">"%d zakl. aplikacija</item>
      </plurals>
 	 <plurals name="network_restrict_count">
          <item quantity="other">"Dostop do omrežja je omejen za &lt;font color='#ff0000'>%d&lt;/font> aplik."</item>

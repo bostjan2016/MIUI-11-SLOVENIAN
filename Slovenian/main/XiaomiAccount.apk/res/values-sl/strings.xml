@@ -97,6 +97,7 @@
   <string name="change_phone_number">Menjava številke telefona</string>
   <string name="checking_phone_num_availible">Preverjanje telefona…</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="collect_diagnosis_log">Zberi zapise pregleda</string>
   <string name="completed">Končano</string>
   <string name="confirm_activate_email">Potrjeno</string>
   <string name="confirm_bundled_phone_dialog_title">Potrdi skupinsko številko telefona</string>
@@ -132,6 +133,10 @@
   <string name="device_list_title">Moje naprave</string>
   <string name="device_name">Ime naprave</string>
   <string name="device_trust_info">Zaupanja vredna naprava</string>
+  <string name="diagnosis_log_send_failed">Ne morem poslati dnevnikov pregleda.</string>
+  <string name="diagnosis_log_sent_format">"Dnevniki pregledov so poslani.
+ID:%s
+Pošaljite to kodo našemu tehniku."</string>
   <string name="empty_device_list_notice">Ni naprave</string>
   <string name="error_dup_binded_email">Ta naslov e-pošte je že povezan z drugim Mi Računom.</string>
   <string name="error_duplicate_answers">"Ne uporabljajte podvojene odgovore iz varnostnih razlogov"</string>
@@ -164,6 +169,7 @@
   <string name="find_device_request_prepare_error">"Ne morem dobiti statusa, poskusite ponovno kasneje"</string>
   <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="first_login_time">Prvi poskus prijave: %s</string>
+  <string name="for_diagnosis_usage_only">Uporabite te informacije samo za pregled.</string>
   <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
@@ -216,6 +222,7 @@
   <string name="oauth_getting_scopes">Kontrola računa…</string>
   <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; bo dobil naslednja dovoljenja:&lt;br&gt; &lt;br&gt; %3$s</string>
   <string name="oauth_title">Prijavite se z Mi Računom</string>
+  <string name="ok">V redu</string>
   <string name="other_devices_title">Ostale naprave</string>
   <string name="passport_Resend">Pošlji ponovno</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
@@ -517,7 +524,9 @@
   <string name="security_question_prompt">"Varnostna vprašanja vam pomagajo kadar zamenjate ali izbrišete geslo.
  Poskrbite da boste vedeli odgovore!"</string>
   <string name="select_location_title">Izaberite vašo lokacijo</string>
+  <string name="send_diagnosis_log">Pošlji dnevnik pregleda</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>
+  <string name="sending">Pošiljanje…</string>
   <string name="service_error">Napaka storitve</string>
   <string name="set_success">Uspešno zamenjano</string>
   <string name="sign_in">Prijavi se</string>
@@ -528,6 +537,7 @@
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Potekel je čas prijave v račun. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
   <string name="talkback_scan_barcode">Skeniraj QR kodo</string>
+  <string name="temporary_not_available">Začasno nedostopno</string>
   <string name="submit_answers">Pošlji</string>
   <string name="success">Končano</string>
   <string name="trusted_browsers">Varni brskalniki</string>

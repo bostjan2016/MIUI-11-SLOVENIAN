@@ -3,7 +3,6 @@
   <string name="accept_modify_call_request_prompt">Sprejmem zahtevo za spremembo klica?</string>
   <string name="add_vm_number_str">Dodaj številko</string>
   <string name="antispam_local_marked">Lokalno označen</string>
-  <string name="antispam_marked_count">Poročalo %1$d MIUI uporabnikov</string>
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_provider">Identificiran od %s</string>
   <string name="areacode_set_default">Nastavi za privzeto</string>
@@ -52,7 +51,6 @@
   <string name="call_recording_notification_message_sd_unmounted">SD kartica je odstranjena.</string>
   <string name="call_recording_notification_title">Klic posnet</string>
   <string name="call_recording_notification_title_error">"Ne morem posneti klica."</string>
-  <string name="call_title_redialing_with_times">Vnovično klicanje %d krat</string>
   <string name="call_title_redialing_with_times_miui">%d krat ponovno klicano</string>
   <string name="caller_manage_header">Konferenčni klic %s</string>
   <string name="calling_via_template">Klicanje preko %s</string>
@@ -87,7 +85,6 @@
   <string name="close_camera_failed">"Ne morem zapreti kamere"</string>
   <string name="close_camera_requesting">Izklop kamere…</string>
   <string name="conference_call_description" formatted="false">%s,%s itd. skupaj %s</string>
-  <string name="conference_call_number">%s ljudi</string>
   <string name="conference_call_recorder_title">Konferenčni klic</string>
   <string name="conference_call_single_description" formatted="false">%s itd. skupaj %s</string>
   <string name="conference_caller_info_name">"%1$s konferenčni klic"</string>

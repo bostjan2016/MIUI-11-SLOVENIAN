@@ -116,15 +116,15 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="download_meta_failed">Ne morem prenesti podatkov</string>
   <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
   <string name="download_settings_fail">"Prenos nastavitev začetnega zaslona ni uspel"</string>
-  <string name="error_retry_later">Ni uspelo, poskusite ponovno.</string>
+  <string name="error_retry_later">Opravila ne morem končati. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="error_unknown">Prišlo je do napake</string>
   <string name="get_device_id_error">"Ne morem dobiti ID naprave"</string>
-  <string name="home_hint_global_launcher">Poco začet. zaslon</string>
-  <string name="home_hint_other_launcher">Ostali zač.. zasloni</string>
+  <string name="home_hint_global_launcher">Poco zaganjalnik</string>
+  <string name="home_hint_other_launcher">Ostali zaganjalniki</string>
   <string name="home_restore_error">"Ne morem povrniti začet. zaslon"</string>
   <string name="lack_of_storage">Ni prostora za shranitev</string>
   <string name="latest_backup_time_loading">Nalagam…</string>
-  <string name="load_backup_failed">Branje var. kopij ni uspelo</string>
+  <string name="load_backup_failed">Ne morem prenesti var. kopije</string>
   <string name="loading_user_backup">Branje uporabniških var. kopij…</string>
   <string name="main_space">Prvi prostor</string>
   <string name="managespace_delete_backup">Izbriši</string>
@@ -191,6 +191,6 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="trans_pausing">Premor…</string>
   <string name="try_again">Tapni za ponovni poskus</string>
   <string name="try_continue">Tapni za nadaljevanje</string>
-  <string name="unsupported_home">Posodobite na najnovejši OS.</string>
+  <string name="unsupported_home">Posodobite MIUI na najnovejšo verzijo.</string>
   <string name="wait_icon_download">Prenos ikon aplikacij</string>
 </resources>

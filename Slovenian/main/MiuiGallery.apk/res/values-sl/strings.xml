@@ -243,6 +243,7 @@
   <string name="choose_owner_relation">Razmerje</string>
   <string name="choose_people">"Izberite album osebe"</string>
   <string name="choose_some_people">Izberite album z %s</string>
+  <string name="cleaner_empty_value_description">Vse izgleda dobro</string>
   <string name="cleaner_photo_pick_delete_selected">Izbriši izbrane fotografije</string>
   <string name="cleaner_scan_description">Optimiziranje stvari osvobaja prostor za shranjevanje v vaši napravi</string>
   <string name="cleaner_scan_exit_dialog_message">"Morali boste začeti od začetka. Želite zdaj ustaviti skeniranje?"</string>
