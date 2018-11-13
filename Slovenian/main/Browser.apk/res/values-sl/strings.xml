@@ -66,6 +66,8 @@
   <string name="action_menu_text_share">Deli</string>
   <string name="action_menu_text_snapshot">Shrani stran</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toast_incognito_off">Izključi anonimni način</string>
+  <string name="action_menu_toast_incognito_on">Vključi anonimni način</string>
   <string name="action_menu_toolbox">Orodja</string>
   <string name="action_menu_useful_page">Dodaj bližnjico</string>
   <string name="action_menu_useful_page_added">Dodano na začetno stran</string>
@@ -117,6 +119,7 @@
   <string name="agree_permissions_request">Dovoli</string>
   <string name="alert_tips">Ta stran predstavlja tveganje</string>
   <string name="allow">Dovoli</string>
+  <string name="app_download_market_text">Uporabite Mi Market za hitrejši in varnejši prenos</string>
   <string name="app_new_version">Najnovejša različica te aplikacije je že naložena</string>
   <string name="app_update_install">Pripravljen za namestitev posodobitve.</string>
   <string name="application_name">Brskalnik</string>
@@ -242,6 +245,7 @@
   <string name="contextmenu_dial_dot">Kličem…</string>
   <string name="contextmenu_download_image">Shrani sliko</string>
   <string name="contextmenu_download_image_as">Shrani sliko kot</string>
+  <string name="contextmenu_incognito">Anonimni način</string>
   <string name="contextmenu_manually_block_ad">Označi kot oglas</string>
   <string name="contextmenu_map">Zemljevid</string>
   <string name="contextmenu_openlink">Odpri</string>
@@ -312,8 +316,11 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="document_download_background_btn">Prenesi v ozadju</string>
   <string name="document_download_cancel_btn">Prekini</string>
   <string name="document_download_failed">Ne morem prenesti</string>
+  <string name="document_download_immediate">Prenesi takoj</string>
+  <string name="document_download_normal">Normalni prenos</string>
   <string name="document_download_official">Prenesi uradno verzijo</string>
   <string name="document_download_open_direct">Odpri neposredno</string>
+  <string name="document_download_recommending">Varni prenos (priporočilo)</string>
   <string name="document_download_title">Prenos</string>
   <string name="document_open_file">Odpri %s</string>
   <string name="document_open_message">Da izboljšate izkušnjo branja in zavarujete varnost, uporabite WPS prilagojeno verzijo</string>
@@ -328,6 +335,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="download_dialog_default_path_invalid">Lokacija prenosa je napačna. Uporabila se bo privzeta lokacija.</string>
   <string name="download_dialog_file_length_hint_txt">Velikost datoteke:</string>
   <string name="download_dialog_file_length_lessthan1kb">Manj od 1KB</string>
+  <string name="download_dialog_file_length_default_txt">Samo trenutek…</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ni mogoče prenesti</string>
   <string name="download_dialog_file_length_nolength_txt">Prenašam...</string>
   <string name="download_failed">Ni mogoče dokončati prenosa</string>
@@ -1089,7 +1097,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="not_now">Ne zdaj</string>
   <string name="not_remind_again">Zapomni si mojo odločitev</string>
   <string name="notif_install_successful">Prenos končan</string>
-  <string name="ok">OK</string>
+  <string name="novel_toast_hint">Spletna stran dodana v zaznamke</string>
+  <string name="ok">V redu</string>
   <string name="older">Starejše</string>
   <string name="open_app_confirm_message">Dovolim tej strani da odpre %s?</string>
   <string name="open_cloud_sync">Vključi sinhr. z Mi Cloud</string>
@@ -1169,8 +1178,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_file_download_default_path_prefix">Privzeta lokacija: %s</string>
   <string name="pref_file_download_save_modify_default_path">Lokacija prenosov</string>
   <string name="pref_file_download_save_title">Prenosi</string>
-  <string name="pref_fling_on_border">Podrsajte s prstom od roba</string>
-  <string name="pref_fling_on_border_title_summary">Podrsajte s prstom od levega ali desnega roba zaslona</string>
+  <string name="pref_fling_gesture">Kretnja potega</string>
   <string name="pref_font_size_category">Velikost besedila</string>
   <string name="pref_force_userscalable">Vsiljena povečava</string>
   <string name="pref_force_userscalable_summary">Povozi prošnjo spletne strani za krmiljenje povečave besedila</string>
@@ -1224,7 +1232,6 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_security_show_security_warning_summary">Pokaži opozorilo če je na strani težava s certifikatom</string>
   <string name="pref_set_homepage_to">Nastavi na</string>
   <string name="pref_setting_title">Nastavitev spletne strani</string>
-  <string name="pref_slide_back_forward">Podrsaj nazaj ali naprej</string>
   <string name="pref_tab_restore">Obnovi zadnjo odprto stran ob zagonu</string>
   <string name="pref_ua_string">Uporabnikovo sredstvo niza</string>
   <string name="pref_version_info">Verzija</string>
@@ -1237,6 +1244,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="profiler_started_toast">Profiler se je zagnal</string>
   <string name="profiler_stopped_toast">Profiler je je končal. Rezultati shranjeni v %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Nastavitev ozadja...</string>
+  <string name="publish_to_topic">Objaviti v temi</string>
   <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>
   <string name="pwa_app_name">Spletna aplikacija</string>
@@ -1440,6 +1448,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="suggestion_more_news">VEČ NOVIC</string>
   <string name="suggestion_more_news_start_title_text">Povezane novice</string>
   <string name="suggestion_sliding_ads_info_mark_text">OGLASI</string>
+  <string name="suggestion_sliding_item_more_text">POKAŽI VEČ</string>
   <string name="suggestion_topic_subtitle_hyphen">Fokus</string>
   <string name="suggestion_translation_more">POKAŽI VEČ</string>
   <string name="switchText">DA</string>

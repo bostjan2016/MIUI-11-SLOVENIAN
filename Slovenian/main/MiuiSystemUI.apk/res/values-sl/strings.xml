@@ -1086,7 +1086,7 @@ Poskusite znova čez %2$d s."</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
   <string name="lock_screen_no_sim_card">Ni SIM kartice</string>
-  <string name="lock_screen_no_sim_card_emergency_only">Samo klic v sili</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Samo klici v sili</string>
   <string name="lock_screen_no_sim_card_no_service">Ni storitve</string>
   <string name="lock_wallpaper_enter">Vstop</string>
   <string name="lock_wallpaper_learn_more">Več</string>
@@ -1696,7 +1696,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="snooze_option_30_min">30 minut</string>
   <string name="snooze_undo">Razveljavi</string>
   <string name="snoozed_for_time">Odloženo na %1$s</string>
-  <string name="sos_status_bar_summary">Klikni za izhod</string>
+  <string name="sos_status_bar_summary">Tapni za izhod</string>
   <string name="sos_status_bar_title">SOS</string>
   <string name="speed_bump_explanation">Manj nujna obvestila na dnu</string>
   <string name="speed_bump_lockout_message">Osredotočite se na cesto</string>
@@ -1919,7 +1919,7 @@ Telefon lahko postane prevroč ob:
   <string name="unimportant_desc">Vsa nepomembna obvestila se bodo pojavila v zasebni mapi.</string>
   <string name="unimportant_title">Nepomembno</string>
   <string name="unknown">Neznano</string>
-  <string name="unlock_camera_steady">Držite mirno</string>
+  <string name="unlock_camera_steady">"Ne premikajte telefona"</string>
   <string name="unlock_failed">Interna napaka</string>
   <string name="unlock_failed_face_not_found">Odkrivanje</string>
     <string name="unlock_label">odkleni</string>

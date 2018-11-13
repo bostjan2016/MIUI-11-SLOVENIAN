@@ -77,7 +77,7 @@
          <item>Sporočilo iz brskalnika</item>
          <item>Spremljajte OI z Mi</item>
      </string-array>
-	 <string-array name="pref_fling_on_border_gesture_entries">
+	 <string-array name="pref_fling_gesture_entries">
          <item>Stran nazaj-naprej</item>
          <item>Zamenjaj vizitke</item>
          <item>Nič</item>
