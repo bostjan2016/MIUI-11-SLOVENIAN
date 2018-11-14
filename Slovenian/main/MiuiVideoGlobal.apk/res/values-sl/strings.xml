@@ -73,6 +73,11 @@
   <string name="cast_unmute">Vključi zvok</string>
   <string name="click_to_reload_more">Tapni za več</string>
   <string name="click_to_retry">Poskusi ponovno</string>
+  <string name="com_mixpanel_android_close">Zapri</string>
+  <string name="com_mixpanel_android_done">Končano</string>
+  <string name="com_mixpanel_android_exit">Izhod</string>
+  <string name="com_mixpanel_android_logo">By Mixpanel</string>
+  <string name="com_mixpanel_android_notification_image">Slika se ne prikazuje</string>
   <string name="com_permission_desc">"Mi Video ne more dostopiti do videoposnetkov. Omogočite dostop v nastavitvah."</string>
   <string name="com_permission_title">Potrebno je dovoljenje</string>
   <string name="common_google_play_services_enable_button">Omogoči</string>
@@ -124,6 +129,7 @@
   <string name="exo_controls_stop_description">Stop</string>
   <string name="explore_On">Preiščite</string>
   <string name="explore_on_mi_video">Najdi več v Mi Video</string>
+  <string name="failed_to_fetch_data">"Ne morem prebrati informacije."</string>
   <string name="finish">Končano</string>
   <string name="for_you">Za vas</string>
   <string name="fw_loading">Samo trenutek…</string>
