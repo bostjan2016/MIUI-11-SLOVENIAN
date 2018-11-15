@@ -121,14 +121,14 @@
         <item quantity="few">Nameščeni so overitelji potrdil</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Na voljo so omrežja Wi-Fi</item>
-        <item quantity="one">Na voljo je omrežje Wi-Fi</item>
-        <item quantity="few">Na voljo so omrežja Wi-Fi</item>
+        <item quantity="other">Na voljo so omrežja </item>
+        <item quantity="one">Na voljo je omrežje </item>
+        <item quantity="few">Na voljo so omrežja </item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Na voljo so odprta omrežja Wi-Fi</item>
-        <item quantity="one">Na voljo so odprta omrežja Wi-Fi</item>
-        <item quantity="few">Na voljo so odprta omrežja Wi-Fi</item>
+        <item quantity="other">Na voljo so odprta omrežja </item>
+        <item quantity="one">Na voljo so odprta omrežja </item>
+        <item quantity="few">Na voljo so odprta omrežja </item>
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">%d ur</item>

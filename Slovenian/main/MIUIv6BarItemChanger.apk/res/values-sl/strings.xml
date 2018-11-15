@@ -26,8 +26,8 @@
   <string name="data_speed">Hitrost</string>
   <string name="data_sync">Sinh.</string>
   <string name="data_vibration">Vibriranje</string>
-  <string name="data_wifi">WLAN</string>
-  <string name="data_wifispot">WLAN AP</string>
+  <string name="data_wifi">WiFi</string>
+  <string name="data_wifispot">WiFi AP</string>
   <string name="err_get_data">Napaka pri branju baze podatkov</string>
   <string name="err_init_settings">Napaka pri pridobivanju trenutnih nastavitev</string>
   <string name="err_reset">Napaka pri ponastavitvi.</string>

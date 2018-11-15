@@ -536,7 +536,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
   <string name="cit_tool_wifi_rxn_test_bw">pasovna širina:</string>
   <string name="cit_tool_wifi_rxn_test_channel">kanal:</string>
-  <string name="cit_tool_wifi_sniffer">Orodje za WLAN Sniffer</string>
+  <string name="cit_tool_wifi_sniffer">Orodje za WiFi Sniffer</string>
   <string name="cit_tool_wifi_sniffer_settings">Sniffer nastavitve</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>

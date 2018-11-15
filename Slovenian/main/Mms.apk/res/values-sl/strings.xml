@@ -560,7 +560,7 @@
   <string name="rcs_auto_resend_mms">Pretvori v MMS</string>
   <string name="rcs_auto_resend_sms">Pretvori v SMS</string>
   <string name="rcs_auto_resume">Resume interrupted uploads automatically</string>
-  <string name="rcs_auto_resume_only_by_wifi">Resume uploads only when connected to Wi-Fi</string>
+  <string name="rcs_auto_resume_only_by_wifi">Resume uploads only when connected to </string>
   <string name="rcs_create_new_group">新建群聊</string>
   <string name="rcs_dspt">After China Mobile users are switched on, send messages by default via WLAN or mobile network.</string>
   <string name="rcs_forward_faild">"Ne morem posredovati"</string>

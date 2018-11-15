@@ -185,7 +185,7 @@ Prestavi na GSM za %1$d sek…"</string>
   <string name="voip_loading_contact">Samo trenutek…</string>
   <string name="voip_network_not_online">Ni signala omrežja</string>
   <string name="voip_network_operators">Vi ste na %1$sG omrežju, imeli boste dodatne stroške</string>
-  <string name="voip_network_wifi">Vi ste na WLAN omrežju, brezplačno</string>
+  <string name="voip_network_wifi">Vi ste na WiFi omrežju, brezplačno</string>
   <string name="voip_network_wranning">Slabo omrežje</string>
   <string name="voip_other_unsupport_voip">"Druga stran nima omogočene Voip klice"</string>
   <string name="voip_others_not_online">Druga stran je izgubila zvezo</string>
@@ -194,7 +194,7 @@ Prestavi na GSM za %1$d sek…"</string>
   <string name="voip_shortcut_name">Mi Voice</string>
   <string name="voip_start_call">Klicanje</string>
   <string name="voip_stop_called">Prekini klicanje</string>
-  <string name="voip_support_net_tips">Uporabljate WLAN, 3G ali hitrejšo mobilno podatkovno povezavo</string>
+  <string name="voip_support_net_tips">Uporabljate WiFi, 3G ali hitrejšo mobilno podatkovno povezavo</string>
   <string name="voip_talking_with_friend">Voip klicanje s %1$s</string>
   <string name="voip_the_other_is_on_the_phone">Linija zauzeta</string>
   <string name="voip_voip_call_online">Voip klicanje, ponovno kličite kasneje</string>

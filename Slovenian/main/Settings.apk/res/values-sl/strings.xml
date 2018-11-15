@@ -49,7 +49,7 @@
   <string name="abort_restore_confirm">"Obnovitev ni končana. Vseeno zaustavim?"</string>
   <string name="about_ad_service_instructions">O storitvah oglasov in zasebnosti​</string>
   <string name="about_autostart">O samodejnem zagonu</string>
-    <string name="about_phone_device_name_warning">Ime naprave je vidno aplikacijam v telefonu. Ko vzpostavite povezavo z napravami Bluetooth ali nastavite dostopno točko Wi-Fi, ga bodo morda videle tudi druge osebe.</string>
+    <string name="about_phone_device_name_warning">Ime naprave je vidno aplikacijam v telefonu. Ko vzpostavite povezavo z napravami Bluetooth ali nastavite dostopno točko , ga bodo morda videle tudi druge osebe.</string>
   <string name="about_phone_enter_xiaomi_net">Izvedite več</string>
     <string name="about_settings">O telefonu</string>
   <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
@@ -1415,9 +1415,9 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="change_security_lock">Poskusite druge načine za odklepanje</string>
     <string name="change_storage">Sprememba shrambe</string>
     <string name="change_theme_reboot">Menjava teme zahteva ponovni zagon.</string>
-    <string name="change_wifi_state_app_detail_summary">Tej aplikacij omogočite, da vklopi ali izklopi povezavo Wi-Fi, išče omrežja Wi-Fi in se z njimi poveže, doda ali odstrani omrežja ali pa zažene lokalno dostopno točko</string>
-    <string name="change_wifi_state_app_detail_switch">Tej aplikaciji omogočite, da upravlja povezavo Wi-Fi</string>
-    <string name="change_wifi_state_title">Upravljanje povezave Wi-Fi</string>
+    <string name="change_wifi_state_app_detail_summary">Tej aplikacij omogočite, da vklopi ali izklopi povezavo , išče omrežja  in se z njimi poveže, doda ali odstrani omrežja ali pa zažene lokalno dostopno točko</string>
+    <string name="change_wifi_state_app_detail_switch">Tej aplikaciji omogočite, da upravlja povezavo </string>
+    <string name="change_wifi_state_title">Upravljanje povezave </string>
     <string name="channel_group_notifications_off_desc">Na vašo zahtevo je prikazovanje te skupine obvestil blokirano v tej napravi Android</string>
     <string name="channel_notifications_off_desc">Na vašo zahtevo je prikazovanje te kategorije obvestil blokirano v tej napravi Android</string>
     <string name="charge_length_format">Pred toliko časa: %1$s</string>
@@ -1535,11 +1535,11 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji...</string>
   <string name="compute_delete_contact_info">Pridobivanje podrobnosti...</string>
     <string name="computing_size">Izračunavanje ...</string>
-  <string name="condition_airplane_summary">Wi-Fi, Bluetooth in mobilno omrežje so izklopljeni. Ne morete opravljati klicev ali se povezati v internet.</string>
+  <string name="condition_airplane_summary">, Bluetooth in mobilno omrežje so izklopljeni. Ne morete opravljati klicev ali se povezati v internet.</string>
   <string name="condition_airplane_title">Način za letalo je vklopljen</string>
   <string name="condition_battery_summary">Delovanje je omejeno. Lokacijske storitve in prenos podatkov v ozadju so izklopljeni.</string>
   <string name="condition_battery_title">Varč. z energijo akum. je vkl.</string>
-  <string name="condition_bg_data_summary">Prenos podatkov v ozadju je na voljo samo prek omrežja WiFi. To morda vpliva na nekatere aplikacije ali storitve, ko omrežje Wi-Fi ni na voljo.</string>
+  <string name="condition_bg_data_summary">Prenos podatkov v ozadju je na voljo samo prek omrežja WiFi. To morda vpliva na nekatere aplikacije ali storitve, ko omrežje  ni na voljo.</string>
   <string name="condition_bg_data_title">Varčevanje s podatki je vklopljeno</string>
   <string name="condition_cellular_summary">Splet je na voljo samo prek omrežja WiFi</string>
     <string name="condition_cellular_title">Mobilni podatki so izklopljeni</string>
@@ -1550,7 +1550,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="condition_device_vibrate_title">Telefon je nastavljen na vibriranje</string>
     <string name="condition_expand_hide">Skrivanje</string>
     <string name="condition_expand_show">Prikaz</string>
-    <string name="condition_hotspot_summary">Prenosna dostopna točka Wi-Fi %1$s je aktivna, povezava Wi-Fi za to napravo je izklopljena.</string>
+    <string name="condition_hotspot_summary">Prenosna dostopna točka  %1$s je aktivna, povezava  za to napravo je izklopljena.</string>
   <string name="condition_hotspot_title">Dostopna točka je vklopljena</string>
     <string name="condition_night_display_summary">Zaslon ima jantarni odtenek. To vam lahko pomaga prej zaspati.</string>
     <string name="condition_night_display_title">Nočna svetloba je vklopljena</string>
@@ -1839,7 +1839,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="data_usage_uninstalled_apps">Odstranjene aplikacije</string>
   <string name="data_usage_uninstalled_apps_users">Odstranjene aplikacije in uporabniki</string>
   <string name="data_usage_warning_editor_title">Nastavi opozorilo o uporabi podatkov</string>
-    <string name="data_usage_wifi_format">Uporabljeno v omrežju Wi-Fi: ^1</string>
+    <string name="data_usage_wifi_format">Uporabljeno v omrežju : ^1</string>
     <string name="data_usage_wifi_title">Podatki prek omrežij Wi‑Fi</string>
     <string name="data_used">Porabljeno: ^1</string>
     <string name="data_used_formatted">Porabljeno: ^1 ^2</string>
@@ -2332,7 +2332,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="enable_webview_multiprocess">Omogoči večprocesni WebView</string>
   <string name="enable_webview_multiprocess_desc">Izvajanje upodabljalnikov za WebView v ločenem procesu.</string>
   <string name="enable_wifi_display">Omogoči Brezžični zaslon</string>
-  <string name="enable_wifi_master_key_service">Vključi WLAN Master ključ</string>
+  <string name="enable_wifi_master_key_service">Vključi WiFi Master ključ</string>
   <string name="enable_wifi_master_key_service_first">Vključi</string>
   <string name="enabled_authorised_apps_summary">Vaša avtorizacija bo preklicana ko zamenjate bližnjice nekaterih aplikacij.</string>
   <string name="enabled_authorised_apps_title">Avtorizacija je odobrena</string>
@@ -8078,7 +8078,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_setup_back">Nazaj</string>
   <string name="wifi_setup_cancel">Prekliči</string>
   <string name="wifi_setup_connect">Vzpostavi povezavo</string>
-    <string name="wifi_setup_description_connected">Če želite nadaljevati nastavitev, se dotaknite <b>Naprej</b>". Če se želite povezati z drugim omrežjem Wi-Fi, se dotaknite "<b>Nazaj</b>.</string>
+    <string name="wifi_setup_description_connected">Če želite nadaljevati nastavitev, se dotaknite <b>Naprej</b>". Če se želite povezati z drugim omrežjem , se dotaknite "<b>Nazaj</b>.</string>
   <string name="wifi_setup_description_connecting">Vzpostavljanje povezave lahko traja nekaj minut…</string>
   <string name="wifi_setup_detail">O omrežju</string>
   <string name="wifi_setup_eap_not_supported">Povezave EAP WiFi ne morete nastaviti med namestitvijo. To lahko po namestitvi naredite v Nastavitve &gt; Brezžično &amp; omrežja</string>

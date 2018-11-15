@@ -1156,7 +1156,7 @@ Poskusite ponovno čez %d sek."</string>
   <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Mobilni podatki</string>
     <string name="mobile_data_always_on">Prenos podatkov v mobilnem omrežju je vedno aktiven</string>
-    <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava Wi-Fi (za hiter preklop med omrežji).</string>
+    <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava  (za hiter preklop med omrežji).</string>
   <string name="mobile_data_disable_message">Ne boste imeli dostopa do mobilnih podatkov ali spleta preko operaterja %s. Splet bo na voljo samo preko WiFi-ja.</string>
   <string name="mobile_data_disable_message_default_carrier">vaš mobilni operater</string>
   <string name="mobile_data_disable_title">Želite izključiti mobilne podatke?</string>
@@ -2061,7 +2061,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="wifi_disabled_generic">Onemogočeno</string>
     <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
     <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>
-    <string name="wifi_disabled_wifi_failure">Povezava prek Wi-Fi-ja ni uspela</string>
+    <string name="wifi_disabled_wifi_failure">Povezava prek -ja ni uspela</string>
     <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
     <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
     <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>

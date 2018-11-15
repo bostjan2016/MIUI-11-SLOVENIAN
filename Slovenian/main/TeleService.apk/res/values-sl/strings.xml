@@ -1152,7 +1152,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="incall_error_out_of_service_wfc">Mobilno omrežje ni na voljo. Povežite se v omrežje WiFi če želite opraviti klic.</string>
   <string name="incall_error_power_off">Za vzpostavitev klica izključite Letalski način.</string>
   <string name="incall_error_power_off_wfc">Izklopite način za letalo ali se povežite v omrežje WiFi če želite opraviti klic.</string>
-  <string name="incall_error_promote_wfc">Omogočite klicanje preko Wi-Fi povezave za vzpostavitev klica.</string>
+  <string name="incall_error_promote_wfc">Omogočite klicanje preko  povezave za vzpostavitev klica.</string>
   <string name="incall_error_sim_deactive">Neaktivna SIM kartica</string>
   <string name="incall_error_supp_service_conference">Konferenčni klici onemogočeni.</string>
   <string name="incall_error_supp_service_hangup">Klicanje ni mogoče.</string>

@@ -233,7 +233,7 @@
   <string name="notify_install_guide_msg">Uspešno nameščeno</string>
   <string name="notify_install_guide_title">%s uspešno nameščen</string>
   <string name="notify_not_support">"Taka obvestila niso podprta, posodobite zdaj"</string>
-  <string name="notify_only_wifi_download">Čekanje na WLAN</string>
+  <string name="notify_only_wifi_download">Čakanje na WiFi</string>
   <string name="one_month">1 mesec</string>
   <string name="only_support_torrent">Podprte so samo torrent datoteke</string>
   <string name="open">Odpri</string>

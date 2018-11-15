@@ -16,7 +16,7 @@
   <string name="ColrMmi">Omejitev ID-ja povezane linije</string>
   <string name="CwMmi">Čakajoči klic</string>
   <string name="DndMmi">Ne moti</string>
-    <string name="EmergencyCallWarningSummary">Klicev v sili ni mogoče opravljati prek omrežja Wi-Fi</string>
+    <string name="EmergencyCallWarningSummary">Klicev v sili ni mogoče opravljati prek omrežja </string>
     <string name="EmergencyCallWarningTitle">Klicanje v sili ni na voljo</string>
   <string name="Midnight">Polnoč</string>
   <string name="NetworkPreferenceSwitchSummary">Za boljši sprejem poskusite izbrati drugo vrsto omrežja v Sistem &gt; Omrežje in splet &gt; Mobilna omrežja &gt; Željena vrsta omrežja.</string>

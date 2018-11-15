@@ -746,8 +746,8 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wifi_status_no_internet">Ni spleta</string>
   <string name="wifi_status_sign_in_required">Potrebna je prijava</string>
   <string name="wifi_unmetered_label">Unmetered</string>
-  <string name="wifi_verbose_logging">Omogoči podrob. zapis. dnevnika za Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za Wi-Fi; v izbir. WiFi-ja pokaži glede na SSID RSSI</string>
+  <string name="wifi_verbose_logging">Omogoči podrob. zapis. dnevnika za </string>
+  <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za ; v izbir. WiFi-ja pokaži glede na SSID RSSI</string>
   <string name="window_animation_scale_title">Hitrost animacije okna</string>
   <string name="zen_alarm_warning">Naslednjo budilko ne boste slišali %1$s</string>
   <string name="zen_alarm_warning_indef">Naslednjo budilko ne boste slišali %1$s če to predhodno ne izključite</string>

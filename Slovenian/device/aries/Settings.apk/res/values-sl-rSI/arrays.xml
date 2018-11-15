@@ -62,7 +62,7 @@
         <item>sporočilo okna</item>
         <item>projiciranje medija</item>
         <item>vklopi VPN</item>
-        <item>sprememba wlana</item>
+        <item>sprememba wifi</item>
         <item>sprememba bluetooth</item>
         <item>pošiljanje MMS-a</item>
         <item>branje MMS-a</item>
@@ -124,7 +124,7 @@
         <item>Sporočilo okna</item>
         <item>Projiciraj medij</item>
         <item>Aktiviraj VPN</item>
-        <item>Spremeni WLAN</item>
+        <item>Spremeni WiFi</item>
         <item>Spremeni Bluetooth</item>
         <item>Pošlji MMS</item>
         <item>Beri MMS</item>

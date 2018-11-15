@@ -293,7 +293,7 @@ S pritiskom na MiKey simulirajte dotik na izbranem mestu"</string>
   <string name="toggle_ring">Zvonec</string>
   <string name="toggle_shake">Vibracija</string>
   <string name="toggle_sleep">Mirovanje</string>
-  <string name="toggle_wifi">WLAN</string>
+  <string name="toggle_wifi">WiFi</string>
   <string name="toolbox_outer_desc">Pritisnite plus ali obstoječo opravilo</string>
   <string name="unsupport_content">Posodobite na najnovejšo verzijo MIUI da lahko uporabljate to opravilo!!!!</string>
   <string name="unsupport_title">To opravilo ni podprto</string>

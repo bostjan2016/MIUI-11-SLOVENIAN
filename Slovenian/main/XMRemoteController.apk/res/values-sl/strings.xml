@@ -946,7 +946,7 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="share_from_others">Nekdo je delil napravo z vami, pritisnite za dodajanje</string>
   <string name="share_level_private">Osebe povezane na isto WiFi omrežje</string>
   <string name="share_level_private_desc">WiFi omrežje: %1$s</string>
-  <string name="share_level_private_error">Not connected to Wi-Fi</string>
+  <string name="share_level_private_error">Not connected to </string>
   <string name="share_level_public">Vse osebe v bližini</string>
   <string name="share_level_public_error">"Ne morem nastaviti lokacije, preverite nastavitve lokacije in poskusite ponovno"</string>
   <string name="share_level_title">Kdo lahko vidi daljinca?</string>

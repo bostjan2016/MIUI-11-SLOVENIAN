@@ -2562,7 +2562,7 @@ Na tej napravi je več uporabnikov.
   <string name="notifications_redacted">Občutljive vsebine ne pokaži na zakl. zaslonu</string>
   <string name="notifications_silenced">Utišano</string>
   <string name="notifications_summary_divider"> / </string>
-  <string name="notify_connect">CMCC WLAN zahteva</string>
+  <string name="notify_connect">CMCC WiFi zahteva</string>
   <string name="notify_connect_summary">Spomni me za pristop na CMCC WiFi</string>
   <string name="now">Zdaj</string>
   <string name="nsd_quick_toggle_summary">Dovoli da aplikacije v drugih napravah odkrivajo aplikacije v tej napravi</string>
