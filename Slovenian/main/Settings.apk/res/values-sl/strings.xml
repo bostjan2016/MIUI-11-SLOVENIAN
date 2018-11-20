@@ -331,7 +331,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Želite ustvariti pripomoček in dovoliti dostop?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Vedno dovoli da %1$s ustvari pripomočke in dostopa do njihovih podatkov</string>
   <string name="allow_data_usage_title">Dovoli prenos podat. med gost.</string>
-  <string name="allow_device_id_access">Aplikacije z identifikacijo naprave</string>
+  <string name="allow_device_id_access">Aplikacije z dostopom do ID naprave</string>
     <string name="allow_interruption">Dovoli prekinitve</string>
     <string name="allow_interruption_summary">Dovoli aplikaciji, da predvaja zvok, vibrira in/ali prikaže obvestila na zaslonu</string>
   <string name="allow_mock_location">Dovoli lažne lokacije</string>
@@ -1977,7 +1977,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="device_display_layout_title">Opravila</string>
   <string name="device_edit_title">Preimenuj telefon</string>
   <string name="device_feedback">Pošlji povratne info. o tej napravi</string>
-  <string name="device_id">Identifikacija naprave</string>
+  <string name="device_id">ID naprave</string>
   <string name="device_info_default">Neznano</string>
   <string name="device_info_label">Informacije o napravi</string>
   <string name="device_info_not_available">Ni na voljo</string>
@@ -2856,7 +2856,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="header_category_device">NAPRAVA</string>
   <string name="header_category_personal">OSEBNO</string>
   <string name="header_category_system">SISTEM</string>
-  <string name="header_category_wireless_networks">Omrežje</string>
+  <string name="header_category_wireless_networks">Brezžično &amp; omrežja</string>
     <string name="header_data_and_synchronization">Podatki in sinhronizacija</string>
   <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
   <string name="headset_calibrate">Nastavitev tipk</string>
@@ -3521,13 +3521,14 @@ kot PIN za Prvi prostor"</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
   <string name="login_action">Prijavite se</string>
-  <string name="login_failed">Prijava ni uspela. Poskusite ponovno.</string>
+  <string name="login_failed">"Prijava ni uspela. Poskusite ponovno."</string>
   <string name="logining">Prijava…</string>
   <string name="long_press_back_key">Dolg pritisk tipka Nazaj</string>
   <string name="long_press_buttom_key">Dolg pritisk tipke Meni na zakl. zaslonu</string>
   <string name="long_press_home_key">Dolg pritisk tipke Domov</string>
   <string name="long_press_menu_key">Dolg pritisk tipke Meni</string>
   <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na zakl. zaslonu</string>
+  <string name="long_press_power_key_half_of_second">Pritisnite in držite tipko vklopa 0,5 sekunde da boste vključili Google pomočnika</string>
   <string name="long_press_volume_down">Dolgo pritisnite na zmanjševanje glasnosti</string>
     <string name="lost_internet_access_cancel">Ostani v omrežju WiFi</string>
     <string name="lost_internet_access_persist">Tega ne prikaži nikoli več</string>
@@ -3808,8 +3809,8 @@ Na tej napravi je več uporabnikov.
   <string name="miui_sos_emergency_contacts_quantity">%d dodan</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) je že sprejel</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s je že sprejel</string>
-  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s (%2s) pošiljanje SOS sporočila ni uspelo.</string>
-  <string name="miui_sos_emergency_failed_sms_noname">%1s pošiljanje SOS sporočila ni uspelo.</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">"Ne morem poslati sporočilo na %1s (%2s)."</string>
+  <string name="miui_sos_emergency_failed_sms_noname">"Ne morem poslati sporočilo na %1s."</string>
   <string name="miui_sos_enable_switch_summary">Hitro pritisnite tipko za vklop/izklop 5 krat da boste poslali SOS besedilno sporočilo z vašo lokacijo svojim nujnim stikom</string>
   <string name="miui_sos_enable_switch_title">SOS v sili</string>
   <string name="miui_sos_exit_dialog_cancel">Prekliči</string>
@@ -4156,7 +4157,7 @@ Na tej napravi je več uporabnikov.
   <string name="no_network">"Ne morem se povezati na omrežje."</string>
   <string name="no_notification_listeners">Nobena nameščena aplikacija ni zahtevala dostopa do obvestil.</string>
   <string name="no_running_services">Nič se ne izvaja.</string>
-  <string name="no_services">Nedejavno</string>
+  <string name="no_services">Ni aktivnih storitev</string>
   <string name="no_trust_agents">Na voljo ni nobenega preverjenega posrednika</string>
   <string name="no_update_found">"Nameščeno imate najnovejšo različico MIUI"</string>
   <string name="no_updates_found">"Nameščeno imate najnovejšo različico MIUI"</string>
@@ -4756,6 +4757,14 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_hide_mode_title">Urejanje uporabe baterije aplikacij</string>
     <string name="power_high_usage_title">Visoka poraba energije</string>
   <string name="power_idle">Telefon je nedejaven</string>
+  <string name="power_key_how_power_force_off">Kako prisilino ponovno zagnati napravo</string>
+  <string name="power_key_how_power_force_off_detail">Pritisnite in držite držite tipko za vklop/izklop dokler se naprava ponovno ne zažene</string>
+  <string name="power_key_how_power_off">Kako odpreti stran za izklop</string>
+  <string name="power_key_how_power_off_detail">Pritisnite in držite tipko za vklop/izklop 3 sekunde</string>
+  <string name="power_key_how_start">Kako vključiti Google pomočnika</string>
+  <string name="power_key_how_start_detail">Pritisnite in držite tipko za vklop/izklop 0.5 sek. Spustite za govor.</string>
+  <string name="power_key_start_enjoy">Izvedite več o Google pomočniku</string>
+  <string name="power_key_start_guide">Vključite Google pomočnika s pomočjo tipke za vklop/izklop na napravah s celim zaslonom</string>
     <string name="power_last_full_charge_summary">pred ^1</string>
   <string name="power_mgr">Baterija</string>
   <string name="power_mode">Nastavitve porabe</string>
@@ -5227,10 +5236,10 @@ Vmesnik UT: %5$s"</string>
   <string name="restore_default_apn">Obnavljanje privzetih nastavitev APN-jev</string>
   <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
   <string name="restore_device_id_content">Ponastavi personalizirana priporočila</string>
-  <string name="restore_device_id_title">Ponastavi identifikacijo naprave</string>
-  <string name="restore_dialog_content">Ponastavljanje identifikacije naprave bo ponastavilo vaša prilagojena priporočila.</string>
+  <string name="restore_device_id_title">Ponastavi ID naprave</string>
+  <string name="restore_dialog_content">Ponastavljanje ID naprave bo ponastavilo vaša prilagojena priporočila.</string>
   <string name="restore_dialog_positive">Vrni</string>
-  <string name="restore_dialog_title">Opomnik</string>
+  <string name="restore_dialog_title">Pozor</string>
   <string name="restore_failed">Obnovitev ni mogoča</string>
   <string name="restore_finished">Obnovitev uspešna</string>
   <string name="restore_is_running">Vračanje naprave</string>
@@ -6178,11 +6187,11 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="sort_order_size">Razvrsti po velikosti</string>
   <string name="sos_privacy_and_content_policy">Pogoji uporabe in Pravila o zasebnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Prekliči</string>
-  <string name="sos_privacy_dialog_button_ok">Nadaljuj</string>
-  <string name="sos_privacy_dialog_message">"Omogočite storitev SOS v sili, potrdite in preberite %s. 
- Za zagotovitev normalnega delovanja storitve bo morda potrebno dobiti vašo lokacijo, uporabiti mobilno omrežje in prebrati stike. Se strinjate?"</string>
-  <string name="sos_privacy_dialog_title">Pogoji in Uredbe</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Ton zvonjenja in vibriranje</string>
+  <string name="sos_privacy_dialog_button_ok">Strinjam se</string>
+  <string name="sos_privacy_dialog_message">"Preberite in se strinjajte z našimm %s pred uporabo. 
+ Za zagotovitev normalnega delovanja storitve bo potrebno dobiti vašo lokacijo, uporabiti mobilno omrežje in prebrati stike. Se strinjate?"</string>
+  <string name="sos_privacy_dialog_title">Pogoji in Pravila</string>
+  <string name="sound_category_call_ringtone_vibrate_title">"Melodija zvonenja &amp; zvok obvestil"</string>
   <string name="sound_category_calls_and_notification_title">Melodija zvonenja &amp; zvok obvestil</string>
   <string name="sound_category_notification_title">Obvestila</string>
   <string name="sound_category_sound_title">Splošno</string>
@@ -6779,6 +6788,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="tethering_no_sim_alert_title">Ni SIM kartice</string>
   <string name="tethering_no_sim_card_text">Vstavite SIM kartico da lahko delite podatkovno povezavo z drugimi napravami z uporabo mobilne dostopne točke ali USB skupno rabo povezave s spletom.</string>
     <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Zbudite glasovnega pomočnika v načinu dela cel zaslon (brez virtualnih tipk)</string>
   <string name="tethering_settings_summary">"Delite mobilno podatkovno omrežje vaše naprave preko USB-a ali mobilnoe dostopne točke"</string>
   <string name="theme_settings_title">Teme</string>
   <string name="thememanager_not_found">"Ne morem odpreti Teme. Preverite ali je aplikacija nameščena."</string>

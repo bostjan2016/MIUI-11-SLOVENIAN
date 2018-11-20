@@ -3,11 +3,13 @@
   <string name="action_add_to_workspace">Dodaj v delovni prostor</string>
   <string name="activity_not_found">"Aplikacija ni naložena na vašem telefonu"</string>
   <string name="add_screen">Dodaj tipko zaslona</string>
+  <string name="announce_for_app_move_in_folder">Premeščeno na mesto %1$d v mapi</string>
   <string name="announce_for_checked">%1$s, preverjeno</string>
   <string name="announce_for_choose_default_screen">Nastavi zaslon %1$d za začetni zaslon</string>
   <string name="announce_for_close_default_preview">Zaprte privzete nastavitve začetnega zaslona</string>
   <string name="announce_for_close_folder">Zaprta mapa</string>
   <string name="announce_for_close_launcher_menu">Zaprt meni</string>
+  <string name="announce_for_create_folder_with_app">Napravljena mapa z %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">Pripomoček</string>
   <string name="announce_for_delete_item">%1$s je izbrisan</string>
   <string name="announce_for_drag_enter_delete_zone">Povlečene stvari v področje odstranitve</string>
@@ -30,6 +32,7 @@
   <string name="announce_for_open_launcher_menu">Odprt meni</string>
   <string name="announce_for_show_uninstall_dialog">Pojavilo se je sporočilo za odstranitev. Prekličite ali potrdite.</string>
   <string name="announce_for_unchecked">%1$s, nepreverjeno</string>
+  <string name="announce_for_widget_span">Širina %1$d, višina %2$d</string>
   <string name="app_already_exist">Aplikacija že obstaja</string>
   <string name="app_being_backup_message">Aplikacija se varnostno kopira.</string>
   <string name="app_being_restored_message">Izvaja se obnovitev aplikacije</string>
@@ -281,12 +284,14 @@
   <string name="recents_config_title">Nedavno</string>
   <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_no_data">Ni podatka</string>
+  <string name="recommend_apps_no_data_toast">Ni priporočil.</string>
   <string name="recommend_apps_notice">Priporočene aplik.</string>
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>
   <string name="recommend_apps_tips">"To opravilo za normalno delovanje potrebuje povezavo s spletom. Za izključitev tega opravila se dotaknite imena te mape."</string>
   <string name="recommend_loading">Samo trenutek</string>
-  <string name="refresh">Osveži</string>
+  <string name="recommend_refresh">Osveži</string>
+  <string name="recommend_xout">"Ne kaži"</string>
   <string name="reset_description_first_time">Lahko povrnete razpored iz %1$s v roku 2 ure</string>
   <string name="reset_description_others">Lahko povrnete razpored iz %1$s</string>
   <string name="reset_fail">"Ne morem povrniti"</string>

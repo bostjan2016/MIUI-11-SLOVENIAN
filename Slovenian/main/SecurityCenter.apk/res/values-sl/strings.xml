@@ -87,7 +87,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_virus_settings">Nastavitve</string>
   <string name="activity_title_white_list">Izjeme</string>
   <string name="ad_btn_default_text">Izvedite več</string>
-  <string name="ad_split_screen_title">Zamenjajte na način dela cel zaslon da odklenete</string>
+  <string name="ad_split_screen_title">Za odklep zaslona izidite iz celega zaslona</string>
   <string name="ad_update_time">Zadnja posodobitev %s</string>
   <string name="ad_update_time_unKnown">Zadnja posodobitev neznana</string>
   <string name="adb_install_no_network">Povežite se na omrežje in poskusite ponovno</string>
@@ -454,7 +454,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="back">Nazaj</string>
   <string name="back_app_name">Vrni se na zakl. aplikacije</string>
   <string name="back_description_securitycenter">Nazaj</string>
-  <string name="back_modifypassword">Vrni se na menjavo gesla</string>
+  <string name="back_modifypassword">Vrni se na vrsto menjave gesla</string>
   <string name="back_sound_data">Vključite mobilne podatke in poskusite znova.</string>
   <string name="back_sound_fail">"Ne morem nastaviti. Nastavitve operaterja so spremenjene. Nastavite trenutno SIM kartico kot podatkovno kartico, povežite se na omrežje in poskusite ponovno."</string>
   <string name="back_sound_success">Uspešno nastavljeno</string>
@@ -1600,8 +1600,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="mixed_recording_intro_header">Vnesite vsaj 4 znake</string>
   <string name="mixed_retry_button_text">Prekini</string>
   <string name="mixed_settings_help_how_to_record">Kako nastaviti geslo</string>
-  <string name="modify_password_mode">&lt;u&gt;Spremeni vrsto gesla&lt;/u&gt;</string>
-  <string name="modifypassword">Zamenjajte geslo</string>
+  <string name="modify_password_mode">Spremeni vrsto gesla</string>
+  <string name="modifypassword">Spremeni vrsto gesla</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
   <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
