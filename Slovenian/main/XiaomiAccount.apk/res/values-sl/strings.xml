@@ -169,7 +169,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="find_device_request_prepare_error">"Ne morem dobiti statusa, poskusite ponovno kasneje"</string>
   <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="first_login_time">Prvi poskus prijave: %s</string>
-  <string name="for_diagnosis_usage_only">Uporabite te informacije samo za pregled.</string>
+  <string name="for_diagnosis_usage_only">Uporablja se samo za iskanje problemov.</string>
   <string name="get_back_pwd">Ponastavitev vašega gesla</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
@@ -323,7 +323,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_input_password_for_login">Ta številka je povezana z obstoječim računom, vnesite svoje geslo</string>
   <string name="passport_input_password_hint">Vnesi geslo</string>
   <string name="passport_input_phone_hint">Vnesi telefonsko številko</string>
-  <string name="passport_input_phone_password">Vnesite geslo za številko %s</string>
+  <string name="passport_input_phone_password">Vnesite geslo za %s</string>
   <string name="passport_input_vcode_hint">Vnesite kodo za preverjanje</string>
   <string name="passport_input_voice_captcha_hint">Vnesite glasovno kodo za preveritev</string>
   <string name="passport_input_voice_hint">Vnesite glasovno  kodo</string>
@@ -429,7 +429,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
   <string name="passport_sms_send_success">Poslano</string>
   <string name="passport_sms_verification_code_login">Prijavite se s pomočjo SMS-a</string>
-  <string name="passport_sms_verification_code_login_or_register">Prijavite se ali se registrirajte s pomočjo SMS-a</string>
+  <string name="passport_sms_verification_code_login_or_register">Prijavite se ali napravite račun s pomočjo SMS-a</string>
   <string name="passport_sync_account_data">Sinhr. podrobnosti računa…</string>
   <string name="passport_sync_account_data_failed_warning">Podatki o računu se trenutno sinhronizirajo, lahko se prijavite s pomočjo svojega ID Mi Računa. Če se želite prijaviti preko telefona ali e-pošte, počakajte da se informacije pololnoma sinhronizirajo.</string>
   <string name="passport_title_reg">Ustvari račun</string>
@@ -537,7 +537,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Potekel je čas prijave v račun. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
   <string name="talkback_scan_barcode">Skeniraj QR kodo</string>
-  <string name="temporary_not_available">Začasno nedostopno</string>
+  <string name="temporary_not_available">"Trenutno še ni na voljo"</string>
   <string name="submit_answers">Pošlji</string>
   <string name="success">Končano</string>
   <string name="trusted_browsers">Varni brskalniki</string>

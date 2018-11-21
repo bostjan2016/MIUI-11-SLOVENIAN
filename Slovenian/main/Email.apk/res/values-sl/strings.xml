@@ -356,7 +356,9 @@
   <string name="device_not_activiey_lint1">Upravljalec naprave ni omogočen</string>
   <string name="device_not_activiey_lint2">E-poštna storitev ne deluje z Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">"Zamenjali ste ročno sinhronizacijo, potrebna je ročna osvežitev za prejemanje pošte."</string>
+  <string name="dialog_agree">Strinjam se</string>
   <string name="dialog_auto_sync_setting_no_open">"Ne morem samodejno prejemati nova sporočila. Sinhronizacija je izključena."</string>
+  <string name="dialog_disagree">Ne strinjam se</string>
   <string name="dialog_change_sync_lookback">Sporočilo e-pošte prejeto pred %s bo samodejno izbrisano. Dotaknite se da spremenite.</string>
   <string name="dialog_gmail_proxy_server_is_error">Napaka Gmail proxy strežnika.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Ni dovolj prostora za %s.</string>
@@ -546,6 +548,7 @@
   <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
+  <string name="list_empty_to_fresh">Ni e-pošte, povlecite dol da boste osvežili.</string>
   <string name="kilobytes">%s KB</string>
   <string name="load_from_remote">Nadaljuj iskanje na strežniku</string>
   <string name="load_more">Naloži več</string>
@@ -1065,7 +1068,7 @@ Zaustavim zdaj?"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
   <string name="update_to_wps_mail">Uživajte v dodatnih opravilih storitve WPS Mail</string>
   <string name="updated_at">Osveženo ob: %1$s</string>
-  <string name="upload_log">Pošlji dnevnike</string>
+  <string name="upload_log">Pošlji</string>
   <string name="upload_log_failed">"Ne morem poslati dnevnika"</string>
   <string name="upload_log_no">Prekini</string>
   <string name="upload_log_success">Dnevniki uspešno poslani</string>
