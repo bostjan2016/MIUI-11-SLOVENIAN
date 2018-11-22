@@ -1589,7 +1589,13 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="recents_quick_scrub_onboarding">Povlecite desno da biste hitro zamenjali aplikacijo</string>
     <string name="recents_search_bar_label">iskanje</string>
     <string name="recents_stack_action_button_label">Izbriši vse</string>
-  <string name="recents_swipe_up_onboarding">Podrsajte gor da biste zamenjali aplikacijo</string>
+  <string name="recents_title_app_manager">Urejaj aplikacije</string>
+  <string name="recents_title_game">Igre</string>
+  <string name="recents_title_garbage_cleanup">Čistilec</string>
+  <string name="recents_title_garbage_deepclean">Full čiščenje</string>
+  <string name="recents_title_market">Najdi aplikacije</string>
+  <string name="recents_title_security_scan">Varnostni pregled</string>
+  <string name="recents_swipe_up_onboarding">Podrsajte gor da boste zamenjali aplikacijo</string>
   <string name="reject_call">Klic zavrnjen</string>
   <string name="remaining_length_format">Še %1$s</string>
     <string name="remove_from_settings">Odstrani iz nastavitev</string>

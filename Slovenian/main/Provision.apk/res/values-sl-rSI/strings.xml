@@ -62,8 +62,9 @@
   <string name="other_settings_ad_enable_summary">Priporočamo prilagojene oglase na osnovi vaših podatkov obnašanja</string>
   <string name="other_settings_auto_update">Namesti samodejno</string>
   <string name="other_settings_auto_update_summary">MIUI bo izbral najboljši trenutek za namestitev posodobitve.</string>
-  <string name="other_settings_enhanced_lockscreen">Pridobite izkušnjo izboljšanega zakl. zaslona</string>
-  <string name="other_settings_enhanced_lockscreen_summary">Pridobite fotografije in zgodbe na vaš zakl. zaslon.</string>
+  <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Pridobite slike in zgodbe ki se dnevno dostavljajo na vaš zakl. zaslon. Veljajo Pravila in pogoji.</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Pogoji in pravila</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
   <string name="other_settings_mifg_online_content">Vrtenje ozadij</string>

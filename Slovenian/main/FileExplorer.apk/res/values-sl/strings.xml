@@ -265,7 +265,9 @@
   <string name="extended_storage_file_can_not_open">"Ne morem odpreti datoteke. Kopirajte datoteko v notranjo shrambo."</string>
   <string name="extract">Razširi</string>
   <string name="fail_to_create_folder">Ni dovolj prostora ali pa mapa že obstaja.</string>
-  <string name="fail_to_create_folder_unknown">Mape ni mogoče ustvariti</string>
+  <string name="fail_to_create_folder_unknown">"Mape ni mogoče ustvariti"</string>
+  <string name="failed_not_access_sd_card">Najprej omogočite dostop do SD kartice</string>
+  <string name="failed_obtain_permissions">"Ne morem dobiti dovoljenja"</string>
   <string name="fail_to_rename">Datoteka s tem imenom že obstaja.</string>
   <string name="favorite_photo">Slike</string>
   <string name="favorite_ringtone">Zvonenja</string>
@@ -549,6 +551,7 @@
   <string name="no_wifi">Ni dostopnih WiFi omrežij</string>
   <string name="no_wifi_hint">Ni dostopnih omrežij</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
+  <string name="not_support_documentui">"Aplikacija DocumentUI ni podprta na tej napravi"</string>
   <string name="notif_server_starting">Zaganjam FTP strežnik...</string>
   <string name="notif_title">FTP strežnik deluje</string>
   <string name="notification_content_hint">Dotakni se za prikaz</string>
@@ -739,6 +742,8 @@
   <string name="report_politics">Politika</string>
   <string name="report_porn">Porn</string>
   <string name="report_violence">Nasilje</string>
+  <string name="request_document_permission">Da boste urejali datoteke na SD kartici dajte aplikaciji Raziskovalec potrebna dovoljenja.</string>
+  <string name="request_document_permission_title">Potrebno je dovoljenje</string>
   <string name="request_timeout">Veljavnost zahteve za omrežje je potekla</string>
   <string name="reset_password">Sprememba gesla</string>
   <string name="restoring">Obnavljam…</string>
