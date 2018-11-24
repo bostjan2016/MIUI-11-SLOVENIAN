@@ -6289,7 +6289,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_notification_sound_custom">Lastni zvok</string>
   <string name="status_bar_settings_notification_style">Stil obvestil</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvok in vibracija</string>
-  <string name="status_bar_settings_notification_use_app_icon">Uporabi ikon aplikacije za obvestila</string>
+  <string name="status_bar_settings_notification_use_app_icon">Uporabi ikono aplikacije za obvestila</string>
   <string name="status_bar_settings_notification_vibrate">Vibracija</string>
   <string name="status_bar_settings_peek_notification_icon">Pokaži ikone za dohodna obvestila</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>

@@ -64,8 +64,8 @@
   <string name="accessibility_setting_button">Dodatne nastavitve</string>
   <string name="accessibility_shutter_button">Sprožilec</string>
   <string name="accessibility_skin_beautify_button">Izboljšanje tona kože</string>
-  <string name="accessibility_skin_beautify_closed">Povdari tone kože izklj.</string>
-  <string name="accessibility_skin_beautify_opened">Povdari tone kože vklj.</string>
+  <string name="accessibility_skin_beautify_closed">Poudari tone kože izklj.</string>
+  <string name="accessibility_skin_beautify_opened">Poudari tone kože vklj.</string>
   <string name="accessibility_stereo_button">Nastavljanje fokusa</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
@@ -262,7 +262,7 @@ in za trenutek zapustite pregled"</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="face_beauty_intelligent_title">Sam. prilagodi</string>
   <string name="face_beauty_manual_title">Ročno prilagodi</string>
-  <string name="face_beauty_simple_mode_title">Povdari tone kože</string>
+  <string name="face_beauty_simple_mode_title">Poudari tone kože</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="face_score_info">Rezultat: %.1f</string>
   <string name="file_size">Velikost datoteke</string>
@@ -588,7 +588,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_multilevel_entry_normal">Normalno</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 oseba</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 osebe</string>
-  <string name="pref_camera_multiple_face_beauty_title">Povdari tone kože</string>
+  <string name="pref_camera_multiple_face_beauty_title">Poudari tone kože</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimizirana bliskavica</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
   <string name="pref_camera_parallel_process_enable_title">Vključi vzporedno obdelavo</string>
@@ -666,7 +666,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Samodejno</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Izključeno</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Vključeno</string>
-  <string name="pref_camera_skinToneEnhancement_title">Povdari tone kože</string>
+  <string name="pref_camera_skinToneEnhancement_title">Poudari tone kože</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_snap_entry_off">Izklj.</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap način (video posnetek)</string>

@@ -642,7 +642,7 @@
   <string name="other_user_no_follow_tip">"Nikogar ne spremljate."</string>
   <string name="other_user_no_liked_video_tip">Ni videoposnetkov ki so mi všeč.</string>
   <string name="overwrite_msg">\"%s\" že obstaja. Tapnite da jo boste zamenjali z novo datoteko.</string>
-  <string name="pad">Notranja shramba pohrana</string>
+  <string name="pad">Notranja shramba</string>
   <string name="other_user_topic_tab">Teme</string>
   <string name="other_user_video_tab">Videoposnetki</string>
   <string name="pan_settting">KuaiPan nastavitve</string>
