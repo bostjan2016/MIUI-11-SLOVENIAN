@@ -164,7 +164,7 @@ Poskusite sinhronizirati na začetni strani."</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s 
-Pogoji nudenja storitve: %2$s"</string>
+Pogoji uporabe: %2$s"</string>
   <string name="bracelet_info_mac_address">"Ime: %1$s
 Naslov: %2$s"</string>
   <string name="bracelet_login_info">Prijavite se z Mi Računom za prejemanje koristnih nasvetov in analizo svoje aktivnosti.</string>

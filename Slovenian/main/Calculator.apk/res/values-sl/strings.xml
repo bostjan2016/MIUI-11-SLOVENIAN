@@ -500,7 +500,7 @@
   <string name="unit_myriads">×10K</string>
   <string name="unit_year">L</string>
   <string name="unit_year_format">Leto %s</string>
-  <string name="user_agreement">Pogoji nudenja storitve</string>
+  <string name="user_agreement">Pogoji uporabe</string>
   <string name="user_manual">Navodila</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>

@@ -17,7 +17,7 @@
   <string name="category_account">RAČUN</string>
   <string name="category_data_usage">UPORABA PODATKOV</string>
   <string name="category_download">NALAGANJE</string>
-  <string name="category_sleep_mode">SLEEP TIMER</string>
+  <string name="category_sleep_mode">ČASOVNIK</string>
   <string name="category_tone_quality">KVALITETA RADIA</string>
   <string name="channel_off">Ta program ni več dostopen</string>
   <string name="click_to_play">Ni dostopnih programov</string>
@@ -110,7 +110,7 @@
   <string name="title_download">Prenesi novi radio če so priljubljeni kanali posodobljeni</string>
   <string name="title_download_quality">Kvaliteta prenosa</string>
   <string name="title_settings">Radio</string>
-  <string name="title_sleep_mode">Sleep timer</string>
+  <string name="title_sleep_mode">Časovnik</string>
   <string name="title_tone_quality">Nastavitve kvalitete tona</string>
   <string name="tone_high_quality">Visoka kvaliteta</string>
   <string name="tone_high_quality_summary">Visoka kvaliteta v vsakem primeru</string>

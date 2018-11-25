@@ -173,7 +173,7 @@ Napaka: %1$s"</string>
   <string name="failure_server_failed_response">Strežnik je javil status napake</string>
   <string name="feature_off">Izklj.</string>
   <string name="feature_on">Vklj.</string>
-  <string name="fedex_tos_text">S tiskanjem s storitvijo FedEx Office sprejemate njene &lt;a href="http://www.fedex.com/us/office/copyprint/online/googlecloudprint/termsandconditions"&gt;pogoje pru&amp;#382;nudenja storitve&lt;/a&gt;.</string>
+  <string name="fedex_tos_text">S tiskanjem s storitvijo FedEx Office sprejemate njene &lt;a href="http://www.fedex.com/us/office/copyprint/online/googlecloudprint/termsandconditions"&gt;pogoje pru&amp;#382;uporabe&lt;/a&gt;.</string>
   <string name="fedex_tos_title">Pogoji in navodila podjetja Fedex</string>
   <string name="gcp_add_account">Dodaj račun</string>
   <string name="help_and_feedback">Pomoč in povratne informacije</string>

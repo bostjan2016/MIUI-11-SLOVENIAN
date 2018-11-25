@@ -2278,7 +2278,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po vnosu gesla se bo pojavila mapa s skritimi aplikacijami.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Razširite dva prsta na zaslonu. Videli boste sporočilo da vnesite geslo za zakl. aplikacije."</string>
   <string name="privacy_declare_dialog_message">"Z uporabo te storitve se strinjate z Opera &lt;a href=%s&gt; Pogoji Uporabe&lt;/a&gt;."</string>
-  <string name="privacy_declare_dialog_title">Pogoji Nudenja storitev</string>
+  <string name="privacy_declare_dialog_title">Pogoji uporabe</string>
   <string name="privacy_dialog_message">"Ko se povežete na splet bo to sporočilo skupaj z informacijami o mobilnem operaterju šifrirano in poslana na Mi strežnike da bomo izboljšali nadzor nad uporabo podatkov."</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_prompt_tc_sms_report_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da bi se posodobile informacije porabe podatkov."</string>

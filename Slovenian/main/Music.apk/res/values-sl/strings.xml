@@ -121,7 +121,7 @@
   <string name="auto_update">Samodejno posodobi</string>
   <string name="auto_update_tip">Sistemske aplikacije lahko posodobite z uporabo mobilnih podatkov. To lahko povzroči dodatne stroške.</string>
   <string name="auto_upgrade">Poodobi samodejno</string>
-  <string name="avail_services">Dostopno</string>
+  <string name="avail_services">Na voljo</string>
   <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
   <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
   <string name="avoid_to_use_traffic_title">Uporabljajte samo WiFi za predvajanje glasbe preko omrežja</string>
@@ -136,7 +136,7 @@
   <string name="bill_list_fragment_title">Grafikon</string>
   <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Bluetooth naprava</string>
-  <string name="browser_error">Trenutno ni dostopno, poskusite kasneje</string>
+  <string name="browser_error">Trenutno ni na voljo, poskusite kasneje</string>
   <string name="btn_earlier_items">Preberi nedavna sporočila</string>
   <string name="btn_earlier_items_progress">Branje nedavnih sporočil…</string>
   <string name="btn_more_items">Preberi več sporočil</string>
@@ -565,18 +565,18 @@ predvsem nudi Ultimate Inc.</string>
   <string name="hungama_subscribe_title">Prenesi</string>
   <string name="i_know">V redu</string>
   <string name="i_know_it">V redu</string>
-  <string name="impunity_declaration_content">Morate prebrati in se strinjati z &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Pogoji uporabe&lt;/a&gt; and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Pravila o zasebnosti&lt;/a&gt; pred uporabo.</string>
-  <string name="impunity_declaration_content1">"Z dotikom \"Strinjam se\", pristajate na pogoje navedene v našem "</string>
-  <string name="impunity_declaration_content2">Uporabniškem sporazumu</string>
+  <string name="impunity_declaration_content">Morate prebrati in se strinjati z &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Pravila o zasebnosti&lt;/a&gt; pred uporabo.</string>
+  <string name="impunity_declaration_content1">"Z dotikom \"Strinjam se\", pristajate na pogoje navedene v naših "</string>
+  <string name="impunity_declaration_content2">Pogoji uporabe</string>
   <string name="impunity_declaration_content3">" in "</string>
   <string name="impunity_declaration_content4">Pravilih o zasebnosti</string>
   <string name="impunity_declaration_content5">.</string>
   <string name="impunity_declaration_ignore">Ne kaži več</string>
   <string name="impunity_declaration_negative_text">Zapri</string>
   <string name="impunity_declaration_positive_text">V redu</string>
-  <string name="impunity_declaration_settings">Prikaži pogoje storitev</string>
-  <string name="impunity_declaration_summary">Prikaži "Pogoji nudenja storitve" vsakič kadar se zažene aplikacija "Glasba"</string>
-  <string name="impunity_declaration_title">Pogoji storitev</string>
+  <string name="impunity_declaration_settings">Prikaži pogoje uporabe</string>
+  <string name="impunity_declaration_summary">Prikaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
+  <string name="impunity_declaration_title">Pogoji uporabe</string>
   <string name="in_searching_please_wait">Iščem...</string>
   <string name="individuation_card_login_button">Prijavi se</string>
   <string name="individuation_card_login_message">"Prijavite se da najdete pesmi, ki so vam všeč"</string>
@@ -1036,7 +1036,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="sleep_mode">Časovnik</string>
   <string name="sleep_mode_canceled">Časovnik izključen</string>
   <string name="sleep_mode_summary">Zaustavi predvajanje po določenem času</string>
-  <string name="sleep_mode_title">Sleep timer</string>
+  <string name="sleep_mode_title">Časovnik</string>
   <string name="song_exist_in_playlist">Ta pesem je že na seznamu pesmi</string>
   <string name="song_info">Podrobnosti pesmi</string>
   <string name="song_is_empty">Ime pesmi ne sme biti prazno.</string>
@@ -1114,7 +1114,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="talkback_show_navigation_draw">Pokaži predal</string>
   <string name="talkback_unlike">Ni mi všeč</string>
   <string name="task_already_exist">Naloga že obstaja</string>
-  <string name="terms_of_service">Pogoji nudenja storitve</string>
+  <string name="terms_of_service">Pogoji uporabe</string>
   <string name="test_mode">Način testiranja</string>
   <string name="ticket_summary">Kupite vstopnice za predstave, koncerte, predstave in druge manifestacije</string>
   <string name="ticket_title">Prikaži vstopnice</string>
