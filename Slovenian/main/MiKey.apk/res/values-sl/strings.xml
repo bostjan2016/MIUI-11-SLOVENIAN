@@ -115,7 +115,7 @@ na dnu seznama"</string>
   <string name="copy_succeed">Kopiranje uspešno</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrišem opravilo?</string>
-  <string name="delete_gesture">Izbrišem geste za Mikey?</string>
+  <string name="delete_gesture">Izbrišem gibe za Mikey?</string>
   <string name="device_not_recognized">Povezana naprava ni prepoznana. Poiskusite ponovno</string>
   <string name="dialog_title_disable_mikey_sprite">Onemogočim MiKey Čarovnik?</string>
   <string name="dialog_title_mad_click">Vprašaj</string>

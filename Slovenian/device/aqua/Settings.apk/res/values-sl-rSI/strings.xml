@@ -3299,7 +3299,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_key_press_action">Opravilo sprožilca</string>
   <string name="screen_locking_sounds_title">Zvoki zaklepanja zaslona</string>
   <string name="screen_never_timeout_title">Nikoli ne zaspi</string>
-  <string name="screen_on_proximity_sensor_summary">Zakleni geste dotika ko je v žepu</string>
+  <string name="screen_on_proximity_sensor_summary">Zakleni gibe dotika ko je v žepu</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
@@ -3381,7 +3381,7 @@ Uporaba pripenjanja:
   <string name="screensaver_settings_when_to_dream">Kdaj sanjariti</string>
   <string name="screenshot">Posnetek zaslona</string>
   <string name="screenshot_three_gesture">Povlecite s tremi prsti istočasno za izdelavo posnetka zaslona</string>
-  <string name="screenshot_three_gesture_summary">Ostale geste s tremi prsti bodo izključene</string>
+  <string name="screenshot_three_gesture_summary">Ostali gibi s tremi prsti bodo izključeni</string>
   <string name="sd_card_settings_label">Zunanji pomnilnik</string>
   <string name="sd_card_storage">Zunanji pomnilnik</string>
   <string name="sd_eject">Izključi deljeno shranjevanje</string>

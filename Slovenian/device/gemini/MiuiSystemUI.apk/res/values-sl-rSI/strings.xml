@@ -10,7 +10,7 @@
   <string name="accessibility_action_divider_top_50">Zgoraj 50%</string>
   <string name="accessibility_action_divider_top_70">Zgoraj 70%</string>
   <string name="accessibility_action_divider_top_full">Zgoraj cel zaslon</string>
-   <string name="0">Uporabite geste da se skrijete/prikažete tipke zaslona.</string>
+   <string name="0">Uporabite gibe da se skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_airplane_mode">Način Letalo.</string>
   <string name="accessibility_assistant">Meni bližnjic.</string>
   <string name="accessibility_back">"Nazaj"</string>
@@ -339,7 +339,7 @@ Uporabite priloženi polnilnik."</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
   <string name="mount_storage">"Da"</string>
   <string name="nav_guide_cancel">Ignoriraj</string>
-  <string name="nav_guide_message">Uporabite geste da skrijete/prikažete tipke zaslona.</string>
+  <string name="nav_guide_message">Uporabite gibe da skrijete/prikažete tipke zaslona.</string>
   <string name="nav_guide_ok">Nastavitev</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
    <string name="no_multi_window_app">Ni aplikacij ki lahko delajo v načinu deljenega zaslona</string> 
