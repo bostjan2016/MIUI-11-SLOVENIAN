@@ -8033,7 +8033,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_priority_settings_title">Nastavitve prednosti dostopnih točk</string>
   <string name="wifi_priority_type_summary">Ročno nastavi prednosti vsake dostopne točke</string>
   <string name="wifi_priority_type_title">Ročno nastavi prednosti dostopnih točk</string>
-  <string name="wifi_property">WiFi lastnine</string>
+  <string name="wifi_property">WiFi lastnosti</string>
   <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
   <string name="wifi_quick_toggle_title">WiFi</string>
   <string name="wifi_remembered">Shranjeno</string>

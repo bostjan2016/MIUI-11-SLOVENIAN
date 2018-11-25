@@ -280,7 +280,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_progress">Izklop Najdi napravo…</string>
-  <string name="micloud_find_device_guide_title">"Prijavite se v &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da najdete, zaklenete ali izbrišete svojo napravo. To vam lahko pomaga da najdete napravo če jo izgubite. &lt;br /&gt;Če izgubite napravo, se lahko obrnete na varnostno službo aplikacija katere pogosto uporabljate (npr. Alipay, WeChat, QQ) da zaščitite svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
+  <string name="micloud_find_device_guide_title">"Prijavite se v &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da najdete, zaklenete ali izbrišete svojo napravo. To vam lahko pomaga da najdete napravo če jo izgubite. &lt;br /&gt;Če izgubite napravo, se lahko obrnete na varnostno službo aplikacij katere pogosto uporabljate (npr. Alipay, WeChat, QQ) da zaščitite svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
   <string name="micloud_find_device_opened_content">Poiščite svojo napravo na %s</string>
