@@ -19,6 +19,8 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
   <string name="bind_device">Dodaj naprave</string>
+  <string name="button_text_next_step">Naprej</string>
+  <string name="button_text_next_step_timer">Naslednji korak (%d)</string>
   <string name="can_not_delete_when_calling">"Ne morem izbrisati prostore med klicem"</string>
   <string name="can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="can_not_switch_when_green_kid_active">Preklop v Drugi prostor je omejen s starševškim nadzorom</string>
@@ -65,6 +67,9 @@ Vseeno izključim?"</string>
   <string name="create_space_loading">Izdelava Drugega prostora…</string>
   <string name="create_work_space">Izdelaj Delovni prostor</string>
   <string name="creating_app_icon">Izdelava ikone…</string>
+  <string name="cta_declaration_agree_and_continue">Strinjam se</string>
+  <string name="cta_declaration_message_format" formatted="false">Morate prebrati in se strinjati z &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; pred uporabo Enterprise načina. Vaša naprava mora biti povezana na splet za aktiviranje Enterprise načina. Se strinjate?</string>
+  <string name="cta_declaration_title">Pravila in Pogoji</string>
   <string name="current_space">Trenutni prostor</string>
   <string name="dataSafe">Uporaba Drugega prostora je kot da imate dve napravi.</string>
   <string name="declare_dialog_title">O dvojnih aplikacijah</string>
@@ -76,7 +81,11 @@ Vseeno izključim?"</string>
   <string name="delete_phone_fingerprint">Izbriši prstni odtis za Drugi prostor</string>
   <string name="delete_src_file">Izbriši datoteke</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
+  <string name="dialog_message_service_error">"Ni bilo možno preklicati avtorizacijo in izvršiti vrnitev na tovarniške nastavitve. Poskusite ponovno."</string>
+  <string name="dialog_tip_need_network">Vaša naprava mora biti povezana na splet za preklic avtorizacije.</string>
   <string name="dialog_title">Pozor</string>
+  <string name="dialog_title_service_error">Napaka strežnika</string>
+  <string name="dialog_undo_negative">"Ne prekliči"</string>
   <string name="dir_switch_out_all_photos">Galerija Drugega prostora</string>
   <string name="disable">Izključi</string>
   <string name="disagree">"Ne strinjam se"</string>
@@ -195,7 +204,11 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="loading_space">Samo trenutek…</string>
   <string name="loading_success">Uspešno naloženo</string>
   <string name="lock_screen_open_second_space">Vstopite v Drugi prostor iz zakl. zaslona</string>
+  <string name="master_clear_apply_step_1">Preklic avtorizacije zahteva povrnitev naprave na tovarniške nastavitve. Trajno bodo izbrisane vse datoteke in podatki, vključno račune, stike, fotografije in aplikacije. Napravite Var. kopijo na računalnik pred preklicem avtorizacije.</string>
+  <string name="master_clear_apply_step_2">Preverite ali ste kopirali vse važne stvari na računalnik. Ko tapnete \"V redu\" se bo naprava povrnila na tovarniške nastavitve, trajno bodo izbrisane vse datoteke in podatki, vključno račune, stike, fotografije in aplikacije.</string>
+  <string name="master_clear_apply_title">Pozor</string>
   <string name="messageData">Sporočila</string>
+  <string name="more_settings">Več</string>
   <string name="menu_item_about_privacy_title">Pravila o zasebnosti</string>
   <string name="msg_switch_file">Izbrišem te datoteke v Prvem prostoru ko jih premestite?</string>
   <string name="msg_switch_file_second">Izbrišem te datoteke v Drugem prostoru po prestavitvi?</string>
@@ -412,6 +425,11 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugega prostora bodo premeščene v album \"Drugi prostor\" v Prvem prostoru</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
+  <string name="undo_activated_dialog_message">"Preklic avtorizacije bo izključil način dela Enterprise in povrnil napravo na tovarniške nastavitve. Vse povezane funkcije ne bodo več dostopne. Razen tega bo Xiaomi prenehal zbirati informacije potrebne za način dela Enterprise (IMEI, ID naprave, verzija sistema, regija itd.). Prekličem avtorizacijo in vrnem napravo na tovarniške nastavitve?"</string>
+  <string name="undo_activated_dialog_ok">Prekliči</string>
+  <string name="undo_grant_dialog_message">Xiaomi bo prenehal zbirati informacije potrebne za to storitev (IMEI, ID naprave, verzija sistema, regija itd.) po preklicu avtorizacije. Prekličem zdaj?</string>
+  <string name="undo_privacy_menu">Prekliči avtorizacijo</string>
+  <string name="undo_success">Uspešno preklicano</string>
   <string name="use_xiaoai_open">Zbudi s pomočjo glasovnega pomočnika</string>
   <string name="wating">Samo trenutek…</string>
   <string name="weibo_send">Pošlji na Weibo</string>

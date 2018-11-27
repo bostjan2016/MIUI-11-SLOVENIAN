@@ -98,6 +98,7 @@
   <string name="module_title_code">QR koda</string>
   <string name="low_version_tip">MIUI verzija je prestara. Posodobite MIUI da boste lahko uporabljali Skener.</string>
   <string name="module_title_document">Dokument</string>
+  <string name="module_title_plant">Rastlina</string>
   <string name="module_title_namecard">Vizitka</string>
   <string name="module_title_shopping">Nakup</string>
   <string name="module_title_study">Študij</string>
@@ -120,6 +121,11 @@
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Fotografija</string>
   <string name="place_barcode_into_rectangle">Postavite kodo znotraj okvira</string>
+  <string name="plant_fail">"Ne morem prepoznati"</string>
+  <string name="plant_loading">Prepoznavanje…</string>
+  <string name="plant_reg_fail_2">"Ne morem prepoznati ta objekt. Skener lahko identificira samo rože."</string>
+  <string name="plant_support">" (Tehnična podpora)"</string>
+  <string name="plant_title">Skenirajte rastlino ki jo želite identificirati</string>
   <string name="preparing_sd">Pripravljanje SD kartice…</string>
   <string name="previous">Nazaj</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>

@@ -126,6 +126,7 @@
   <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
   <string name="avoid_to_use_traffic_title">Uporabljajte samo WiFi za predvajanje glasbe preko omrežja</string>
   <string name="back_confirm">Dotaknite se znova za postavljanje aplikacije v ozadje</string>
+  <string name="banner_op">Mi Glasba</string>
   <string name="backup_complete">Pesmi shranjene na Mi Cloud</string>
   <string name="backup_empty_button">Ni izbranih pesmi</string>
   <string name="backup_immediate">Shrani</string>
@@ -773,13 +774,11 @@ predvsem nudi Ultimate Inc.</string>
   <string name="notif_text_engine_off">Xunlei accelerator je izključen.</string>
   <string name="notif_text_engine_on">Pospeševanje prenosa…</string>
   <string name="notif_title_file_size">%1$d skupno</string>
-  <string name="notif_title_multiple_downloading">Prenos datotek: %1$d</string>
   <string name="notif_title_single_downloading">Prenos: %1$s</string>
   <string name="notification_des_next_song">Naslednja pesem: %s</string>
   <string name="notification_des_no_song">Mi Glasba. Vsakodnevno nova glasba.</string>
   <string name="notification_download_complete">Prenos je končan.</string>
   <string name="notification_download_failed">Prenos ni uspel.</string>
-  <string name="notification_download_failed_more">"Ne morem prenesti: %1$d"</string>
   <string name="notification_download_success_more">Prenešeno: %1$d</string>
   <string name="notification_favorite_summary">Dobivajte obvestila o novih izdajah in najnovejših hitih</string>
   <string name="notification_favorite_title">Ovestilo o priljubljenih izvajalcih</string>
@@ -799,6 +798,13 @@ predvsem nudi Ultimate Inc.</string>
   <string name="nowplaying_dialog_title_delete_tracks">Odstranim pesem iz čakalne vrste?</string>
   <string name="nowplaying_menu_item_delete">Odstrani</string>
   <string name="ok">V redu</string>
+  <string name="online_apk_download_error_no_enough_space">"Ne morem prenesti zaradi premalo prostora za shranjevanje."</string>
+  <string name="online_apk_downloading">Prenos…%d%%</string>
+  <string name="online_apk_install_alert_confirm">Prenesi</string>
+  <string name="online_apk_install_alert_message">Morate prenesti dodatek Yandex Music. Ga prenesem?</string>
+  <string name="online_apk_install_alert_note">To storitev ponuja Yandex Music</string>
+  <string name="online_apk_install_error_no_enough_space">"Ne morem namestiti zaradi premalo prostora za shranjevanje."</string>
+  <string name="online_apk_install_error_with_reason">"Ne morem namestiti (Napaka %d)"</string>
   <string name="one_month">1 mesec</string>
   <string name="online_bill">Račun</string>
   <string name="online_favor">Poudarjeno</string>
@@ -810,9 +816,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="online_my">Moje</string>
   <string name="online_play_tips">Pesem je online vsebina, zato morate odpreti online storitve v nastavitvah za poslušanje</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
+  <string name="online_recommend">Seznam</string>
   <string name="online_service_open_tip">Vključena je storitev online glasbe</string>
   <string name="online_service_title">Online storitve</string>
-  <string name="online_recommend">Seznam</string>
   <string name="online_special">Posebno</string>
   <string name="online_switch">Storitev online vsebine</string>
   <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP storitve in priporočila. Vseeno izključim?</string>
@@ -1206,9 +1212,16 @@ predvsem nudi Ultimate Inc.</string>
   <string name="warning_tip_content">"Niste več povezani preko WiFi. Uporaba vaše mobilne podatkovne povezave za dokončanje tega prenosa bo povečala porabo podatkov. Če prekoračite svoje omejitve bo operater dodatno zaračunal."</string>
   <string name="warning_tip_ok">Premor</string>
   <string name="warning_tip_title">Opozorilo uporabe podatkov</string>
-  <string name="welcome_to_new_music">Dobrodošli v novo verzijo Mi Glasbe!</string>
+  <string name="welcome_to_new_music">Dobrodošli v novo verzijo Mi Glasbe</string>
   <string name="wifi_required_body" formatted="false">"Uporabite WiFi da dokončate prenos %s . 
 
 Pritisnite %s da zaženete prenos naslednjič ko se povežete preko WiFi."</string>
   <string name="wifi_required_title">Prenos je prevelik za omrežje operaterja</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije prenos ni uspelo, preverite stanje v Upravitelju aplikacij.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s
+Velikost: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verzijo %1$s
+Velikost Delta posodobitve: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Pomnilnik ni na voljo, preverite SD kartico.</string>
 </resources>
