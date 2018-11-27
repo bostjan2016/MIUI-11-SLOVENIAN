@@ -55,4 +55,38 @@
          <item>Nov</item>
          <item>Dec</item>
      </string-array>
-</resources>
+	 <string-array name="month">
+         <item>Januar</item>
+         <item>Februar</item>
+         <item>Marec</item>
+         <item>April</item>
+         <item>Maj</item>
+         <item>Junij</item>
+         <item>Julij</item>
+         <item>Avgust</item>
+         <item>September</item>
+         <item>Oktober</item>
+         <item>November</item>
+         <item>December</item>
+    </string-array>
+	<string-array name="season">
+        <item>Pomlad</item>
+        <item>Poletje</item>
+        <item>Jesen</item>
+        <item>Zima</item>
+    </string-array>
+	<string-array name="last_month">
+         <item>Januar</item>
+         <item>Februar</item>
+         <item>Marec</item>
+         <item>April</item>
+         <item>Maj</item>
+         <item>Junij</item>
+         <item>Julij</item>
+         <item>Avgust</item>
+         <item>September</item>
+         <item>Oktober</item>
+         <item>November</item>
+         <item>December</item>
+    </string-array>
+</resources> 

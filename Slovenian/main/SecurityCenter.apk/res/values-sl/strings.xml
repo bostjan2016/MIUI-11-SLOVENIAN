@@ -797,6 +797,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="deep_clean_disconnect_data_title">Izključi mobilne podatke kadar je naprava zaklenjena</string>
   <string name="deep_clean_memory_clean_title">Izbriši predpomnilnik kadar je naprava zaklenjena</string>
   <string name="deep_clean_never_memory_clean">Nikoli</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Samodejno prilagodite svetlost zaslona da boste prihranili baterijo</string>
+  <string name="deep_power_save_item_summary_bluetooth">Izključite Bluetooth da boste prihranili baterijo</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Izključi zaslon v mirovanje čez 30 sekund neaktivnosti da boste prihranili baterijo</string>
+  <string name="deep_power_save_item_title_auto_brightness">Vključi samodejno svetlost</string>
+  <string name="deep_power_save_item_title_bluetooth">Izključi Bluetooth</string>
+  <string name="deep_power_save_item_title_lock_screen_time">Izključi zaslon</string>
   <string name="deep_save_memory_clean_summary">Izbriši predpomnilnik kadar je naprava zaklenjena da preprečite aplikacijam uporabo baterije</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Določite čas za vklop in izklop naprave</string>
   <string name="delete">Izbriši</string>
@@ -1372,7 +1378,6 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="lockpattern_need_to_unlock_wrong">Poskusite ponovno</string>
   <string name="lockpattern_pattern_confirmed_header">Vaš nov vzorec za odklepanje</string>
   <string name="lockpattern_pattern_entered_header">Vzorec je dodan</string>
-  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanj %d točk</string>
   <string name="lockpattern_recording_inprogress">Odmaknite prst ko je vzorec končan</string>
   <string name="lockpattern_recording_intro_header">Povežite najmanj 4 točke za izdelavo vzorca</string>
   <string name="lockpattern_retry_button_text">Poskusi ponovno</string>
@@ -1596,7 +1601,6 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="mixed_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
   <string name="mixed_password_confirmed_header_continue">Uspešno nastavljeno. Pritisnite \"Naprej\".</string>
   <string name="mixed_pattern_entered_header">Geslo uspešno nastavljeno</string>
-  <string name="mixed_recording_incorrect_too_short">Vnesite vsaj %d znakov.</string>
   <string name="mixed_recording_intro_header">Vnesite vsaj 4 znake</string>
   <string name="mixed_retry_button_text">Prekini</string>
   <string name="mixed_settings_help_how_to_record">Kako nastaviti geslo</string>
@@ -1732,7 +1736,6 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="numeric_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
   <string name="numeric_password_confirmed_header_continue">Uspešno nastavljeno. Pritisnite \"Naprej\".</string>
   <string name="numeric_pattern_entered_header">PIN uspešno nastavljen</string>
-  <string name="numeric_recording_incorrect_too_short">Vnesite vsaj %d znakov.</string>
   <string name="numeric_recording_intro_header">Vnesite geslo</string>
   <string name="numeric_retry_button_text">Prekini</string>
   <string name="numeric_settings_help_how_to_record">Kako nastaviti PIN</string>

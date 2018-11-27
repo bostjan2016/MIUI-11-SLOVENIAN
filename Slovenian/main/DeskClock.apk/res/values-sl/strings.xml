@@ -139,6 +139,7 @@
   <string name="pause">Odmor</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="remind_ringtone">Zvonenje</string>
+  <string name="repeat_count">X</string>
   <string name="reset">Ponastavi</string>
   <string name="revert">Povrni</string>
   <string name="search_alarm_clock_keywords">Alarm;Budilka;</string>
@@ -155,10 +156,12 @@
   <string name="shutdown_alarm_title">Izklop alarma</string>
   <string name="shut_down_keep_screen">"Zaslon ne bo ostal vključen"</string>
   <string name="silent_alarm_summary">Tiho</string>
-  <string name="skip_alarm_once_hint">Izključi enkrat dnevno %s</string>
+  <string name="skip_alarm_once_hint">Izključi enkrat na %s</string>
   <string name="slider_text">Podrsajte navzgor za preklic alarma</string>
   <string name="snooze_confirm_cancel">Zavrzi alarm</string>
-  <string name="snooze_duration_title">Trajanje dremeža</string>
+  <string name="snooze_duration">Odloži</string>
+  <string name="snooze_duration_title">Odloži</string>
+  <string name="snooze_duration_value">Interval (min.)</string>
   <string name="start">Začni</string>
   <string name="start_up">Začni</string>
   <string name="stat_repeat_everyday">Vsak dan</string>
