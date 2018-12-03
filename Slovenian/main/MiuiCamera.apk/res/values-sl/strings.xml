@@ -70,9 +70,7 @@
   <string name="accessibility_skin_beautify_closed">Poudari tone kože izklj.</string>
   <string name="accessibility_skin_beautify_opened">Poudari tone kože vklj.</string>
   <string name="accessibility_stereo_button">Nastavljanje fokusa</string>
-  <string name="accessibility_video_capture_button">VideoCaptureButton</string>
-  <string name="accessibility_video_module_picker">VideoModulePicker</string>
-  <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_video_module_picker">Izbira modula</string>
   <string name="accessibility_video_capture_button">Tipka sprožilca za snemanje videoposnetkov</string>
   <string name="accessibility_video_pause_button">Premor snemanja</string>
   <string name="accessibility_video_resume_button">Nadaljuj snemanje</string>
