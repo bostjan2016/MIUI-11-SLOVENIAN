@@ -124,6 +124,7 @@
   <string name="feedback_status_change_notification_title">"Vaš napredek poročila je posodobljen"</string>
   <string name="feedback_status_collect_log_failed">"Ne morem dobiti zapisov"</string>
   <string name="feedback_status_commit_failed_title">"Ne morem poslati poročila"</string>
+  <string name="feedback_status_commit_in_queue_title">Na čakanju…</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Pošiljam…</string>
   <string name="feedback_status_forum_reply">Odgovori</string>
@@ -315,7 +316,7 @@
   <string name="select_system_app_tag">Izberi oznake</string>
   <string name="submit_dialog_cancel">Ne strinjam se</string>
   <string name="submit_dialog_confirm">Strinjam se</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Vaše povratne informacije, skupaj s priponkami in zapisi bodo poslani na Mi strežnike. Če pride do napak pri pošiljanju, boste zaprošeni za ponovno pošiljanje. Če tapnete \"Strinjam se\" pomeni da ste prebrali in se strinjate z našimi &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Morate se strinjati z našimi <a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&lang=%2$s\">Pravila o zasebnosti</a> in <a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&lang=%4$s\">Pogoji uporabe</a> da boste lahko uporabljali povratne informacije. Problemi ki jih prijavljate skupaj z stvarmi (lahko vsebujejo osebne podatke, kot tudi informacije o vašem omrežju in napravi) bodo prenešeni na strežnike MIUI-ja. To nam pomaga da najdemo in rešimo probleme ki jih prijavljate&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, skupaj s priponkami (če obstajajo) in zapisi (lahko izključite stvari ki jih ne želite poslati) bodo poslani na Mi strežnike in omejeni del MIUI Foruma za programerje. Informacije o vaših temah in forumu bodo tudi zbrane za analizo in nadaljno komunikacijo. Dnevniki lahko vsebujejo osebne podatke in podatke o lokaciji. Če tapnete \"Strinjam se\" pomeni da ste prebrali in se strinjate z našimi &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; in &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_title">Pošlji poročilo o napaki</string>
   <string name="submit_feedback_info_failed">"Ne morem poslati poročilo"</string>
@@ -344,7 +345,6 @@
   <string name="toast_feedback_pending_wlan">Poročilo o napaki bo poslano ko boste povezani na WiFi omrežje</string>
   <string name="toast_feedback_submitted">Poročilo o napaki je bilo poslano</string>
   <string name="toast_feedback_submitting">Pošiljanje…</string>
-  <string name="toast_feedbackservice_in_submit">Urejanje predhodnih informacij…</string>
   <string name="toast_fill_brackets">V vašem poročilu manjkajo nekatere informacije</string>
   <string name="toast_loading_app_id">Pridobivanje informacij…</string>
   <string name="toast_log_not_exists">"Iskani zapis ne obstaja ali pa je izbrisan"</string>

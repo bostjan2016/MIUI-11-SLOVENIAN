@@ -505,12 +505,12 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="application_item_disable">Zavrni</string>
   <string name="application_item_permission">Dovoli</string>
   <string name="application_lock_name">Zakl. aplikacije</string>
-  <string name="application_manager_section_title">Nastavitve aplikacije</string>
+  <string name="application_manager_section_title">Aplikacije</string>
   <string name="application_permission_manager">Dovoljenja aplikacij</string>
   <string name="application_permissions">Dovoljenja aplikacije</string>
     <string name="application_restrictions">Omogočanje aplikacij in vsebine</string>
     <string name="application_size_label">Velikost aplikacije</string>
-    <string name="applications_settings">Podatki o aplikaciji</string>
+  <string name="applications_settings">Urejaj aplikacije</string>
   <string name="applications_settings_header">Nastavitve aplikacij</string>
   <string name="applications_settings_summary">Upravljanje aplikacij, nastavljanje bližnjic za hiter zagon</string>
     <string name="apply">Uporabi</string>
@@ -6646,8 +6646,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="swipe_up_to_switch_apps_title">Povlecite navzgor po gumbu za začetni zaslon</string>
   <string name="switch_off_text">Izklopljeno</string>
   <string name="switch_on_text">Vklopljeno</string>
-  <string name="switch_screen_button_order">Zrcalne tipke</string>
-  <string name="switch_screen_button_order_desc">Zrcalna tipka Nazaj in tipke Meni</string>
+  <string name="switch_screen_button_order">Zamenjaj tipke</string>
+  <string name="switch_screen_button_order_desc">Zamenjaj razpored tipk Nazaj in Meni</string>
   <string name="symbols_not_allowed_for_password">"Geslo ne sme vsebovati simbolov"</string>
   <string name="sync_active">Sinhronizacija aktivna</string>
   <string name="sync_automatically">Samodejna sinh. podatkov aplik.</string>
@@ -6678,13 +6678,13 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="system_alert_window_summary" formatted="false">Aplikacije ki lahko prekrivajo druge aplikacije: %d/%d</string>
   <string name="system_and_device_section_title">Sistem &amp; naprava</string>
   <string name="system_app">(Sistem)</string>
-  <string name="system_app_settings">Sistemske aplikacije</string>
+  <string name="system_app_settings">Nastavitve sistemskih aplikacij</string>
   <string name="system_apps_updater">Posodobitev sistemskih aplikacij</string>
   <string name="system_backup">Var. kopija</string>
   <string name="system_backup_info">Nastavitve sistema, začetnega zaslona itd.</string>
   <string name="system_backup_section_title">Varnostna kopija</string>
-    <string name="system_dashboard_summary">Jeziki, čas, varnostno kopiranje, posodobitve</string>
-    <string name="system_default_app">(Sistemska privzeta)</string>
+    <string name="system_dashboard_summary">Jeziki, čas, varnostna kopija, posodobitve</string>
+    <string name="system_default_app">(Sistemsko privzeto)</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
   <string name="system_shortcut_wake">Zbudi z bližnjicmi na tipkah</string>
   <string name="system_storage">Notranja shramba</string>

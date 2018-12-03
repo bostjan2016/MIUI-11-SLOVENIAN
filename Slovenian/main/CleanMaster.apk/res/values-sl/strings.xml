@@ -223,6 +223,8 @@
   <string name="facebook_clean_exit_confirm_ok">Ustavi</string>
   <string name="facebook_clean_exit_confirm_title">Ustavim pregled?</string>
   <string name="facebook_cleaner">Facebook čistilec</string>
+  <string name="facebook_function_summery">Očisti predpomnilnik Facebooka</string>
+  <string name="facebook_function_title">Facebook čistilec</string>
   <string name="facebook_group_cache">Datoteke predpomnilnika</string>
   <string name="facebook_group_gif">GIF-i</string>
   <string name="facebook_group_image">Slike</string>

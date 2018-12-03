@@ -16,8 +16,8 @@
   <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
   <string name="backup_size">Velikost: %s</string>
-  <string name="backup_stopped_msg">Postavi izdelavo var. kopije nad obstoječe Cloud var. kopije, kliknite za prikaz.</string>
-  <string name="backup_stopped_title">Cloud var. kopija je ustavljena</string>
+  <string name="backup_stopped_msg">Trenutna var. kopija bo presnela prejšnjo. Kliknite za prikaz.</string>
+  <string name="backup_stopped_title">Cloud var. kopija je pavzirana</string>
   <string name="backup_success">Varnostna kopija uspešno napravljena</string>
   <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
@@ -131,7 +131,6 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="latest_backup_time_loading">Nalagam…</string>
   <string name="load_backup_failed">Ne morem prenesti var. kopije</string>
   <string name="loading_user_backup">Branje uporabniških var. kopij…</string>
-  <string name="main_space">Prvi prostor</string>
   <string name="managespace_delete_backup">Izbriši</string>
   <string name="managespace_total_space">Skupni prostor: %s</string>
   <string name="menu_item_managespace">Uredi prostor</string>
@@ -151,6 +150,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="open_wifi">Vključi WiFi</string>
   <string name="open_wifi_description">Za obnovitev aplikacije se povežite v WiFi omrežje</string>
   <string name="open_wifi_setting">WiFi nastavitve</string>
+  <string name="other_device_main_space">Prvi prostor</string>
+  <string name="other_device_second_space">Drugi prostor</string>
   <string name="process_whole_recovery">Obnavljam %s</string>
   <string name="provision_error_connect_msg">Preverite omrežje in poskusite znova. Var. kopija ni dostopna brez omrežja.</string>
   <string name="provision_error_connect_title">Ne morem se povezati</string>
@@ -180,8 +181,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
   <string name="restoreing_file_tile">Obnovitev datotek: %d</string>
   <string name="retry">Poskusi ponovno</string>
-  <string name="second_space">Drugi prostor</string>
-  <string name="self_device">"Ta naprava "</string>
+  <string name="self_device_main_space">"Prvi prostor te naprave"</string>
+  <string name="self_device_second_space">"Drugi prostor te naprave"</string>
   <string name="self_phone">Ta telefon</string>
   <string name="self_phone_home">Ta telefon: %s</string>
   <string name="settings_backup">Nastavitve sistema</string>
