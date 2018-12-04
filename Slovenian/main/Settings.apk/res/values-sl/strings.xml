@@ -1906,6 +1906,8 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="default_for_work">Privzeto za delo</string>
   <string name="default_input_method">Izberite privzeto tipkovnico</string>
   <string name="default_keyboard_layout">Privzeto</string>
+  <string name="default_launcher_set_jeejen_message">Pritisnite tipko Domov da boste nastavili Jeejen</string>
+  <string name="default_launcher_set_system_message">Pritisnite tipko Domov da boste povrnili privzeti zaganjalnik</string>
   <string name="default_launcher_title">Privzeti zaganjalnik</string>
     <string name="default_map_app_title">Aplikacija za zemljevide</string>
     <string name="default_notification_assistant">Pomočnik za obvestila</string>
@@ -2261,6 +2263,10 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dump_log">Priobivanje zapisov povezanih z problemi</string>
+  <string name="dump_log_summary">"Ta storitev je dizajnirana za generiranje 284 zapisov v alfa in beta različicah MIUI. Uporabljajte jo previdno.
+Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
+  <string name="dump_log_title">O tej storitvi</string>
     <string name="eab_provisioned_switch_string">EAB/prisotnost omogočena</string>
   <string name="edge_mode_back">Nazaj</string>
   <string name="edge_mode_back_summary">Dvakrat se dotaknite roba telefona za nazaj</string>
