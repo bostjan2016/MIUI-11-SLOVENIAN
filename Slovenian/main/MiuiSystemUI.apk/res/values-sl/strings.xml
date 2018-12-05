@@ -1414,6 +1414,8 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
 &amp;#8211; blokiraj vsa obvestila aplikacije"</string>
     <string name="power_remaining_charging_duration_only">Še ^1 do polne napolnjenosti</string>
     <string name="power_remaining_duration_only">Še približno ^1</string>
+  <string name="power_remaining_duration_only_enhanced">Še približno %1$s na temelju vaše uporabe</string>
+  <string name="power_remaining_duration_only_short">Preostalo je %1$s</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon se lahko kmalu izključi</string>
   <string name="power_remaining_duration_shutdown_imminent">Telefon se lahko kmalu izključi (%1$s)</string>
   <string name="power_remaining_less_than_duration">Ostalo je manj kot %1$s (%2$s)</string>

@@ -1916,6 +1916,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="default_sound">Privzeti zvok</string>
     <string name="default_spell_checker">Privzeti črkovalnik</string>
     <string name="default_theme">Privzeto</string>
+  <string name="default_vol_stream_title">Privzeta kontrola glasnosti streama</string>
   <string name="default_usb_mode">USB povezava</string>
   <string name="delete">Izbriši</string>
   <string name="delete_backup_process">Odstranjujem...</string>
@@ -6603,6 +6604,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="summary_err_backup_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="summary_err_restore_encrypting">"Ne morem vrniti. Preverite ali je ta var. kopija napravljena z uporabo vašega Mi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne morem se povezati na omrežje"</string>
+  <string name="summary_font_size_v2">Nastavljanje velikosti teksta, slik in ikon</string>
   <string name="super_resolution_access_title">Dostopne aplikacije</string>
   <string name="super_resolution_desc">Naredite slike ostrejše s pomočjo AI algoritma</string>
   <string name="super_resolution_maintain">"Super resolucija še ni na voljo."</string>
@@ -6810,11 +6812,13 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Pisava</string>
   <string name="title_font2">Font</string>
+  <string name="title_font_v2">Tekst &amp; UI elementi</string>
   <string name="title_font_current">Izberi pisavo</string>
   <string name="title_font_current2">Font sistema</string>
   <string name="title_font_size">Velikost pisave</string>
   <string name="title_hdmi_color_calibration">Barvna korekcija nastavljena</string>
   <string name="title_jeejen">Jeejen začetni zaslon</string>
+  <string name="title_layout_v2">Velikost teksta &amp; skaliranje</string>
   <string name="title_layout_current">Izberi velikost pisave</string>
   <string name="title_layout_current2">Velikost teksta</string>
   <string name="title_local_resource">Lokalni viri</string>

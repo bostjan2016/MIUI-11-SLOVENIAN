@@ -198,8 +198,8 @@
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
-  <string name="like">Všeč mi je</string>
-  <string name="liked">Všeč mi je bilo</string>
+  <string name="like">Dodaj v priljubljeno</string>
+  <string name="liked">Dodano v priljubljeno</string>
   <string name="loading_desktop">Samo trenutek…</string>
   <string name="loading_wallpaper">Samo trenutek…</string>
   <string name="local_wallpaper">Prevzeto</string>
@@ -292,6 +292,7 @@
   <string name="recommend_loading">Samo trenutek</string>
   <string name="recommend_refresh">Osveži</string>
   <string name="recommend_xout">"Ne kaži"</string>
+  <string name="refresh">Osveži</string>
   <string name="reset_description_first_time">Lahko povrnete razpored iz %1$s v roku 2 ure</string>
   <string name="reset_description_others">Lahko povrnete razpored iz %1$s</string>
   <string name="reset_fail">"Ne morem povrniti"</string>

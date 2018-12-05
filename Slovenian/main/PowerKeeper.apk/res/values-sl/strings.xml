@@ -57,9 +57,13 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="enable_hide_mode">Vključi Varčevanje baterije</string>
   <string name="enable_sleep_mode">Vključite način mirovanja za optimiziranje porabe baterije ponoči</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
+  <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
+  <string name="extreme_add_white_list_title">Izjeme v ozadju</string>
   <string name="extreme_mode_max_item_alert">Samo 4 aplikacije se lahko izvajajo v ozadju v ekstremnem načinu varčevanja baterije</string>
   <string name="extreme_power_config_mode_category">Ekstremni način</string>
   <string name="extreme_power_config_mode_desc">Sprememba na ekstremni način bo izključila sinhronizacijo, Bluetooth, GPS, NFC, dvojni dotik, osvetlitev tipk, zbujanje zakl. zaslona ob obvestilih, utripajočo lučko obvestil itd in način varčevanja baterije nastavil na ultimativno</string>
+  <string name="extreme_power_config_mode_summary">Ekstremni način omejuje aktivnosti v ozadju in ustavlja sinhronizacijo.</string>
+  <string name="extreme_power_settings_title">Nastavitve</string>
   <string name="extreme_power_config_mode_title">Način ekstremno varčevanje baterije</string>
   <string name="failure">Napaka</string>
   <string name="foreground_change">Aplikacija se izvaja v ozadju</string>
@@ -108,6 +112,9 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="notify_app_consume_abnormal_title">močno porablja baterijo</string>
   <string name="notify_abnormal">Opozorilo nenormalne energije</string>
   <string name="notify_abnormal_title">Obvestilo</string>
+  <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več kot %s</string>
+  <string name="notification_exit_extreme_mode_title">Ekstremni način je izključen</string>
+  <string name="notification_open_extreme_mode_text">Ekstremni način je vključen</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
   <string name="performance_category">Zmogljivost</string>

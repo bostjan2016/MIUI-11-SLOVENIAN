@@ -41,6 +41,7 @@
   <string name="message_type_label">"Vrsta: "</string>
   <string name="messaging">Sporočila</string>
   <string name="more">Več</string>
+  <string name="mx_message">Mi sporočilo</string>
   <string name="net_sms_unsubscribe">Naročnina preklicana</string>
   <string name="packages_select_sim_cards_title">Izberite SIM kartico</string>
   <string name="received_label">"Prejeto: "</string>
