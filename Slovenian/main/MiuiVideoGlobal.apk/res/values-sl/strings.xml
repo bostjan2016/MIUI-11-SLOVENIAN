@@ -20,6 +20,14 @@
   <string name="abc_shareactionprovider_share_with_application">Skupna raba z: %s</string>
   <string name="abc_toolbar_collapse_description">Stisni</string>
   <string name="agree">Strinjam se</string>
+  <string name="ai_animation_music_text">AI soundtrack</string>
+  <string name="ai_music_save_cancel">Prekliči</string>
+  <string name="ai_music_save_dialog_title">Shrani</string>
+  <string name="ai_music_save_fail">"Ne morem shraniti"</string>
+  <string name="ai_music_save_info">AI soundtrack uspjšno dodan. Shranim videozposnetek?</string>
+  <string name="ai_music_save_ok">Shrani</string>
+  <string name="ai_music_save_success">Uspešno shranjeno</string>
+  <string name="ai_music_saved">Shranjeno</string>
   <string name="alert_dialog_download">"Ste že prenesli to aplikacijo."</string>
   <string name="alert_dialog_download_btn_hide">Skrij</string>
   <string name="alert_dialog_download_confirm">O aplikaciji</string>
@@ -408,6 +416,7 @@ Poglejte ostale videoposnetke!"</string>
   <string name="pw_video_history">Zgodovina predvajanj</string>
   <string name="pw_video_mine">Moji videoposnetki</string>
   <string name="pw_video_offline">Lokalni videoposnetki</string>
+  <string name="read_and_agree">Strinjam se</string>
   <string name="recommend_online_switch">Online priporočila</string>
   <string name="recommend_online_tips">Vključite da dobite priporočene online videoposnetke</string>
   <string name="recommend_page_replay">PONOVNO PREDVAJAJ</string>
@@ -421,6 +430,7 @@ Poglejte ostale videoposnetke!"</string>
   <string name="s6">Dovolim oglasu izdelavo dogodka v koledarju?</string>
   <string name="s7">Test Ad</string>
   <string name="save">Shrani</string>
+  <string name="save_cancel_toast">Tapni ponovno za preklic shranjevanja</string>
   <string name="screenrecord_cancel">Problemi z kompatibilnostjo</string>
   <string name="screenrecord_nosupport_record">"Snemalnik zaslona ni podprt na tej napravi."</string>
   <string name="search">Išči</string>
@@ -430,6 +440,8 @@ Poglejte ostale videoposnetke!"</string>
   <string name="session_create_error">Strežnik je vrnil SESSION CREATE ERROR kodo, prosim kontaktirajte SDK programerje!</string>
   <string name="share">Deli</string>
   <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>
+  <string name="slid_fail_message">"Ne morem shraniti"</string>
+  <string name="slide_save_message">Izdelava videoposnetka…</string>
   <string name="switch_ratio_pause">Hitrost predvajanja je nestabilna. Vračanje na privzeto hitrost…</string>
   <string name="t_downloading">Prenosi:</string>
   <string name="t_exit_app">Tani še enkrat za izhod.</string>
@@ -452,7 +464,10 @@ Poglejte ostale videoposnetke!"</string>
   <string name="ui_log_tip">Tapnite to področje da boste skrili, pritisnite in držite da boste izbrisali stare zapise. Ročno premaknite zapise.</string>
   <string name="update">Posodobi</string>
   <string name="v_app_name">Mi Video</string>
+  <string name="v_cancel">Preklič</string>
+  <string name="v_ok">V redu</string>
   <string name="v_pw_need_update_app">Posodobite Mi Video da boste uporabili vse njegovo naj naj</string>
+  <string name="v_save">Shrani</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje datotek ni uspelo, preverite stanje v aplikaciji.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo različico %1$s
