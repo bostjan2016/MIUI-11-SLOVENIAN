@@ -7,6 +7,6 @@
   <string name="error_not_acceptable">Sinhronizacija je onemogočena.</string>
   <string name="error_title">"Ne morem sinhr."</string>
   <string name="error_unauthorized">Sinhronizacija je onemogočena zaradi prevelikega števila poskusov prijave.</string>
-  <string name="micloud_downloading_clipboard_message_from_web">Pošiljanje sporočila v odložišče</string>
+  <string name="micloud_downloading_clipboard_message_from_web">Odložišče: Sprejeto sporočilo iz vašega računalnika</string>
   <string name="micloud_send_message_desc">Pošiljanje Mi sporočila</string>
 </resources>

@@ -6318,6 +6318,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Obvestila zakl. zaslona</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Dovoli važna obvestila na zakl. zaslonu</string>
+  <string name="status_bar_settings_show_lte_for_4g">Pokaži LTE ikono za 4G</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži v prosojnem obvestilu</string>
   <string name="status_bar_settings_show_notification_icon">Pokaži ikono obvestila</string>
