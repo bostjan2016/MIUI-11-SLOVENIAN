@@ -6,6 +6,7 @@
   <string name="act_find_city_hint">Vnesi lokacijo</string>
   <string name="act_find_city_hot_attractions_title">Popularna mesta</string>
   <string name="act_find_city_hot_city_title">Popularna mesta</string>
+  <string name="act_location_error_to_find_city">"Ne morem dobiti podatke o lokaciji. Lahko ročno dodate mesto."</string>
   <string name="act_find_city_hot_title">Dodaj</string>
   <string name="act_set_city_find_side">Lociranje...</string>
   <string name="act_set_city_find_side_error">Ne morem najti naprave</string>
@@ -16,7 +17,7 @@
   <string name="act_weather_find_city_searching">Iskanje...</string>
   <string name="activity_find_city_dialog_cancel">Prekliči</string>
   <string name="activity_find_city_dialog_message">Dovolite aplikaciji Vreme dostop do vaše lokacije da dobite točne informacije o lokaciji.</string>
-  <string name="activity_find_city_dialog_message_global">Dovolite aplikaciji Vreme dostop do vaše lokacije in nastavite na način visoke natančnosti dobivanja lokacije da dobite relevantne informacije o lokaciji.</string>
+  <string name="activity_find_city_dialog_message_global">Dovolite aplikaciji Vreme dostop do vaše lokacije in dovolite napravi da dobi lokacijo brezžično.</string>
   <string name="activity_find_city_dialog_set">Nastavitve</string>
   <string name="activity_find_city_dialog_title">Dostop do lokacije</string>
   <string name="activity_main_pub_time">Objavljeno ob %1$s</string>
@@ -90,6 +91,9 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="dislike_alert_dialog_title">Zakaj ne želite videti te vsebina?</string>
   <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="edit_city">Uredi</string>
+  <string name="empty_view_net_loading">Posodabljanje…</string>
+  <string name="empty_view_net_unavailable">"Ne morem se povezati na omrežje"</string>
+  <string name="empty_view_refresh">Poskusi ponovno</string>
   <string name="eu_region_version_first_start_network_msg">"Z uporabo se strinjate da se bo Xiaomi povezal na splet in zbiral, obdeloval in uporabljal vaše osebne podatke, vključno koordinate mest ki jih uporabljate in druge vrste podatkov navedenih v našim pravilih o zasebnosti. Preberite jih. Z dotikom na "Strinjam se", se strinjate z Xiaomi %1$s in %2$s."</string>
   <string name="feedback_cloudy">Oblačno</string>
   <string name="feedback_foggy">Megla</string>
@@ -111,11 +115,13 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title_24_hours_desc">24-urna napoved</string>
-  <string name="hourly_forecast_title_hourly_desc">napoved vsako uro</string>
+  <string name="hourly_forecast_title_hourly_desc">Napoved vsako uro</string>
+  <string name="index_item_downloading">Prenos</string>
   <string name="hourly_forecast_title">Urna vremenska napoved</string>
   <string name="index_item_experience_now">Namesti zdaj</string>
   <string name="index_item_install_now">Namesti zdaj</string>
   <string name="index_item_installing">Nameščanje</string>
+  <string name="index_item_installing2">Nameščanje</string>
   <string name="indices_desc_feel">Občutek %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
@@ -145,6 +151,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="it_is_going_to_rain">Deževalo bo</string>
   <string name="locate_fail_detail_err">"Ne morem locirati naprave
 Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
+  <string name="location_provider_btn_text">Vključite storitve lociranja</string>
   <string name="location_management">Lokacije</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Dodaj ali izbriši mesto</string>
@@ -173,7 +180,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="no_data">Ni podatkov</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="no_vote_ratio">Proti %1$s%%</string>
-  <string name="open">Odpri</string>
+  <string name="open">Odpri zdaj</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_now">Odpri</string>
   <string name="other">Ostalo</string>

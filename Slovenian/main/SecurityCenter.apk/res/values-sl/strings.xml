@@ -1419,7 +1419,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
   <string name="main_button_mi_sim_open">Prikaz podrobnosti</string>
   <string name="main_button_usage_adjust">Sinhr. porabe podatkov</string>
-  <string name="main_button_usage_adjust_manual">Nastavite omejitev porabe podatkov</string>
+  <string name="main_button_usage_adjust_manual">Nastavite porabo podatkov</string>
   <string name="main_button_usage_adjusting">Sprememba…</string>
   <string name="main_button_usage_adjusting_bill">Sprememba…</string>
   <string name="main_button_usage_package_setting">Nastavite omejitev porabe podatkov</string>

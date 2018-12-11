@@ -1976,6 +1976,12 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="device_cpu4_info">"4-jedrni "</string>
   <string name="device_cpu6_info">"6-jedrni "</string>
   <string name="device_cpu8_info">"8-jedrni "</string>
+  <string name="device_description_battery">Kapaciteta baterije</string>
+  <string name="device_description_camera">Sprednja kamera</string>
+  <string name="device_description_cpu">CPU</string>
+  <string name="device_description_ram">RAM</string>
+  <string name="device_description_resolution">Resolucija</string>
+  <string name="device_description_screen">Velikost zaslona</string>
     <string name="device_details_title">Podrobnosti o napravi</string>
   <string name="device_display_layout_title">Opravila</string>
   <string name="device_edit_title">Preimenuj telefon</string>
@@ -4045,6 +4051,7 @@ Na tej napravi je več uporabnikov.
     <string name="network_dashboard_title">Omrežje in splet</string>
   <string name="network_detail">Podrobnosti omrežja %s</string>
   <string name="network_error">Napaka na omrežju</string>
+  <string name="network_name_input_error">"Ne morem shraniti SSID. Poskusite ponovno."</string>
   <string name="network_name_displayed_summary">Ime omrežja prikaži v statusni vrstici</string>
   <string name="network_operator_display_title">Prikaži omrežje operaterja</string>
   <string name="network_operators_settings">Omrežni operaterji</string>
