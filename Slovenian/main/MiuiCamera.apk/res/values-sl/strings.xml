@@ -135,6 +135,15 @@ in za trenutek zapustite pregled"</string>
   <string name="color_effect_entry_soda">Soda</string>
   <string name="color_effect_entry_vivid">Vivid</string>
   <string name="color_effect_entry_warm">Sonce</string>
+  <string name="color_effect_live_blue">Orhideja</string>
+  <string name="color_effect_live_contrast">Xpro</string>
+  <string name="color_effect_live_deepblack">B&amp;W</string>
+  <string name="color_effect_live_fair">Pale</string>
+  <string name="color_effect_live_hongkong">Bauhinia</string>
+  <string name="color_effect_live_mousse">Mousse</string>
+  <string name="color_effect_live_none">Normalno</string>
+  <string name="color_effect_live_solar">Nebesško modra</string>
+  <string name="color_effect_live_years">Sepia</string>
   <string name="config_name_group">Skupinski selfie</string>
   <string name="config_name_hht">HHT</string>
   <string name="config_name_magic">Čarovnija</string>
@@ -351,6 +360,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="live_speed_fragment_tab_name">Hitrost</string>
   <string name="live_speed_normal">Normalno</string>
   <string name="live_speed_slow">Počasno</string>
+  <string name="live_sticker_fragment_tab_name">Čarovnija</string>
+  <string name="live_sticker_updating">Posodabljanje…</string>
   <string name="loading">Nalaganje…</string>
   <string name="loading_video">Nalaganje videoposnetka…</string>
   <string name="location">Lokacija</string>
@@ -504,6 +515,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvok</string>
   <string name="pref_camera_delay_capture_entry_off">Izklj.</string>
   <string name="pref_camera_delay_capture_title">Odštevanje</string>
+  <string name="pref_camera_device_watermark_title">Oznaka naprave</string>
   <string name="pref_camera_denoise_title">Wavelet denoise način</string>
   <string name="pref_camera_device_watermark_title">Oznaka fotografije</string>
   <string name="pref_camera_dual_enable_title">Vključi dvojno kamero</string>
@@ -914,7 +926,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="user_agree">Strinjam se</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>
-  <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s. Se srinjate z povezavo s spletom?"</string>
   <string name="user_notice_title">Pogoji in Odredbe</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
