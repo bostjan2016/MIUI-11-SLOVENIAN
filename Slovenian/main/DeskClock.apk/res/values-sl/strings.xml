@@ -36,6 +36,7 @@
   <string name="cancel">Prekliči</string>
   <string name="channel_name_alarm">Alarm</string>
   <string name="channel_name_timer">Odštevanje</string>
+  <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena na vaši napravi.</string>
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
   <string name="confirm_abort">Zavrzi</string>

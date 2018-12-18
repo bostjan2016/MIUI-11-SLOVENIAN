@@ -1697,8 +1697,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="note">Opomba</string>
   <string name="not_limited_brand">Neomejeno</string>
   <string name="note_call_none">Ni klicev</string>
-  <string name="note_keyword_none">Ni ključnih besed</string>
-  <string name="note_list_none">Seznam je prazen</string>
+  <string name="note_keyword_none">Nema ključnih besed</string>
+i  <string name="note_list_none">Seznam je prazen</string>
   <string name="note_sms_none">Ni sporočil</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več od %s</string>
@@ -1717,8 +1717,10 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
+  <string name="notify_channel_mipush">Varnost push spročil
   <string name="notify_channel_name_security">Varnost sistema</string>
-  <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>
+  <string name="notify_channel_optimize">Obavijesti o sigurnosti</string>
+  <string name="Obvesla o va">Trenutna MIUI verzija je spremenjena</string>
   <string name="notification_sysapp_cracked_title">Odkrtito varnostno tveganje</string>
   <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>

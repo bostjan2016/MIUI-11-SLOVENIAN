@@ -3,6 +3,8 @@
   <string name="about_extreme_mode">Ekstremni način</string>
   <string name="about_hide_mode">O Varčevanju baterije</string>
   <string name="active_classify">Razvrsti glede na status aktivnosti</string>
+  <string name="adaptive_battery_summary">"Omejite baterijo za aplikacije ki jih ne uporabljate pogosto"</string>
+  <string name="adaptive_battery_title">Uporabite Prilagodljivo baterijo</string>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Nastavitve</string>
   <string name="action_title_optimize">Optimiziraj</string>

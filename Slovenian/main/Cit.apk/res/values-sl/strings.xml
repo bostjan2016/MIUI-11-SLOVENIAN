@@ -182,6 +182,8 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_display_check_summary">Preverite ali je potrebna BMP datoteka na SD kartici. Potrdite da se barve dosledno prikazujejo čez cel zaslon. Prepričajte se se da ni nepravilnih svetlih točk in temnih madežev.</string>
   <string name="cit_display_check_title">Zaslon</string>
   <string name="cit_display_continue">Dotaknite se zaslona za začetek testiranja</string>
+  <string name="cit_display_test_end">Test končan</string>
+  <string name="cit_display_test_next">Naprej</string>
   <string name="cit_emergencycall_check_summary">Pritisnite Kliči 112 za klicanje številke 112 da preveriteali se lahko kliče 112.</string>
   <string name="cit_emergencycall_check_title">Nujni klic</string>
   <string name="cit_exit_test_summary">Pri izhodu bodo izbrisani vsi povezani tekstualni podatki.</string>

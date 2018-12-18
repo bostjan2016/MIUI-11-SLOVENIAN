@@ -26,15 +26,14 @@
   <string name="catch_full_log_add_photo">Dodaj fotografiju</string>
   <string name="catch_full_log_add_photo_dialog_content">"Če je problem ki ga prijavljate povezan z kvaliteto slike kamere, dodajte prvotno fotografijo vzorca (neobrezano) da lahko lažje najdemo problem. Želite dodati fotografijo?"</string>
   <string name="catch_full_log_dialog_confirm_text">Pojdi na Zač.. zaslon</string>
-  <string name="catch_full_log_dialog_content">"MIUI generira zapis. To lahko vpliva na produktivnost vaše naprave. Če ne morete ponoviti problem ki ga želite prijaviti, se vrnite na zapise in tapnite \"Prekliči\"."</string>
+  <string name="catch_full_log_dialog_content">"MIUI generira zapis. To lahko vpliva na zmogljivost vaše naprave. Če ne morete ponoviti problem ki ga želite prijaviti, se vrnite na zapise in tapnite \"Prekliči\"."</string>
   <string name="catch_full_log_dump_hprof_failed">"Ne morem generirati zapis napake"</string>
-  <string name="catch_full_log_item_content_catch_direct">"Koraki:
-1. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vzpostavite.
-2. Vratite se na to strani in tapnite \"Končano in pošlji\"."</string>
-  <string name="catch_full_log_item_content_need_open">"Koraki:
-1. Tapnite \"Napravi zapis\".
-2. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vzpostavite..
+  <string name="catch_full_log_item_content_catch_direct">"1. Vrnite se na stvar ki jo želite prijaviti in jo predvajajte.
+2. Vratite se na to stran in tapnite \"Končano in pošlji\"."</string>
+  <string name="catch_full_log_item_content_need_open">"1. Dodirnite \"Napravi zapis\".
+2. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vzpostavite.
 3. Vrnite se na to stran in tapnite \"Končano in pošlji\"."</string>
+  <string name="catch_full_log_item_content_title">Koraki:</string>
   <string name="catch_full_log_item_title_audio">Zvok, snemanje zvoka in zvok med klicem</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
   <string name="catch_full_log_item_title_dump_heap">Lag</string>
@@ -81,6 +80,7 @@
   <string name="err_type_xiaomi_service">Storitev za stranke</string>
   <string name="error_no_connection">"Ne morem se povezati na omrežje"</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s težava \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Izberi problem</string>
   <string name="feedback_choose_module">Izberi predmet</string>
   <string name="feedback_choose_module_hint">Potrebno</string>
   <string name="feedback_choose_reproductivity">Reproduktivnost</string>
@@ -338,6 +338,8 @@
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Podobne težave na MIUI forumu</string>
   <string name="title_system_app">MIUI Aplik.</string>
+  <string name="title_user_guide">Oporabnikov vodič</string>
+  <string name="toast_app_tag_required">Izberi problem</string>
   <string name="toast_catch_full_log_catching">Istočasno lahko generirate samo en zapis.</string>
   <string name="toast_catch_full_log_open_failed">"Ne morem začeti snemanje zapisa."</string>  
   <string name="toast_description_required">Napisati morate opis napake</string>
