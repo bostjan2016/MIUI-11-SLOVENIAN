@@ -1717,7 +1717,6 @@ i  <string name="note_list_none">Seznam je prazen</string>
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
-  <string name="notify_channel_mipush">Varnost push spročil
   <string name="notify_channel_name_security">Varnost sistema</string>
   <string name="notify_channel_optimize">Obavijesti o sigurnosti</string>
   <string name="Obvesla o va">Trenutna MIUI verzija je spremenjena</string>
