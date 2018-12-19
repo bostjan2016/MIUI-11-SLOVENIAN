@@ -7127,6 +7127,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">Nekatere storitve zaščite naprave ne bodo delovala brez vašega gesla.</string>
   <string name="turn_off_keyguard_password_wait_dialog">Izklop gesla…</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">"Po izključitvi gesla zakl. zaslona bodo podatki o obrazu izbrisani. Ne boste mogli odkleniti z obrazom."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo zakl. zaslona bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Po izključitvi gesla zakl. zaslona se bodo zbrisali prstni odtisi in napravo ne boste mogli odkleniti s pomočjo prstnih odtisov."</string>

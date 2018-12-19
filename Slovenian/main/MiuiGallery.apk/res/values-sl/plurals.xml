@@ -244,6 +244,10 @@
          <item quantity="other">Nadaljuj z izdelavo var. kopije čez %d ur</item>
          <item quantity="one">Nadaljuj z izdelavo var. kopije čez %d uro</item>
      </plurals>
+	 <plurals name="backup_file_over_size_title">
+         <item quantity="other">%d stvari je preveliko za shranjevanje</item>
+         <item quantity="one">%d stvar je prevelika za shranjevanje</item>
+     </plurals>
      <plurals name="backup_pause_desc">
          <item quantity="other">%d fotografij ali videoposnetkov | Zaustavljeno</item>
          <item quantity="one">%d fotografija ali videoposnetek | Zaustavljen</item>
@@ -263,6 +267,10 @@
      <plurals name="sync_error_title">
          <item quantity="other">Ni shranjeno %d fotografij ali videoposnetkov</item>
          <item quantity="one">Ni shranjena %d fotografija ali videoposnetek</item>
+     </plurals>
+	 <plurals name="sync_oversized_count">
+         <item quantity="other">%d stvari je preveliko za shranjevanje</item>
+         <item quantity="one">%d stvar je prevelika za shranjevanje</item>
      </plurals>
      <plurals name="sync_total_count">
          <item quantity="other">Stvari: %d</item>
