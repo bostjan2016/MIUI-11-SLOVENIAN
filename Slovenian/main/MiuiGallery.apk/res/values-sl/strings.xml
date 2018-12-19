@@ -308,7 +308,7 @@
   <string name="collage_poster_global_tea_text">ČAS ZA ČAJ</string>
   <string name="collage_ratio_text">Razmerje slike</string>
   <string name="collage_rotate">Rotiraj</string>
-  <string name="collage_select_image_range">Kolaži lahko vsebujejo 1-4 fotografij</string>
+  <string name="collage_select_image_range">Kolaži lahko vsebujejo 1-6 fotografij</string>
   <string name="collage_title_layout">Razpored</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collage_title_stitching">Filmska rola</string>

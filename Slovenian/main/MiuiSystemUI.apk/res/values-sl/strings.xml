@@ -626,7 +626,7 @@ hitrost vzorčenja"</string>
   <string name="dock_forced_resizable">Aplikacija morda ne bo delovala v deljenem zaslonu</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Deljeni zaslon ni podprt na zakl. zaslonu.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Ta aplikacija ne podpira deljeni zaslon</string>
-  <string name="download_lock_wallpaper">Tapnite dvakrat da prenesete aplikacijo Glasba</string>
+  <string name="download_lock_wallpaper">Tapnite dvakrat da prenesete aplikacijo Wallpaper Carousel</string>
   <string name="drag_to_add_tiles">Pritisnite in držite da boste dodali ali zamenjali razpored stvari</string>
   <string name="drag_to_remove_disabled">Potrebno je vsaj 6 ploščic</string>
   <string name="drag_to_remove_tiles">Podrsajte tu za odstranitev</string>
@@ -955,7 +955,7 @@ Uporabite priloženi polnilnik."</string>
   <string name="keyguard_left_buscard">Beležke</string>
   <string name="keyguard_left_smarthome">Stiki</string>
   <string name="keyguard_left_torch">Svetilka</string>
-  <string name="keyguard_left_view_lock_wallpaper">Glasba</string>
+  <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
     <string name="keyguard_low_battery">Priključite napajalnik.</string>
     <string name="keyguard_missing_sim_instructions">Vstavite kartico SIM.</string>
     <string name="keyguard_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
