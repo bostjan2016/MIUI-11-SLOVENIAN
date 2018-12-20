@@ -1718,7 +1718,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="not_limited_brand">Neomejeno</string>
   <string name="note_call_none">Ni klicev</string>
   <string name="note_keyword_none">Nema ključnih besed</string>
-i  <string name="note_list_none">Seznam je prazen</string>
+  <string name="note_list_none">Seznam je prazen</string>
   <string name="note_sms_none">Ni sporočil</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več od %s</string>
