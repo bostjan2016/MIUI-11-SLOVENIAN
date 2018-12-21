@@ -779,6 +779,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_manual_exposure_title">čas ekspozicije</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Lahko snemate samo 720P videoposnetke z 240FPS</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
+  <string name="pref_privacy_title">Pravila o zasebnosti</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_retain_camera_mode_summary">Premaknite kamero na zadnji uporabljen način ko odprete aplikacijo.</string>
   <string name="pref_retain_camera_mode_title">Shrani zadnji način</string>

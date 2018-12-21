@@ -149,8 +149,9 @@
   <string name="bookmark_add_to">Dodaj</string>
   <string name="bookmark_btn_select_all">Izberi vse</string>
   <string name="bookmark_btn_select_none">Prekliči vse</string>
-  <string name="bookmark_cannot_save_url">Povezave ni mogoče dodati med zaznamke.</string>
+  <string name="bookmark_cannot_save_url">"Povezave ni mogoče dodati med zaznamke."</string>
   <string name="bookmark_deleted">Izbriši zaznamek</string>
+  <string name="bookmark_error_page_title">Prišlo je do napake</string>
   <string name="bookmark_folder_needs_title">Vpiši ime mape</string>
   <string name="bookmark_group_lable">Skupina</string>
   <string name="bookmark_move_to">Premesti v</string>
@@ -191,6 +192,7 @@
   <string name="check_permission_of_current_url">Povezave obiskanih spletnih strani</string>
   <string name="check_security_tip_privacy_policy">Pravila o zasebnosti</string>
   <string name="check_security_tip_user_agreement">Pogoji uporabe</string>
+  <string name="checking_now">Preverjanje…</string>
   <string name="choosertitle_sharevia">Deli preko</string>
   <string name="clear_history">Počisti zgodovino</string>
   <string name="clear_most_visited">Nedavno</string>
@@ -234,6 +236,7 @@
   <string name="comment_max_length">Vhodna pošta je polna.</string>
   <string name="comment_menu">Komentar</string>
   <string name="comment_num_description">Število kometarjev</string>
+  <string name="comment_publish_to_topic">Komentarji sinhr. na</string>
   <string name="common_use_phrase_bottom_bar_text_next">Naprej</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Prejšnja</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -270,6 +273,7 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Vedno verjamite da se bo nekaj
 lepega zgodilo"</string>
+  <string name="custom_head_content_pull_down_text">Potegni dol</string>
   <string name="custom_head_pull_down_text">Vnesite infoFlow</string>
   <string name="custom_head_card_text_incognito">"Zdaj ste anonimni!
 Strani ki jih gledate ne bodo v zgodovini.​"</string>
@@ -309,7 +313,9 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="dialog_insufficient_space_on_external">Ni dovolj prostora na zunanjem pomnilniku</string>
   <string name="dialog_media_not_found">"Ne morem prenesti, ni najdenega zunanjega pomnilnika"</string>
   <string name="dialog_queued_body">Ta datoteka je v vrsti čakanja na prenos.</string>
+  <string name="dialog_recovery_tabs_action">Tapni za vrnitev</string>
   <string name="dialog_recovery_tabs_disc">Odkrivanje neodkritih strani zahteva popolno obnovitev.</string>
+  <string name="dialog_recovery_tabs_tip">Najdi web-prikaz ni bil zaprt zadnjič</string>
   <string name="dialog_recovery_tabs_title">Odpri stran pred obnovitvijo</string>
   <string name="dialog_title_not_available">"Ne morem prenesti"</string>
   <string name="dialog_title_queued_body">Datoteka še ni dostopna</string>
@@ -671,6 +677,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="month_picker_dialog_title">Nastavi mesec</string>
   <string name="more_description">Meni</string>
   <string name="more_option">Več možnosti</string>
+  <string name="movie_player_3g_tip_retry">Nadaljuj</string>
+  <string name="movie_player_loading">Kmalu prihaja: %s</string>
   <string name="mw_abc_action_bar_home_description">Na začetno</string>
   <string name="mw_abc_action_bar_up_description">Gor</string>
   <string name="mw_abc_action_menu_overflow_description">Dodatne možnosti</string>
@@ -1081,6 +1089,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Prekliči</string>
   <string name="navigationbar_rightbutton_actiontext_go">Začni</string>
   <string name="navigationbar_rightbutton_actiontext_search">Išči</string>
+  <string name="network_error_tips">Omrežna napaka, poskusite ponovno</string>
   <string name="network_not_available_comment">Ni povezave, ni možno komentirati</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Najden je WiFi hotspot v bližini. Se poskusim povezati?</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostopno je WiFi omrežje</string>
@@ -1125,11 +1134,18 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="permission_unknown">Neznano opravilo</string>
   <string name="permissions_prompt_message">%s želi</string>
   <string name="play_pause_video">Predvajaj ali zaustavi videoposnetek</string>
+  <string name="play_retry">Predvajaj spet</string>
   <string name="play_video">Predvajaj videoposnetek</string>
+  <string name="player_3g_tip_sub_title">Predvajanje lahko povzroči dodatne stroške</string>
+  <string name="player_3g_tip_title">Trenutno se uporablja mobilno omrežje, nadaljevanje predvajanja bo povzročilo dodatne stroške uporabe</string>
+  <string name="player_data_error_tip">Videposnetek trenutno ni na voljo. Poskusite kasneje</string>
+  <string name="player_net_error">Niste povezani na omrežje, preverite omrežne nastavitve</string>
+  <string name="player_no_data">Žal mi je! Tega posnetka ni več.</string>
   <string name="popup_video">Videoposnetek v pojavnem oknu</string>
   <string name="popup_window_attempt">Dovolim tej strani da odpre pojavno okno?</string>
   <string name="positive_confirm_message">Izključi vseeno</string>
   <string name="pref_accept_quicklink_push">Novice</string>
+  <string name="pref_accessibility_recommending_search_title">Priporočeno iskanje</string>
   <string name="pref_accessibility">Dostopnost</string>
   <string name="pref_accessibility_title">Dostopnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Skupne kombinacije črk se lahko v naslovni vrstici vnesejo z enim pritiskom</string>
@@ -1244,7 +1260,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="profiler_started_toast">Profiler se je zagnal</string>
   <string name="profiler_stopped_toast">Profiler je je končal. Rezultati shranjeni v %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Nastavitev ozadja...</string>
-  <string name="publish_to_topic">Objaviti v temi</string>
+  <string name="pull_refresh_begin">Podrsaj dol za osvežitev</string>
+  <string name="pull_refresh_end">Spusti za osvežitev</string>
+  <string name="pull_refresh_refreshing">Osvežujem</string>
   <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>
   <string name="pwa_app_name">Spletna aplikacija</string>
@@ -1278,7 +1296,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="readmode_recommend_message">To knjigo ste že prebrali. Izberite drugo</string>
   <string name="readmode_refresh">Osveži</string>
   <string name="readmodelist_bookmarks_to_show">Bralni seznam</string>
+  <string name="recommending_close_toast_text">Nastavite to storitev v naprednim nastavitvah</string>
   <string name="refresh_description">Osveži</string>
+  <string name="refresh_text">Osveži</string>
   <string name="refuse_permissions_request">Omeji</string>
   <string name="remember_passwords_confirm_message">Izklop tega opravila lahko vpliva na porabo.</string>
   <string name="remove_bookmark">Izbriši zaznamek</string>
@@ -1332,7 +1352,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="search_dianping">Cate</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
-  <string name="search_hint">Išči</string>
+  <string name="search_hint">Vnesite tekst za iskanje</string>
   <string name="search_keyword_browser">Brskalnik</string>
   <string name="search_label">Brskalnik</string>
   <string name="search_menu_title">Išči</string>
@@ -1376,6 +1396,13 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči to verzijo</string>
   <string name="slide_guide">Podrsaj za nazaj</string>
+  <string name="small_video_boba_tab">Predvajaj</string>
+  <string name="small_video_load_failed">Ne morem prebrati</string>
+  <string name="small_video_loading">Nalaganje…</string>
+  <string name="small_video_main_tab">Pripročeno</string>
+  <string name="small_video_native_tab">Mali videoposnetki</string>
+  <string name="small_video_net_error">Napaka povezave</string>
+  <string name="small_video_no_more_date">Ni podatkov</string>
   <string name="snapshot">Lokalno</string>
   <string name="snapshot_failed">"Ni bilo mogoče shraniti strani"</string>
   <string name="snapshot_successed">Odpri Oznake &amp; Zgodovina -&gt; LOKALNO za prikaz strani</string>
@@ -1489,7 +1516,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="unsecurity_url_toast">"Ta spletna stran ni varna"</string>
   <string name="up_to_loading_tips">Spusti za osvežitev</string>
   <string name="update_no_network_toast">"Ne morem se povezati na omrežje"</string>
-  <string name="updating_chrome">Posodabljanje Chrome...</string>
+  <string name="updating_chrome">Posodabljanje Chrome…</string>
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
   <string name="url_copy_done">Povezava je kopirana v odložišče</string>
   <string name="url_find_on_page_result">Odpri v brskalniku</string>
@@ -1500,8 +1527,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="url_opened_in_background">Odpri zavihek v ozadju</string>
   <string name="url_suggest_indicator_bookmark">Zaznamki/zgodovina</string>
   <string name="url_suggest_indicator_hoturl">Popularno</string>
-  <string name="url_suggest_indicator_mostvisited">Najbolj obiskane</string>
-  <string name="use_cellular_network_alert_message">Ni WiFi omrežja. Uporabim podatkovni prenos?</string>
+  <string name="url_suggest_indicator_mostvisited">Najbolj obiskano</string>
+  <string name="use_cellular_network_alert_message">"Ni WiFi omrežja. Uporabim podatkovni prenos?"</string>
   <string name="use_cellular_network_alert_title">Uporaba podatkov</string>
   <string name="user_defined_webpage">Dodaj na začetno stran</string>
   <string name="user_defined_webpage_title">Dodaj na začetno stran</string>

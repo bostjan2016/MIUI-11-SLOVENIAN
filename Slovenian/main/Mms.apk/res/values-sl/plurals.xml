@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Izbrišem izbrane razgovore: %1$s?</item>
-        <item quantity="one">Izbrišem %1$s razgovor?</item>
+        <item quantity="other">Izbrišem &lt;g example="15" id="number">%1$s&lt;/g> izbrane razgovore?</item>
+        <item quantity="one">Izbrišem ta razgovor?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d sek</item>

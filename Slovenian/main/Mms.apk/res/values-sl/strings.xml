@@ -29,6 +29,8 @@
   <string name="adding_recipients">Dodajanje prejemnikov...</string>
   <string name="alert_dlg_cancel_button">Prekini</string>
   <string name="alert_dlg_ok_button">V redu</string>
+  <string name="allow_network_hint">Vključi \"Samodejno posodobi informacije\" ali preverite omrežno povezavo</string>
+  <string name="already_updated">Vse je posodobljeno</string>
   <string name="already_followed">"To številko že spremljate"</string>
   <string name="app_label">Sporočila</string>
   <string name="app_name">Naprave</string>
@@ -60,7 +62,8 @@
   <string name="bookmark_confirm_delete_message">Odznačim izbrana sporočila?</string>
   <string name="bookmark_empty">Ni  sporočil</string>
   <string name="bookmark_list_title">Priljubljeno</string>
-  <string name="button_emoji_creature">Animal emojis</string>
+  <string name="button_close">Zapri</string>
+  <string name="button_emoji_creature">Živalski emoji</string>
   <string name="button_emoji_lifestyle">Življenje</string>
   <string name="button_emoji_smiley">Obrazi</string>
   <string name="button_emoji_symbol">Simbol</string>
@@ -84,14 +87,20 @@
   <string name="check_all">Izberi vse</string>
   <string name="chenghu_disable_mms">Ne morete uporabljati vzdevka v MMS</string>
   <string name="class_0_message_activity">Sporočilo razreda 0</string>
+  <string name="click_to_update">Tapnite za preverjanje posodobitve</string>
   <string name="close">Zapri</string>
   <string name="cloud_recommend_msg">Dotaknite se za sinhr. sporočil z Mi Cloudom.</string>
   <string name="cloud_state_disabled">Vključite sinhr. z Mi Cloudom da sinhronizirate sporočila</string>
   <string name="cloud_state_sync_finished">Sinhr. z Mi Cloudom</string>
   <string name="cloud_state_syncing">Sinhr. z Mi Cloud…</string>
+  <string name="cm_privacy_dialog_allow">Strinjam se</string>
+  <string name="cm_privacy_dialog_cancel">Prekliči</string>
+  <string name="cm_privacy_dialog_spannable_tips">Pravila o zasebnosti</string>
+  <string name="cm_privacy_dialog_tips">"Storitev pametnih sporočil ponuja vaš mobilni operater. Sporočila se morajo povezati na splet in dostopiti do vaše lokacije za nemoteno delovanje storitve. Pred začetkom uprabe se morate strinjati z %1s vašega mob. operaterja. Se strinjate?"</string>
+  <string name="cm_privacy_dialog_title">Pozor</string>
   <string name="complain_input_number">Vnesite številko telefona</string>
   <string name="complain_jump">Preskoči</string>
-  <string name="complain_message_title">Pritožba</string>
+  <string name="complain_message_title">Prijavi</string>
   <string name="complain_ok">V redu</string>
   <string name="complain_phone_number">Številka telefona</string>
   <string name="complain_reason">Zakaj prijavljate to sporočilo?</string>
@@ -148,7 +157,8 @@
   <string name="copy_to_sdcard">Shrani priponko</string>
   <string name="copy_to_sdcard_fail">Priponke ni mogoče shraniti</string>
   <string name="copy_to_sdcard_success">Priponka shranjena</string>
-  <string name="database_corruption">Popravljam...</string>
+  <string name="current_data_version">Verzija Mi sporočil</string>
+  <string name="database_corruption">Popravljam…</string>
   <string name="del_private_contact">Odstrani vse zasebne stike</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Odznači</string>
@@ -287,6 +297,7 @@
   <string name="hybrid_service_unavailiable">"Storitev ni dostopna"</string>
   <string name="hybrid_try_again">Poskusite ponovno</string>
   <string name="i_know">Razumem</string>
+  <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvažam...</string>
   <string name="in_sms">Sporočilo</string>
   <string name="insufficient_drm_rights">Zaznane nezadostne DRM pravice.</string>
@@ -345,8 +356,10 @@
   <string name="message_too_big_for_video">Sporočilo je preveliko za priložitev videa.</string>
   <string name="message_type_label">Vrsta:</string>
   <string name="messagelist_sender_self">Jaz</string>
+  <string name="messaging">Sporočila</string>
   <string name="mipub_messaging_entry_title">Mi sporočilo</string>
   <string name="mms">MMS</string>
+  <string name="more">Več</string>
   <string name="move_down">Potegni dol</string>
   <string name="move_up">Potegni gor</string>
   <string name="msg_no_member_selected">Izberite vsaj en stik</string>
@@ -413,6 +426,7 @@
   <string name="mx_filter_message_from_stranger_dialog_desc">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk. To lahko vključite/izključite kadarkoli v Sporočila &gt; Nastavitve."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokiraj Mi sporočila pred neznanimi številkami</string>
   <string name="mx_filter_message_from_stranger_summary">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk"</string>
+  <string name="mx_message">Mi sporočila</string>
   <string name="mx_msg">Mi Sporočila</string>
   <string name="mx_msg_pageview_setting_title">Nastavitve Mi sporočil</string>
   <string name="mx_offline">Brez omrežja</string>
@@ -424,6 +438,8 @@
   <string name="mx_stranger_recommend_msg">Pritisni za blokiranje Mi Sporočil iz neznanih številk</string>
   <string name="mx_type_guide">Mi sporočila vam ponuja pošiljanje sporočil drugim MIUI uporabnikom brez stroškov.</string>
   <string name="need_download">Sinhroniziram…</string>
+  <string name="net_sms_subscribed">Uspešno predplačano</string>
+  <string name="net_sms_unsubscribe">Predplačilo odložen</string>
   <string name="network_error_description">Napaka omrežja. Počakajte trenutak ali dva in poskusite ponovno.</string>
   <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">Dovoli</string>
@@ -464,6 +480,7 @@
   <string name="open_url_with_web">Odprem povezavo v Brskalniku?</string>
   <string name="over_max_mms_size">MMS sporočilo je preveliko.</string>
   <string name="overwrite_edited_content">Vsebina ki ste jo vnesli bo prepisana, ali nadaljujem?</string>
+  <string name="packages_select_sim_cards_title">Izberite SIM kartico</string>
   <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
   <string name="phrase_confirm_delete_message">Ta odgovor bo izbrisan</string>
   <string name="phrase_empty">Ni odgovorov</string>
@@ -630,6 +647,9 @@
   <string name="remove_slide">Odstrani diapozitiv</string>
   <string name="remove_text">Odstrani besedilo</string>
   <string name="remove_video">Odstrani video</string>
+  <string name="repayment_network_error">Napaka omrežja</string>
+  <string name="repayment_title">Odšlačilo</string>
+  <string name="repayment_way">Način odplačila</string>
   <string name="replace">Zamenjaj</string>
   <string name="replace_image">Zamenjaj fotografijo</string>
   <string name="reply_button_msg">Odgovori</string>
@@ -687,8 +707,10 @@
   <string name="security_alert_dialog_title">Prijavi</string>
   <string name="select_audio">Izberi zvok</string>
   <string name="select_bottom_text">Besedilo na dnu</string>
-  <string name="select_copy_text">Izberite in kopirajte tekst sporočila</string>
-  <string name="select_different_media">Izberi drugačno %1$s.</string>
+  <string name="select_different_attachment">Izberite drugo priponko.</string>
+  <string name="select_different_audio">Izberite drug zvok.</string>
+  <string name="select_different_picture">Izberite drugo sliko.</string>
+  <string name="select_different_video">Izberite drug videoposnetek.</string>
   <string name="select_link_title">Izberi dejanje</string>
   <string name="select_local_audio">Izberi zvok</string>
   <string name="select_local_video">Izberi video</string>
@@ -723,6 +745,8 @@
   <string name="show_all_messages">Prikaži vsa sporočila</string>
   <string name="show_delivery_status">Prikaži poročila o dostavi</string>
   <string name="show_sender">Prikaži podrobnosti pošiljatelja</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sim_card1">SIM kartica 1</string>
   <string name="sim_card2">Sim kartica 2</string>
   <string name="sim_card_cloud">%s (Mi sporočil)</string>
@@ -737,6 +761,8 @@
   <string name="slide_show_part">Del %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Podrsajte navzgor za preklic</string>
   <string name="slideshow_activity">Diaprojekcija</string>
+  <string name="smart_messages_network_allow_message">Mi sporočila potrebuje povezavo na splet. Dovolim?</string>
+  <string name="smart_messages_network_allow_title">Spletna povezava je obvezna</string>
   <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Vsebina sporočila</string>
@@ -787,6 +813,8 @@
   <string name="storage_unavailable">Ni dostopnega prostora</string>
   <string name="subject_hint">Predmet</string>
   <string name="subject_label">"Predmet: "</string>
+  <string name="subscribe">Naroči se</string>
+  <string name="summary_pref_cm_smart_sms">Predloge kartic, številke SMS storitev in še več.</string>
   <string name="switch_to_editor">Urejanje</string>
   <string name="switch_to_menu">Meni</string>
   <string name="text_in_popup_saved_to_clipboard">Kopirano v odlagališče</string>
@@ -834,6 +862,7 @@
   <string name="unsticked_conversation">Pogovor je že odpet</string>
   <string name="unsubscribe">Odpovej</string>
   <string name="unsupported_media_format">Nepodprt %1$s format.</string>
+  <string name="updating">Posodabljanje…</string>
   <string name="url_fraud_dangerous_alert">Spletna stran ki jo poskušate obiskati je mogoče lažna, ali ste prepričani da želite nadaljevati?
 %s"</string>
   <string name="url_fraud_insurance">varovanje pred prevarami</string>

@@ -45,6 +45,7 @@
   <string name="accessibility_action_divider_top_full">Vrh cel zaslon</string>
   <string name="accessibility_airplane_mode">Letalo</string>
   <string name="accessibility_ambient_display_charging">Polnjenje</string>
+  <string name="accessibility_aspect_button">Cel zaslon</string>
   <string name="accessibility_assistant">Asistent na dotik.</string>
   <string name="accessibility_back">Nazaj</string>
   <string name="accessibility_battery_details">Odpiranje podrobnosti o bateriji</string>
@@ -314,6 +315,10 @@
   <string name="appops_overlay">Ta aplikacija se prikazuje preko drugih aplikacij na zaslonu.</string>
   <string name="as_important">Pomembno</string>
   <string name="as_unimportant">Nepomembno</string>
+  <string name="aspect_cancel">Prekliči</string>
+  <string name="aspect_message">Aplikacija bo ponovno zaganana v načinu cel zaslon. V primeru težav izključite način crl zaslona za to aplikacijo v Nastavitve &gt; Prikaz preko celega zaslona &gt; Cel zaslon.</string>
+  <string name="aspect_ok">V redu</string>
+  <string name="aspect_title">Način cel zaslon</string>
   <string name="audio_effect_custom">Nastavi</string>
   <string name="audio_effect_info">Optimiziraj avdio</string>
   <string name="audio_effect_settings">Določi tip slušalk</string>
