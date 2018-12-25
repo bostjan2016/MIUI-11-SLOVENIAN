@@ -31,6 +31,10 @@
     <plurals name="auto_silence_summary">
         <item quantity="other">Alarm bo izključil čez %d minut</item>
         <item quantity="one">Alarm se bo izključil čez %d minuto</item>
+    </plurals>
+	<plurals name="day">
+         <item quantity="other">%d dni</item>
+         <item quantity="one">%d dan</item>
      </plurals>
 	<plurals name="delete_alarm_confirm">
          <item quantity="other">Odstranim izbrane alarme?</item>
@@ -40,6 +44,18 @@
          <item quantity="other">Izbrišem izbrane časovne pasove?</item>
          <item quantity="one">Izbrišem ta časovni pas?</item>
     </plurals>
+	<plurals name="hour">
+         <item quantity="other">%d ur</item>
+         <item quantity="one">%d ura</item>
+     </plurals>
+     <plurals name="life_post_wake_up_item_acumu_day">
+         <item quantity="other">%1$d dni</item>
+         <item quantity="one">%1$d dan</item>
+     </plurals>
+     <plurals name="minute">
+         <item quantity="other">%d min.</item>
+         <item quantity="one">%d min.</item>
+     </plurals>
 	<plurals name="second">
         <item quantity="other">%d sek</item>
         <item quantity="one">%d sek</item>

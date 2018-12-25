@@ -5912,6 +5912,8 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="set_data_limit">Nastavi omejitev podatkov</string>
   <string name="set_data_time_range">Prikaži časovni razpon</string>
     <string name="set_data_warning">Nastavi opozorilo za prenos podatkov</string>
+  <string name="set_jeejen_prompt_message">Jeejen bo nastavljen za privzeti zaganjalnik. To lahko spremenite v Nastavitve &gt; Sistemske nastavitve &gt; Zač. zaslon &amp; Nedavno &gt; Privzeti zaganjalnik.</string>
+  <string name="set_jeejen_prompt_title">Potrdi spremembe</string>
   <string name="set_password_action">Nastavi geslo</string>
   <string name="set_password_message">Nastavi geslo za izključitev Otroškega načina kot tudi za odklepanje te naprave.</string>
   <string name="set_password_title">Nastavi geslo</string>
@@ -8311,6 +8313,9 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="work_profile_usage_access_warning">Če za to aplikacijo izklopite dostop do podatkov o uporabi lahko vaš skrbnik kljub temu spremlja podatke o uporabi za aplikacije v vašem delovnem profilu.</string>
     <string name="work_ringtone_title">Delovni ton zvonjenja</string>
   <string name="work_sim_title">Delovna kartica SIM</string>
+  <string name="work_sound_permission_dialog_button_text_known">Razumem</string>
+  <string name="work_sound_permission_dialog_message">"Ne možete uporabiti Teme v Enterprise načinu. Obrnite se nadzorniku za dostop."</string>
+  <string name="work_sound_permission_dialog_title">Omejitve Enterprise načina</string>
     <string name="work_sound_same_as_personal">Kot v osebnem profilu</string>
   <string name="work_space_delete">Izbriši delovni prostor</string>
   <string name="work_space_delete_confirm">Potrdi brisanje</string>

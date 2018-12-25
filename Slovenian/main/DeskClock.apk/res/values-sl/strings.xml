@@ -37,21 +37,19 @@
   <string name="channel_name_alarm">Alarm</string>
   <string name="channel_name_timer">Odštevanje</string>
   <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena na vaši napravi.</string>
+  <string name="check_voice_assist_app_version">Posodobite Mi AI na najnovejšo verzijo.</string>
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
   <string name="confirm_abort">Zavrzi</string>
   <string name="content_desc_keep_screen">Tipka \"Obdrži zaslon vkl.\"</string>
   <string name="control_set_alarm">Nastavi budilko</string>
   <string name="control_set_alarm_with_existing">Alarm nastavljen: %s</string>
-  <string name="day">1 dan</string>
   <string name="day_concat">", "</string>
-  <string name="days">%d dni</string>
   <string name="default_alarm_alert">Privzeti zvok alarma</string>
   <string name="default_alarm_title">Privzeti zvok alarma</string>
   <string name="default_label">Alarm</string>
   <string name="delete">Izbriši</string>
   <string name="delete_alarm">Izbriši budilko</string>
-  <string name="delete_alarm_confirm">Izbrišem izbran(e) budilko(e)?</string>
   <string name="delete_selected_timer_item">Izbrišem izbrano nalogo štoparice?</string>
   <string name="delete_timer_item_title">Izbriši izbrano opravilo</string>
   <string name="delete_timezone_title">Izbriši časovni pas</string>
@@ -72,9 +70,7 @@
   <string name="force_touch_enter_timer">Kronometer</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Nazaj</string>
-  <string name="hour">1 ura</string>
   <string name="hour_unit">h</string>
-  <string name="hours">%d ur</string>
   <string name="install_weather_app_error">Ne morem naložiti aplikacije.</string>
   <string name="install_weather_app_loading">Samo trenutek…</string>
   <string name="invalid_time">Neveljaven čas: %3$s %1$d: %2$d</string>
@@ -97,7 +93,6 @@
   <string name="life_post_setting_open_title">Sprejmi jutranje poročilo</string>
   <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
   <string name="life_post_wake_up_acumu_day_title">Število dni</string>
-  <string name="life_post_wake_up_item_acumu_day">Dni %1$s</string>
   <string name="life_post_wake_up_item_acumu_day_title">Število dni</string>
   <string name="life_post_wake_up_item_percentage_title">Ljubitelji Mi za vami</string>
   <string name="life_post_wake_up_item_time_title">Čas bujenja</string>
@@ -114,14 +109,12 @@
   <string name="menu_item_dock_settings">Nastavitve postaje</string>
   <string name="menu_item_sort_by_gmt_offset">Razporedi po času</string>
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
-  <string name="minute">1 minuta</string>
-  <string name="minutes">%d min</string>
   <string name="module_download_cancel">Ne, hvala</string>
-  <string name="module_download_data_msg">"Ura se mora povezati na splet za prevzem avdio datoteke (20 MB) za zvoke okolice in pametne alarme. Uporabljate mobilne podatke. Dovolim?”</string>
-  <string name="module_download_data_msg_golbal">"Ura mora prenesti avdio datoteke (20MB) za zvoke in pametne alarme. Uporabljate mobilne podatke. Dovolim?"</string>
+  <string name="module_download_data_msg">"Ura se mora povezati na splet za prevzem avdio datoteke za MIUI 10 časovne alarme in pametne alarme. Uporabljate mobilne podatke. Potrebno bo 20 MB. Dovolim?”</string>
+  <string name="module_download_data_msg_golbal">"Ura mora prenesti avdio datoteke za MIUI 10 časovne alarme in pametne alarme. Uporabljate mobilne podatke. Potrebno bo 20 MB. Dovolim??"</string>
   <string name="module_download_fail">"Ne morem prevzeti dodatni zvok"</string>
-  <string name="module_download_msg">"Ura se mora povezati na splet za prevzem avdio datoteke za zvoke in pametne alarme. Dovolim?</string>
-  <string name="module_download_msg_golbal">Ura mora prenesti avdio datoteke za zvoke in pametne alarme. Dovolim?</string>
+  <string name="module_download_msg">"Ura se mora povezati na splet za prevzem avdio datoteke zaMIUI 10 časovne alarme in pametne alarme. Uporabljate mobilne podatke. Potrebno bo 20 MB. Dovolim??</string>
+  <string name="module_download_msg_golbal">Ura mora prenesti avdio datoteke zaMIUI 10 časovne alarme in pametne alarme. Dovolim?</string>
   <string name="module_download_no_network">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="module_download_ok">Dovoli</string>
   <string name="module_download_success">Uspešno prenešeno</string>
@@ -182,7 +175,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotaknite se zaslona za zaustavitev zvonca</string>
   <string name="timer_alarm_dot_matrix_label">ODŠTEVANJE</string>
-  <string name="timer_alert_alert_silenced">Odštevanje izključeno po %d minutah.</string>
+  <string name="timer_alert_alert_silenced">Odštevanje izključeno po %1$s.</string>
   <string name="timer_alert_mute_off">Alarm se bo oglasil ko se časovnik ustavi</string>
   <string name="timer_alert_mute_on">"Alarm se ne bo oglasil ko se odštevanje ustavi"</string>
   <string name="timer_alert_mute_remind">Tapni za izklop alarma</string>
@@ -236,6 +229,6 @@
   <string name="worldclock_world_time">Časovni pasovi</string>
   <string name="worldcolock_timezone_current">Trenutno: %1$s</string>
   <string name="worldcolock_timezone_date">dd/MM</string>
-  <string name="worldcolock_timezone_gap">Ura</string>
+  <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
 </resources>
