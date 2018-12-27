@@ -358,6 +358,10 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="live_error_confirm">Prilagodi</string>
   <string name="live_error_message">Napaka funkcije</string>
   <string name="live_error_title">Napaka funkcije</string>
+  <string name="live_music_change_bgm">Zamenjaj Glasbo</string>
+  <string name="live_music_close_cancel_message">Prekliči</string>
+  <string name="live_music_close_message">Želite zapreti trenutno glasbo?</string>
+  <string name="live_music_close_sure_message">Zapri</string>
   <string name="live_reverse_confirm">Izbriši</string>
   <string name="live_reverse_message">Izbrišem zadnji segment?</string>
   <string name="live_speed_extreme_fast">Nahitreje</string>

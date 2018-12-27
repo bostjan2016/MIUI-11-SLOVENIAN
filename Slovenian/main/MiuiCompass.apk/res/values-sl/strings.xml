@@ -19,6 +19,7 @@
   <string name="calibrate_success">Kalibrirano</string>
   <string name="calibrate_tip">Nagibajte napravo da ulovite piko v krog</string>
   <string name="calibrate_title">Kalibriranje kompasa</string>
+  <string name="compass_settings">Nastavitve</string>
   <string name="cancel">Prekliči</string>
   <string name="cannot_get_location">--</string>
   <string name="dialog_body_no_network">"Ne morem se povezati na omrežje"</string>
