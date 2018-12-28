@@ -2686,8 +2686,8 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="font_size_summary">"Zamenjajte velikost fontov teksta začetnega zaslona, plošče obvestil, tipkovnice in sistemskega menija.    
 
 "</string>
-  <string name="font_size_summary1">Če je besedilo vašega sistema še vedno premajhno poskusite</string>
-  <string name="font_size_summary2"/>
+  <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
+  <string name="font_size_summary2">Lite način.</string>
   <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
   <string name="force_allow_on_external">Prisilno dovoli aplikacijam zapis v zunanji pomnilnik</string>
   <string name="force_allow_on_external_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsako aplikacijo zapisati v zunanjo shrambo</string>
