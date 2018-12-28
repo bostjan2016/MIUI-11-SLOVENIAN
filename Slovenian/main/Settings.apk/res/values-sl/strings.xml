@@ -2681,12 +2681,12 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="font_size_preview_text_headline">Vzorec besedila</string>
   <string name="font_size_preview_text_subtitle">11. poglavje: Čudovito Smaragdno mesto</string>
   <string name="font_size_preview_text_title">Čarovnik iz Oza</string>
-  <string name="font_size_save">"V redu"</string>
+  <string name="font_size_save">V redu</string>
   <string name="font_size_small">Majhno</string>
   <string name="font_size_summary">"Zamenjajte velikost fontov teksta začetnega zaslona, plošče obvestil, tipkovnice in sistemskega menija.    
 
 "</string>
-  <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
+  <string name="font_size_summary1">Če je besedilo vašega sistema še vedno premajhno poskusite</string>
   <string name="font_size_summary2"/>
   <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
   <string name="force_allow_on_external">Prisilno dovoli aplikacijam zapis v zunanji pomnilnik</string>
@@ -2695,7 +2695,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="force_hw_ui_summary">Za risanje 2D vsili uporabo grafičnega procesorja</string>
   <string name="force_immersive_compatibility_dont_hide">"Ne skrivaj"</string>
   <string name="force_immersive_compatibility_hide">Skrij</string>
-  <string name="force_immersive_compatibility_hint_message">Nekatere aplikacije mogoče ne bodo delovala pravilno če izbereti Skrij tipke zaslona.</string>
+  <string name="force_immersive_compatibility_hint_message">Nekatere aplikacije mogoče ne bodo delovale pravilno če izbereti Skrij tipke zaslona.</string>
   <string name="force_immersive_compatibility_hint_title">Težave s kompatibilnostjo</string>
   <string name="force_msaa">Vsili 4x MSAA</string>
   <string name="force_msaa_summary">V aplikacijah OpenGL ES 2.0 omogoči 4x MSAA</string>
