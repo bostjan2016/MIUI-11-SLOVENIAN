@@ -96,7 +96,7 @@
   <string name="corpus_label_global">Vse</string>
   <string name="corpus_label_web">Priporočila</string>
   <string name="corpus_selection_heading">Iskanje</string>
-  <string name="cta_declaration">"Morate sprejeti naš #Uporabniški sporazum# in #Pravila o zasebnosti# pred začetkom brskanja. Ta aplikacija potrebuje spletni dostop, podatke o lokaciji, stikih in sporočilih za normalno delovanje."</string>
+  <string name="cta_declaration">"Morate sprejeti naše #Pogoji uporabe# in #Pravila o zasebnosti# pred začetkom brskanja. Ta aplikacija potrebuje spletni dostop, podatke o lokaciji, stikih in sporočilih za normalno delovanje."</string>
   <string name="cta_declaration_ignore">"Ne kaži več"</string>
   <string name="cta_declaration_negative_text">Izhod</string>
   <string name="cta_declaration_positive_text">Sprejmi in nadaljuj</string>

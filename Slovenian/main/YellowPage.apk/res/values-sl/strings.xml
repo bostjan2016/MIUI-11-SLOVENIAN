@@ -592,8 +592,8 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="upload_and_verify_fraud_num_off">Ne deli informacij o neželjenih klicih</string>
   <string name="upload_and_verify_fraud_num_on">Deli informacije o neželjenih klicih</string>
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
-  <string name="user_agreement2">Sporazum o uporabniku</string>
-  <string name="user_agreement4">Politiko zasebnosti</string>
+  <string name="user_agreement2">Pogoji uporabe</string>
+  <string name="user_agreement4">Pravila o zasebnosti</string>
   <string name="user_notice_identify_summary_format">"Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev ko boste povezani z omrežjem WiFi. Z uporabo pristanete na naš %1$s in %2$s."</string>
   <string name="user_notice_identify_summary_format_cta">"Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev ko boste povezani z omrežjem WiFi. Z uporabo pristanete na naš %1$s in %2$s."</string>
   <string name="user_notice_title">Pripomba</string>

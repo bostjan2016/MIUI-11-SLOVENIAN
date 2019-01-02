@@ -63,8 +63,8 @@
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
   <string name="birthday_event_description_default">"%1$s %4$s, %2$s. %3$s"</string>
   <string name="birthday_event_description_special">"%1$s ima %2$s %3$s %4$s %5$s"</string>
-  <string name="birthday_event_description_today">Danes ima</string>
-  <string name="birthday_event_description_tomorrow">Jutri bo</string>
+  <string name="birthday_event_description_today">Danes</string>
+  <string name="birthday_event_description_tomorrow">Jutri</string>
   <string name="birthday_event_description_yesterday">Včeraj je bil</string>
   <string name="birthday_event_title_suffix">" ima rojstni dan"</string>
   <string name="birthday_metric">-letno</string>

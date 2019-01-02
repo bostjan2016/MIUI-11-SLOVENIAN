@@ -73,7 +73,7 @@
   <string name="mipay_check_sms_captcha_wait">%1$ssek</string>
   <string name="mipay_choose_expiration_date">Izberite datum izteka</string>
   <string name="mipay_choose_method_latest">Zadnjič uporabljeno:</string>
-  <string name="mipay_common_license">Uporabniški sporazum</string>
+  <string name="mipay_common_license">Pogoji uporabe</string>
   <string name="mipay_counter_app_name">Bančne kartice</string>
   <string name="mipay_create_order_progress">Oblikovanje naročila…</string>
   <string name="mipay_date_picker_label_month"/>
