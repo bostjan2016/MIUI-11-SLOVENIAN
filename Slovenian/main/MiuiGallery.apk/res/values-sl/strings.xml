@@ -240,6 +240,9 @@
   <string name="change_to_face_mode">Prikaži samo obraz</string>
   <string name="change_to_photo_mode">Prikaži celoten pregled</string>
   <string name="change_to_visible">Vrnem osebo?</string>
+  <string name="channel_default_name">Nove storitve</string>
+  <string name="channel_low_name">Nova sporočila</string>
+  <string name="channel_min_name">Obvestila aplikacije</string>
   <string name="checked">Izbrano</string>
   <string name="checked_something">Izbrano %s</string>
   <string name="choose_baby_sexy">Spol</string>
@@ -573,15 +576,19 @@ Napravite več fotografij vaših prijateljev!"</string>
 za fotografije"</string>
   <string name="feature_guidance_video_editor_smart_effects">Dostopni so novi efekti</string>
   <string name="filllight">Dopolnilna svetloba</string>
+  <string name="filter_bi_bw">B&amp;W</string>
+  <string name="filter_bi_dusk">Zora</string>
+  <string name="filter_bi_lilt">Lilt</string>
   <string name="filter_bi_memory">Spomin</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Pink</string>
   <string name="filter_bi_portrait">Portret</string>
   <string name="filter_bi_retro">Retro</string>
   <string name="filter_bi_romantic">Romantika</string>
+  <string name="filter_bi_sepia">Sepia</string>
   <string name="filter_bi_strong">Močno</string>
   <string name="filter_bi_sunny">Sončno</string>
-  <string name="filter_bi_sweet">Slatko</string>
+  <string name="filter_bi_tea">Čaj</string>
   <string name="filter_bi_warm">Toplo</string>
   <string name="filter_bi_young">Mlado</string>
   <string name="filter_category_film">Film</string>
@@ -779,6 +786,7 @@ za fotografije"</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face">Več oseb ki so si podobne</string>
   <string name="more_face_album_name">Več oseb</string>
+  <string name="motion_photo_play">Predvajaj</string>
   <string name="move_to_other_albums_tip">Premestim ta album v album Ostalo?</string>
   <string name="movie_add_disable">Lahko izberete do 20 fotografij</string>
   <string name="movie_audio_custom">Lokalno</string>
@@ -791,6 +799,10 @@ za fotografije"</string>
   <string name="movie_audio_sport">Techno</string>
   <string name="movie_cancel_download">Prekliči</string>
   <string name="movie_change_to_long_video">Izbrali ste več kot 5 fotografij. Spremenjeno na videoposnetek.</string>
+  <string name="movie_content_describe_add">Dodaj fotografije</string>
+  <string name="movie_content_describe_delete">Izbriši fotografije</string>
+  <string name="movie_content_describe_pause">Premor</string>
+  <string name="movie_content_describe_play">Predvajaj</string>
   <string name="movie_delete_disable">Za izdelavo izsečka morate izbrati najmanj 3 fotografije.</string>
   <string name="movie_download">Prenesi</string>
   <string name="movie_download_failed">"Ne morem prenesti"</string>

@@ -586,6 +586,7 @@ hitrost vzorčenja"</string>
   <string name="description_direction_up">Podrsaj navzgor za %s.</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_reject">Zavrni</string>
+  <string name="description_image_icon_sim_card">SIM Kartica %1$d</string>
   <string name="description_target_search">Išči</string>
   <string name="dessert_case">Izložba slaščic</string>
   <string name="dev_logpersist_clear_warning_message">Kadar prekinemo spremljanje s pomočjo stalnega zapisovalca bomo morali zbrisati podatke zapisovalca ki se nahajajo na napravi.</string>
@@ -1802,6 +1803,7 @@ morda nadzira"</string>
     <string name="stream_system">Sistem</string>
   <string name="stream_system_enforced">Prenesi preko sistema</string>
   <string name="stream_tts">Prenesi preko zvočnika</string>
+  <string name="stream_voice_assist">Voice Assist</string>
     <string name="stream_voice_call">Klic</string>
     <string name="strict_mode">Strog način je omogočen</string>
     <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti</string>
@@ -1978,6 +1980,9 @@ Telefon lahko postane prevroč ob:
   <string name="usb_notification_mtp_ticker_text">USB Povezan (Datoteke)</string>
   <string name="usb_notification_ptp_info">Dostop do fotografij shranjenih v tej napravi</string>
   <string name="usb_notification_ptp_ticker_text">USB Povezan (Fotografije)</string>
+  <string name="usb_port_overheated_dialog_content">Polnilec za polnjenje je pregret. Izključite polnilec iz naprave in preverite če je priključek za polnjenje čist. Za vprašanja kontraktirajte podporo uporabnikom.</string>
+  <string name="usb_port_overheated_notification_content">Izklopie polnilec iz naprave in preverite če je priključek za polnjenje čist.</string>
+  <string name="usb_port_overheated_title">Polnilec za polnjenje je pregret. Isključite ga.</string>
     <string name="usb_preference_title">Možnosti prenosa datotek prek USB-ja</string>
   <string name="usb_ptp_text">Fotografije</string>
   <string name="usb_share_net_info">Uporabi spletno povezavo računalnika</string>

@@ -246,6 +246,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="traffic_control_today_numbers">Danes: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Jutri: %1$s</string>
   <string name="traffic_controls">Kontrola prometa</string>
+  <string name="translate_notification_info">Prevajanje v ozadju…</string>
   <string name="tts_report_aqi"/>
   <string name="tts_report_city_name"/>
   <string name="tts_report_defautl_head"/>
@@ -260,6 +261,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="unit_wind">Enota hitrosti vetra</string>
   <string name="update_night_setting_summary_text">Posodobi informacije o vremenu med 23:00 in 07:00</string>
   <string name="update_night_setting_title_text">Samodejno posodobi ponoči</string>
+  <string name="update_notification_info">Posodabljanje podatakov v ozadju…</string>
   <string name="update_setting_title_text">Posodobite vremenske podatke</string>
   <string name="updated_a_moment_ago">Posodobljeno pred nekaj trenutki</string>
   <string name="updating">Posodabljanje…</string>
@@ -271,6 +273,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="view_forecast_item_yesterday">Včeraj</string>
   <string name="view_indexes_item_today">Danes</string>
   <string name="view_indexes_item_tommorrow">Jutri</string>
+  <string name="weather_alert_channel_name">Opozorila</string>
+  <string name="weather_service_channel_name">Storitve v ozadju</string>
   <string name="weather_alert">Vremenska opozorila</string>
   <string name="wind_direction_no_data">Veter</string>
   <string name="xiaomi_weather_description_content">Xiaomi Vreme aplikacija ponuja točne informacije o vremenski napovedi. Odstranitev vpliva na vrstico obvestil, uro vremenske napovedi delovne površine itd. Želite odstraniti komponente sistema?</string>
