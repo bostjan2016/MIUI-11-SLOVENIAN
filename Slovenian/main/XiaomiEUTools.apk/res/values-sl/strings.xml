@@ -26,7 +26,7 @@
     <string name="carousel_title">Wallpaper carousel</string>
     <string name="dialog_desc">Za zdaj lahko izberete samo uporabo sprememb preko ikone delovne površine, izbira vzorca bo povzročila FC.</string>
     <string name="dialog_title">OPOZORILO!</string>
-    <string name="domain_desc">Dodeljivanje URL tem aplikacijam</string>
+    <string name="domain_desc">Dodeljevanje URL tem aplikacijam</string>
     <string name="domain_title">URL domena</string>
     <string name="dpi_desc">Napredna orodja za prilagajanje velikosti zaslona kot so zoomiranje, dodatna urejanja velikosti črk in možnost urejanja DPI-ja celega vmesnika.</string>
     <string name="dpi_title">DPI urejanje</string>

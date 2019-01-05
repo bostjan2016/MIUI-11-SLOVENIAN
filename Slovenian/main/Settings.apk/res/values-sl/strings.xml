@@ -1268,7 +1268,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="bt_ldac_pre_summary">Zagotovite visoko kvalitetno avdio izkušnjo</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Lastnosti</string>
-  <string name="bt_ldac_remember_choice">Zapomni si izbran</string>
+  <string name="bt_ldac_remember_choice">Zapomni si izbrano</string>
   <string name="bt_ldac_settings">Nastavitve</string>
   <string name="bt_rarely_used_device_title">Redko uporabljene naprave (%d)</string>
   <string name="bt_trace_log">Dovoli Bluetooth Trace zapisnik</string>
@@ -1460,7 +1460,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="clear_uri_btn_text">Počisti dostop</string>
     <string name="clear_user_data_text">Počisti shrambo</string>
   <string name="click_to_view">Dotaknite se za pregled</string>
-  <string name="close_aod">"To opravilo se ne more kombinirati z načinom \"Vedno vključeno\". najprej izključite \"Vedno vključeno\"."</string>
+  <string name="close_aod">"To opravilo se ne more kombinirati z načinom \"Vedno vključeno\". Najprej izključite \"Vedno vključeno\"."</string>
   <string name="close_app">Zapri trenutno aplikacijo</string>
   <string name="close_demo_mode">Prekliči</string>
   <string name="close_dialog">V redu</string>
@@ -1597,7 +1597,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="connect_mode">Način povezovanja</string>
   <string name="connect_to_internet">Poveži se na splet</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
-  <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatakov iz iClouda potrbujete WiFi.</string>
+  <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatkov iz iClouda potrebujete WiFi.</string>
   <string name="connected">Povezano</string>
     <string name="connected_device_add_device_summary">Bluetooth bo vklopljen, da bo omogočeno seznanjanje</string>
     <string name="connected_device_add_device_title">Dodajanje naprave</string>
@@ -1997,7 +1997,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="device_miui_more">Prikaži več</string>
   <string name="device_miui_version">MIUI različica</string>
   <string name="device_miui_version_for_POCO">MIUI različica (Za POCO)</string>
-  <string name="device_miui_version_update">Dostopna je MIUI posodobitev</string>
+  <string name="device_miui_version_update">Na voljo je MIUI posodobitev</string>
   <string name="device_name">Ime naprave</string>
   <string name="device_name_input_error">"Ne morem shraniti imena naprave2</string>
   <string name="device_name_input_hint">Vnesi ime</string>
