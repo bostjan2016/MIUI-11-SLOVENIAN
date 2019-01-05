@@ -217,7 +217,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="account_sync_settings_title">Sinhronizacija</string>
   <string name="account_sync_summary_all_off">Sinhronizacija izključena za vse stvari</string>
   <string name="account_sync_summary_all_on">Sinhronizacija vključena za vse stvari</string>
-  <string name="account_sync_summary_some_on">Sinhronizacija vključena za %1$d od supaj stvari: %2$d</string>
+  <string name="account_sync_summary_some_on">Sinhronizacija vključena za %1$d od skupaj stvari: %2$d</string>
   <string name="account_sync_title">Sinhronizacija računa</string>
   <string name="action_drag_label_move_bottom">Premesti na dno</string>
     <string name="action_drag_label_move_down">Premakni navzdol</string>
@@ -700,7 +700,7 @@ nastavitev in aplikacij"</string>
   <string name="backup_pw_cancel_button_text">Prekliči</string>
   <string name="backup_pw_set_button_text">Nastavi geslo za varnostno kopijo</string>
   <string name="backup_report">Pokaži podrobnosti</string>
-  <string name="backup_section_title">Sig. kopija &amp; vračanje</string>
+  <string name="backup_section_title">Var. kopija &amp; vračanje</string>
   <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo kopirane ali povrnjene.</string>
   <string name="backup_security_tips_title">Var. kopije morda ne bodo delovale</string>
   <string name="backup_update">Posodobi</string>
@@ -6708,7 +6708,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="system_dashboard_summary">Jeziki, čas, varnostna kopija, posodobitve</string>
     <string name="system_default_app">(Sistemsko privzeto)</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
-  <string name="system_shortcut_wake">Zbudi z bližnjicmi na tipkah</string>
+  <string name="system_shortcut_wake">Zbudi z bližnjicami na tipkah</string>
   <string name="system_storage">Notranja shramba</string>
   <string name="system_ui_settings">Prikaži sprejemnik upor. vmes. sistema</string>
   <string name="system_update_settings_list_item_summary"/>
