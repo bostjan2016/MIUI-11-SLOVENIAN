@@ -637,12 +637,22 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
   <string name="noise">Hrup:</string>
   <string name="none">N/A</string>
   <string name="nfc_disable_tip">Vključi NFC</string>
+  <string name="plugout_and_reverse_plugin">"
+Izključite polnilec in preobrnite vtikač."</string>
+  <string name="pop_camera">Pop kamera</string>
+  <string name="pop_push_camera_test_summary">"Kliknite tipko Skočne kamere da boste ugotovili ali kamera izide
+Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</string>
+  <string name="pop_push_camera_test_title">Test Skočne in Push kamere</string>
+  <string name="push_camera">Push kamera</string>
   <string name="remove_headset_and_starttest">Odstranite slušalke in pritisnite start za testiranje</string>
   <string name="resetpixel_test">RESETIRAJ TEST PIXLOV</string>
   <string name="run">Zaženi</string>
   <string name="sample_data">Vzorec podatkov</string>
   <string name="sample_hint">Izloči %1$s vzorcev za en prst</string>
   <string name="sample_progress_hint">Počakaj na izločitev vzorcev podatkov</string>
+  <string name="sar_sensor_collect_test_summary">"Obrnite telefon, postavite ga v stojalo
+Kliknite tipko Začni zbiranje podatkov
+Kontrolirajte zapiranje stojala in se oddaljite se od telefona"</string>
   <string name="search_menu_title">Išči</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>

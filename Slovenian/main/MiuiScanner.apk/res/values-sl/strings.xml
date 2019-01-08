@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_title">O aplikaciji</string>
   <string name="accept">V redu</string>
   <string name="access_sd_fail">"Ne morem dostopiti do SD kartice"</string>
   <string name="accessibility_shutter_button">Sprožilec</string>
@@ -131,8 +132,9 @@
   <string name="nickname">Vzdevek:</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="no_storage">Vstavite zunanji pomnilnik pred uporabo kamere</string>
+  <string name="no_support_to_translate_type">"Ta jezik ni podprt"</string>
   <string name="not_insert_contact">"Ne morem dodati stika"</string>
-  <string name="not_recommend_access_web_url">Stran od tukaj! Ni varno....</string>
+  <string name="not_recommend_access_web_url">Stran od tukaj! Ni varno</string>
   <string name="not_tips">"Ne prikazuj ponovno"</string>
   <string name="note">Opomba:</string>
   <string name="path_scanner_setting">Sistemska aplikacija/Skener</string>
@@ -162,11 +164,18 @@
   <string name="recognize_fail">"Ne morem prebrati kode"</string>
   <string name="scan_fail">"Ne morem skenirati kode"</string>
   <string name="scan_result">Rezultat</string>
+  <string name="scan_support_type">WeChat, Alipay, QR kode, bar kode</string>
   <string name="sdk_not_ready">Priprava SDK. Poskusite ponovno kasneje.</string>
   <string name="secure_access_web_url">Pojdi na spletno stran</string>
   <string name="see_app_details">Prikaži podrobnosti o aplikaciji</string>
   <string name="select_dialog_confirm">V redu</string>
-  <string name="send_mail">Pošlji epošto</string>
+  <string name="send_mail">Pošlji e pošto</string>
+  <string name="setting_alipay">Alipay</string>
+  <string name="setting_choose_every_time">Zmeraj vprašaj</string>
+  <string name="setting_default_function">Privzeto</string>
+  <string name="setting_preference_pay">Željeni način plačevanja</string>
+  <string name="setting_use_last_choose">Zapomni si izbrano</string>
+  <string name="setting_wechat">WeChat</string>
   <string name="settings">Nastavitve</string>
   <string name="shopping_searching">Iskanje izdelka…</string>
   <string name="shopping_title">Posnemite fotografijo izdelka</string>
@@ -182,6 +191,7 @@
   <string name="tel">Telefon</string>
   <string name="tips_message">"Povežite se se v splet da boste preverili ali je spletna lokacija varna."</string>
   <string name="title">Naslov:</string>
+  <string name="to_pay">Zaključite plačilo</string>
   <string name="translate_auto_lock">Zakleni prevod</string>
   <string name="translate_auto_unlock">Odkleni prevod</string>
   <string name="translate_copy_success">Uspešno kopirano</string>

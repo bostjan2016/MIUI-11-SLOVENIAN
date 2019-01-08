@@ -3149,6 +3149,10 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_fragment_sms_content_tips">Tukaj vpišite svoje sporočilo</string>
   <string name="traffic_setting_fragment_template">Predloga sporočila</string>
   <string name="traffic_setting_fragment_title">Prošnja za porabo podatkov</string>
+  <string name="traffic_setting_fragment_title_guide">Mob. operaterji in plani pdatkov</string>
+  <string name="traffic_usage_warning_body">"Porabili ste %s mobilnih podatkov ta mesec."</string>
+  <string name="traffic_usage_warning_limit">Opzorilo porabe podatkov</string>
+  <string name="traffic_usage_warning_title">Opzorilo porabe podatkov</string>
   <string name="traffic_setting_open">Vključeno</string>
   <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>

@@ -942,14 +942,14 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_connect_failed">Povezave ni bilo mogoče vzpostaviti. Poskusite znova.</string>
     <string name="bluetooth_connect_specific_profiles_title">Vzpostavi povezavo z ...</string>
     <string name="bluetooth_connected">Povezano %1$s</string>
-    <string name="bluetooth_connected_battery_level">Povezano, raven napolnjenosti akumulatorja je %1$s %2$s</string>
+  <string name="bluetooth_connected_battery_level">Povezano| Baterija %1$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Povezan z več napravami</string>
     <string name="bluetooth_connected_no_a2dp">Povezano (brez predstavnosti) %1$s</string>
-    <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez predstavnosti), raven napolnjenosti akumulatorja je %1$s %2$s</string>
+  <string name="bluetooth_connected_no_a2dp_battery_level">Povezano (brez predstavnosti)| Baterija %1$s</string>
     <string name="bluetooth_connected_no_headset">Povezano (brez telefona) %1$s</string>
-    <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona), raven napolnjenosti akumulatorja je %1$s %2$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona/predstavnosti) %1$s</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (brez telefona ali predstavnosti), raven napolnjenosti akumulatorja je %1$s %2$s</string>
+  <string name="bluetooth_connected_no_headset_battery_level">Povezano (brez telefona)| Baterija %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona in predstavnosti) %1$s</string>
+  <string name="bluetooth_connected_no_headset_no_a2dp_battery_level">Povezano (brez telefona in predstavnosti)| Baterija %1$s</string>
     <string name="bluetooth_connected_no_map">Povezano (brez dostopa do sporočil) %1$s</string>
     <string name="bluetooth_connected_summary">Povezan z napravo %1$s</string>
     <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
@@ -2458,6 +2458,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="eq_preset_hint">Ime efekta</string>
   <string name="eq_preset_rename">Preimenuj</string>
   <string name="eq_preset_select">Izberi nastavitev</string>
+  <string name="eq_return">Nazaj</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="erase_application">Izbriši aplikacije</string>
@@ -4446,7 +4447,11 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Teme</string>
   <string name="page_layout_confirm_message">"Vaša naprava se mora ponovno zagnati za uveljavitev sprememb. To traja okoli 1 minuto."</string>
+  <string name="page_layout_confirm_message_enlarge">Tekst, slike in ikone se bodo povečale. Nekatere ikone lahko spremenijo svoja mesta.</string>
+  <string name="page_layout_confirm_message_narrow">Tekst, slike in ikone se bodo zmanjšale. Nekatere ikone lahko spremenijo svoja mesta.</string>
   <string name="page_layout_confirm_title">Spreminjanje nastavitev zaslona</string>
+  <string name="page_layout_confirm_title_enlarge">Večje stvari</string>
+  <string name="page_layout_confirm_title_narrow">Manjše stvari</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">XL</string>
   <string name="page_layout_large_title">L</string>
@@ -5396,6 +5401,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_on_proximity_sensor_summary">Zakleni gibe dotika ko je v žepu</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_optimize">Kontrast</string>
+  <string name="screen_optimize_disabled">"Ne morem nastaviti kontrast če je vključen Način branja"</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
   <string name="screen_paper_mode_apps_loading">Nalaganje…</string>
   <string name="screen_paper_mode_apps_title">Uporabi Način branja</string>

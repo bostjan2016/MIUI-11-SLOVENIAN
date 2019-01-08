@@ -63,9 +63,9 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="cloud_back_up_no_network_warn">"Ne morem se povezati na WiFi"</string>
   <string name="cloud_back_up_ok_btn">V redu</string>
   <string name="cloud_back_up_opening">Samo trenutek…</string>
-  <string name="cloud_back_up_share_activity_confirm">Nadgradi</string>
-  <string name="cloud_back_up_share_activity_discription">Dobite več prostora za shranjevanje dnevnih var. kopij in več.</string>
-  <string name="cloud_back_up_share_activity_title">Nadgradi Mi Račun</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Nadgradi</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Dobite več prostora za shranjevanje dnevnih var. kopij in več.</string>
+  <string name="cloud_back_up_subscribe_vip_title">Nadgradi Mi Račun</string>
   <string name="cloud_back_up_task">Izdelava var. kopije…</string>
   <string name="cloud_backup">Mi Cloud var. kopije</string>
   <string name="cloud_backup_detail_frequence">Razpored var. kopije</string>

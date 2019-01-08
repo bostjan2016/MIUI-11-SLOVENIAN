@@ -92,9 +92,9 @@
     </string-array>
 	<string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>, aktivno</item>
-        <item>, aktivno (predstavnost)</item>
-        <item>, aktivno (telefon)</item>
+        <item>" | Aktivno"</item>
+        <item>" | Aktivno (predstavnost)"</item>
+        <item>" | Aktivno (telefon)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Privzeto)</item>
