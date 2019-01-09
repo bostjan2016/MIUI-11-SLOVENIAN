@@ -52,6 +52,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="config_suggest_title">Varčevanje baterije</string>
   <string name="confirm">V redu</string>
   <string name="current_cloud_addr_is">Naslov Cloud kontrolnega strežnika:</string>
+  <string name="dark_mode">Temni način dela</string>
+  <string name="dark_mode_summary">Prestavite se na tamno paleto barv za prihranek baterije</string>
   <string name="disable_hide_mode">Izključi Varčevanje baterije</string>
   <string name="disable_hide_mode_warning">Izključitev Varčevanje baterije lahko povzroči večjo porabo energije</string>
   <string name="disabled">Izklj.</string>
@@ -117,10 +119,12 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več kot %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremni način je izključen</string>
   <string name="notification_open_extreme_mode_text">Ekstremni način je vključen</string>
+  <string name="open_dark_mode">Odpri</string>
+  <string name="open_dark_mode_tip">Kvaliteta zaslona nekaterih storitev se lahko zmanjša v temnem načinu dela. Vrnjeno bo na normalno ko zapustite temni način dela. Zamenjam na tamni način dela?</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
   <string name="performance_category">Zmogljivost</string>
-  <string name="power_center">Energija</string>
+  <string name="power_center">Varčevanje baterije</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s pogosto prejema podatke o lokaciji</string>

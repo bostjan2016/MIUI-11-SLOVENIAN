@@ -798,6 +798,7 @@ hitrost vzorčenja"</string>
     <string name="guest_wipe_session_message">Želite nadaljevati sejo?</string>
     <string name="guest_wipe_session_title">Znova pozdravljeni, gost!</string>
     <string name="guest_wipe_session_wipe">Začni znova</string>
+  <string name="gxzw_long_press_tip">Pritisnite in podržite da boste preverili nove storitve</string>
   <string name="gxzw_press_harder">Pritisnite malo močneje</string>
   <string name="gxzw_try_again">Poskusite ponovno</string>
   <string name="gxzw_try_more_again">Poskusite ponovno</string>
