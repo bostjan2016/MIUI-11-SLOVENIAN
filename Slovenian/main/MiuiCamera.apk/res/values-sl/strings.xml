@@ -1034,4 +1034,5 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dalje od scene."<
   <string name="wifi_security">Varnost:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">"Pred povezovanjem preverite če je omrežje varno."</string>
+  <string name="zoom_no_support_tip_48M">"Zoomiranje ne dela v 48MP načinu"</string>
 </resources>
