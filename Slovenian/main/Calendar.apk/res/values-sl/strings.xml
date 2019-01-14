@@ -343,6 +343,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="saving_event_with_guest">Pošiljanje posodobitev…</string>
   <string name="search">Išči</string>
   <string name="select_date">Izberi datum</string>
+  <string name="select_today_tip">Danes</string>
   <string name="select_synced_calendars_title">Koledarji za sinhronizacijo</string>
   <string name="setting_about_calendar_version">Verzija koledarja:</string>
   <string name="setting_about_imei">IMEI:</string>
@@ -370,6 +371,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="timezone_label">Časovni pas</string>
   <string name="today">Danes</string>
   <string name="today_at_time_fmt">Danes ob %s</string>
+  <string name="today_icon_voice_contentdescription">Nazaj na danes</string>
   <string name="today_no_events">Ni dogodkov</string>
   <string name="tomorrow">Jutri</string>
   <string name="tomorrow_at_time_fmt">Jutri ob %s</string>

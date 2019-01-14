@@ -3059,6 +3059,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyboard_shortcuts_helper">Pomo훾nik bli탑njic tipkovnice</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaz dostopnih bli탑njic</string>
   <string name="keyguard_advance_setting_title">Napredne nastavitve</string>
+  <string name="keyguard_double_tap_to_sleep_title">Dvakrat tapni zaslon za mirovanje</string>
   <string name="keyguard_notification_status_title">Ko pride obvestilo in je zaslon izklju훾en</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bli탑njica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>

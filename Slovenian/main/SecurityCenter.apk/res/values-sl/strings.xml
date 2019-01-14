@@ -1059,7 +1059,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="firewall_temp_rule_reason">%2$s je omejil spletno povezavo za %1$s​</string>
   <string name="firewall_wifi">WiFi</string>
   <string name="firewall_wifi_dialog_message">"Nameščena aplikacija se ne bo mogla povezati na splet z uporabo WiFi-ja če bo ta nastavitev izključena.​"</string>
-  <string name="first_aid_activity_title">Prva pomoč</string>
+  <string name="first_aid_activity_title">Popravi težave</string>
   <string name="first_aid_card_airplane_button">Izključi</string>
   <string name="first_aid_card_airplane_summary">Izključite Letalski način da boste lahko klicali in se povezali na omrežje</string>
   <string name="first_aid_card_airplane_title">"Ne morem klicati ali se povezati na omrežje"</string>
@@ -1097,7 +1097,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="first_aid_item4_content">Baterija</string>
   <string name="first_aid_item5_content">Ostale težave</string>
   <string name="first_aid_result_feedback_button">Pošlji</string>
-  <string name="first_aid_result_feedback_summary">"Ne morem rešiti problemov na tej napravi."</string>
+  <string name="first_aid_result_feedback_summary">"Ne morem najti problemov. So pa manjše težave."</string>
   <string name="first_aid_result_feedback_title">Povratne inf.</string>
   <string name="first_aid_result_summary_normal">Vse zgleda dobro!</string>
   <string name="first_aid_result_summary_not_finished">"Skeniranje ni končano. Nekatera tveganja morda ne bodo odkrita."</string>
@@ -2740,7 +2740,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="summary_do_not_disturb">"Uporabljate DND način."</string>
   <string name="summary_eye_shield">"Izključite način branja da boste vrnili na privzete nastavitve."</string>
   <string name="summary_find_device">Najdite in zaklenite svojo napravo kjerkoli</string>
-  <string name="summary_first_aid_kit">Popravite probleme s pomočjo našega paketa za prvo pomoč</string>
+  <string name="summary_first_aid_kit">Popravite probleme v svoji napravi zdaj</string>
   <string name="summary_flow_notification">Pokažite svoje mesečne mobilne podatke o porabi v obvestilni vrstici</string>
   <string name="summary_flow_purchase">"Kaže da nimate več veliko podatkov. Kupite podatke da ostanete povezani."</string>
   <string name="summary_flow_purchase_beyond">Presegli ste mesečno omejitev podatkovnega svojega operaterja za %sMB</string>
@@ -2939,7 +2939,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_do_not_disturb">"Ne slišite zvonenja?"</string>
   <string name="title_eye_shield">"Barva zaslona ni vredu?"</string>
   <string name="title_find_device">Najdi napravo</string>
-  <string name="title_first_aid_kit">Prva pomoč</string>
+  <string name="title_first_aid_kit">Popravite težave</string>
   <string name="title_flow_notification">Obvestilo porabe podatkov</string>
   <string name="title_flow_purchase">Čas za nakup</string>
   <string name="title_flow_rank">Uporaba mobilnih podatkov</string>
