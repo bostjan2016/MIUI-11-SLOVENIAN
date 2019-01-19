@@ -30,7 +30,7 @@
   <string name="dialog_title_tone_quality">Izberite kvaliteto predvajanja</string>
   <string name="download_completed">Končano</string>
   <string name="download_invalid">Ni dostopnih virov</string>
-  <string name="download_network_is_not_available">"Ne morem prevzeti: Omrežje ni dostopno."</string>
+  <string name="download_network_is_not_available">"Ne morem prevzeti: Omrežje ni na voljo."</string>
   <string name="download_progress_toast">%1$d%%</string>
   <string name="download_start_toast">Prenašanje %1$(%2$dbps)</string>
   <string name="download_successful">Prenešeno</string>

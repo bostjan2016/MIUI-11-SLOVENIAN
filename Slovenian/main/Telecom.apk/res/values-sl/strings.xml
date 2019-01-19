@@ -488,7 +488,7 @@ Avdio"</string>
   <string name="tether_settings_title_usb_bluetooth">Internet prek mob. napr.</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tethering_hardware_offload">Pospešitev strojnega deljenja</string>
-  <string name="tethering_hardware_offload_summary">Uporabi pospešek strojnega deljenja če je dostopno</string>
+  <string name="tethering_hardware_offload_summary">Uporabi pospešek strojnega deljenja če je na voljo</string>
   <string name="tethering_settings_not_available">Nastavitve za povezavo z internetom prek mobilne naprave niso na voljo za tega uporabnika</string>
     <string name="time_unit_just_now">Pravkar</string>
   <string name="title_convert_fbe">Spreminjanje v enkripcijo datotek</string>

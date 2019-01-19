@@ -196,7 +196,7 @@
   <string name="accessibility_quick_settings_flashlight_changed_on">Svjetiljka vključena.</string>
   <string name="accessibility_quick_settings_flashlight_off">Svetilka izključena.</string>
   <string name="accessibility_quick_settings_flashlight_on">Svetilka uvljučena.</string>
-  <string name="accessibility_quick_settings_flashlight_unavailable">Svetilka ni dostopna.</string>
+  <string name="accessibility_quick_settings_flashlight_unavailable">Svetilka ni na voljo.</string>
   <string name="accessibility_quick_settings_hotspot_changed_off">Hotspot izključen.</string>
   <string name="accessibility_quick_settings_hotspot_changed_on">Hotspot vključen.</string>
   <string name="accessibility_quick_settings_less_time">Manj časa.</string>
@@ -225,7 +225,7 @@
   <string name="accessibility_recent_task_exit">Nedavno zaprto</string>
   <string name="accessibility_recent_task_locked">Zaklenjeno, povleci dol za odklep.</string>
   <string name="accessibility_recent_task_locked_state">Zaklenjeno</string>
-  <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Dostopno RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
+  <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Na voljo RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
   <string name="accessibility_recent_task_unlocked">Odklenjeno</string>
   <string name="accessibility_recent_task_unlocked_state">Odklenjeno</string>
   <string name="accessibility_recents_all_items_dismissed">Vse nedavne aplikacije so odstranjene.</string>
@@ -329,8 +329,8 @@
   <string name="auto_saver_okay_action">Razumem</string>
   <string name="auto_saver_text">Vključi se samodejno ko nivo baterije na %d%%</string>
   <string name="auto_saver_title">Tapnite za nastavitev varčevanja baterije</string>
-  <string name="available_via_carrier">Dostopno preko %1$s</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_carrier">Na voljo preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="back">Nazaj</string>
   <string name="battery">Baterija</string>
   <string name="battery_can_use_time">Ostalo še %s</string>
@@ -594,7 +594,7 @@ hitrost vzorčenja"</string>
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo razvojnim programerjem. Lahko povzročijo okvaro ali nezaželjeno obnašanje vaše naprave in aplikacij.</string>
   <string name="dev_settings_warning_title">Dovolim nastavitve razvojnih programerjev?</string>
   <string name="development_settings_enable">Dovoli nastavitve za razvojne programerje</string>
-  <string name="development_settings_not_available">Nastavitve razvojnih programerjev niso dostopne za tega uporabnika</string>
+  <string name="development_settings_not_available">Nastavitve razvojnih programerjev niso na voljo za tega uporabnika</string>
   <string name="development_settings_summary">Nastavljanje opcij za razvoj aplikacije</string>
   <string name="development_settings_title">Opcije za razvojne programerje</string>
   <string name="digital_clock_dot">:</string>
@@ -1771,7 +1771,7 @@ morda nadzira"</string>
   <string name="status_bar_recent_guide_bottom">Podrsajte navzdol za zaklepanje</string>
   <string name="status_bar_recent_guide_top">Podrsajte navzgor da se zapre.</string>
     <string name="status_bar_recent_inspect_item_title">Podatki o aplikaciji</string>
-  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostopno</string>
+  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB na voljo</string>
   <string name="status_bar_recent_memory_info2"/>
     <string name="status_bar_recent_remove_item_title">Odstrani s seznama</string>
   <string name="status_bar_recording_back">Vrni se na snemalnik</string>
@@ -1873,7 +1873,7 @@ morda nadzira"</string>
     <string name="tether_settings_title_usb_bluetooth">Şplet prek mob. napr.</string>
     <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tethering_hardware_offload">Skupna raba strojnega pospeševanja</string>
-  <string name="tethering_hardware_offload_summary">Uporabi skupno rabo strojnega pospeševanja če je dostopno</string>
+  <string name="tethering_hardware_offload_summary">Uporabi skupno rabo strojnega pospeševanja če je Na voljo</string>
     <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="theme">Tema</string>
     <string name="thermal_shutdown_dialog_message">"Telefon je bil prevroč, zato se je izklopil, da se ohladi. Zdaj normalno deluje.

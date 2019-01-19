@@ -977,7 +977,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="livetalk_name">top-up package</string>
   <string name="livetalk_network_confirm">V redu</string>
   <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
-  <string name="livetalk_network_unavailable">Omrežje ni dostopno</string>
+  <string name="livetalk_network_unavailable">Omrežje ni na voljo</string>
   <string name="livetalk_next_step">Naprej</string>
   <string name="livetalk_niece_price_arrow">To opravilo je na voljo v 13 državah in regijah</string>
   <string name="livetalk_niece_price_summary">Mednarodna tarifa, prosimo preverite cenik</string>
@@ -1247,7 +1247,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="optional_summary">Izbirno</string>
   <string name="order_by_name">Abecedno</string>
   <string name="order_by_recent">Pogosto uporabljeno</string>
-  <string name="order_error_network">Ne morem prenesti, omrežje ni dostopno.</string>
+  <string name="order_error_network">Ne morem prenesti, omrežje ni na voljo.</string>
   <string name="order_error_retry">Poizkusi ponovno</string>
   <string name="order_error_unknown">Ne morem prenesti, neznana napaka.</string>
   <string name="order_id">ID naročila:%1$s</string>

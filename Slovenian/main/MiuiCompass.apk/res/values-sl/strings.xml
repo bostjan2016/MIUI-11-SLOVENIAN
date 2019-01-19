@@ -35,7 +35,7 @@
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">Ne kaži več</string>
   <string name="error_camera_unavailable">Preverite ali trenutno kakšna druga aplikacija uporablja Kamero.</string>
-  <string name="error_camera_unavailable_title">Kamera ni dostopna</string>
+  <string name="error_camera_unavailable_title">Kamera ni na voljo</string>
   <string name="first_using_dialog_message">"Kompas za pravilno delovanje potrebuje omrežno povezavo, kamero in storitve lokacije vaše naprave."</string>
   <string name="first_using_dialog_title">Dovoljenje dostopa</string>
   <string name="getting_location">Kalibriranje...</string>

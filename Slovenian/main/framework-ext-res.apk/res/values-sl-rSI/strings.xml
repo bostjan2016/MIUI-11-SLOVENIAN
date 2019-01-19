@@ -73,7 +73,7 @@
   <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
   <string name="maml_component_customization_title">Nastavitve</string>
   <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimizirana.</string>
-  <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
+  <string name="memory_clear_result">"Izbrisano: %1$sB Na voljo: %2$sB"</string>
   <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">"Ne morem izključiti, naprava je zaklenjena."</string>
   <string name="miui_screen_ratio_hint">Težava z razmerjem zaslona</string>

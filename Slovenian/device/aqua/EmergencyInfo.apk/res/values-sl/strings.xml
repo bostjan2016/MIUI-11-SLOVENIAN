@@ -49,7 +49,7 @@
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso omogočene za tega uporabnika</string>
   <string name="app_label">Podatki za nujne primere</string>
   <string name="app_process_limit_title">Omejitev procesa v ozadju</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="b_negative">B negativna</string>
   <string name="b_positive">B pozitivna</string>
   <string name="battery_info_status_charging">Polnjenje</string>
@@ -165,7 +165,7 @@
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo razvijalcem. Lahko povzročilo okvaro ali neželjeno delovanje vaše naprave in aplikacij.</string>
   <string name="dev_settings_warning_title">Dovolite nastavitve za razvijalce?</string>
   <string name="development_settings_enable">Omogoči možnosti za razvijalce</string>
-  <string name="development_settings_not_available">Možnosti za razvijalce niso dostopne temu uporabniku</string>
+  <string name="development_settings_not_available">Možnosti za razvijalce niso na voljo temu uporabniku</string>
   <string name="development_settings_summary">Nastavitev možnosti za razvoj aplikacije</string>
   <string name="development_settings_title">Možnosti za razvijalce</string>
   <string name="disable_overlays">Onemogoči deljenje spom.</string>
@@ -306,7 +306,7 @@
   <string name="tether_settings_title_usb">USB skupna raba povezave</string>
   <string name="tether_settings_title_usb_bluetooth">Skupna raba povezave</string>
   <string name="tether_settings_title_wifi">Prenos. dostopna točka</string>
-  <string name="tethering_settings_not_available">Nastavitve skupne rabe povezave niso dostopne temu uporabniku</string>
+  <string name="tethering_settings_not_available">Nastavitve skupne rabe povezave niso na voljo temu uporabniku</string>
   <string name="title_convert_fbe">Pretvaranje v enkripcijo datotek</string>
   <string name="track_frame_time">Profil GPU prikazovanja</string>
   <string name="transition_animation_scale_title">Hitrost animacije prehoda</string>

@@ -206,7 +206,7 @@
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_setting">Seznam blokiranih</string>
   <string name="apn_settings">Imena dostopnih točk</string>
-  <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostopne uporabniku</string>
+  <string name="apn_settings_not_available">Nastavitve dostopne točke niso na voljo uporabniku</string>
   <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
@@ -258,8 +258,8 @@
   <string name="autoip_summary">Dodaj IP predpono tujim številkam</string>
   <string name="autoip_summary_more">, %d skupaj</string>
   <string name="autoip_support_local_numbers">Vedno uporabi IP predpono</string>
-  <string name="available_via_carrier">Dostopno preko %1$s</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_carrier">Na voljo preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="back">Nazaj</string>
   <string name="badPin">Stara koda PIN ki ste jo vnesli ni pravilna. Poskusite znova.</string>
   <string name="badPin2">Stara koda PIN 2 je napačna. Poskusite znova.</string>
@@ -381,10 +381,10 @@ hitrost vzorčenja"</string>
   <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
   <string name="callEnded_pulled">Poziv prenesen na drugo napravo.</string>
-  <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni dostopna</string>
+  <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni na voljo</string>
   <string name="callFailed_access_information_discarded">Informacije o dostopu zavrnjene</string>
   <string name="callFailed_bearer_capability_not_authorized">Možnost nosilca ni pooblaščena</string>
-  <string name="callFailed_bearer_capability_unavailable">Možnost nosilca trenutno ni dostopna</string>
+  <string name="callFailed_bearer_capability_unavailable">Možnost nosilca trenutno ni na voljo</string>
   <string name="callFailed_bearer_service_not_implemented">Storitev nosilca not implemented</string>
   <string name="callFailed_call_rejected">Klic zavrnjen</string>
   <string name="callFailed_cb_enabled">Med aktivno zaporo klicev ni mogoče opravljati odhodnih klicev.</string>
@@ -438,7 +438,7 @@ hitrost vzorčenja"</string>
   <string name="callFailed_normal_unspecified">Normalo, neodrejeno</string>
   <string name="callFailed_number_changed">Številka je zamenjana</string>
   <string name="callFailed_number_unreachable">Številka ni dosegljiva</string>
-  <string name="callFailed_only_digital_information_bearer_available">Dostopna je samo omejena možnost prenosa digitalnih podatkov</string>
+  <string name="callFailed_only_digital_information_bearer_available">Na voljo je samo omejena možnost prenosa digitalnih podatkov</string>
   <string name="callFailed_operator_determined_barring">Operater je odredil prepoved</string>
   <string name="callFailed_outOfService">Mobilno omrežje ni na voljo</string>
   <string name="callFailed_out_of_network">Klic na številko izven omrežja</string>
@@ -454,8 +454,8 @@ hitrost vzorčenja"</string>
   <string name="callFailed_semantically_incorrect_message">Semantically incorrect message</string>
   <string name="callFailed_server_error">Napaka strežnika: poskusite znova pozneje.</string>
   <string name="callFailed_server_unreachable">Strežnik ni dosegljiv</string>
-  <string name="callFailed_service_option_not_available">Soritev ali opcija niso dostopne, nedorečeno</string>
-  <string name="callFailed_service_or_option_not_implemented">Storitev ali opcija niso izvjane, nedorečeno</string>
+  <string name="callFailed_service_option_not_available">Soritev ali opcija ni na voljo, nedorečeno</string>
+  <string name="callFailed_service_or_option_not_implemented">Storitev ali opcija niso izvajane, nedorečeno</string>
   <string name="callFailed_simError">Ni SIM-a ali napaka SIM-a</string>
   <string name="callFailed_switching_equipment_congestion">Zastoji opreme za prenos</string>
   <string name="callFailed_tempopary_failure">Trenutni neuspeh</string>
@@ -838,7 +838,7 @@ hitrost vzorčenja"</string>
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo razvijalcem. Lahko povzročijo okvaro ali neželjeno obnašanje vaše naprave in aplikacij.</string>
   <string name="dev_settings_warning_title">Dovolite nastavitve za razvijalce?</string>
   <string name="development_settings_enable">Omogoči možnosti za razvijalce</string>
-  <string name="development_settings_not_available">Možnosti za razvijalce niso dostopne uporabniku</string>
+  <string name="development_settings_not_available">Možnosti za razvijalce niso na voljo uporabniku</string>
   <string name="development_settings_summary">Nastavitev možnosti za razvijalce</string>
   <string name="development_settings_title">Možnosti za razvijalce</string>
   <string name="dial">Klicanje</string>
@@ -1065,7 +1065,7 @@ hitrost vzorčenja"</string>
   <string name="fdn_full">"FDN ni posodobljen ker je poln."</string>
   <string name="fdn_invalid_number">FDN ni bil posodobljen ker število ne sme presegati 20 mest.</string>
   <string name="fdn_list_with_label">Seznam FDN (%s)</string>
-  <string name="fdn_service_unavailable">FDN storitev ni dostopna.</string>
+  <string name="fdn_service_unavailable">FDN storitev ni na voljo.</string>
   <string name="fdn_summary">Omejite odhodne klice navedene na FDN ali na številke z določenimi predponami</string>
   <string name="fdn_with_label">Številke za preusmeritev (%s)</string>
   <string name="feedback">Povratna informacija</string>
@@ -1286,7 +1286,7 @@ za uporabo top-up package"</string>
   <string name="livetalk_name">top-up package</string>
   <string name="livetalk_network_confirm">V redu</string>
   <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
-  <string name="livetalk_network_unavailable">Omrežje ni dostopno</string>
+  <string name="livetalk_network_unavailable">Omrežje ni na voljo </string>
   <string name="livetalk_next_step">Naprej</string>
   <string name="livetalk_niece_price_arrow">To opravilo je na voljo v 13 državah in regijah</string>
   <string name="livetalk_niece_price_summary">Mednarodna tarifa, prosimo preverite cenik</string>
@@ -1509,8 +1509,8 @@ za uporabo top-up package"</string>
   <string name="no_data">Ni podatkov</string>
   <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
   <string name="no_internet_available_title">Ni spletne povezave</string>
-  <string name="no_mobile_data">Mobilni podatki niso dostopni</string>
-  <string name="no_mobile_data_roaming">Podatki v gostovanju niso dostopni</string>
+  <string name="no_mobile_data">Mobilni podatki niso na voljo</string>
+  <string name="no_mobile_data_roaming">Podatki v gostovanju niso na voljo</string>
   <string name="no_more">Ne več</string>
   <string name="no_number">Ni številke telefona</string>
   <string name="no_product_list">Prazno</string>
@@ -1599,7 +1599,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="optional_summary">&lt;Izbirno&gt;</string>
   <string name="order_by_name">Po abesedi</string>
   <string name="order_by_recent">Pogosto uporabljano</string>
-  <string name="order_error_network">Ne morem prenesti, omrežje ni dostopno.</string>
+  <string name="order_error_network">Ne morem prenesti, omrežje ni na voljo.</string>
   <string name="order_error_retry">Poizkusi ponovno</string>
   <string name="order_error_unknown">Ne morem prenesti, neznana napaka.</string>
   <string name="order_id">ID naročila:%1$s</string>
@@ -1818,7 +1818,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE storitve niso dosegljive. Izključite VoLTE za klicanje."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Storitev ni dosegljiva. Izključite VoLTE v nastavitvah."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Preden vključite VoLTE, izberite LTE kot prednostno omrežje.</string>
-  <string name="prompt_when_turnon_volte_without_lte">"VoLTE omrežja niso dostopna. Vklop VoLTE-a vam lahko prepreči normalno klicanje."</string>
+  <string name="prompt_when_turnon_volte_without_lte">"VoLTE omrežja niso na voljo. Vklop VoLTE-a vam lahko prepreči normalno klicanje."</string>
   <string name="propmpt_dialog_do_not_ask">Ne kaži več</string>
   <string name="propmpt_dialog_network_failed_title">potekel čas klica</string>
   <string name="propmpt_dialog_no_call_back_content">Povezovanje traja predolgo. Prestavljam na navaden klic, ki je lahko obračunan od ponudnika storitev.</string>
@@ -2217,7 +2217,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
   <string name="tethering_hardware_offload_summary">Uporabi hardversko pospeševanje za modemsko povezovanje če je na voljo</string>
-  <string name="tethering_settings_not_available">Nastavitve skupne rabe povezave niso dostopne uporabniku</string>
+  <string name="tethering_settings_not_available">Nastavitve skupne rabe povezave niso na voljo uporabniku</string>
   <string name="third_party_account_summary">Ta račun uporablja %s.</string>
   <string name="throttle_current_usage">Podatki uporabljeni v trenutnem obdobju</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s maksimum je prekoračen. 
@@ -2394,8 +2394,8 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="volte_switch_summary2">Potrdite da vaš mobilni operater podpira to storitev pred vklopom. Drugače lahko vpliva na normalno klicanje.</string>
   <string name="volte_switch_title">VoLTE omogočen</string>
   <string name="volte_switch_title_ct">VoLTE omogočen</string>
-  <string name="volte_tips_when_turn_on">Storitve China Telecom VoLTE so dostopne samo v področjih pokritih z LTE omrežjem.</string>
-  <string name="vpn_settings_not_available">Nastavitve VPN-a niso dostopne uporabniku</string>
+  <string name="volte_tips_when_turn_on">Storitve China Telecom VoLTE so na voljo samo v področjih pokritih z LTE omrežjem.</string>
+  <string name="vpn_settings_not_available">Nastavitve VPN-a niso na voljo uporabniku</string>
   <string name="vvm_unsupported_message_format">Vrsta sporočila ni podprta, pokličite %s za poslušanje.</string>
   <string name="wait_for_debugger">Čaka se program za odpravljanje napak</string>
   <string name="wait_for_debugger_summary">Aplikacija čaka priključitev programa za odpravljanje napak</string>

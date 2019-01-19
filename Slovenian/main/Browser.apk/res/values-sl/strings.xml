@@ -132,7 +132,7 @@
   <string name="aqi_quality_index_pure">Odličen</string>
   <string name="aqi_quality_index_unhealthy">Okužen</string>
   <string name="autoSwithcingSearchEngineTips">Iskanje se je zamenjalo v skladu z vašimi pogostimi iiskanji</string>
-  <string name="autofill_keyboard_accessory_content_description">Predlogi dostopni</string>
+  <string name="autofill_keyboard_accessory_content_description">Predlogi na voljo</string>
   <string name="autofill_popup_content_description">Prikaz samodokončanja</string>
   <string name="autologin_bar_error">Vpis ni mogoč</string>
   <string name="autologin_bar_hide_text">Skrij</string>
@@ -318,7 +318,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="dialog_recovery_tabs_tip">Najdi web-prikaz ni bil zaprt zadnjič</string>
   <string name="dialog_recovery_tabs_title">Odpri stran pred obnovitvijo</string>
   <string name="dialog_title_not_available">"Ne morem prenesti"</string>
-  <string name="dialog_title_queued_body">Datoteka še ni dostopna</string>
+  <string name="dialog_title_queued_body">Datoteka še ni na voljo</string>
   <string name="document_download_background_btn">Prenesi v ozadju</string>
   <string name="document_download_cancel_btn">Prekini</string>
   <string name="document_download_failed">Ne morem prenesti</string>
@@ -356,7 +356,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">Prenos…</string>
   <string name="download_list_open_xl_ok">V redu</string>
-  <string name="download_memory_info_avai">"Dostopno %s|"</string>
+  <string name="download_memory_info_avai">"Na voljo %s|"</string>
   <string name="download_memory_info_total">"Skupaj ​%s"</string>
   <string name="download_no_application_title">"Ne morem najti datoteke. Ste jo premestili ali izbrisali?"</string>
   <string name="download_no_sdcard_dlg_msg">Za prenos %s je potreben zunanji pomnilnik.</string>
@@ -407,7 +407,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="file_picker">Izberi pot</string>
   <string name="filename_empty_alert_message">"Vpiši ime datoteke"</string>
   <string name="filename_illegal_alert_message">Napačen znak je bil odstranjen iz imena datoteke</string>
-  <string name="find_new_version">Dostopne so posodobitve</string>
+  <string name="find_new_version">Na voljo so posodobitve</string>
   <string name="find_next">Najdi naslednje</string>
   <string name="find_on_page_cancel">Prekliči</string>
   <string name="find_on_page_hint">Najdi na strani</string>
@@ -516,7 +516,7 @@ Zapustim to stran?"</string>
   <string name="media_error_action_replace_video_source">"Ne morem zamenjati vira"</string>
   <string name="media_error_failure">"Ne morem predvajati videoposnetka"</string>
   <string name="media_error_format">"Format videoposnetka ni podprt"</string>
-  <string name="media_error_network_unreachable">Omrežje ni dostopno</string>
+  <string name="media_error_network_unreachable">Omrežje ni na voljo</string>
   <string name="media_error_nomemory">Ni dovolj pomnilnika na napravi</string>
   <string name="media_error_source">"Ne morem najti vira"</string>
   <string name="media_error_timeout">Povezovanje z omrežjem je poteklo</string>
@@ -912,7 +912,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_mr_controller_collapse_group">Strnjevanje</string>
   <string name="mw_mr_controller_disconnect">Prekini povezavo</string>
   <string name="mw_mr_controller_expand_group">Razširjanje</string>
-  <string name="mw_mr_controller_no_info_available">Informacije niso dostopne</string>
+  <string name="mw_mr_controller_no_info_available">Informacije niso na voljo</string>
   <string name="mw_mr_controller_no_media_selected">Ni izbranega medija</string>
   <string name="mw_mr_controller_pause">Premor</string>
   <string name="mw_mr_controller_play">Predvajanje</string>
@@ -1095,7 +1095,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="network_error_tips">Omrežna napaka, poskusite ponovno</string>
   <string name="network_not_available_comment">Ni povezave, ni možno komentirati</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Najden je WiFi hotspot v bližini. Se poskusim povezati?</string>
-  <string name="network_show_wifi_setting_tip_dialog_title">Dostopno je WiFi omrežje</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Na voljo je WiFi omrežje</string>
   <string name="new_folder_name_lable">Ime skupine</string>
   <string name="next_button_label">Naprej</string>
   <string name="no_app_open_document">Za izvedbo opravila ni najdena nobena aplikacija</string>
@@ -1594,8 +1594,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="video_project_button">Ustavi</string>
   <string name="video_project_msg">Prikazujem na %s</string>
   <string name="video_project_title">Video Prikaz</string>
-  <string name="video_push_multi_message">Dostopna posodobitev: %1$d</string>
-  <string name="video_push_multi_title">Dostopna posodobitev</string>
+  <string name="video_push_multi_message">Posodobitev na voljo: %1$d</string>
+  <string name="video_push_multi_title">Posodobitev na voljo</string>
   <string name="video_push_single_message">Dotaknite se za posodobitev na %1$d</string>
   <string name="video_service_notification_title">Predvajanje videoposnetka</string>
   <string name="video_subtitle_last_message1">Preostalo je manj od 1 minute</string>

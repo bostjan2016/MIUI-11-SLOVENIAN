@@ -625,7 +625,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
 
 S tem ne boste sprostili prostora, če je shramba že skoraj polna."</string>
     <string name="automatic_storage_manager_downloads_days_title">Varnostno kopirani prenosi</string>
-    <string name="automatic_storage_manager_freed_bytes">"Skupaj dostopno: %1$s
+    <string name="automatic_storage_manager_freed_bytes">"Skupaj na voljo: %1$s
 
 Nazadnje zagnano: %2$s"</string>
     <string name="automatic_storage_manager_master_switch_title">Uporaba pametne shrambe</string>
@@ -1091,7 +1091,7 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_preference_connected_devices">Povezana naprava</string>
   <string name="bluetooth_preference_device_settings">Nastavitve naprave</string>
   <string name="bluetooth_preference_found_devices">Razpoložljive naprave</string>
-  <string name="bluetooth_preference_found_media_devices">Dostopne naprave</string>
+  <string name="bluetooth_preference_found_media_devices">Naprave na voljo</string>
   <string name="bluetooth_preference_no_found_devices">Nobena naprava ni na voljo</string>
   <string name="bluetooth_preference_paired_devices">Seznanjene naprave</string>
   <string name="bluetooth_preference_paired_dialog_contacts_option">Stiki in zgodovina klicev</string>
@@ -1434,7 +1434,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="child_mode_settings">Starševski nadzor</string>
   <string name="childmod_privacy_password_role_instruction">Vključite Otroški način da preprečite neželjena dejanja dokler napravo uporablja otrok</string>
   <string name="children_mode_enable_title">Otroški način</string>
-  <string name="children_mode_set_apps_title">Dostopne aplikacije</string>
+  <string name="children_mode_set_apps_title">Aplikacije na voljo</string>
   <string name="children_mode_tips_off">Po vklopu Otroškega načina se dotaknite tipke Domov za vrnitev na začetni zaslon.</string>
   <string name="children_mode_tips_on">Po izklopu Otroškega načina se dotaknite tipke Domov za vrnitev na začetni zaslon.</string>
   <string name="children_mode_title">Otroški način</string>
@@ -1465,7 +1465,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="close_demo_mode">Prekliči</string>
   <string name="close_dialog">V redu</string>
   <string name="close_fod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
-  <string name="close_fod_aod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. \"Vedno vključeno\" tudi ne bo dostopno. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
+  <string name="close_fod_aod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. \"Vedno vključeno\" tudi ne bo na voljo. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
   <string name="close_gesture">Premik za zapiranje</string>
   <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
@@ -1965,7 +1965,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="device_admin_status">Ta skrbniška aplikacija je aktivna in aplikaciji %1$s omogoča izvajanje teh postopkov:</string>
   <string name="device_admin_title">Skrbništvo naprave</string>
     <string name="device_admin_warning">Če aktivirate to skrbniško aplikacijo, boste aplikaciji %1$s omogočili izvajanje teh postopkov:</string>
-  <string name="device_available_memory">Dostopna shramba</string>
+  <string name="device_available_memory">Shramba na voljo</string>
   <string name="device_battery">Baterija</string>
   <string name="device_build_id">Verzija</string>
   <string name="device_camera">Kamera</string>
@@ -2130,7 +2130,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="display_vr_pref_title">Ko je naprava v načinu VR</string>
   <string name="dlg_cancel">Prekliči</string>
   <string name="dlg_close">Zapri</string>
-  <string name="dlg_confirm_uicc_unmount_text">Če izključite UICC pomnilnik se bodo nekatere aplikacije ki jih uporabljate ustavile in morda ne bodo dostopne dokler spet ne vključite UICC pomnilnika.</string>
+  <string name="dlg_confirm_uicc_unmount_text">Če izključite UICC pomnilnik se bodo nekatere aplikacije ki jih uporabljate ustavile in morda ne bodo na voljo dokler spet ne vključite UICC pomnilnika.</string>
   <string name="dlg_confirm_uicc_unmount_title">Izključim UICC pomnilnik?</string>
   <string name="dlg_confirm_unmount_text">Če izpnete pomnilnik USB bodo nekatere aplikacije ki jih uporabljate nehale delovati in ne bodo na voljo dokler pomnilnika USB spet ne vpnete.</string>
   <string name="dlg_confirm_unmount_title">Želite izpeti pomnilnik USB?</string>
@@ -3116,7 +3116,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keywords_gps">GPS;Lokacija;Storitev lokacije;Satelit</string>
   <string name="keywords_home">zaganjalnik</string>
   <string name="keywords_hotspot">Dostopna točka;Hotspot;Deljenje;Osebni hotspot;Premični hotspot</string>
-    <string name="keywords_hotspot_tethering">povezava z internetom prek mobilnega telefona prek kabla USB, povezava z internetom prek mobilnega telefona prek povezave Bluetooth, dostopna točka wifi</string>
+    <string name="keywords_hotspot_tethering">povezava s spletom prek mobilnega telefona prek kabla USB, povezava z internetom prek mobilnega telefona prek povezave Bluetooth, dostopna točka wifi</string>
     <string name="keywords_ignore_optimizations">prezrtje, optimizacije, dremanje, aplikacija v pripravljenosti</string>
     <string name="keywords_imei_info">imei, meid, min, različica seznama prednostnih omrežij za gostovanje, različica programske opreme za imei</string>
     <string name="keywords_install_other_apps">nameščanje aplikacij neznani viri</string>
@@ -3618,7 +3618,7 @@ To ne bo preklicalo plana mobilne uporabe."</string>
   <string name="master_clear_final_desc">Izbris vseh vaših podatkov in aplikacij? Tega dejanja ni mogoče razveljaviti!</string>
   <string name="master_clear_gesture_explanation">Za povrnitev na tovarniške nastavitve morate vnesti vzorec za odklep.</string>
   <string name="master_clear_gesture_prompt">Narišite vzorec za odklepanje</string>
-  <string name="master_clear_not_available">Vračanje na tovarniško stanje ni dostopno za tega uporabnika</string>
+  <string name="master_clear_not_available">Vračanje na tovarniško stanje ni na voljo za tega uporabnika</string>
   <string name="master_clear_other_users_present">"
 
 Na tej napravi je več uporabnikov.
@@ -3764,7 +3764,7 @@ Na tej napravi je več uporabnikov.
   <string name="miracast_sink_busy">Zasedeno</string>
   <string name="miracast_sink_connected">Povezano</string>
   <string name="miracast_sink_connecting">Povezovanje…</string>
-  <string name="miracast_sink_not_available">Ni dostopno</string>
+  <string name="miracast_sink_not_available">Ni na voljo</string>
   <string name="miracast_sink_ready_to_connect">Pripravljen za povezovanje</string>
   <string name="miracast_wifi_off">Za uporabo Miracasta omogočite Wifi</string>
   <string name="misc_files">Razne datoteke</string>
@@ -3781,7 +3781,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_ime_xiaoai_voice_hint">Hitrejši in bolj praktičen način vnosa besedila</string>
   <string name="miui_ime_xiaoai_voice_title">Mi AI glasovni vnos</string>
   <string name="miui_input_method_settings">Nastavitve načina vnosa</string>
-  <string name="miui_lab_ai_cloud_closed">"AI pred-branje še ni dostopno."</string>
+  <string name="miui_lab_ai_cloud_closed">"AI pred-branje še ni na voljo."</string>
   <string name="miui_lab_ai_preload_desc">AI pred-branje povečuje hirost zagona aplikacije</string>
   <string name="miui_lab_ai_preload_title">AI pred-branje</string>
   <string name="miui_lab_drive_mode_desc">Uporabite glasovne kontrole &amp; poslušajte WeChat sporočila</string>
@@ -3928,7 +3928,7 @@ Na tej napravi je več uporabnikov.
   <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
   <string name="music_HiFi_title">HiFi avdio</string>
-  <string name="music_app_unavailable">Preverite ali je aplikacija Mi Glasba dostopna.</string>
+  <string name="music_app_unavailable">Preverite ali je aplikacija Mi Glasba na voljo.</string>
   <string name="music_audio_effect_optimize">Avdio nastavitve</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvok, slušalke in ostale nastavitve zvoka</string>
@@ -4312,7 +4312,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="notification_toggle_off">Izklopljeno</string>
     <string name="notification_toggle_on">Vklopljeno</string>
     <string name="notification_unknown_sound_title">Zvok iz aplikacije</string>
-  <string name="notification_update_new_version">Dostopna je posodobitev</string>
+  <string name="notification_update_new_version">Na voljo je posodobitev</string>
   <string name="notification_update_now">Posodobi</string>
   <string name="notification_vibrate_title">Vibriranje</string>
   <string name="notification_volume_option_title">Glasnost obvestila</string>
@@ -4660,7 +4660,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="path_wifi_menu_p2p">Nastavitve/WiFi/Napredne nastavitve/Direktni WiFi</string>
   <string name="path_wifi_menu_wps_pin">Nastavitve/WiFi/Napredne nastavitve/Vnos WPS PIN-a</string>
   <string name="path_wifi_more_settings">Nastavitve/Več</string>
-  <string name="path_wifi_scan_always_available">Nastavitve/WiFi/Napredne nastavitve/Iskanje je zmeraj dostopno</string>
+  <string name="path_wifi_scan_always_available">Nastavitve/WiFi/Napredne nastavitve/Iskanje je zmeraj na voljo</string>
   <string name="path_wifi_setting_frequency_band_title">Nastavitve/WiFi/Napredne nastavitve/Pas frekvence WiFi omrežja</string>
   <string name="path_wifi_setting_sleep_policy_title">Nastavitve/WiFi/Napredne nastavitve/Obdrži WiFi med mirovanjem</string>
   <string name="path_wifi_settings">Nastavitve/WiFi</string>
@@ -6147,10 +6147,10 @@ Morda je koda PIN napačna."</string>
   <string name="slider_app_open_none">Nič</string>
   <string name="slider_button_title">Zamenjaj</string>
   <string name="slider_choose_app">Izberi aplikacijo</string>
-  <string name="slider_game_tool_summary">Povlecite zaslon dol da vidite dostopne bližnjice med igranjem igre</string>
+  <string name="slider_game_tool_summary">Povlecite zaslon dol da vidite bližnjice na voljo med igranjem igre</string>
   <string name="slider_game_tool_tilte">Bližnjice iger</string>
   <string name="slider_global_summary_app">Povlecite zaslon dol da odprete aplikacij</string>
-  <string name="slider_global_summary_drawer">Povlecite zaslon dol da vidite dostopne bližnjice</string>
+  <string name="slider_global_summary_drawer">Povlecite zaslon dol da vidite bližnjice na voljo</string>
   <string name="slider_global_summary_selfie">Povlecite zaslon dol da posnamete selfie</string>
   <string name="slider_global_title">Bližnjice drsnika</string>
   <string name="slider_high_grade_summary">Povlecite zaslon dol da izvršite prilagojeno opravilo pod določenimi pogoji</string>
@@ -6165,7 +6165,7 @@ Morda je koda PIN napačna."</string>
   <string name="slider_tool_drawer">Odpri prodja</string>
   <string name="slider_tool_none">Nič</string>
   <string name="slider_tool_none_summary">NI dodeljenih bližnjic</string>
-  <string name="slider_video_tool_summary">Povlecite zaslon dol da vidite dostopne bližnjice med gledanjem videoposnetka</string>
+  <string name="slider_video_tool_summary">Povlecite zaslon dol da vidite bližnjice na voljo med gledanjem videoposnetka</string>
   <string name="slider_video_tool_title">Bližnjice videoposnetka</string>
   <string name="slider_vocie_click_too_often">Prehitro! Počakajte trenutak ali dva in poskusite ponovno.</string>
   <string name="slider_vocie_online_close">Povleci gor</string>
@@ -6429,7 +6429,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="storage_internal_forget_confirm_title">Opustim napravo za shr. ^1?</string>
   <string name="storage_internal_forget_details">"Za dostop do aplikacij, fotografij ali podatkov v napravi ^1 jo ponovno vstavite. 
 
-Lahko jo pozabite če ni dostopna. 
+Lahko jo pozabite če ni na voljo. 
 
 Če se odločite za opcijo pozabe bodo vsi podatki izbrisani. 
 
@@ -6626,7 +6626,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="summary_err_restore_encrypting">"Ne morem vrniti. Preverite ali je ta var. kopija napravljena z uporabo vašega Mi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="summary_font_size_v2">Nastavljanje velikosti teksta, slik in ikon</string>
-  <string name="super_resolution_access_title">Dostopne aplikacije</string>
+  <string name="super_resolution_access_title">Aplikacije na voljo</string>
   <string name="super_resolution_desc">Naredite slike ostrejše s pomočjo AI algoritma</string>
   <string name="super_resolution_maintain">"Super resolucija še ni na voljo."</string>
   <string name="super_resolution_no_app_tips">Najprej prenesite WeChat in Toutiao.</string>
@@ -6788,7 +6788,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="tether_settings_launch_title">Prenosna dostopna točka</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Spletna povezava prek telefona</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Dostopna točka je vklopljena</string>
-    <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, internetna povezava prek telefona</string>
+    <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, spletna povezava prek telefona</string>
     <string name="tether_settings_title_all">Dostopna točka in skupna raba mobilnega interneta</string>
   <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>
   <string name="tether_settings_title_usb">Splet prek USB-ja</string>
@@ -7261,7 +7261,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="unrestricted_data_saver">Neomejen dostop do prenosa podatkov</string>
     <string name="unsupported_setting_summary">Telefon ne podpira nastavitve</string>
   <string name="untitled_apn">Brez naslova</string>
-  <string name="update_new_version">Dostopna je posodobitev</string>
+  <string name="update_new_version">Na voljo je posodobitev</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
   <string name="upload_audio_log">Začni dobivanje zvočnega zapisa</string>
   <string name="upload_debug_log_summary">Statistika uporabe ki nam pomaga pri iskanju in reševanju težav lahko vsebuje vaše osebne podatke</string>
@@ -7761,7 +7761,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="wifi_add_network">Dodaj omrežje</string>
   <string name="wifi_advanced_ip_address_title">Naslov IP</string>
   <string name="wifi_advanced_mac_address_title">Naslov MAC</string>
-  <string name="wifi_advanced_not_available">Napredne nastavitve WiFi temu uporabniku niso dostopne</string>
+  <string name="wifi_advanced_not_available">Napredne nastavitve WiFi temu uporabniku niso na voljo</string>
   <string name="wifi_advanced_settings_label">IP nastavitve</string>
   <string name="wifi_advanced_titlebar">Napredni WiFi</string>
     <string name="wifi_advanced_toggle_description_collapsed">Spustni seznam Dodatne možnosti. Dvakrat se dotaknite, da ga razširite.</string>
@@ -7796,7 +7796,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
 2. Če bodo vsa WiFi omrežja slaba bo WiFi Asistent zamenjal na mobilne podatke."</string>
   <string name="wifi_assistant_dialog_message">"WiFi Asistent želi nastaviti VPN povezavo katera omogoča spremljanje omrežnega prometa. Sprejmite samo če zaupate viru."</string>
   <string name="wifi_assistant_disconnect">Prekini povezavo</string>
-  <string name="wifi_assistant_explanation_message">Google WiFi Asistent odkriva omrežja ki so vam dostopna in poveže napravo s tisto ki ima največjo hitrost in varnost.</string>
+  <string name="wifi_assistant_explanation_message">Google WiFi Asistent odkriva omrežja ki so vam na voljo in poveže napravo s tisto ki ima največjo hitrost in varnost.</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">To WiFi omrežje nima dostopa do spleta. Uporabim mobilne podatke?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">To WiFi omrežje nima dostopa do spleta. Prekinem povezavo?</string>
   <string name="wifi_assistant_explicitly_confirm_wifi_message">To WiFi omrežje nima dostopa do spleta. Dostupna so druga WiFi omrežja. Zamenjam omrežje?</string>
@@ -8030,7 +8030,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_notify_cmcc_connected_summary">Pokaži obvestilo ko je povezano na CMCC omrežje</string>
   <string name="wifi_notify_cmcc_connected_title">Obvestila CMCC omrežij</string>
     <string name="wifi_notify_open_networks">Obveščanje o odprtih omrežjih</string>
-  <string name="wifi_notify_open_networks_summary">Obvesti zmeraj kadar je dostopno javno omrežje</string>
+  <string name="wifi_notify_open_networks_summary">Obvesti zmeraj kadar je na voljo javno omrežje</string>
   <string name="wifi_off_airplane_on_cancel">Prekini</string>
   <string name="wifi_off_airplane_on_confirm">V redu</string>
   <string name="wifi_off_airplane_on_content">Lahko ročno vključite WiFi v načinu "Letalo".</string>
@@ -8087,8 +8087,8 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_scan_always_turnon_message">"Za izboljšanje natančnosti lokacijskih podatkov in druge namene želi %1$s vklopiti iskanje omrežij tudi ko je WiFi izklopljen. Želite to dovoliti vsem aplikacijam ki želijo iskati omrežja?"</string>
   <string name="wifi_scan_notify_remember_choice">Ne kaži več</string>
   <string name="wifi_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno iščejo omrežja WiFi. To lahko spremenite v nastavitvah iskanja.</string>
-  <string name="wifi_scan_notify_text_location_off">Aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno dostopno.</string>
-  <string name="wifi_scan_notify_text_location_on">Zaradi izboljšavanja natančnosti in drugih namenov Google in ostale aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno dostopno.</string>
+  <string name="wifi_scan_notify_text_location_off">Aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno na voljo.</string>
+  <string name="wifi_scan_notify_text_location_on">Zaradi izboljšavanja natančnosti in drugih namenov Google in ostale aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno na voljo.</string>
     <string name="wifi_scan_notify_text_scanning_off">Če želite izboljšati natančnost ugotavljanja lokacije v nastavitvah iskanja vklopite iskanje omrežij WiFi.</string>
   <string name="wifi_secured_first_item">Varovano z geslom %1$s</string>
   <string name="wifi_secured_second_item">, varovano z geslom %1$s</string>
@@ -8097,7 +8097,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_select_network">Izberi WiFi</string>
   <string name="wifi_set_priority_settings_summary">Kliknite za nastavitev prioritete za vsako dostopno točko</string>
   <string name="wifi_set_priority_settings_title">Nastavitve AP prioritete</string>
-  <string name="wifi_setting_category">Dostopna omrežja</string>
+  <string name="wifi_setting_category">Omrežja na voljo</string>
   <string name="wifi_setting_connect_type_error">Prišlo je do težav z nastavljanjem vrste povezave.</string>
   <string name="wifi_setting_frequency_band_error">Težava pri nastavitvi frekvenčnega pasu.</string>
   <string name="wifi_setting_frequency_band_summary">Določite frekvenčni obseg delovanja</string>
@@ -8353,7 +8353,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="xiaomi_cloud_service_disabled">Izključeno</string>
   <string name="xiaomi_cloud_service_unknown">Neznano</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
-  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>
+  <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_available_notif_summary">Dotaknite se za več informacij</string>
@@ -8365,7 +8365,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  
   Velikost Delta posodobitve: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Dostopna nova posodobitev!</string>
+  <string name="xiaomi_update_dialog_title">Na voljo je nova posodobitev!</string>
   <string name="xspace">Dvojne aplikacije</string>
   <string name="yes">Da</string>
   <string name="you_wont_see_this">:)</string>

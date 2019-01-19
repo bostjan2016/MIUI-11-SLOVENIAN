@@ -602,12 +602,12 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="view_password_description">Prikaži geslo</string>
   <string name="wifi_title">WiFi nastavitve</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
-  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>
+  <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="xiaomi_router">Mi Router</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s 
   Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  
   Velikost Delta posodobitve: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Dostopna nova posodobitev!</string>
+  <string name="xiaomi_update_dialog_title">Na voljo je nova posodobitev!</string>
 </resources>

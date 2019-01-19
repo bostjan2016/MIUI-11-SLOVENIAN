@@ -51,7 +51,7 @@
   <string name="animator_duration_scale_title">Merilo daljine animatorja</string>
   <string name="anonymous_source_continue">Nadaljuj</string>
   <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
-  <string name="apn_settings_not_available">Nastavitve pristopne točke niso dostopne temu uporabniku</string>
+  <string name="apn_settings_not_available">Nastavitve pristopne točke niso na voljo temu uporabniku</string>
   <string name="app_name">Orodje za namestitev paketa.</string>
   <string name="app_name_unknown">Neznano</string>
   <string name="app_not_found_dlg_text">Aplikacije ni bilo mogoče najti na seznamu nameščenih aplikacij.</string>
@@ -66,8 +66,8 @@
   <string name="app_store_missing_message">"Kaže da niste namestili naše službene App Store. Jo namestim zdaj?"</string>
   <string name="app_store_missing_title">"App Store ni nameščena"</string>
   <string name="auto_startup_dialog_msg">Ta aplikacija se lahko zažene brez vašega dovoljenja.</string>
-  <string name="available_via_carrier">Dostopno preko %1$s</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_carrier">Na voljo preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje z omrežnim polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
@@ -407,7 +407,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="media_category">Predstavnosti</string>
   <string name="menu_hide_system">Skrij sistem</string>
   <string name="menu_show_system">Prikaži sistem</string>
-  <string name="message_appstore_verify_has_new_version">Novejša verzija te aplikacije je dostopna v App Store. Jo želite namestiti?</string>
+  <string name="message_appstore_verify_has_new_version">Novejša verzija te aplikacije je na voljo v App Store. Jo želite namestiti?</string>
   <string name="message_appstore_verify_inconsistent">"Ta aplikacija ima drugačen podpis od tistega v App Store, bolje da jo namestite od tam."</string>
   <string name="message_appstore_verify_ok">Verzija te aplikacije iz App Store je opravila naše varnostne teste, bolje da jo namestite od tam.</string>
   <string name="message_full_scanning">Popolno preverjanje..</string>
@@ -628,7 +628,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="tether_settings_title_usb_bluetooth">Splet prek mob. napr</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tethering_hardware_offload">Skupna raba strojnega pospeševanja</string>
-  <string name="tethering_hardware_offload_summary">Uporabljaj skupno rabo strojnega pospeševanja če je dostopno</string>
+  <string name="tethering_hardware_offload_summary">Uporabljaj skupno rabo strojnega pospeševanja če je na voljo</string>
   <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="time_unit_just_now">Ravno sedaj</string>
   <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
@@ -716,7 +716,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wear_app_channel">Namestitev/odstranitev Wear apl.</string>
   <string name="wear_not_allowed_dlg_text">Nam./odstr. opravil ni dovoljeno na Wear-u.</string>
   <string name="wear_not_allowed_dlg_title">Android Wear</string>
-  <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka začasno zavzeta</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka začasno zasedena</string>
   <string name="wifi_cant_connect">"Ne morem se povezati"</string>
   <string name="wifi_cant_connect_to_ap">"Ne morem se povezati na '%1$s'"</string>
   <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>

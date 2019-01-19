@@ -6,7 +6,7 @@
   <string name="accessibility_wifi_signal_full">WiFi signal je poln.</string>
   <string name="accessibility_wifi_three_bars">WiFi signal ima tri stolpce.</string>
   <string name="accessibility_wifi_two_bars">WiFi signal ima dva stolpca.</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano z medijskim zvokom</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Uporabi za medijski zvok</string>
   <string name="bluetooth_connected">Povezan</string>

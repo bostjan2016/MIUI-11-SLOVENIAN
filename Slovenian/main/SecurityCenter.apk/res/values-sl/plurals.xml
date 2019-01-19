@@ -238,8 +238,8 @@
          <item quantity="one">"Statistični podatki o uporabi podatkov niso sinhronizirani %d dan"</item>
      </plurals>
 	<plurals name="summary_app_update">
-        <item quantity="other">Posodobitve dostopne za (%d) aplikacij</item>
-        <item quantity="one">Posodobitev dostopna za (%d) aplikacijo</item>
+        <item quantity="other">Posodobitve na voljo za (%d) aplikacij</item>
+        <item quantity="one">Posodobitev na voljo za (%d) aplikacijo</item>
     </plurals>
     <plurals name="notification_title_cmcc_app_check">
          <item quantity="other">%d dni od zadnjega pregleda</item>
@@ -395,8 +395,8 @@
          <item quantity="one">Dodana %d igra</item>
      </plurals>
      <plurals name="app_manager_apps_generation_title">
-         <item quantity="other">Dostopna posodobitev za %d aplikacij</item>
-         <item quantity="one">Dostopna posodobitev za %d aplikacijo</item>
+         <item quantity="other">Na voljo posodobitev za %d aplikacij</item>
+         <item quantity="one">Na voljo posodobitev za %d aplikacijo</item>
      </plurals>
      <plurals name="app_manager_permission_read_contact">
          <item quantity="other">Dostopano stikom %d krat</item>

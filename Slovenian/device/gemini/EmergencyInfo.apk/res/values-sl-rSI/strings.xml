@@ -49,7 +49,7 @@
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso omogočene za tega uporabnika</string>
   <string name="app_label">Podatki za nujne primere</string>
   <string name="app_process_limit_title">Omejitev procesa v ozadju</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="b_negative">B negativna</string>
   <string name="b_positive">B pozitivna</string>
   <string name="battery_info_status_charging">Polnjenje</string>

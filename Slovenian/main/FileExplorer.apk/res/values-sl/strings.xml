@@ -217,7 +217,7 @@
   <string name="dialog_type_video">Videoposnetki</string>
   <string name="dir_not_support">"Ne morem skriti mape."</string>
   <string name="directory_no_item">Prazno</string>
-  <string name="disk_available">Dostopno:</string>
+  <string name="disk_available">Na voljo:</string>
   <string name="disk_total">Skupaj:</string>
   <string name="dislike_toast">"Takšni videoposnetki ne bodo priporočeni za vas."</string>
   <string name="dislike_video">"Nisem zainteresiran"</string>
@@ -565,7 +565,7 @@
   <string name="notification_wechat_auto_backup_hint">Dotaknite se da boste zvedeli več.</string>
   <string name="notification_wechat_auto_backup_switch_title">Napravi var. kopijo Chats videoposnetkov</string>
   <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
-  <string name="notification_wechat_sticker_hint">Prikaži obvestilo kadar bodo dostopne nove WeChat nalepke</string>
+  <string name="notification_wechat_sticker_hint">Prikaži obvestilo kadar bodo na voljo nove WeChat nalepke</string>
   <string name="notification_wechat_sticker_switch_title">Dnevna obvestila o novih nalepkah</string>
   <string name="notification_wechat_title">Obvesti kdaj bodo WeChat videoposnetki potekli</string>
   <string name="notify_private_folder_msg">Dotaknite se da boste zvedeli več.</string>
@@ -682,9 +682,9 @@
   <string name="phone_storage_cal">Preverjam…</string>
   <string name="phone_storage_clean">Očisti</string>
   <string name="phone_storage_doc_title">Dokumenti: </string>
-  <string name="phone_storage_free_title">Dostopno: </string>
+  <string name="phone_storage_free_title">Na voljo: </string>
   <string name="phone_storage_image_title">Slike: </string>
-  <string name="phone_storage_info_str">Dostopno: %1$s | Skupaj: %2$s</string>
+  <string name="phone_storage_info_str">Na voljo: %1$s | Skupaj: %2$s</string>
   <string name="phone_storage_other_title">Ostalo: </string>
   <string name="phone_storage_size_tip">Količina prostora prikazana tu se lahko razlikuje od tiste v sistemu.</string>
   <string name="phone_storage_total">Skupaj</string>
@@ -713,7 +713,7 @@
   <string name="pull_to_signin">Podrsajte navzdol za prijavo.</string>
   <string name="qq_not_installed">"QQ ni nameščen"</string>
   <string name="qq_platform">QQ</string>
-  <string name="quota_info">MiDrive: %1$s dostopno, %2$s skupaj</string>
+  <string name="quota_info">MiDrive: %1$s na voljo, %2$s skupaj</string>
   <string name="qzone_platform">Qzone</string>
   <string name="recent_show">Nedavno</string>
   <string name="recommend">Priporočeno</string>
@@ -767,7 +767,7 @@
   <string name="sd_full">Vaša SD kartica je polna.</string>
   <string name="sd_invalid">Ne morem uporabiti vaše SD kartice.</string>
   <string name="sdcard">SD kartica</string>
-  <string name="sdcard_available">Dostopno %1$s</string>
+  <string name="sdcard_available">Na voljo %1$s</string>
   <string name="sdcard_total">Skupaj %1$s</string>
   <string name="search_activity_hint">Iskanje</string>
   <string name="search_app">Aplik. &amp; mape</string>
@@ -896,8 +896,8 @@
   <string name="sticker_btn_str_explore_tab">Preiščite kup zabavnih stvari!</string>
   <string name="stop_server">Ustavi strežnik</string>
   <string name="storage_cloned_app">Prostor za shranjevanje za dvojne aplikacije</string>
-  <string name="storage_info">%1$s dostopno</string>
-  <string name="storage_info_detail">Dostopno:%1$s Skupaj:%2$s</string>
+  <string name="storage_info">%1$s na voljo</string>
+  <string name="storage_info_detail">Na voljo:%1$s Skupaj:%2$s</string>
   <string name="storage_internal">Notranji pomnilnik</string>
   <string name="storage_internal_description">Notranji pomnilnik</string>
   <string name="storage_sd_card">SD kartica</string>

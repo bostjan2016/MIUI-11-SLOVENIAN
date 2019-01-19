@@ -356,7 +356,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="auto_startup_application_manage">Samodejni zagon</string>
   <string name="auto_startup_count">Dovoljen samodejni zagon aplik.: %d</string>
   <string name="automatic_brightness">Samodejna svetlost</string>
-  <string name="available_size">%s dostopno</string>
+  <string name="available_size">%s na voljo</string>
   <string name="available_via_passpoint">Na voljo prek: %1$s</string>
   <string name="available_virtual_keyboard_category">Razpoložljiva navidezna tipkovnica</string>
   <string name="average_memory_use">Povprečna uporaba pomnilnika</string>
@@ -2205,7 +2205,7 @@ Trenutno ste vpisani v te račune:
   <string name="master_clear_final_desc">Izbris vseh vaših podatkov in aplikacij? Tega dejanja ni mogoče razveljaviti!</string>
   <string name="master_clear_gesture_explanation">Za povrnitev na tovarniške nastavitve morate vnesti vzorec za odklep.</string>
   <string name="master_clear_gesture_prompt">Narišite vzorec za odklepanje</string>
-  <string name="master_clear_not_available">Vračanje na tovarniško stanje ni dostopno za tega uporabnika</string>
+  <string name="master_clear_not_available">Vračanje na tovarniško stanje ni na voljo za tega uporabnika</string>
   <string name="master_clear_other_users_present">"
 
 Na tej napravi je več uporabnikov.
@@ -2837,7 +2837,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_wifi_menu_p2p">Nastavitve/WiFi/Napredne nastavitve/Direktni WiFi</string>
   <string name="path_wifi_menu_wps_pin">Nastavitve/WiFi/Napredne nastavitve/Vnos WPS PIN-a</string>
   <string name="path_wifi_more_settings">Nastavitve/Več</string>
-  <string name="path_wifi_scan_always_available">Nastavitve/WiFi/Napredne nastavitve/Iskanje je zmeraj dostopno</string>
+  <string name="path_wifi_scan_always_available">Nastavitve/WiFi/Napredne nastavitve/Iskanje je zmeraj na voljo</string>
   <string name="path_wifi_setting_frequency_band_title">Nastavitve/WiFi/Napredne nastavitve/Pas frekvence WiFi omrežja</string>
   <string name="path_wifi_setting_sleep_policy_title">Nastavitve/WiFi/Napredne nastavitve/Obdrži WiFi med mirovanjem</string>
   <string name="path_wifi_settings">Nastavitve/WiFi</string>
@@ -3589,7 +3589,7 @@ Uporaba pripenjanja:
   <string name="search_wifi_menu_p2p">Direktni Wifi;Direktni Wifi</string>
   <string name="search_wifi_menu_wps_pin">Vnos WPS PIN-a;WPS;WPS PIN</string>
   <string name="search_wifi_more_settings">Več;Letalo;VPN;Deljenje povezave &amp; prenosni hotspot;Brežični zaslon;Mednarodni mobilni podatki;NFC;Android Beam;Obdrži položaj elementov</string>
-  <string name="search_wifi_scan_always_available">Iskanje je zmeraj dostopno;Išči omrežja;Išči Wifi;Išči Wifi</string>
+  <string name="search_wifi_scan_always_available">Iskanje je zmeraj na voljo;Išči omrežja;Išči Wifi;Išči Wifi</string>
   <string name="search_wifi_setting_frequency_band_title">Pas frekvence Wifi omrežja;Wifi frekvenca;WIFI frekvenca;WLAN frekvenca;Frekvenčni pas</string>
   <string name="search_wifi_setting_sleep_policy_title">Zadrži Wifi v mirovanju;Zadrži WLAN v mirovanju;Zadrži WiFi vključen med mirovanjem;Wifi vključen med mirovanjem;Wifi vključen med mirovanjem;Wifi vključen med mirovanjem</string>
   <string name="search_wifi_tether_checkbox">Prenosni hotspot;hotspot;prenosni</string>
@@ -4972,8 +4972,8 @@ WiFi Assistant"</string>
   <string name="wifi_scan_always_turnon_message">"Za izboljšanje natančnosti lokacijskih podatkov in druge namene želi %1$s vklopiti iskanje omrežij tudi ko je WiFi izklopljen. Želite to dovoliti vsem aplikacijam ki želijo iskati omrežja?"</string>
   <string name="wifi_scan_notify_remember_choice">Tega ne kaži več</string>
   <string name="wifi_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno iščejo omrežja WiFi. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
-  <string name="wifi_scan_notify_text_location_off">Aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno dostopno.</string>
-  <string name="wifi_scan_notify_text_location_on">Zaradi izboljšavanja natančnosti in drugih namenov Google in ostale aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno dostopno.</string>
+  <string name="wifi_scan_notify_text_location_off">Aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno na voljo.</string>
+  <string name="wifi_scan_notify_text_location_on">Zaradi izboljšavanja natančnosti in drugih namenov Google in ostale aplikacije lahko iščejo omrežja v bližini tudi kadar je WiFi izključen. Če tega nočete pojdite na Napredno &gt; Iskanje je stalno na voljo.</string>
   <string name="wifi_secured_first_item">Varovano z geslom %1$s</string>
   <string name="wifi_secured_second_item">, varovano z geslom %1$s</string>
   <string name="wifi_security">Varnost</string>

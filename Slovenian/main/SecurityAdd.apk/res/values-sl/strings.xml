@@ -121,7 +121,7 @@
   <string name="start_game">Start</string>
   <string name="support_game_booster_tips">Pohitritev hitrosti &amp; izboljšanje doživetja igranja</string>
   <string name="sys_cpu_title">Uporaba CPU-a</string>
-  <string name="sys_freememory_title">Dostopno</string>
+  <string name="sys_freememory_title">Na voljo</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">Podeli povezavo</string>

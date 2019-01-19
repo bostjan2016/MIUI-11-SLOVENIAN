@@ -627,8 +627,8 @@
   <string name="unusual_weather_open">Vključi opozorila vremena</string>
   <string name="unusual_weather_setting_brief">Prejmite alarme, če se nevarno vreme bliža vaši lokaciji.</string>
   <string name="unusual_weather_setting_tip">Mesta ki izdajajo opozorila lahko spremenite v aplikaciji za vreme.</string>
-  <string name="upgrade_bottom_dialog">Dostopna je posodobitev</string>
-  <string name="upgrade_find">Dostopna je posodobitev</string>
+  <string name="upgrade_bottom_dialog">Na voljo je posodobitev</string>
+  <string name="upgrade_find">Na voljo je posodobitev</string>
   <string name="upgrade_later">Namesti kasneje</string>
   <string name="upgrade_log_default">"1. Izboljšana zmogljivost.
 2. Popravljene napake."</string>

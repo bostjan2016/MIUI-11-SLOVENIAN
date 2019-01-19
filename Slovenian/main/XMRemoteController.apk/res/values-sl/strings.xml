@@ -368,7 +368,7 @@ Poskusite naslednje da  rešite problem:
   <string name="get_info_failed">"Ne morem dobiti informacij"</string>
   <string name="get_location_fail_tip">"Ne morem nastaviti lokacije, izberite mesto"</string>
   <string name="guid_one">· Povežite se na isto WiFi mrežo kot ciljna naprava.</string>
-  <string name="guid_three">"· Nekatere kontrole mogoče ne bodo dostopne če vaš TV ali set-up box ne podpira Android."</string>
+  <string name="guid_three">"· Nekatere kontrole mogoče ne bodo na voljo če vaš TV ali set-up box ne podpira Android."</string>
   <string name="guid_two">· Naprave bodo odkrite in prikazane na tej strani</string>
   <string name="guid_zero">". Vaša naprava ne podpira infrardeče naprave, podpira pa WiFi daljinske upravljalce."</string>
   <string name="guide">Vodič</string>
@@ -587,7 +587,7 @@ počakajte trenutek po opravilu"</string>
   <string name="next_step">Naslednji korak</string>
   <string name="no">Ne</string>
   <string name="no_backup">Ni varnostnih kopij</string>
-  <string name="no_brand_service">Znamka trenutno ni dostopna</string>
+  <string name="no_brand_service">Znamka trenutno ni na voljo</string>
   <string name="no_current_play">"Predvaja se: - "</string>
   <string name="no_data">Ni podatka</string>
   <string name="no_introduction">Ni opisa</string>
@@ -1045,7 +1045,7 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="upgrade_already_latest">Ni dostopnih posodobitev.</string>
   <string name="upgrade_current_version">Trenutna verzija %1s</string>
   <string name="upgrade_download">Prevzami apk</string>
-  <string name="upgrade_found_new_version">Posodobitev dostopna (%1s)</string>
+  <string name="upgrade_found_new_version">Posodobitev na voljo (%1s)</string>
   <string name="upgrade_later">Ne zdaj</string>
   <string name="upgrade_loading">Prenos…</string>
   <string name="upgrade_log">"Kaj je novega"</string>

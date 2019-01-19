@@ -546,9 +546,9 @@ Razlog: \"%s\""</string>
   <string name="hybrid_data_error">Prišlo je do napake</string>
   <string name="hybrid_locating_fail">"Ne morem najti vaše lokacije"</string>
   <string name="hybrid_network_unavaliable">"Ne morem se povezati v omrežje"</string>
-  <string name="hybrid_service_unavailiable">Storitev ni dostopna</string>
+  <string name="hybrid_service_unavailiable">Storitev ni na voljo</string>
   <string name="hybrid_try_again">Poskusite ponovno</string>
-  <string name="hybrid_webpage_not_available">Spletna stran ni dostopna</string>
+  <string name="hybrid_webpage_not_available">Spletna stran ni na voljo</string>
   <string name="ic_menu_back">Nazaj</string>
   <string name="ic_menu_done">Končano</string>
   <string name="imLabelsGroup">IM</string>

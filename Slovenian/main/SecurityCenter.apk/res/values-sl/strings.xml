@@ -1157,8 +1157,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebooster_lowbattery_notification_title">Baterija je na manj kot 5%%</string>
   <string name="gamebooster_main_activity_back">Nazaj</string>
   <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
-  <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
-  <string name="gamebox_app_not_find">Najprej namestite apliakcijo.</string>
+  <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
+  <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
   <string name="gamebox_type_close">"Ne kaži"</string>
   <string name="gamebox_type_float">Popravljena bližnjica</string>
@@ -1483,7 +1483,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="man_add_application">Dodajte ročni samod. zagon aplikacije</string>
   <string name="manage_hybrid_permissions">"Upravljanje dovoljenj aplikacij"</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
-  <string name="manual_handle_title">DOSTOPNA OPRAVILA</string>
+  <string name="manual_handle_title">OPRAVILA NA VOLJO</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>
   <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim aplikacijam</string>
@@ -1530,7 +1530,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="memory_clean_no_need_clean">Vse izgleda dobro</string>
   <string name="memory_clean_no_running_process">Ni nalog za brisanje</string>
   <string name="memory_clean_running_process_title">Spremljanje aplikacij (%d)</string>
-  <string name="memory_cleaned_memory_info">Dostopno spomina</string>
+  <string name="memory_cleaned_memory_info">Na voljo spomina</string>
   <string name="memory_cleaned_memory_up">Povečaj hitrost</string>
   <string name="memory_clear_unused">Očisti predpomnilnik (%s)</string>
   <string name="menu_add">Dodaj</string>
@@ -2781,7 +2781,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
 Če niste menjali verzije miui poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi servis za pomoč."</string>
   <string name="sys_app_prot_cracked_title">Varnostno tveganje</string>
   <string name="sys_cpu_title">Uporaba CPU</string>
-  <string name="sys_freememory_title">Dostopno</string>
+  <string name="sys_freememory_title">Na voljo</string>
   <string name="sys_title_gamebooster_unit_gb">GB</string>
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Sistemske aplikacije</string>
@@ -2915,7 +2915,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko ste blizu svojega mesečnega limita"</string>
   <string name="tips_of_virus_scan">Redno izvajajte protivirusni pregled naprave</string>
   <string name="title_app_lock_disable">Zakl. aplikacij</string>
-  <string name="title_app_update">Dostopne posodobitve</string>
+  <string name="title_app_update">Posodobitve na voljo</string>
   <string name="title_auto_update">Posodobi samodejno</string>
   <string name="title_background_connection">"Ne morete uporabljati %s v ozadju?"</string>
   <string name="title_block_calls_from_cantacts">Zgrešili ste klice vaših stikov?</string>

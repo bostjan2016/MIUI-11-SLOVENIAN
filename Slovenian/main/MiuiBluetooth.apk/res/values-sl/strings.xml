@@ -39,7 +39,7 @@
   <string name="bluetooth_disconnecting">Prekinitev povezave…</string>
   <string name="bluetooth_device_context_unpair">Razdruži</string>
   <string name="bluetooth_preference_connected_devices">Seznanjene naprave</string>
-  <string name="bluetooth_preference_found_devices">Dostopne naprave</string>
+  <string name="bluetooth_preference_found_devices">Naprave na voljo</string>
   <string name="bluetooth_preference_scan_title">Najdi naprave</string>
   <string name="bluetooth_search_for_devices">najdi naprave</string>
   <string name="device_picker">Nastavitve Bluetooth naprave</string>

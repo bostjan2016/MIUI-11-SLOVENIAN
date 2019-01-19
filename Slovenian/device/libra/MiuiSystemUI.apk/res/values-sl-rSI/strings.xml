@@ -48,9 +48,9 @@
   <string name="accessibility_phone_three_bars">Telefon tri črtice.</string>
   <string name="accessibility_phone_two_bars">Telefon dve črtici.</string>
   <string name="accessibility_recent">Nedavne aplikacije</string>
-  <string name="accessibility_recent_task_enter">Nedavno odprto, dostopno aplik. %d.</string>
+  <string name="accessibility_recent_task_enter">Nedavno odprto, na voljo aplik. %d.</string>
   <string name="accessibility_recent_task_exit">Nedavno zaprto</string>
-  <string name="accessibility_recent_task_first_enter_tips">Nedavno odprto, dostopno aplik. %d. Povleci gor za odstanitev, povleci dol za zaklep.</string>
+  <string name="accessibility_recent_task_first_enter_tips">Nedavno odprto, na voljo aplik. %d. Povleci gor za odstanitev, povleci dol za zaklep.</string>
   <string name="accessibility_recent_task_locked">Zaklenjeno, povleci dol za odklep.</string>
   <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Dostopen RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
   <string name="accessibility_recent_task_unlocked">Odklenjeno</string>
@@ -86,7 +86,7 @@
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj zvok</string>
   <string name="audio_effect_settings">Izberi vrsto slušalk</string>
-  <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje s polnilcem</string>
   <string name="battery_info_status_charging_ac_short">Polnjenje</string>
@@ -481,7 +481,7 @@ Uporabite priloženi polnilnik."</string>
 Povlecite navzdol za zaklepanje"</string>
   <string name="status_bar_recent_guide_bottom">Povlecite navzdol za zaklepanje</string>
   <string name="status_bar_recent_guide_top">Povlecite navzgor za zapiranje</string>
-  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostopno</string>
+  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB na voljo</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Vrni se na snemanje zvoka</string>
   <string name="status_bar_recording_pause">Snemanje zvika zaustavljeno</string>

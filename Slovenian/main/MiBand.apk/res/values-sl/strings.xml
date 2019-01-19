@@ -205,7 +205,7 @@ Naslov: %2$s"</string>
   <string name="click_tolook_for_help">Pritisnite za pomoč</string>
   <string name="close_hr_check">Število utripov srca je izključeno</string>
   <string name="cm">cm</string>
-  <string name="common_google_play_services_api_unavailable_text">%1$s zahteva eno ali več storitev Google Play ki trenutno niso dostopne. Za pomoč se obrnite na razvojnega programerja.</string>
+  <string name="common_google_play_services_api_unavailable_text">%1$s zahteva eno ali več storitev Google Play ki trenutno niso na voljo. Za pomoč se obrnite na razvojnega programerja.</string>
   <string name="common_google_play_services_enable_button">Omogoči storitve Google Play</string>
   <string name="common_google_play_services_enable_text">%1$s ne bo deloval če ne omogočite storitve Google Play.</string>
   <string name="common_google_play_services_enable_title">Omogočanje storitve Google Play</string>
@@ -1037,7 +1037,7 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="running_time_desc">Čas</string>
   <string name="running_tip_conn_shoes">Seznanite superge da vidite tempo</string>
   <string name="running_tip_hr_ble_content">Povežite Mi Band za prikaz števila utripov srca</string>
-  <string name="running_tip_hr_bracelet_content">Dostopni podatki števila utripov srca</string>
+  <string name="running_tip_hr_bracelet_content">Na voljo podatki števila utripov srca</string>
   <string name="running_tip_hr_bracelet_label">Uporabite Mi Band Pulse</string>
   <string name="running_tip_known">Razumem</string>
   <string name="running_tip_open_ble_content">Seznanite Mi Band da vidite tempo</string>
@@ -1071,7 +1071,7 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="scan_label">Postavite QR kodo v okvir za skeniranje.</string>
   <string name="screen_lock_text_tip">Končano</string>
   <string name="screen_unlock">Odklep. zaslona</string>
-  <string name="sdcarderror">"SD kartica ni dostopna"</string>
+  <string name="sdcarderror">"SD kartica ni na voljo"</string>
   <string name="search_result_is_empty">"Ne najdem te osebe"</string>
   <string name="select_from_camera">Fotografija</string>
   <string name="select_from_local">Izberite iz Galerije</string>

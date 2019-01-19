@@ -281,7 +281,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="resource_sspace">Drugi prosotor</string>
   <string name="resource_xspace">Dvojne aplikacije</string>
   <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
-  <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej dostopna v Prvem prostoru."</string>
+  <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej na voljo v Prvem prostoru."</string>
   <string name="restore_show_toast">Zasebna sporočila se ne prikazujejo</string>
   <string name="retain_src_file">Ohrani datoteke</string>
   <string name="retain_src_photo">Ohrani fotografije</string>
@@ -429,7 +429,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugega prostora bodo premeščene v album \"Drugi prostor\" v Prvem prostoru</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
-  <string name="undo_activated_dialog_message">"Preklic avtorizacije bo izključil način dela Enterprise in povrnil napravo na tovarniške nastavitve. Vse povezane funkcije ne bodo več dostopne. Razen tega bo Xiaomi prenehal zbirati informacije potrebne za način dela Enterprise (IMEI, ID naprave, verzija sistema, regija itd.). Prekličem avtorizacijo in vrnem napravo na tovarniške nastavitve?"</string>
+  <string name="undo_activated_dialog_message">"Preklic avtorizacije bo izključil način dela Enterprise in povrnil napravo na tovarniške nastavitve. Vse povezane funkcije ne bodo več na voljo. Razen tega bo Xiaomi prenehal zbirati informacije potrebne za način dela Enterprise (IMEI, ID naprave, verzija sistema, regija itd.). Prekličem avtorizacijo in vrnem napravo na tovarniške nastavitve?"</string>
   <string name="undo_activated_dialog_ok">Prekliči</string>
   <string name="undo_grant_dialog_message">Xiaomi bo prenehal zbirati informacije potrebne za to storitev (IMEI, ID naprave, verzija sistema, regija itd.) po preklicu avtorizacije. Prekličem zdaj?</string>
   <string name="undo_privacy_menu">Prekliči avtorizacijo</string>

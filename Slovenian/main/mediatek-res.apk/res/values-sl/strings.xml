@@ -10,7 +10,7 @@
   <string name="Puk2Mmi">Deblokiraj PIN2</string>
   <string name="PukMmi">Deblokiraj PIN</string>
   <string name="RejectCauseTitle">Vzrok zavračanja omrežja</string>
-  <string name="Special_Card_Type_Title_Lte_Not_Available">LTE omrežje ni dostopno.</string>
+  <string name="Special_Card_Type_Title_Lte_Not_Available">LTE omrežje ni na voljo.</string>
   <string name="Suggest_To_Change_USIM">Predlagamo menjavo 4G SIM kartice.</string>
   <string name="VideoView_error_text_bad_file">Nepravilna datoteka, ta videoposnetek se ne more predvajati.</string>
   <string name="VideoView_error_text_cannot_connect_to_server">Ne morem se povezati s strežnikom.</string>

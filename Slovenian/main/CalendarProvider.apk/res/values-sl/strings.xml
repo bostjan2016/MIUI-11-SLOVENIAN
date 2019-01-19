@@ -18,7 +18,7 @@
   <string name="holiday_data_update_succeed">Posodabljanje končano</string>
   <string name="holiday_data_updating">Posodabljanje…</string>
   <string name="holiday_update_summary">Dotaknite se za posodabljanje informacij koledarja.</string>
-  <string name="holiday_update_title">Dostopna je posodobitev</string>
+  <string name="holiday_update_title">Na voljo je posodobitev</string>
   <string name="provider_label">Koledar</string>
   <string name="upgrade_msg">Posodobitev baze podatkov Koledarja.</string>
 </resources>

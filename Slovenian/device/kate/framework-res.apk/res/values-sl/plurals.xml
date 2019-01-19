@@ -31,16 +31,16 @@
         <item quantity="many">%d ur</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">Dostopna so WiFi omrežja</item>
-        <item quantity="one">Dostopno je WiFi omrežje</item>
-        <item quantity="few">Dostopna so WiFi omrežja</item>
-        <item quantity="many">Dostopna so WiFi omrežja</item>
+        <item quantity="other">Na voljo so WiFi omrežja</item>
+        <item quantity="one">Na voljo je WiFi omrežje</item>
+        <item quantity="few">Na voljo so WiFi omrežja</item>
+        <item quantity="many">Na voljo so WiFi omrežja</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Dostopna so odprta WiFi omrežja</item>
-        <item quantity="one">Dostopno je odprto WiFi omrežje</item>
-        <item quantity="few">Dostopna so odprta WiFi omrežja</item>
-        <item quantity="many">Dostopna so odprta WiFi omrežja</item>
+        <item quantity="other">Na voljo so odprta WiFi omrežja</item>
+        <item quantity="one">Na voljo je odprto WiFi omrežje</item>
+        <item quantity="few">Na voljo so odprta WiFi omrežja</item>
+        <item quantity="many">Na voljo so odprta WiFi omrežja</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d od %2$d</item>

@@ -3,7 +3,7 @@
   <string name="China_Mobile">China Mobile</string>
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
-  <string name="available_networks">Dostopna omrežja</string>
+  <string name="available_networks">Omrežja na voljo</string>
   <string name="connect_later">"Trenutno se ne morem povezati na to omrežje. Poskusite ponovno kasneje."</string>
   <string name="dialog_message">Prekinititev bo ustavila iskanje, sigurno želite prekiniti?</string>
   <string name="disconnect_data_confirm">Podatkovni podatki bodo začasno izključeni. Ste prepričani?</string>

@@ -55,7 +55,7 @@
   <string name="add_to_last_of_playlist">Dodaj na konec seznama pesmi.</string>
   <string name="add_to_playlist_successful">Uspešno dodano</string>
   <string name="added_next_play">Dodano za naslednje predvajanje</string>
-  <string name="alaka_required">"Ta pesem ni dostopna."</string>
+  <string name="alaka_required">"Ta pesem ni na voljo."</string>
   <string name="album_label">Ovitki albuma</string>
   <string name="album_name">Album</string>
   <string name="album_search_title">Album</string>
@@ -302,7 +302,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="dialog_title_delete_tracks">Izbriši</string>
   <string name="dialog_title_name_playlist">Ime seznama predvajanja</string>
   <string name="dialog_title_not_available">Ne morem prenesti</string>
-  <string name="dialog_title_queued_body">Datoteka ni dostopna</string>
+  <string name="dialog_title_queued_body">Datoteka ni na voljo</string>
   <string name="dialog_title_remove_tracks">Odstrani</string>
   <string name="dialog_title_track_picker">Izberi skladbo</string>
   <string name="disable_auto_payment_fail">"Ne morem izključiti"</string>
@@ -1047,8 +1047,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="song_info">Podrobnosti pesmi</string>
   <string name="song_is_empty">Ime pesmi ne sme biti prazno.</string>
   <string name="song_name">Skladba</string>
-  <string name="song_not_find">"Ta pesem ni dostopna."</string>
-  <string name="song_offline">Ta pesem ni dostopna.</string>
+  <string name="song_not_find">"Ta pesem ni na voljo."</string>
+  <string name="song_offline">Ta pesem ni na voljo.</string>
   <string name="song_unit">predmetov</string>
   <string name="songgroup_pick_album">Albumi</string>
   <string name="songgroup_pick_playlist">Seznam pesmi</string>
@@ -1182,7 +1182,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="upgrade_music">Posodobi Mi Glasbo</string>
   <string name="upgrade_music_message">Paket je pripravljen. Ponovno zaženi.</string>
   <string name="upgrade_nobeta">"Prekinjamo trenutno streaming storitev, dokler ne rešimo probleme okrog avtorskih pravic. Žal nam je zaradi sitnosti :("</string>
-  <string name="upgrade_remind">Dostopna je posodobitev</string>
+  <string name="upgrade_remind">Na voljo je posodobitev</string>
   <string name="upgrade_services">Posodobitve</string>
   <string name="upgrade_suggest">"Prekinjamo trenutno streaming storitev zaradi vprašanja avtorskih pravic. Posodobite na najnovejšo verzijo aplikacije Glasba za poslušanje glasbe visoke kvalitete."</string>
   <string name="upgrade_to">Nadgradi na</string>
@@ -1202,7 +1202,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="vip_auto_renew_notification_message">Dodajte Mi Kredite da obnovite vašo glasbeno naročnino.</string>
   <string name="vip_auto_renew_notification_title">Plačilo naročnine</string>
   <string name="vip_auto_renew_title">Obnova naročnine</string>
-  <string name="vip_renew_message">"Ne boste mogli streamati visokokvalitetni zvok, nekatere pesmi pa bodo dostopne v navadni kvaliteti."</string>
+  <string name="vip_renew_message">"Ne boste mogli streamati visokokvalitetni zvok, nekatere pesmi pa bodo na voljo v navadni kvaliteti."</string>
   <string name="vip_renew_notification_message">"Ne boste mogli streamati visokokvalitetni zvok ko vam poteče naročnina."</string>
   <string name="vip_renew_notification_title">Naročnina poteče jutri</string>
   <string name="vip_renew_title">Naročnina potekla</string>

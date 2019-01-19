@@ -200,7 +200,7 @@ Prestavi na GSM za %1$d sek…"</string>
   <string name="voip_voip_call_online">Voip klicanje, ponovno kličite kasneje</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">Povezovanje Upravitelja prenosov ni uspelo, preverite stanje Upravitelja prenosov v Upravljanju programov.</string>
-  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>
+  <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$sVelikost: %2$s"</string>

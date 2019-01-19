@@ -4,7 +4,7 @@
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
   <string name="apn_settings">Dostopne točke</string>
-  <string name="available_networks">Dostopna omrežja</string>
+  <string name="available_networks">Na voljo omrežja</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Nastavitve mobil. operaterjev</string>
@@ -27,7 +27,7 @@
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE storitev za izboljšanje glasovne in drugih komunikacij (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
   <string name="gsm_umts_options">Možnosti za GSM/UMTS</string>
-  <string name="label_available">Dostopna omrežja</string>
+  <string name="label_available">Na voljo omrežja</string>
   <string name="load_networks_progress">Iskanje…</string>
   <string name="lte_4g_settings_summaryOff">Telefon bo prestavil iz 3G/2G na 4G, nekatere aktivne naloge se lahko zaustavijo.</string>
   <string name="lte_4g_settings_summaryOn">Telefon bo prestavil iz 3G/2G in 4G bo onemogočen.</string>
@@ -97,7 +97,7 @@
   <string name="select_automatically">Izberi samodejno</string>
   <string name="settings_label">Nastavitve omrežja</string>
   <string name="sum_carrier_select">Izberite omrežnega operaterja</string>
-  <string name="sum_search_networks">Preišči vsa dostopna omrežja</string>
+  <string name="sum_search_networks">Preišči vsa omrežja</string>
   <string name="sum_select_automatically">Samodejna izbira omrežja</string>
   <string name="timeout_message">Ni najdenih dostopnih omrežij.</string>
   <string name="unknown">Neznano</string>

@@ -47,7 +47,7 @@
   <string name="attach_video">Video posnetek</string>
   <string name="audio_download_failed">"Ne morem prenesti zvoka"</string>
   <string name="audio_message_expired">Glasovno sporočilo je poteklo.</string>
-  <string name="audio_message_mx_offline">"Ne morem prenesti zvoka. Mi sporočila so offline ali niso dostopna."</string>
+  <string name="audio_message_mx_offline">"Ne morem prenesti zvoka. Mi sporočila so offline ali niso na voljo."</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Ni povezave ali je vstavljena napačna SIM kartica. Vstavite SIM kartico s katere je poslano sporočilo in se povežite na omrežje.</string>
   <string name="back_to_message_list">Nazaj na seznam sporočil</string>
@@ -226,7 +226,7 @@
   <string name="expire_on">Poteče: %s</string>
   <string name="exporting_progress_private_message">Izvažam...</string>
   <string name="fail_to_add_attachment">"Ne morem dodati priponke"</string>
-  <string name="fail_to_view_attachment">"Priponka ni dostopna"</string>
+  <string name="fail_to_view_attachment">"Priponka ni na voljo"</string>
   <string name="failed_to_add_media">Ne morete dodati %1$s vašemu sporočilu.</string>
   <string name="failed_to_resize_image">Velikost slike ni spremenjena.</string>
   <string name="fake_cell_alert_detect_error">"To ni poslano iz prave bazne postaje"</string>
@@ -294,7 +294,7 @@
   <string name="hybrid_pull_to_refresh_pull_label">Povleci za osvežitev…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Samo trenutek…</string>
   <string name="hybrid_pull_to_refresh_release_label">Popusti za osvježitev…</string>
-  <string name="hybrid_service_unavailiable">"Storitev ni dostopna"</string>
+  <string name="hybrid_service_unavailiable">"Storitev ni na voljo"</string>
   <string name="hybrid_try_again">Poskusite ponovno</string>
   <string name="i_know">Razumem</string>
   <string name="imageview_ad">Oglas</string>
@@ -739,7 +739,7 @@
   <string name="service_message_not_found">Sporočilo pretečeno ali nedostopno</string>
   <string name="service_network_problem">Ni bilo možno poslati zaradi omrežnih problemov</string>
   <string name="service_not_activated">Storitev ni aktivirana na omrežju</string>
-  <string name="service_unavailiable">Storitev ni dostopna</string>
+  <string name="service_unavailiable">Storitev ni na voljo</string>
   <string name="set">Nastavi</string>
   <string name="share_img">Deli</string>
   <string name="show_all_messages">Prikaži vsa sporočila</string>

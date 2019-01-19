@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<plurals name="accessibility_recent_task_enter">
-         <item quantity="other">Nedavno odprto, dostopno aplikacij: %d.</item>
-         <item quantity="one">Nedavno odprto, dostopna aplikacija: 1.</item>
+         <item quantity="other">Nedavno odprto, na voljo aplikacij: %d.</item>
+         <item quantity="one">Nedavno odprto, na voljo aplikacij: 1.</item>
      </plurals>
      <plurals name="accessibility_recent_task_first_enter_tips">
-         <item quantity="other">Nedavno odprto, dostopno aplikacij: %d. Podrsajte navzgor za odstranitev, navzdol za zaklepanje.</item>
-         <item quantity="one">Nedavno odprto, dostopna aplikacija: 1. Podrsajte navzgor za odstranitev, navzdol za zaklepanje.</item>
+         <item quantity="other">Nedavno odprto, na voljo aplikacij: %d. Podrsajte navzgor za odstranitev, navzdol za zaklepanje.</item>
+         <item quantity="one">Nedavno odprto, na voljo aplikacij: 1. Podrsajte navzgor za odstranitev, navzdol za zaklepanje.</item>
      </plurals>
     <plurals name="block_record_notification_more_text">
          <item quantity="other">Skrivanje obvestil od %1$s &amp; %2$d aplikacij.</item>

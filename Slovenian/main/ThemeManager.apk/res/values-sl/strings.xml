@@ -415,7 +415,7 @@
   <string name="resource_get_auth_checking">Preverjanje…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Deset naprav je že bilo odobrenih na tem računu</string>
   <string name="resource_get_auth_exceed_max_limit_title">Število dovoljenih naprav je preseženo</string>
-  <string name="resource_get_auth_has_been_undercarriaged">Ta tema ni več dostopna.</string>
+  <string name="resource_get_auth_has_been_undercarriaged">Ta tema ni več na voljo.</string>
   <string name="resource_get_auth_not_official">Teme iz drugih virov niso podprte</string>
   <string name="resource_get_auth_retrieving">Pridobivanje dovoljenja...</string>
   <string name="resource_has_been_downloaded">"To temo ste že prevzeli."</string>
@@ -440,7 +440,7 @@
   <string name="resource_online">Omrežno</string>
   <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponent v tej temi pa je še vedno ceneje če kupite celoten paket.</string>
   <string name="resource_pack_discount_info">Prihranjeno: %1$s</string>
-  <string name="resource_pack_get_auth_has_been_undercarriaged">Ta tema ni več dostopna.</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Ta tema ni več na voljo.</string>
   <string name="resource_pack_price_info">Izvirna cena: %1$s</string>
   <string name="resource_pack_warning">Kupili ste že komponent %1$d v tej temi. Ceneje je če kupite preostale komponente posebej.</string>
   <string name="resource_present">Darilo</string>
@@ -524,7 +524,7 @@
   <string name="s5">Napravi dogodek v koledarju</string> 
   <string name="s6">Dovolim oglasu izdelavo dogodka v koledarju?</string>
   <string name="s7">Testiraj oglas</string>
-  <string name="sdcard_not_mounted_dialog_message">SD kartica ni dostopna, 
+  <string name="sdcard_not_mounted_dialog_message">SD kartica ni na voljo, 
   vstavite jo</string>
   <string name="sdcard_not_mounted_dialog_title">Odkrita ni nobena SD kartica</string>
   <string name="search_hint_header_text">Popularno</string>
@@ -643,7 +643,7 @@
   <string name="update_latest">Aplikacija je posodobljena</string>
   <string name="update_no_net">Napaka omrežja. Poskusite ponovno.</string>
   <string name="update_title">Posodobitev na voljo</string>
-  <string name="using_theme_has_update_tips">Dostopna je posodobitev te teme.</string>
+  <string name="using_theme_has_update_tips">Na voljo je posodobitev te teme.</string>
   <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
   <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je zaslon izključen</string>
   <string name="using_theme_show_ad">Priporočila</string>

@@ -171,7 +171,7 @@
   <string name="deepclean_similar_ignore">Ignoriraj</string>
   <string name="deepclean_similar_summary_empty">Vse izgleda dobro, ni fotografij za brisanje</string>
   <string name="deepclean_size_summary_less">Ni dovolj prostora</string>
-  <string name="deepclean_size_summary_more">Dostopno dovolj prostora za shranjevanje</string>
+  <string name="deepclean_size_summary_more">Na voljo dovolj prostora za shranjevanje</string>
   <string name="deepclean_size_summary_normal">Dostopen prostor za shranjevanje</string>
   <string name="deepclean_size_summary_not_enough">Ni dovolj prostora</string>
   <string name="deepclean_title_large_file">Izbriši velike datoteke</string>

@@ -55,7 +55,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_error_invalid_phone_num">Nepravilna telefonska številka</string>
   <string name="passport_error_login">"Ne morem se prijaviti"</string>
   <string name="passport_error_network">"Ne morem se povezati na omrežje"</string>
-  <string name="passport_error_no_sms_service">"Ne morem poslati SMS sporočila. Mobilno omrežje ni dostopno."</string>
+  <string name="passport_error_no_sms_service">"Ne morem poslati SMS sporočila. Mobilno omrežje ni na voljo."</string>
   <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
   <string name="passport_error_server">Napaka strežnika</string>
   <string name="passport_error_sim_not_ready">"Ne najdem SIM kartice"</string>

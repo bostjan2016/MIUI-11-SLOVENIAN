@@ -168,7 +168,7 @@
   <string name="backup_battery_low_title">Izdelava var. kopije je zaustavljena zaradi prazne baterije</string>
   <string name="backup_close">Zapri var. kopijo</string>
   <string name="backup_cloud_space_low_btn_text">Pridobite več</string>
-  <string name="backup_cloud_space_low_desc">%1$s v Mi Cloudu | Dostopno %2$s</string>
+  <string name="backup_cloud_space_low_desc">%1$s v Mi Cloudu | na voljo %2$s</string>
   <string name="backup_cloud_space_low_title">Ni dovolj prostora na Mi Cloudu</string>
   <string name="backup_cta_not_allow">"Ne morem dostopiti na omrežje"</string>
   <string name="backup_cta_not_allow_btn_text">Dovoli</string>
@@ -283,7 +283,7 @@
   <string name="cloud_screenshots_display_name">Posnetek zaslona</string>
   <string name="cloud_settings">Var. kopije Galerije</string>
   <string name="cloud_storage_extend">Razširi cloud prostor</string>
-  <string name="cloud_storage_ok_append_desc">Dostopno %s</string>
+  <string name="cloud_storage_ok_append_desc">Na voljo %s</string>
   <string name="cloud_storage_ok_desc">Mi Cloud prostor %s</string>
   <string name="cloud_storage_ok_title">Dovolj prostora za shranjevanje na Mi Cloudu</string>
   <string name="cloud_storage_photo_title">Fotografije</string>
@@ -572,9 +572,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="fancy_color_desc">Barve</string>
   <string name="fast_share_auto_render">Olepšanje</string>
   <string name="fast_share_auto_render_finish">Olepšano</string>
-  <string name="feature_guidance_photo_effects">"Dostopni so novi efekti
+  <string name="feature_guidance_photo_effects">"Na voljo so novi efekti
 za fotografije"</string>
-  <string name="feature_guidance_video_editor_smart_effects">Dostopni so novi efekti</string>
+  <string name="feature_guidance_video_editor_smart_effects">Na voljo so novi efekti</string>
   <string name="filllight">Dopolnilna svetloba</string>
   <string name="filter_bi_bw">B&amp;W</string>
   <string name="filter_bi_dusk">Zora</string>
@@ -690,7 +690,7 @@ za fotografije"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Samo trenutek…</string>
   <string name="hybrid_pull_to_refresh_release_label">Pusti za osvežitev…</string>
-  <string name="hybrid_service_unavailiable">Storitev ni dostopna</string>
+  <string name="hybrid_service_unavailiable">Storitev ni na voljo</string>
   <string name="hybrid_try_again">Poskusi ponovno</string>
   <string name="ignore_album">"Ne prikaži"</string>
   <string name="ignore_alert_title">"Ne prikažem tega albuma?"</string>
@@ -1275,7 +1275,7 @@ za fotografije"</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
   <string name="slideshow_interval_value">%1$d sek.</string>
-  <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje dostopne na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
+  <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje na voljo na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
   <string name="slim_after_backuped_title">Optimiziraj lokalno shrambo po izdelavi var. kopije</string>
   <string name="slim_complete">Končano</string>
   <string name="slim_complete_action_title">Uspešno optimizirano</string>

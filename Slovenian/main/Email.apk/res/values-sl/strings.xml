@@ -240,7 +240,7 @@
   <string name="calendar_remind_gridview_pick_date">Izberi datum</string>
   <string name="cancel">Prekliči</string>
   <string name="cancel_action">Prekliči</string>
-  <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni dostopna za POP3 račun.</string>
+  <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni na voljo za POP3 račun.</string>
   <string name="cant_move_or_change_labels">Ni mogoče premakniti, ker izbor vsebuje več računov.</string>
   <string name="cc_heading">Kp:</string>
   <string name="change_folders_selection_dialog_title">Spremeni mape</string>
@@ -663,7 +663,7 @@
   <string name="network_not_available">Povezave ni mogoče vzpostaviti</string>
   <string name="network_tip">Kontrola prepoznave ni uspela, preverite omrežno povezavo</string>
   <string name="network_try_again">Preverite omrežje</string>
-  <string name="network_unavailable">Omrežje ni dostopno</string>
+  <string name="network_unavailable">Omrežje ni na voljo</string>
   <string name="new_incoming_messages_one">Novo sporočilo od %s. Prikaži.</string>
   <string name="new_signature_has_saved">Uspešno shranjeno</string>
   <string name="next_action">Naprej</string>

@@ -12,7 +12,7 @@
   <string name="app_name">NFC</string>
   <string name="auto_brightness">Samodejna osvetlitev</string>
   <string name="auto_brightness_on_off">Samodejna osvetlitev %s</string>
-  <string name="available_networks">Dostopna omrežja</string>
+  <string name="available_networks">Omrežja na voljo</string>
   <string name="avg_read_tag">Dnevno povprečje branja:</string>
   <string name="back_to_home">Nazaj</string>
   <string name="bluetooth">Bluetooth</string>

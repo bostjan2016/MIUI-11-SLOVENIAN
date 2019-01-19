@@ -188,8 +188,8 @@
   <string name="lv_device_list">Naprave</string>
   <string name="lv_device_list_seaching">&lt;Ni naprav za prikaz&gt;</string>
   <string name="lv_do_not_show_this_again">"Ne kaži več"</string>
-  <string name="lv_find_new_version">Dostopna je posodobitev</string>
-  <string name="lv_find_videos">Ponovno Poiščite videoposnetke</string>
+  <string name="lv_find_new_version">Na voljo je posodobitev</string>
+  <string name="lv_find_videos">Ponovno poiščite videoposnetke</string>
   <string name="lv_folder_null">Nezana mapa</string>
   <string name="lv_fullscreen">CijCeleli zaslon</string>
   <string name="lv_hide_folder">Skriti videozapisi</string>
@@ -236,7 +236,7 @@
   <string name="lv_subtitle_font_color_title">Barva teksta</string>
   <string name="lv_subtitle_font_size_title">Velikost teksta</string>
   <string name="lv_subtitle_manual_add_sub">Podnapisi uspešno dodani</string>
-  <string name="lv_subtitle_no_subtitle">Podnapisi niso dostopni</string>
+  <string name="lv_subtitle_no_subtitle">Podnapisi niso na voljo</string>
   <string name="lv_subtitle_non_subtitle_file">Ni datotek s podnapisi</string>
   <string name="lv_subtitle_offset_normal">Ne premikaj podnapise</string>
   <string name="lv_subtitle_onlinesub_language">Jezik: %s</string>
@@ -475,7 +475,7 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
 Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
 </resources>

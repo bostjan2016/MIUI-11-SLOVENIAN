@@ -153,7 +153,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="other_device_main_space">Prvi prostor</string>
   <string name="other_device_second_space">Drugi prostor</string>
   <string name="process_whole_recovery">Obnavljam %s</string>
-  <string name="provision_error_connect_msg">Preverite omrežje in poskusite znova. Var. kopija ni dostopna brez omrežja.</string>
+  <string name="provision_error_connect_msg">Preverite omrežje in poskusite znova. Var. kopija ni na voljo brez omrežja.</string>
   <string name="provision_error_connect_title">Ne morem se povezati</string>
   <string name="query_restore_back_view">Mi Cloud var. kopija</string>
   <string name="query_restore_description">Obnovi aplikacije in nastavitve začetnega zaslona s pomočjo te var. kopije. To bo pobrisalo podatke aplikacij za podvojene aplikacije nameščene na napravi. Aplikacije ki niso vključene v var. kopijo bodo premeščene na zadnji začetni zaslon.</string>

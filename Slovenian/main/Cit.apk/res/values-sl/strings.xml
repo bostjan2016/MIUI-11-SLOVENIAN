@@ -4,11 +4,11 @@
   <string name="FpTest_result">FpTest rezultat:</string>
   <string name="SDCard">SD Kartica</string>
   <string name="SD_INTERNAL_SDCard_mounted">Vpenjanje notranje SD kartice</string>
-  <string name="SD_INTERNAL_SDCard_unmounted">Notranja SD kartica ni dostopna</string>
-  <string name="SD_SDCard_available_szie">Dostopna velikost</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Notranja SD kartica ni na voljo</string>
+  <string name="SD_SDCard_available_szie">velikost na voljo</string>
   <string name="SD_SDCard_mounted">Vpni SD kartico</string>
   <string name="SD_SDCard_total_size">Skupna velikost</string>
-  <string name="SD_SDCard_unmounted">SD kartica ni dostopna</string>
+  <string name="SD_SDCard_unmounted">SD kartica ni na voljo</string>
   <string name="abc_action_bar_home_description">Pojdi na začetno</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -294,7 +294,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_name">Testiranje strojne opreme</string>
   <string name="cit_nfc_check_summary">Postavite kartico na vrh zadnje strani telefona</string>
   <string name="cit_nfc_check_title">Testiranje NFC-a</string>
-  <string name="cit_not_available">"To testiranje ni dostopno na tej verziji MIUI"</string>
+  <string name="cit_not_available">"To testiranje ni na voljo na tej verziji MIUI"</string>
   <string name="cit_notificationlight">Lučka obvestil</string>
   <string name="cit_notificationlight_off">Lučka obvestil izklj.</string>
   <string name="cit_notificationlight_on">Lučka obvestil vklj.</string>

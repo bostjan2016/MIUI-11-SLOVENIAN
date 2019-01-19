@@ -110,7 +110,7 @@
   <string name="task_select_title">Izberi nalogo</string>
   <string name="task_start">Prični</string>
   <string name="task_take_award">Prejmite nagrade</string>
-  <string name="unachieved">DOSTOPNO</string>
+  <string name="unachieved">NA VOLJO</string>
   <string name="unlimited_task">Račun nadgrajen!</string>
   <string name="upgraded">Stopnja višje!</string>
   <string name="use">Uporabi</string>

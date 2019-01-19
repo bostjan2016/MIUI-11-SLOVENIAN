@@ -296,7 +296,7 @@ s številko %s"</string>
     <string name="display_manager_overlay_display_name">Prekrivanje #%1$d</string>
     <string name="display_manager_overlay_display_secure_suffix">, varen</string>
     <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d pik na palec</string>
-  <string name="dlg_confirm_kill_storage_users_text">Če vključite USB pomnilnik, se bodo nekatere aplikacije ustavile in morda ne bodo dostopne dokler ne izključite USB pomnilnik.</string>
+  <string name="dlg_confirm_kill_storage_users_text">Če vključite USB pomnilnik, se bodo nekatere aplikacije ustavile in morda ne bodo na voljo dokler ne izključite USB pomnilnik.</string>
   <string name="dlg_confirm_kill_storage_users_title">Vključi USB pomnilnik</string>
   <string name="dlg_error_title">Delo USB-ja ni uspelo</string>
     <string name="dlg_ok">V redu</string>
@@ -1012,7 +1012,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_reboot">Dovoljuje da aplikacija vsili vnovični zagon telefona.</string>
   <string name="permdesc_receiveBluetoothMap">Aplikaciji omogoča prejem in obdelavo Bluetooth MAP sporočil. To pomeni da aplikacija nadzira ali briše sporočila a vam jih ne prikaže.</string>
     <string name="permdesc_receiveBootCompleted">Aplikaciji omogoča, da se zažene takoj, ko sistem dokonča zagon. Zato lahko zagon telefona traja nekoliko dlje, aplikacija pa lahko upočasni splošno delovanje telefona, ker se vedno izvaja.</string>
-  <string name="permdesc_receiveEmergencyBroadcast">Aplikaciji omogoča sprejem in obdelavo nujnih sporočil pošiljateljev. To dovoljenje je dostopno samo aplikacijam sistema.</string>
+  <string name="permdesc_receiveEmergencyBroadcast">Aplikaciji omogoča sprejem in obdelavo nujnih sporočil pošiljateljev. To dovoljenje je na voljo samo aplikacijam sistema.</string>
     <string name="permdesc_receiveMms">Aplikaciji omogoča prejemanje in obdelavo MMS-ov. S tem lahko aplikacija nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazala.</string>
     <string name="permdesc_receiveSms">Aplikaciji omogoča prejemanje in obdelavo SMS-ov. S tem lahko aplikacija nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazala.</string>
     <string name="permdesc_receiveWapPush">Aplikaciji omogoča prejemanje in obdelavo sporočil WAP. S tem lahko aplikacija nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazala.</string>
