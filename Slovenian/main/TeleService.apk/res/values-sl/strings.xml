@@ -2395,6 +2395,16 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="volte_switch_title">VoLTE omogočen</string>
   <string name="volte_switch_title_ct">VoLTE omogočen</string>
   <string name="volte_tips_when_turn_on">Storitve China Telecom VoLTE so na voljo samo v področjih pokritih z LTE omrežjem.</string>
+  <string name="vowifi_emergency_notification_channel">WiFi klici opzorila v sili</string>
+  <string name="vowifi_emergency_notification_content">Nujni klisi so na voljo samo v postajni pokritosti.</string>
+  <string name="vowifi_emergency_notification_title">Vodafone WiFi povezovanje</string>
+  <string name="vowifi_emergency_warning_check">"Ne kaži več."</string>
+  <string name="vowifi_emergency_warning_message">"Klici v sili niso možni preko Wifi klicev.
+
+ Naprava se samodejno prestavi na mobilno omrežje (2G/3G) za pošiljanje klica v sili.
+
+ Klici v sili so možni samo v područjih z pokritostjo mobilne telefonije."</string>
+  <string name="vowifi_emergency_warning_title">ECC klici preko WiFi klicev</string>
   <string name="vpn_settings_not_available">Nastavitve VPN-a niso na voljo uporabniku</string>
   <string name="vvm_unsupported_message_format">Vrsta sporočila ni podprta, pokličite %s za poslušanje.</string>
   <string name="wait_for_debugger">Čaka se program za odpravljanje napak</string>
@@ -2430,7 +2440,9 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_auth_password_wrong">Geslo mogoče ni pravilno</string>
   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
   <string name="wifi_call_setting">Nastavitve WiFi klica</string>
-  <string name="wifi_calling">Klicanje prek WiFi-ja</string>
+  <string name="wifi_call_setting_vodafone_de">WiFi klicanje</string>
+  <string name="wifi_call_setting_vodafone_uk">WLAN klic</string>
+  <string name="wifi_calling">WiFi klici</string>
   <string name="wifi_calling_call_assistant">Asistent klicev</string>
   <string name="wifi_calling_call_assistant_configure">Konfiguriraj</string>
   <string name="wifi_calling_call_assistant_configure_no_selection">Asistent klicev izključen</string>

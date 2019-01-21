@@ -106,8 +106,8 @@
   <string name="alert_secret_album_message">Povlecite navzdol ko ste v Albumi za prikaz.</string>
   <string name="alert_secret_album_message_lower_case">  podrsajte s prstom dol dokler ste v Albumi za prikaz.</string>
   <string name="alert_secret_album_title">Kako videti skriti album</string>
-  <string name="alert_selection_description">AI označuje najboljšo fotografijo med podobnimi zvezdi.</string>
-  <string name="alert_selection_title">Izbrano s strani AI</string>
+  <string name="alert_selection_description">MIUI bo analiziral podobne fotografije in označil najboljše posnetke za vas.</string>
+  <string name="alert_selection_title">Izberite najboljšo fotografijo</string>
   <string name="all_faces">Fotografije s to osebo</string>
   <string name="all_items_synced">Vsi albumi imajo napravljeno var. kopijo na Mi Cloudu</string>
   <string name="all_video_album_display_name">Vsi videoposnetki</string>
@@ -434,8 +434,8 @@
   <string name="download_type_thumbnail">Visoko</string>
   <string name="download_type_thumbnail_desc">Visoko</string>
   <string name="download_type_title">Kvaliteta prenosa</string>
-  <string name="download_without_wifi_msg">"Uporaba mobilne podatkovne povezave za prenos fotografij bo povečala uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
-  <string name="download_without_wifi_title">Opozorilo uporabe podatkov</string>
+  <string name="download_with_metered_network_msg">"Prenos originalnih datotek bo povzročil dodatne stroške. Vseeno prenesem?"</string>
+  <string name="download_with_metered_network_title">"Povezani ste na plačano omrežje"</string>
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Lahko izberete kvaliteto prenešene slike ali izključite samodejni prenos v nastavitvah.</string>
   <string name="downloading_title">Prenos fotografij iz Mi Clouda…</string>
@@ -782,6 +782,9 @@ za fotografije"</string>
   <string name="merge_album_title">Združi z osebo</string>
   <string name="messagelist_sender_self">Jaz</string>
   <string name="micloud_introduce">Samodejno izdelaj var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
+  <string name="month_view_tip_button_text">Razumem</string>
+  <string name="month_view_tip_sub_title">Uščipnite zaslon da se boste premaknili na mesečni prikaz</string>
+  <string name="month_view_tip_title">Mesečni prikaz</string>
   <string name="more">Več</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face">Več oseb ki so si podobne</string>
@@ -809,8 +812,8 @@ za fotografije"</string>
   <string name="movie_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
   <string name="movie_download_sdk_without_wifi_msg">"Kaže da vaša naprava ni povezana na WiFi omrežje. Prenesem potrebni dodatek (3MB) preko mob. podatakov?"</string>
   <string name="movie_download_sdk_without_wifi_title">Prenesi preko mob. podatakov</string>
-  <string name="movie_download_without_wifi_msg">"Uporaba mob. podatkovne povezave za prenos datotek bo povečala porabo podatakov. Vaš operater vam to lahko zaračuna."</string>
-  <string name="movie_download_without_wifi_title">Opozorilo uporabe podatkov</string>
+  <string name="movie_download_with_metered_network_msg">"Prenos originalnih datotek lahko povzroči dodatne stroške. Vseeno prenesem?"</string>
+  <string name="movie_download_with_metered_network_title">"Povezani ste na plačano omrežje"</string>
   <string name="movie_edit">Uredi</string>
   <string name="movie_item_name">Izseček</string>
   <string name="movie_preview_btn">Pregled</string>
@@ -955,6 +958,7 @@ za fotografije"</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Doodle</string>
   <string name="photo_editor_filter">Filter</string>
+  <string name="photo_editor_font_default">&gt;Mi Lanting (Regular)</string>
   <string name="photo_editor_frame">Okvir</string>
   <string name="photo_editor_label">Uredi</string>
   <string name="photo_editor_long_crop">Obreži</string>
@@ -1011,6 +1015,11 @@ za fotografije"</string>
   <string name="photo_editor_talkback_redo">Povrni</string>
   <string name="photo_editor_talkback_undo">Razveljavi</string>
   <string name="photo_editor_text">Besedilo</string>
+  <string name="photo_font_cancel_download">Prekliči</string>
+  <string name="photo_font_download">Prenesi</string>
+  <string name="photo_font_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
+  <string name="photo_font_download_without_wifi_msg">"Uporaba mob. podatkovne povezave za prenos datotek bo povečala porabo podatkov. Če presežete omejitev, vam bo operater zaračunal."</string>
+  <string name="photo_font_download_without_wifi_title">Opozorilo uporabe podatkov</string>
   <string name="photo_movie_module_finish">Izsečki uspešno prebrani</string>
   <string name="photo_movie_module_loading">Branje izsečkov…</string>
   <string name="photo_movie_select_image_range">Izsečki lahko vsebujejo 3-20 fotografij</string>
@@ -1315,8 +1324,6 @@ za fotografije"</string>
   <string name="story_cancel_download">Prekliči</string>
   <string name="story_download">Prenesi</string>
   <string name="story_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
-  <string name="story_download_without_wifi_msg">"Uporaba mob. podatkovne povezave za prenos datotek bo povečala porabao podatkov. Operater vam lahko to zaračuna."</string>
-  <string name="story_download_without_wifi_title">Opozorilo porabe podatkov</string>
   <string name="story_option_menu_delete">Izbriši zgodbo</string>
   <string name="story_option_menu_rename">Preimenuj</string>
   <string name="story_photo_downloading">Prenašam…</string>
@@ -1429,8 +1436,8 @@ za fotografije"</string>
   <string name="video_editor_down_load_now">Prenesi</string>
   <string name="video_editor_download"></string>
   <string name="video_editor_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
-  <string name="video_editor_download_without_wifi_msg">"Uporaba mobilne podatkovne povezave za prenos datotekbo povečala porabo. To vam operater lahko računa."</string>
-  <string name="video_editor_download_without_wifi_title">Upozorenje uporabe podatkov</string>
+  <string name="video_editor_download_with_metered_network_msg">"Prenos izvirnih datotek lahko povzroči dodatne stroške. Vseeno prenesem?"</string>
+  <string name="video_editor_download_with_metered_network_title">"Povezani ste na plačljivo omrežje"</string>
   <string name="video_editor_encode_video">Kodiranje videoposnetka…</string>
   <string name="video_editor_encode_video_error">"Ne morem kodirati videoposnetek"</string>
   <string name="video_editor_fatal_error">Neznana napaka </string>

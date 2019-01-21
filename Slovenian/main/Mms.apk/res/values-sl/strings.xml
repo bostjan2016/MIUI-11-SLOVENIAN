@@ -50,6 +50,10 @@
   <string name="audio_message_mx_offline">"Ne morem prenesti zvoka. Mi sporočila so offline ali niso na voljo."</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Ni povezave ali je vstavljena napačna SIM kartica. Vstavite SIM kartico s katere je poslano sporočilo in se povežite na omrežje.</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Vključi Smart Messaging</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Identificiraj ID pošiljatelja samodejno</string>
+  <string name="auto_identify_btn_title">To sporočilo se pošilja iz neznane številke.</string>
+  <string name="auto_identify_confirmation">Aktivacija te storitve lahko traja nekoliko minut.</string>
   <string name="back_to_message_list">Nazaj na seznam sporočil</string>
   <string name="batch_adding_progress_message">Dodajam...</string>
   <string name="batch_delete_confirm_dialog_message">Izbrišem %1$s sporočil?</string>

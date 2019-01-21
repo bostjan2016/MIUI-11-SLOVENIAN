@@ -420,12 +420,13 @@
   <string name="menu_item_sort_size">Po velikosti</string>
   <string name="menu_item_sort_type">Po vrsti</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="menu_list_name">Meni</string>
   <string name="message_comment_prefix">Komentar:</string>
   <string name="message_my_received_notification">Novo sporočilo</string>
   <string name="message_my_received_praise">Moji lajki</string>
-  <string name="message_praise_comment">Všečkajte ta komentar</string>
-  <string name="message_praise_video">Všečkajte ta video</string>
+  <string name="message_praise_comment">" je všeč ta komentar"</string>
+  <string name="message_praise_video">" je všeč ta video"</string>
   <string name="message_reply_prefix">Odgovor</string>
   <string name="message_title">Moja sporočila</string>
   <string name="mi_router_label">Router</string>

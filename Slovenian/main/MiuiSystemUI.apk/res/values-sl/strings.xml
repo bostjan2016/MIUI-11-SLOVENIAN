@@ -301,6 +301,8 @@
   <string name="always_use_accessory">"Uporabi kot privzeto za ta USB dodatek"</string>
   <string name="always_use_device">"Uporabi kot privzeto za to USB napravo"</string>
   <string name="animator_duration_scale_title">Razmerje dolžine animatorja</string>
+  <string name="aod_dual_togother">HH:MM</string>
+  <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostupne temu uporabniku</string>
   <string name="app_info">Informacije o aplikaciji</string>
   <string name="app_label">Sistem UI</string>
@@ -721,7 +723,8 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_down">Dvignite glavo</string>
   <string name="face_unlock_identify_error">Prišlo je do napake pri prepoznavanju</string>
   <string name="face_unlock_not_found">"Ne morem vas prepoznati"</string>
-  <string name="face_unlock_offset_bottom">Spustite malo telefon</string>
+  <string name="face_unlock_not_roi">Imejte obraz znotraj okvirja</string>
+  <string name="face_unlock_offset_bottom">Malo spustite telefon</string>
   <string name="face_unlock_offset_left">Pomaknite se v desno</string>
   <string name="face_unlock_offset_right">Pomaknite se v levo</string>
   <string name="face_unlock_offset_top">Dvignite malo telefon</string>
@@ -1862,7 +1865,7 @@ morda nadzira"</string>
   <string name="structure_face_unlock_tof_covered">"Ne morem dodati podatke o obrazu. Odddaljite obraz malo od zaslona."</string>
     <string name="switch_bar_off">Izklop</string>
     <string name="switch_bar_on">Vklopljeno</string>
-  <string name="switch_system_user">Odpri Prvi prostor</string>
+  <string name="switch_system_user">Nazaj v Prvi prostor</string>
     <string name="system_ui_tuner">Uglaševalnik uporabniškega vmesnika sistema</string>
   <string name="task_access_locked_app_msg">Zakl. aplikacij vključeno</string>
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>

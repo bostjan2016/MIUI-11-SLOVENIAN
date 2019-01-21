@@ -395,6 +395,8 @@
   <string name="notification_title_of_garbage_cleanup">%s datotek smeti</string>
   <string name="notify_when">Obvesti me kadar velikost smeti doseže 100MB</string>
   <string name="ok">V redu</string>
+  <string name="one_tap_clean_GB">%s GB</string>
+  <string name="one_tap_clean_M">%d MB</string>
   <string name="onekeyclean_boost_available">%s na voljo​</string>
   <string name="onekeyclean_boost_cleaned">%s očiščeno</string>
   <string name="onekeyclean_boosted_title">Uspešno očiščeno</string>

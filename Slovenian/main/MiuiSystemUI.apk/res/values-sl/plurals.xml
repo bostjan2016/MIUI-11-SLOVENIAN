@@ -8,6 +8,9 @@
          <item quantity="other">Nedavno odprto, na voljo aplikacij: %d. Podrsajte navzgor za odstranitev, navzdol za zaklepanje.</item>
          <item quantity="one">Nedavno odprto, na voljo aplikacij: 1. Podrsajte navzgor za odstranitev, navzdol za zaklepanje.</item>
      </plurals>
+	<plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Ura %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
          <item quantity="other">Skrivanje obvestil od %1$s &amp; %2$d aplikacij.</item>
          <item quantity="one">Skrivanje obvestil od %1$s &amp; 1 aplikacije.</item>
