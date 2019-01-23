@@ -630,6 +630,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_datasave_summary">Strni podatke da prihranite do 20%</string>
   <string name="card_main_datasave_title">Prihranek podatkov</string>
   <string name="card_main_deepclean_action">Očisti</string>
+  <string name="card_main_deepclean_facebook_title">Facebook čistilec</string>
   <string name="card_main_deepclean_qq_title">QQ čistilec</string>
   <string name="card_main_deepclean_summary">Izbriši nepotrebne datoteke</string>
   <string name="card_main_deepclean_title">Globinsko čiščenje</string>

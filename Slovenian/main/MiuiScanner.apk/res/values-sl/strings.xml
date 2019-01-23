@@ -84,7 +84,7 @@
   <string name="gps">Navigacija</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Uvozi stik</string>
-  <string name="impunity_declaration_content">Ta aplikacija potrebuje povezavo s spletom in dostop do lokacije za normalno delo.</string>
+  <string name="impunity_declaration_content">"Skener mora uporabljati kamero in obdelovati slike katere snemate med uporabo aplikacije. Ne uporabljajte skener za fotografiranje objektov ki vsebujejo vaše osebne podatke. Z dotikon \"Strinjam se\", pristajate na naša &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o zasebnosti&lt;/a&gt;&lt;/font&gt; in dovolite aplikaciji povezovanje na splet."</string>
   <string name="impunity_declaration_negative_text">Izhod</string>
   <string name="impunity_declaration_positive_text">Dovoli</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>
@@ -140,6 +140,9 @@
   <string name="path_scanner_setting">Sistemska aplikacija/Skener</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
+  <string name="pay_no_tip">"Ne kaži več"</string>
+  <string name="pay_save_this_choose">Zapomni si mojo izbiro</string>
+  <string name="payment_text">Odpri z %s</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Fotografija</string>
   <string name="place_barcode_into_rectangle">Postavite kodo znotraj okvira</string>
@@ -182,14 +185,14 @@
   <string name="shopping_vendor_info">Ponuja Taobao</string>
   <string name="spaceIsLow_content">Ni dovolj prostora. Osvobodite nekaj prostora.</string>
   <string name="study_report_title">Poročilo</string>
-  <string name="study_rotate_picture">Obdelava fotografije…</string>
+  <string name="study_rotate_picture">Obdelava slike…</string>
   <string name="study_scan_result">Rezultat</string>
   <string name="study_searching">Iskanje rezultata…</string>
   <string name="study_title">Posnemite fotografijo problema</string>
-  <string name="study_vendor_info">Ponuja Master Learner</string>
+  <string name="study_vendor_info">Ponuja Zuoyebang</string>
   <string name="switch_open">Vključi</string>
   <string name="tel">Telefon</string>
-  <string name="tips_message">"Povežite se se v splet da boste preverili ali je spletna lokacija varna."</string>
+  <string name="tips_message">"Povežite se se na splet da boste preverili ali je spletna lokacija varna."</string>
   <string name="title">Naslov:</string>
   <string name="to_pay">Zaključite plačilo</string>
   <string name="translate_auto_lock">Zakleni prevod</string>
@@ -198,6 +201,7 @@
   <string name="translate_dest_lang">Ciljni jezik</string>
   <string name="translate_fail">"Ne morem prevesti"</string>
   <string name="translate_loading">Prevajanje…</string>
+  <string name="translate_parallel_2_lines">Prepričajte se da je tekst paralelen z črtami na zaslonu</string>
   <string name="translate_save_fail">"Ne morem shraniti beležko"</string>
   <string name="translate_src_lang">Izvirni jezik</string>
   <string name="translate_text_compare">Primerjava</string>

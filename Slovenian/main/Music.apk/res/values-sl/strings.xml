@@ -485,6 +485,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="favorite_succeed">Dodano med priljubljene</string>
   <string name="favorite_tracks">Priljubljeno</string>
   <string name="favorites">Priljubljeni</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="favourite_music_left_half">Za dodajanje glasbe na ta seznam predvajanja tapni</string>
   <string name="favourite_music_right_half">ikono desno od naslova skladbe za dodajanje med priljubljene</string>
   <string name="feed_back">Povratna inf.</string>
@@ -513,6 +514,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="fragment_more">Več</string>
   <string name="fragment_title_artist">IZVAJALCI</string>
   <string name="fragment_title_artist_album">ALBUMI</string>
+  <string name="gcm_fallback_notification_channel_label">Razno</string>
   <string name="fragment_title_bill">SEZNAMI PREDVAJANJA</string>
   <string name="fragment_title_channel">FM</string>
   <string name="fragment_title_personal">Osebno</string>
@@ -906,6 +908,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="pulluprefreshrecyclerview_loading_finished">Nalaganje končano</string>
   <string name="pulluprefreshrecyclerview_loading_running">Nalaganje…</string>
   <string name="queue_is_empty">Čakalna vrsta je prazna.</string>
+  <string name="ready_to_play">Naprej</string>
   <string name="radar">ACRCloud</string>
   <string name="radar_click_to_retry">Kliknite za ponovni poskus</string>
   <string name="radar_fail">Ni rezultata</string>

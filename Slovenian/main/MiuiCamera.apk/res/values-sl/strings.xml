@@ -83,14 +83,14 @@
   <string name="accessibility_ultra_pixel_photography_32mp_on">32MP vkl.</string>
   <string name="accessibility_ultra_pixel_photography_48mp_off">48MP izkl.</string>
   <string name="accessibility_ultra_pixel_photography_48mp_on">48MP vkl.</string>
-  <string name="accessibility_ultra_wide_off">Širokokotna kameraje izkl.</string>
-  <string name="accessibility_ultra_wide_on">Širokokotna kamera je vkl.</string>
+  <string name="accessibility_ultra_wide_off">Ultra široki kot je izklj.</string>
+  <string name="accessibility_ultra_wide_on">Ultra široki kot je vklj.</string>
   <string name="accessibility_video_capture_button">Tipka sprožilca za snemanje videoposnetkov</string>
   <string name="accessibility_video_module_picker">Izbira modula</string>
   <string name="accessibility_video_pause_button">Premor snemanja</string>
   <string name="accessibility_video_resume_button">Nadaljuj snemanje</string>
   <string name="accessibility_zoom_button">Zoom</string>
-  <string name="accessibility_zoom_control">Zoom kontrola</string>
+  <string name="accessibility_zoom_control">Kontrola Zoom-a</string>
   <string name="ai_scene_mode_use_hint_text">"AI kamera samodejno prepozna prizore
   
 in optimizira vaše fotografije na osnovi te informacije"</string>
@@ -331,8 +331,10 @@ in za trenutek zapustite pregled"</string>
   <string name="folder_imported">Uvoženo</string>
   <string name="folder_screenshot">Posnetek zaslona</string>
   <string name="fps960_toast">Počasno snemanje se začne ko merilec časa doseže belo piko</string>
-  <string name="front_camera_hint_text_rotate">Obrnite telefon</string>
   <string name="front_camera_hint_text_place">Snemanje selfijev bo lažje če obrnete telefon</string>
+  <string name="front_camera_hint_text_rotate">Obrnite telefon</string>
+  <string name="hand_gesture_open_tip">Pokažite dlan v kamero da zaženete časovnik</string>
+  <string name="hand_gesture_tip">Slikanje z dlanjo</string>
   <string name="group_by">Razvrsti po</string>
   <string name="group_by_album">Album</string>
   <string name="group_by_faces">Osebe</string>
@@ -776,8 +778,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_touchafaec_title">Pritisni AF/AEC</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_ultra_wide_ldc_description">Samodejno popravi izobličene objekte</string>
-  <string name="pref_camera_ultra_wide_ldc_title">Popravljeno izobličenje v širokokotnih posnetkih</string>
-  <string name="pref_camera_ultra_wide_mode_title">Širokokotna kamera</string>
+  <string name="pref_camera_ultra_wide_ldc_title">Popravi izobličenje v širokokotnih posnetkih</string>
+  <string name="pref_camera_ultra_wide_mode_title">Ultra široki kot</string>
   <string name="pref_camera_video_bokeh_off">Video bokeh je zaprt</string>
   <string name="pref_camera_video_bokeh_on">Video bokeh</string>
   <string name="pref_camera_video_duration_entry_10">10 minut</string>
@@ -796,14 +798,14 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Oblačno</string>
   <string name="pref_camera_whitebalance_entry_daylight">Dnevna svetloba</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescentno</string>
-  <string name="pref_camera_whitebalance_entry_incandescent">Razbeljen</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">Razbeljeno</string>
   <string name="pref_camera_whitebalance_entry_manual">Ročno</string>
   <string name="pref_camera_whitebalance_entry_measure">Mera</string>
   <string name="pref_camera_whitebalance_title">Ravnovesje beline</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-  <string name="pref_camera_zoom_mode_entry_ultra">Široki kot</string>
-  <string name="pref_camera_zoom_mode_entry_wide">Wide</string>
-  <string name="pref_camera_zoom_mode_title">LEĆE</string>
+  <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
+  <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
+  <string name="pref_camera_zoom_mode_title">LEČE</string>
   <string name="pref_camera_zoom_ratio_tele">200</string>
   <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zsl_entry_off">Izklop</string>
@@ -990,19 +992,19 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
   <string name="ultra_wide_bokeh_close_tip">Način celega telesa je izklj.</string>
   <string name="ultra_wide_bokeh_open_tip">Način celega telesa</string>
-  <string name="ultra_wide_close_tip">Široki kot je izklj.</string>
-  <string name="ultra_wide_mode">Široki kot</string>
+  <string name="ultra_wide_close_tip">Ultra široki kot je izklj.</string>
+  <string name="ultra_wide_mode">Ultra široki kot</string>
   <string name="ultra_wide_mode_use_hint_text">"Uporabite ta način za vključevanje več scen na fotografijo.
 Način širokega kota vam pomaga kadar se ne morete premakniti dalje od scene."</string>
-  <string name="ultra_wide_open_tip">Način širokega kota</string>
-  <string name="ultra_wide_recommend_tip_hint">Poskusite način širokega kota</string>
+  <string name="ultra_wide_open_tip">Ultra široki kot</string>
+  <string name="ultra_wide_recommend_tip_hint">Poskusite Ultra široki kot</string>
   <string name="undo">Prekliči</string>
   <string name="unit_mm">mm</string>
   <string name="user_agree">Strinjam se</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>
-  <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s. Se srinjate z povezavo s spletom?"</string>
-  <string name="user_notice_title">Pogoji in Odredbe</string>
+  <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s. Se strinjate z povezavo s spletom?"</string>
+  <string name="user_notice_title">Pogoji in Pravila</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
   <string name="video_effect_entry_film">Film</string>

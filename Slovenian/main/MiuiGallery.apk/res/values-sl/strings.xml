@@ -1373,6 +1373,8 @@ za fotografije"</string>
   <string name="text_edit_dialog_style_shadow">Senčenje</string>
   <string name="text_edit_dialog_style_transparent">Transparentnost</string>
   <string name="text_edit_sub_menu_text">Mehurčki</string>
+  <string name="text_tab_bubble">Mehurčki</string>
+  <string name="text_tab_watermark">Vodni žig</string>  
   <string name="things_album_empty_title">Fotografije se lahko razporedijo po objektih</string>
   <string name="thumbnail_name">sličica</string>
   <string name="tint">Barva</string>
