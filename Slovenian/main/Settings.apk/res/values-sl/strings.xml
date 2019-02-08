@@ -2285,7 +2285,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
-  <string name="dump_log">Priobivanje zapisov povezanih z problemi</string>
+  <string name="dump_log">Pridobivanje zapisov povezanih z problemi</string>
   <string name="dump_log_summary">"Ta storitev je dizajnirana za generiranje 284 zapisov v alfa in beta različicah MIUI. Uporabljajte jo previdno.
 Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="dump_log_title">O tej storitvi</string>
