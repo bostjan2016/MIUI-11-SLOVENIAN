@@ -1736,7 +1736,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="daltonizer_type">Način za popravljanje</string>
   <string name="daltonizer_type_overridden">Preglasila nastavitev: %1$s</string>
   <string name="dangerous_option">Razvojne opcije visokega tveganja</string>
-  <string name="dangerous_option_hint">%1$s so omogočene. Tapnite za spremembo nastavitev.</string>
+  <string name="dangerous_option_hint">\"%1$s\" su omogočene. Tapnite za spremembo nastavitev.</string>
   <string name="dangerous_option_hint_title">Razvojne opcije visokega tveganja omogočene</string>
   <string name="dangerous_option_switch_title">Obvesti o visokokritičnih stvareh</string>
   <string name="dark_color_mode">Temni način</string>
@@ -2970,6 +2970,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="inactive_app_active_summary">Aktivno. Dotaknite se za preklop.</string>
   <string name="inactive_app_inactive_summary">Neaktivno. Dotaknite se za preklop.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
+  <string name="incall_show">Profilni videoposnetek za odhodne klice</string>
   <string name="include_app_data_title">Vključi podatke aplikacije</string>
   <string name="incoming_call_breathing_light_color_title">Barva LED indikatorja klicev</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvenca LED indikatorja klicev</string>
@@ -3898,6 +3899,7 @@ Na tej napravi je več uporabnikov.
   <string name="modem_tool_log_stop_toast">"Ustavi zapis modema iz %s"</string>
   <string name="modify_instruction_password_settings">Nastavi geslo</string>
   <string name="modify_privacy_password">Zamenjaj geslo</string>
+  <string name="more_dangerous_option_hint">Stvari visokega tveganja, vključno \"%1$s\" so omogočene. Tapni za spremembo nastavitev.</string>
   <string name="move_app">Premakni</string>
     <string name="move_app_failed_dlg_text">"Ne morem premakniti aplikacijo %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -4020,6 +4022,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_unsupport_effect_summary">Nepodprte USB slušalke</string>
   <string name="musicfx_title">Glasbeni učinki</string>
   <string name="mute_music_stream">Utišaj prenos glasbe</string>
+  <string name="mute_voiceassist_stream">Utišaj glasovnega pomočnika</string>
   <string name="mvno_match_data">Vrednost MVNO</string>
   <string name="mvno_type">Vrsta MVNO</string>
   <string name="my_device">Moja naprava</string>

@@ -150,6 +150,10 @@ Tapnite + da napravite mapo"</string>
   <string name="notelist_menu_new">Dodaj beležko</string>
   <string name="notify_alarm_title">Opomnik za beležke</string>
   <string name="permdesc_accessNote">Zlonamerne aplikacije lahko to uporabijo za dostop do vaših osebnih podatkov.</string>
+  <string name="permission_intro_contact">Za označevanje beležk posnetih med pogovorom</string>
+  <string name="permission_intro_microphone">Za snemanje glasovnih beležk</string>
+  <string name="permission_intro_phone">Za označevanje beležk posnetih med pogovorom</string>
+  <string name="permission_intro_storage">Za shranjevanje beležk in priponk</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>

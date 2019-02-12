@@ -239,7 +239,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_do_not_sync">"Ne sinhroniziraj"</string>
   <string name="micloud_detail_download_syncing">Prenos %s</string>
   <string name="micloud_confusion_yes">Da</string>
-  <string name="micloud_detail_fail">"Ne mogu sinkr."</string>
+  <string name="micloud_detail_fail">"Ne mogu sinhr."</string>
   <string name="micloud_detail_not_syncable">Ne morem sinhronizirati</string>
   <string name="micloud_detail_query_error">"Ne morem dobiti statusa sinhronizacije"</string>
   <string name="micloud_dspt">Uporabi Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>

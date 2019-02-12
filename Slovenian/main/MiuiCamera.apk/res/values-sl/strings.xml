@@ -96,6 +96,10 @@
 in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="ai_scene_top_moon_off">Način dela slaba osvetlitev</string>
   <string name="ai_scene_top_tip">Mesec</string>
+  <string name="autozoom_click_hint">Tapnit objekt za zaćetek sledenja. Ostanite oddaljeni najmanj 3 metre za najboljši učinek.</string>
+  <string name="autozoom_disabled_hint">Spremljanje objekta v gibanju ustavljeno</string>
+  <string name="autozoom_hint">Spremljaj objekt v gibanju</string>
+  <string name="autozoom_landscape_hint">Priporoča se snemanje v načinu pokrajina</string>
   <string name="albums">Albumi</string>
   <string name="aperture">Zaslonka</string>
   <string name="app_details">Podrobnosti:</string>
@@ -719,6 +723,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Olepšanje v portretnem načinu dela</string>
   <string name="pref_camera_proximity_lock_summary">Zakleni dejanja dotika kadar se postavi v žep</string>
   <string name="pref_camera_proximity_lock_title">Žepni način dela</string>
+  <string name="pref_camera_quick_shot_anim_enable_title">Vključi animacijo hitrega snemanja</string>
+  <string name="pref_camera_quick_shot_enable_title">Vključi hitro snemanje</string>
   <string name="pref_camera_recordlocation_entry_off">Izklop</string>
   <string name="pref_camera_recordlocation_entry_on">Vklop</string>
   <string name="pref_camera_recordlocation_title">Shrani lokacijo</string>

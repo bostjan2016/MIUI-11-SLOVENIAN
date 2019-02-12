@@ -39,7 +39,7 @@
   <string name="account_settings_login_dialog_content_fmt">Ime ali geslo za %s je napačno. Ali jih želite posodobiti zdaj?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Ni bilo mogoče prijaviti se na %s. Strežnik obvešča: %s</string>
   <string name="account_settings_login_dialog_title">Ni bilo mogoče prijaviti se</string>
-  <string name="account_settings_mail_check_frequency_dialog_title_eas">"Morali boste ročno sinhronizirati pošto da boste lahko sinkronizirali sporočila in dogodke koledarja."</string>
+  <string name="account_settings_mail_check_frequency_dialog_title_eas">"Morali boste ročno sinhronizirati pošto da boste lahko sinhronizirali sporočila in dogodke koledarja."</string>
   <string name="account_settings_mail_check_frequency_label">Pogostost</string>
   <string name="account_settings_mibill_resolve_label">Samodejno urejaj račune</string>
   <string name="account_settings_name_label">Vaše ime</string>
@@ -583,7 +583,7 @@
   <string name="mailbox_name_display_unread">Neprebrano</string>
   <string name="mailbox_settings_activity_title">Možnosti sinhronizacije</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Možnosti sinhronizacije (%s)</string>
-  <string name="mailbox_settings_mailbox_sync_window_label">Sinkr. e-poštu iz</string>
+  <string name="mailbox_settings_mailbox_sync_window_label">Sinhr. e-poštu iz</string>
   <string name="mailbox_settings_sync_enabled_label">Sinhroniziraj to mapo</string>
   <string name="mailbox_settings_sync_enabled_summary">Sinhroniziraj sporočila v tej mapi</string>
   <string name="maileditor_fontsize_textitem1">8pt</string>

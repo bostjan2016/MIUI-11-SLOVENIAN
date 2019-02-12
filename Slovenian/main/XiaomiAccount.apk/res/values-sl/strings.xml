@@ -101,6 +101,7 @@
   <string name="completed">Končano</string>
   <string name="confirm_activate_email">Potrjeno</string>
   <string name="confirm_bundled_phone_dialog_title">Potrdi skupinsko številko telefona</string>
+  <string name="confirm_new_pwd">Potrdi novo geslo</string>
   <string name="confirm_delete_app_message">Po odstranitvi te aplikacije boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
   <string name="confirm_delete_browser_message">Po odstranitvi tega brskalnika boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
   <string name="confirm_delete_device_message">Po izbrisu te naprave boste morali potrditi številko telefona pri naslednji prijavi v svoj Mi Račun.</string>
@@ -177,8 +178,10 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="identity">Identifikacija</string>
+  <string name="inconsistent_pwd">"Gesla se ne ujemajo"</string>
   <string name="ignore">Ne zdaj</string>
   <string name="input_email_address_notice">"Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa"</string>
+  <string name="input_new_pwd">Vnesite novo geslo</string>
   <string name="io_error_title">Potrdite vaše omrežje</string>
   <string name="just_a_second">Samo trenutek…</string>
   <string name="loading_micloud_sync_data">Nalaganje...</string>
@@ -488,6 +491,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="restart_action">Začni znova</string>
   <string name="restart_phone_bind_message">Potrebno je nekaj časa za prejem SMS sporočila. Vseeno začnem znova?</string>
   <string name="restart_phone_bind_title">Spremeni telefon za obnovitev</string>
+  <string name="same_new_and_old_pwd">"Ne more biti enako kot trenutno geslo"</string>
   <string name="scan_barcode_title">Če se želite prijaviti v svoj Mi račun skenirajte QR kodo</string>
   <string name="search_account_protection">Zaščita računa</string>
   <string name="search_account_protection_desc">Zaščita računa</string>
@@ -530,6 +534,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="service_error">Napaka storitve</string>
   <string name="set_success">Uspešno zamenjano</string>
   <string name="sign_in">Prijavi se</string>
+  <string name="sim_card">SIM kartica</string>
   <string name="sim_changed_notification_msg">Pritisnite za posodobitev vašega telefona in obdržite svoj račun varen.</string>
   <string name="sim_changed_notification_title">Telefonska številka je spremenjena?</string>
   <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
@@ -557,6 +562,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="update_phone_notice">Spremeni varnostne nastavitve</string>
   <string name="update_phone_number_notice_message">Pred posodobitvijo številke telefona morate potrditi identiteto.</string>
   <string name="updated_nothing">Posodobljeno</string>
+  <string name="used_cloud_storage_info">Izkoriščen prostor za shranjevanje %s</string>
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
   <string name="verified_apps">Preverjene aplikacije</string>

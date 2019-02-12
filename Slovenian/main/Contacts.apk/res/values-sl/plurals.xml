@@ -48,7 +48,7 @@
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Stiki/fotografije niso sinhronizirani: %1$d"</item>
-        <item quantity="one">"%1$d stik/fotografija ni sinkronizirano"</item>
+        <item quantity="one">"%1$d stik/fotografija ni sinhronizirano"</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">Stiki %1$d</item>

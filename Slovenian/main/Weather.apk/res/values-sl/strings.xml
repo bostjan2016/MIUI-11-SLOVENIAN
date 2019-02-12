@@ -16,8 +16,9 @@
   <string name="act_weather_find_city_no_result">Ni rezultatov</string>
   <string name="act_weather_find_city_searching">Iskanje...</string>
   <string name="activity_find_city_dialog_cancel">Prekliči</string>
-  <string name="activity_find_city_dialog_message">Dovolite aplikaciji Vreme dostop do vaše lokacije da dobite točne informacije o lokaciji.</string>
-  <string name="activity_find_city_dialog_message_global">Dovolite aplikaciji Vreme dostop do vaše lokacije in dovolite napravi da dobi lokacijo brezžično.</string>
+  <string name="activity_find_city_dialog_message">Dovolite aplikaciji vreme dostop do vaše lokacije da boste dobili točne informacije o lokaciji.</string>
+  <string name="activity_find_city_dialog_message_global">Vključite storitve lokacije in dovolite napravi da dobi lokacijo preko brežičnih omrežij.</string>
+  <string name="activity_find_city_dialog_message_location_service">Da boste dobili relevantne informacije o vremenu, dovolite aplikaciji vreme dostop do lokacije.</string>
   <string name="activity_find_city_dialog_set">Nastavitve</string>
   <string name="activity_find_city_dialog_title">Dostop do lokacije</string>
   <string name="activity_main_pub_time">Objavljeno ob %1$s</string>
