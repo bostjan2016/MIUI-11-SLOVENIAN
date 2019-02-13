@@ -65,15 +65,15 @@
          <item quantity="one">"%d skrita fotografija ni sinhronizirana. Odjavite se ko bodo vse stvari sinhronizirane da jih obdržite; drugače se bodo izbrisale."</item>
     </plurals>
 	<plurals name="micloud_manual_pause_and_resume">
-         <item quantity="other">Sinhronizacija je ustavljena. Nadaljuj sinhr. čez %d min.</item>
-         <item quantity="one">Sinhronizacija je ustavljena. Nadaljuj sinhr. čez %d min.</item>
+         <item quantity="other">Sinhronizacija je ustavljena. Nadaljuje se čez %d min.</item>
+         <item quantity="one">Sinhronizacija je ustavljena. Nadaljuje se čez %d min.</item>
      </plurals>
      <plurals name="last_sync_time_mins_ago">
-        <item quantity="other">"  min. prej"</item>
-        <item quantity="one">" min. prej"</item>
+        <item quantity="other">pred %s  min.</item>
+        <item quantity="one">pred %s  min.</item>
     </plurals>
     <plurals name="last_sync_time_hours_ago">
-        <item quantity="other">" ur prej"</item>
-        <item quantity="one">" ura prej"</item>
+        <item quantity="other">pred %s ur</item>
+        <item quantity="one">pred %s uro</item>
      </plurals>
 </resources>

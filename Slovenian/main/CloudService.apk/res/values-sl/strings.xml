@@ -314,8 +314,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_network_error">Ne morem se povezati na omrežje</string>
   <string name="micloud_main_simple_last_sync_time">Zadnja sinhr: %s</string>
   <string name="micloud_main_simple_off">Sinhr. je izključena</string>
-  <string name="micloud_main_sync_mode_summary">Nekatere stvari se sinhronizirajo na izključenem zaslonu in pri polnjenju baterije.</string>
-  <string name="micloud_main_sync_mode_title">Power saving mode</string>
+  <string name="micloud_main_sync_mode_summary">Sinhroniziraj večino stvari ko je polnilec priključen in zaslon izključen</string>
+  <string name="micloud_main_sync_mode_title">Varčevanje baterije</string>
   <string name="micloud_main_wait_charge">Popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>
   <string name="micloud_main_wait_charge_sleep">Izključite zaslon in popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>
   <string name="micloud_main_wait_wlan">Čaka se WiFi</string>
@@ -342,18 +342,18 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_manual_local_storage_low_title">Zmanjkuje prostora za shranjevanje</string>
   <string name="micloud_manual_network_disconnet_button_text">Omrežne nastavitve</string>
   <string name="micloud_manual_network_disconnet_title">"Ne morem se povezati na omrežje"</string>
-  <string name="micloud_manual_paused">Sinhr. pavzirana</string>
+  <string name="micloud_manual_paused">Pavzirano</string>
   <string name="micloud_manual_pausing">Sinhr. pavzirana</string>
   <string name="micloud_manual_pending">Na čakanju</string>
   <string name="micloud_manual_reactivate">Aktiviraj ponovno</string>
-  <string name="micloud_manual_sync_all">Sinhr.</string>
+  <string name="micloud_manual_sync_all">Sinhr vse stvari.</string>
   <string name="micloud_manual_sync_now">Sinhr.</string>
-  <string name="micloud_manual_sync_pause">Premor</string>
+  <string name="micloud_manual_sync_pause">Premor sinhr.</string>
   <string name="micloud_manual_sync_resume">Nadaljuj sinhr.</string>
-  <string name="micloud_manual_syncing">Sinhr.</string>
+  <string name="micloud_manual_syncing">Sinhronizacija</string>
   <string name="micloud_manual_title">Ročna sinhr.</string>
   <string name="micloud_member">Mi Cloud članstvo</string>
-  <string name="micloud_member_advantage">Kupite več prostora za shrambo.</string>
+  <string name="micloud_member_advantage">Kupite več prostora za shranjevanje.</string>
   <string name="micloud_member_buy_content" formatted="false">"Veljavnost %s-%s-%s
 
 %s Mi Kreditov"</string>
@@ -391,7 +391,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_notif_title_sync_progress">Sinhroniziram</string>
   <string name="micloud_notif_title_sync_with_off">Sinhr. z Mi Cloudom</string>
   <string name="micloud_preference_last_sync_time">Zadnja sinhr: %s</string>
-  <string name="micloud_preference_syncing">Sinhr.</string>
+  <string name="micloud_preference_syncing">Sinhronizacija…</string>
   <string name="micloud_other_product_price">Primerjaj cene</string>
   <string name="micloud_privacy_cloud_off">Sinhronizacija izključena</string>
   <string name="micloud_privacy_cloud_sync">Vključite storitve Mi Cloud</string>
@@ -439,19 +439,19 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_sync_alert_dialog_title">Uporabi Mi Cloud</string>
   <string name="micloud_sync_off">Sinhr. z Mi Cloud je izključena</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Stiki, Koledar in Beležke se samodejno sinhronizirajo. Da boste sinhronizirali več stvari, pojdite v Mi Cloud nastavitve.</string>
-  <string name="micloud_sync_result_already_in_progress">Zadnja sinhr. poteka</string>
-  <string name="micloud_sync_result_auth_exception">Izjema avtorizacije</string>
-  <string name="micloud_sync_result_cancel">Sinhr. je  preklicana</string>
-  <string name="micloud_sync_result_cloud_storage_full">Cloud shramba je polna</string>
+  <string name="micloud_sync_result_already_in_progress">Obdelava predhodne sinhronizacije…</string>
+  <string name="micloud_sync_result_auth_exception">Napaka računa</string>
+  <string name="micloud_sync_result_cancel">Sinhr. je  prekinjena</string>
+  <string name="micloud_sync_result_cloud_storage_full">Mi Cloud shramba je polna</string>
   <string name="micloud_sync_result_common_message">"Ne morem sinhr. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="micloud_sync_result_cta_permission_error">Najprej se povežite na omrežje</string>
   <string name="micloud_sync_result_internal_error">Interna napaka</string>
-  <string name="micloud_sync_result_io_exception">I/O izjema</string>
-  <string name="micloud_sync_result_parse_exception">Izjema analize podatakov</string>
-  <string name="micloud_sync_result_permission_error">Napaka dovoljenj</string>
-  <string name="micloud_sync_result_request_error">Napaka omrežne zahteve</string>
-  <string name="micloud_sync_result_secure_space_limit">Ne morem sinhronizirati v varnem prostoru</string>
-  <string name="micloud_sync_result_sim_activated_error">SIM kartica ni aktivirana</string>
+  <string name="micloud_sync_result_io_exception">I/O napaka</string>
+  <string name="micloud_sync_result_parse_exception">Ne morem analizirati podatke</string>
+  <string name="micloud_sync_result_permission_error">Napaka glede dovoljenj</string>
+  <string name="micloud_sync_result_request_error">Pogreška zahteve za sinhronizacijo</string>
+  <string name="micloud_sync_result_secure_space_limit">"Ne sinhroniziraj stvari iz drugega prostora"</string>
+  <string name="micloud_sync_result_sim_activated_error">Napaka pri aktiviranju SIM kartice</string>
   <string name="micloud_sync_result_wifi_only">Sinhr. samo preko WiFi-ja</string>
   <string name="micloud_title_dspt" formatted="false">Izkoriščeno %s/Prostora skupaj %s,</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>
@@ -577,7 +577,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_item_calllog_title">Sinhroniziraj zgodovino klicev</string>
   <string name="sync_item_sms_summary">Sinhroniziraj vsa SMS sporočila na tej napravi</string>
   <string name="sync_item_sms_title">Sinhroniziraj sporočila</string>
-  <string name="sync_item_title">Sinhr. predmeti</string>
+  <string name="sync_item_title">Sinhr. podatke aplikacije</string>
   <string name="sync_off">Izklop</string>
   <string name="sync_on">Vklop</string>
   <string name="sync_resend_sms_dspt_provision">"Če zamenjate SIM kartico, vam bo operater zaračunal SMS uporabljen za ponovno aktiviranje te storitve."</string>
