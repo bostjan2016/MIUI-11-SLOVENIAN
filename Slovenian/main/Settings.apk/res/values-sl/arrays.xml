@@ -50,20 +50,13 @@
         <item>10 minut</item>
         <item>30 minut</item>
     </string-array>
-    <string-array name="entries_font_size">
-       <item>Normalen</item>
-       <item>Srednji</item>
-       <item>Velik</item>
-       <item>Ogromen</item>
-	   <item>Godzilla</item>
-    </string-array>
 	<string-array name="miui_entries_font_size">
         <item>S</item>
         <item>M</item>
         <item>L</item>
         <item>XL</item>
         <item>XXL</item>
-		<item>XXXL</item>
+	<item>XXXL</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Zelo počasi</item>
