@@ -249,7 +249,7 @@
   <string name="festival_sms_category_count_format">%s</string>
   <string name="festival_sms_loading">Nalagam…</string>
   <string name="fetion_prefix">[Fetion]</string>
-  <string name="file_create_time">Ustvarjeno:</string>
+  <string name="file_create_time">"Izdelano: "</string>
   <string name="file_share_message_description">Hočem deliti nekaj datotek s teboj.</string>
   <string name="file_size">"Velikost: "</string>
   <string name="file_title">"Ime: "</string>
@@ -334,6 +334,7 @@
   <string name="menu_pick_from_contact">Izberi iz stikov</string>
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_send_as_common">Pošlji kot SMS</string>
+  <string name="menu_traffic_destination">Izhodišče</string>
   <string name="menu_unlock">Odstrani iz priljubljenih</string>
   <string name="menu_view_contact">Prikaži stik</string>
   <string name="menu_yellowpage">Prikaži %s</string>
@@ -479,6 +480,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nova sporočila</string>
   <string name="number_add_hint">Vnesi telefonsko številko</string>
+  <string name="number_recognition_partner">Partnerji za pepoznavo številk</string>
   <string name="open_audio_record_panel">Odpri ploščo za snemanje zvoka</string>
   <string name="open_edit_sms_panel">Odpri ploščo urejanja SMS</string>
   <string name="open_url_with_web">Odprem povezavo v Brskalniku?</string>
@@ -847,6 +849,7 @@
   <string name="too_many_attachments">"Omejitev je %1$s prilog. Samo prvih %2$s bo dodano."</string>
   <string name="too_many_recipients">Sporočilo ima preveč prejemnikov (%1$s). Ne morete imeti več kot %2$s prejemnikov.</string>
   <string name="too_many_unsent_mms">"Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil."</string>
+  <string name="train_edit_destination">Dodaj</string>
   <string name="try_to_send">Poskusi poslati</string>
   <string name="type_attachment">priponka</string>
   <string name="type_audio">avdio</string>

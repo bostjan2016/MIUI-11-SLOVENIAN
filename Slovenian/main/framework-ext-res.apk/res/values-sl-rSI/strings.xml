@@ -101,6 +101,12 @@
   <string name="remain">Ostalo: %s</string>
   <string name="replace">Zamenjaj</string>
   <string name="resolver_app_recommend_flag">Priporočeno</string>
+  <string name="resolver_checkbox_always">Zmeraj</string>
+  <string name="resolver_checkbox_once">Enkrat</string>
+  <string name="resolver_mi_browser">Mi splet</string>
+  <string name="resolver_offical_recommend">Službeno</string>
+  <string name="resolver_other_method">Druge opcije</string>
+  <string name="resolver_recommend_options_tag">Priporočene opcije</string>
   <string name="resource_select">Izberi</string>
   <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>

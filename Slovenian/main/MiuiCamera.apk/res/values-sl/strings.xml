@@ -354,6 +354,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="hine_hht">"Pri slabi svetlobi bo kamera posnela več fotografij
   nato pa izdelala fotografijo z minimalno količino šuma."</string>
   <string name="hint_ae_af_lock">Samod. izostritev / Samod. ekspozicija je zaklenjena</string>
+  <string name="hint_ae_lock">Samod. ekspozicija je zaklenjena</string>
   <string name="hint_device_water_mark">Oznaka bo dodana na fotografijo samodejno.</string>
   <string name="hint_eye_light">Svetloba okoli oči bo boljša če vključite bliskavico</string>
   <string name="hint_fast_motion">Videoposnetek ki ga snemate se bo predvajal hitreje.</string>

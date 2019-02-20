@@ -245,6 +245,10 @@
          <item quantity="other">%d dni od zadnjega pregleda</item>
          <item quantity="one">%d dan od zadnjega pregleda</item>
      </plurals>
+	 <plurals name="hints_scan_danger_result_with_number">
+         <item quantity="other">%d​ najdenih tveganj, popravi zdaj</item>
+         <item quantity="one">%d najdeno tveganje, popravi zdaj</item>
+    </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
          <item quantity="other">%d tveganj,</item>
          <item quantity="one">%d tveganje,</item>

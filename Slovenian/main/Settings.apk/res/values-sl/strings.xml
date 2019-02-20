@@ -1708,7 +1708,9 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="crypt_keeper_setup_time_remaining">Počakajte, poteka šifriranje telefona. Preostane še: ^1</string>
   <string name="crypt_keeper_setup_title">Šifriranje</string>
   <string name="crypt_keeper_switch_input_method">Preklopite način vnosa</string>
-  <string name="crypt_keeper_unplugged_text">Priključite polnilnik in poskusite znova.</string>
+  <string name="crypt_keeper_switch_to_pattern">Oporabi vzorec</string>
+  <string name="crypt_keeper_switch_to_pin">Oporabi PIN</string>
+  <string name="crypt_keeper_unplugged_text">Vključite polnilec in poskusite ponovno.</string>
   <string name="crypt_keeper_warn_wipe">Opozorilo: Podatki v napravi bodo izbrisani po še toliko neuspešnih poskusih odklepanja: ^1.</string>
   <string name="cryptkeeper_emergency_call">Klic v sili</string>
   <string name="cryptkeeper_return_to_call">Nazaj na klic</string>
@@ -5960,6 +5962,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="settings_manual_activity_title">Priročnik</string>
   <string name="settings_manual_activity_unavailable">Prišlo je do težav pri prenosu priročnika.</string>
   <string name="settings_notify_need_backup">Izdelajte varnostno kopijo nastavitev na Mi Cloud da jo lahko uporabite po zamenjavi telefona.</string>
+  <string name="settings_notify_new_version">Posodobitev je na voljo. Tapnite za prikaz podrobnosti.</string>
   <string name="settings_notify_phone_recycled">Vaša telefonska številka je reciklirana. Pritisnite za dodajanje druge telefonske številke.</string>
   <string name="settings_safetylegal_activity_loading">Nalaganje …</string>
   <string name="settings_safetylegal_activity_title">Informacije o varnosti</string>
