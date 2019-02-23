@@ -194,12 +194,6 @@
         <item>10 minut</item>
         <item>30 minut</item>
     </string-array>
-    <string-array name="entries_font_size">
-        <item>Majhna</item>
-        <item>Privzeto</item>
-        <item>Velika</item>
-        <item>Največje</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pritisnite gumb</item>
         <item>PIN iz enakovredne naprave</item>
@@ -831,4 +825,20 @@
          <item>Zakl. aplik.</item>
          <item>Otroški način</item>
     </string-array>
+	<string-array name="select_logd_size_summaries">
+        <item>Izključeno</item>
+        <item>64 KB po medpoln. zapisnika</item>
+        <item>256 KB po medpoln. zapisnika</item>
+        <item>1 MB po medpoln. zapisnika</item>
+        <item>4 MB po medpoln. zapisnika</item>
+        <item>16 MB po medpoln. zapisnika</item>
+     </string-array>
+     <string-array name="select_logd_system_levels">
+        <item>Izključeno</item>
+        <item>Napaka</item>
+        <item>opozori</item>
+        <item>Info</item>
+        <item>Debug</item>
+        <item>Verbose</item>
+     </string-array>
 </resources>
