@@ -285,6 +285,11 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="no_visiable_calendar_message">Dodati morate račun koledarja, pritisnite na Dodaj račun za nadaljevanje.</string>
   <string name="no_visiable_calendar_select_account">Dodaj račun</string>
   <string name="no_visiable_calendar_title">Dodaj račun koledarja</string>
+  <string name="notification_channel_name">opomniki koledarja</string>
+  <string name="notification_open_setting_button_exit">Ne hvala</string>
+  <string name="notification_open_setting_button_ok">Dovoli</string>
+  <string name="notification_open_setting_message">"Ne boste mogli prejemati obvestil o dogodkih če ne dovolite koledarju da vam pošilja obvestila."</string>
+  <string name="notification_open_setting_title">Dovolim obvestila koledarja?</string>
   <string name="not_synced">Ni sinhronizirano</string>
   <string name="prefDialogTitle_vibrateWhen">Vibriraj</string>
   <string name="pref_error_no_ringtone_select">Privzeto zvonjenje</string>

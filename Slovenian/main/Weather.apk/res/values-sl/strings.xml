@@ -190,6 +190,14 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="particulate_matter_exceeded">Visoko</string>
   <string name="particulate_matter_not_exceeded">Normalno</string>
   <string name="particulate_matter_serious_exceeded">Previsoko</string>
+  <string name="permission_device_info">Informacije o napravi</string>
+  <string name="permission_device_introduce">Za prepoznavanje ID-a naprave na temelju modela naprave in IMEI-ja ter ponujanje lokaliziranih uslug na temelju jezičnih nastavitev</string>
+  <string name="permission_exit">Izhod</string>
+  <string name="permission_privacy">Pravila o zasebnosti (obvezno)</string>
+  <string name="permission_select_all">Izberi vse</string>
+  <string name="permission_storage">Shramba</string>
+  <string name="permission_storage_introduce">Za dostop stvarem v napravi in shranjevanju datotek</string>
+  <string name="permission_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="policy_settings">Pogoji in pravila</string>
   <string name="precipitation_degree_five">nevihta</string>
   <string name="precipitation_degree_four">ploha</string>
@@ -275,6 +283,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="view_indexes_item_today">Danes</string>
   <string name="view_indexes_item_tommorrow">Jutri</string>
   <string name="weather_alert_channel_name">Opozorila</string>
+  <string name="weather_introduce">Zmeraj z vami, dež ali sonce.</string>
+  <string name="weather_permission_agree">Sprejmem</string>
   <string name="weather_service_channel_name">Storitve v ozadju</string>
   <string name="weather_alert">Vremenska opozorila</string>
   <string name="wind_direction_no_data">Veter</string>

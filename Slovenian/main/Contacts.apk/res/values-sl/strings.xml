@@ -4,11 +4,11 @@
   <string name="accessibility_contact_detail">Podrobnosti o stiku</string>
   <string name="account_container_title">Uvoženo iz</string>
   <string name="account_default">Lokalno</string>
+  <string name="account_dual_sdn">SDN %s</string>
+  <string name="account_dual_sim">SIM kartica %s</string>
   <string name="account_phone">"Samo naprava, brez sinhronizacije"</string>
   <string name="account_sdn">SDN</string>
-  <string name="account_sdn2">SDN %d</string>
   <string name="account_sim">SIM kartica</string>
-  <string name="account_sim2">SIM kartica %d</string>
   <string name="account_type_format">%1$s stik</string>
   <string name="actionIncomingCall">"Dohodni klici"</string>
   <string name="action_menu_overflow_description">"Več možnosti"</string>

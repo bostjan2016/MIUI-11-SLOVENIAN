@@ -349,7 +349,7 @@
   <string name="ovp_select_ci">Izberite epizodo</string>
   <string name="ovp_select_related_video">Povezani videoposnetki</string>
   <string name="ovp_setting_clear_cache_success">Predspomin izbrisan</string>
-  <string name="ovp_setting_clear_cache_text">Izbriši predspomin datotek sshranjenih v napravi</string>
+  <string name="ovp_setting_clear_cache_text">Izbriši predspomin datotek shranjenih v napravi</string>
   <string name="ovp_setting_clear_cache_title">Izbriši predspomin</string>
   <string name="ovp_setting_privacy_policy_title">Pravila o zasebnosti</string>
   <string name="ovp_setting_privacy_switch_tips">"Nekatere storitve ne bodo na voljo, če prekličete avtorizacijo"</string>
