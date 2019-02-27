@@ -115,4 +115,48 @@
         <item quantity="other">Lahko nastavite do %d opomnikov</item>
         <item quantity="one">Lahko nastavite %d opomnik</item>
     </plurals>
+	     <plurals name="N_remaining_events">
+        <item quantity="other">+%d dogodkov</item>
+        <item quantity="one">+1 dogodek</item>
+     </plurals>
+     <plurals name="Nevents">
+        <item quantity="other">%d dogodkov</item>
+        <item quantity="one">1 dogodek</item>
+     </plurals>
+     <plurals name="Nmins">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+     </plurals>
+     <plurals name="daily">
+        <item quantity="other">Vsakih %d dni</item>
+        <item quantity="one">Dnevno</item>
+     </plurals>
+     <plurals name="endByCount">
+        <item quantity="other">; za stvari %d</item>
+        <item quantity="one">; enkrat</item>
+     </plurals>
+     <plurals name="recurrence_end_count">
+        <item quantity="other">Za dogodkov %d</item>
+        <item quantity="one">Za %d dogodek</item>
+     </plurals>
+     <plurals name="recurrence_interval_daily">
+        <item quantity="other">Vsakih %d dni</item>
+        <item quantity="one">Vsak %d dan</item>
+     </plurals>
+     <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Vsakih %d mesecev</item>
+        <item quantity="one">Vsak %d mesec</item>
+     </plurals>
+     <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Vsakih %d tednov</item>
+        <item quantity="one">Vsak %d teden</item>
+     </plurals>
+     <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Vsakih %d let</item>
+        <item quantity="one">Sako %d leto</item>
+     </plurals>
+     <plurals name="weekly">
+        <item quantity="other">Vsakih %1$d tednov na %2$s</item>
+        <item quantity="one">Tedensko na %2$s</item>
+     </plurals>
 </resources>

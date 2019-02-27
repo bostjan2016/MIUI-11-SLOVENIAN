@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SMS_and_MMS">SMS in MMS</string>
   <string name="Accounts_settings_title">Računi</string>
   <string name="aaid_info">"
  Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koristila.
@@ -380,7 +381,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="aod_lock_screen_date_12">EEEE, dd. MMMM</string>
   <string name="aod_mode_bg">Ozadje</string>
   <string name="aod_mode_clock">Ura</string>
-  <string name="aod_mode_style">Stil časa in ozadje</string>
+  <string name="aod_mode_style">Stil ure in ozadje</string>
   <string name="aod_mode_summary">Zmeraj prikaži čas, datum in sporočila ko je zaslon izključen.</string>
   <string name="aod_mode_time_summary">Nastavite čas ko naj se naprava poveže na Vedno vključeno</string>
   <string name="aod_mode_time_title">Razpored</string>
@@ -1312,10 +1313,12 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="button_quit">Izhod</string>
   <string name="button_return">Nazaj</string>
   <string name="button_start_transfer">Kopiraj</string>
+  <string name="button_send">Pošlji</string>
   <string name="button_text_accept">Sprejmem</string>
   <string name="button_text_accept_timer">Sprejmem (%d)</string>
   <string name="button_text_cancel">Prekini</string>
   <string name="button_text_login">Vpiši se</string>
+  <string name="button_text_known">V redu</string>
   <string name="button_text_next_step">Naprej</string>
   <string name="button_text_next_step_timer">Naslednji korak (%d)</string>
   <string name="button_text_ok">V redu</string>
@@ -1368,6 +1371,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="cancel_action">Prekliči</string>
   <string name="cancel_alert">Prekličem spremembe?</string>
   <string name="cancel_all_caps">PREKLIČI</string>
+  <string name="cancel_backup">Ustavi</string>
   <string name="cancel_button">Prekliči</string>
   <string name="cancel_description">Prekliči</string>
   <string name="cancel_download_buton_text">Prekliči</string>
@@ -4780,7 +4784,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Fotoaparat</string>
   <string name="power_cell">Način čakanja</string>
-  <string name="power_center">Zmogljivost</string>
+  <string name="power_center">Optimizacija baterije</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
@@ -4809,7 +4813,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_key_start_enjoy">Izvedite več o Google pomočniku</string>
   <string name="power_key_start_guide">Vključite Google pomočnika s pomočjo tipke za vklop/izklop na napravah s celim zaslonom</string>
     <string name="power_last_full_charge_summary">pred ^1</string>
-  <string name="power_mgr">Baterija</string>
+  <string name="power_mgr">Optimizacija baterije</string>
   <string name="power_mode">Nastavitve porabe</string>
   <string name="power_mode_balanced_title">Omogoči uravnoteženo napajanje</string>
   <string name="power_optimize">Prihranek baterije</string>
@@ -5052,6 +5056,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="progress_backup_hint">Izdelava var. kopije…</string>
   <string name="progress_restore_hint">Obnavljam iz var. kopije…</string>
   <string name="progress_scanning">Iskanje</string>
+  <string name="prompt_all">Vprašaj za vse</string>
   <string name="prompt_reading">Berem…</string>
   <string name="prompt_sending">Pošiljam…</string>
   <string name="prompt_writing">Shranjujem…</string>

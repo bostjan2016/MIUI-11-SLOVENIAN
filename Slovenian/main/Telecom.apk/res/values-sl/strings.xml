@@ -588,6 +588,7 @@ Avdio"</string>
     <string name="wifi_no_internet_no_reconnect">Samodejna vnovična vzpostavitev povezave se ne bo izvedla</string>
     <string name="wifi_not_in_range">Ni v obsegu</string>
   <string name="wifi_p2p_allow_passive_listen">Omogoči WiFi P2P pasivno poslušanje</string>
+  <string name="wifi_p2p_allow_passive_listen_summary">Omogoči/onemogoči WiFi P2p pasivno poslušanje, naprava ne more iskati druge naprave, druge naprave pa lahko skenirajo trenutno napravo</string>
     <string name="wifi_remembered">Shranjeno</string>
     <string name="wifi_security_none">Brez</string>
   <string name="wifi_ssid_is_empty">Polje SSID ne sme ostati prazno</string>

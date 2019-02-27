@@ -1755,12 +1755,14 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_network_mode_dialogtitle_cmcc">Način željenega omrežja</string>
   <string name="preferred_network_mode_evdo_only_summary">Preferirani omrežni način: Samo EvDo</string>
   <string name="preferred_network_mode_global_summary">Preferirani omrežni način: Globalno</string>
+  <string name="preferred_network_mode_gsm_only">Samo GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Preferirani omrežni način: Samo GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Preferirani omrežni način: GSM / WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferirani omrežni način: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Način željenega omrežja: LTE/CDMA</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Preferirani omrežni način: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Preferirani omrežni način: GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_lte_only">Samo LTE</string>
   <string name="preferred_network_mode_lte_summary">Preferirani omrežni način: LTE</string>
   <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Prednostni način omrežja: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Prednostni način omrežja: LTE/GSM/TDSCDMA</string>
@@ -1786,6 +1788,8 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_network_mode_tdscdma_summary">Prednostni način omrežja: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Prednostni način omrežja: TDSCDMA / WCDMA</string>
   <string name="preferred_network_mode_title">Vrsta prednostnega omrežja</string>
+  <string name="preferred_network_mode_wcdma_lte">WCDMA/LTE</string>
+  <string name="preferred_network_mode_wcdma_only">Samo WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Preferirani omrežni način: Samo WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Preferirani omrežni način: Preferirano WCDMA</string>
   <string name="preferred_network_restrict_network_changed_incall">Mobilnega omrežja ni možno spremeniti med klicem</string>

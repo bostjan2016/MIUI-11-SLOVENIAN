@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_extreme_mode">Ekstremni način</string>
+  <string name="about_extreme_mode">Ekstremno varčevanje baterije</string>
   <string name="about_hide_mode">O Varčevanju baterije</string>
   <string name="active_classify">Razvrsti glede na status aktivnosti</string>
   <string name="adaptive_battery_summary">"Omejite baterijo za aplikacije ki jih ne uporabljate pogosto"</string>
@@ -64,9 +64,9 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="extreme_add_white_list_summary">Dodajte do 4 aplikacije</string>
   <string name="extreme_add_white_list_title">Izjeme v ozadju</string>
   <string name="extreme_mode_max_item_alert">Samo 4 aplikacije se lahko izvajajo v ozadju v ekstremnem načinu varčevanja baterije</string>
-  <string name="extreme_power_config_mode_category">Ekstremni način</string>
-  <string name="extreme_power_config_mode_desc">Sprememba na ekstremni način bo izključila sinhronizacijo, Bluetooth, GPS, NFC, dvojni dotik, osvetlitev tipk, zbujanje zakl. zaslona ob obvestilih, utripajočo lučko obvestil itd in način varčevanja baterije nastavil na ultimativno</string>
-  <string name="extreme_power_config_mode_summary">Ekstremni način omejuje aktivnosti v ozadju in ustavlja sinhronizacijo.</string>
+  <string name="extreme_power_config_mode_category">Ekstremni način varčevanja baterije</string>
+  <string name="extreme_power_config_mode_desc">Sprememba na ekstremni način varčevanja baterije bo izključila sinhronizacijo, Bluetooth, GPS, NFC, dvojni dotik, osvetlitev tipk, zbujanje zakl. zaslona ob obvestilih, utripajočo lučko obvestil itd in način varčevanja baterije nastavil na ultimativno</string>
+  <string name="extreme_power_config_mode_summary">Ekstremni način varčevanja baterije omejuje aktivnosti v ozadju in ustavlja sinhronizacijo.</string>
   <string name="extreme_power_settings_title">Nastavitve</string>
   <string name="extreme_power_config_mode_title">Način ekstremno varčevanje baterije</string>
   <string name="failure">Napaka</string>
@@ -124,7 +124,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
   <string name="performance_category">Zmogljivost</string>
-  <string name="power_center">Varčevanje baterije</string>
+  <string name="power_center">Optimizacija baterije</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s pogosto prejema podatke o lokaciji</string>
@@ -157,7 +157,7 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_config_app_background_title">Ozadje</string>
   <string name="power_config_app_full_screen_title">Celostransko</string>
   <string name="power_config_app_launch_title">Prvi plan</string>
-  <string name="power_config_apps">Varčevanje baterije</string>
+  <string name="power_config_apps">Varčevanje baterije aplikacije</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Izberite čas za omejitev podatkov v ozadju</string>
   <string name="power_config_bg_data_delay_time_title">Omeji podatke v ozadju</string>
   <string name="power_config_choose_apps">Izberi aplikacije</string>

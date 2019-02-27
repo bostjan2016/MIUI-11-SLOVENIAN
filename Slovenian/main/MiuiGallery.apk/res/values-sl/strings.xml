@@ -664,6 +664,8 @@ za fotografije"</string>
   <string name="free_view_desc">3D prikaz</string>
   <string name="gallery_setting">Nastavitve</string>
   <string name="gallery_sync_disable_toast">Sinhr. Galerije ni omogočena</string>
+  <string name="generate_story_summary">MIUI bo analiziral vaše fotografije in napravil albume za zgodbe. Izključite to, če hočete ustavili izdelavo albuma.</string>
+  <string name="generate_story_title">Albumi z zgodbami</string>
   <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -706,6 +708,8 @@ za fotografije"</string>
   <string name="image_invalid_path">Napačna pot</string>
   <string name="image_not_found">"Ne najdem slike"</string>
   <string name="image_quota_fulfiled">Preveč slik. Izbrišite nekaj slik in poskusite ponovno.</string>
+  <string name="image_selection_summary">MIUI bo analiziral podobne fotografije in označil najboljše za vas. Izključite to, če hočete odstraniti oznake iz fotografij.</string>
+  <string name="image_selection_title">Izaberite najbolšo fotografijo</string>
   <string name="image_with_time">Fotografija je posneta %s</string>
   <string name="image_with_time_and_location">Fotografija je posneta %1$s. Lokacija: %2$s.</string>
   <string name="impunity_declaration_settings">Obvestila spletne povezave</string>
@@ -913,6 +917,7 @@ za fotografije"</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_set_contact_photo">Nastavi za sliko stika</string>
   <string name="operation_set_slide_wallpaper">Nastavi kot slideshow ozadje</string>
+  <string name="operation_set_video_wallpaper">Nastavi video ozadje</string>
   <string name="operation_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="operation_share">Deli</string>
   <string name="operation_show_in_photos_tab">Prikaži na začetni strani</string>
@@ -1095,6 +1100,7 @@ za fotografije"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Odstranjeno iz predlog</string>
   <string name="recommanded_face_added_tip">Dodano v \"%s\"</string>
+  <string name="recommend_category_title">"Izbira galerije"</string>
   <string name="recovery_merge">Združi</string>
   <string name="recovery_merge_or_rename">Združi albume</string>
   <string name="recovery_merge_or_rename_message">"Že obstaja album z istim imenom. Združim?"</string>
@@ -1269,6 +1275,8 @@ za fotografije"</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
   <string name="set_as_slide_wallpaper_description">Ta slika je miniatura, prenesem original?</string>
   <string name="set_as_slide_wallpaper_title">Nastavi za slideshow sliko ozadja</string>
+  <string name="set_as_video_wallpaper_description">Prenesem in uporabim kot video ozadje?</string>
+  <string name="set_as_video_wallpaper_title">Nastavi video ozadje</string>
   <string name="set_as_wallpaper_description">Ta slika je miniatura, prenesem najprej original?</string>
   <string name="set_as_wallpaper_title">Nastavi za sliko ozadja</string>
   <string name="set_face_group_toast_msg_new_user">Nastavite obraz osebe za združevanje ali ignoriranje te osebe</string>
@@ -1277,6 +1285,7 @@ za fotografije"</string>
   <string name="set_face_group_toast_title_old_user">Osebe se lahko organizira v skupine</string>
   <string name="set_face_image">Nastavi novo osebo</string>
   <string name="set_group">Nastavite skupino</string>
+  <string name="set_video_wallpaper_failed">"To se ne more uporabiti kot video ozadje"</string>
   <string name="set_wallpaper_get_image_failed">"Ne morem prenesti slike, poskusite ponovno kasneje"</string>
   <string name="setup_network_connection">Nastavitve omrežja</string>
   <string name="shadow">Sence</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add">Dodaj</string>
+  <string name="add_manual_printer">Ročno dodaj tiskalnik</string>
   <string name="add_named">Dodaj tiskalnik %1$s</string>
   <string name="add_printer_by_ip">Dodaj tiskalnik po IP naslovu</string>
   <string name="app_name">Privzeta storitev izpisa</string>
@@ -12,6 +13,7 @@
   <string name="failed_printer_connection">Povezovanje s tiskalnikom ni uspelo</string>
   <string name="find_wifi_direct">Najdi tiskalnike z direktnim WiFi</string>
   <string name="forget">Pozabi</string>
+  <string name="forget_printer">Pozabi tiskalnik</string>
   <string name="hostname_or_ip">Naziv hosta ali IP naslov</string>
   <string name="media_size_4x6in">4x6 in</string>
   <string name="media_size_54x86mm">54x86 mm</string>
@@ -37,4 +39,5 @@
   <string name="waiting_to_send">Čaka se pošiljanje</string>
   <string name="wifi_direct">WiFi Direct</string>
   <string name="wifi_direct_printers">Tiskalniki z direktnim WiFi</string>
+  <string name="wifi_not_connected">WiFi ni povezan</string>
 </resources>

@@ -87,6 +87,12 @@
   <string name="action_text_readmode_more">Več</string>
   <string name="action_text_readmode_theme_head">Nastavi ozadje</string>
   <string name="action_text_theme_and_textsize_change">Prilagajanje velikosti besedila in tem</string>
+  <string name="ad_app_download_notification_content">Po koncu namestitve odpri demo~</string>
+  <string name="ad_app_download_site_new">NOVO</string>
+  <string name="ad_exit_dialog_exit_btn_name">Izhod</string>
+  <string name="ad_exit_dialog_message">Namestitev končana! Želite odpreti?</string>
+  <string name="ad_exit_dialog_open_btn_name">Odpri</string>
+  <string name="ad_exit_dialog_title_name">Odpri novo aplikacijo</string>
   <string name="actionbar_share">Deli</string>
   <string name="actionbar_textselection_title">Izbira teksta</string>
   <string name="actionbar_web_search">Spletno iskanje</string>

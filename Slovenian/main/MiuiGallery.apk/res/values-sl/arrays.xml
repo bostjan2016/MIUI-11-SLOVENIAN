@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="activities_title">
+        <item>Poseben dan</item>
+        <item>Dan za zapmnit</item>
+        <item>Vibrant trenutki</item>
+    </string-array>
     <string-array name="slideshow_time_entries">
         <item>"5 minut"</item>
         <item>"15 minut"</item>
@@ -11,6 +16,11 @@
         <item>Deček</item>
         <item>Deklica</item>
      </string-array>
+	<string-array name="last_weekend_title">
+        <item>Moji vikendi</item>
+        <item>Delčki življenja</item>
+        <item>Vikend spomini</item>
+    </string-array>
 	 <string-array name="menu_copy_or_move">
         <item>Premjsti</item>
         <item>Kopiraj</item>
@@ -27,11 +37,16 @@
 	<string-array name="sharer_relation_addressive">
         <item>Oče</item>
         <item>Mama</item>
-        <item>Ded po mamini strani</item>
-        <item>Babica po mamini strani</item>
-        <item>Djed s majčine strane</item>
-        <item>Baka s majčine strane</item>
+        <item>Ded po očetovi strani</item>
+        <item>Babica po očetovi strani</item>
+        <item>Ded po materini strani</item>
+        <item>Babica po materini strani</item>
      </string-array>
+     <string-array name="parties_title">
+        <item>Skupaj</item>
+        <item>Dobri časi</item>
+        <item>Skladno</item>
+    </string-array>	 
      <string-array name="relation_with_me">
         <item>Jaz</item>
         <item>Otrok</item>
@@ -93,6 +108,10 @@
          <item>Zadnji vikendi</item>
          <item>Dnevi za pomnjenje</item>
          <item>Dnevni dogodki</item>
-         <item>Normalni &amp; nenavadni</item>
+         <item>Navadni &amp; nenavadni</item>
+     </string-array>
+	 <string-array name="sports_title">
+        <item>Samo naprej</item>
+        <item>Polno energije</item>
     </string-array>
 </resources> 

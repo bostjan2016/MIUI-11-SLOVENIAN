@@ -211,6 +211,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="master_clear_apply_step_1">Preklic avtorizacije zahteva povrnitev naprave na tovarniške nastavitve. Trajno bodo izbrisane vse datoteke in podatki, vključno račune, stike, fotografije in aplikacije. Napravite Var. kopijo na računalnik pred preklicem avtorizacije.</string>
   <string name="master_clear_apply_step_2">Preverite ali ste kopirali vse važne stvari na računalnik. Ko tapnete \"V redu\" se bo naprava povrnila na tovarniške nastavitve, trajno bodo izbrisane vse datoteke in podatki, vključno račune, stike, fotografije in aplikacije.</string>
   <string name="master_clear_apply_title">Pozor</string>
+  <string name="master_clear_not_available">Povrnitev na tovarniške nastavitve je omejena s strani vaše organizacije.</string>
   <string name="messageData">Sporočila</string>
   <string name="more_settings">Več</string>
   <string name="menu_item_about_privacy_title">Pravila o zasebnosti</string>

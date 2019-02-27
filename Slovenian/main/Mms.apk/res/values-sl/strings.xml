@@ -713,8 +713,10 @@
   <string name="security_alert_dialog_title">Prijavi</string>
   <string name="select_audio">Izberi zvok</string>
   <string name="select_bottom_text">Besedilo na dnu</string>
+  <string name="select_copy_text">Izberite in kopirajte tekst sporočila</string>
   <string name="select_different_attachment">Izberite drugo priponko.</string>
   <string name="select_different_audio">Izberite drug zvok.</string>
+  <string name="select_different_media">Izberite drug %1$s.</string>
   <string name="select_different_picture">Izberite drugo sliko.</string>
   <string name="select_different_video">Izberite drug videoposnetek.</string>
   <string name="select_link_title">Izberi dejanje</string>
