@@ -444,7 +444,7 @@ Poglejte ostale videoposnetke!"</string>
   <string name="slide_save_message">Izdelava videoposnetka…</string>
   <string name="switch_ratio_pause">Hitrost predvajanja je nestabilna. Vračanje na privzeto hitrost…</string>
   <string name="t_downloading">Prenosi:</string>
-  <string name="t_exit_app">Tani še enkrat za izhod.</string>
+  <string name="t_exit_app">Tapni še enkrat za izhod.</string>
   <string name="t_lv_check_delete_history">Izberite stvari za brisanje</string>
   <string name="t_lv_check_hide_file">Izberite videoposnetke za skrivanje</string>
   <string name="t_lv_check_unhide_file">Izberite videoposnetke za prikaz</string>
