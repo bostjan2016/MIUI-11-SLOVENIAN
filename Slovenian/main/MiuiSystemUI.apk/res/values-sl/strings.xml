@@ -318,7 +318,7 @@
   <string name="as_important">Pomembno</string>
   <string name="as_unimportant">Nepomembno</string>
   <string name="aspect_cancel">Prekliči</string>
-  <string name="aspect_message">Aplikacija bo ponovno zaganana v načinu cel zaslon. V primeru težav izključite način crl zaslona za to aplikacijo v Nastavitve &gt; Prikaz preko celega zaslona &gt; Cel zaslon.</string>
+  <string name="aspect_message">Aplikacija bo ponovno zaganana v načinu cel zaslon. V primeru težav izključite način celega zaslona za to aplikacijo v Nastavitve &gt; Prikaz preko celega zaslona &gt; Cel zaslon.</string>
   <string name="aspect_ok">V redu</string>
   <string name="aspect_title">Način cel zaslon</string>
   <string name="audio_effect_custom">Nastavi</string>
