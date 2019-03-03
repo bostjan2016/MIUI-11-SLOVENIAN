@@ -49,6 +49,7 @@
   <string name="account_settings_param">Nastavitve računa</string>
   <string name="account_settings_policies">Varnostna pravila</string>
   <string name="account_settings_preference_add_account">Dodaj račun</string>
+  <string name="account_settings_preference_att_save_path">Privzeta lokacija za priponke</string>
   <string name="account_settings_preference_head_icon">Fotografije profila</string>
   <string name="account_settings_preference_notify">Obvestila</string>
   <string name="account_settings_retry_label">Poskusi sinhronizacijo</string>
@@ -707,6 +708,8 @@ Poskusite z ostalo pošto."</string>
   <string name="open_external_storage_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in shranjevanja</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja, stikov in shranjevanja</string>
   <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
+  <string name="others_mail">Ostalo</string>
+  <string name="others_mail_des">(Kompatibilno z 600K poštnimi ponudniki)</string>
   <string name="outbox_alert_button_no_resend">Ne pošlji</string>
   <string name="outbox_alert_button_resend">Ponovno pošlji</string>
   <string name="outbox_alert_certificate_error">"Obrnite se na administratorja sistema e-pošte in posodobite svoj certifikat."</string>

@@ -2329,6 +2329,8 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
     <string name="enable_adb">Odpravljanje težav prek USB</string>
     <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
+   <string name="enable_atrace">Vključi ATrace</string>
+    <string name="enable_atrace_summary">Zajemi dogodke jedra z uporabo ATrace</string>
   <string name="enable_compatibility">Urejanje aplikacij</string>
   <string name="enable_crypt_keeper_encrypt">Omogoči enkripcijo</string>
   <string name="enable_data_string">Omogoči mobilne podatke</string>
