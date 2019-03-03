@@ -308,7 +308,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_head_menu_recycle_bin_title">Izbrisane stvari</string>
   <string name="micloud_main_head_menu_state_close">Izključeno</string>
   <string name="micloud_main_head_menu_state_open">Vključeno</string>
-  <string name="micloud_main_head_menu_state_unavailable">Nedostopno</string>
+  <string name="micloud_main_head_menu_state_unavailable">Ni na voljo</string>
   <string name="micloud_main_last_sync_time">Zadnja sinhr. %s</string>
   <string name="micloud_main_manual_sync">Ročno sinhr.</string>
   <string name="micloud_main_memory_low_title">Notranji pmnilnik telefona je skoraj poln</string>

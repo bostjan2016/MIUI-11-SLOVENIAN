@@ -37,7 +37,7 @@
   <string name="alert_dialog_download_prepare">Priprava za prenos…</string>
   <string name="alert_dialog_download_progress">"Prenos: "</string>
   <string name="app_name">Mi Video</string>
-  <string name="browser_error">Začasno nedostopno, poskusite ponovno kasneje</string>
+  <string name="browser_error">Začasno ni na voljo, poskusite ponovno kasneje</string>
   <string name="cancel">Prekliči</string>
   <string name="canceled">Odpovedano</string>
   <string name="cast_ad_label">Oglas</string>

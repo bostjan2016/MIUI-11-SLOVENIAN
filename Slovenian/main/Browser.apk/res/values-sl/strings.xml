@@ -959,7 +959,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_notification_category_fullscreen_controls">Kontrole strani v celem zaslonu</string>
   <string name="mw_notification_category_group_general">Splošno</string>
   <string name="mw_notification_category_incognito">Anonimno</string>
-  <string name="mw_notification_category_media">Mediji</string>
+  <string name="mw_notification_category_media">Predstavnosti</string>
   <string name="mw_notification_category_screen_capture">Snemanje zaslona</string>
   <string name="mw_notification_category_sites">Spletne lokacije</string>
   <string name="mw_notification_hidden_text">Vsebina skrita</string>

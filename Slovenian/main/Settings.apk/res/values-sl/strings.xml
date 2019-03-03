@@ -463,7 +463,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_lock_role_instruction">Zaščitite svoje zasebne aplikacije</string>
     <string name="app_memory_use">Uporaba pomnilnika</string>
   <string name="app_mobile">Mobilno</string>
-  <string name="app_name">Sig. kopija</string>
+  <string name="app_name">Var. kopija</string>
   <string name="app_name_label">Aplikacija</string>
   <string name="app_name_na">Uporaba podatkov</string>
   <string name="app_not_found_dlg_text">"Aplikacije ni bilo mogoče najti na seznamu nameščenih aplikacij."</string>
@@ -1747,7 +1747,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="dangerous_option_switch_title">Obvesti o visokokritičnih stvareh</string>
   <string name="dark_color_mode">Temni način</string>
   <string name="dark_color_summary">Uporabite temnejšo paleto barv za ozadje sistema in kompatibilne aplikacije</string>
-    <string name="dark_ui_mode">Nočni način</string>
+    <string name="dark_ui_mode">Temni način</string>
     <string name="dark_ui_mode_title">Nastavitev nočnega načina</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
   <string name="dashboard_title">Nastavitve</string>

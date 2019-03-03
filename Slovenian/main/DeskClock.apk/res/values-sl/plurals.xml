@@ -61,7 +61,7 @@
         <item quantity="one">%d sek</item>
      </plurals>
 	<plurals name="snooze_duration_summary">
-        <item quantity="other">Alarm se bo izključil %2$s X (%1$s min. vsak)</item>
+        <item quantity="other">Alarm se bo izključil %2$s X (%1$s min. vsakič)</item>
         <item quantity="one">Alarm se bo izključil %2$s X (%1$s min.)</item>
     </plurals>
 </resources>

@@ -507,7 +507,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="permission_action_prompt">Vprašaj</string>
   <string name="permission_action_reject">Zavrni</string>
   <string name="permission_group_title_charges_related">Telefon</string>
-  <string name="permission_group_title_media_related">Mediji</string>
+  <string name="permission_group_title_media_related">Predstavnosti</string>
   <string name="permission_group_title_others">Drugo</string>
   <string name="permission_group_title_privacy_related">Zasebnost</string>
   <string name="permission_group_title_settings_related">Nastavitve</string>
@@ -616,7 +616,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="speed_label_very_fast">Zelo hitro</string>
   <string name="speed_label_very_slow">Zelo počasi</string>
   <string name="standby_bucket_summary">Stanje aplik. na čakanju: %s</string>
-  <string name="status_unavailable">Nedostopno</string>
+  <string name="status_unavailable">Ni na voljo</string>
   <string name="strict_mode">Strog način je omogočen</string>
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti.</string>
   <string name="system_warning">Če zavrnete to dovoljenje osnovne storitve naprave morda ne bodo več delovale kot bi morale.</string>

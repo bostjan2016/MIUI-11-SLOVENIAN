@@ -216,7 +216,7 @@
   <string name="local_backup_password_toast_success">Novo geslo za varnostno kopijo nastavljeno</string>
   <string name="local_backup_password_toast_validation_failure">Nastavitev gesla za varnostno kopijo ni uspela</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
-  <string name="media_category">Mediji</string>
+  <string name="media_category">Predstavnosti</string>
   <string name="medical_conditions">Medicinske opombe</string>
   <string name="medical_conditions_hint">Na primer, astma</string>
   <string name="medications">Zdravila</string>

@@ -1796,7 +1796,7 @@ morda nadzira"</string>
     <string name="status_bar_use_physical_keyboard">Fizična tipkovnica</string>
   <string name="status_bar_volte_label">HD</string>
     <string name="status_bar_work">Profil za Android Work</string>
-  <string name="status_unavailable">Nedostopno</string>
+  <string name="status_unavailable">Ni na voljo</string>
     <string name="stream_accessibility">Opravila za ljudi s posebnimi potrebami</string>
     <string name="stream_alarm">Opozorilo</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>

@@ -365,8 +365,8 @@
   <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
   <string name="tab_title_calculator">Kalkulator</string>
   <string name="tab_title_convert">Pretvornik</string>
-  <string name="tab_title_tax_mortgage">Hipoteka</string>
-  <string name="tab_title_tax_mortgage_global">Hipoteka</string>
+  <string name="tab_title_tax_mortgage">Kredit</string>
+  <string name="tab_title_tax_mortgage_global">Kredit</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Vnesite svoj bonus pred davkom</string>
   <string name="tax_annual_bonus_number">Bonus</string>
@@ -381,7 +381,7 @@
   <string name="tax_city_picker">Mesto</string>
   <string name="tax_credit_input_your_pretax_bonuse">Vnesite svoj bonus preddavka</string>
   <string name="tax_credit_monthly_salary">Meesečna plača</string>
-  <string name="tax_credit_mortgage">Hipoteka</string>
+  <string name="tax_credit_mortgage">Kredit</string>
   <string name="tax_credit_personal_income_tax">Davek na dohodek</string>
   <string name="tax_credit_pretax_income">Dohodki od preddavka (CNY)</string>
   <string name="tax_detail">Podrobnosti o davku</string>

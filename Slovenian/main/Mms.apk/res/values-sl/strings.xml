@@ -744,7 +744,7 @@
   <string name="send_to_count">Poslano: %1$s</string>
   <string name="sent_at_time">Poslano: %1s</string>
   <string name="sent_label">"Poslano: "</string>
-  <string name="service_message_not_found">Sporočilo pretečeno ali nedostopno</string>
+  <string name="service_message_not_found">Sporočilo pretečeno ali ni na voljo</string>
   <string name="service_network_problem">Ni bilo možno poslati zaradi omrežnih problemov</string>
   <string name="service_not_activated">Storitev ni aktivirana na omrežju</string>
   <string name="service_unavailiable">Storitev ni na voljo</string>

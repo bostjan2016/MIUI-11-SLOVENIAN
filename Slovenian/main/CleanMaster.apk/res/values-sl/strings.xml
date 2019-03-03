@@ -429,7 +429,7 @@
   <string name="pref_summary_auto_update_cleanup_db">Zadnja posodobitev %s</string>
   <string name="pref_summary_cleanup_white_list">Prepreči čiščenje izbranih aplikacij</string>
   <string name="pref_summary_expand_cache_group">Prikaži podrobnosti predpomnilnika samodejno</string>
-  <string name="pref_summary_garbage_auto_clean_content">Izberite predmete ki se čistijo samodejno</string>
+  <string name="pref_summary_garbage_auto_clean_content">Izberite stvari ki se čistijo samodejno</string>
   <string name="pref_summary_garbage_cleanup_check_size">Očisti samodejno kadar smeti dosežejo določeno velikost</string>
   <string name="pref_summary_garbage_cleanup_check_time">Razporedi rutinsko čiščenje</string>
   <string name="pref_summary_garbage_process_mode">Nastavi obvestilo čistilca kadar obratuje</string>
@@ -437,7 +437,7 @@
   <string name="pref_title_apps_cleanup_size">Kadar doseže velikost predpomnilnika</string>
   <string name="pref_title_auto_clean">Očisti samodejno</string>
   <string name="pref_title_auto_clean_and_alert">Očisti samodejno</string>
-  <string name="pref_title_auto_clean_content_choose">Izberi predmete za čiščenje</string>
+  <string name="pref_title_auto_clean_content_choose">Izberi stvari za čiščenje</string>
   <string name="pref_title_auto_clean_operation">Metoda čiščenja</string>
   <string name="pref_title_auto_clean_trigger">Očisti shrambo</string>
   <string name="pref_title_auto_update_cleanup_db">Samodejno posodobi</string>
