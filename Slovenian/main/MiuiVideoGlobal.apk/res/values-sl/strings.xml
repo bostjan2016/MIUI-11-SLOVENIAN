@@ -364,6 +364,15 @@
   <string name="ovp_video_plugin_installation_failure">"Ne morem namestiti %1$s"</string>
   <string name="ovp_video_plugin_installation_two">Samo trenutek…</string>
   <string name="password_toggle_content_description">Vidnost bližnjic gesla</string>
+  <string name="permission_continue">Nadaljuj</string>
+  <string name="permission_info">"Mi Video potrebuje dostop do IMEI številke vaše naprave za naslednja opravila:
+ 
+Izboljšana opravilnost storitev v vaši napravi;
+Povečanje varnosti vašega računa."</string>
+  <string name="permission_info1">Mi Video potrebuje dostop do IMEI številke vaše naprave, da lahko naredi:</string>
+  <string name="permission_info2">Izboljšana opravilnost storitev v vaši napravi</string>
+  <string name="permission_info3">Povečanje varnosti vašega računa.​</string>
+  <string name="permission_title">Zahtevano je dovoljenje</string>
   <string name="ping_platform">APP</string>
   <string name="ping_property">film</string>
   <string name="player_replay_btn_text">ponovno predvajaj</string>
