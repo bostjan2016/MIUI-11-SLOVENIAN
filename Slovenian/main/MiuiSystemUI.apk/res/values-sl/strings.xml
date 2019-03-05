@@ -721,6 +721,8 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_check_failed">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_close_screen">Približajte se zaslonu</string>
   <string name="face_unlock_down">Dvignite glavo</string>
+  <string name="face_unlock_fail">"Ne morem potrditi obraza"</string>
+  <string name="face_unlock_fail_retry">"Ne morem potrditi obraza. Tapnite ikono za ponovni poskus."</string>
   <string name="face_unlock_identify_error">Prišlo je do napake pri prepoznavanju</string>
   <string name="face_unlock_not_found">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_not_roi">Imejte obraz znotraj okvirja</string>
@@ -741,6 +743,8 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_rotated_right">Obrnite glavo na levo</string>
   <string name="face_unlock_sc_status">Potegnite dol za odpiranje kamere</string>
   <string name="face_unlock_stay_away_screen">Stojte 25 do 40 cm oddaljeni od zaslona</string>
+  <string name="face_unlock_success_stay_screen_msg">Ostani na zakl. zaslonu ko bo obraz potrjen. Podrsajte z prstom gor da odprete začetni zaslon.</string>
+  <string name="face_unlock_success_stay_screen_title">Ostani na zakl. zaslonu po odklepu</string>
   <string name="failed_to_open_app_settings_toast">"Odpiranje nastavitev za aplikacijo %1$s ni uspelo"</string>
   <string name="fingerprint_add_text">Prstni odtis je posodobljen. Dodajte ga ponovno.</string>
   <string name="fingerprint_add_title">Dodajte prstni odtis</string>

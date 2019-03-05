@@ -199,7 +199,6 @@
   <string name="com_facebook_device_auth_instructions">Obiščite &lt;b&gt;facebook.com/device&lt;/b&gt; in vnesite zgoraj navedeno kodo.</string>
   <string name="com_facebook_image_download_unknown_error">Nepričakovana napaka pri prenosu slike.</string>
   <string name="com_facebook_internet_permission_error_message">Prijava za WebView zahteva dovoljenje za spletni dostop</string>
-  <string name="com_facebook_internet_permission_error_title">AndroidManifest napaka</string>
   <string name="com_facebook_like_button_liked">Všeč mi je</string>
   <string name="com_facebook_like_button_not_liked">Všeč</string>
   <string name="com_facebook_loading">Samo trenutek…</string>

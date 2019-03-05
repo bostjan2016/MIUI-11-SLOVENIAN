@@ -2326,11 +2326,11 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="empty_title_perm_apps">Ni aplik. s tem dovoljenjem</string>
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
   <string name="enableNetwork">enableNetwork</string>
-    <string name="enable_adb">Odpravljanje težav prek USB</string>
-    <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
+  <string name="enable_adb">Odpravljanje težav prek USB</string>
+  <string name="enable_adb_summary">Način za odpravljanje težav, ko je vzpostavljena povezava USB</string>
   <string name="enable_adb_summary_charging">Naprava je v načinu polnjenja, USB popravljanje napak je onemogočeno</string>
-   <string name="enable_atrace">Vključi ATrace</string>
-    <string name="enable_atrace_summary">Zajemi dogodke jedra z uporabo ATrace</string>
+  <string name="enable_atrace">Vključi ATrace</string>
+  <string name="enable_atrace_summary">Zajemi dogodke jedra z uporabo ATrace</string>
   <string name="enable_compatibility">Urejanje aplikacij</string>
   <string name="enable_crypt_keeper_encrypt">Omogoči enkripcijo</string>
   <string name="enable_data_string">Omogoči mobilne podatke</string>
@@ -3897,7 +3897,7 @@ Na tej napravi je več uporabnikov.
   <string name="mode_disable">Onemogočeno</string>
   <string name="mode_enable">Omogočeno</string>
   <string name="model_info">Model</string>
-  <string name="model_name">Ime modela</string>
+  <string name="model_name">Ime</string>
   <string name="model_number">Model naprave</string>
   <string name="model_summary">Model: %1$s</string>
   <string name="modem_tool_log">Zabeleži zapise modema</string>
