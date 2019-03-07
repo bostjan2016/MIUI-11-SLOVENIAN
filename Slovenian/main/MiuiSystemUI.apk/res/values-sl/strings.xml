@@ -1991,6 +1991,11 @@ Telefon lahko postane prevroč ob:
   <string name="usb_port_overheated_dialog_content">Polnilec za polnjenje je pregret. Izključite polnilec iz naprave in preverite če je priključek za polnjenje čist. Za vprašanja kontraktirajte podporo uporabnikom.</string>
   <string name="usb_port_overheated_notification_content">Izklopite polnilec iz naprave in preverite če je priključek za polnjenje čist.</string>
   <string name="usb_port_overheated_title">Polnilec za polnjenje je pregret. Isključite ga.</string>
+  <string name="usb_port_short_circuit_dialog_content">Poljenje vaše naprave je omejeno. Izključite polnilec in obrišite priključke za polnjenje da odstranite vse tekočine.</string>
+  <string name="usb_port_short_circuit_notification_content">Izključite polnilec in obrišite priključke za polnjenje da odstranite vse tekočine.</string>
+  <string name="usb_port_short_circuit_recovered_content">Lahko ga uporabite za polnjenje ali povezavo z drugimi napravami.</string>
+  <string name="usb_port_short_circuit_recovered_title">Priključek za polnjenje zdaj dela normalno</string>
+  <string name="usb_port_short_circuit_title">"V priključku za polnjenje je vodna para"</string>
     <string name="usb_preference_title">Možnosti prenosa datotek prek USB-ja</string>
   <string name="usb_ptp_text">Fotografije</string>
   <string name="usb_share_net_info">Uporabi spletno povezavo računalnika</string>
