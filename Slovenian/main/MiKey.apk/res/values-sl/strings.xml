@@ -128,7 +128,7 @@ na dnu seznama"</string>
   <string name="fail_generate_barcode">Generiranje QR kode ni uspelo</string>
   <string name="faq_comp_text">Za MIUI in Xiaomi telefone. Aktualno verzijo MiKey aplikacije lahko dobite na &lt;a href="http://xiaomi.eu/community/threads/mikey-app-1-4-1.24220/"&gt;xiaomi.eu&lt;/a&gt;</string>
   <string name="faq_comp_title">Podprte naprave</string>
-  <string name="faq_focus_text">Pri uporabi bliskavice se čas izdelave fotografije podaljša, zajeta fotografija pa je ostrejša. To lahko isključite ampak fotografija bo motna.</string>
+  <string name="faq_focus_text">Pri uporabi bliskavice se čas izdelave fotografije podaljša, zajeta fotografija pa je ostrejša. To lahko izključite ampak fotografija bo motna.</string>
   <string name="faq_focus_title">Počasno fotografiranje?</string>
   <string name="faq_misreq_text">Če kontrole glasbe ne reagirajo na zaklenjenem zaslonu, zapustite aplikacijo Glasba, izbrišite jo iz RAM-a, ponovno priključite Mikey in v Meniju izberite "Mikey". Zavedamo se te napake in delamo vse da jo odpravimo!</string>
   <string name="faq_misreq_title">Kako rešiti težave?</string>
