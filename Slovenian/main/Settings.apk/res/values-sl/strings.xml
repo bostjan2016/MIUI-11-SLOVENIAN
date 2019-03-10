@@ -1748,7 +1748,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="dark_color_mode">Temni način</string>
   <string name="dark_color_summary">Uporabite temnejšo paleto barv za ozadje sistema in kompatibilne aplikacije</string>
     <string name="dark_ui_mode">Temni način</string>
-    <string name="dark_ui_mode_title">Nastavitev nočnega načina</string>
+    <string name="dark_ui_mode_title">Nastavitev temnega načina</string>
     <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
   <string name="dashboard_title">Nastavitve</string>
   <string name="data_detail_description">Podrobnosti</string>

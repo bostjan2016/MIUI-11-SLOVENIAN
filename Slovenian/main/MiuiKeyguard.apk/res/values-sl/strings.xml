@@ -119,7 +119,7 @@
   <string name="keyguard_charging_info_last_charge_yesterday_time">Včeraj %s</string>
   <string name="keyguard_charging_info_last_charged_time_text">Napolnjeno</string>
   <string name="keyguard_charging_info_tip_text1">Imejte baterijo vaše naprave ves čas napolnjeno vsaj na 10% da ji podaljšate življensko dobo.</string>
-  <string name="keyguard_charging_info_tip_text2">"Ne prenapolnite baterije. Večkratna krajša polnjenja so boljša od nočnega polenja."</string>
+  <string name="keyguard_charging_info_tip_text2">"Ne prenapolnite baterije. Večkratna krajša polnjenja so boljša od nočnega polnjenja."</string>
   <string name="keyguard_charging_info_tip_text3">Izogibajte se polnjenju baterije če je temperatura okolice nižja od 0 °C.</string>
   <string name="keyguard_charging_info_tip_text4">"Da se izognete pregrevanju, napravo aktivno ne uporabljajte med polnenjem ."</string>
   <string name="keyguard_charging_info_tip_text5">Če se baterija polni dlje postane toplejša kot običajno.</string>
