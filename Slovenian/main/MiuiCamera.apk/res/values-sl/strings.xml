@@ -659,12 +659,15 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
   <string name="pref_camera_live_sticker_internal_title">Interna čarobna orodja</string>
   <string name="pref_camera_long_press_shutter_feature_title">Pritisnite in držite sprožilec</string>
+  <string name="pref_camera_long_press_viewfinder_title">Pritisnite &amp; držite isaklec</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Hitri način zajemanja</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Zaporedno snemanje</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Dolg pritisk sprožilca</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite sprožilec za zaklep AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google lens</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Zakl.</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Ročno</string>
   <string name="pref_camera_mfnr_sat_enable_title">Vključi MFNR</string>
@@ -828,6 +831,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_front_mirror_label_auto">Samodejno</string>
   <string name="pref_front_mirror_title">Zrcalna sprednja kamera</string>
   <string name="pref_google_lens">Google leče</string>
+  <string name="pref_google_lens_summary">Samod. prepoznaj QR kode, e-sporočila, številke in tekst</string>
+  <string name="pref_google_lens_title">Pametni predlogi</string>
   <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
   <string name="pref_grp_advanced_settings">Napredne nastavitve</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>

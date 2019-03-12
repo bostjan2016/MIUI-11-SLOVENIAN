@@ -267,9 +267,10 @@
    <string name="video_crbt_title">%s barva prstana</string>
   <string name="video_switch_to_voice_call_prompt">Preklopi na glasovni klic</string>
   <string name="voicemail">Govorna pošta</string>
+   <string name="volte_call">VoLTE klic</string>
    <string name="volume_boost_text">Glasnost uspešno povečana</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="wait_prompt_str">Pošljem naslednje tone?
+  <string name="wait_prompt_str">"Pošljem naslednje tone?"
 "</string>
   <string name="waiting_close_airplane_mode">Samo trenutek…</string>
 </resources>

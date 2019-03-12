@@ -1734,6 +1734,10 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="current_use_uicc_se">Uporaba varnostnega elementa na SIM kartici</string>
   <string name="current_use_uicc_wallet">"Uporabite SIM%1$s Denarnico"</string>
   <string name="current_zone">(trenutno)</string>
+  <string name="cutout_mode_always">Zmeraj pokaži</string>
+  <string name="cutout_mode_default">Samod.</string>
+  <string name="cutout_mode_settings_title">Nekatere aplikacije se lahko prikažejo napačno če prilagodite način prikaza zoba.</string>
+  <string name="cutout_mode_title">Zob v posameznih aplikacih</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
   <string name="daltonizer_mode_disabled">Onemogočeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatičnost</string>
@@ -3558,6 +3562,7 @@ kot PIN za Prvi prostor"</string>
   <string name="login">Prijava</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
+  <string name="login_account_summary">Urejanje računov, storitev v oblaku, plačil in še mnogo drugega</string>
   <string name="login_action">Prijavite se</string>
   <string name="login_failed">"Prijava ni uspela. Poskusite ponovno."</string>
   <string name="logining">Prijava…</string>
@@ -3823,6 +3828,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_super_resolution_desc">Napravi slike ostrejše</string>
   <string name="miui_lab_super_resolution_title">Super ločljivost</string>
     <string name="miui_master_clear_summary">Briše vse podatke na telefonu</string>
+  <string name="miui_more_special_feature">Raziščite nove storitve</string>
   <string name="miui_optimization_disabled">Izključi MIUI optimizacijo</string>
   <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
@@ -3878,6 +3884,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_sos_settings_category">SOS nastavitve</string>
   <string name="miui_sos_statusbar_summary">Tapni za izklop</string>
   <string name="miui_sos_statusbar_title">Vključen je SOS v sili</string>
+  <string name="miui_special_feature">Posebne storitve</string>
   <string name="miui_touch_filtered_warning">Če aplikacija blokira pogovorno okno za dovoljenje potegnite stvar ki se preklapa ali zaprite aplikacijo.</string>
   <string name="miui_updater">Posodabljanje</string>
   <string name="miui_userguide">Uporabniški vodič</string>
@@ -4429,6 +4436,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="other_device_info">Ostalo</string>
   <string name="other_personal_settings">Osebne nastavitve</string>
   <string name="other_relative">Drugo</string>
+  <string name="other_settings_sync_settings">Sinhr.</string>
     <string name="other_sound_category_preference_title">Drugi zvoki in vibriranja</string>
   <string name="other_sound_settings">Drugi zvoki</string>
   <string name="others">Ostalo</string>
@@ -6737,7 +6745,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="system_alert_window_on">Da</string>
     <string name="system_alert_window_settings">Prekrivanje drugih aplikacij</string>
   <string name="system_alert_window_summary" formatted="false">Aplikacije ki lahko prekrivajo druge aplikacije: %d/%d</string>
-  <string name="system_and_device_section_title">Sistem &amp; naprava</string>
+  <string name="system_and_device_section_title">Nastavitve sistema</string>
   <string name="system_app">(Sistem)</string>
   <string name="system_app_settings">Nastavitve sistemskih aplikacij</string>
   <string name="system_apps_updater">Posodobitev sistemskih aplikacij</string>
@@ -6768,8 +6776,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="task_canceled_all_local">Preklicano</string>
   <string name="task_canceled_local">Varnostno kopiranje nedokončano (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">Varnostno kopiranje ni zaključeno. Vseeno ustavim?</string>
-  <string name="task_failed">Varnostno kopiranje ni bilo mogoče</string>
-  <string name="task_failed_all_local">Varnostno kopiranje ni bilo mogoče</string>
+  <string name="task_failed">"Varnostno kopiranje ni bilo mogoče"</string>
+  <string name="task_failed_all_local">"Varnostno kopiranje ni bilo mogoče"</string>
   <string name="task_failed_local">Varnostno kopiranje nedokončano (%s)</string>
   <string name="task_finished">Varnostno kopiranje uspešno</string>
   <string name="task_local_backup_cancel_dialog">Varnostno kopiranje ni zaključeno. Vseeno ustavim?</string>
@@ -7284,6 +7292,8 @@ Vam je všeč Mi Mover?"</string>
     <string name="unlock_set_unlock_pin_title">Koda PIN</string>
   <string name="unlock_set_unlock_summary">Nastavi zaklepanje zaslona</string>
   <string name="unlock_setup_wizard_fingerprint_details">Ko nastavite zaklepanje zaslona lahko tudi nastavite prstni odtis v »Nastavitve &gt; Varnost«.</string>
+  <string name="unlogin_account_summary">Vse Mi storitve. En Mi Račun</string>
+  <string name="unlogin_account_title">Prijavite se v Mi Račun</string>
   <string name="unmount_inform_text">Pomnilnik USB bo izpet.</string>
   <string name="unmute_sound_title">Vključi zvok</string>
   <string name="unrestrict_max_aspect_ratio_title">Te aplikacije so optimizirane za cel zaslon</string>

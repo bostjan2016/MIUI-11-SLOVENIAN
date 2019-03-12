@@ -22,14 +22,14 @@
       </plurals>		     
    <plurals name="duration_seconds">
         <item quantity="other">%d sek</item>
-        <item quantity="one">1 sekunda</item>
+        <item quantity="one">%d sekunda</item>
     </plurals>
     <plurals name="duration_minutes">
         <item quantity="other">%d min</item>
-        <item quantity="one">1 minuta</item>
+        <item quantity="one">%d minuta</item>
     </plurals>
     <plurals name="duration_hours">
         <item quantity="other">%d ur</item>
-        <item quantity="one">1 ura</item>
+        <item quantity="one">%d ura</item>
     </plurals>	  
 </resources>
