@@ -122,6 +122,8 @@
   <string name="cleanup_memory">Očisti</string>
   <string name="cleanup_power">Globinsko čiščenje</string>
   <string name="clear">Očisti</string>
+  <string name="clock_alarm">Alarm</string>
+  <string name="clock_parent">Ura</string>
   <string name="closed">Izključeno</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Če težava še naprej obstaja kontaktirajte razvojnega programerja.</string>
   <string name="commute">Predlogi zemljevida</string>
@@ -360,6 +362,8 @@
   <string name="mi_sport">Števec korakov</string>
   <string name="mi_sport_go_install">Prenesi</string>
   <string name="mi_wallet">Denarnica Mi</string>
+  <string name="midrop_parent">Mi Drop</string>
+  <string name="midrop_send">Pošlji</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prekliči</string>
@@ -426,6 +430,7 @@
   <string name="paycode_sdk_parent_title">Hitro plačilo</string>
   <string name="payment">Plačila</string>
   <string name="personalAssistant_mainpage">Začetna stran</string>
+  <string name="phone_check">Optimizacija</string>
   <string name="place_label">Pogosta mesta</string>
   <string name="preferences">Nastavitve</string>
   <string name="preferences_label">Nastavitve</string>
@@ -642,6 +647,8 @@
   <string name="walk">Hoja</string>
   <string name="weibo_name">Nova objava</string>
   <string name="weibo_parent">Weibo</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Fotografije</string>
   <string name="which_transport">Kako običajno pridete do svoje destinacije?</string>
   <string name="widget_fav">Priljubljeno</string>
   <string name="widget_fav_open">Pokaži kartico priljubljenih</string>
