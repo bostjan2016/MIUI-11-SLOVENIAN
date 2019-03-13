@@ -31,7 +31,7 @@
 "<ul><li>Podrsajte z dvema ali več prsti za premikanje</li>"
 "<li>Stisnite dva ali več prstov da boste prilagodili zumiranje</li></ul>"
 
-"<b>Da boste začasno zumirali</b>", tapnite gumb Dostopnost, a zatim dodirnite i zadržite bilo gdje na zaslonu.
+"<b>Da boste začasno zumirali</b>", tapnite gumb Dostopnost, potem pa tanite in zadržite kjerkoli na zaslonu.
 "<ul><li>Potegnite s prstom da se boste premikali po zaslonu</li>"
 "<li>Dvignite prst da boste zmanjšali prikaz</li></ul>"
 
@@ -161,7 +161,7 @@ Da boste začeli, morate vrniti Pixel na privzeto. Izbrisani bodo vsi podatki na
     <string name="backup_suggestion_other_ways_to_copy">Drugi načini kopir. podatkov</string>
     <string name="backup_suggestion_reset_description">"Na naslednjem zaslonu lahko ponastavite telefon Pixel. To je edini način, da lahko prenesete podatke prek kabla.
 
-Povrnitvi na privzeto začnite postopek nastavljanja in izberite prenos podatakov iz prejšnjega telefona."</string>
+Povrnitvi na privzeto začnite postopek nastavljanja in izberite prenos podatkov iz prejšnjega telefona."</string>
     <string name="backup_suggestion_reset_title">Ponastavitev telefona Pixel</string>
     <string name="backup_suggestion_what_is_needed_summary">"Potem ko ponastavite telefon, boste potrebovali to:
 

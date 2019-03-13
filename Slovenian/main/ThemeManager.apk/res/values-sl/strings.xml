@@ -43,7 +43,7 @@
   <string name="ad_download_open">Odpri</string>
   <string name="ad_download_pause">Premor</string>
   <string name="ad_download_pending">Poteka</string>
-  <string name="ad_download_resume">Nadljuj</string>
+  <string name="ad_download_resume">Nadaljuj</string>
   <string name="ad_downloading_tip">Prevzem poteka. Napredek lahko vidite v plošči obvestil.</string>
   <string name="ad_tag_text_1">Popularno</string>
   <string name="ad_tag_text_2">Moda</string>
@@ -221,7 +221,7 @@
   <string name="incall_show_apply">Profilni videoposetek za odhodne klice</string>
   <string name="incall_show_apply_fail">"Ne morem nastaviti"</string>
   <string name="incall_show_apply_success">"Uspešno nastavljeno. Da boste to storitev izključili,
-pojdite v Nastavitve &gt; Zvuo in vibracija &gt; Profilni videoposnetek."</string>
+pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnetek."</string>
   <string name="incall_show_apply_success_without_ringtone">"Uspešno nastavljeno. Ta videoposnetek nima zvoka. Uporabljen bo originalni zvok zvonenja.
 Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnetek."</string>
   <string name="incall_show_find_more">Najdi več</string>
@@ -282,7 +282,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="mix_global_option">Splošno</string>
-  <string name="mix_global_option_des">Plošča obvestil, telefon, sporočola in drugi elementi sistema. Odznačite ta okvir da uporabite privzete opcije.</string>
+  <string name="mix_global_option_des">Plošča obvestil, telefon, sporočila in drugi elementi sistema. Odznačite ta okvir da uporabite privzete opcije.</string>
   <string name="mix_home_option_des">Slika za ozadje in ura. Odznačite ta okvir da uporabite privzete opcije.</string>
   <string name="mix_icons_option_des">Ikona zač. zaslona. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_lockscreen_option_des">Slika za ozadje in ura. Odznačite ta okvir da uporabite privzeto.</string>
@@ -573,7 +573,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="set_color_ring_back_tone">Nastavite lastno melodijo zvonenja</string>
   <string name="set_home_wallpaper_failed">"%s. Ne morem nastaviti slike ozadja zač. zaslona."</string>
   <string name="settings">Nastavitve</string>
-  <string name="server_internal_error">Napaka serverja. Počakajte trenutak ali dva in poskusite ponovno.</string>
+  <string name="server_internal_error">Napaka serverja. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="shortcut_add">Dodaj</string>
   <string name="shortcut_cancel">Ne, hvala</string>
   <string name="shortcut_message">Dodajte bližnjico začetnega zaslona!</string>
@@ -677,12 +677,12 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>
   <string name="to_activate_the_account">Aktivirajte zdaj svoj Mi Račun</string>
   <string name="transparent_wallpaper">Transparenta slika ozadja</string>
-  <string name="transparent_wallpaper_apply_success">Uspešno nastavljeno. Lahko izključite vTeme &gt; Profil &gt; Beta storitve.</string>
+  <string name="transparent_wallpaper_apply_success">Uspešno nastavljeno. Lahko izključite v Teme &gt; Profil &gt; Beta storitve.</string>
   <string name="transparent_wallpaper_enable_success">Uspešno vključeno</string>
   <string name="transparent_wallpaper_guide">Pojdi v Teme</string>
-  <string name="transparent_wallpaper_guide_tip">SLahko izberetetransparentno sliku ozadja v temah.</string>
+  <string name="transparent_wallpaper_guide_tip">Lahko izberete transparentno sliko ozadja v temah.</string>
   <string name="transparent_wallpaper_white_wallpaper">Napravi ozadje belo</string>
-  <string name="transparent_wallpaper_white_wallpaper_failed">"Ne mrem napraviti ozadje belo"</string>
+  <string name="transparent_wallpaper_white_wallpaper_failed">"Ne morem napraviti ozadje belo"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Barva ozadja je zdaj bela</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Transparento ozadje izgleda najboljše na belem ozadju</string>
   <string name="uid_change_dialog_message">"Izbrisali ste posodobitve. Ponovno zaženite napravo da boste lahko uporabili teme."</string>

@@ -613,7 +613,7 @@ hitrost vzorčenja"</string>
   <string name="cellular_preferred">Preferirano omrežje</string>
   <string name="cf_mobile_date">Prosim vključite mobilne podatke in izključite WiFi</string>
   <string name="cf_setting_mobile_data_alert">Vključite mobilne podatke in poskrbite da bo WiFi izključen</string>
-  <string name="cf_setting_mobile_data_roaming_alert">Vključite gostovanje podatakov</string>
+  <string name="cf_setting_mobile_data_roaming_alert">Vključite gostovanje podatkov</string>
   <string name="cfb_title">Posreduj ko je zasedeno</string>
   <string name="cfnrc_title">Posreduj ko je nedosegljivo</string>
   <string name="cfnrc_title_cta">Posreduj ko je nedosegljivo</string>
@@ -779,7 +779,7 @@ hitrost vzorčenja"</string>
   <string name="daltonizer_type_overridden">Premoščeno z nastavitvijo %1$s</string>
   <string name="data_enable_summary">Dovoli uporabo podatkov</string>
   <string name="data_enabled">Podatki omogočeni</string>
-  <string name="data_plan">Plan mob. podatakov</string>
+  <string name="data_plan">Plan mob. podatkov</string>
   <string name="data_usage_disable_mobile">Želite izključiti mobilne podatke?</string>
   <string name="data_usage_template">Porabljeno je %1$s mobilnih podatkov v obdobju: %2$s</string>
   <string name="data_usage_title">Poraba podatkov</string>
@@ -1390,7 +1390,7 @@ za uporabo top-up package"</string>
   <string name="mobile_data_activate_diag_message">Morda boste morali dodati podatke preko operaterja %s</string>
   <string name="mobile_data_activate_diag_title">Želite dodati podatke?</string>
   <string name="mobile_data_activate_footer">Mobilne podatke ali gostovanje paket lahko dodate preko svojega operaterja %s.</string>
-  <string name="mobile_data_activate_prepaid">Ni več mobilnih podatakov</string>
+  <string name="mobile_data_activate_prepaid">Ni več mobilnih podatkov</string>
   <string name="mobile_data_activate_prepaid_summary">Dodajte mobilne podatke preko operaterja %s</string>
   <string name="mobile_data_activate_roaming_plan">Ni paketa za gostovanje</string>
   <string name="mobile_data_activate_roaming_plan_summary">Dodajte paket za gostovanje preko operaterja %s</string>

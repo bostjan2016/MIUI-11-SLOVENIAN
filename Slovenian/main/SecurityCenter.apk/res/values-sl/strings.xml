@@ -147,7 +147,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_more_engine_dialog_title">Pozor</string>
   <string name="antivirus_none_engine_dialog_ok">V redu</string>
   <string name="antivirus_none_engine_dialog_title">Izberi opredelitve</string>
-  <string name="antivirus_not_wlan">Niste povezani na WiFi. Uporaba mobilnih podatakov lahko povzroči dodatne stroške. Vseeno nadaljujem?</string>
+  <string name="antivirus_not_wlan">Niste povezani na WiFi. Uporaba mobilnih podatkov lahko povzroči dodatne stroške. Vseeno nadaljujem?</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pošlji imena in podrobnosti aplikacij in jih preveri s pomočjo online opredelitev virusov.</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
@@ -3329,7 +3329,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wifi_item_title_fake">Odkrij nepravi WiFi</string>
   <string name="wifi_network_blocked_notification_title">Ni povezave s spletom</string>
   <string name="wifi_optizition_loading">Vklop Xunyou povečanje hitrosti…</string>
-  <string name="wifi_optizition_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo. Uporabljena bo majhna količina mobilnih podatakov.</string>
+  <string name="wifi_optizition_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo. Uporabljena bo majhna količina mobilnih podatkov.</string>
   <string name="wifi_optizition_title">Povečaj WiFi hitrost</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
   <string name="wlan_booster">WiFi optimizacija</string>

@@ -48,7 +48,7 @@
   <string name="korea_permission_phone">Telefon</string>
   <string name="korea_permission_phone_resc">Za dostop statusu naprave in obdealav posnetkov med snemanjem</string>
   <string name="korea_permission_record">Mikrofon</string>
-  <string name="korea_permission_record_resc">Za snemanje zvuoa</string>
+  <string name="korea_permission_record_resc">Za snemanje zvoka</string>
   <string name="korea_permission_storage">Shramba</string>
   <string name="korea_permission_storage_desc">Za shranjevanje posnetkov</string>
   <string name="low_battery_error">"Preostalo je manj kot 5% baterije. Zaustavite snemanje in shranite posnetek da ga ne izgubite."</string>

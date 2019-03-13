@@ -819,8 +819,8 @@ za fotografije"</string>
   <string name="movie_download">Prenesi</string>
   <string name="movie_download_failed">"Ne morem prenesti"</string>
   <string name="movie_download_failed_for_notwork">"Ne morem prenesti. Povežite se na omrežje in poskusite ponovno."</string>
-  <string name="movie_download_sdk_without_wifi_msg">"Kaže da vaša naprava ni povezana na WiFi omrežje. Prenesem potrebni dodatek (3MB) preko mob. podatakov?"</string>
-  <string name="movie_download_sdk_without_wifi_title">Prenesi preko mob. podatakov</string>
+  <string name="movie_download_sdk_without_wifi_msg">"Kaže da vaša naprava ni povezana na WiFi omrežje. Prenesem potrebni dodatek (3MB) preko mob. podatkov?"</string>
+  <string name="movie_download_sdk_without_wifi_title">Prenesi preko mob. podatkov</string>
   <string name="movie_download_with_metered_network_msg">"Prenos originalnih datotek lahko povzroči dodatne stroške. Vseeno prenesem?"</string>
   <string name="movie_download_with_metered_network_title">"Povezani ste na plačano omrežje"</string>
   <string name="movie_edit">Uredi</string>

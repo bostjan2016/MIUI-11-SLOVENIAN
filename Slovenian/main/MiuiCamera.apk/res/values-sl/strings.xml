@@ -659,7 +659,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_jpegquality_title">Kvaliteta slike</string>
   <string name="pref_camera_live_sticker_internal_title">Interna čarobna orodja</string>
   <string name="pref_camera_long_press_shutter_feature_title">Pritisnite in držite sprožilec</string>
-  <string name="pref_camera_long_press_viewfinder_title">Pritisnite &amp; držite isaklec</string>
+  <string name="pref_camera_long_press_viewfinder_title">Pritisnite &amp; držite iskalec</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Hitri način zajemanja</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Fokus</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Fokus</string>

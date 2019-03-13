@@ -1079,7 +1079,7 @@ Zaustavim zdaj?"</string>
   <string name="upload_log_yes">Pošlji</string>
   <string name="upload_logs">Pošlji log</string>
   <string name="upload_logs_keywords">Pošlji log</string>
-  <string name="uploading_logs">Samo trenutak…</string>
+  <string name="uploading_logs">Samo trenutek……</string>
   <string name="validation_failed_prompt">"Ne morem preveriti računa. Preverite nastavitve strežnika za %s"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>

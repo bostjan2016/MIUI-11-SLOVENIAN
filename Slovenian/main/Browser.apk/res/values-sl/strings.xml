@@ -291,7 +291,7 @@ lepega zgodilo"</string>
   <string name="custom_head_pull_down_text">Vnesite infoFlow</string>
   <string name="custom_head_card_text_incognito">"Zdaj ste anonimni!
 Strani ki jih gledate ne bodo v zgodovini.​"</string>
-  <string name="data_monitor">Spremljaj porabo podatakov</string>
+  <string name="data_monitor">Spremljaj porabo podatkov</string>
   <string name="data_monitor_dialog_message">Kaže da nekaj zelo porablja vaše mobilne podatke. Odprite začetno stran da boste to ustavili.</string>
   <string name="data_traffic_prompt_change">Uporaba podatkovne povezave za gledanje videov bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
   <string name="data_traffic_continue">Nadalju</string>

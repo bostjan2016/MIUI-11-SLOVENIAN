@@ -19,7 +19,7 @@
   <string name="confirm_dialog_title">Izbrišem?</string>
   <string name="copy_message_text">Kopiraj</string>
   <string name="copy_message_text_success">Tekst uspešno kopiran</string>
-  <string name="current_data_version">Trenutna verzija podatakov</string>
+  <string name="current_data_version">Trenutna verzija podatkov</string>
   <string name="delete">Izbriši</string>
   <string name="delete_message">Izbriši</string>
   <string name="from_label">"Pošilja: "</string>

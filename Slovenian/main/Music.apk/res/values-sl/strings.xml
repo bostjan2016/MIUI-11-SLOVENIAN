@@ -991,7 +991,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="search_for_artist">Izvajalec</string>
   <string name="search_hint">Išči izvajalca, skladbo, album in priporočila</string>
   <string name="search_hint_local">Išči pesmi v napravi</string>
-  <string name="search_hint_online">Išči izvajalce, pesmi, seznam pesmi i videoposnetke online</string>
+  <string name="search_hint_online">Išči izvajalce, pesmi, seznam pesmi in videoposnetke online</string>
   <string name="search_hint_not_support_online">Išči izvajalce, pesmi in albume</string>
   <string name="search_history_clear_all">Očisti</string>
   <string name="search_instant_online_music">Online</string>

@@ -569,8 +569,8 @@
   <string name="toast_select_white_need_remove">Izberite predmete za odstranitev</string>
   <string name="toast_selecte_group_restore_succeed">Fotografije vrnjene</string>
   <string name="toast_uninstall_success">Odstranjevanje končano</string>
-  <string name="toast_updater_close_4g_text">"Aplikacije ne bodo posodobljene z uporabo mobilnih podatakov (4G)"</string>
-  <string name="toast_updater_open_4g_text">Aplikacije bodo posodobljene z uporabo mobilnih podatakov(4G)</string>
+  <string name="toast_updater_close_4g_text">"Aplikacije ne bodo posodobljene z uporabo mobilnih podatkov (4G)"</string>
+  <string name="toast_updater_open_4g_text">Aplikacije bodo posodobljene z uporabo mobilnih podatkov(4G)</string>
   <string name="total_clean">Skupaj očiščeno: %s</string>
   <string name="total_clean_text">Očisti</string>
   <string name="traffic_top">TOP 5 aplik. porabnikov podatkov</string>

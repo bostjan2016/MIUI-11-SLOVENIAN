@@ -1227,7 +1227,7 @@ Avdio"</string>
   <string name="bootloader_device_bind_fail">"Ne morem preveriti, poskusite ponovno"</string>
   <string name="bootloader_device_bind_msg">Priprava za dodajanje računa in naprave…</string>
   <string name="bootloader_device_bind_no_account">Prijavite se najprej v svoj Mi Račun</string>
-  <string name="bootloader_device_bind_no_data_network">Izključite WiFi in dodajte svoj račun in napravo s pomočjo mobilnih podatakov.</string>
+  <string name="bootloader_device_bind_no_data_network">Izključite WiFi in dodajte svoj račun in napravo s pomočjo mobilnih podatkov.</string>
   <string name="bootloader_device_bind_no_network">Povežite se na omrežje in poskusite ponovno</string>
   <string name="bootloader_device_bind_no_sim">Vstavite SIM kartico in poskusite znova.</string>
   <string name="bootloader_device_bind_server_code">"Ne morem dodati. Koda napake:"</string>
@@ -2538,7 +2538,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="experimental_preference">(Poskusno)</string>
   <string name="extended_power_menu">Razširjeni meni Vklop</string>
   <string name="external_code_size_label">Aplikacija za pogon USB</string>
-  <string name="external_data_size_label">Aplikacija za USB shrambo podatakov</string>
+  <string name="external_data_size_label">Aplikacija za USB shrambo podatkov</string>
     <string name="external_source_switch_title">Dovoli aplikacije iz tega vira</string>
     <string name="external_source_trusted">Dovoljeno</string>
     <string name="external_source_untrusted">Ni dovoljeno</string>
@@ -2745,7 +2745,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="forget_password_dialog_content_four">&lt;Data&gt;2. Izberite &amp;lt;font color=#e6e6e6&amp;gt;[Izbriši podatke]&amp;lt;/font&amp;gt;, in počakajte ponovni zagon naprave.&lt;/Data&gt;</string>
   <string name="forget_password_dialog_content_one">&lt;Data&gt;"Če pozabite geslo, ga ne boste mogli obnoviti. Lahko ga ponovno nastavite ko &amp;lt;font color=#ec2700&amp;gt;izbrišete vse podatke na napravi&amp;lt;/font&amp;gt; (vključno fotografije, stike itd.). Napravite var. kopijo vaših podtkov pred tem."&lt;/Data&gt;</string>
   <string name="forget_password_dialog_content_three">&lt;Data&gt;"1. Izključite napravo. Pritisnite istočasno tipke &amp;lt;font color=#e6e6e6&amp;gt;[Power]&amp;lt;/font&amp;gt; in &amp;lt;font color=#e6e6e6&amp;gt;[Volume +]&amp;lt;/font&amp;gt;, in jih držite dokler ne vidite &amp;lt;img src=''&amp;gt; ikono."&lt;/Data&gt;</string>
-  <string name="forget_password_dialog_content_two">Sledite te korake za brisanje podatakov:</string>
+  <string name="forget_password_dialog_content_two">Sledite te korake za brisanje podatkov:</string>
   <string name="forget_password_dialog_title">Ponastavitev gesla</string>
   <string name="forget_pattern">Ali ste pozabili geslo?</string>
   <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
@@ -3258,7 +3258,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="list_bg_header_text">"Če omejite povezovanje v ozadju se nove aplikacije po namestitvi ne bodo mogle povezati na splet. Po tem ne boste mogli sprejemati sporočila ali prenesti vsebine."</string>
   <string name="list_empty_text">Prazno</string>
   <string name="list_footer_tip_title">Nasveti:</string>
-  <string name="loading_data">Nalaganje podatakov</string>
+  <string name="loading_data">Nalaganje podatkov</string>
     <string name="loading_notification_apps">Nalaganje aplikacij ...</string>
   <string name="local_app_name">Var. kopija</string>
   <string name="local_auto_backup_off">Izklop</string>
@@ -4078,7 +4078,7 @@ Na tej napravi je več uporabnikov.
   <string name="network_changed_noti_summary">Uporaba mobilnih podatkov</string>
   <string name="network_changed_noti_title">Prekinjena WiFi povezava</string>
   <string name="network_control">Prikaz nastavitev aplikacije</string>
-  <string name="network_dashboard_summary">WiFi, mobilno omrežje, uporaba podatakov, žariščna točka</string>
+  <string name="network_dashboard_summary">WiFi, mobilno omrežje, uporaba podatkov, žariščna točka</string>
     <string name="network_dashboard_summary_data_usage">prenesena količina podatkov</string>
     <string name="network_dashboard_summary_hotspot">dostopna točka</string>
     <string name="network_dashboard_summary_mobile">mobilno</string>
@@ -4235,7 +4235,7 @@ Na tej napravi je več uporabnikov.
   <string name="notif_icloud_canceling_summary">Preklic…</string>
   <string name="notif_icloud_import_title">Uvozi podatke iz iClouda</string>
   <string name="notif_icloud_loaded_summary">Čakanje…</string>
-  <string name="notif_icloud_loading_summary">Nalaganje podatakov…</string>
+  <string name="notif_icloud_loading_summary">Nalaganje podatkov</string>
   <string name="notif_icloud_logining">Prijavljanje v iCloud z staro Apple napravo…</string>
   <string name="notif_icloud_need_wifi_summary">Čakanje na Wifi</string>
   <string name="notif_icloud_saved_summary">Uvoz je končan</string>
@@ -5387,7 +5387,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="saved_network">Shranjeno: %1$s</string>
   <string name="saved_wifi">Urejaj shranjena omrežja</string>
   <string name="saved_wifi_delete">Izbriši</string>
-  <string name="saving_data">"Uvoz podatakov iz iClouda…
+  <string name="saving_data">"Uvoz podatkov iz iClouda…
  Ne izključite WiFi"</string>
   <string name="saving_data_no_time">Vračanje podatkov</string>
   <string name="saving_data_space_low">"Ni dovolj prostora.
@@ -6206,7 +6206,7 @@ Morda je koda PIN napačna."</string>
   <string name="slider_tool_none_summary">NI dodeljenih bližnjic</string>
   <string name="slider_video_tool_summary">Povlecite zaslon dol da vidite bližnjice na voljo med gledanjem videoposnetka</string>
   <string name="slider_video_tool_title">Bližnjice videoposnetka</string>
-  <string name="slider_vocie_click_too_often">Prehitro! Počakajte trenutak ali dva in poskusite ponovno.</string>
+  <string name="slider_vocie_click_too_often">Prehitro! Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="slider_vocie_online_close">Povleci gor</string>
   <string name="slider_vocie_online_default">Nič</string>
   <string name="slider_vocie_online_open">Povleci dol</string>
@@ -6942,9 +6942,9 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="trans_detail_category_user_app_data">Podatki aplikacije</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
   <string name="trans_detail_category_wechat_qq">WeChat in QQ podatki (vključno zgodovina razgovorov)</string>
-  <string name="trans_detail_item_app_data_selected_tip">Izberite odgovarajajoče aplikacije.</string>
+  <string name="trans_detail_item_app_data_selected_tip">Izberite odgovarjajoče aplikacije.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Kaže da je stvar prevelika za prenos.</string>
-  <string name="trans_detail_list_footer">Opomba: Lahko izberete prenos aplikacij zasebno. Ampak če izberete podatke aplikacije, se bodo poslale tudi odgovarajajoče aplikacije.</string>
+  <string name="trans_detail_list_footer">Opomba: Lahko izberete prenos aplikacij zasebno. Ampak če izberete podatke aplikacije, se bodo poslale tudi odgovarjajoče aplikacije.</string>
   <string name="trans_detail_page_tip">Več stvari izberete, dlje bo trajal prenos.</string>
   <string name="trans_detail_qq_data">QQ podatki (vključno zgodovina razgovorov)</string>
   <string name="trans_detail_sys_data_list_title">Aplikacije sistema</string>
@@ -6991,8 +6991,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
   <string name="trans_intro_desc_old_market">Tapnite \"Začetek\". Skenirajte QR kodo na novem telefonu, počakajte da Mi Mover najde katere datoteke pošiljate in tapnite \"Pošlji\".</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
-  <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatakov iz iOS naprave ?</string>
-  <string name="trans_intro_question_2">%d. Kako uporabiti Mi Mover za premeščanje podatakov iz Android naprave?</string>
+  <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatkov iz iOS naprave ?</string>
+  <string name="trans_intro_question_2">%d. Kako uporabiti Mi Mover za premeščanje podatkov iz Android naprave?</string>
   <string name="trans_intro_question_3">%d. Kaj naj naredim če je Mi Mover zablokiral v določenem koraku?</string>
   <string name="trans_intro_question_4">"%d. Zakaj ne morem uporabljati WiFi v času prenosa?"</string>
   <string name="trans_intro_question_5">"%d. Zakaj Mi Mover pravi da nima dovolj prostora na mojem starem telefonu?"</string>
@@ -7012,7 +7012,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_my_device">Moja naprava</string>
   <string name="trans_native_no_space">"V stari napravi ni dovolj prostora (%s na voljo).
  Osvobodite prostor za shranjevanje ali prenesite samo važne stvari."</string>
-  <string name="trans_old_phone_low_space_msg">"Mi Mover potebuje prostor za shranjevanje za pakiranje prenešenih podatakov, ki ga na stari napravi ni dovolj. Osvobodite prostor v \"Varnost\" ali prenesite samo važne stvari."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover potebuje prostor za shranjevanje za pakiranje prenešenih podatkov, ki ga na stari napravi ni dovolj. Osvobodite prostor v \"Varnost\" ali prenesite samo važne stvari."</string>
   <string name="trans_old_phone_low_space_title">Ni dovolj prostora</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_open_camera_failed_message">Ponovno zaženite napravo ali preverite če je Mi Mover-ju dovoljeno uporabiti &lt;b&gt;Kamero&lt;/b&gt;.</string>

@@ -445,7 +445,7 @@
   <string name="need_download">Sinhroniziram…</string>
   <string name="net_sms_subscribed">Uspešno predplačano</string>
   <string name="net_sms_unsubscribe">Predplačilo odložen</string>
-  <string name="network_error_description">Napaka omrežja. Počakajte trenutak ali dva in poskusite ponovno.</string>
+  <string name="network_error_description">Napaka omrežja. Počakajte trenutek ali dva in poskusite ponovno.</string>
   <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">Dovoli</string>
   <string name="networking_allow_desc">"Mi Sporočila potrebuje povezavo s spletom za normalno delovanje. Da bi ponudili brezplačne tekstne in govorne storitve, prepoznali neznane številke, filtrirali neželjeno pošto in omogočili druge opravila, Mi Sporočila uporabljajo Yellow pages. Dovolite da se Yellow pages povežejo na splet, dobijo podatke o lokaciji in berejo vaše stike?"</string>

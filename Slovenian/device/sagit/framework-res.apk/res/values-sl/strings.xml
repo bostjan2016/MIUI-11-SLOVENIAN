@@ -555,7 +555,7 @@ Ali res želite zapustiti to stran?"</string>
     <string name="keyguard_password_enter_pin_prompt">Nova koda PIN</string>
     <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Koda PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dodirnite za tipkanje zaporke&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Tapnite za tipkanje gesla&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
     <string name="kg_enter_confirm_pin_hint">Potrdite želeno kodo PIN</string>

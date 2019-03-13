@@ -104,10 +104,10 @@ nastavitev in aplikacij"</string>
   <string name="confirm_exit_link">Izhod</string>
   <string name="confirm_exit_link_cancel">"Ostani"</string>
   <string name="confirm_exit_link_msg">"Izhod iz aplikacije bo prekinil trenutni prenos. Ponovno boste morali vzpostaviti povezavo med napravama. Izhod iz aplikacije?"</string>
-  <string name="confirm_exit_link_title">Prekinjanje prijenosa</string>
+  <string name="confirm_exit_link_title">Prekinjanje prenosa</string>
   <string name="connect_soft_ap_label">Povezovanje z novo napravo…</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
-  <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatakov iz MiClouda potrbujete WiFi.</string>
+  <string name="connect_wifi_tip">Niste povezani na omrežje. Za uvoz podatkov iz MiClouda potrbujete WiFi.</string>
   <string name="contact_title">Stiki</string>
   <string name="current_account">Trenutni račun: %s</string>
   <string name="current_pad_location">Pad</string>
@@ -212,7 +212,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="lack_perm_msg">Mi Mover potrebuje dovoljenja: &lt;b&gt;%s&lt;/b&gt;.</string>
   <string name="lack_perm_title">Potrebno je dovoljenje</string>
   <string name="list_footer_tip_title">Nasveti:</string>
-  <string name="loading_data">Nalaganje podatakov</string>
+  <string name="loading_data">Nalaganje podatkov</string>
   <string name="local_app_name">Varnostno kopiraj</string>
   <string name="local_backup_window_title">Lokalne varnostne kopije podatkov</string>
   <string name="local_home_title">Lokalno varnostno kopiraj</string>
@@ -253,7 +253,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="notif_icloud_canceling_summary">Preklic…</string>
   <string name="notif_icloud_import_title">Uvozi podatke iz iClouda</string>
   <string name="notif_icloud_loaded_summary">Čakanje…</string>
-  <string name="notif_icloud_loading_summary">Nalaganje podatakov…</string>
+  <string name="notif_icloud_loading_summary">Nalaganje podatkov…</string>
   <string name="notif_icloud_logining">Prijavljanje v iCloud z staro Apple napravo…</string>
   <string name="notif_icloud_need_wifi_summary">Čakanje na Wifi</string>
   <string name="notif_icloud_saved_summary">Uvoz je končan</string>
@@ -297,7 +297,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="prompt_writing">Shranjujem…</string>
   <string name="read_encrypt_fail">"Šifrirane varnostne kopije ni mogoče prebrati"</string>
   <string name="reconnect">Ponovno poveži</string>
-  <string name="recreate_soft_ap_tips">Tapnite tipko spodaj da poskusite ponovnno.</string>
+  <string name="recreate_soft_ap_tips">Tapnite tipko spodaj da poskusite ponovno.</string>
   <string name="refresh">Osveži</string>
   <string name="remote_receive">Sprejmi</string>
   <string name="restore">Obnovi</string>
@@ -318,7 +318,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="reverse_all">Prekliči izbrano</string>
   <string name="router_backup_hint">Ne ugasnite naprave</string>
   <string name="save_finish_with_failing_items">"Prenos je prekinjen.\r\nPodatki ki niso uvoženi bodo morali biti ponovno uvoženi."</string>
-  <string name="saving_data">"Uvoz podatakov iz iClouda…
+  <string name="saving_data">"Uvoz podatkov iz iClouda…
  Ne izključite WiFi"</string>
   <string name="saving_data_no_time">Vračanje podatkov</string>
   <string name="saving_data_space_low">"Ni dovolj prostora.
@@ -436,11 +436,11 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="trans_detail_category_user_app_data">Podatki aplikacije</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
   <string name="trans_detail_category_wechat_qq">WeChat in QQ podatki (vključno zgodovina razgovorov)</string>
-  <string name="trans_detail_item_app_data_selected_tip">Izberite odgovarajajoče aplikacije.</string>
+  <string name="trans_detail_item_app_data_selected_tip">Izberite odgovarjajoče aplikacije.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Kaže da je stvar prevelika za prenos.</string>
-  <string name="trans_detail_list_footer">"1. Lahko zberete posamezne aplikacije katere želite poslati.
+  <string name="trans_detail_list_footer">"1. Lahko izberete posamezne aplikacije katere želite poslati.
   
-2. Če izberete podatke aplikacije se bodo izbrale tudii odgovarjajoče aplikacije.
+2. Če izberete podatke aplikacije se bodo izbrale tudi odgovarjajoče aplikacije.
 3. Podatki aplikacije WeChat in QQ morda ne bodo poslani zaradi problemov s kompatibilnostjo. Lahko poskusite lastnosti prenosa v aplikaciji."</string>
   <string name="trans_detail_page_tip">Več stvari izberete, dlje bo trajal prenos.</string>
   <string name="trans_detail_qq_data">QQ podatki (vključno zgodovina razgovorov)</string>
@@ -468,7 +468,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_install_guide_step2_content">Po končani namestitvi, tapnite \"Začetek\".</string>
   <string name="trans_install_guide_step2_title">Korak 2</string>
   <string name="trans_intro_desc_1">"Na Mi telefonu se povežite na WiFi. Tapnite \"Sem prejemnik\".Potem izberite "Apple naprava". Prijavite se v iCloud in uvozite podatke."</string>
-  <string name="trans_intro_desc_10">Dodirnite \"Povežite se z pomočjo QR kode\" na novi napravi in skenirajte QR kodo da vzpostavite povezavo.</string>
+  <string name="trans_intro_desc_10">Tapnite \"Povežite se z pomočjo QR kode\" na novi napravi in skenirajte QR kodo da vzpostavite povezavo.</string>
   <string name="trans_intro_desc_3">Prekličite prenos, zaprite Mi Mover in začnite ponovno. Dvojne datoteke bodo prepisane med ponovnim prenosom.</string>
   <string name="trans_intro_desc_4">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke. Nekatere nove naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke."</string>
@@ -483,16 +483,16 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_intro_desc_9_method_3_dec">"Mi Mover QQ skupina: 687338378"</string>
   <string name="trans_intro_desc_9_method_3_title">3. Prijavite težave na QQ</string>
   <string name="trans_intro_desc_account">Zaradi varnostnih razlogov se morate ponovno prijaviti v svoje račune (npr. Mi Račun, Exchange, Google itd.) na novi napravi.</string>
-  <string name="trans_intro_desc_gms">"Zaradi velike možnosti neuspelih prenosov zaradi problema z kompatibilnstjo, Mi Mover ne podpira prenos podatakov generiranih od Googleove aplikacij."</string>
+  <string name="trans_intro_desc_gms">"Zaradi velike možnosti neuspelih prenosov zaradi problema z kompatibilnstjo, Mi Mover ne podpira prenos podatkov generiranih od Googleovih aplikacij."</string>
   <string name="trans_intro_desc_multiapp">"Mi Mover ne prenese podatke Dvojnih aplikacij da se izogne konfliktom med datotekami."</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover ne more dostopati do nastavitev v Drugem prostoru. Prestavite nastavitve v Prvi prostor in tam zaženite Mi Mover."</string>
   <string name="trans_intro_desc_new">"Pritisnite \"Jaz sam prejemnik\". Generirala se bo QR koda."</string>
   <string name="trans_intro_desc_old">"Pritisnite \"Jaz sem pošiljatelj\". Skenirajte QR kodo na novem telefonu, počakajte dokler Mi Mover ne določi katere datoteke pošiljate in pritisnite \"Pošlji\"."</string>
   <string name="trans_intro_desc_old_market">Tapnite \"Začetek\". Skenirajte QR kodo na novem telefonu, počakajte da Mi Mover najde katere datoteke pošiljate in tapnite \"Pošlji\".</string>
   <string name="trans_intro_desc_private">"Mi Mover ne more dostopati do fotografij v skritem albumu ker so šifrirane. Te fotografije lahko prenesete z Mi Clouda na novi napravi."</string>
-  <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatakov iz iOS naprave ?</string>
+  <string name="trans_intro_question_1">%d. Kako uporabiti Mi Mover za premeščanje podatkov iz iOS naprave ?</string>
   <string name="trans_intro_question_10">"%d. Ne morete najti hotspot v stari napravi?"</string>
-  <string name="trans_intro_question_2">%d. Kako uporabiti Mi Mover za premeščanje podatakov iz Android naprave?</string>
+  <string name="trans_intro_question_2">%d. Kako uporabiti Mi Mover za premeščanje podatkov iz Android naprave?</string>
   <string name="trans_intro_question_3">%d. Kaj naj naredim če je Mi Mover zablokiral v določenem koraku?</string>
   <string name="trans_intro_question_4">"%d. Zakaj ne morem uporabljati WiFi v času prenosa?"</string>
   <string name="trans_intro_question_5">"%d. Zakaj Mi Mover pravi da nima dovolj prostora na mojem starem telefonu?"</string>
@@ -513,7 +513,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_my_device">Moja naprava</string>
   <string name="trans_native_no_space">"V stari napravi ni dovolj prostora (%s na voljo).
  Osvobodite prostor za shranjevanje ali prenesite samo važne stvari."</string>
-  <string name="trans_old_phone_low_space_msg">"Mi Mover potebuje prostor za shranjevanje za pakiranje prenešenih podatakov, ki ga na stari napravi ni dovolj. Osvobodite prostor v \"Varnost\" ali prenesite samo važne stvari."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover potebuje prostor za shranjevanje za pakiranje prenešenih podatkov, ki ga na stari napravi ni dovolj. Osvobodite prostor v \"Varnost\" ali prenesite samo važne stvari."</string>
   <string name="trans_old_phone_low_space_title">Ni dovolj prostora</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_open_camera_failed_message">Ponovno zaženite napravo ali preverite če je Mi Mover-ju dovoljeno uporabiti &lt;b&gt;Kamero&lt;/b&gt;.</string>
@@ -623,7 +623,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="view_password_description">Prikaži geslo</string>
   <string name="wait_link">"Povežite svojo staro napravo na ta hotspot.
 Ne zapuščajte strani dokler se ne vzpostavi povezava."</string>
-  <string name="waiting">Samo trenutak…</string>
+  <string name="waiting">Samo trenutek……</string>
   <string name="wifi_title">WiFi nastavitve</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>

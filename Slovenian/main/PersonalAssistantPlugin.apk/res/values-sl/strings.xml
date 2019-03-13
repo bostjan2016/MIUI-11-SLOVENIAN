@@ -104,13 +104,13 @@
   <string name="didi_trip">Taxi</string>
   <string name="empty_card_btn">Odpri aplikacijo</string>
   <string name="empty_card_tip">Kaže da niste prijavljeni ali niste še nastavili to kartico.</string>
-  <string name="empty_card_title">Ni podatakov</string>
+  <string name="empty_card_title">Ni podatkov</string>
   <string name="empty_duokan_card_btn">Pokaži knjižnice</string>
   <string name="empty_duokan_card_tip">Kaže da zdaj nič ne berete</string>
-  <string name="empty_duokan_card_title">Ni podatakov</string>
+  <string name="empty_duokan_card_title">Ni podatkov</string>
   <string name="empty_express_btn">Vsi paketi</string>
   <string name="empty_express_btn2">Dodaj ročno</string>
-  <string name="empty_express_tip">Ni podatakov o ekspresni dostavi</string>
+  <string name="empty_express_tip">Ni podatkov o ekspresni dostavi</string>
   <string name="empty_fav_card_btn">Vse priljubljene</string>
   <string name="empty_fav_card_tip">Ni priljubljenih</string>
   <string name="empty_health_card_btn">Seznanite Mi Band</string>

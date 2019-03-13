@@ -551,8 +551,8 @@ hitrost vzorčenja"</string>
   <string name="data_connection_lte_plus">LTE+</string>
   <string name="data_connection_no_internet">Ni spleta</string>
   <string name="data_connection_roaming">Gostovanje</string>
-  <string name="data_saver">Varčevanje podatakov</string>
-  <string name="data_saver_description">Da biste zmanjšali porabo podatkov, bo varčevanje podatkov preprečilo nekaterim aplikacijam pošiljanje ali sprejemanje podatkov v ozadju. Aplikacija ki jo trenutno uporabljate lahko dostopa do podatkov, ampak manj pogosto. Npr. da se slike ne prikažejo dokler jih ne tapnete.</string>
+  <string name="data_saver">Varčevanje podatkov</string>
+  <string name="data_saver_description">Da boste zmanjšali porabo podatkov, bo varčevanje podatkov preprečilo nekaterim aplikacijam pošiljanje ali sprejemanje podatkov v ozadju. Aplikacija ki jo trenutno uporabljate lahko dostopa do podatkov, ampak manj pogosto. Npr. da se slike ne prikažejo dokler jih ne tapnete.</string>
   <string name="data_saver_enable_button">Vključi</string>
   <string name="data_saver_enable_title">Vključim varčevanje podatkov?</string>
   <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov.     
@@ -1834,7 +1834,7 @@ morda nadzira"</string>
   <string name="structure_face_data_input_up">Poglejte gor</string>
   <string name="structure_face_data_introduction_back">Nazaj</string>
   <string name="structure_face_data_introduction_msg">3D podatki obraza omogočajo odklep naprave in potrditev vaše identitete. Pred uporabo morate nastaviti geslo.</string>
-  <string name="structure_face_data_introduction_next">Nadljuj</string>
+  <string name="structure_face_data_introduction_next">Nadaljuj</string>
   <string name="structure_face_data_introduction_settingpassword">Nastavi</string>
   <string name="structure_face_data_introduction_title">Dodajte 3D obraz</string>
   <string name="structure_face_data_ir_input_face">Počasi premaknite glavo</string>

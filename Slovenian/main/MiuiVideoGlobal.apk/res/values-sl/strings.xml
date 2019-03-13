@@ -93,7 +93,7 @@
   <string name="com_facebook_loading">Samo trenutek…</string>
   <string name="com_facebook_loginview_cancel_action">Prekliči</string>
   <string name="com_facebook_loginview_log_in_button">Prijavi se</string>
-  <string name="com_facebook_loginview_log_in_button_continue">Nadljuj z Facebook</string>
+  <string name="com_facebook_loginview_log_in_button_continue">Nadaljuj z Facebook</string>
   <string name="com_facebook_loginview_log_in_button_long">Prijavi se na Facebook</string>
   <string name="com_facebook_loginview_log_out_action">Odjava</string>
   <string name="com_facebook_loginview_log_out_button">Odjava</string>

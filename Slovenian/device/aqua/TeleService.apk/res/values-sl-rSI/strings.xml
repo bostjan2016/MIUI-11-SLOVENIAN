@@ -1760,7 +1760,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="t9_indexing_method_pinyin">Latinica</string>
   <string name="t9_indexing_method_title">T9 iskanje vnosa</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
-  <string name="t9_indexing_rebuilding_message">Samo trenutak…</string>
+  <string name="t9_indexing_rebuilding_message">Samo trenutek…</string>
   <string name="technology_news_disable">Tehnološke novice onemogočene</string>
   <string name="technology_news_enable">Tehnološke novice omogočene</string>
   <string name="telephony_setting">Telefon</string>
