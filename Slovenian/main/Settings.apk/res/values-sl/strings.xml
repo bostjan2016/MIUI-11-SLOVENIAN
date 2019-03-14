@@ -1270,6 +1270,15 @@ Avdio"</string>
   <string name="brightness_summary">Prilagoditev svetlosti zaslona</string>
   <string name="brightness_title">Svetlost</string>
   <string name="bssid_label">BSSID:</string>
+  <string name="bt_aac_dialog_summary">"Trenutna naprava podpira AAC kodek. Ampak AAC morda ne bo mogel predvajati zvoka zaradi problema z kompatibilnostjo. Naprava se samodejno prestavi na SBC kodek.
+To lahko spremenite v nastavivah."</string>
+  <string name="bt_aac_dialog_title">Bluetooth povezava</string>
+  <string name="bt_aac_open_dialog_summary">"AAC morda ne bo predvajal zvok zaradi problema z kompatibilnostjo.
+To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</string>
+  <string name="bt_aac_open_dialog_title">Premik na AAC kodek</string>
+  <string name="bt_aac_pre_title">AAC</string>
+  <string name="bt_dialog_remember_choice">Zapomni si izbrano</string>
+  <string name="bt_dialog_settings">Nastavitve</string>
   <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Zajemi vse pakete Bluetooth HCI v datoteko (preklopi Bluetooth po spremembi te nastavitve)</string>
   <string name="bt_ldac_declaration">Kadar Bluetooth naprava podpira LDAC, bo povezano po privzetih nastavitvah. LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. Težave se lahko pojavijo v času predvajanja zaradi omejitev Bluetooth strojne opreme.</string>
@@ -1278,11 +1287,9 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="bt_ldac_dialog_title">Trenutna naprava podpira LDAC, ki je povezan po standardnem:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. Težave se lahko pojavijo v času predvajanja zaradi omejitev Bluetooth strojne opreme.</string>
   <string name="bt_ldac_open_dialog_title">Vključim LDAC?</string>
-  <string name="bt_ldac_pre_summary">Zagotovite visoko kvalitetno avdio izkušnjo</string>
+  <string name="bt_pre_summary">Ponuja visoko kvalitetno avdio izkušnjo</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Lastnosti</string>
-  <string name="bt_ldac_remember_choice">Zapomni si izbrano</string>
-  <string name="bt_ldac_settings">Nastavitve</string>
   <string name="bt_rarely_used_device_title">Redko uporabljene naprave (%d)</string>
   <string name="bt_trace_log">Dovoli Bluetooth Trace zapisnik</string>
   <string name="bt_trace_log_summary">Bluetooth Trace zapisnik</string>
