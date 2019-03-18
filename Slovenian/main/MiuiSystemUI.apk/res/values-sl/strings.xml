@@ -186,7 +186,7 @@
   <string name="accessibility_quick_settings_dnd">Ne moti.</string>
   <string name="accessibility_quick_settings_dnd_alarms_on">\"Ne moti\" vključeno, samo za alarme.</string>
   <string name="accessibility_quick_settings_dnd_changed_off">\"Ne ometaj\" izključeno.</string>
-  <string name="accessibility_quick_settings_dnd_changed_on">\"Ne moti\" uključeno.</string>
+  <string name="accessibility_quick_settings_dnd_changed_on">\"Ne moti\" vključeno.</string>
   <string name="accessibility_quick_settings_dnd_none_on">\"Ne moti\" vključeno, popolna tišina.</string>
   <string name="accessibility_quick_settings_dnd_off">\"Ne moti\" izključeno.</string>
   <string name="accessibility_quick_settings_dnd_priority_on">\"Ne moti\" vključeno, samo nujno.</string>
@@ -303,6 +303,8 @@
   <string name="animator_duration_scale_title">Razmerje dolžine animatorja</string>
   <string name="aod_dual_togother">HH:MM</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
+  <string name="aod_lock_screen_date">dd.MM. EEEE</string>
+  <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostupne temu uporabniku</string>
   <string name="app_info">Informacije o aplikaciji</string>
   <string name="app_label">Sistem UI</string>

@@ -608,6 +608,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke v vodoravnem položaju</string>
   <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipko.</string>
   <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
+  <string name="auto_dual_clock_summary">Pokaži dvojno uro če se trenutni čas razlikuje od časa na drugi uri</string>
+  <string name="auto_dual_clock_title">Dvojna ura</string>
   <string name="auto_launch_disable_text">Ni privzetih nastavitev.</string>
   <string name="auto_launch_enable_text">Izbrali ste da se bo pri nekaterih dejanjih ta aplikacija samodejno zagnala.</string>
   <string name="auto_launch_label">Privzeto odpiranje</string>
@@ -1745,6 +1747,8 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="cutout_mode_default">Samod.</string>
   <string name="cutout_mode_settings_title">Nekatere aplikacije se lahko prikažejo napačno če prilagodite način prikaza zoba.</string>
   <string name="cutout_mode_title">Zob v posameznih aplikacih</string>
+  <string name="cutout_type_desc">Vključite za poravnavanje krivulj zoba</string>
+  <string name="cutout_type_title">Prilagodite obliko zoba</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
   <string name="daltonizer_mode_disabled">Onemogočeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatičnost</string>
@@ -2300,6 +2304,11 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="drive_mode_title">Avtomobilski način</string>
   <string name="drive_mode_voice_report">Pretvarjanje teksta v govor</string>
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
+  <string name="dual_clock">Dvojna ura</string>
+  <string name="dual_clock_aod_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za izključen zaslon omogočite prikazovanje stvari v Nastavitve &gt; Zaslon; 2. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 3. Za začetni zaslon preverite ali uporabljate standardni pripomoček sistemske ure."</string>
+  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 2. Za začetni zaslon preverite ali uporabljate standardni pripomoček sistemske ure."</string>
+  <string name="dual_clock_ok">Razumem</string>
+  <string name="dual_clock_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dump_log">Pridobivanje zapisov povezanih z problemi</string>
@@ -3922,6 +3931,7 @@ Na tej napravi je več uporabnikov.
   <string name="modify_instruction_password_settings">Nastavi geslo</string>
   <string name="modify_privacy_password">Zamenjaj geslo</string>
   <string name="more_dangerous_option_hint">Stvari visokega tveganja, vključno \"%1$s\" so omogočene. Tapni za spremembo nastavitev.</string>
+  <string name="more_installed_services_title">Več storitev prenosa</string>
   <string name="move_app">Premakni</string>
     <string name="move_app_failed_dlg_text">"Ne morem premakniti aplikacijo %1$s"</string>
   <string name="move_app_failed_dlg_title"/>
@@ -4439,6 +4449,13 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="optimization_open">Vključi</string>
     <string name="ota_disable_automatic_update">Samodejne sistemske posodobitve</string>
     <string name="ota_disable_automatic_update_summary">Namesti posodobitve ob vnovičnem zagonu naprave</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Izključen</string>
+  <string name="otg_opened">Vključen</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"USB On-The-Go omogoča USB pogonom in prenosnim tipkovnicam povezovanje z vašo mobilno napravo in menjavo podatkov.
+
+ OTG se samodejno izključi po 10 minutah neaktivnosti."</string>
   <string name="other_advanced_settings">Dodatne nastavitve</string>
   <string name="other_device_info">Ostalo</string>
   <string name="other_personal_settings">Osebne nastavitve</string>
@@ -5288,6 +5305,7 @@ Vmesnik UT: %5$s"</string>
     <string name="reset_shortcut_manager_throttling">Ponastavitev omejevanja hitrosti za ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Omejevanje hitrosti za ShortcutManager je ponastavljeno</string>
   <string name="resetting_second_space_passwd">Ponastavitev gesla Drugega prostora</string>
+  <string name="resident_timezone_summary">Druga ura</string>
   <string name="resolver_settings_label">Razvrsti</string>
   <string name="resource_ringtone_volume_mute">Vaše zvonenje je trenutno utišano</string>
   <string name="restore">Vrni</string>
@@ -6894,6 +6912,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="to_close">Izključi</string>
   <string name="toast_lockscreen_glogin_empty_password">Vnesi geslo</string>
   <string name="toast_need_login">Vpiši se v Mi Račun</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">"Ne morem predvajati ko se vzpostavi WiFi povezava in vključi hotspot."</string>
   <string name="total">DND</string>
   <string name="total_info">Utišaj zvoke in izključi vibracijo za vse razen alarma</string>
   <string name="total_info_no_vibrator">Utišaj zvoke razen za alarme</string>

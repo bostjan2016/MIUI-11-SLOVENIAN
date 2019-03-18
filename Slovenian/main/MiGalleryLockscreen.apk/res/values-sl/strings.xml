@@ -19,6 +19,12 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z:</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="about_download_fail">"Ne morem prenesti"</string>
+  <string name="about_downloading">Prenos %s</string>
+  <string name="about_item_function">Nove storitve</string>
+  <string name="about_net_error">Preverite nastavitve omrežja in poskusite ponovno.</string>
+  <string name="about_newest">Wallpaper Carousel je posodobljen.</string>
+  <string name="about_update">Posodobi</string>
   <string name="ad_feed_badge">OGLAS</string>
   <string name="ad_pop_btn_hidden">Skrij</string>
   <string name="ad_pop_des">Prenos aplikacije:</string>
@@ -49,7 +55,7 @@
   <string name="cancel_lockscreen">Prekini</string>
   <string name="cancel_network">Izhod</string>
   <string name="carousel_declaration_btn_text">Vključi Wallpaper Carousel</string>
-  <string name="carousel_declaration_cta">"zahteva spletno povezavo da dela normalno. Da dovite dostop do omrežne vsebine  se morate strinjati z našim &lt;a href='http://www.miui.com/res/doc/privacy/cn.html'&gt;Pravila o zasebnosti&lt;/a&gt;. Se strinjate?"</string>
+  <string name="carousel_declaration_cta">"zahteva spletno povezavo da dela normalno. Da dobite dostop do omrežne vsebine se morate strinjati z našimi &lt;a href='%s'&gt;Pravila o zasebnosti&lt;/a&gt;. Se strinjate?"</string>
   <string name="carousel_declaration_cta_btn_text">Strinjam se in vključi</string>
   <string name="carousel_declaration_des">Poglejte prekrasna mesta in doživite vzburljiva presenečenja z Wallpaper Carousel</string>
   <string name="carousel_declaration_des2">Dodajte svoje slike ozadja v Wallpaper Carousel</string>
@@ -64,6 +70,10 @@
   <string name="choose_to_signup">"Ne, napravil bom račun"</string>
   <string name="clear_history">Izbriši zgodovino iskanja</string>
   <string name="clear_search_edittext">Izbriši</string>
+  <string name="comment_pop_cancel">Ne zdaj</string>
+  <string name="comment_pop_content">Povejte nam ali vam je všeč Wallpaper Carousel!</string>
+  <string name="comment_pop_ok">Oceni</string>
+  <string name="comment_pop_title">Ocenite Wallpaper Carousel</string>
   <string name="confirm">Vključi</string>
   <string name="create_shortcut">Napravi bližnjico zač. zaslona</string>
   <string name="current_connection_invalid">Počakajte da se naprava poveže na omrežje</string>
@@ -167,6 +177,15 @@
   <string name="lks_left_net_error">"Ne morem se povezati na omrežje."</string>
   <string name="lks_logo_desc2">Vsak dan nove slike ozadja</string>
   <string name="lks_subscription_toast">Slika ozadja zamenjana</string>
+  <string name="llks_pop_btm_des">Začnite dan z nasmehom</string>
+  <string name="llks_pop_btm_des_backup">Dobite lep začetek dneva</string>
+  <string name="llks_pop_btm_title">Dobro jutro</string>
+  <string name="llks_pop_btm_title_backup">Jutranji pozdravi</string>
+  <string name="llks_pop_i_know">Razumem</string>
+  <string name="llks_pop_top_des">Redno dobivajte nove slike ozadja</string>
+  <string name="llks_pop_top_des_backup">Dobite dnevno na vaš zaslon</string>
+  <string name="llks_pop_top_title">Nove slike ozadja</string>
+  <string name="llks_pop_top_title_backup">Sveže slike ozadja</string>
   <string name="load_hdpicture_complete">Naložena originalna slika</string>
   <string name="loading">Samo trenutek…</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
@@ -189,6 +208,7 @@
   <string name="mode_ok">Zamenjaj na slideshow</string>
   <string name="mode_title">Prikazujejo se priporočila</string>
   <string name="need_open_gallery">Vključi Wallpaper Carousel</string>
+  <string name="new_feature_title">"Kaj je novega"</string>
   <string name="nick_name">Ime</string>
   <string name="no_long_show">"Ne kaži več"</string>
   <string name="no_networdk">"Ne morem se povezati na omrežje"</string>
@@ -440,6 +460,8 @@
   <string name="search">Išči</string>
   <string name="search_str">Popularne zahteve</string>
   <string name="select_package">Izberi verzijo</string>
+  <string name="setting_about_item_des">Verzija</string>
+  <string name="setting_about_item_title">O Wallpaper Carousel</string>
   <string name="setting_head">Nastavitve</string>
   <string name="settings">Nastavitve</string>
   <string name="share">Deli</string>
@@ -450,10 +472,16 @@
   <string name="sliding_on_unlock">Potegni gor za odklep</string>
   <string name="sst_cover_chg_enable_desc">Prikaži Wallpaper Carousel med polnjenjem</string>
   <string name="sst_cover_chg_enable_title">Prikaži med polnjenjem</string>
-  <string name="sst_favor_desc">Preveri priljubljene</string>
-  <string name="sst_favor_title">Priljubljeni</string>
+  <string name="sst_custom_wallpaper_desc">Izberite slike iz Galerije in priporočila</string>
+  <string name="sst_custom_wallpaper_title">Lastni slideshow</string>
+  <string name="sst_custom_wallpaper_title2">Slideshow</string>
+  <string name="sst_disable_unopen">Beta storitev</string>
+  <string name="sst_effect_next_wallpaper">Nastavite novo ozadje za uporabo sprememb</string>
+  <string name="sst_favor_desc">Pokaži priljubljene slike ozadja</string>
+  <string name="sst_favor_title">Priljubljeno</string>
   <string name="sst_grid_view_select_all">Izberi vse</string>
   <string name="sst_grid_view_unselect_all">Izbriši izbiro</string>
+  <string name="sst_morning_greeting_disable_toast">Ta storitev bo kmalu na voljo</string>
   <string name="sst_no_favor_wallpaper_hint">Ni slik ozadja v Priljubljenih</string>
   <string name="sst_prov_enable_desc">Vključi vrtiljak ozadij na zakl. zaslonu.</string>
   <string name="sst_prov_enable_title">Vključi vrtiljak slik ozadja</string>
@@ -465,12 +493,18 @@
   <string name="sst_subscribe_title">Moje kategorije</string>
   <string name="sst_wifi_only_desc">Izključite to nastavitev da privarčujete mobilne podatke</string>
   <string name="sst_wifi_only_title">Posodobi slike ozadja z uporabo mobilnih podatkov</string>
-  <string name="summary">"Strinjajte se z &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o zasebnosti&lt;/a&gt; za pregled online vsebine. Če se ne strinjate bodo lokalne slike za ozadje še naprej na voljo."</string>
-  <string name="summary_international">"Z uporabo te storitve se strinjate z &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Privavila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
+  <string name="summary">"Strinjajte se z &lt;a href='%s'&gt;Pravila o zasebnosti&lt;/a&gt; za pregled online vsebine. Če se ne strinjate bodo lokalne slike za ozadje še naprej na voljo."</string>
+  <string name="summary2">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
+  <string name="summary_international">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
   <string name="tab_user_title_bar_text">Nastavitve</string>
   <string name="theme_apply_failured">"Ne morem nastaviti, poskusite ponovno kasneje"</string>
   <string name="theme_apply_success">Nastavljeno</string>
   <string name="theme_applying">Nastavljanje…</string>
+  <string name="theme_des">Nastavite privzeto temo in ponovno vključite Wallpaper Carousel.</string>
+  <string name="theme_des_lock_style">Nastavite privzeti zakl. zaslon in ponovno vključite Wallpaper Carousel.</string>
+  <string name="theme_ok">Nastavitve</string>
+  <string name="theme_title">Nastavljanje privzete teme</string>
+  <string name="theme_title_lock_style">Nastavljanje privzetega zakl. zaslona</string>
   <string name="toast_ad_down_tip">Prenos aplikacije…</string>
   <string name="toast_ad_down_tip2">Prenos %s</string>
   <string name="toast_load_hd_fail">Nalaganje originalnega dokumenta ni uspelo</string>

@@ -54,8 +54,8 @@ Tipkovnica in vrstica obvestil se ne moreta povečati."</string>
     <string name="accessibility_shortcut_service_on_lock_screen_title">Dovoli na zaklenjenem zaslonu</string>
     <string name="accessibility_shortcut_service_title">Storitev z bližnjico</string>
     <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
-    <string name="accessibility_summary_state_disabled">ISKLJUČENO</string>
-    <string name="accessibility_summary_state_enabled">UKLJUČENO</string>
+    <string name="accessibility_summary_state_disabled">IZKLJUČENO</string>
+    <string name="accessibility_summary_state_enabled">VKLJUČENO</string>
     <string name="accessibility_toggle_large_pointer_icon_title">Velik kazalec miške</string>
     <string name="accessibility_toggle_master_mono_summary">Združevanje kanalov pri predvajanju zvoka</string>
     <string name="accessibility_toggle_master_mono_title">Mono zvok</string>
