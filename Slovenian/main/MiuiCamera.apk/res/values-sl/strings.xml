@@ -96,7 +96,7 @@
 in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="ai_scene_top_moon_off">Način dela slaba osvetlitev</string>
   <string name="ai_scene_top_tip">Mesec</string>
-  <string name="autozoom_click_hint">Tapnit objekt za zaćetek sledenja. Ostanite oddaljeni najmanj 3 metre za najboljši učinek.</string>
+  <string name="autozoom_click_hint">"Tapnite objekt da ga zadržite v fokusu ko se premika. Ostanite oddaljeni najmanj 3 metre za najboljši učinek.</string>
   <string name="autozoom_disabled_hint">Spremljanje objekta v gibanju ustavljeno</string>
   <string name="autozoom_hint">Spremljaj objekt v gibanju</string>
   <string name="autozoom_landscape_hint">Priporoča se snemanje v načinu pokrajina</string>

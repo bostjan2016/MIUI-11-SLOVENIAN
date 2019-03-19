@@ -744,7 +744,8 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_rotated_left">Obrnite glavo na desno</string>
   <string name="face_unlock_rotated_right">Obrnite glavo na levo</string>
   <string name="face_unlock_sc_status">Potegnite dol za odpiranje kamere</string>
-  <string name="face_unlock_stay_away_screen">Stojte 25 do 40 cm oddaljeni od zaslona</string>
+  <string name="face_unlock_stay_away_screen">Bodite 25 do 40 cm oddaljeni od zaslona</string>
+  <string name="face_unlock_success">Podatki obraza uspešno potrjeni</string>
   <string name="face_unlock_success_stay_screen_msg">Ostani na zakl. zaslonu ko bo obraz potrjen. Podrsajte z prstom gor da odprete začetni zaslon.</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na zakl. zaslonu po odklepu</string>
   <string name="failed_to_open_app_settings_toast">"Odpiranje nastavitev za aplikacijo %1$s ni uspelo"</string>
@@ -1581,6 +1582,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_wifi_on_label">WiFi je vklopljen.</string>
   <string name="quick_settings_wifi_secondary_label_transient">Vklop…</string>
     <string name="quick_settings_work_mode_label">Način za delo</string>
+  <string name="rapid_charge_mode_tip">Hitro polnjenje</string>
   <string name="quick_step_accessibility_toggle_overview">Vklop/izklop pregleda</string>
   <string name="recent_cannot_dock">"Ne morem vstopiti v način več oken v Drugem prostoru"</string>
   <string name="recent_dock_tip">Tapnite za izbiro aplikacij</string>
