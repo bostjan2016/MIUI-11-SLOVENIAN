@@ -102,7 +102,7 @@
   <string name="default_folder_title_security">Sistem</string>
   <string name="default_folder_title_services">Storitve</string>
   <string name="default_folder_title_tools">Orodja</string>
-  <string name="default_screen_preview_title">Tapni za nastavitev začetnega zaslona</string>
+  <string name="default_screen_preview_title">Nastavi privzeti zaslon</string>
   <string name="delete">Izbriši</string>
   <string name="delete_screen">Izbriši zaslon</string>
   <string name="delete_wallpaper_message">Izbrišem sliko za ozadje: %1$d?</string>
@@ -116,6 +116,7 @@
   <string name="edit_mode_group_error_full">Ni dovolj prostora</string>
   <string name="edit_mode_group_error_in_folder">Pred grupiranjem ikon zaprite mapo</string>
   <string name="edit_mode_group_error_one_folder">"Mapo z izbranimi ikonami ni možno podvojiti"</string>
+  <string name="edit_mode_top_menu_finish">Končano</string>
   <string name="edit_mode_uninstall">Odstrani</string>
   <string name="editing_add_widget_tips">Spremeni pripomočke</string>
   <string name="editing_mode_enter_tip_text">Vščipni za urejanje začetnega zaslona</string>
@@ -220,6 +221,7 @@
   <string name="menu_default_screen_preview">Nastavi privzeti zaslon</string>
   <string name="menu_edit">Spremeni začetni zaslon</string>
   <string name="menu_exit_scene">Izhod iz Mi prostora</string>
+  <string name="menu_finish">Končano</string>
   <string name="menu_item_add_item">Postavi na začetni zaslon</string>
   <string name="menu_launcher_setting">Nastavitve vmesnika</string>
   <string name="menu_lock">Zakleni razporeditev začet. zaslona</string>
@@ -367,4 +369,5 @@
   <string name="widget_gadget_player">Glasba</string>
   <string name="widget_global_search">Išči</string>
   <string name="widget_quick_function">Hitro opravilo</string>
+  <string name="widgets_preview_title">Dodaj pripomoček</string>
 </resources>

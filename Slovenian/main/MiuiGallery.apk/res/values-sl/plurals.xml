@@ -48,6 +48,10 @@
 	    <item quantity="other">Deljeno z %d osebami</item>
         <item quantity="one">Deljeno z %d osebo</item>
      </plurals>
+	<plurals name="photo_count_format">
+        <item quantity="other">Skupaj: %1$d</item>
+        <item quantity="one">Skupaj: %1$d</item>
+    </plurals>
 	  <plurals name="picker_all_image_need_download">
          <item quantity="other">"Izbrane fotografije niso v napravi, prenesem z mobilnimi podatki?"</item>
          <item quantity="one">"Izbrana fotografija ni v napravi, prenesem z mobilnimi podatki?"</item>
@@ -224,7 +228,7 @@
         <item quantity="other">"Izpuščeno %1$d fotografij ki niso mogle biti deljene."</item>
         <item quantity="one">"Izpuščena fotografija ki ni mogla biti deljena."</item>
      </plurals>
-	 <plurals name="file_count_format">
+	 <plurals name="video_count_format">
          <item quantity="other">Skupaj: %1$d</item>
          <item quantity="one">Skupaj: %1$d</item>
      </plurals>

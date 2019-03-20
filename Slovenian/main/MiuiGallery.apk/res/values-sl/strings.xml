@@ -267,6 +267,9 @@
   <string name="cleaner_screen_shot_action">Izbriši</string>
   <string name="cleaner_screen_shot_description">Izbrišite posnetke zaslona ki jih ne rabite več.</string>
   <string name="cleaner_screen_shot_title">Izbriši posnetke zaslona</string>
+  <string name="cleaner_similar_action">Izbriši zdaj</string>
+  <string name="cleaner_similar_description">Izbriši podvojene fotografije</string>
+  <string name="cleaner_similar_title">Podvojene fotografije</string>
   <string name="cleaner_slim_action">Začni optimizacijo</string>
   <string name="cleaner_slim_description">Obdrži optimizirane fotografije v napravi. Prvotne datoteke so shranjene v Mi Cloudu.</string>
   <string name="cleaner_slim_start">Optimiziraj</string>
@@ -274,6 +277,10 @@
   <string name="cleaner_space_description">se lahko sprosti</string>
   <string name="cleaner_space_detail_description">Izbrišite fotografije v Galeriji da boste osvobodili prostor za shranjevanje</string>
   <string name="cleaner_stop_scan">Ustavi skeniranje</string>
+  <string name="cleaner_video_action">Izbriši zdaj</string>
+  <string name="cleaner_video_description">Izbrišite videoposnetke ki zavzemajo prostor za shranjevanje</string>
+  <string name="cleaner_video_pick_delete_selected">Izbriši izbrane videoposnetke</string>
+  <string name="cleaner_video_title">Izbriši videoposnetke</string>
   <string name="clear_local_photo_direction">Če izbrišete fotografije ali videoposnetke iz naprave bodo še zmeraj na voljo v Mi Cloudu</string>
   <string name="click_download_gif">Tapnite za prenos GIF-a</string>
   <string name="click_top_right">Tapnite to ikono</string>
@@ -1075,6 +1082,7 @@ za fotografije"</string>
   <string name="play_video_desc">Predvajaj video</string>
   <string name="posterize">Posterize</string>
   <string name="preparing_data">Trenutek…</string>
+  <string name="print_log">Natisni zapis</string>
   <string name="privacy_permission_request_message">Galerija potrebuje dostop do %3$s. Podatki bodo uporabljeni skladno z našimi %1$s in %2$s. Dovolim?</string>
   <string name="privacy_permission_request_negative">Omeji</string>
   <string name="privacy_permission_request_positive">Dovoli</string>
@@ -1178,10 +1186,15 @@ za fotografije"</string>
   <string name="scan_barcode_guide">"Za pridobitev QR kode albuma se dotaknite ikone Deli."</string>
   <string name="scan_barcode_to_join">Skenirajte QR kodo za dodajanje albuma</string>
   <string name="scan_qr_code_buttom_text">Skenirajte QR kodo za ogled albuma</string>
+  <string name="screen_doodle_talkback_size">Doodle širina črte</string>
+  <string name="screen_editor_finish">Končano</string>
+  <string name="screen_save_dialog_btn_cancel">Prekliči</string>
+  <string name="screen_save_dialog_btn_delete">Izbriši posnetek zaslona</string>
+  <string name="screen_save_dialog_btn_save">Shrani v Galerijo</string>
   <string name="search_album_jump_failed">Počakajte da se albumi sinhronizirajo s Mi Cloudom in poskusite ponovno</string>
   <string name="search_backup_full_screen">Vključite sinhr. z Mi Cloudom da najdete več objektov in oseb</string>
   <string name="search_backup_now">Vključi</string>
-  <string name="search_backup_sub_title">Vključite da bi našli več slik</string>
+  <string name="search_backup_sub_title">Vključite da boste našli več slik</string>
   <string name="search_backup_title">Sinhr. z Mi Cloudom</string>
   <string name="search_clear_histories">Očisti</string>
   <string name="search_connection_error">"Ne morem se povezati na omrežje"</string>
@@ -1304,6 +1317,7 @@ za fotografije"</string>
   <string name="show_hidden_album_title">Pokaži skrite albume</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Uspešno premeščeno, pojdite na albume Ostalo za pregled</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Uspešno premeščeno, pojdite na Albumi za pregled</string>
+  <string name="similar_keep_clear">Obdrži najboljše fotografije</string>
   <string name="slideshow_interval_dialog_title">Vnesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>

@@ -202,6 +202,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_SilenceRinger">utišati dohodne klice</string>
   <string name="HIPS_Perm_SystemAlert">Prikaz pojavnih oken</string>
   <string name="HIPS_Perm_SystemAlert_Desc">prikazati pojavna okna</string>
+  <string name="HIPS_Perm_UDevice_ID">Delite dele informacij o napravi z programerji iger da jim boste pomagali izboljšati izkušnjo igranja. Se strinjate?</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">deliti dele informacij o napravi z programerji iger da jim boste pomagali izboljšati izkušnjo igranja. Se strinjate?</string>
   <string name="HIPS_Perm_SystemAlert_Hint">(%1$s) aplikacij lahko prikaže pojavno okno</string>
   <string name="HIPS_Perm_VideoRecorder">Dostop do kamere</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">dostopati do kamere ali snemanju videoposnetkov</string>
