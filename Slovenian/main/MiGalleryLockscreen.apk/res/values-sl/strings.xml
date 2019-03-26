@@ -288,14 +288,14 @@
   <string name="passport_error_no_password_user">"Niste še nastavili gesla. Prijavite se preko SMS-a."</string>
   <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
   <string name="passport_error_server">Napaka na strežniku</string>
-  <string name="passport_error_sim_not_ready">Ne najdem kartice SIM</string>
+  <string name="passport_error_sim_not_ready">Ne najdem zavihki SIM</string>
   <string name="passport_error_ssl_hand_shake">"Ne morem se povezati na strežnik"</string>
   <string name="passport_error_unknown">Ne morem se vpisati v</string>
   <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
   <string name="passport_international_phone_password_login_tip">(Za uporabnike izven Kitajske, vnesite številko mobilnega telefona v naslednjem formatu: + številka države, primer: +91 817282982)</string>
   <string name="passport_log_detail">Pokaži podrobnosti zapisa</string>
   <string name="passport_next_step">NAPREJ</string>
-  <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM kartice aktivirana in da je naprava povezana z omrežjem.</string>
+  <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM zavihki aktivirana in da je naprava povezana z omrežjem.</string>
   <string name="passport_error_verify_activator_phone_title">"Ne morem preveriti telefonske številke"</string>
   <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
@@ -308,7 +308,7 @@
   <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater. Preverite ko je številka online?</string>
   <string name="passport_get_innetdate_title">Preverite ko je številka online</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
-  <string name="passport_getting_activator_phone">Sprejem podatkov o SIM kartice telefona…</string>
+  <string name="passport_getting_activator_phone">Sprejem podatkov o SIM zavihki telefona…</string>
   <string name="passport_getting_verify_code">Prejemam</string>
   <string name="passport_i_know">Razumem</string>
   <string name="passport_identification_expired">Koda za potrditev je potekla, začnite znova</string>

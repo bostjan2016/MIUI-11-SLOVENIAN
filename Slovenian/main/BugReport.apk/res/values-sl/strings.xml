@@ -31,7 +31,7 @@
   <string name="catch_full_log_item_content_catch_direct">"1. Vrnite se na stvar ki jo želite prijaviti in jo predvajajte.
 2. Vratite se na to stran in tapnite \"Končano in pošlji\"."</string>
   <string name="catch_full_log_item_content_need_open">"1. Tapnite \"Napravi zapis\".
-2. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vzpostavite.
+2. Vrnite se na storitev ki jo želite prijaviti in jo ponovno vznastavite.
 3. Vrnite se na to stran in tapnite \"Končano in pošlji\"."</string>
   <string name="catch_full_log_item_content_title">Koraki:</string>
   <string name="catch_full_log_item_title_audio">Zvok, snemanje zvoka in zvok med klicem</string>
@@ -299,7 +299,7 @@
   <string name="network_errortip_unknow">"Poskušamo popraviti…"</string>
   <string name="network_unavailable_dialog_button_ok">V redu</string>
   <string name="network_unavailable_dialog_content">Vaše poročilo o napaki bo poslano ko boste imeli vključeno podatkovno povezavo.</string>
-  <string name="network_unavailable_dialog_title">Povezave ni mogoče vzpostaviti.</string>
+  <string name="network_unavailable_dialog_title">Povezave ni mogoče vznastaviti.</string>
   <string name="non_system_app_select">Prenesene aplikacije</string>
   <string name="nothing">--</string>
   <string name="open_feedback_main">Več</string>
@@ -362,7 +362,7 @@
   <string name="toast_catch_full_log_open_failed">"Ne morem začeti snemanje zapisa."</string>  
   <string name="toast_description_required">Napisati morate opis napake</string>
   <string name="toast_feedback_collect_store">Zbiranje poročila…</string>
-  <string name="toast_feedback_network_unavailable">Povezave ni mogoče vzpostaviti</string>
+  <string name="toast_feedback_network_unavailable">Povezave ni mogoče vznastaviti</string>
   <string name="toast_feedback_pending_wlan">"Poročilo o napaki bo poslano ko boste povezani na WiFi omrežje. Pov. informacija bo poslana ko bo na voljo WiFi omrežje."</string>
   <string name="toast_feedback_submitted">Poročilo o napaki je bilo poslano</string>
   <string name="toast_feedback_submitting">Pošiljanje…</string>

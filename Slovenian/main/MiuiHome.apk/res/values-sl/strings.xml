@@ -227,7 +227,7 @@
   <string name="menu_lock">Zakleni razporeditev začet. zaslona</string>
   <string name="menu_more">Več</string>
   <string name="menu_picktheme">Izberi temo</string>
-  <string name="menu_reset_scene">Ponastavi na prevzeto postavitev</string>
+  <string name="menu_reset_scene">Ponastavi na prevzeto nastavitev</string>
   <string name="menu_search">Išči</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_sort">Razvrsti aplikacije</string>
@@ -274,7 +274,7 @@
   <string name="pref_icon_shadow_title">Sence aplikacij</string>
   <string name="pref_keep_in_memory_summary">Ohrani aplikacijo Zaganjalnik ko primankuje prostora na pomnilniku</string>
   <string name="pref_keep_in_memory_title">Zakleni MIUI v spomin</string>
-  <string name="pref_keep_layout_summary">Spreminjanje postavitve začetnega zaslona ne bo vplivalo medsebojni položaj ikon</string>
+  <string name="pref_keep_layout_summary">Spreminjanje nastavitve začetnega zaslona ne bo vplivalo medsebojni položaj ikon</string>
   <string name="pref_keep_layout_title">Zaklepanje pozicij aplikacij</string>
   <string name="pref_render_in_truecolor_summary">Izklop tega opravila izboljša delovanje</string>
   <string name="pref_render_in_truecolor_title">Visoko kvalitetne grafike</string>
@@ -300,7 +300,7 @@
   <string name="reset_description_first_time">Lahko povrnete razpored iz %1$s v roku 2 ure</string>
   <string name="reset_description_others">Lahko povrnete razpored iz %1$s</string>
   <string name="reset_fail">"Ne morem povrniti"</string>
-  <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto postavitev</string>
+  <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto nastavitev</string>
   <string name="reset_title">Povrni</string>
   <string name="screen_cells_config_title">Razpored zač. zaslona</string>
   <string name="screen_locked_toast">Razporeditev zač. zaslona je zaklenjena</string>

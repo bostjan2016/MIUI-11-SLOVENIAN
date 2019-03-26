@@ -79,7 +79,7 @@
   <string name="history_send">Zgodovina pošiljanja</string>
   <string name="init_xiaomi_account">Povezovanje z Xiaomi računom…</string>
   <string name="input_device_name">Vnesite ime naprave</string>
-  <string name="input_device_name_tip">Uporabite Mi Prenos za pošiljanje datotek, za Bluetooth povezavo in vzpostavitev Hotspot povezave. Ostale naprave bodo videle ime vaše naprave.</string>
+  <string name="input_device_name_tip">Uporabite Mi Prenos za pošiljanje datotek, za Bluetooth povezavo in vznastavitev Hotspot povezave. Ostale naprave bodo videle ime vaše naprave.</string>
   <string name="load_file_error">Nalaganje datoteke ni uspelo!</string>
   <string name="loading_file">Nalaganje…</string>
   <string name="login_failed">Neuspela prijava</string>

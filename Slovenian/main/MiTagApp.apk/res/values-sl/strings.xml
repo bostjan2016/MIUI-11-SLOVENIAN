@@ -23,7 +23,7 @@
   <string name="btn_write">Piši</string>
   <string name="bump_erase">"Za brisanje oznake,
 se dotaknite z zadnjo stranjo vašega telefona"</string>
-  <string name="bump_start">"Za začetek, postavite
+  <string name="bump_start">"Za začetek, nastavite
 telefon z zadnjo stranjo na oznako"</string>
   <string name="bump_write">"Da bi napisali oznako,
 se dotaknite z zadnjo stranjo telefona"</string>
@@ -110,7 +110,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="new_config">Nove naloge</string>
   <string name="new_configures">Nove konfiguracije</string>
   <string name="no_available_networks">Ni dostopnih omrežji</string>
-  <string name="no_available_networks_summary">Poskušajte ponovno po vzpostavitvi povezave.</string>
+  <string name="no_available_networks_summary">Poskušajte ponovno po vznastavitvi povezave.</string>
   <string name="no_available_xiaomi_shop">"Ne morem odpreti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
   <string name="null_task">Ni nalog</string>
@@ -186,7 +186,7 @@ dotaknite drugo oznako z zadnjo stranjo telefona."</string>
 dotaknite drugo oznako z zadnjo stranjo telefona."</string>
   <string name="two_minutes">2 min.</string>
   <string name="unavailable_net">"Ne morem se povezati na omrežje"</string>
-  <string name="unavailable_storage">"Ne morem uporabljati SD kartice"</string>
+  <string name="unavailable_storage">"Ne morem uporabljati SD zavihki"</string>
   <string name="unrecognized_tag">Neznana vsebina oznake</string>
   <string name="update_config">Uredi naloge</string>
   <string name="user_configs">Moje naloge</string>

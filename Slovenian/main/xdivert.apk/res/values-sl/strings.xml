@@ -2,7 +2,7 @@
 <resources>
   <string name="close_dialog">V redu</string>
   <string name="error_updating_title">Napaka klicnih nastavitev</string>
-  <string name="exception_error">Napaka omrežja ali SIM kartice.</string>
+  <string name="exception_error">Napaka omrežja ali SIM zavihki.</string>
   <string name="fdn_check_failure">"Nastavitve aplikacije FDN so vključene. Zaradi tega nekatera opravila klicev na delajo."</string>
   <string name="phone_numbers">Vnesite številke telefona</string>
   <string name="proceed">Nadaljuj</string>

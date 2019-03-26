@@ -226,7 +226,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
   <string name="emergency_calls_only">Le klici v sili</string>
   <string name="emptyPhoneNumber">(Ni telefonske številke)</string>
-  <string name="enablePin">Ni uspelo. Omogočite zaklepanje kartice SIM/RUIM.</string>
+  <string name="enablePin">Ni uspelo. Omogočite zaklepanje zavihki SIM/RUIM.</string>
   <string name="enable_accessibility_canceled">Omogočanje pripomočkov za ljudi s posebnimi potrebami preklicano.</string>
   <string name="enable_explore_by_touch_warning_message">Storitev %1$s želi omogočiti raziskovanje z dotikom. Ko je raziskovanje z dotikom vklopljeno lahko slišite ali vidite opise tega kar je pod vašim prstom, ali izvajate poteze za interakcijo s telefonom.</string>
   <string name="enable_explore_by_touch_warning_title">Vklopim raziskovanje z dotikom?</string>
@@ -349,8 +349,8 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="httpError">Napaka v omrežju.</string>
   <string name="httpErrorAuth">Pristnosti ni bilo mogoče preveriti.</string>
   <string name="httpErrorBadUrl">Strani ni mogoče odpreti ker povezava ni veljavna.</string>
-  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogoče vzpostaviti.</string>
-  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogoče vzpostaviti.</string>
+  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogoče vznastaviti.</string>
+  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogoče vznastaviti.</string>
   <string name="httpErrorFile">Do datoteke ni bilo mogoče dostopati.</string>
   <string name="httpErrorFileNotFound">Zahtevane datoteke ni bilo mogoče najti.</string>
   <string name="httpErrorIO">S strežnikom ni bilo mogoče komunicirati. Poskusite znova pozneje.</string>
@@ -468,7 +468,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_puk_enter_puk_hint">Kartica SIM je onemogočena. Če želite nadaljevati vnesite kodo PUK. Za dodatne informacije se obrnite na operaterja.</string>
   <string name="kg_reordering_delete_drop_target_text">Odstrani</string>
   <string name="kg_sim_pin_instructions">Vnesite PIN za kartico SIM</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Odklepanje zavihki SIM ...</string>
   <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
@@ -524,9 +524,9 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Če želite odkleniti pritisnite meni.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Če želite odkleniti napravo ali opraviti klic v sili pritisnite meni.</string>
   <string name="lockscreen_missing_sim_instructions">Vstavite kartico SIM.</string>
-  <string name="lockscreen_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite veljavno kartico SIM.</string>
-  <string name="lockscreen_missing_sim_message">V telefonu ni kartice SIM.</string>
-  <string name="lockscreen_missing_sim_message_short">Ni kartice SIM</string>
+  <string name="lockscreen_missing_sim_instructions_long">Ni zavihki SIM ali je ni mogoče prebrati. Vstavite veljavno kartico SIM.</string>
+  <string name="lockscreen_missing_sim_message">V telefonu ni zavihki SIM.</string>
+  <string name="lockscreen_missing_sim_message_short">Ni zavihki SIM</string>
   <string name="lockscreen_network_locked_message">Omrežje je zaklenjeno</string>
   <string name="lockscreen_password_wrong">Poskusite znova</string>
   <string name="lockscreen_pattern_correct">Pravilno.</string>
@@ -540,7 +540,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sim_locked_message">Kartica SIM je zaklenjena.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Preberite uporabniški priročnik ali se obrnite na oddelek za pomoč uporabnikom.</string>
   <string name="lockscreen_sim_puk_locked_message">Kartica SIM je zaklenjena s kodo PUK.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje zavihki SIM ...</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
@@ -679,7 +679,7 @@ Znova poskusite čez %d s."</string>
   <string name="more_item_label">Več</string>
   <string name="muted_by">Izklop zvoka od %1$s</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
-  <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>
+  <string name="needPuk2">Če želite odstraniti blokiranje zavihki SIM vnesite PUK2.</string>
   <string name="network_available_sign_in">Prijava v omrežje</string>
   <string name="new_app_action">Zaženi %1$s</string>
   <string name="new_app_description">Ustavi prejšnjo aplikacijo brez shranjevanja.</string>
@@ -751,8 +751,8 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_changeNetworkState">Aplikaciji omogoča spreminjanje stanja povezljivosti omrežja.</string>
   <string name="permdesc_changeTetherState">Aplikaciji dovoljuje spreminjanje stanja povezljivosti posredniškega omrežja.</string>
   <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju WiFi z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
-  <string name="permdesc_changeWifiState">Aplikaciji omogoča da vzpostavi povezavo z dostopnimi točkami WiFi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WiFi.</string>
-  <string name="permdesc_changeWimaxState">Aplikaciji omogoča da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
+  <string name="permdesc_changeWifiState">Aplikaciji omogoča da vznastavi povezavo z dostopnimi točkami WiFi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WiFi.</string>
+  <string name="permdesc_changeWimaxState">Aplikaciji omogoča da vznastavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
   <string name="permdesc_connection_manager">Aplikaciji omogoča upravljanje telekomunikacijskih povezav.</string>
   <string name="permdesc_control_incall_experience">Aplikaciji omogoča zagotavljanje uporabniške izkušnje med klicem.</string>
   <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in drugi programi omogočajo pošiljanje podatkov v omrežje, zato to dovoljenje ni potrebno za pošiljanje podatkov na splet.</string>
@@ -782,7 +782,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_readHistoryBookmarks">Aplikaciji omogoča da prebere zgodovino vseh povezav ki jih je obiskal brskalnik in vseh zaznamkov brskalnika. Opomba: Tega dovoljenja ne morejo uveljavljati drugi brskalniki ali aplikacije s katerimi je mogoče brskati po spletu.</string>
   <string name="permdesc_readInstallSessions">Aplikaciji omogoča branje sej namestitev. Tako lahko bere podrobnosti o aktivnih namestitvah paketov.</string>
   <string name="permdesc_readNetworkUsageHistory">Aplikaciji omogoča branje pretekle uporabe omrežja za določena omrežja in aplikacije.</string>
-  <string name="permdesc_readPrecisePhoneState">Aplikaciji omogoča dostop do natančnega stanja telefona. To omogoča aplikaciji da določi pravi status klica, ali je klic aktiven ali v ozadju, neuspele klice, podatke o statusu povezave ter neuspele vzpostavitve podatkovnih povezav.</string>
+  <string name="permdesc_readPrecisePhoneState">Aplikaciji omogoča dostop do natančnega stanja telefona. To omogoča aplikaciji da določi pravi status klica, ali je klic aktiven ali v ozadju, neuspele klice, podatke o statusu povezave ter neuspele vznastavitve podatkovnih povezav.</string>
   <string name="permdesc_readSms">Aplikaciji omogoča branje SMS-ov shranjenih v telefonu ali na kartici SIM. S tem lahko aplikacija bere vse SMS-e, ne glede na njihovo vsebino ali zaupnost.</string>
   <string name="permdesc_readSyncSettings">Aplikaciji omogoča branje nastavitev sinhronizacije za račun. S tem lahko aplikacija na primer ugotovi ali je mapa Ljudje sinhronizirana z računom.</string>
   <string name="permdesc_readSyncStats">Aplikaciji omogoča branje statističnih podatkov o sinhronizaciji za račun, vključno z zgodovino dogodkov sinhronizacije in količino sinhroniziranih podatkov.</string>
@@ -854,7 +854,7 @@ za račun %s."</string>
   <string name="permlab_accessNetworkState">prikaz omrežnih povezav</string>
   <string name="permlab_accessNotifications">dostop do obvestil</string>
   <string name="permlab_accessWifiState">prikaz povezav WiFi</string>
-  <string name="permlab_accessWimaxState">vzpostavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
+  <string name="permlab_accessWimaxState">vznastavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
   <string name="permlab_access_notification_policy">dostop do načina »ne moti«</string>
   <string name="permlab_addVoicemail">dodajanje odzivnika</string>
   <string name="permlab_bindCarrierMessagingService">povezovanje z operaterjevo sporočilno storitvijo</string>
@@ -873,7 +873,7 @@ za račun %s."</string>
   <string name="permlab_changeNetworkState">spreminjanje povezljivosti omrežja</string>
   <string name="permlab_changeTetherState">Spreminjanje posredniške povezljivosti</string>
   <string name="permlab_changeWifiMulticastState">dovoljevanje sprejema večvrstnega brezžičnega oddajanja</string>
-  <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem WiFi in prekinitev povezave z njim</string>
+  <string name="permlab_changeWifiState">vznastavitev povezave z omrežjem WiFi in prekinitev povezave z njim</string>
   <string name="permlab_changeWimaxState">Sprememba stanja omrežja WiMAX</string>
   <string name="permlab_connection_manager">upravljanje telekomunikacijskih povezav</string>
   <string name="permlab_control_incall_experience">zagotavljanje uporabniške izkušnje med klicem</string>
@@ -1216,7 +1216,7 @@ za račun %s."</string>
   <string name="usb_storage_activity_title">Masovni pomnilnik USB</string>
   <string name="usb_storage_button_mount">Vklop pomnilnika USB</string>
   <string name="usb_storage_error_message">Težava pri uporabi pomnilnika USB kot masovnega pomnilnika USB.</string>
-  <string name="usb_storage_message">Z računalnikom ste vzpostavili povezavo z USB-jem. Dotaknite se spodnjega gumba če želite kopirati datoteke med računalnikom in pomnilnikom USB.</string>
+  <string name="usb_storage_message">Z računalnikom ste vznastavili povezavo z USB-jem. Dotaknite se spodnjega gumba če želite kopirati datoteke med računalnikom in pomnilnikom USB.</string>
   <string name="usb_storage_notification_message">Dotaknite se če želite kopirati datoteke v računalnik ali iz njega.</string>
   <string name="usb_storage_notification_title">Povezava USB je vzpostavljena</string>
   <string name="usb_storage_stop_button_mount">Izklopi pomnilnik USB</string>
@@ -1279,8 +1279,8 @@ za račun %s."</string>
   <string name="whichViewApplicationNamed">Odpiranje z aplikacijo %1$s</string>
   <string name="wifi_available_sign_in">Prijavite se v omrežje WiFi</string>
   <string name="wifi_calling_off_summary">Izklopljeno</string>
-  <string name="wifi_connect_alert_message">Aplikacija %1$s želi vzpostaviti povezavo z omrežjem WiFi %2$s</string>
-  <string name="wifi_connect_alert_title">Ali dovolite vzpostavitev povezave?</string>
+  <string name="wifi_connect_alert_message">Aplikacija %1$s želi vznastaviti povezavo z omrežjem WiFi %2$s</string>
+  <string name="wifi_connect_alert_title">Ali dovolite vznastavitev povezave?</string>
   <string name="wifi_no_internet">Omrežje WiFi nima dostopa do spleta</string>
   <string name="wifi_no_internet_detailed">Dotaknite se za prikaz možnosti</string>
   <string name="wifi_p2p_dialog_title">WiFi Direct</string>

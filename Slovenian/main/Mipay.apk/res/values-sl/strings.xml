@@ -8,11 +8,11 @@
   <string name="mipay_bank_card_already_open">"Končal sem"</string>
   <string name="mipay_bank_card_cvv2">CVV2</string>
   <string name="mipay_bank_card_cvv2_hint">CVV2</string>
-  <string name="mipay_bank_card_error_title">Preverite podatke vaše bančne kartice</string>
+  <string name="mipay_bank_card_error_title">Preverite podatke vaše bančne zavihki</string>
   <string name="mipay_bank_card_hint">Vnesite številko računa</string>
-  <string name="mipay_bank_card_id_card">ID Številka kartice</string>
-  <string name="mipay_bank_card_id_card_hint">ID Številka kartice povezane z računom</string>
-  <string name="mipay_bank_card_info_error">Preverite podatke bančne kartice</string>
+  <string name="mipay_bank_card_id_card">ID Številka zavihki</string>
+  <string name="mipay_bank_card_id_card_hint">ID Številka zavihki povezane z računom</string>
+  <string name="mipay_bank_card_info_error">Preverite podatke bančne zavihki</string>
   <string name="mipay_bank_card_item">%1$s (Kartica štev. %2$s)</string>
   <string name="mipay_bank_card_logo_desc">Logo banke</string>
   <string name="mipay_bank_card_name">Ime</string>
@@ -21,7 +21,7 @@
   <string name="mipay_bank_card_number_error">Preverite vašo številko računa</string>
   <string name="mipay_bank_card_phone">Telefon</string>
   <string name="mipay_bank_card_phone_hint">"Bančni računi ustrezni osebni številki telefona"</string>
-  <string name="mipay_bank_card_quick_pass_alert">Številke bančnih kartic ki podpirajo Instapay lahko kopirate tako da se dotaknete kartice z hrbtno stranjo vaše naprave</string>
+  <string name="mipay_bank_card_quick_pass_alert">Številke bančnih kartic ki podpirajo Instapay lahko kopirate tako da se dotaknete zavihki z hrbtno stranjo vaše naprave</string>
   <string name="mipay_bank_card_safe_info">Ta storitev je šifrirana in pooblaščena s strani Xiaomi in banke</string>
   <string name="mipay_bank_card_support_list">Podprte banke</string>
   <string name="mipay_bank_card_tail_number">Kartica štev. %1$s</string>
@@ -32,7 +32,7 @@
   <string name="mipay_bank_card_unsupport_tip_clickspan">Podprte banke</string>
   <string name="mipay_bank_card_valid_date">Datum izteka</string>
   <string name="mipay_bank_card_valid_date_hint">MM/YY</string>
-  <string name="mipay_bank_cards">Bančne kartice</string>
+  <string name="mipay_bank_cards">Bančne zavihki</string>
   <string name="mipay_bank_cards_add">Dodaj kartico</string>
   <string name="mipay_bank_cards_detail_title">Podrobnosti %1$s</string>
   <string name="mipay_bank_cards_item_bank_tail">Kartica štev. %1$s</string>
@@ -52,17 +52,17 @@
   <string name="mipay_button_pay">Plačaj</string>
   <string name="mipay_button_unbind_bank_card">Razdvoji</string>
   <string name="mipay_button_update">Posodobi</string>
-  <string name="mipay_cancel_bind_bank_card">Odstopate od vezave bančne kartice?</string>
+  <string name="mipay_cancel_bind_bank_card">Odstopate od vezave bančne zavihki?</string>
   <string name="mipay_cancel_forget_password">Odstopate od iskanja gesla za plačilo?</string>
   <string name="mipay_cancel_modify_password">Odstopate od zamenjave gesla za plačilo?</string>
   <string name="mipay_cancel_pay">Odstopate od nakupa?</string>
-  <string name="mipay_cancel_unbind_bank_card">Odstopate od odvezave bančne kartice?</string>
+  <string name="mipay_cancel_unbind_bank_card">Odstopate od odvezave bančne zavihki?</string>
   <string name="mipay_check_login_password_summary">Vnesite svoje geslo za Xiaomi račun</string>
   <string name="mipay_check_order_title">Števec</string>
   <string name="mipay_check_password_summary">Vnesite svoje geslo za plačilo</string>
   <string name="mipay_check_personal_info_error">Prosimo da preverite svoje osebne podatke</string>
-  <string name="mipay_check_personal_info_id_card">ID štev.kartice</string>
-  <string name="mipay_check_personal_info_id_card_hint">Vaša ID štev.kartice</string>
+  <string name="mipay_check_personal_info_id_card">ID štev.zavihki</string>
+  <string name="mipay_check_personal_info_id_card_hint">Vaša ID štev.zavihki</string>
   <string name="mipay_check_personal_info_name">Ime</string>
   <string name="mipay_check_personal_info_name_hint">Vaše ime</string>
   <string name="mipay_check_personal_info_phone">Telefon</string>
@@ -74,7 +74,7 @@
   <string name="mipay_choose_expiration_date">Izberite datum izteka</string>
   <string name="mipay_choose_method_latest">Zadnjič uporabljeno:</string>
   <string name="mipay_common_license">Pogoji uporabe</string>
-  <string name="mipay_counter_app_name">Bančne kartice</string>
+  <string name="mipay_counter_app_name">Bančne zavihki</string>
   <string name="mipay_create_order_progress">Oblikovanje naročila…</string>
   <string name="mipay_date_picker_label_month"/>
   <string name="mipay_date_picker_label_year"/>
@@ -116,13 +116,13 @@ Preverite vaš lokalni datum in poizkusite ponovno."</string>
   <string name="mipay_nfc_per_limit_title">Per-Trade Limit</string>
   <string name="mipay_nfc_record_empty">Ni zapisov</string>
   <string name="mipay_nfc_record_title">Zapisi</string>
-  <string name="mipay_nfc_support_list_tip">Podprte kartice</string>
+  <string name="mipay_nfc_support_list_tip">Podprte zavihki</string>
   <string name="mipay_nfc_support_tip">Uporabite svojo Mi napravo kjer koli je NFC podprt, od bankomata do javnega prevoza.</string>
   <string name="mipay_nfc_tail_num_hint">Tail Num: %1$s</string>
   <string name="mipay_nfc_trade_times_title">Aktivnosti plačila</string>
   <string name="mipay_nfc_trans_card_details_title">Prevozna kartica</string>
   <string name="mipay_nfc_warning">Držite kartico na zadnji strani naprave</string>
-  <string name="mipay_nfc_warning_suport">*Trenutno niso vse prevozne kartice podprte</string>
+  <string name="mipay_nfc_warning_suport">*Trenutno niso vse prevozne zavihki podprte</string>
   <string name="mipay_nfc_warning_toast_move">"To je prehitro"</string>
   <string name="mipay_nfc_warning_toast_support">"Ta kartica ni podprta"</string>
   <string name="mipay_nfc_warning_toast_unknown">Nekaj je šlo narobe</string>
@@ -179,5 +179,5 @@ Preverite vaš lokalni datum in poizkusite ponovno."</string>
   <string name="mipay_unit_yuan">%1$s</string>
   <string name="mipay_update_title">Mipay posodobitev na voljo!</string>
   <string name="mipay_use_new_card">Uporabite novo bančno kartico</string>
-  <string name="mipay_wallet_app_name">Bančne kartice</string>
+  <string name="mipay_wallet_app_name">Bančne zavihki</string>
 </resources>

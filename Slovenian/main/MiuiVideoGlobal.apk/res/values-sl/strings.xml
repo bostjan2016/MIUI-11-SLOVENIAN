@@ -123,7 +123,7 @@
   <string name="common_google_play_services_notification_channel_name">Dostopnost storitev Google Play</string>
   <string name="common_google_play_services_notification_ticker">Napaka storitev za Google Play</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave z storitvami za Google Play. Poskusite ponovno.</string>
-  <string name="common_google_play_services_unsupported_text">"%1$s deluje s pomočjo Google Play usluge storitev ki jih vaš fon ne podpira. Za pomoč se obrnite na proizvajalca."</string>
+  <string name="common_google_play_services_unsupported_text">"%1$s deluje s pomočjo Google Play storitve storitev ki jih vaš fon ne podpira. Za pomoč se obrnite na proizvajalca."</string>
   <string name="common_google_play_services_update_button">Posodobi</string>
   <string name="common_google_play_services_update_text">"%1$s ne bo deloval če ne posodobite Google Play storitev."</string>
   <string name="common_google_play_services_update_title">Posodobi storitve za Google Play</string>

@@ -104,7 +104,7 @@ can be set on the other device."</string>
   <string name="net_work_notice">By using this feature, you agree that Xiaomi will collect, process, and use your personal data, including MIUI &amp; Android versions, app versions, location info, as well as the list of available apps. This is necessary so that one device could locate and manage other devices. Your device ID, location info, and the list of available apps may be shared with third-party service providers. You can learn how we process your personal data in our Privacy Policy. You can agree to our Privacy Policy by tapping \"Agree\" below.</string>
   <string name="no_msg_yet">you have not received any message yet</string>
   <string name="not_set_time_fence_yet">"Haven't set Time Fence"</string>
-  <string name="notice_detail">Detalji poruke</string>
+  <string name="notice_detail">Detalji sporočila</string>
   <string name="notice_message">Check my notice</string>
   <string name="notification_deactivate">Managing device was removed</string>
   <string name="notification_deactivate_msg">You can use all apps on your device.</string>

@@ -284,7 +284,7 @@
   <string name="force_resizable_activities">Vsili povečanje velikosti za aktivnosti</string>
   <string name="force_resizable_activities_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsem aktivnostim povečati velikost za način z več okni.</string>
   <string name="force_rtl_layout_all_locales">Vsili od desne proti levi</string>
-  <string name="force_rtl_layout_all_locales_summary">Vsili smer postavitve na zaslonu od desne proti levi za vse jezike</string>
+  <string name="force_rtl_layout_all_locales_summary">Vsili smer nastavitve na zaslonu od desne proti levi za vse jezike</string>
   <string name="gps_notification_found_text">Lokacija nastavljena z GPS-om</string>
   <string name="gps_notification_searching_text">Iskanje GPS-a</string>
   <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>

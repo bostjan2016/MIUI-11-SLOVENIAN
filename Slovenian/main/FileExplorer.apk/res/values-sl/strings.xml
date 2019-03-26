@@ -266,7 +266,7 @@
   <string name="extract">Razširi</string>
   <string name="fail_to_create_folder">Ni dovolj prostora ali pa mapa že obstaja.</string>
   <string name="fail_to_create_folder_unknown">"Mape ni mogoče ustvariti"</string>
-  <string name="failed_not_access_sd_card">Najprej omogočite dostop do SD kartice</string>
+  <string name="failed_not_access_sd_card">Najprej omogočite dostop do SD zavihki</string>
   <string name="failed_obtain_permissions">"Ne morem dobiti dovoljenja"</string>
   <string name="fail_to_rename">Datoteka s tem imenom že obstaja.</string>
   <string name="favorite_photo">Slike</string>
@@ -766,7 +766,7 @@
   <string name="sd_card_available">Na voljo: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
   <string name="sd_full">Vaša SD kartica je polna.</string>
-  <string name="sd_invalid">Ne morem uporabiti vaše SD kartice.</string>
+  <string name="sd_invalid">Ne morem uporabiti vaše SD zavihki.</string>
   <string name="sdcard">SD kartica</string>
   <string name="sdcard_available">Na voljo %1$s</string>
   <string name="sdcard_total">Skupaj %1$s</string>
@@ -960,7 +960,7 @@
   <string name="trans_mobile_network_message">Uporaba mobilnih podatkov za prenos datotek bo porabila veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="trans_task">Omrežni prenos</string>
   <string name="transfer_done">Datoteke uspešno premeščene.</string>
-  <string name="transfer_private_data">Premeščanje skritih datotek iz SD kartice…</string>
+  <string name="transfer_private_data">Premeščanje skritih datotek iz SD zavihki…</string>
   <string name="transing">Pošiljam</string>
   <string name="trash_box_capacity">Koš %1$s</string>
   <string name="trash_box_link">Za izpraznitev koša obiščite &lt;b&gt;pan.xiaomi.com.&lt;/b&gt;</string>

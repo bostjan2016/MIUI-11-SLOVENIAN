@@ -93,9 +93,9 @@
         <item quantity="one">%1$d naprava povezana</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Napačen PIN SIM kartice; imate še toliko preostalih poskusov: %d.</item>
-        <item quantity="one">Napačen PIN SIM kartice; imate še %d poskus preden boste morali kontaktirati svojega mobilnega operaterja da odklene vašo napravo.</item>
-        <item quantity="few">Napačen PIN SIM kartice; imate še %d poskusa.</item>
+        <item quantity="other">Napačen PIN SIM zavihki; imate še toliko preostalih poskusov: %d.</item>
+        <item quantity="one">Napačen PIN SIM zavihki; imate še %d poskus preden boste morali kontaktirati svojega mobilnega operaterja da odklene vašo napravo.</item>
+        <item quantity="few">Napačen PIN SIM zavihki; imate še %d poskusa.</item>
 	</plurals>
 	<plurals name="battery_manager_app_restricted">
         <item quantity="other">Omejenih aplikacij je %1$d</item>

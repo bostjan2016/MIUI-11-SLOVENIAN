@@ -164,13 +164,13 @@
   <string name="pref_time_auto_group_summary">Skupinska sporočila po času</string>
   <string name="pref_time_auto_group_title">Skupinska sporočila</string>
   <string name="pref_title_allow_si_sl_push">Dovoliti WAP push</string>
-  <string name="pref_title_card_format">Format deljenja kartice</string>
+  <string name="pref_title_card_format">Format deljenja zavihki</string>
   <string name="pref_title_delivery_reports">Potrdila o dostavi</string>
   <string name="pref_title_festival_networking">Spletna povezava</string>
   <string name="pref_title_fwd_sender_info">Posreduj informacijo pošiljatelja</string>
   <string name="pref_title_hide_festival">Skrij kartico Pozdravi</string>
-  <string name="pref_title_manage_sim_messages">Urejanje sporočil SIM kartice</string>
-  <string name="pref_title_miui_card">Pošlji preko kartice</string>
+  <string name="pref_title_manage_sim_messages">Urejanje sporočil SIM zavihki</string>
+  <string name="pref_title_miui_card">Pošlji preko zavihki</string>
   <string name="pref_title_notification_body_enabled">Prikaži obvestilo na zakl. zaslonu</string>
   <string name="pref_title_ringtone_repeat">Število ponavljanj tona obvestil</string>
   <string name="pref_title_show_recent_contacts">Nedavni stiki</string>

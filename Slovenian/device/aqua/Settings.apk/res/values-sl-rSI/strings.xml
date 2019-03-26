@@ -486,7 +486,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="battery_sugg_apps_info">Ustavi ali odstrani aplikacijo</string>
   <string name="battery_sugg_apps_settings">Aplikacija morda omogoča nastavitve za zmanjšanje porabe energije akumulatorja</string>
   <string name="battery_sugg_bluetooth_basic">Izklopite opravilo Bluetooth kadar ga ne uporabljate</string>
-  <string name="battery_sugg_bluetooth_headset">Poskusite vzpostaviti povezavo z drugo napravo Bluetooth</string>
+  <string name="battery_sugg_bluetooth_headset">Poskusite vznastaviti povezavo z drugo napravo Bluetooth</string>
   <string name="battery_sugg_display">Zmanjšajte svetlost zaslona in/ali časovno omejitev za vklop zaslona</string>
   <string name="battery_sugg_radio">Na območjih brez mobilnega signala preklopite v način za letalo da prihranite energijo</string>
   <string name="battery_sugg_wifi">Izklopite WiFi ko ga ne uporabljate ali če ni na voljo</string>
@@ -521,26 +521,26 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
 
   Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_confirm_passkey_msg">Za seznanitev z napravo:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;mora biti prikazano to geslo:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
-  <string name="bluetooth_connect_specific_profiles_title">Vzpostavi povezavo z ...</string>
+  <string name="bluetooth_connect_specific_profiles_title">Vznastavi povezavo z ...</string>
   <string name="bluetooth_connected">Povezava je vzpostavljena</string>
   <string name="bluetooth_connected_no_a2dp">Povezava vzpostavljena (brez predstavnosti)</string>
   <string name="bluetooth_connected_no_headset">Povezava vzpostavljena (brez telefona)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Povezava vzpostavljena (brez telefona ali predstavnosti)</string>
   <string name="bluetooth_connected_no_map">Povezava vzpostavljena (ni dostopa do sporočil)</string>
   <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
-  <string name="bluetooth_connecting_error_message">Povezave z napravo %1$s ni bilo mogoče vzpostaviti.</string>
+  <string name="bluetooth_connecting_error_message">Povezave z napravo %1$s ni bilo mogoče vznastaviti.</string>
   <string name="bluetooth_connection_dialog_text">Se želite povezati z napravo »%1$s«?</string>
-  <string name="bluetooth_connection_notif_message">Dotaknite se, če želite vzpostaviti povezavo z napravo »%1$s«.</string>
+  <string name="bluetooth_connection_notif_message">Dotaknite se, če želite vznastaviti povezavo z napravo »%1$s«.</string>
   <string name="bluetooth_connection_permission_request">Zahteva za povezavo Bluetooth</string>
   <string name="bluetooth_device">Neimenovana naprava Bluetooth</string>
   <string name="bluetooth_device_address">Naslov:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Dovoli dohodne prenose datotek</string>
-  <string name="bluetooth_device_advanced_online_mode_summary">Vzpostavi povezavo z napravo Bluetooth</string>
-  <string name="bluetooth_device_advanced_online_mode_title">Vzpostavi povezavo</string>
+  <string name="bluetooth_device_advanced_online_mode_summary">Vznastavi povezavo z napravo Bluetooth</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Vznastavi povezavo</string>
   <string name="bluetooth_device_advanced_profile_header_title">Uporaba za</string>
   <string name="bluetooth_device_advanced_rename_device">Preimenuj</string>
   <string name="bluetooth_device_advanced_title">Seznanjena naprava Bluetooth</string>
-  <string name="bluetooth_device_context_connect">Vzpostavi povezavo</string>
+  <string name="bluetooth_device_context_connect">Vznastavi povezavo</string>
   <string name="bluetooth_device_context_connect_advanced">Možnosti …</string>
   <string name="bluetooth_device_context_disconnect">Prekini povezavo</string>
   <string name="bluetooth_device_context_disconnect_unpair">Prekini povezavo in prekliči seznanitev</string>
@@ -564,7 +564,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_disconnect_title">Želite prekiniti povezavo?</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
   <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Če želite vzpostaviti povezavo z napravo:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;vpišite:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; na tej pa pritisnite Return ali Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Če želite vznastaviti povezavo z napravo:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;vpišite:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; na tej pa pritisnite Return ali Enter.</string>
   <string name="bluetooth_dock_settings">Nastavitve stojala</string>
   <string name="bluetooth_dock_settings_a2dp">Za glasbo in predstavnost</string>
   <string name="bluetooth_dock_settings_headset">Kot zvočnik</string>
@@ -611,14 +611,14 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_pairing_accept">Seznani</string>
   <string name="bluetooth_pairing_accept_all_caps">Seznani</string>
   <string name="bluetooth_pairing_decline">Prekliči</string>
-  <string name="bluetooth_pairing_device_down_error_message">Z napravo %1$s ni mogoče vzpostaviti povezave.</string>
+  <string name="bluetooth_pairing_device_down_error_message">Z napravo %1$s ni mogoče vznastaviti povezave.</string>
   <string name="bluetooth_pairing_dialog_contants_request">Naprava %1$s želi dostopati do vaših stikov in zgodovine klicev.</string>
   <string name="bluetooth_pairing_dialog_paring_request">Naprava %1$s se želi seznaniti prek Bluetootha. Ko bo povezana bo imela dostop do vaših stikov in zgodovine klicev.</string>
   <string name="bluetooth_pairing_dialog_sharing_phonebook_title">Želite dati telef. imenik v skupno rabo?</string>
   <string name="bluetooth_pairing_dialog_title">Želite opraviti seznanitev s to napravo?</string>
-  <string name="bluetooth_pairing_error_message">Ni bilo mogoče vzpostaviti povezave z napravo %1$s.</string>
+  <string name="bluetooth_pairing_error_message">Ni bilo mogoče vznastaviti povezave z napravo %1$s.</string>
   <string name="bluetooth_pairing_key_msg">Koda Bluetooth za seznanitev</string>
-  <string name="bluetooth_pairing_pin_error_message">Zaradi nepravilne kode PIN ali gesla ni mogoče vzpostaviti povezave z napravo %1$s.</string>
+  <string name="bluetooth_pairing_pin_error_message">Zaradi nepravilne kode PIN ali gesla ni mogoče vznastaviti povezave z napravo %1$s.</string>
   <string name="bluetooth_pairing_rejected_error_message">Naprava %1$s je zavrnila seznanitev.</string>
   <string name="bluetooth_pairing_request">Seznanitev z napravo %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Dovolite napravi %1$s da dostopa do vaših stikov in zgodovine klicev</string>
@@ -652,16 +652,16 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_profile_pan_nap">Skupna raba spletne povezave</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
-  <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
+  <string name="bluetooth_profile_sap">Dostop do zavihki SIM</string>
   <string name="bluetooth_quick_toggle_summary">Vklopi Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Ne vprašaj me več</string>
   <string name="bluetooth_rename_button">Preimenuj</string>
   <string name="bluetooth_rename_device">Preimenuj to napravo</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše kartice SIM. Z omogočanjem dostopa do kartice SIM bodo v napravi v času povezave onemogočene podatkovne povezave. Omogočim dostop za %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše zavihki SIM. Z omogočanjem dostopa do zavihki SIM bodo v napravi v času povezave onemogočene podatkovne povezave. Omogočim dostop za %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
-  <string name="bluetooth_sap_request">Zahteva za dostop do kartice SIM</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do zavihki SIM</string>
+  <string name="bluetooth_sap_request">Zahteva za dostop do zavihki SIM</string>
   <string name="bluetooth_scan_for_devices">Išči naprave</string>
   <string name="bluetooth_search_for_devices">Osveži</string>
   <string name="bluetooth_searching_for_devices">Iskanje ...</string>
@@ -1036,7 +1036,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="data_saver_title">Varčevanje s podatki</string>
   <string name="data_size_label">Podatki</string>
   <string name="data_summary_format">Porabljeno %1$s od %2$s</string>
-  <string name="data_switch_started">Preklop podatkovne kartice SIM. Lahko traja kakšno minuto …</string>
+  <string name="data_switch_started">Preklop podatkovne zavihki SIM. Lahko traja kakšno minuto …</string>
   <string name="data_usage_accounting">Operaterjeve meritve porabe podatkov so morda drugačne kot v napravi.</string>
   <string name="data_usage_app">Uporaba aplikacije</string>
   <string name="data_usage_app_info_label">PODATKI O APLIKACIJI</string>
@@ -1096,7 +1096,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="data_usage_menu_roaming">Podatkovno gostovanje</string>
   <string name="data_usage_menu_show_ethernet">Pokaži uporabo etherneta</string>
   <string name="data_usage_menu_show_wifi">Pokaži porabo za WiFi</string>
-  <string name="data_usage_menu_sim_cards">Kartice SIM</string>
+  <string name="data_usage_menu_sim_cards">Zavihki SIM</string>
   <string name="data_usage_menu_split_4g">Zasebna uporaba omrežja 4G</string>
   <string name="data_usage_metered_body">Izberite WiFi omrežja ki so prenosni hotspot. Aplikacijam se lahko omeji uporaba teh omrežij v ozadju. Aplikacije tudi lahko opozorijo pred uporabo teh omrežij za velike prenose.</string>
   <string name="data_usage_metered_mobile">Mobilna omrežja</string>
@@ -1154,7 +1154,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="debug_hw_overdraw">Prekoračitev območja GPE</string>
   <string name="debug_input_category">Vnos</string>
   <string name="debug_intent_sender_label">Odpr. nap. pošiljatelja namer</string>
-  <string name="debug_layout">Prikaz mej postavitve</string>
+  <string name="debug_layout">Prikaz mej nastavitve</string>
   <string name="debug_layout_summary">Pokaži meje obrezovanja, obrobe ipd.</string>
   <string name="debug_monitoring_category">Spremljanje</string>
   <string name="debug_networking_category">Omrežja</string>
@@ -1249,7 +1249,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="disconnect">Prekini povezavo</string>
   <string name="disconnected">Povezava prekinjena</string>
   <string name="display_auto_rotate_rotate">Zasukaj vsebino zaslona</string>
-  <string name="display_auto_rotate_stay_in_current">Ohrani trenutno postavitev</string>
+  <string name="display_auto_rotate_stay_in_current">Ohrani trenutno nastavitev</string>
   <string name="display_auto_rotate_stay_in_landscape">Ohrani ležeči pogled</string>
   <string name="display_auto_rotate_stay_in_portrait">Ohrani pokončni pogled</string>
   <string name="display_auto_rotate_title">Ko se naprava zasuka</string>
@@ -1584,7 +1584,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="force_resizable_activities">Vsili povečanje velikosti za aktivnosti</string>
   <string name="force_resizable_activities_summary">Poskrbi, da je ne glede na vrednosti v manifestu mogoče vsem aktivnostim povečati velikost za način z več okni.</string>
   <string name="force_rtl_layout_all_locales">Vsili od desne proti levi</string>
-  <string name="force_rtl_layout_all_locales_summary">Vsili smer postavitve na zaslonu od desne proti levi za vse jezike</string>
+  <string name="force_rtl_layout_all_locales_summary">Vsili smer nastavitve na zaslonu od desne proti levi za vse jezike</string>
   <string name="force_stop">Prisilna ustavitev</string>
   <string name="force_stop_dlg_text">Če boste vsilili zaustavitev aplikacije morda ne bo pravilno delovala.</string>
   <string name="force_stop_dlg_title">Želite prisilno ustaviti?</string>
@@ -2314,12 +2314,12 @@ Na tej napravi je več uporabnikov.
   <string name="mms_breathing_light_color_title">Barva LED indikatorja za sporočila</string>
   <string name="mms_breathing_light_freq_title">Frekvenca LED indikatorja za sporočila</string>
   <string name="mms_privacy_password_role_instruction">Vaši razgovori z zasebnimi stiki bodo shranjeni tukaj.</string>
-  <string name="mobile_connect_to_internet">Vzpostavite spletno povezavo</string>
+  <string name="mobile_connect_to_internet">Vznastavite spletno povezavo</string>
   <string name="mobile_data_always_on">Prenos podatkov v mobilnih omrežjih je vedno aktiven</string>
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mobile_insert_sim_card">Vstavite SIM in znova zaženite</string>
   <string name="mobile_no_provisioning_url">%1$s nima znanega spletnega mesta za omogočanje uporabe</string>
-  <string name="mobile_unknown_sim_operator">Neznan ponudnik kartice SIM</string>
+  <string name="mobile_unknown_sim_operator">Neznan ponudnik zavihki SIM</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
@@ -2878,7 +2878,7 @@ Na tej napravi je več uporabnikov.
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
   <string name="picture_color_mode">Način barv slike</string>
   <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
-  <string name="pin_failed">Postopek za odklepanje s kodo PIN kartice SIM ni uspel.</string>
+  <string name="pin_failed">Postopek za odklepanje s kodo PIN zavihki SIM ni uspel.</string>
   <string name="ping_test_label">Zaženi preizkus za preverjanje dosegljivosti (ping)</string>
   <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
   <string name="please_type_passphrase">Geslo</string>
@@ -2939,7 +2939,7 @@ Na tej napravi je več uporabnikov.
   <string name="preferred_app_settings_reset_button">Vrni</string>
   <string name="preferred_app_settings_reset_message">Privzete nastavitve aplikacij bodo povrnjene na tovarniške nastavitve MIUI.</string>
   <string name="preferred_application_title">Željeni %s</string>
-  <string name="preferred_application_warning_message">Zamenjava prvotne %1$s lahko poveča porabo, zmanjša hitrost in izpostavi telefon tveganju. Uporabite raje %2$s.</string>
+  <string name="preferred_application_warning_message">Zamenjava prvotne %1$s lahko poveča porabo, zmanjša hitrost in iznastavi telefon tveganju. Uporabite raje %2$s.</string>
   <string name="preferred_application_warning_replace">Zamenjaj</string>
   <string name="preferred_application_warning_title">Zamenjaj privzeto:  %s</string>
   <string name="preferred_application_warning_use_system">Uporabi %s</string>
@@ -2987,7 +2987,7 @@ Na tej napravi je več uporabnikov.
   <string name="print_settings_title">Tiskalne storitve</string>
   <string name="printer_info_desc">Več informacij o tem tiskalniku</string>
   <string name="priority_storage_app_settings">Podatki bodo shranjeni v %1$s</string>
-  <string name="priority_storage_settings_summary">Če ni zaznane SD kartice bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
+  <string name="priority_storage_settings_summary">Če ni zaznane SD zavihki bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
   <string name="privacy_applock">Zakl.  aplik.</string>
@@ -3242,8 +3242,8 @@ Na tej napravi je več uporabnikov.
   <string name="ringtone_title">Melodija zvonenja telefona</string>
   <string name="ringtone_uniform_setting_title">Nastavitve za dve SIM kartici</string>
   <string name="roaming">Podatkovno gostovanje</string>
-  <string name="roaming_disable">Med gostovanjem ne vzpostavi povezave s podatkovnimi storitvami</string>
-  <string name="roaming_enable">Med gostovanjem vzpostavi povezavo s podatkovnimi storitvami</string>
+  <string name="roaming_disable">Med gostovanjem ne vznastavi povezave s podatkovnimi storitvami</string>
+  <string name="roaming_enable">Med gostovanjem vznastavi povezavo s podatkovnimi storitvami</string>
   <string name="roaming_reenable_message">Podatkovna povezava ni mogoča ker ste zapustili domače omrežje, podatkovno gostovanje pa je izklopljeno.</string>
   <string name="roaming_reenable_title">Želite dovoliti podatkovno gostovanje?</string>
   <string name="roaming_turn_it_on_button">Vklopi</string>
@@ -3664,7 +3664,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="security_settings_fingerprint_preference_summary_none"/>
   <string name="security_settings_fingerprint_preference_title">Prstni odtis</string>
   <string name="security_settings_premium_sms_desc">Pošlji SMS za plačljive storitve</string>
-  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartice SIM, zaklepanje shrambe poverilnic</string>
+  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje zavihki SIM, zaklepanje shrambe poverilnic</string>
   <string name="security_settings_title">Varnost</string>
   <string name="see_all">Pokaži vse</string>
   <string name="see_less">Pokaži manj</string>
@@ -3675,7 +3675,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="select_logd_size_title">Velikosti medpomn. zapisov. dnevnika</string>
   <string name="select_sim_card">Izberite SIM kartico</string>
   <string name="select_sim_for_calls">Klic z uporabo</string>
-  <string name="select_sim_for_data">Izbira kartice SIM za prenos podatkov</string>
+  <string name="select_sim_for_data">Izbira zavihki SIM za prenos podatkov</string>
   <string name="select_ssid_type_title">Izberi SSID</string>
   <string name="select_usb_configuration_dialog_title">Izbira konfiguracije USB</string>
   <string name="select_usb_configuration_title">Izbira konfiguracije USB</string>
@@ -3776,12 +3776,12 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="silent_mode_title">Tihi način</string>
   <string name="sim_absent">Ni SIM/RUIM</string>
   <string name="sim_bad_pin">Napačen PIN</string>
-  <string name="sim_call_back_title">Povratni klic s privzete kartice SIM</string>
+  <string name="sim_call_back_title">Povratni klic s privzete zavihki SIM</string>
   <string name="sim_calls_always_use">Vedno uporabi to možnost za klice</string>
   <string name="sim_calls_ask_first_prefs_title">Vedno vprašaj</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Izberite kartico SIM</string>
-  <string name="sim_cards_changed_message">Kartice SIM so spremenjene</string>
+  <string name="sim_cards_changed_message">Zavihki SIM so spremenjene</string>
   <string name="sim_cards_changed_message_summary">Dotaknite se za nastavitev dejavnosti</string>
   <string name="sim_cellular_data_unavailable">Prenos podat. v mob. omrež. ni na voljo</string>
   <string name="sim_cellular_data_unavailable_summary">Dotaknite se da izberete SIM za prenos podatkov</string>
@@ -3794,8 +3794,8 @@ Mogoče je napačen PIN.</string>
   <string name="sim_change_succeeded">Sprememba kode PIN za kartico SIM je uspela</string>
   <string name="sim_disable_sim_lock">Odkleni kartico SIM</string>
   <string name="sim_editor_carrier">Operater</string>
-  <string name="sim_editor_color">Barva kartice SIM</string>
-  <string name="sim_editor_name">Ime kartice SIM</string>
+  <string name="sim_editor_color">Barva zavihki SIM</string>
+  <string name="sim_editor_name">Ime zavihki SIM</string>
   <string name="sim_editor_number">Številka</string>
   <string name="sim_editor_title">Reža za SIM %1$d</string>
   <string name="sim_enable_sim_lock">Zakleni kartico SIM</string>
@@ -3805,23 +3805,23 @@ Mogoče je napačen PIN.</string>
   <string name="sim_enter_old">Stara koda PIN za kartico SIM</string>
   <string name="sim_enter_pin">SIM PIN</string>
   <string name="sim_lock_change_not_supported">Ne morem spremeniti zaklepanja SIM.</string>
-  <string name="sim_lock_failed">"Zaklepanja kartice SIM ni mogoče spremeniti.
+  <string name="sim_lock_failed">"Zaklepanja zavihki SIM ni mogoče spremeniti.
 Morda je koda PIN napačna."</string>
   <string name="sim_lock_off">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_on">Zahtevaj kodo PIN za uporabo telefona</string>
-  <string name="sim_lock_settings">Nastavitve zaklepanja kartice SIM</string>
-  <string name="sim_lock_settings_category">Nastavi zaklepanje kartice SIM</string>
-  <string name="sim_lock_settings_title">Zaklepanje kartice SIM</string>
-  <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
+  <string name="sim_lock_settings">Nastavitve zaklepanja zavihki SIM</string>
+  <string name="sim_lock_settings_category">Nastavi zaklepanje zavihki SIM</string>
+  <string name="sim_lock_settings_title">Zaklepanje zavihki SIM</string>
+  <string name="sim_management_title">SIM zavihki in mobilna omrežja</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
-  <string name="sim_name_hint">Vnesite ime kartice SIM</string>
+  <string name="sim_name_hint">Vnesite ime zavihki SIM</string>
   <string name="sim_no_inserted_msg">Ni vstavljenih kartic SIM</string>
   <string name="sim_notification_summary">Dotaknite se za nastavitev</string>
   <string name="sim_notification_title">Zamenjava kartic SIM.</string>
   <string name="sim_other_call_settings">Druge nastavitve klicev</string>
   <string name="sim_outgoing_call_title">Kartica SIM za odhodne klice</string>
-  <string name="sim_pin_change">Spremeni kodo PIN kartice SIM</string>
+  <string name="sim_pin_change">Spremeni kodo PIN zavihki SIM</string>
   <string name="sim_pin_toggle">Zakleni kartico SIM</string>
   <string name="sim_pins_dont_match">Kodi PIN se ne ujemata</string>
   <string name="sim_pref_divider">Prednostna kartica SIM za:</string>
@@ -3835,7 +3835,7 @@ Morda je koda PIN napačna."</string>
   <string name="sim_setup_wizard_title">Kartici SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">Kartica SIM je prazna</string>
-  <string name="sim_status_title">Stanje kartice SIM</string>
+  <string name="sim_status_title">Stanje zavihki SIM</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
   <string name="single_key_use">Ena tipka</string>
   <string name="single_key_use_summary">Uporabite tipko Domov za opravila ki jih opravljata druge dve tipke</string>
@@ -3979,7 +3979,7 @@ Skrbnik lahko nadzira vašo dejavnost v omrežju, vključno z e-pošto, aplikaci
   <string name="status_serialno">Serijska številka</string>
   <string name="status_service_state">Stanje storitve</string>
   <string name="status_signal_strength">Moč signala</string>
-  <string name="status_sim">Status SIM kartice</string>
+  <string name="status_sim">Status SIM zavihki</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Dotaknite se da si ogledate podrobnosti.</string>
@@ -4008,7 +4008,7 @@ Za prikaz vse vsebine medija za pomnilnik ^1 tapnite \"Razišči\"."</string>
   <string name="storage_dialog_unmounted">"Medij za pomnilnik  ^1 je izpet na varen način, ampak je še dostopen. 
 
 Za uporabo medija za pomnilnik ^1 ga najprej vpnite."</string>
-  <string name="storage_dialog_unsupported">"Naprava ne podpira SD kartice ^1. 
+  <string name="storage_dialog_unsupported">"Naprava ne podpira SD zavihki ^1. 
 
 Najprej jo nastavite pred uporabo."</string>
   <string name="storage_external_title">Prenosni pomnilnik</string>
@@ -4222,7 +4222,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
 
 2.Nastavite hotspot v nastavitvah WiFi hotspot."</string>
   <string name="tethering_help_dialog_title">Pomoč</string>
-  <string name="tethering_no_sim_alert_title">Ni SIM kartice</string>
+  <string name="tethering_no_sim_alert_title">Ni SIM zavihki</string>
   <string name="tethering_no_sim_card_text">Namestite SIM kartico za deljenje povezave.</string>
   <string name="tethering_settings_not_available">Zamenjaj nastavitve deljenja povezave v privzetem prostoru</string>
   <string name="tethering_settings_summary">"Delite mobilno podatkovno povezavo vaše naprave preko USB ali mobilnega hotspota"</string>
@@ -4422,7 +4422,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanje na zun. zvoč. naprave USB</string>
   <string name="usb_charging_summary">Izključi vse ostala opravila USB povezovanja za pospešitev polnjenja.</string>
   <string name="usb_charging_title">Pospeši polnjenje</string>
-  <string name="usb_connection_category">Vzpostavi povezavo kot</string>
+  <string name="usb_connection_category">Vznastavi povezavo kot</string>
   <string name="usb_eject">Izključi USB pomnilnik</string>
   <string name="usb_eject_summary">Izključite USB pomnilnik da ga lahko varno odstranite</string>
   <string name="usb_format">Izbriši USB pomnilnik</string>
@@ -4658,7 +4658,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="vpn_cant_connect_message">"Ta aplikacije ne podpira VPN zmeraj vključen."</string>
   <string name="vpn_cant_connect_title">"%1$s se ne more povezati"</string>
   <string name="vpn_configure">Konfiguracija</string>
-  <string name="vpn_connect">Vzpostavi povezavo</string>
+  <string name="vpn_connect">Vznastavi povezavo</string>
   <string name="vpn_connect_to">Povezovanje z %s</string>
   <string name="vpn_continue">Naprej</string>
   <string name="vpn_create">Dodajanje profila VPN</string>
@@ -4695,7 +4695,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="vpn_on">Vključeno</string>
   <string name="vpn_password">Geslo</string>
   <string name="vpn_replace">Zamenjaj</string>
-  <string name="vpn_replace_always_on_vpn_message">S tem profilom je že povezano omrežje VPN. Če ste vzpostavili povezavo z drugim, bo obstoječe omrežje VPN zamenjano.</string>
+  <string name="vpn_replace_always_on_vpn_message">S tem profilom je že povezano omrežje VPN. Če ste vznastavili povezavo z drugim, bo obstoječe omrežje VPN zamenjano.</string>
   <string name="vpn_replace_always_on_vpn_title">Želite zamenjati obstoječe omrežje VPN?</string>
   <string name="vpn_routes">Poti za posredovanje (npr. 10.0.0.0/8)</string>
   <string name="vpn_routes_hint">npr. 10.0.0.0/8</string>
@@ -4777,7 +4777,7 @@ WiFi Assistant"</string>
   <string name="wifi_auto_connect">Samod. poveži</string>
   <string name="wifi_auto_connect_type_summary">Določite vrstu povezovanja na omrežje</string>
   <string name="wifi_auto_connect_type_title">Vrsta Samod. povezovanja</string>
-  <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vzpostavi povezavo z odprtimi omrežji visoke kakovosti</string>
+  <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vznastavi povezavo z odprtimi omrežji visoke kakovosti</string>
   <string name="wifi_automatically_connect_title">Samodejno uporabi odprto omrežje WiFi</string>
   <string name="wifi_automatically_manage_summary">Naj %1$s upravlja povezavo z omrežjem WiFi</string>
   <string name="wifi_automatically_manage_title">Samodejno upravljanje WiFi-ja</string>
@@ -4896,7 +4896,7 @@ WiFi Assistant"</string>
   <string name="wifi_limit_optimizations_summary">Omejitev porabe akum. za WiFi</string>
   <string name="wifi_menu_advanced">Napredno</string>
   <string name="wifi_menu_configure">Konfiguriraj</string>
-  <string name="wifi_menu_connect">Vzpostavi povezavo z omrežjem</string>
+  <string name="wifi_menu_connect">Vznastavi povezavo z omrežjem</string>
   <string name="wifi_menu_disconnect">Prekini povezavo z omrežjem</string>
   <string name="wifi_menu_forget">Pozabi omrežje</string>
   <string name="wifi_menu_modify">Spremeni omrežje</string>
@@ -4913,7 +4913,7 @@ WiFi Assistant"</string>
   <string name="wifi_network_prefix_length">Dolžina predpone omrežja</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_domain_warning">Določiti morate domeno.</string>
-  <string name="wifi_no_internet">Ni zaznanega dostopa do spleta; samodejna vnovična vzpostavitev povezave se ne bo izvedla.</string>
+  <string name="wifi_no_internet">Ni zaznanega dostopa do spleta; samodejna vnovična vznastavitev povezave se ne bo izvedla.</string>
   <string name="wifi_not_in_range">Ni v obsegu</string>
   <string name="wifi_notify_cmcc_connected_summary">Pokaži obvestilo ko je povezano na CMCC omrežje</string>
   <string name="wifi_notify_cmcc_connected_title">Obvestila CMCC omrežij</string>
@@ -5010,7 +5010,7 @@ WiFi Assistant"</string>
   <string name="wifi_setup_add_network">Dodaj omrežje</string>
   <string name="wifi_setup_back">Nazaj</string>
   <string name="wifi_setup_cancel">Prekliči</string>
-  <string name="wifi_setup_connect">Vzpostavi povezavo</string>
+  <string name="wifi_setup_connect">Vznastavi povezavo</string>
   <string name="wifi_setup_description_connected">Če želite nadaljevati namestitev, se dotaknite &lt;b&gt;Naprej&lt;/b&gt;".&amp;#268;e se &amp;#382;elite povezati z drugim omre&amp;#382;jem WiFi, se dotaknite "&lt;b&gt;Nazaj&lt;/b&gt;.</string>
   <string name="wifi_setup_description_connecting">Vzpostavljanje povezave lahko traja nekaj minut ...</string>
   <string name="wifi_setup_detail">O omrežju</string>
@@ -5028,7 +5028,7 @@ WiFi Assistant"</string>
   <string name="wifi_setup_status_new_network">Poveži se z novim omrežjem</string>
   <string name="wifi_setup_status_proceed_to_next">Naprej</string>
   <string name="wifi_setup_status_scanning">Iskanje omrežij ...</string>
-  <string name="wifi_setup_status_select_network">Dotaknite se omrežja da vzpostavite povezavo</string>
+  <string name="wifi_setup_status_select_network">Dotaknite se omrežja da vznastavite povezavo</string>
   <string name="wifi_setup_status_unsecured_network">Poveži z nezaščitenim omrežjem</string>
   <string name="wifi_setup_title">Namestitev povezave WiFi</string>
   <string name="wifi_setup_title_add_network">Dodajanje omrežja</string>
@@ -5183,7 +5183,7 @@ WiFi Assistant"</string>
   <string name="write_settings_title">Lahko spreminjajo sistemske nastavitve</string>
   <string name="write_system_settings">Spreminjanje sist. nastavitev</string>
   <string name="write_tag">Zapiši</string>
-  <string name="wrong_pin_code_pukked">Napačna PIN koda kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
+  <string name="wrong_pin_code_pukked">Napačna PIN koda zavihki SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_money_service">Mi Krediti</string>

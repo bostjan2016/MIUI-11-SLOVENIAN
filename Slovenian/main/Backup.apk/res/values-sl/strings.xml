@@ -103,7 +103,7 @@ nastavitev in aplikacij"</string>
   <string name="compute_delete_contact_info">Pridobivanje podrobnosti…</string>
   <string name="confirm_exit_link">Izhod</string>
   <string name="confirm_exit_link_cancel">"Ostani"</string>
-  <string name="confirm_exit_link_msg">"Izhod iz aplikacije bo prekinil trenutni prenos. Ponovno boste morali vzpostaviti povezavo med napravama. Izhod iz aplikacije?"</string>
+  <string name="confirm_exit_link_msg">"Izhod iz aplikacije bo prekinil trenutni prenos. Ponovno boste morali vznastaviti povezavo med napravama. Izhod iz aplikacije?"</string>
   <string name="confirm_exit_link_title">Prekinjanje prenosa</string>
   <string name="connect_soft_ap_label">Povezovanje z novo napravo…</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
@@ -240,7 +240,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="never">Nikoli</string>
   <string name="new_backup">Izdelaj var. kopijo</string>
   <string name="no_encrypt_password">Brez gesla</string>
-  <string name="no_network">Povezave ni mogoče vzpostaviti</string>
+  <string name="no_network">Povezave ni mogoče vznastaviti</string>
   <string name="note_title">Opombe</string>
   <string name="nothing_searched">Ni zadetkov</string>
   <string name="notif_backup_complete_title">Var. kopija uspešno dokončana</string>
@@ -468,7 +468,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_install_guide_step2_content">Po končani namestitvi, tapnite \"Začetek\".</string>
   <string name="trans_install_guide_step2_title">Korak 2</string>
   <string name="trans_intro_desc_1">"Na Mi telefonu se povežite na WiFi. Tapnite \"Sem prejemnik\".Potem izberite "Apple naprava". Prijavite se v iCloud in uvozite podatke."</string>
-  <string name="trans_intro_desc_10">Tapnite \"Povežite se z pomočjo QR kode\" na novi napravi in skenirajte QR kodo da vzpostavite povezavo.</string>
+  <string name="trans_intro_desc_10">Tapnite \"Povežite se z pomočjo QR kode\" na novi napravi in skenirajte QR kodo da vznastavite povezavo.</string>
   <string name="trans_intro_desc_3">Prekličite prenos, zaprite Mi Mover in začnite ponovno. Dvojne datoteke bodo prepisane med ponovnim prenosom.</string>
   <string name="trans_intro_desc_4">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke. Nekatere nove naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke."</string>
@@ -544,8 +544,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_progress_subdescript_transing_sender">Pošiljanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Sprejem datotek, %s končano</string>
   <string name="trans_progress_subdescript_transingsd_sender">Pošiljanje datotek, %s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD kartice %1$s, %2$s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD kartice %1$s, %2$s končano</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD zavihki %1$s, %2$s končano</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD zavihki %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
   <string name="trans_receiver">"Sem prejemnik"</string>
   <string name="trans_receiver_time_remained">"%s preostalo.
@@ -622,7 +622,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="user_notice_title">Pozor</string>
   <string name="view_password_description">Prikaži geslo</string>
   <string name="wait_link">"Povežite svojo staro napravo na ta hotspot.
-Ne zapuščajte strani dokler se ne vzpostavi povezava."</string>
+Ne zapuščajte strani dokler se ne vznastavi povezava."</string>
   <string name="waiting">Samo trenutek……</string>
   <string name="wifi_title">WiFi nastavitve</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>

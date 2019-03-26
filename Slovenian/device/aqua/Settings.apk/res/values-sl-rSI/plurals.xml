@@ -45,8 +45,8 @@
         <item quantity="one">Geslo mora imeti vsaj %d znak, ki ni črka.</item>
     </plurals>
     <plurals name="wrong_pin_code">
-        <item quantity="other">Napačna koda PIN kartice SIM. Na voljo imate še %d poskusov.</item>
-        <item quantity="one">Napačna koda PIN kartice SIM. Na voljo imate še %d poskus.</item>
+        <item quantity="other">Napačna koda PIN zavihki SIM. Na voljo imate še %d poskusov.</item>
+        <item quantity="one">Napačna koda PIN zavihki SIM. Na voljo imate še %d poskus.</item>
     </plurals>
     <plurals name="uri_permissions_text">
         <item quantity="other">%d elementov</item>

@@ -3,8 +3,8 @@
     <plurals name="pinpuk_attempts">
         <item quantity="other">Na voljo imate še %d poskusov. Potem se bo kartica SIM zaklenila.</item>
         <item quantity="one">Na voljo imate še %d poskus. Potem se bo kartica SIM zaklenila.</item>
-        <item quantity="few">Imate še %d poskusov pred zaklepanjem SIM kartice.</item>
-        <item quantity="many">Imate še %d poskusov pred zaklepanjem SIM kartice.</item>
+        <item quantity="few">Imate še %d poskusov pred zaklepanjem SIM zavihki.</item>
+        <item quantity="many">Imate še %d poskusov pred zaklepanjem SIM zavihki.</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Zadnjih %d dni</item>

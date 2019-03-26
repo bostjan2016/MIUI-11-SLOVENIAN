@@ -42,7 +42,7 @@
   <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
   <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika uporabite nastavitve brskalnika.</string>
   <string name="clear_shortcuts_summary">Počisti bližnjice do nedavno izbranih predlogov iskanja</string>
-  <string name="common_category_entrance">Kartice</string>
+  <string name="common_category_entrance">Zavihki</string>
   <string name="common_history">Povijest pretraživanja</string>
   <string name="common_history_first">Prioritize search history</string>
   <string name="common_history_first_subtitle">Če je to opravilo izključeno se bo najprej pokazala zgodovina iskanja</string>

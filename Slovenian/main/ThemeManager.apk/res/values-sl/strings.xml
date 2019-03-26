@@ -287,7 +287,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="mix_icons_option_des">Ikona zač. zaslona. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_lockscreen_option_des">Slika za ozadje in ura. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_tip">Komponente teme</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartice.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM zavihki.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne kaži več"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Težave s kompatibilnostjo</string>
@@ -545,7 +545,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="resource_trial_fail_cancel">V redu</string>
   <string name="resource_trial_fail_go_settings">Nastavitve</string>
   <string name="resource_trial_fail_message">Poskrbite da je vaša sistemska ura nastavljena na pravilen čas.</string>
-  <string name="resource_trial_fail_title">Ni uspelo vzpostaviti poskusne seje</string>
+  <string name="resource_trial_fail_title">Ni uspelo vznastaviti poskusne seje</string>
   <string name="resource_trial_hours">Preskusna doba : %1$d h</string>
   <string name="resource_trial_hours_minutes">(Preskusna doba :%1$dh %2$dm)</string>
   <string name="resource_trial_minutes">(Preskusna doba : %1$d m)</string>
@@ -641,7 +641,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="theme_favorite_waiting">Trenutek…</string>
   <string name="theme_fresh_man_notifaction">Nove teme na voljo</string>
   <string name="theme_immediately_apply_tip">Uporabim posodobitev tem zdaj?</string>
-  <string name="theme_import_from_sdcard">Uvoz iz SD kartice</string>
+  <string name="theme_import_from_sdcard">Uvoz iz SD zavihki</string>
   <string name="theme_is_external_priority_storage">Shrani na SD kartico</string>
   <string name="theme_is_external_priority_storage_summary">Aplikacija Teme se bo ponovno zagnala za uveljavitev sprememb</string>
   <string name="theme_multiple_button_title_customize">Nastavi</string>

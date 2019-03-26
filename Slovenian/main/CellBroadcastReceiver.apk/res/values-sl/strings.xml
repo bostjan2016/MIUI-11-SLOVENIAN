@@ -104,7 +104,7 @@
   <string name="enable_emergency_alerts_title">Vklop besedil</string>
   <string name="enable_etws_test_alerts_summary">Prikaži preskusne oddaje za opozorilni sistem o potresih in cunamijih</string>
   <string name="enable_etws_test_alerts_title">Pokaži preskusne oddaje za ETWS</string>
-  <string name="error_finish_dialog_title">Napaka omrežja ali SIM kartice.</string>
+  <string name="error_finish_dialog_title">Napaka omrežja ali SIM zavihki.</string>
   <string name="error_updating_title">Napaka nastavitev klica</string>
   <string name="etws_earthquake_and_tsunami_warning">Opozorilo o potresu in cunamiju</string>
   <string name="etws_earthquake_warning">Opozorilo o potresu</string>

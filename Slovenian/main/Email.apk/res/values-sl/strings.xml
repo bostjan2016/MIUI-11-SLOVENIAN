@@ -93,8 +93,8 @@
   <string name="account_setup_failed_check_credentials_message">Strežnik je odgovoril z napako. Preverite vaše uporabniško ime in geslo, nato poskusite znova.</string>
   <string name="account_setup_failed_dlg_auth_message">Uporabniško ime ali geslo je napačno.</string>
   <string name="account_setup_failed_dlg_bar_title">Načini prijave za %s</string>
-  <string name="account_setup_failed_dlg_certificate_message">Ne morem vzpostaviti varne povezave s strežnikom.</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne morem vzpostaviti varne povezave s strežnikom.
+  <string name="account_setup_failed_dlg_certificate_message">Ne morem vznastaviti varne povezave s strežnikom.</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne morem vznastaviti varne povezave s strežnikom.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">"Vaš račun je zaklenjen. Potrdite napravo s pomočjo programa QQ Security ali odstranite zaščito"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Uredi podrobnosti</string>
@@ -663,7 +663,7 @@
   <string name="net_check_title">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovo.</string>
   <string name="network_error">Ni povezave</string>
   <string name="network_invaild">"Ne morem se povezati z omrežjem"</string>
-  <string name="network_not_available">Povezave ni mogoče vzpostaviti</string>
+  <string name="network_not_available">Povezave ni mogoče vznastaviti</string>
   <string name="network_tip">Kontrola prepoznave ni uspela, preverite omrežno povezavo</string>
   <string name="network_try_again">Preverite omrežje</string>
   <string name="network_unavailable">Omrežje ni na voljo</string>
@@ -796,7 +796,7 @@ Poskusite z ostalo pošto."</string>
   <string name="policy_require_encryption">Zahtevaj kriptiranje naprave</string>
   <string name="policy_require_manual_sync_roaming">Dovoli samo ročno sinhronizacijo med gostovanjem</string>
   <string name="policy_require_password">Zahtevaj geslo naprave</string>
-  <string name="policy_require_sd_encryption">Zahtevaj enkripcijo SD kartice</string>
+  <string name="policy_require_sd_encryption">Zahtevaj enkripcijo SD zavihki</string>
   <string name="policy_require_smime">Zahtevaj SMIME sporočila</string>
   <string name="policy_screen_timeout">Zahtevaj da naprava zaklene zaslon</string>
   <string name="policy_text_truncation">Omeji velikost besedila v sporočilu</string>
@@ -927,7 +927,7 @@ Poskusite z ostalo pošto."</string>
   <string name="save_this_new_signature">Shranim nov podpis?</string>
   <string name="saved">Shranjeno, %s</string>
   <string name="saving">Shranjujem</string>
-  <string name="sdcard_cannot_use">"Ne morem uporabiti SD kartice"</string>
+  <string name="sdcard_cannot_use">"Ne morem uporabiti SD zavihki"</string>
   <string name="search_bar_text">Iskanje sporočil in stikov</string>
   <string name="search_hint">Preišči pošto</string>
   <string name="search_result">Zadetki</string>

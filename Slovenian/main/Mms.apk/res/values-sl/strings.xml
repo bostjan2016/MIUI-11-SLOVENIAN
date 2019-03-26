@@ -184,10 +184,10 @@
   <string name="dialog_message_fake_cell_detect_error">Popravim informacije o tem sporočilu? Za to mora MIUI prebrati številko telefona (%1$s), vsebino sporočila in informacije o najbližji lokaciji njegovih strežnikov.</string>
   <string name="dialog_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe.</string>
   <string name="dialog_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
-  <string name="dialog_message_networking">Sporočila se morajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznati ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
-  <string name="dialog_message_networking_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
-  <string name="dialog_message_networking_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
-  <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge usluge. Se strinjate?</string>
+  <string name="dialog_message_networking">Sporočila se morajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznati ID-ja pošiljatelja in druge storitve. Se strinjate?</string>
+  <string name="dialog_message_networking_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge storitve. Se strinjate?</string>
+  <string name="dialog_message_networking_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge storitve. Se strinjate?</string>
+  <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge storitve. Se strinjate?</string>
   <string name="dialog_message_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
   <string name="dialog_message_sms_report">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite. Uporabile se bodo samo za izboljšanje MIUI spam filtra."</string>
   <string name="dialog_title_fake_cell_detect_error">Popravi</string>
@@ -287,7 +287,7 @@
   <string name="group_view_settings_not_memeber">"Ne morem pregledati stvari. Nisi član tega skupinskega razgovora."</string>
   <string name="guild_add_attachments">Dotaknite se da dodate smejkote in drugo vsebino</string>
   <string name="guild_add_recipients">Dotaknite se da dodate prejemnike iz imenika</string>
-  <string name="guild_msim_switcher">Dotaknite se za menjavo SIM kartice</string>
+  <string name="guild_msim_switcher">Dotaknite se za menjavo SIM zavihki</string>
   <string name="has_invalid_recipient">Neveljavni prejemniki: %1$s</string>
   <string name="hidden_sender_address">Skrit pošiljateljev naslov</string>
   <string name="hint_search_sms">SMS-ov: %d</string>
@@ -402,13 +402,13 @@
   <string name="mx_activate_hint_sim_change">Vaš operater vam bo zračunal za sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo Mi Sporočila.</string>
   <string name="mx_activate_int_hint_malformed_info">Vaš operater vam bo zračunal za mednarodna sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo Mi Sporočila.</string>
   <string name="mx_activate_int_hint_server">Vaš operater vam bo zračunal za mednarodna sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo Mi Sporočila.</string>
-  <string name="mx_activate_int_hint_sim_change">Kaže da ste zamenjali SIM kartice. Vaš operater vam bo zračunal za sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo MI Sporočila.</string>
+  <string name="mx_activate_int_hint_sim_change">Kaže da ste zamenjali SIM zavihki. Vaš operater vam bo zračunal za sporočila SMS ki bodo mogoče uporabljena za ponovno aktivacijo MI Sporočila.</string>
   <string name="mx_activate_network_allow_notice">Ta storitev bo uporabljala omrežje. Se strinjate?</string>
   <string name="mx_activate_status_desc_activating_now">Aktiviranje…</string>
   <string name="mx_activate_status_desc_check_net_connection">"Ne morem se povezati na omrežje"</string>
   <string name="mx_activate_status_desc_fail">"Ne morem aktivirati Mi sporočila"</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">Pošiljam SMS aktivacije…</string>
-  <string name="mx_activate_status_desc_query_activte_info">Preverjam podrobnosti SIM kartice…</string>
+  <string name="mx_activate_status_desc_query_activte_info">Preverjam podrobnosti SIM zavihki…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Številka telefona ki ste jo vnesli ni veljavna</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Ne morem aktivirati Mi sporočila"</string>
   <string name="mx_and_voip_enable">Mi sporočil &amp; Voice</string>
@@ -559,7 +559,7 @@
   <string name="pref_title_fwd_sender_info">Posreduj informacije pošiljatelja</string>
   <string name="pref_title_hide_festival">Skrij opravila kitajskega jezika</string>
   <string name="pref_title_manage_sim_messages">Upravljanje sporočil na kartici SIM</string>
-  <string name="pref_title_miui_card">Pošlji preko kartice</string>
+  <string name="pref_title_miui_card">Pošlji preko zavihki</string>
   <string name="pref_title_mms_auto_retrieval">Samodejno pridobi MMS</string>
   <string name="pref_title_mms_delete">Meja večpredstavnostnega sporočila</string>
   <string name="pref_title_mms_read_reports">Preberi sporočila</string>
@@ -576,7 +576,7 @@
   <string name="pref_title_sms_validity_period">Veljavnost SMS-a</string>
   <string name="pref_title_storage_status">Status shrambe sporočil</string>
   <string name="pref_title_system_mms_priority">Nastavi za privzeto</string>
-  <string name="pref_title_vcard">Pošlji preko vKartice</string>
+  <string name="pref_title_vcard">Pošlji preko vZavihki</string>
   <string name="pref_title_wake_up_screen">Zbudi zaslon</string>
   <string name="preferences_title">Nastavitve</string>
   <string name="prepare_send">Priprava za pošiljanje...</string>

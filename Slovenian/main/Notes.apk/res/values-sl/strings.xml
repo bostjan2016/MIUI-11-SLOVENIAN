@@ -259,7 +259,7 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_refuse_to_use_contact">"Dovoljenja za stike so omejena.
 Dovolite aplikaciji Beležke branje vaših stikov in računov v tej napravi."</string>
   <string name="toast_refuse_to_use_external_storage">"Dovoljenja za shrambo so omejena.
-Dovolite aplikaciji Beležke branje vsebine SD kartice."</string>
+Dovolite aplikaciji Beležke branje vsebine SD zavihki."</string>
   <string name="toast_refuse_to_use_phone_state">"Dovoljenja za telefon su omejena.
 Dovolite aplikaciji Beležke branje statusa in identitete telefona."</string>
   <string name="toast_refuse_to_use_record_audio">"Dovoljenja za mikrofon su omejena.

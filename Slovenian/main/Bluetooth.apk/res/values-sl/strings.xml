@@ -34,7 +34,7 @@
   <string name="bluetooth_sap_notif_disconnect_button">Prekini povezavo</string>
   <string name="bluetooth_sap_notif_disconnecting">Čakanje da klient prekine povezavo.</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Prisilno prekini povezavo</string>
-  <string name="bluetooth_sap_notif_message">Želite postaviti zahtevo klientu da naj prekine povezavo?</string>
+  <string name="bluetooth_sap_notif_message">Želite nastaviti zahtevo klientu da naj prekine povezavo?</string>
   <string name="bluetooth_sap_notif_ticker">Pristop SIM-u z Bluetoothom</string>
   <string name="bluetooth_sap_notif_title">Pristop SIM-u z Bluetoothom</string>
   <string name="bluetooth_search_for_devices">Išči naprave</string>

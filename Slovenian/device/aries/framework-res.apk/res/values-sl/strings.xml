@@ -220,7 +220,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
   <string name="emergency_calls_only">Le klici v sili</string>
   <string name="emptyPhoneNumber">(Ni telefonske številke)</string>
-  <string name="enablePin">Ni uspelo. Omogočite zaklepanje kartice SIM/RUIM.</string>
+  <string name="enablePin">Ni uspelo. Omogočite zaklepanje zavihki SIM/RUIM.</string>
   <string name="enable_accessibility_canceled">Omogočanje pripomočkov za ljudi s posebnimi potrebami preklicano.</string>
   <string name="enable_explore_by_touch_warning_message">Storitev %1$s želi omogočiti raziskovanje z dotikom. Ko je raziskovanje z dotikom vklopljeno lahko slišite ali vidite opise tega kar je pod vašim prstom, ali izvajate poteze za interakcijo s telefonom.</string>
   <string name="enable_explore_by_touch_warning_title">Vklopim raziskovanje z dotikom?</string>
@@ -305,8 +305,8 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="httpError">Napaka v omrežju.</string>
   <string name="httpErrorAuth">Pristnosti ni bilo mogoče preveriti.</string>
   <string name="httpErrorBadUrl">Strani ni mogoče odpreti ker povezava ni veljavna.</string>
-  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogoče vzpostaviti.</string>
-  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogoče vzpostaviti.</string>
+  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogoče vznastaviti.</string>
+  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogoče vznastaviti.</string>
   <string name="httpErrorFile">Do datoteke ni bilo mogoče dostopati.</string>
   <string name="httpErrorFileNotFound">Zahtevane datoteke ni bilo mogoče najti.</string>
   <string name="httpErrorIO">S strežnikom ni bilo mogoče komunicirati. Poskusite znova pozneje.</string>
@@ -424,7 +424,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_puk_enter_puk_hint">Kartica SIM je onemogočena. Če želite nadaljevati vnesite kodo PUK. Za dodatne informacije se obrnite na operaterja.</string>
   <string name="kg_reordering_delete_drop_target_text">Odstrani</string>
   <string name="kg_sim_pin_instructions">Vnesite PIN za kartico SIM</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Odklepanje zavihki SIM ...</string>
   <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
@@ -491,9 +491,9 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Če želite odkleniti napravo ali opraviti klic v sili pritisnite meni.</string>
   <string name="lockscreen_low_battery">Priključite napajalnik.</string>
   <string name="lockscreen_missing_sim_instructions">Vstavite kartico SIM.</string>
-  <string name="lockscreen_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite veljavno kartico SIM.</string>
-  <string name="lockscreen_missing_sim_message">V telefonu ni kartice SIM.</string>
-  <string name="lockscreen_missing_sim_message_short">Ni kartice SIM</string>
+  <string name="lockscreen_missing_sim_instructions_long">Ni zavihki SIM ali je ni mogoče prebrati. Vstavite veljavno kartico SIM.</string>
+  <string name="lockscreen_missing_sim_message">V telefonu ni zavihki SIM.</string>
+  <string name="lockscreen_missing_sim_message_short">Ni zavihki SIM</string>
   <string name="lockscreen_network_locked_message">Omrežje je zaklenjeno</string>
   <string name="lockscreen_password_wrong">Poskusite znova</string>
   <string name="lockscreen_pattern_correct">Pravilno.</string>
@@ -509,7 +509,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sim_locked_message">Kartica SIM je zaklenjena.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Preberite uporabniški priročnik ali se obrnite na oddelek za pomoč uporabnikom.</string>
   <string name="lockscreen_sim_puk_locked_message">Kartica SIM je zaklenjena s kodo PUK.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje zavihki SIM ...</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
@@ -652,7 +652,7 @@ Znova poskusite čez %d s."</string>
   <string name="month_day_year" formatted="false">%d. %B %Y</string>
   <string name="more_item_label">Več</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
-  <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>
+  <string name="needPuk2">Če želite odstraniti blokiranje zavihki SIM vnesite PUK2.</string>
   <string name="network_available_sign_in">Prijava v omrežje</string>
   <string name="new_app_action">Zaženi %1$s</string>
   <string name="new_app_description">Ustavi prejšnjo aplikacijo brez shranjevanja.</string>
@@ -722,7 +722,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindGadget">Aplikaciji omogoča da sistemu ukaže katere pripomočke je mogoče uporabiti s katerim programom. S tem dovoljenjem lahko aplikacije drugim aplikacijam dajo dostop do osebnih podatkov. Ni za uporabo z navadnimi aplikacijami.</string>
   <string name="permdesc_bindInputMethod">Lastniku omogoči da se poveže z vmesnikom načina vnosa najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindJobService">To dovoljuje sistemu Android izvajanje aplikacije v ozadju na zahtevo.</string>
-  <string name="permdesc_bindNfcService">Dovoljuje da se lastnik poveže z aplikacijami ki posnamejo kartice za NFC. Pri navadnih aplikacijah to ne bi smelo biti potrebno.</string>
+  <string name="permdesc_bindNfcService">Dovoljuje da se lastnik poveže z aplikacijami ki posnamejo zavihki za NFC. Pri navadnih aplikacijah to ne bi smelo biti potrebno.</string>
   <string name="permdesc_bindNotificationListenerService">Lastniku omogoča povezovanje z vmesnikom storitve poslušalca obvestil najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindPackageVerifier">Imetniku omogoča zahtevanje preverjanja paketov. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindPrintService">Lastniku omogoča povezovanje z vmesnikom storitve tiskanja najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
@@ -763,8 +763,8 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_changeNetworkState">Aplikaciji omogoča spreminjanje stanja povezljivosti omrežja.</string>
   <string name="permdesc_changeTetherState">Aplikaciji dovoljuje spreminjanje stanja povezljivosti posredniškega omrežja.</string>
   <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju WiFi z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
-  <string name="permdesc_changeWifiState">Aplikaciji omogoča da vzpostavi povezavo z dostopnimi točkami WiFi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WiFi.</string>
-  <string name="permdesc_changeWimaxState">Aplikaciji omogoča da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
+  <string name="permdesc_changeWifiState">Aplikaciji omogoča da vznastavi povezavo z dostopnimi točkami WiFi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WiFi.</string>
+  <string name="permdesc_changeWimaxState">Aplikaciji omogoča da vznastavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
   <string name="permdesc_checkinProperties">Aplikaciji omogoča dostop za branje/pisanje lastnosti prenesenih iz prijave. Ni za uporabo z navadnimi aplikacijami.</string>
   <string name="permdesc_clearAppCache">Aplikaciji omogoča sproščanje pomnilnika telefona tako da izbriše datoteke v imenikih predpomnilnika drugih aplikacij. To lahko povzroči počasnejši zagon drugih aplikacij, saj morajo znova prenesti svoje podatke.</string>
   <string name="permdesc_clearAppUserData">Aplikaciji omogoča izbris podatkov uporabnika.</string>
@@ -886,7 +886,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_setAnimationScale">Aplikaciji omogoča da kadarkoli spremeni splošno hitrost animacije (hitrejše ali počasnejše animacije).</string>
   <string name="permdesc_setDebugApp">Aplikaciji omogoča vklop opravila za odpravljanje napak za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za zapiranje drugih aplikacij.</string>
   <string name="permdesc_setInputCalibration">Aplikaciji dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
-  <string name="permdesc_setKeyboardLayout">Aplikaciji omogoča da kadarkoli spremeni postavitev tipkovnice. Običajne aplikacije tega ne potrebujejo.</string>
+  <string name="permdesc_setKeyboardLayout">Aplikaciji omogoča da kadarkoli spremeni nastavitev tipkovnice. Običajne aplikacije tega ne potrebujejo.</string>
   <string name="permdesc_setOrientation">Aplikaciji omogoča da kadarkoli zasuka zaslon. Ne uporabljajte za navadne aplikacije.</string>
   <string name="permdesc_setPointerSpeed">Aplikaciji omogoča spreminjanje hitrosti kazalca miške ali sledilne ploščice. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setPreferredApplications">Aplikaciji omogoča spreminjanje priljubljenih aplikacij. Zlonamerne aplikacije lahko s tem neopazno spremenijo aplikacije ki se izvajajo tako da se izdajajo za obstoječe aplikacije in zbirajo osebne podatke.</string>
@@ -1014,7 +1014,7 @@ za račun %s."</string>
   <string name="permlab_accessNotifications">dostop do obvestil</string>
   <string name="permlab_accessSurfaceFlinger">dostop do storitve SurfaceFlinger</string>
   <string name="permlab_accessWifiState">prikaz povezav WiFi</string>
-  <string name="permlab_accessWimaxState">vzpostavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
+  <string name="permlab_accessWimaxState">vznastavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
   <string name="permlab_access_keyguard_secure_storage">Dostop do varne shrambe Keyguard.</string>
   <string name="permlab_accountManagerService">opravljanje vloge AccountManagerService</string>
   <string name="permlab_addVoicemail">dodajanje odzivnika</string>
@@ -1075,7 +1075,7 @@ za račun %s."</string>
   <string name="permlab_changeNetworkState">spreminjanje povezljivosti omrežja</string>
   <string name="permlab_changeTetherState">Spreminjanje posredniške povezljivosti</string>
   <string name="permlab_changeWifiMulticastState">dovoljevanje sprejema večvrstnega brezžičnega oddajanja</string>
-  <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem WiFi in prekinitev povezave z njim</string>
+  <string name="permlab_changeWifiState">vznastavitev povezave z omrežjem WiFi in prekinitev povezave z njim</string>
   <string name="permlab_changeWimaxState">Sprememba stanja omrežja WiMAX</string>
   <string name="permlab_checkinProperties">dostop do lastnosti sprostitve</string>
   <string name="permlab_clearAppCache">brisanje vseh podatkov predpomnilnika aplikacij</string>
@@ -1198,7 +1198,7 @@ za račun %s."</string>
   <string name="permlab_setAnimationScale">spreminjanje splošne hitrosti animacij</string>
   <string name="permlab_setDebugApp">omogočanje iskanja in odpravljanja napak v aplikaciji</string>
   <string name="permlab_setInputCalibration">sprememba umerjanja vhodne naprave</string>
-  <string name="permlab_setKeyboardLayout">spreminjanje postavitve tipkovnice</string>
+  <string name="permlab_setKeyboardLayout">spreminjanje nastavitve tipkovnice</string>
   <string name="permlab_setOrientation">spreminjanje usmerjenosti zaslona</string>
   <string name="permlab_setPointerSpeed">spreminjanje hitrosti kazalca</string>
   <string name="permlab_setPreferredApplications">nastavitev prednostnih aplikacij</string>
@@ -1505,7 +1505,7 @@ za račun %s."</string>
   <string name="usb_storage_activity_title">Masovni pomnilnik USB</string>
   <string name="usb_storage_button_mount">Vklop pomnilnika USB</string>
   <string name="usb_storage_error_message">Težava pri uporabi pomnilnika USB kot masovnega pomnilnika USB.</string>
-  <string name="usb_storage_message">Z računalnikom ste vzpostavili povezavo z USB-jem. Dotaknite se spodnjega gumba če želite kopirati datoteke med računalnikom in pomnilnikom USB.</string>
+  <string name="usb_storage_message">Z računalnikom ste vznastavili povezavo z USB-jem. Dotaknite se spodnjega gumba če želite kopirati datoteke med računalnikom in pomnilnikom USB.</string>
   <string name="usb_storage_notification_message">Dotaknite se če želite kopirati datoteke v računalnik ali iz njega.</string>
   <string name="usb_storage_notification_title">Povezava USB je vzpostavljena</string>
   <string name="usb_storage_stop_button_mount">Izklopi pomnilnik USB</string>

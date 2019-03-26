@@ -175,7 +175,7 @@
   <string name="edit_record_category">"Kategorija: "</string>
   <string name="edit_record_label">Podrobnosti</string>
   <string name="empty_card_btn">Odpri aplikacijo</string>
-  <string name="empty_card_tip">"Kaže da niste prijavljeni ali pa še niste nastavili te kartice."</string>
+  <string name="empty_card_tip">"Kaže da niste prijavljeni ali pa še niste nastavili te zavihki."</string>
   <string name="empty_card_title">Ni podatkov</string>
   <string name="empty_fav_card_btn">Vse priljubljene</string>
   <string name="empty_fav_card_tip">Ni priljubljenih.</string>
@@ -307,7 +307,7 @@
   <string name="launch_app">App recommendations</string>
   <string name="launch_change_order">Spremeni zaporedje</string>
   <string name="launch_else">Ostalo</string>
-  <string name="launch_enable">Prikaži hitro dostopne kartice</string>
+  <string name="launch_enable">Prikaži hitro dostopne zavihki</string>
   <string name="launch_function">Izberitega opravila</string>
   <string name="launch_label">Hitri dostop</string>
   <string name="launch_no_dapp_dialog_reset">Nastavitve Dvojnih aplikacij</string>
@@ -415,7 +415,7 @@
   <string name="note_parent">Beležke</string>
   <string name="notification_express_app_open">Vključi</string>
   <string name="notification_express_content">Sledite naročilom z uporabo shrambe za aplikacije</string>
-  <string name="notification_express_title">Vklopite kartice nakupovalnih aplikacij</string>
+  <string name="notification_express_title">Vklopite zavihki nakupovalnih aplikacij</string>
   <string name="notification_title">Dodano med priljubljene</string>
   <string name="ola_micro">Micro</string>
   <string name="ola_mini">Mini</string>
@@ -486,7 +486,7 @@
   <string name="setting_btn_added">Dodano</string>
   <string name="setting_btn_remove">Izbriši kartico</string>
   <string name="setting_btn_setting">Nastavitve</string>
-  <string name="setting_cards_all_added">Vse kartice dodane</string>
+  <string name="setting_cards_all_added">Vse zavihki dodane</string>
   <string name="setting_cards_more">Več kartic</string>
   <string name="setting_common_private">Varnost &amp; zasebnost</string>
   <string name="setting_cricket_match">Kriket</string>

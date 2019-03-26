@@ -136,7 +136,7 @@
   <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
-  <string name="lock_screen_no_sim_card">Ni SIM kartice</string>
+  <string name="lock_screen_no_sim_card">Ni SIM zavihki</string>
   <string name="lock_wallpaper_enter">Vstopi</string>
   <string name="lock_wallpaper_learn_more">Več</string>
   <string name="lock_wallpaper_see_more">Več</string>

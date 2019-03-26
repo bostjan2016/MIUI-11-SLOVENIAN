@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Izbrišem stike iz SIM kartice: %1$d?</item>
-        <item quantity="one">Izbrišem %1$d stik iz SIM kartice?</item>
+        <item quantity="other">Izbrišem stike iz SIM zavihki: %1$d?</item>
+        <item quantity="one">Izbrišem %1$d stik iz SIM zavihki?</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
         <item quantity="other">SIM kartica lahko shrani stikov: %1$d.</item>

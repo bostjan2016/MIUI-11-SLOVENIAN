@@ -120,8 +120,8 @@
   <string name="data_wipe_from_device">Izbriši iz te naprave</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_app">Izbriši aplikacijo</string>
-  <string name="delete_bank_card_message">Mi Pay bančne kartice in NFC kartice bodo izbrisane ko se odjavite.</string>
-  <string name="delete_bank_card_title">Brisanje vaše bančne kartice</string>
+  <string name="delete_bank_card_message">Mi Pay bančne zavihki in NFC zavihki bodo izbrisane ko se odjavite.</string>
+  <string name="delete_bank_card_title">Brisanje vaše bančne zavihki</string>
   <string name="delete_browser">Izbriši brskalnik</string>
   <string name="delete_device">Izbriši napravo</string>
   <string name="delete_device_btn">Odstrani</string>
@@ -224,7 +224,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="no_network_title">Ne morem se povezati z omrežjem.</string>
   <string name="no_phone">Ni številke telefona</string>
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
-  <string name="no_sim_card_or_unactivated">Ni SIM kartice ali pa ni aktivirana</string>
+  <string name="no_sim_card_or_unactivated">Ni SIM zavihki ali pa ni aktivirana</string>
   <string name="nobind">Ni povezano</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
@@ -307,11 +307,11 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_error_no_sms_service">Ne morem poslati sporočila. Mobilno omrežje ni na voljo.</string>
   <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
   <string name="passport_error_server">Napaka na strežniku</string>
-  <string name="passport_error_sim_not_ready">Ne najdem kartice SIM</string>
+  <string name="passport_error_sim_not_ready">Ne najdem zavihki SIM</string>
   <string name="passport_error_ssl_hand_shake">"Ne morem se povezati na strežnik"</string>
   <string name="passport_error_unknown">Ne morem se vpisati v</string>
   <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
-  <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM kartice aktivirana in da je naprava povezana z omrežjem.</string>
+  <string name="passport_error_verify_activator_phone_message">Preverite ali je storitev SIM zavihki aktivirana in da je naprava povezana z omrežjem.</string>
   <string name="passport_error_verify_activator_phone_title">"Ne morem preveriti telefonske številke"</string>
   <string name="passport_extra_gdpr_license">Z izdelavo Mi Računa se strinjate da bo Xiaomi uporabljal vaše osebne podatke. Preberite naša Pravila o zasebnosti da vidite kako obdelujemo in uporabljamo osebne podatke.</string>
   <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
@@ -325,7 +325,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;Kaže da je&lt;/font&gt; številko %s recikliral vaš operater. Preverite ko je številka online?</string>
   <string name="passport_get_innetdate_title">Preverite ko je številka online</string>
   <string name="passport_get_verify_code">Pridobi kodo</string>
-  <string name="passport_getting_activator_phone">Sprejem podatkov o SIM kartice telefona…</string>
+  <string name="passport_getting_activator_phone">Sprejem podatkov o SIM zavihki telefona…</string>
   <string name="passport_getting_verify_code">Prejemam</string>
   <string name="passport_i_know">Razumem</string>
   <string name="passport_identification_expired">Koda za potrditev je potekla, začnite znova</string>
@@ -539,7 +539,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="search_user_detail_top_key_words">Osebne informacije, Spremeni fotografijo profila, Spremeni uporabniško ime, Spremeni nadimek, Spremeni dan rojstva, Spremeni spol</string>
   <string name="security_question">Izberite vprašanje</string>
   <string name="security_question_answer">Vnesite odgovor</string>
-  <string name="security_question_notice_message">Dodajte svojo številko telefona preden postavite varnostna vprašanja da jih lahko izničite v primeru da ste pozabili odgovore.</string>
+  <string name="security_question_notice_message">Dodajte svojo številko telefona preden nastavite varnostna vprašanja da jih lahko izničite v primeru da ste pozabili odgovore.</string>
   <string name="security_question_notice_title">Poveži Telefon</string>
   <string name="security_question_prompt">"Varnostna vprašanja vam pomagajo kadar zamenjate ali izbrišete geslo.
  Poskrbite da boste vedeli odgovore!"</string>
