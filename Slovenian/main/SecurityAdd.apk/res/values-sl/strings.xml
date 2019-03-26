@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ad_downloading">Prenos…</string>
   <string name="add_done">Uspešno dodano</string>
   <string name="add_game">Dodaj igro</string>
   <string name="add_whitelist">Dodaj v izjeme</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">Ne moti</string>
-  <string name="app_name">Pohitri igre</string>
+  <string name="app_name">Dodatek storitve sistema</string>
   <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
   <string name="application_item_already_permission">Dovoljeno</string>
   <string name="application_item_disable">Omejeno</string>

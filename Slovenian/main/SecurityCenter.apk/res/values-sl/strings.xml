@@ -1225,6 +1225,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebox_type_gesture">Podrsaj za prikaz</string>
   <string name="gamebox_wechat_not_find">Namestite WeChat in poskusite ponovno.</string>
   <string name="gamebox_wifi">WiFi</string>
+  <string name="gamecenter_install_fail">"Ne morem namestiti"</string>
+  <string name="gamecenter_install_sucessfull">Uspešno nameščeno</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
@@ -2717,8 +2719,7 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="st_confirm_dialog_summary_oversea_call">Vključite da boste blokirali vse dohodne klice iz tujih številk telefona.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Vsi klici od tujcev bodo prestreženi.</string>
   <string name="st_filter_keywords_setting_summary1">SMS iz neznane številke ki vsebuje ključno besedo bo blokirana.</string>
-  <string name="st_filter_keywords_setting_summary2">"
-(Uporabite \",\" za odvajanje več ključnih besed)"</string>
+  <string name="st_filter_keywords_setting_summary2">"(Uporabite vejice za odvajanje več ključnih besed)"</string>
   <string name="st_filter_keywords_setting_summary3">Sporočila z neznanih številk ki vsebujejo besede s tega seznama bodo dovoljene.</string>
   <string name="st_filter_keywords_setting_title">Konfiguriraj filter ključnih besed</string>
   <string name="st_filter_sms_button">Filtriraj SMS</string>

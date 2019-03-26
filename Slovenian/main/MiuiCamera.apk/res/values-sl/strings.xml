@@ -123,9 +123,9 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="beauty_reset_toast">Efekti figure ponastavljeni</string>
   <string name="beauty_tab_name_live_beauty">Olepšaj</string>
   <string name="beauty_tab_name_live_filter">Filtri</string>
+  <string name="bokeh_use_hint">Globinski efekt</string>
   <string name="bg_replacement_message">"Postavite napravo na stabilno površino
 in za trenutek zapustite pregled"</string>
-  <string name="bokeh_use_hint">Globinski efekt</string>
   <string name="burst_shoot_exit_button_text">Izključi</string>
   <string name="button_fisheye_camera_title">Ribje oko</string>
   <string name="button_front_camera_title">Napravi selfie</string>
