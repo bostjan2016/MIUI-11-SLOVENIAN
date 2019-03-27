@@ -87,4 +87,9 @@
         <item>Skupaj %2$s%3$s</item>
         <item>Skupaj %1$s%2$s%3$s</item>
     </string-array>
+	<string-array name="clock_bg_setting_entries">
+        <item>Bela</item>
+        <item>Črna</item>
+        <item>Samod.</item>
+    </string-array>
 </resources> 

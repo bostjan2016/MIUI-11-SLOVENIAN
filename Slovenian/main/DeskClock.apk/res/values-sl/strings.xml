@@ -58,6 +58,9 @@
   <string name="channel_name_timer">Odštevanje</string>
   <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena na vaši napravi.</string>
   <string name="check_voice_assist_app_version">Posodobite Mi AI na najnovejšo verzijo.</string>
+  <string name="clock_bg_button_setting_summary_common">izberite barvo ozadja za aplikacijo ura</string>
+  <string name="clock_bg_button_setting_summary_follow_sys">Črna bo uporabljena kot barva ozadja vsakič ko preklopite na Temni način</string>
+  <string name="clock_bg_button_setting_title">Barva ozadja</string>
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
   <string name="confirm_abort">Zavrzi</string>
@@ -78,6 +81,11 @@
   <string name="dialog_message_for_contact_permission">Da bo alarm rojstnega dneva dostopen mora ura imeti dostop do stikov. Se strinjate?</string>
   <string name="dialog_message_negative">"Ne strinjam se"</string>
   <string name="dialog_message_not_remind">"Ne kaži več"</string>
+  <string name="dialog_privacy_content">Da boste dobili dobili in sinhronizirali relevantne informacije o lokalnih praznikih in ponudili personalizirane usluge se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
+  <string name="dialog_privacy_content_global">Da boste ponudili personalizirane storitve se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
+  <string name="dialog_privacy_content_news">Da boste dobili personalizirane storitve in vključili jutranje novice v vaše alarme, se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s i %2$s. Se strinjate??</string>
+  <string name="dialog_privacy_content_timer">Da boste prenesli avdio datoteke za časovnik za ambijentalni hrup in ponudili personalizirane usluge, se mora ura povezati na splet Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate??</string>
+  <string name="dialog_privacy_content_timer_data">"Da boste prenesli avdio datoteke za časovnik za ambijentalni hrup (≈20MB) in ponudili personalizirane usluge, se mora ura povezati na splet.Pred uporabo ure morate prebrati in se strinjati z %1$s in  %2$s. Uporabljate mobilne podatke. Se strinjate"</string>
   <string name="done">Končano</string>
   <string name="dynamic_alarm_speech">Pametni alarm</string>
   <string name="edit_alarm">Uredi alarm</string>
@@ -90,6 +98,10 @@
   <string name="force_touch_enter_timer">Kronometer</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="go_back">Nazaj</string>
+  <string name="holiday_update">Na voljo je posodobitev državnih praznikov</string>
+  <string name="holiday_update_fail">"Ne morem posodobiti"</string>
+  <string name="holiday_update_loading">Posodabljanje…</string>
+  <string name="holiday_update_success">Vse je posodobljeno</string>
   <string name="hour_unit">h</string>
   <string name="install_weather_app_error">Ne morem naložiti aplikacije.</string>
   <string name="install_weather_app_loading">Samo trenutek…</string>
@@ -115,6 +127,7 @@
   <string name="life_post_setting">Jutranje poročilo</string>
   <string name="life_post_setting_FBE_remind">Zaradi omejitve sistema informacije o vremenu v jutranjem poročilu morda ne bodo prikazane pravilno po ponovnem zagonu</string>
   <string name="life_post_setting_close_title">Zapri jutranja poročila</string>
+  <string name="life_post_setting_open_desc">Izključite ponavljanje alarma med 04:00 in 10:00 da boste poslušali informacije o vremenu</string>
   <string name="life_post_setting_open_subtitle">Prikaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
   <string name="life_post_setting_open_title">Sprejmi jutranje poročilo</string>
   <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
@@ -136,14 +149,14 @@
   <string name="menu_item_sort_by_gmt_offset">Razporedi po času</string>
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
   <string name="module_download_cancel">Ne, hvala</string>
-  <string name="module_download_data_msg">"Ura se mora povezati na splet za prevzem avdio datoteke za MIUI 10 časovne alarme in pametne alarme. Uporabljate mobilne podatke. Potrebno bo 20 MB. Dovolim?”</string>
-  <string name="module_download_data_msg_golbal">"Ura mora prenesti avdio datoteke za MIUI 10 časovne alarme in pametne alarme. Uporabljate mobilne podatke. Potrebno bo 20 MB. Dovolim??"</string>
-  <string name="module_download_data_msg_replace">Na voljo je posodobljen zvok za pametne alarme (≈20MB). Se povežem na omrežje in prenesem z mobilnimi podatki?</string>
-  <string name="module_download_fail">"Ne morem prevzeti dodatni zvok"</string>
-  <string name="module_download_msg">"Ura se mora povezati na splet za prevzem avdio datoteke zaMIUI 10 časovne alarme in pametne alarme. Uporabljate mobilne podatke. Potrebno bo 20 MB. Dovolim??</string>
-  <string name="module_download_msg_golbal">Ura mora prenesti avdio datoteke zaMIUI 10 časovne alarme in pametne alarme. Dovolim?</string>
+  <string name="module_download_data_msg">Ura se mora povezati s spletom zaradi prenosa avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio vsebine ki omogočajo vklop informacij o trenutnem vremenu v alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
+  <string name="module_download_data_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
+  <string name="module_download_data_msg_replace">Na voljo je posodobljen zvok za MIUI pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
+  <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesema?</string>  <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
+  <string name="module_download_fail">"Ne morem prenesti dodatni zvok"</string>
+  <string name="module_download_msg">Ura mora prenesti avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio vsebino ki omogoča vključevanje informacij o trenutnem času v alarme. Prenesem</string>
+  <string name="module_download_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 časovne alarme in pametne alarme. Dovolim?</string>
   <string name="module_download_msg_replace">Na voljo je posodobljen zvok za pametne alarme. Se povežem na omrežje in prenesem?</string>
-  <string name="module_download_no_network">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="module_download_ok">Dovoli</string>
   <string name="module_download_success">Uspešno prenešeno</string>
   <string name="module_download_title">Potreben je dodatni zvok</string>
@@ -156,6 +169,7 @@
   <string name="open_keep_screen">Zaslon bo ostal vključen</string>
   <string name="other_category_title">Ostalo</string>
   <string name="pause">Odmor</string>
+  <string name="personal_recommend">Priporočila osobne narave</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="remind_ringtone">Zvonenje</string>
   <string name="repeat_count">X</string>
@@ -246,6 +260,7 @@
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>
   <string name="upcoming_alarm">%s naslednji alarm</string>
   <string name="upcoming_alarm_hint">Alarm lahko izključite vnaprej</string>
+  <string name="user_agreement">Pogoji uporabe</string>
   <string name="vibrate_pref_summary">Vibriraj med zvonjenjem</string>
   <string name="vibrate_when_ringing">Vibriraj med zvonenjem</string>
   <string name="volume_button_setting_summary">Nastavi opravilo tipk za glasnost med bujenjem</string>
