@@ -152,10 +152,10 @@
   <string name="module_download_data_msg">Ura se mora povezati s spletom zaradi prenosa avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio vsebine ki omogočajo vklop informacij o trenutnem vremenu v alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_data_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_data_msg_replace">Na voljo je posodobljen zvok za MIUI pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
-  <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesema?</string>  <string name="module_download_fail">"Ne mogu preuzeti dodatni zvuk"</string>
+  <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB 20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_fail">"Ne morem prenesti dodatni zvok"</string>
-  <string name="module_download_msg">Ura mora prenesti avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio vsebino ki omogoča vključevanje informacij o trenutnem času v alarme. Prenesem</string>
-  <string name="module_download_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 časovne alarme in pametne alarme. Dovolim?</string>
+  <string name="module_download_msg">Ura mora prenesti avdio daatoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio storitve ki omogočajo vklop informacij o trenutnem času v alarme. Prenesem?</string>
+  <string name="module_download_msg_golbal">Ura mora prenesti avdio daatoteke za MIUI pametne alarme. Prenesem?</string>
   <string name="module_download_msg_replace">Na voljo je posodobljen zvok za pametne alarme. Se povežem na omrežje in prenesem?</string>
   <string name="module_download_ok">Dovoli</string>
   <string name="module_download_success">Uspešno prenešeno</string>
