@@ -83,7 +83,7 @@
   <string name="dialog_message_not_remind">"Ne kaži več"</string>
   <string name="dialog_privacy_content">Da boste dobili in sinhronizirali relevantne informacije o lokalnih praznikih in ponudili personalizirane usluge se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
   <string name="dialog_privacy_content_global">Da boste ponudili personalizirane storitve se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
-  <string name="dialog_privacy_content_news">Da boste dobili personalizirane storitve in vključili jutranje novice v vaše alarme, se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s i %2$s. Se strinjate?</string>
+  <string name="dialog_privacy_content_news">Da boste dobili personalizirane storitve in vključili jutranje novice v vaše alarme, se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
   <string name="dialog_privacy_content_timer">Da boste prenesli avdio datoteke za časovnik za ambientalni hrup in ponudili personalizirane usluge, se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
   <string name="dialog_privacy_content_timer_data">"Da boste prenesli avdio datoteke za časovnik za ambientalni hrup (≈20MB) in ponudili personalizirane usluge, se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in  %2$s. Uporabljate mobilne podatke. Se strinjate?"</string>
   <string name="done">Končano</string>
