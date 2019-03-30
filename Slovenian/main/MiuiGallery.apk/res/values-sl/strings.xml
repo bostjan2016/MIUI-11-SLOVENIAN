@@ -907,7 +907,7 @@ za fotografije"</string>
   <string name="operation_enter_delete_local">Izbriši var. kopije fotografij in videoposnetkov iz naprave</string>
   <string name="operation_enter_delte_thumbnail">Izbriši var. kopije fotografij in videoposnetkov iz naprave</string>
   <string name="operation_failed">"Ne morem dokončati"</string>
-  <string name="operation_favorites">Priljubleno</string>
+  <string name="operation_favorites">Priljubljeno</string>
   <string name="operation_force_top">Na vrh</string>
   <string name="operation_hide">Skrij</string>
   <string name="operation_in_process">Obdelujem…</string>
