@@ -3647,7 +3647,7 @@ kot PIN za Prvi prostor"</string>
   <string name="manage_notification_access">Dostop do obvestil</string>
   <string name="manage_notification_access_summary_zero">Aplikacije ne morejo brati obvestil</string>
   <string name="manage_notification_access_title">Dostop do obvestil</string>
-  <string name="manage_notification_title">Obvestila aplikacija</string>
+  <string name="manage_notification_title">Obvestila aplikacij</string>
   <string name="manage_space_text">Urejaj prostor</string>
   <string name="manage_trust_agents">Preverjeni predstavniki</string>
   <string name="manage_trust_agents_summary">Ogled ali deaktiviranje posrednikov zaupanja</string>
