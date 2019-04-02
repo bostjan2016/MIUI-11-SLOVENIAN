@@ -22,6 +22,6 @@
     </plurals>
     <plurals name="restore_app_order_installed">
         <item quantity="other">%d aplik. na tej napravi</item>
-        <item quantity="one">%d aplik. na tej napravi<</item>
+        <item quantity="one">%d aplik. na tej napravi</item>
     </plurals>
 </resources>
