@@ -808,6 +808,7 @@ hitrost vzorčenja"</string>
     <string name="guest_wipe_session_message">Želite nadaljevati sejo?</string>
     <string name="guest_wipe_session_title">Znova pozdravljeni, gost!</string>
     <string name="guest_wipe_session_wipe">Začni znova</string>
+  <string name="gxzw_area">Čitalec prstnih odtisov</string>
   <string name="gxzw_long_press_tip">Pritisnite in podržite da boste preverili nove storitve</string>
   <string name="gxzw_press_harder">Pritisnite malo močneje</string>
   <string name="gxzw_try_again">Poskusite ponovno</string>
@@ -1111,11 +1112,15 @@ Poskusite znova čez %2$d s."</string>
   <string name="lock_screen_carrier_airplane_mode_on">Letalski način</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+   <string name="lock_screen_date_two_lines">"EEEE
+dd.MM.yyyy"</string>
+  <string name="lock_screen_date_two_lines_12">"EEEE
+dd.MM."</string>
   <string name="lock_screen_magazine_default_content">Dnevni del svežih slik</string>
   <string name="lock_screen_magazine_default_entry_title">Podrobno o sliki ozadja</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">Več</string>
-  <string name="lock_screen_no_sim_card">Ni SIM zavihki</string>
+  <string name="lock_screen_no_sim_card">Ni SIM kartice</string>
   <string name="lock_screen_no_sim_card_emergency_only">Samo klici v sili</string>
   <string name="lock_screen_no_sim_card_no_service">Ni storitve</string>
   <string name="lock_wallpaper_enter">Vstopi</string>

@@ -9,7 +9,19 @@
          <item quantity="one">Var. kopija %1$s (%2$s)</item>
      </plurals>
    <plurals name="restoring_file_tile">
-       <item quantity="other">Obnovitev datotek: %d</item>
-       <item quantity="one">Obnovitev %d datoteke</item>
+       <item quantity="other">Vračanje datotek: %d</item>
+       <item quantity="one">Vračanje %d datoteke</item>
    </plurals>
+   <plurals name="restore_app_order_prior">
+        <item quantity="other">Stvari visoke pomembnosti: %d</item>
+        <item quantity="one">Stvari visoke pomembnosti: %d</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">Stvari normalne pomembnosti: %d items</item>
+        <item quantity="one">Stvari normalne pomembnosti: %d item</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d aplik. na tej napravi</item>
+        <item quantity="one">%d aplik. na tej napravi<</item>
+    </plurals>
 </resources>

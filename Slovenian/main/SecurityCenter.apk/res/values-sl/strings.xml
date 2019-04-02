@@ -239,6 +239,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_factory_reset">Odstrani posodobitve</string>
   <string name="app_manager_factory_reset_dlg_msg">Vse posodobitve te aplikacije sistema Android bodo odstranjene.</string>
   <string name="app_manager_factory_reset_dlg_title">Odstranim posodobitve?</string>
+  <string name="app_manager_find_apps">Najdi aplikacije</string>
   <string name="app_manager_force_stop_dlg_text">Če prisilno zaustavite aplikacijo, se lahko obnaša nepredvidljivo.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
   <string name="app_manager_globel_other_perm_title">Ostala dovoljenja</string>
@@ -2558,6 +2559,11 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="security_app_lock">Zakl. aplikacije</string>
   <string name="security_scan_card_clean_now">Preišči</string>
   <string name="security_scan_optimizing">Optimiziranje…</string>
+  <string name="securityadd_install_fail">"Ne morem posodobiti dodatek. Poskusite ponovno."</string>
+  <string name="securityadd_update_tips_cancle">Ne zdaj</string>
+  <string name="securityadd_update_tips_message">Posodobite dodatek apl varnost za dostop do najnovejših storitev za igre. %1$dMB bo prenešeno.</string>
+  <string name="securityadd_update_tips_now">Posodobi</string>
+  <string name="securityadd_update_tips_title">Posodobi</string>
   <string name="see_detail">Podrobnosti</string>
   <string name="see_more_content">Posodobite igre da boste videli več</string>
   <string name="see_more">Več</string>

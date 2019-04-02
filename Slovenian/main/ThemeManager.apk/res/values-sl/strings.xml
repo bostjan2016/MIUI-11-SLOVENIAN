@@ -19,6 +19,8 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="accessibility_setting_hint">"Tapnite gumb zgoraj desno da vključite.
+Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadja v aplikacijah po vaš izbiri.​"</string>
   <string name="accessibiliy_description_content_account">Profil</string>
   <string name="accessibiliy_description_content_ad">Oglas</string>
   <string name="accessibiliy_description_content_add_resource">Dodaj stvari</string>
@@ -49,11 +51,14 @@
   <string name="ad_tag_text_2">Moda</string>
   <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
   <string name="all_resources">Vse</string>
+  <string name="app_ad_title">Dnevna priporočila</string>
+  <string name="app_disable_transparent_wallpaper">Brez transparentnega ozadja</string>
+  <string name="app_enable_transparent_wallpaper">Z transparentnim ozadjem</string>
   <string name="app_name">Teme</string>
-  <string name="apply_default_font_tip">Uporabljam trenutno sistemsko pisavo?</string>
+  <string name="apply_default_font_tip">"Uporabljam trenutno sistemsko pisavo?"</string>
   <string name="apply_font_btn_exclude">Ne zdaj</string>
   <string name="apply_font_btn_reboot">Ponovni zagon</string>
-  <string name="apply_font_tip">Ponovni zagon za uporabo te teme pisave.</string>
+  <string name="apply_font_tip">"Ponovni zagon za uporabo te teme pisave."</string>
   <string name="apply_theme_with_ringtones">Uporabite melodije teme</string>
   <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
@@ -133,6 +138,9 @@
   <string name="download_preview_failed">Ne morem naložiti predogleda</string>
   <string name="download_success">Prenos končan</string>
   <string name="dynamic_video_wallpaper">24-na slika ozadja</string>
+  <string name="enable_accessibility">Potrebno je dovoljenje</string>
+  <string name="enable_accessibility_hint">"Storitev vključite v temah. Potem lahko izberete katere aplikacije bodo delale z transparentnim ozadjem."</string>
+  <string name="enable_transparent_wallpaper">Uporabi transparentno ozadje</string>
   <string name="exit_extreme_mode_dialog_agree">Strinjam se</string>
   <string name="exit_extreme_mode_dialog_cancel">Izključi</string>
   <string name="exit_extreme_mode_dialog_title">Izključi Ekstremni način</string>
@@ -210,6 +218,7 @@
   <string name="gift_use_confirmation_dlg_title">Pošljem kot darilo?</string>
   <string name="gift_use_fail_dlg_title">Nekaj ni v redu</string>
   <string name="gift_used">Poslano</string>
+  <string name="go_accessibility_setting">Izberi</string>
   <string name="hide_free">Skrij brezplačne teme</string>
   <string name="hide_incompatible">Skrij nekompatibilne teme</string>
   <string name="hide_pull_down_message">Skrijem?</string>
@@ -221,9 +230,9 @@
   <string name="incall_show_apply">Profilni videoposetek za odhodne klice</string>
   <string name="incall_show_apply_fail">"Ne morem nastaviti"</string>
   <string name="incall_show_apply_success">"Uspešno nastavljeno. Da boste to storitev izključili,
-pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnetek."</string>
+pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposnetek."</string>
   <string name="incall_show_apply_success_without_ringtone">"Uspešno nastavljeno. Ta videoposnetek nima zvoka. Uporabljen bo originalni zvok zvonenja.
-Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnetek."</string>
+Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposnetek."</string>
   <string name="incall_show_find_more">Najdi več</string>
   <string name="incall_show_not_set">Ni profilnega videposnetka</string>
   <string name="incall_show_remove">Odstrani profilni videoposnetek</string>
@@ -256,9 +265,10 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s ozadij</string>
   <string name="lockscreen_magazine_system_title">Izvenmrežno</string>
-  <string name="lockscreen_magazine_title">Rotiranje ozadja</string>
+  <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_wallpaper">Zaklenjen zaslon</string>
   <string name="lockstyle_personal_settings">Prilagodi</string>
+  <string name="loop_wallpaper_is_here">Diaprojekcija slik za ozadje je na voljo</string>
   <string name="mi_wallpaper">MIUI ozadje</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prekliči</string>
@@ -287,7 +297,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="mix_icons_option_des">Ikona zač. zaslona. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_lockscreen_option_des">Slika za ozadje in ura. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_tip">Komponente teme</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM zavihki.</string>
+  <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonenja bo nastavljena za obe SIM kartice.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartice.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne kaži več"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Težave s kompatibilnostjo</string>
@@ -332,6 +343,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="purchased_list_current">Optimizirane teme</string>
   <string name="purchased_list_legacy">Stare teme</string>
   <string name="recently_used">Nedavno uporabljeno</string>
+  <string name="reenable_accessibility">Napaka. Ponovno odobrite dovoljenje.</string>
   <string name="refresh_footer_all_loaded">"To je za zdaj vse."</string>
   <string name="refresh_footer_failed">"Ne morem prenesti podatkov"</string>
   <string name="refresh_footer_finish">Uspešno preneseno</string>
@@ -588,8 +600,9 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="the_picture_is_too_small">Slika je premajhna</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Lastna melodija zvonenja</string>
+  <string name="theme_apply_audio_dialog_item_mms">Melodija SMS sporočila</string>
   <string name="theme_apply_audio_dialog_item_notification">Obvestila</string>
-  <string name="theme_apply_audio_dialog_item_ringtone">melodija zvonjenja</string>
+  <string name="theme_apply_audio_dialog_item_ringtone">Melodija zvonjenja</string>
   <string name="theme_apply_failured">"Ne morem nastaviti"</string>
   <string name="theme_apply_success">Uspešno nastavljeno</string>
   <string name="theme_applying">Nastavljanje…</string>
@@ -676,11 +689,20 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="title_system_audio_resource">Sistemske melodije zvonenja</string>
   <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>
   <string name="to_activate_the_account">Aktivirajte zdaj svoj Mi Račun</string>
+  <string name="transparency_pref_summary">Izberite nivo neprozornosti ozadja</string>
+  <string name="transparency_pref_title">Nivo neprozornosti</string>
   <string name="transparent_wallpaper">Transparenta slika ozadja</string>
   <string name="transparent_wallpaper_apply_success">Uspešno nastavljeno. Lahko izključite v Teme &gt; Profil &gt; Beta storitve.</string>
+  <string name="transparent_wallpaper_disable">Izključi</string>
+  <string name="transparent_wallpaper_enable">Vključi</string>
   <string name="transparent_wallpaper_enable_success">Uspešno vključeno</string>
+  <string name="transparent_wallpaper_filter_pref_summary">"Transparentna ozadja ne bodo prikazana v nekaterih aplikacijah"</string>
+  <string name="transparent_wallpaper_filter_pref_title">Izberite aplikacije za delo z transparentnim ozadjem</string>
+  <string name="transparent_wallpaper_filter_set_successfully">Uspešno nastavljeno</string>
+  <string name="transparent_wallpaper_filter_setting">Nekatere aplikacije</string>
   <string name="transparent_wallpaper_guide">Pojdi v Teme</string>
   <string name="transparent_wallpaper_guide_tip">Lahko izberete transparentno sliko ozadja v temah.</string>
+  <string name="transparent_wallpaper_pref_summary">Ozadja z zmanjšano neprozornostjo ozadja</string>
   <string name="transparent_wallpaper_white_wallpaper">Napravi ozadje belo</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">"Ne morem napraviti ozadje belo"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Barva ozadja je zdaj bela</string>
@@ -718,7 +740,29 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="wallpaper_crop">Izreži</string>
   <string name="wallpaper_decoded_error">"Ne morem naložiti ozadja"</string>
   <string name="wallpaper_detail_load_page_no_network">Povežite se na omrežje in poskusite ponovno.</string>
-  <string name="wallpaper_personal_dialog_agree">Prilagodit</string>
+  <string name="wallpaper_loop_add_success">Uspešno dodano</string>
+  <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Dodaj na dijaprojekcijo zač. zaslona</string>
+  <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Dodaj na dijaprojekcijo zakl. zaslona</string>
+  <string name="wallpaper_loop_desc_all_walpaper">Napravite lastno dijaprojekcijo</string>
+  <string name="wallpaper_loop_desc_desk_walpaper">Napravite lastno dijaprojekcijo za vaš zač. zaslon</string>
+  <string name="wallpaper_loop_desc_lock_walpaper">Napravite lastno dijaprojekcijo za vaš zakl. zaslon</string>
+  <string name="wallpaper_loop_interval_15min">Vsakih 15 minut</string>
+  <string name="wallpaper_loop_interval_1d">Vsak dan</string>
+  <string name="wallpaper_loop_interval_1h">Vsako uro</string>
+  <string name="wallpaper_loop_interval_desc">Nastavite časovni interval za dijaprojekcijo</string>
+  <string name="wallpaper_loop_interval_title">Zamenjaj ozadje</string>
+  <string name="wallpaper_loop_manage">Urejaj</string>
+  <string name="wallpaper_loop_more_options">Dodatne nastavitve</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Moja ozadja zač. zaslona</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Moja ozadja zakl. zaslona</string>
+  <string name="wallpaper_loop_order_desc">Izberite vrstni red pojavljanja slajdov</string>
+  <string name="wallpaper_loop_order_loop">Originalno</string>
+  <string name="wallpaper_loop_order_shuffle">Naključno</string>
+  <string name="wallpaper_loop_order_title">Vrstni red slajdov</string>
+  <string name="wallpaper_loop_title">Diaprojekcija ozadja</string>
+  <string name="wallpaper_loop_title_desk_wallpaper">Diaprojekcija ozadja zač. zaslona</string>
+  <string name="wallpaper_loop_title_lock_walpaper">Diaprojekcija ozadja zakl. zaslona</string>
+  <string name="wallpaper_personal_dialog_agree">Prilagodi</string>
   <string name="wallpaper_personal_dialog_content">Uporabite to storitev da boste videli izbor ozadij prilagojenih vašim interesom. To lahko vključite i izključite v nastavitvah. Prilagodim ozadje zdaj?</string>
   <string name="wallpaper_personal_dialog_disagree">Ne, hvala</string>
   <string name="wallpaper_personal_dialog_title">Prilagodite svoja ozadja</string>
@@ -726,7 +770,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok in vibracija &gt; Profilni videoposnete
   <string name="wallpaper_scroll_type_tips">Premikanje slika ozadja</string>
   <string name="wallpaper_set_as_both">Nastavi oboje</string>
   <string name="wallpaper_set_as_desktop">Nastavi za sliko ozadja</string>
-  <string name="wallpaper_set_as_float_wallpaper">Transparentna slika ozadja (Beta)</string>
+  <string name="wallpaper_set_as_float_wallpaper">Nastavi kot transparentno ozadje</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>
   <string name="wallpaper_settings">Nastavitve ozadja</string>
   <string name="wallpaper_settings_change_wallpaper">Spremeni</string>

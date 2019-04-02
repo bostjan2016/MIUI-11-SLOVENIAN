@@ -1068,6 +1068,7 @@ hitrost vzorčenja"</string>
   <string name="fdn_service_unavailable">FDN storitev ni na voljo.</string>
   <string name="fdn_summary">Omejite odhodne klice navedene na FDN ali na številke z določenimi predponami</string>
   <string name="fdn_with_label">Številke za preusmeritev (%s)</string>
+  <string name="fiveg_switch_title">5G omrežje</string>
   <string name="feedback">Povratna informacija</string>
   <string name="flash_when_ring_summary">Uporabi bliskavico za obvestiloo dohodnih klicih</string>
   <string name="flash_when_ring_title">Bliskavica tudi za klice</string>

@@ -25,8 +25,10 @@
   <string name="btn_continue">Nadaljuj</string>
   <string name="btn_restore_abort">Prekliči</string>
   <string name="btn_restore_cancel">Prekliči</string>
+  <string name="btn_restore_continue">Vseeno vrni</string>
   <string name="btn_restore_resume">Nadaljuj</string>
   <string name="btn_restore_retry">Poskusi ponovno</string>
+  <string name="btn_restore_wait">Počakaj na Wifi</string>
   <string name="btn_retry">Ponovno preveri</string>
   <string name="btn_skip">Preskoči ta korak</string>
   <string name="button_cancel">Prekini</string>
@@ -87,7 +89,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="confirm_cancel_restore_positive">Nadaljuj</string>
   <string name="confirm_cancel_restore_title">Prekličem povrnitev?</string>
   <string name="confirm_restore">Obnovi</string>
-  <string name="confirm_restore_summary">Začetni zaslon se bo ponovno zagnal in aplikacije se bodo samodejno prenesle ko bo povezano preko WiFi</string>
+  <string name="confirm_restore_summary">Začetni zaslon se bo ponovno zagnal in var. kopija aplikacij bo samodejno prenešena</string>
   <string name="confirm_restore_title">Obnovi</string>
   <string name="customization">&lt;u&gt;Uredi&lt;/u&gt;</string>
   <string name="custom_progress">Stvari: %d</string>
@@ -97,7 +99,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="desktop_failed">Ni uspelo</string>
   <string name="desktop_installing">Nameščam</string>
   <string name="desktop_recovering">Obnavljam</string>
-  <string name="desktop_wait_wifi">Čakanje</string>
+  <string name="desktop_wait_network">Čakanje…</string>
   <string name="desktop_waiting">Čakam</string>
   <string name="device_corrupt">Mi Telefon (podatki so poškodovani)</string>
   <string name="device_delete_prompt">Izbrišem varnostno kopijo za %s?</string>
@@ -114,6 +116,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="dialog_msg_restore_require_wlan">Namestitev var. kopije zahteva WiFi povezavo z omrežjem.</string>
   <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+  <string name="doing_calc_backup_data_size">Izračunavanje velikosti…</string>
   <string name="doing_restore_home">Obnavljanje zač. zaslona in nastavitev sisitema…</string>
   <string name="done_remove">Uspešno odstranjeno</string>
   <string name="download_home_data">Prenos nastavitev zač. zaslona…</string>
@@ -140,6 +143,9 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">Povrnitev stvari. Ustavim?</string>
   <string name="msg_alert_restore_error">Povrnitev stvari iz Mi Clouda ni uspela, poskusite ponovno.</string>
+  <string name="msg_restore_start_with_metered_network">"Vaš zač. zaslon se bo ponovno zagnal. Var. kopija aplikacij bo samodejno prenešena. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s datotek bo prenešeno.&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_with_metered_network_hint">Če boste nadaljevali z vračanjem teh stvari bodo za prenos uporabljeni mobilni podatki.</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; datotek bo prenešeno."</string>
   <string name="name_model">"%1$s %2$s"</string>
   <string name="no_account">Niste prijavljeni v Mi Račun.</string>
   <string name="no_backup">Ni var. kopij v Mi Cloudu</string>
@@ -167,9 +173,24 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="remove_task_in_process">Odstranjevanje…</string>
   <string name="remove_task_unfinished">Odstranjevanje ni dokončano</string>
   <string name="remove_unfinished">Odstranjevanje, poskusite ponovno kasneje</string>
+  <string name="restore_app_order_finish">Končano</string>
+  <string name="restore_app_order_loading">Samo trenutek…</string>
+  <string name="restore_app_order_retry">Poskusite ponovno</string>
+  <string name="restore_app_order_retry_desc">"Ne morem se povezati na omrežje.
+Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="restore_app_order_search_hint">Poišči stvari za nastavljanje prioritete</string>
+  <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
+  <string name="restore_app_order_search_installed">Aplikacije v tej napravi</string>
+  <string name="restore_app_order_search_normal">Aplikacije normalne prioritete</string>
+  <string name="restore_app_order_search_prior">Aplikacije visoke prioritete</string>
+  <string name="restore_app_order_title">Nastavite prioritete za povrnjene stvari</string>
   <string name="restore_cloud_backup_to_phone">Vrni stvari iz Mi Clouda</string>
   <string name="restore_data_summary">To opravilo potrebuje spletno povezavo.</string>
   <string name="restore_data_title">Obnovi upor. podatke</string>
+  <string name="restore_detail_category_apps">Razpored zač. zaslona &amp; aplikacija</string>
+  <string name="restore_detail_category_settings">Nastavitve</string>
+  <string name="restore_detail_more">Več</string>
+  <string name="restore_detail_title">Izberite stvari za povrnitev</string>
   <string name="restore_finish_description">Obnova je končana</string>
   <string name="restore_finished_notification_content">Vrnjene aplikacije začetnega zaslona, nastavitve sistema itd.</string>
   <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>
@@ -177,6 +198,8 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="restore_home_failed">"Ne morem vrniti začetni zaslon."</string>
   <string name="restore_home_screen_apps">Obnovi iz var. kopije na Mi Cloudu</string>
   <string name="restore_init_description">Začni vračanje</string>
+  <string name="restore_network_pause">%s (Tapnite za nadaljevanje)</string>
+  <string name="restore_network_unconnect">%s (Čakanje na povezavo)</string>
   <string name="restore_task_cancelling">Prekinjam…</string>
   <string name="restore_task_in_process">Obnovitev…</string>
   <string name="restore_task_unfinished">Obnovitev aplikacij, poskusite ponovno kasneje</string>
@@ -196,6 +219,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
   <string name="title_alert_cancel_restore">Ustavi povrnitev</string>
   <string name="title_alert_restore_error">Povrnitev ni uspela</string>
+  <string name="title_restore_with_current_network">Uporaba trenutne povezave za prenos datotek</string>
   <string name="total_num">%d stvari,</string>
   <string name="total_space">Skupni prostor: %s</string>
   <string name="trans_pausing">Premor…</string>

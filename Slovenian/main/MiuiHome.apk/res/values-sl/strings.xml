@@ -200,6 +200,7 @@
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
+  <string name="launcher_sliding_up_gesture">Podrsajte s prstom gor na zač. zaslonu da odprete iskanje</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="like">Dodaj v priljubljeno</string>
   <string name="liked">Dodano v priljubljeno</string>

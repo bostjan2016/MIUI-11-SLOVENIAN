@@ -20,4 +20,12 @@
         <item quantity="other">%1$s | %2$d slik</item>
         <item quantity="one">%1$s | %2$d slika</item>
     </plurals>
+	<plurals name="transparent_wallpaper_filter_hint">
+        <item quantity="other">Išči med %1$d aplik.</item>
+        <item quantity="one">Išči med %1$d aplik.</item>
+    </plurals>
+    <plurals name="transparent_wallpaper_filter_result">
+        <item quantity="other">Najdeno %1$d aplik.</item>
+        <item quantity="one">Najdena %1$d aplik.</item>
+    </plurals>
 </resources>

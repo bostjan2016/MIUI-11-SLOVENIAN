@@ -303,8 +303,10 @@
   <string name="found_usb">USB pomnilnik povezan</string>
   <string name="ftp_account_req_notice">4-16 znakov, črk in številk, male in velike črke</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
+  <string name="ftp_anonymous_warning_msg">Funkcije anonimizacije lahko predstavljajo varnostno tveganje. Vseeno uporabim?</string>
+  <string name="ftp_anonymous_warning_title">Pozor</string>
   <string name="ftp_invalid_username_or_password">Nepravilno uporabniško ime ali geslo.</string>
-  <string name="ftp_open_port_error">Napaka pri odpiranju vrat: preverite vašo povezavo ali ponastavite številko vrat.</string>
+  <string name="ftp_open_port_error">"Napaka pri odpiranju vrat: preverite vašo povezavo ali ponastavite številko vrat."</string>
   <string name="ftp_password_hint">Geslo</string>
   <string name="ftp_port_number">Številka vrat</string>
   <string name="ftp_transfer_secure">Varnost</string>
@@ -326,6 +328,7 @@
   <string name="group_title_extra_new">Novo</string>
   <string name="handsome_boy">Moški</string>
   <string name="has_installed">Nameščeno</string>
+  <string name="home_action_up">Nazaj</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pomnilnik</string>
   <string name="homepage_tab_file_view_phone">Pomnilnik</string>
