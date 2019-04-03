@@ -1956,7 +1956,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in varnost sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
   <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
-  <string name="optimize_result_title_uninstall_apps">Aplikacije</string>
+  <string name="optimize_result_title_uninstall_apps">Odstrani aplikacije</string>
   <string name="optimize_result_toast_system_default_settings">Vrni na privzete nastavitve</string>
   <string name="optimize_result_toast_system_no_item_selected">Ni izbranih stvari</string>
   <string name="optmizingbar_optimize_done">Optimizirano</string>
