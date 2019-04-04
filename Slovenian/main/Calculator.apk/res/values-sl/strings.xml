@@ -266,7 +266,7 @@
   <string name="nickname">Priimek</string>
   <string name="night">PM</string>
   <string name="no_network">"Ne morem se povezati v omrežje"</string>
-  <string name="no_sim">Ni SIM zavihki</string>
+  <string name="no_sim">Ni SIM kartice</string>
   <string name="none">Nič</string>
   <string name="noon">PM</string>
   <string name="not_supported_due_to_language">Ta storitev je dostopna samo za kitajski jezik</string>

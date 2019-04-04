@@ -297,8 +297,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="mix_icons_option_des">Ikona zač. zaslona. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_lockscreen_option_des">Slika za ozadje in ura. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_tip">Komponente teme</string>
-  <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonenja bo nastavljena za obe SIM kartice.</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartice.</string>
+  <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonenja bo nastavljena za obe SIM kartici.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartici.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne kaži več"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Težave s kompatibilnostjo</string>

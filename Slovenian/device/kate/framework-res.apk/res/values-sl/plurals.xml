@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="pinpuk_attempts">
-        <item quantity="other">Imate še %d poskusov do zaklepanja SIM zavihki.</item>
-        <item quantity="one">Imate še %d poskus do zaklepanja SIM zavihki.</item>
-        <item quantity="few">Imate še %d poskusov do zaklepanja SIM zavihki.</item>
-        <item quantity="many">Imate še %d poskusov do zaklepanja SIM zavihki.</item>
+        <item quantity="other">Imate še %d poskusov do zaklepanja SIM kartica.</item>
+        <item quantity="one">Imate še %d poskus do zaklepanja SIM kartica.</item>
+        <item quantity="few">Imate še %d poskusov do zaklepanja SIM kartica.</item>
+        <item quantity="many">Imate še %d poskusov do zaklepanja SIM kartica.</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Zadnjih %d dni</item>

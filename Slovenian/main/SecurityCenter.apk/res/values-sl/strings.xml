@@ -798,7 +798,7 @@ Vaš mobilni operater vam lahko dodatno zaračuna če ponovno vključite mobilne
   <string name="data_usage_warning_body_notify">Tapnite za prikaz podrobnosti</string>
   <string name="data_usage_warning_title">Opozorilo porabe podatkov</string>
   <string name="data_usage_warning_title_notify">Prekoračena omejitev uporabe podatkov</string>
-  <string name="databooster_tips_message">Vključite da omejite vse SIM zavihki razen podatkovne zavihki. Izključite to storitev če pride do napak v igrah po vaši izbiri.</string>
+  <string name="databooster_tips_message">Vključite da omejite vse SIM kartice razen podatkovne kartice. Izključite to storitev če pride do napak v igrah po vaši izbiri.</string>
   <string name="databooster_tips_title">Pozor</string>
   <string name="datausage_ignore_app_list_count">"Ignoriranje porabe podatkov aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Nazaj</string>
@@ -1207,20 +1207,20 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebox_func_immersion_close">Interaktivni način je zdaj izključen</string>
   <string name="gamebox_func_immersion_open">Interaktivni način je zdaj vključen</string>
   <string name="gamebox_func_switch_simcard">Prestavljeno na SIM kartico %1$d za mob. podatke</string>
-  <string name="gamebox_func_switch_simcard_immersion">"SIM zavihki se ne morejo zamenjati v interaktivnem načinu"</string>
+  <string name="gamebox_func_switch_simcard_immersion">"SIM kartice se ne morejo zamenjati v interaktivnem načinu"</string>
   <string name="gamebox_func_wlan_close">WiFi je zdaj izključen</string>
   <string name="gamebox_func_wlan_open">WiFi je zdaj vključen</string>
   <string name="gamebox_hangup">Izključi zaslon</string>
   <string name="gamebox_hangup_tips_content">Ta storitev vam omogoča da izključite zaslon, a obdržite igro v ozadju. Samodejno se izključi po odklepu naprave.</string>
   <string name="gamebox_hangup_tips_title">Vključi zaslon</string>
   <string name="gamebox_immersion">Interaktivni način</string>
-  <string name="gamebox_immersion_tips_content">Interaktivni način omejuje vse funkcionalnosti SIM zavihki, razen mobilne podatkovne povezave. Ne boste moteni s klici ali obvestili o njih. Storitve SIM zavihki bodo povrnjene po izklopu interaktivnega načina. Vključim Interaktivni način?</string>
+  <string name="gamebox_immersion_tips_content">Interaktivni način omejuje vse funkcionalnosti SIM kartice, razen mobilne podatkovne povezave. Ne boste moteni s klici ali obvestili o njih. Storitve SIM kartica bodo povrnjene po izklopu interaktivnega načina. Vključim Interaktivni način?</string>
   <string name="gamebox_immersion_tips_title">Pozor</string>
   <string name="gamebox_immerson_open">"Vklop interaktivnega načina, ne menjajte omrežja…"</string>
   <string name="gamebox_positive_button_text">V redu (%1$ds)</string>
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije ki delajo z bližnjicami niso nameščene"</string>
-  <string name="gamebox_simcard">Zamenjaj SIM zavihki</string>
+  <string name="gamebox_simcard">Zamenjaj SIM kartico</string>
   <string name="gamebox_type_close">"Ne kaži"</string>
   <string name="gamebox_type_float">Popravljena bližnjica</string>
   <string name="gamebox_type_gesture">Podrsaj za prikaz</string>
@@ -1518,10 +1518,10 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="main_activity_content_summary_update">Posodobitev sistema</string>
   <string name="main_activity_content_title_scanning">Preverjanje</string>
   <string name="main_alert_message_month_limit_error">Omejitev podatkov ni pravilna</string>
-  <string name="main_alert_message_no_imsi">Ni SIM zavihki</string>
+  <string name="main_alert_message_no_imsi">Ni SIM kartice</string>
   <string name="main_alert_message_no_mobile_package">"Nastavite Omejitev podatkov"</string>
   <string name="main_alert_message_open_traffic_ctrl">Priporočamo vam da omejite uporabo podatkov</string>
-  <string name="main_alert_message_slot_no_data_connection">"Reža SIM zavihki ne podpira 
+  <string name="main_alert_message_slot_no_data_connection">"Reža SIM kartice ne podpira 
   podatkovne povezave"</string>
   <string name="main_bill_remained">Stanje računa</string>
   <string name="main_button_mi_sim_close">Aktiviraj Mi SIM</string>
@@ -1752,7 +1752,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
 
  3. Signal omrežja mobilnega operaterja je lahko slab na vaši trenutni lokaciji."</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
-  <string name="network_operator_exception_summary">"Ne morem aktivirati SIM zavihki. Preverite če je  SIM kartica pravilno vstavljena in da je vaša tarifa aktivirana."</string>
+  <string name="network_operator_exception_summary">"Ne morem aktivirati SIM kartice. Preverite če je  SIM kartica pravilno vstavljena in da je vaša tarifa aktivirana."</string>
   <string name="network_permission_exception_tips">"Ne morem uporabiti mobilne podatke za povezovanje na omrežje"</string>
   <string name="network_roaming_exception_tips">"Ne morem uporabiti mobilne podatke v gostovanju za povezovanje na omrežje."</string>
   <string name="network_route_exception_detail">"Morda je problem z routerjem s katerim ste povezani:
@@ -1782,7 +1782,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
  
  2. Če uporabljate dve SIM kartici se poskusite povezati preko druge SIM.
  
- 3. Preverite ali SIM kartica in reža za SIM zavihki nista poškodovani. Preverite ali je SIM kartica pravilno vstavljena v režo."</string>
+ 3. Preverite ali SIM kartica in reža za SIM kartico nista poškodovani. Preverite ali je SIM kartica pravilno vstavljena v režo."</string>
   <string name="network_speed_for_apps_close">Prisilno zaustavi</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Prisilno zaustavim to aplikacijo?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">"Ne morem prisilno zaustaviti sistemske aplikacije."</string>
@@ -2605,12 +2605,12 @@ Ni podprto za sistemske aplikacije."</string>
   <string name="signal_exception_summary">"Ne morem se povezati v omrežje na tem področju."</string>
   <string name="signal_exception_title">Test moči signala</string>
   <string name="sim_location_diagnostic">Diagnostika lokacije</string>
-  <string name="sim_location_error_dialog_message">"SIM kartica ki jo uporabljate je iz %1$s. To se razlikuje od lokacije ki ste jo nastavili ročno (%2$s). Spremenim lokacijo SIM zavihki na %3$s?"</string>
+  <string name="sim_location_error_dialog_message">"SIM kartica ki jo uporabljate je iz %1$s. To se razlikuje od lokacije ki ste jo nastavili ročno (%2$s). Spremenim lokacijo SIM kartice na %3$s?"</string>
   <string name="sim_location_error_notify_message">Tapnite za spremembo lokacije SIM-a.</string>
-  <string name="sim_location_error_notify_title">Napaka SIM zavihki</string>
+  <string name="sim_location_error_notify_title">Napaka SIM kartice</string>
   <string name="sim_not_ready">"SIM kartica ni pripravljena"</string>
   <string name="sim_not_ready_toast">"SIM kartica ni pripravljena"</string>
-  <string name="sim_state_exception_summary">Stanje SIM zavihki kaže da nekaj ni v redu z njo.</string>
+  <string name="sim_state_exception_summary">Stanje SIM kartice kaže da nekaj ni v redu z njo.</string>
   <string name="sip_phone">SIP Telefon</string>
   <string name="skin_change_close_btn_text">Nastavi kot privzeto ozadje</string>
   <string name="skin_change_close_toast">Spremembe bodo uporabljene ko naslednjič zaženete aplik. Varnost</string>

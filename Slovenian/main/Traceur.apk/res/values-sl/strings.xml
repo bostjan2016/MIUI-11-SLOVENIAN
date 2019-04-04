@@ -118,9 +118,9 @@
     <string name="bluetooth_profile_pan_nap">Skupna raba internetne povezave</string>
     <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
     <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
-    <string name="bluetooth_profile_sap">Dostop do zavihki SIM</string>
+    <string name="bluetooth_profile_sap">Dostop do kartica SIM</string>
     <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
-    <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do zavihki SIM</string>
+    <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartica SIM</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Število bitov na vzorec za zvok prek Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
 Izbor: število bitov na vzorec"</string>

@@ -3,8 +3,8 @@
   <string name="accept">V redu</string>
   <string name="activate">Aktiviraj</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS za aktiviranje je bil poslan za aktiviranje \"Najdi napravo\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">SMS sporočilo poslano s SIM zavihki %s za aktiviranje \"Najdi napravo\"</string>
-  <string name="activate_auto_sms_notification_title">Aktiviranje SIM zavihki</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS sporočilo poslano s SIM kartice %s za aktiviranje \"Najdi napravo\"</string>
+  <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinhnoriziraj klicno zgodovino</string>
   <string name="activate_feature_find_device">Najdi napravo</string>
   <string name="activate_feature_mms_sync">Sinhnoriziraj SMS</string>
@@ -18,11 +18,11 @@
   <string name="activate_history_overview">Aktiviranje za SIM kartico %1$s. Aktivirano z opravilom \"%2$s\".</string>
   <string name="activate_history_sms">Aktivacijski SMS je bil poslan med aktivacijo</string>
   <string name="activate_history_success">Uspešno</string>
-  <string name="activate_history_title">Aktiviranje SIM zavihki</string>
-  <string name="activate_phone_cancel_notif_title">Aktiviranje SIM zavihki preklicano</string>
-  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM zavihki %s preklicano</string>
-  <string name="activate_phone_failed_notif_title">Ne morem aktivirati zavihki SIM</string>
-  <string name="activate_phone_failed_notif_title_msim">Ne morem aktivirati zavihki SIM %s</string>
+  <string name="activate_history_title">Aktiviranje SIM kartice</string>
+  <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice preklicano</string>
+  <string name="activate_phone_cancel_notif_title_msim">Aktiviranje SIM kartice %s preklicano</string>
+  <string name="activate_phone_failed_notif_title">Ne morem aktivirati kartice SIM</string>
+  <string name="activate_phone_failed_notif_title_msim">Ne morem aktivirati kartice SIM %s</string>
   <string name="activate_phone_success_notif_title">SIM kartica aktivirana</string>
   <string name="activate_phone_success_notif_title_msim">SIM kartica %s aktivirana</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Poskušam ponovno</string>
@@ -45,7 +45,7 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
   <string name="activate_popup_desc_failed_receive_sms">Poskrbite da je telefonska številka ki ste jo vnesli pravilna in da je vaša kartica SIM aktivirana.</string>
   <string name="activate_popup_desc_failed_send_sms">Ne morem poslati aktivacijskega sporočila. Prepričajte se da je bila vaša kartica SIM aktivirana.</string>
   <string name="activate_popup_desc_failed_server">Preverite svojo podatkovno povezavo in poskusite znova.</string>
-  <string name="activate_popup_desc_find_device_postfix">SMS aktivacija bo poslana po zamenjavi SIM zavihki.</string>
+  <string name="activate_popup_desc_find_device_postfix">SMS aktivacija bo poslana po zamenjavi SIM kartice.</string>
   <string name="activate_popup_desc_intl_sim_card">Vaš ponudnik storitev vam lahko zaračuna mednarodno sporočilo SMS uporabljeno za aktiviranje %s.</string>
   <string name="activate_popup_desc_mixed_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 1 domače in 1 mednarodno sporočilo SMS uporabljeni za aktiviranje %s.</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Kaže da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 mednarodni SMS-sporočili uporabljeni za ponovno aktiviranje %s.</string>
@@ -86,8 +86,8 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Strežniku ni uspelo poslati aktivacijskega SMS sporočila na vaš telefon</string>
   <string name="activate_status_desc_query_activation_info_no_info">Ni aktivacijskih informacij na strežniku</string>
   <string name="activate_status_desc_query_activation_info_server_error">Med poizvedovanjem aktivacijskih podatkov je prišlo do napake v strežniku.</string>
-  <string name="activate_status_desc_registering_sim_account">Registracija zavihki SIM na strežniku</string>
-  <string name="activate_status_desc_registering_sim_account_server_error">Pri registraciji SIM zavihki je prišlo do napake v strežniku</string>
+  <string name="activate_status_desc_registering_sim_account">Registracija kartice SIM na strežniku</string>
+  <string name="activate_status_desc_registering_sim_account_server_error">Pri registraciji SIM kartice je prišlo do napake v strežniku</string>
   <string name="activate_status_desc_registering_xiaomi_account">Registracija Mi računa na strežniku</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Pri registraciji Mi računa je prišlo do napake v strežniku</string>
   <string name="activate_status_desc_request_activation_sms">Zahtevek aktivacijskega SMS sporočila od strežnika do telefona.</string>
@@ -98,8 +98,8 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
   <string name="activate_status_desc_wait_for_sms">Čakam na aktivacijski SMS iz strežnika</string>
   <string name="activate_status_desc_wait_for_sms_fail">Neuspešno prejet aktivacijski SMS iz strežnika</string>
   <string name="activate_status_desc_wait_for_sms_success">Uspešno prejet aktivacijski SMS iz strežnika</string>
-  <string name="activate_status_title_activating">Aktiviranje vaše zavihki SIM</string>
-  <string name="activate_status_title_activating_msim">Aktiviranje vaše zavihki SIM %s</string>
+  <string name="activate_status_title_activating">Aktiviranje vaše kartice SIM</string>
+  <string name="activate_status_title_activating_msim">Aktiviranje vaše kartice SIM %s</string>
   <string name="app_name">Xiaomi Aktivacija</string>
   <string name="error_device_id_message">"Neveljavna ID naprave: %s
 ID naprave mora biti veljaven IMEI ali MAC naslov. Brez ID naprave nekateri računi in cloud nastavitve ne bodo na voljo."</string>

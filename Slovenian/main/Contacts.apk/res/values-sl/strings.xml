@@ -320,7 +320,7 @@ Vizitke stikov so izključene"</string>
   <string name="delete_sim_entries_finish">Stiki na SIM kartici izbrisani</string>
   <string name="delete_sim_entry_miui">Izbriši</string>
   <string name="delete_unknown_contact_calllog_title">Izbrišem zgodovino klicev?</string>
-  <string name="deleting_sim_entry_miui">Brišem stike s SIM zavihki...</string>
+  <string name="deleting_sim_entry_miui">Brišem stike s SIM kartice...</string>
   <string name="deleting_sim_entry_miui_prepare">Priprava stikov…</string>
   <string name="description_add_contact">Dodaj stik</string>
   <string name="description_call">Kliči %1$s</string>
@@ -398,7 +398,7 @@ Vizitke stikov so izključene"</string>
 2. pri Android napravah mora biti vključeno tudi opravilo \"Viden\";
 
 3. Kliknite \"Dalje\" in dovolite dostop do stikov v naslednjem koraku."</string>
-  <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi s SIM zavihki", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
+  <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi iz SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
   <string name="device_version_header_bluetooth">Uvozi preko Bluetootha</string>
   <string name="device_version_header_no_bluetooth">Uvozi preko Bluetootha</string>
   <string name="dial">Kliči</string>
@@ -564,16 +564,16 @@ Razlog: \"%s\""</string>
   <string name="import_from_onekey_migrate">Uvozi z MiMover</string>
   <string name="import_from_other_device">Uvozi iz druge naprave</string>
   <string name="import_from_sdcard">Uvozi iz pomnilnika</string>
-  <string name="import_from_sim">Uvozi iz SIM zavihki</string>
-  <string name="import_from_sim1">Uvozi iz SIM zavihki 1</string>
-  <string name="import_from_sim2">Uvozi iz SIM zavihki 2</string>
+  <string name="import_from_sim">Uvozi iz SIM kartice</string>
+  <string name="import_from_sim1">Uvozi iz SIM kartice 1</string>
+  <string name="import_from_sim2">Uvozi iz SIM kartice 2</string>
   <string name="import_multiple_vcard_string">Uvozi več vCard datotek</string>
   <string name="import_name">Ime</string>
   <string name="import_one_vcard_string">Uvozi eno vCard datoteko</string>
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Uvozi izbrane stike</string>
   <string name="import_sim_contacts_hint_title">Uvozi SIM stike</string>
-  <string name="import_sim_entries_finish">Stiki uvoženi iz SIM zavihki</string>
+  <string name="import_sim_entries_finish">Stiki uvoženi iz SIM kartice</string>
   <string name="import_sim_entry_miui">Uvozi</string>
   <string name="import_to_xiaomi_account_confirm">Uvozi</string>
   <string name="import_to_xiaomi_account_progress_finish">Stiki uvoženi</string>
@@ -591,7 +591,7 @@ Razlog: \"%s\""</string>
   <string name="import_weibo_fetch_followers">Zbiranje stikov…</string>
   <string name="import_weibo_notification_title_done">Posodobljeno %s stikov</string>
   <string name="import_weibo_progress_name">Usklajevanje \"%1$s\"…</string>
-  <string name="importing_sim_contacts_miui">"Uvoz stikov iz SIM zavihki…"</string>
+  <string name="importing_sim_contacts_miui">"Uvoz stikov iz SIM kartice"</string>
   <string name="importing_sim_contacts_miui_prepare">Priprava stikov…</string>
   <string name="importing_vcard_canceled_title">"Uvoz %s preklican"</string>
   <string name="importing_vcard_description">Uvažanje %s</string>
@@ -888,7 +888,7 @@ Dostop iz vsakega brskalnika.
 Napravite varnostno kopijo stikov."</string>
   <string name="no_contact_details">Ni dodatnih informacij za ta stik.</string>
   <string name="no_contact_in_other_phone">Ni zaznanih stikov</string>
-  <string name="no_contacts_dialog_message">Stiki so lahko shranjeni na vaši SIM kartici. Poskusite uvoziti stike iz vaše SIM zavihki na pomnilnik vašega telefona in poskusite ponovno.</string>
+  <string name="no_contacts_dialog_message">Stiki so lahko shranjeni na vaši SIM kartici. Poskusite uvoziti stike iz vaše SIM kartice na pomnilnik vašega telefona in poskusite ponovno.</string>
   <string name="no_contacts_dialog_title">"Stikov ni mogoče najti"</string>
   <string name="no_contacts_selected">Izbran ni noben stik.</string>
   <string name="no_sdcard_message">"Shramba ni najdena."</string>
@@ -928,18 +928,18 @@ Napravite varnostno kopijo stikov."</string>
   <string name="path_display_only_phones">Aplikacije sistema/Stiki/Opcije prikaza/Skrij nepopolne številke</string>
   <string name="path_display_sim_contacts">Aplikacije sistema/Stiki/Opcije prikaza/Prikaži SIM stike</string>
   <string name="path_export_to_sdcard">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Izvoz iz pomnilnika</string>
-  <string name="path_export_to_sim">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Izvoz iz SIM zavihki</string>
+  <string name="path_export_to_sim">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Izvoz iz SIM kartice</string>
   <string name="path_import_export">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov</string>
   <string name="path_import_from_other_phone">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Uvoz iz drugega telefona</string>
   <string name="path_import_from_sdcard">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Uvoz iz pomnilnika</string>
-  <string name="path_import_from_sim">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Uvoz iz SIM zavihki</string>
+  <string name="path_import_from_sim">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Uvoz iz SIM kartice</string>
   <string name="path_key_photo_word">Aplikacije sistema/Stiki/Fotografija za vse</string>
   <string name="path_key_rebuild_t9_index_title">Aplikacije sistema/Stiki/Organizraj stike/Ponovno izgradi podatke indeksa</string>
-  <string name="path_key_sim_manage">Aplikacije sistema/Stiki/Organizraj stike/SIM zavihki</string>
+  <string name="path_key_sim_manage">Aplikacije sistema/Stiki/Organizraj stike/SIM kartica</string>
   <string name="path_preference_contacts_filter">Aplikacije sistema/Stiki/Opcije prikaza/Konfigururaj seznam stikov</string>
   <string name="path_remove_duplicate">Aplikacije sistema/Stiki/Organizraj stike/Združi podvojene stike</string>
   <string name="path_share_visible_contacts">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Deli stike</string>
-  <string name="path_sim_capacity">Aplikacije sistema/Stiki/Pomnilnik SIM zavihki</string>
+  <string name="path_sim_capacity">Aplikacije sistema/Stiki/Pomnilnik SIM kartice</string>
   <string name="path_simple_mode">Aplikacije sistema/Stiki/Prikaži slike in informacije</string>
   <string name="path_smart_group_title">Aplikacije sistema/Stiki/Opcije prikaza/Pametne skupine</string>
   <string name="path_wipe_data">Aplikacije sistema/Stiki/Organizraj stike/Izbriši podatke</string>
@@ -987,7 +987,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pref_key_sdn_manage">Prikaži SDN</string>
   <string name="pref_key_sdn_manage1">Prikaži SDN zavihki 1</string>
   <string name="pref_key_sdn_manage2">Prikaži SDN zavihki 2</string>
-  <string name="pref_key_sim_manage">SIM zavihki</string>
+  <string name="pref_key_sim_manage">SIM kartica</string>
   <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
   <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
   <string name="pref_rcs_backup_restore_title">Nastavitve var.kopije &amp; obnovitev</string>
@@ -1137,7 +1137,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_contacts_display">Stiki;Prikaz</string>
   <string name="search_contacts_more">Organiziraj;Stiki</string>
   <string name="search_contacts_recovery">Stiki</string>
-  <string name="search_contacts_setting">Nastavitve stikov;Prikaži slike in informacije;Fotografija za vse;Uvoz in izvoz;Deli; Import from sdcard;Uvoz iz SD zavihki;Uvoz iz SIM zavihki;Uvoz iz drugega telefona;Izvoz iz SD zavihki;Uvoz iz SD zavihki;Deli vidljive stike;Prikaži stike;Skrij nepopolne številke;Prikaži SIM stike;Napravi seznam stikov;Pametne skupine;Organizraj stike; Združi podvojene stike;Brisanje serije;Izbriši serijo;Ponovno izgradi podatke indeksa;t9;SIM zavihki;Pomnilnik SIM zavihki;Obnovi stike</string>
+  <string name="search_contacts_setting">Nastavitve stikov;Prikaži slike in informacije;Fotografija za vse;Uvoz in izvoz;Deli; Import from sdcard;Uvoz iz SD zavihki;Uvoz iz SIM kartice;Uvoz iz drugega telefona;Izvoz iz SD zavihki;Uvoz iz SD zavihki;Deli vidljive stike;Prikaži stike;Skrij nepopolne številke;Prikaži SIM stike;Napravi seznam stikov;Pametne skupine;Organizraj stike; Združi podvojene stike;Brisanje serije;Izbriši serijo;Ponovno izgradi podatke indeksa;t9;SIM kartica;Pomnilnik SIM kartice;Obnovi stike</string>
   <string name="search_display_only_phones">Stiki;Prikaz</string>
   <string name="search_display_sim_contacts">Stiki;Prikaz</string>
   <string name="search_export_to_sdcard">Stiki;Izvoz;SD kartica</string>
@@ -1186,12 +1186,12 @@ Napravite varnostno kopijo stikov."</string>
   <string name="shortcutDialContact">Neposredno klicanje</string>
   <string name="shortcutMessageContact">Neposredno sporočilo</string>
   <string name="showAllContactsJoinItem">Prikaži vse stike</string>
-  <string name="simContacts_airplaneMode">Za uvoz stikov iz SIM zavihki izklopite letalski način</string>
+  <string name="simContacts_airplaneMode">Za uvoz stikov iz SIM kartice izklopite letalski način</string>
   <string name="simContacts_empty">Na SIM kartici ni stikov</string>
-  <string name="simContacts_emptyLoading">Nalagam stike s SIM zavihki...</string>
-  <string name="simContacts_title">Stiki SIM zavihki</string>
+  <string name="simContacts_emptyLoading">Nalagam stike s SIM kartice...</string>
+  <string name="simContacts_title">Stiki SIM kartice</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_capacity">Prikaži prostor SIM zavihki</string>
+  <string name="sim_capacity">Prikaži prostor SIM kartice</string>
   <string name="sim_capacity_content" formatted="false">Skupaj %d | Izkoriščeno %d</string>
   <string name="sim_card_no_free_space_message">Ni dovolj prostora</string>
   <string name="sim_card_no_free_space_title">SIM kartica je polna</string>
@@ -1200,7 +1200,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="sim_contact_existing">Stik že obstaja</string>
   <string name="sim_contact_invalid">Nepravilen SIM stik</string>
   <string name="sim_contact_search_error">Prišlo je do napake</string>
-  <string name="sim_contacts">Stiki SIM zavihki</string>
+  <string name="sim_contacts">Stiki SIM kartice</string>
   <string name="sim_error_anr_full">Na SIM kartici ni dovolj prostora</string>
   <string name="sim_error_email_full">Na SIM kartici ni dovolj prostora</string>
   <string name="sim_error_email_too_long">E-pošta je predolga</string>

@@ -670,7 +670,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="passport_error_network">"Ne morem se povezati na omrežje"</string>
   <string name="passport_error_phone_error">Neveljavna tel. številka</string>
   <string name="passport_error_server">Napaka strežnika</string>
-  <string name="passport_error_sim_not_ready">"Ne najdem SIM zavihki"</string>
+  <string name="passport_error_sim_not_ready">"Ne najdem SIM kartice"</string>
   <string name="passport_error_ssl_hand_shake">"Ne morem se povezati s strežnikom"</string>
   <string name="passport_error_unknown">"Ne morem se prijaviti"</string>
   <string name="passport_error_user_name">Neveljavno uporab. ime</string>

@@ -25,7 +25,7 @@
   <string name="callFailed_powerOff">Radio izključen</string>
   <string name="callFailed_server_error">Napaka strežnika. Poskusite ponovno.</string>
   <string name="callFailed_server_unreachable">Strežnik ni dosegljiv</string>
-  <string name="callFailed_simError">Napaka SIM zavihki</string>
+  <string name="callFailed_simError">Napaka SIM kartice</string>
   <string name="callFailed_timedOut">Ni odgovora strežnika</string>
   <string name="callFailed_unobtainable_number">Nepravilna številka</string>
   <string name="callFailed_userBusy">Linija zasedena</string>

@@ -152,9 +152,9 @@
   <string name="bluetooth_profile_pan_nap">Skupna raba spletne povezave</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
-  <string name="bluetooth_profile_sap">Dostop do zavihki SIM</string>
+  <string name="bluetooth_profile_sap">Dostop do kartica SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do zavihki SIM</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartica SIM</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Število bitov na vzorec za zvok prek Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
 Izbor: število bitov na vzorec"</string>
@@ -187,7 +187,7 @@ Avdio"</string>
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
   <string name="bugreport_in_power_summary">Prikaz gumba za ustvarjanje poročila o napakah v meniju</string>
   <string name="button_convert_fbe">Izbriši in preklopi …</string>
-  <string name="callFailed_simError">Napaka SIM zavihki</string>
+  <string name="callFailed_simError">Napaka SIM kartice</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne morem poslati videoklica dokler poteka glasovni klic"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne morem izbirati med videoklicem"</string>
     <string name="cancel">Prekliči</string>

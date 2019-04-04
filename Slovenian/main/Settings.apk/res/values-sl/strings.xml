@@ -1142,16 +1142,16 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_profile_pan_nap">Skupna raba spletne povezave</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
-  <string name="bluetooth_profile_sap">Dostop do zavihki SIM</string>
+  <string name="bluetooth_profile_sap">Dostop do kartica SIM</string>
   <string name="bluetooth_quick_toggle_summary">Vklopi Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_remember_choice">Ne sprašuj več</string>
   <string name="bluetooth_rename_button">Preimenuj</string>
   <string name="bluetooth_rename_device">Preimenuj to napravo</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše zavihki SIM. Z omogočanjem dostopa do zavihki SIM bodo v napravi v času povezave onemogočene podatkovne povezave. Omogočim dostop za %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše kartica SIM. Z omogočanjem dostopa do kartica SIM bodo v napravi v času povezave onemogočene podatkovne povezave. Omogočim dostop za %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do zavihki SIM</string>
-  <string name="bluetooth_sap_request">Zahteva za dostop do zavihki SIM</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartica SIM</string>
+  <string name="bluetooth_sap_request">Zahteva za dostop do kartica SIM</string>
   <string name="bluetooth_scan_for_devices">Išči naprave</string>
     <string name="bluetooth_scanning_on_info_message">"Ko je Bluetooth vklopljen, lahko vaša naprava komunicira z drugimi napravami Bluetooth v bližini.
 
@@ -1794,7 +1794,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="data_saver_title">Varčevanje s podatki</string>
     <string name="data_size_label">Uporabniški podatki</string>
     <string name="data_summary_format">Preneseno %1$s od %2$s</string>
-  <string name="data_switch_started">Preklop podatkovne zavihki SIM. Lahko traja kakšno minuto …</string>
+  <string name="data_switch_started">Preklop podatkovne kartica SIM. Lahko traja kakšno minuto …</string>
   <string name="data_usage_accounting">Operaterjeve meritve porabe podatkov so morda drugačne kot v napravi.</string>
   <string name="data_usage_app">Uporaba aplikacije</string>
   <string name="data_usage_app_info_label">PODATKI O APLIKACIJI</string>
@@ -1854,7 +1854,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="data_usage_menu_roaming">Podatkovno gostovanje</string>
   <string name="data_usage_menu_show_ethernet">Pokaži uporabo etherneta</string>
   <string name="data_usage_menu_show_wifi">Pokaži porabo WiFi</string>
-  <string name="data_usage_menu_sim_cards">Zavihki SIM</string>
+  <string name="data_usage_menu_sim_cards">kartica SIM</string>
     <string name="data_usage_menu_split_4g">Ločena uporaba 4G</string>
     <string name="data_usage_metered_auto">Samodejno</string>
     <string name="data_usage_metered_body">Ko je prenos podatkov v ozadju omejen, se omrežja z omejeno količino prenosa obravnavajo kot mobilna omrežja. V primeru velikih prenosov lahko aplikacije opozorijo pred uporabo teh omrežij.</string>
@@ -3943,7 +3943,7 @@ Na tej napravi je več uporabnikov.
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mobile_insert_sim_card">Vstavite SIM in znova zaženite</string>
   <string name="mobile_no_provisioning_url">%1$s nima znanega spletnega mesta za omogočanje uporabe</string>
-  <string name="mobile_unknown_sim_operator">Neznan ponudnik zavihki SIM</string>
+  <string name="mobile_unknown_sim_operator">Neznan ponudnik kartica SIM</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
@@ -4844,7 +4844,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="picture_in_picture_on">Da</string>
     <string name="picture_in_picture_title">Slika v sliki</string>
   <string name="picture_source">Vir slike</string>
-  <string name="pin_failed">Postopek za odklepanje s kodo PIN zavihki SIM ni uspel.</string>
+  <string name="pin_failed">Postopek za odklepanje s kodo PIN kartica SIM ni uspel.</string>
   <string name="ping_test_label">Zaženi ping test</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale znamke</string>
@@ -5978,7 +5978,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
     <string name="security_settings_fingerprint_preference_summary_none">Dotaknite se, da nastavite prstni odtis</string>
     <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
   <string name="security_settings_premium_sms_desc">Pošlji SMS za plačljive storitve</string>
-  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje zavihki SIM, zaklepanje shrambe poverilnic</string>
+  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartica SIM, zaklepanje shrambe poverilnic</string>
     <string name="security_settings_title">Varnost in lokacija</string>
   <string name="security_status">Varnost</string>
     <string name="security_status_title">Stanje varnosti</string>
@@ -6011,7 +6011,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="select_runtime_warning_message">Ponoven zagon za spremembo časa delovanja iz %1$s v %2$s?</string>
   <string name="select_sim_card">Izberi SIM kartico</string>
     <string name="select_sim_for_calls">Klicanje z uporabo</string>
-  <string name="select_sim_for_data">Izbira zavihki SIM za prenos podatkov</string>
+  <string name="select_sim_for_data">Izbira kartica SIM za prenos podatkov</string>
   <string name="select_ssid_type_title">Izberi SSID</string>
   <string name="select_time_format_category_title">Format časa</string>
   <string name="select_time_format_title">Format časa</string>
@@ -6166,12 +6166,12 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="silent_total">DND</string>
   <string name="sim_absent">Ni SIM/RUIM</string>
   <string name="sim_bad_pin">PIN mora imeti 4-8 številk</string>
-  <string name="sim_call_back_title">Povratni klic s privzete zavihki SIM</string>
+  <string name="sim_call_back_title">Povratni klic s privzete kartica SIM</string>
   <string name="sim_calls_always_use">Vedno uporabi to možnost za klice</string>
   <string name="sim_calls_ask_first_prefs_title">Vedno vprašaj</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Izberite kartico SIM</string>
-  <string name="sim_cards_changed_message">Zavihki SIM so spremenjene</string>
+  <string name="sim_cards_changed_message">kartica SIM so spremenjene</string>
   <string name="sim_cards_changed_message_summary">Dotaknite se za nastavitev dejavnosti</string>
   <string name="sim_cellular_data_unavailable">Prenos podat. v mob. omrež. ni na voljo</string>
   <string name="sim_cellular_data_unavailable_summary">Dotaknite se da izberete SIM za prenos podatkov</string>
@@ -6184,8 +6184,8 @@ Koda PIN je morda napačna."</string>
   <string name="sim_change_succeeded">Sprememba kode PIN za kartico SIM je uspela</string>
   <string name="sim_disable_sim_lock">Odkleni kartico SIM</string>
   <string name="sim_editor_carrier">Operater</string>
-  <string name="sim_editor_color">Barva zavihki SIM</string>
-  <string name="sim_editor_name">Ime zavihki SIM</string>
+  <string name="sim_editor_color">Barva kartice SIM</string>
+  <string name="sim_editor_name">Ime kartice SIM</string>
   <string name="sim_editor_num_format">Prikaži številke</string>
   <string name="sim_editor_number">Številka</string>
     <string name="sim_editor_title">Reža za SIM %1$d</string>
@@ -6193,12 +6193,12 @@ Koda PIN je morda napačna."</string>
   <string name="sim_enable_sim_lock">Zakleni kartico SIM</string>
   <string name="sim_enabled">Omogočeno</string>
   <string name="sim_enabler_airplane_on">Napaka, vključen je način Na letalu!</string>
-  <string name="sim_enabler_both_inactive">"Napaka, ne morem onemogočiti SIM zavihki"</string>
+  <string name="sim_enabler_both_inactive">"Napaka, ne morem onemogočiti SIM kartice"</string>
   <string name="sim_enabler_disabling">Deaktiviranje…</string>
   <string name="sim_enabler_enabling">Aktiviranje…</string>
   <string name="sim_enabler_in_call">Napaka, klic v teku!</string>
-  <string name="sim_enabler_need_disable_sim">Deaktivacija SIM zavihki, ali ste prepričani?</string>
-  <string name="sim_enabler_need_enable_sim">Aktivacija SIM zavihki, ali ste prepričani?</string>
+  <string name="sim_enabler_need_disable_sim">Deaktivacija SIM kartice, ali ste prepričani?</string>
+  <string name="sim_enabler_need_enable_sim">Aktivacija SIM kartice, ali ste prepričani?</string>
   <string name="sim_enabler_need_switch_data_service">Onemogočeno bo spreminjanje na SIM %1$s  za podatkovne storitve, ali ste prepričani?</string>
   <string name="sim_enabler_summary">SIM je %1$s</string>
   <string name="sim_enabler_title">SIM ponudniki</string>
@@ -6209,28 +6209,28 @@ Koda PIN je morda napačna."</string>
     <string name="sim_enter_old">Stara koda PIN za kartico SIM</string>
     <string name="sim_enter_pin">Koda PIN za kartico SIM</string>
   <string name="sim_lock_change_not_supported">"Ne morem spremeniti zaklepanja SIM."</string>
-  <string name="sim_lock_failed">"Zaklepanja zavihki SIM ni mogoče spremeniti.
+  <string name="sim_lock_failed">"Zaklepanja kartice SIM ni mogoče spremeniti.
 Morda je koda PIN napačna."</string>
   <string name="sim_lock_off">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_on">Zahtevaj kodo PIN za uporabo telefona</string>
-  <string name="sim_lock_settings">Nastavitve zakl. zavihki SIM</string>
-    <string name="sim_lock_settings_category">Zaklepanje zavihki SIM</string>
+  <string name="sim_lock_settings">Nastavitve zakl. kartice SIM</string>
+    <string name="sim_lock_settings_category">Zaklepanje kartice SIM</string>
     <string name="sim_lock_settings_summary_off">Izklopljeno</string>
     <string name="sim_lock_settings_summary_on">Zaklenjeno</string>
-  <string name="sim_lock_settings_title">Zaklepanje zavihki SIM</string>
-  <string name="sim_management_title">SIM zavihki in mobilna omrežja</string>
+  <string name="sim_lock_settings_title">Zaklepanje kartica SIM</string>
+  <string name="sim_management_title">SIM kartica in mobilna omrežja</string>
   <string name="sim_management_title_singlesim">SIM kartica &amp; mobilna omrežja</string>
   <string name="sim_missing">SIM manjka ali pa je napaka</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
-  <string name="sim_name_hint">Vnesite ime zavihki SIM</string>
+  <string name="sim_name_hint">Vnesite ime kartica SIM</string>
   <string name="sim_no_inserted_msg">Ni vstavljenih kartic SIM</string>
   <string name="sim_notification_summary">Dotaknite se za nastavitev</string>
   <string name="sim_notification_title">Zamenjava kartic SIM.</string>
   <string name="sim_other_call_settings">Druge nastavitve klicev</string>
   <string name="sim_outgoing_call_title">Kartica SIM za odhodne klice</string>
   <string name="sim_pin_attempts">"Preostalo še poskusov:"</string>
-    <string name="sim_pin_change">Spremeni kodo PIN zavihki SIM</string>
+    <string name="sim_pin_change">Spremeni kodo PIN kartica SIM</string>
   <string name="sim_pin_change_failed_enable_sim_lock">"Ne morem zamenjati SIM/RUIM PIN. Omogoči SIM/RUIM zaklepanje."</string>
   <string name="sim_pin_disable_failed">"Ne morem onemogočiti PIN."</string>
   <string name="sim_pin_disabled">PIN1 onemogočen!</string>
@@ -6244,15 +6244,15 @@ Morda je koda PIN napačna."</string>
   <string name="sim_radio_off">Izključeno</string>
   <string name="sim_reenter_new">Znova vnesite novi PIN</string>
   <string name="sim_select_card">Izberite kartico SIM</string>
-    <string name="sim_selection_channel_title">Izbira zavihki SIM</string>
+    <string name="sim_selection_channel_title">Izbira kartica SIM</string>
   <string name="sim_selection_required_pref">Zahtevana je izbira</string>
-    <string name="sim_settings_title">Zavihki SIM</string>
+    <string name="sim_settings_title">kartica SIM</string>
   <string name="sim_setup_wizard_title">Kartici SIM</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">SIM reža je prazna</string>
   <string name="sim_status_summary">Informacije povezane s SIM-om</string>
-  <string name="sim_status_title">Stanje zavihki SIM</string>
-    <string name="sim_status_title_sim_slot">Stanje zavihki SIM (reža za SIM %1$d)</string>
+  <string name="sim_status_title">Stanje kartica SIM</string>
+    <string name="sim_status_title_sim_slot">Stanje kartica SIM (reža za SIM %1$d)</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
   <string name="single_key_use">Ena tipka</string>
   <string name="single_key_use_summary">Uporabite tipko Domov za opravila ki jih opravljata druge dve tipke</string>
@@ -6402,7 +6402,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_app_enable_floating">Lebdeča obvestila</string>
   <string name="status_bar_app_enable_keyguard">Zakl. zaslon</string>
   <string name="status_bar_app_enable_message">Značke</string>
-  <string name="status_bar_carrier_settings_no_sim_card">Ni SIM zavihki</string>
+  <string name="status_bar_carrier_settings_no_sim_card">Ni SIM kartice</string>
   <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Zamenjajte položaj tipke</string>
@@ -6506,7 +6506,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_serialno">Identifikacijska številka</string>
   <string name="status_service_state">Stanje storitve</string>
   <string name="status_signal_strength">Moč signala</string>
-  <string name="status_sim">Status SIM zavihki</string>
+  <string name="status_sim">Status SIM kartice</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Dotaknite se da si ogledate podrobnosti.</string>
@@ -6939,7 +6939,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
 
 2.Lahko konfigurirate dostopno točko z nastavitvami WiFi dostopne točke."</string>
   <string name="tethering_help_dialog_title">Pomoč</string>
-  <string name="tethering_no_sim_alert_title">Ni SIM zavihki</string>
+  <string name="tethering_no_sim_alert_title">Ni SIM kartice</string>
   <string name="tethering_no_sim_card_text">Vstavite SIM kartico da lahko delite podatkovno povezavo z drugimi napravami z uporabo mobilne dostopne točke ali USB skupno rabo povezave s spletom.</string>
     <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Zbudite glasovnega pomočnika v načinu dela cel zaslon (brez virtualnih tipk)</string>
@@ -7663,7 +7663,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="virtual_sim_category_title">Mi gostovanje</string>
   <string name="virtual_sim_description">Zaupanja vredna mednarodna storitev gostovanja</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
-  <string name="virtual_sim_global_description">Povežite se s podatkovnim omrežjem bez SIM zavihki</string>
+  <string name="virtual_sim_global_description">Povežite se s podatkovnim omrežjem bez SIM kartice</string>
   <string name="virtual_sim_global_title">Storitev mob. podatkov</string>
   <string name="virtual_sim_search_title">Navidezni SIM</string>
   <string name="virtual_sim_title">Gostovanje omrežje podatkov</string>
@@ -8479,7 +8479,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="write_settings_title">Lahko spreminjajo sistemske nastavitve</string>
   <string name="write_system_settings">Spreminjanje sist. nastavitev</string>
   <string name="write_tag">Zapiši</string>
-  <string name="wrong_pin_code_pukked">Napačna PIN koda zavihki SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
+  <string name="wrong_pin_code_pukked">Napačna PIN koda kartica SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira stike, fotografije in ostale stvari v vaši napravi. \"Najdi napravo\" tudi potebuje Mi Cloud za normalno delovanje.</string>

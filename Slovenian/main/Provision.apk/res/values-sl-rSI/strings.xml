@@ -49,8 +49,8 @@
   <string name="locale_picker_title">Izberite vašo regijo</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete pogoje ponudnika storitev na %s"</string>
-  <string name="multisim_settings_category">Nastavitve izbrane SIM zavihki</string>
-  <string name="multisim_settings_title">Najdene 2 SIM zavihki</string>
+  <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
+  <string name="multisim_settings_title">Najdene 2 SIM kartice</string>
   <string name="navigation_picker_gesture_guide">Vodič za gibe</string>
   <string name="navigation_picker_radio_text_full_screen">Gibi v celem zaslonu</string>
   <string name="navigation_picker_radio_text_virtual_key">Tipke</string>
@@ -85,11 +85,11 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="setting_locale">Nastavljanje regije…</string>
   <string name="shut_down">Izklop</string>
   <string name="sim_card_detecting">Preverjam SIM kartico…</string>
-  <string name="sim_card_detecting_check">"Ne najdem SIM zavihki. Preverite ali je SIM kartica pravilno vstavljena in če imate li dovolj sredstev na svojem računu."</string>
+  <string name="sim_card_detecting_check">"Ne najdem SIM kartice. Preverite ali je SIM kartica pravilno vstavljena in če imate li dovolj sredstev na svojem računu."</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Dovolim povezovanje z mobilnimi podatkovnimi omrežji? SIM kartica bo uporabljena za povezovanje z mobilnimi podatkovnimi omrežji.</string>
-  <string name="sim_card_detecting_title">Preverjanje SIM zavihki</string>
+  <string name="sim_card_detecting_title">Preverjanje SIM kartice</string>
   <string name="sim_card_detection">Vstavite SIM kartico</string>
-  <string name="sim_card_detection_info">Za vstavitev SIM zavihki preberite navodila naprave</string>
+  <string name="sim_card_detection_info">Za vstavitev SIM kartice preberite navodila naprave</string>
   <string name="sim_card_detection_mobile_not_available">"SIM kartica se ne more povezati na omrežje"</string>
   <string name="sim_dectection_next">Nadaljuj</string>
   <string name="sim_redetection">Preveri ponovno</string>
