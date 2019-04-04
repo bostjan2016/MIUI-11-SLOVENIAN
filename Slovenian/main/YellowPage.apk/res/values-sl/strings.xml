@@ -552,7 +552,7 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="scan">Skeniraj</string>
   <string name="sdcard_not_mounted_dialog_message">"Vstavite SD kartico.
 "</string>
-  <string name="sdcard_not_mounted_dialog_title">Ni SD zavihki</string>
+  <string name="sdcard_not_mounted_dialog_title">Ni SD kartice</string>
   <string name="select_package_before_buy">Izberi paket</string>
   <string name="send_shortcut_already_exists">Začetni zaslon že obstaja</string>
   <string name="selected_category_format">Označeno od %2$d oseb kot %1$s.</string>

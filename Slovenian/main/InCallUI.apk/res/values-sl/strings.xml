@@ -43,7 +43,7 @@
   <string name="call_recording_deny_permission_msg">"Zavrnili ste dovoljenje  za snemanje, ne morem snemati."</string>
   <string name="call_recording_error_low_storage">Ni dovolj prostora na SD kartici</string>
   <string name="call_recording_error_privacy">Snemanje ni mogoče medtem ko ste v načinu Gost</string>
-  <string name="call_recording_error_sd_access">Dostop do SD zavihki ni mogoč</string>
+  <string name="call_recording_error_sd_access">Dostop do SD kartice ni mogoč</string>
   <string name="call_recording_error_sd_unmounted">Snemanje ustavljeno: SD kartica ni vstavljena.</string>
   <string name="call_recording_error_start_failed">Snemalnik uporablja druga aplikacija</string>
   <string name="call_recording_error_unknown">Neznana napaka</string>

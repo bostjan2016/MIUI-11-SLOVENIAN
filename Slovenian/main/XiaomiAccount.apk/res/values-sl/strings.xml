@@ -120,8 +120,8 @@
   <string name="data_wipe_from_device">Izbriši iz te naprave</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_app">Izbriši aplikacijo</string>
-  <string name="delete_bank_card_message">Mi Pay bančne zavihki in NFC zavihki bodo izbrisane ko se odjavite.</string>
-  <string name="delete_bank_card_title">Brisanje vaše bančne zavihki</string>
+  <string name="delete_bank_card_message">Mi Pay bančne kartice in NFC kartice bodo izbrisane ko se odjavite.</string>
+  <string name="delete_bank_card_title">Brisanje vaše bančne kartice</string>
   <string name="delete_browser">Izbriši brskalnik</string>
   <string name="delete_device">Izbriši napravo</string>
   <string name="delete_device_btn">Odstrani</string>

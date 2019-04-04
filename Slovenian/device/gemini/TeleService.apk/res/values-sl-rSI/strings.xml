@@ -1095,7 +1095,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="msim_not_set_summary">Ni nastavljeno</string>
   <string name="msim_pref_title_data">Splet</string>
   <string name="msim_pref_title_voice">Klicanje</string>
-  <string name="msim_set_icc_card_error">Napaka ICC zavihki</string>
+  <string name="msim_set_icc_card_error">Napaka ICC kartice</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Ni mogoče nastaviti med klicem</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Napaka SIM kartice</string>
   <string name="msim_setting_categery_title">Nastavitve SIM kartice</string>

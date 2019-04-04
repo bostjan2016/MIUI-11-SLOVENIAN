@@ -3355,7 +3355,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>
   <string name="xiaomi_traffic_pass_expiry_date">Aktivno do %s</string>
   <string name="xiaomi_traffic_pass_in_use">Uporablja</string>
-  <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke zavihki. Prestavim zdaj?</string>
+  <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke kartice. Prestavim zdaj?</string>
   <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira tega opravila"</string>
   <string name="xiaomi_traffic_pass_notify_content_using">Preostalo %s</string>
   <string name="xiaomi_traffic_pass_notify_title_using">Uporablja se Mi Data načrt</string>

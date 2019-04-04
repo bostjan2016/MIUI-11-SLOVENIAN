@@ -559,7 +559,7 @@
   <string name="pref_title_fwd_sender_info">Posreduj informacije pošiljatelja</string>
   <string name="pref_title_hide_festival">Skrij opravila kitajskega jezika</string>
   <string name="pref_title_manage_sim_messages">Upravljanje sporočil na kartici SIM</string>
-  <string name="pref_title_miui_card">Pošlji preko zavihki</string>
+  <string name="pref_title_miui_card">Pošlji preko kartice</string>
   <string name="pref_title_mms_auto_retrieval">Samodejno pridobi MMS</string>
   <string name="pref_title_mms_delete">Meja večpredstavnostnega sporočila</string>
   <string name="pref_title_mms_read_reports">Preberi sporočila</string>

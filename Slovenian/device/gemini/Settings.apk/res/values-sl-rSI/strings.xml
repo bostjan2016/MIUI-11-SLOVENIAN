@@ -2987,7 +2987,7 @@ Na tej napravi je več uporabnikov.
   <string name="print_settings_title">Tiskalne storitve</string>
   <string name="printer_info_desc">Več informacij o tem tiskalniku</string>
   <string name="priority_storage_app_settings">Podatki bodo shranjeni v %1$s</string>
-  <string name="priority_storage_settings_summary">Če ni zaznane SD zavihki bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
+  <string name="priority_storage_settings_summary">Če ni zaznane SD kartice bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
   <string name="privacy_applock">Zakl.  aplik.</string>
@@ -4008,7 +4008,7 @@ Za prikaz vse vsebine medija za pomnilnik ^1 tapnite \"Razišči\"."</string>
   <string name="storage_dialog_unmounted">"Medij za pomnilnik  ^1 je izpet na varen način, ampak je še dostopen. 
 
 Za uporabo medija za pomnilnik ^1 ga najprej vpnite."</string>
-  <string name="storage_dialog_unsupported">"Naprava ne podpira SD zavihki ^1. 
+  <string name="storage_dialog_unsupported">"Naprava ne podpira SD kartice ^1. 
 
 Najprej jo nastavite pred uporabo."</string>
   <string name="storage_external_title">Prenosni pomnilnik</string>

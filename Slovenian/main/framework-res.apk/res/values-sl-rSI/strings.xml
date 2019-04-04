@@ -1042,7 +1042,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindGadget">Aplikaciji omogoča da sistemu ukaže katere pripomočke je mogoče uporabiti s katerim programom. S tem dovoljenjem lahko aplikacije drugim aplikacijam dajo dostop do osebnih podatkov. Ni za uporabo z navadnimi aplikacijami.</string>
   <string name="permdesc_bindInputMethod">Lastniku omogoči da se poveže z vmesnikom načina vnosa najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindJobService">To dovoljuje sistemu Android izvajanje aplikacije v ozadju na zahtevo.</string>
-  <string name="permdesc_bindNfcService">Dovoljuje da se lastnik poveže z aplikacijami ki posnamejo zavihki za NFC. Pri navadnih aplikacijah to ne bi smelo biti potrebno.</string>
+  <string name="permdesc_bindNfcService">Dovoljuje da se lastnik poveže z aplikacijami ki posnamejo kartice za NFC. Pri navadnih aplikacijah to ne bi smelo biti potrebno.</string>
   <string name="permdesc_bindNotificationListenerService">Lastniku omogoča povezovanje z vmesnikom storitve poslušalca obvestil najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindPackageVerifier">Imetniku omogoča zahtevanje preverjanja paketov. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_bindPrintService">Lastniku omogoča povezovanje z vmesnikom storitve tiskanja najvišje ravni. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>

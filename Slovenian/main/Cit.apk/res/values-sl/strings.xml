@@ -3,7 +3,7 @@
   <string name="FpTest">Zaženi FpTest</string>
   <string name="FpTest_result">FpTest rezultat:</string>
   <string name="SDCard">SD Kartica</string>
-  <string name="SD_INTERNAL_SDCard_mounted">Vpenjanje notranje SD zavihki</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Vpenjanje notranje SD kartice</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Notranja SD kartica ni na voljo</string>
   <string name="SD_SDCard_available_szie">velikost na voljo</string>
   <string name="SD_SDCard_mounted">Vpni SD kartico</string>
@@ -188,8 +188,8 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_emergencycall_check_title">Nujni klic</string>
   <string name="cit_exit_test_summary">Pri izhodu bodo izbrisani vsi povezani tekstualni podatki.</string>
   <string name="cit_exit_test_title">Ustavi testiranje</string>
-  <string name="cit_external_sd_check_summary">To testiranje bo preverilo status SD zavihki</string>
-  <string name="cit_external_sd_check_title">Testiranje SD zavihki</string>
+  <string name="cit_external_sd_check_summary">To testiranje bo preverilo status SD zavkarticeihki</string>
+  <string name="cit_external_sd_check_title">Testiranje SD kartice</string>
   <string name="cit_fail">Ni uspelo</string>
   <string name="cit_finger_check_title">Testiranje prstnih odtisev (FPC)</string>
   <string name="cit_flash_life_check_summary">Ocena časa trajanja bliskavice naprave</string>
@@ -321,7 +321,7 @@ Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. roka
   <string name="cit_recovery_signature_passed">Recovery podpis USPEŠNO</string>
   <string name="cit_reset_check_summary">To testiranje bo ponovno zagnalo napravo. Vsi podatki testiranje bodo izgubljeni.</string>
   <string name="cit_reset_check_title">Testiranje Ponovnega zagona</string>
-  <string name="cit_reset_ese_summary">Ponastavi eSE, vse vaše NFC bančne zavihki in prenosne zavihki bodo izbrisane.</string>
+  <string name="cit_reset_ese_summary">Ponastavi eSE, vse vaše NFC bančne kartice in prenosne kartice bodo izbrisane.</string>
   <string name="cit_reset_ese_title">Ponastavi eSE</string>
   <string name="cit_reset_se">Ponastavi eSE</string>
   <string name="cit_reset_se_nfc_closed">Ni uspelo: NFC mora biti omogočen.</string>
@@ -330,10 +330,10 @@ Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. roka
   <string name="cit_sar_sensor_check_summary">V nadaljevanju se morajo prikazati vrednosti kanala senzorja, pokrijte tipke telefona, če so podatki spremenjeni, deluje dobro</string>
   <string name="cit_sar_sensor_check_title">SAR senzor</string>
   <string name="cit_sd_fail">Prišlo je do napake.</string>
-  <string name="cit_sd_mount">Vpenjanje SD zavihki</string>
+  <string name="cit_sd_mount">Vpenjanje SD kartice</string>
   <string name="cit_sd_mount_sucess">SD kartica vpeta</string>
   <string name="cit_sd_mp3_not_existed">"Na SD kartici ni datoteke z imenom \"music.mp3\"
-Ko boste dali \"music.mp3\" v direktorij SD zavihki, se dotaknite zaslona za predvajanje."</string>
+Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za predvajanje."</string>
   <string name="cit_sd_plugged_in">SD kartica najdena, odstranite SD kartico</string>
   <string name="cit_sd_plugged_out">SD kartica je odstranjena, vstavite SD kartico</string>
   <string name="cit_sd_plugin_check_summary">Tekst \"SD kartica najdena, odstranite SD kartico\" bi moral biti prikazan.</string>

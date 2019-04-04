@@ -544,8 +544,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_progress_subdescript_transing_sender">Pošiljanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Sprejem datotek, %s končano</string>
   <string name="trans_progress_subdescript_transingsd_sender">Pošiljanje datotek, %s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD zavihki %1$s, %2$s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD zavihki %1$s, %2$s končano</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD kartice %1$s, %2$s končano</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD kartice %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
   <string name="trans_receiver">"Sem prejemnik"</string>
   <string name="trans_receiver_time_remained">"%s preostalo.

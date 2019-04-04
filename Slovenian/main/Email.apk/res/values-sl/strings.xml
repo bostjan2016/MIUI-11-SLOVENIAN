@@ -796,7 +796,7 @@ Poskusite z ostalo pošto."</string>
   <string name="policy_require_encryption">Zahtevaj kriptiranje naprave</string>
   <string name="policy_require_manual_sync_roaming">Dovoli samo ročno sinhronizacijo med gostovanjem</string>
   <string name="policy_require_password">Zahtevaj geslo naprave</string>
-  <string name="policy_require_sd_encryption">Zahtevaj enkripcijo SD zavihki</string>
+  <string name="policy_require_sd_encryption">Zahtevaj enkripcijo SD kartice</string>
   <string name="policy_require_smime">Zahtevaj SMIME sporočila</string>
   <string name="policy_screen_timeout">Zahtevaj da naprava zaklene zaslon</string>
   <string name="policy_text_truncation">Omeji velikost besedila v sporočilu</string>
@@ -927,7 +927,7 @@ Poskusite z ostalo pošto."</string>
   <string name="save_this_new_signature">Shranim nov podpis?</string>
   <string name="saved">Shranjeno, %s</string>
   <string name="saving">Shranjujem</string>
-  <string name="sdcard_cannot_use">"Ne morem uporabiti SD zavihki"</string>
+  <string name="sdcard_cannot_use">"Ne morem uporabiti SD kartice"</string>
   <string name="search_bar_text">Iskanje sporočil in stikov</string>
   <string name="search_hint">Preišči pošto</string>
   <string name="search_result">Zadetki</string>

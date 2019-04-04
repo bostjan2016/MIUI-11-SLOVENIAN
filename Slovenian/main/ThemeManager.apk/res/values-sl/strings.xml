@@ -654,7 +654,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="theme_favorite_waiting">Trenutek…</string>
   <string name="theme_fresh_man_notifaction">Nove teme na voljo</string>
   <string name="theme_immediately_apply_tip">Uporabim posodobitev tem zdaj?</string>
-  <string name="theme_import_from_sdcard">Uvoz iz SD zavihki</string>
+  <string name="theme_import_from_sdcard">Uvoz iz SD kartice</string>
   <string name="theme_is_external_priority_storage">Shrani na SD kartico</string>
   <string name="theme_is_external_priority_storage_summary">Aplikacija Teme se bo ponovno zagnala za uveljavitev sprememb</string>
   <string name="theme_multiple_button_title_customize">Nastavi</string>

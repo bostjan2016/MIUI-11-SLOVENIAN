@@ -13,7 +13,7 @@
   <string name="agenda_assistant_account_num">Račun</string>
   <string name="agenda_assistant_add">Dodaj dogodek</string>
   <string name="agenda_assistant_allday">Cel dan</string>
-  <string name="agenda_assistant_credit_payment">Računi kreditne zavihki</string>
+  <string name="agenda_assistant_credit_payment">Računi kreditne kartice</string>
   <string name="agenda_assistant_electricity">Račun za električno energijo</string>
   <string name="agenda_assistant_empty">Danes ni dogodkov</string>
   <string name="agenda_assistant_finish">Vsi dogodki za danes končani</string>

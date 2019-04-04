@@ -21,7 +21,7 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="about_title">O aplikaciji</string>
   <string name="accept">V redu</string>
-  <string name="access_sd_fail">"Ne morem dostopiti do SD zavihki"</string>
+  <string name="access_sd_fail">"Ne morem dostopiti do SD kartice"</string>
   <string name="accessibility_shutter_button">Sprožilec</string>
   <string name="action_search">Išči</string>
   <string name="address">Naslov:</string>
@@ -170,7 +170,7 @@
   <string name="plant_reg_fail_2">"Ne morem prepoznati ta objekt. Skener lahko identificira samo rože."</string>
   <string name="plant_support">" (Tehnična podpora)"</string>
   <string name="plant_title">Skenirajte rastlino ki jo želite identificirati</string>
-  <string name="preparing_sd">Pripravljanje SD zavihki…</string>
+  <string name="preparing_sd">Pripravljanje SD kartice…</string>
   <string name="previous">Nazaj</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>
   <string name="recognition_error_download_cancel">Kasneje</string>

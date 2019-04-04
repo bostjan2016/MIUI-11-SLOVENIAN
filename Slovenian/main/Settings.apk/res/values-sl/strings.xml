@@ -1509,7 +1509,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
   <string name="close_optimization_message">Morda bo vplivalo na videz besedila, račune in ostale dele MIUI-ja po izklopu te storitve.</string>
   <string name="close_optimization_option">Izključi</string>  
-  <string name="close_sdcard_optimization_title">Izključi optimizacijo SD zavihki</string>
+  <string name="close_sdcard_optimization_title">Izključi optimizacijo SD kartice</string>
   <string name="close_sdcard_optimization_warning_message">Vaša naprava se bo ponovno zagnala.</string>
   <string name="close_twice_auth_btn">Izključite Apple ID autorizacijo z dvema faktorjema</string>
   <string name="close_twice_auth_note">"Beležka:\nKo napravite novo varnostno vprašanje in potrdite datum rojstva, bo opravilo dvojne avtentifikacije izključeno. Če ne vidite opcije izključitve dvojne prveerbe avtentičnosti na strani računa Apple ID, je ne morete izključiti."</string>
@@ -4488,7 +4488,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitev. Izključim?"</string>
   <string name="open_personal_assistant_dialog_title">Izključi zakl. aplikacij</string>
   <string name="open_personal_assistant_title">Vključi zakl. aplikacij</string>
-  <string name="open_sdcard_optimization_title">Vključi optimizacijo SD zavihki</string>
+  <string name="open_sdcard_optimization_title">Vključi optimizacijo SD kartice</string>
   <string name="open_sdcard_optimization_warning_message">Vaša naprava se bo ponovno zagnala.</string>
   <string name="open_wifi_connect_summary">"Dotaknite se za urejanje"</string>
   <string name="open_wifi_connect_title">Povezano na %1$s</string>
@@ -5021,7 +5021,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="print_settings_title">Tiskalne storitve</string>
     <string name="printer_info_desc">Več informacij o tem tiskalniku</string>
   <string name="priority_storage_app_settings">Podatki bodo shranjeni v %1$s</string>
-  <string name="priority_storage_settings_summary">Če ni zaznane SD zavihki bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
+  <string name="priority_storage_settings_summary">Če ni zaznane SD kartice bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
   <string name="priority_summary">Pokaži obvestila na vrhu seznama</string>
@@ -5333,7 +5333,7 @@ Vmesnik UT: %5$s"</string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
     <string name="reset_dashboard_summary">Ponastavite lahko omrežje, aplikacije ali napravo</string>
     <string name="reset_dashboard_title">Ponastavi možnosti</string>
-    <string name="reset_esim_desc">Iz telefona boste izbrisali vse digitalne zavihki e-SIM. Za vnovičen prenos digitalnih kartic e-SIM se boste morali obrniti na operaterja. Z izbrisom ne boste prekinili naročniškega paketa za mobilno telefonijo.</string>
+    <string name="reset_esim_desc">Iz telefona boste izbrisali vse digitalne kartice e-SIM. Za vnovičen prenos digitalnih kartic e-SIM se boste morali obrniti na operaterja. Z izbrisom ne boste prekinili naročniškega paketa za mobilno telefonijo.</string>
     <string name="reset_esim_error_msg">Kartic e-SIM ni mogoče ponastaviti zaradi napake.</string>
     <string name="reset_esim_error_title">Kartic e-SIM ni mogoče ponastaviti</string>
     <string name="reset_esim_title">Ponastavi tudi kartico e-SIM</string>
@@ -5631,7 +5631,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="sdcard_format">Izbriši pomnilnik USB</string>
   <string name="sdcard_no_enough_space">Ni dovolj prostora</string>
   <string name="sdcard_no_enough_space_message">Na vaši SD kartici ni dovolj prostora</string>
-  <string name="sdcard_optimization">Optimizacija SD zavihki</string>
+  <string name="sdcard_optimization">Optimizacija SD kartice</string>
   <string name="sdcard_optimization_cancel">Prekliči</string>
   <string name="sdcard_optimization_close">Izključi &amp; ponovno zaženi</string>
   <string name="sdcard_optimization_open">Vključi</string>
@@ -7133,8 +7133,8 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_progress_subdescript_transing_sender">Pošiljanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Sprejem datotek, %s končano</string>
   <string name="trans_progress_subdescript_transingsd_sender">Pošiljanje datotek, %s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD zavihki %1$s, %2$s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD zavihki %1$s, %2$s končano</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD kartice %1$s, %2$s končano</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD kartice %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
   <string name="trans_receiver">"Sem prejemnik"</string>
   <string name="trans_receiver_time_remained">"%s ostalo.
@@ -7473,7 +7473,7 @@ Prenesite samo važne stvari."</string>
   <string name="usb_ptp_title">Fotoaparat (PTP)</string>
   <string name="usb_restore_select_data_too_large">"Datoteke var. kopije so velike. Trajalo bo nekaj časa.
 Prenos smo važnih stvari bo hitrejši."</string>
-  <string name="usb_sdcard_summary">Omogoča prenos medijskih datotek iz SD zavihki na računalnik</string>
+  <string name="usb_sdcard_summary">Omogoča prenos medijskih datotek iz SD kartice na računalnik</string>
   <string name="usb_sdcard_title">Vpni SD kartico</string>
     <string name="usb_summary_MIDI">Uporaba naprave kot vmesnika MIDI</string>
     <string name="usb_summary_MIDI_power">MIDI in napajanje</string>

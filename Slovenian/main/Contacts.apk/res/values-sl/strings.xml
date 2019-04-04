@@ -832,7 +832,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
 
      "Nov stik za dodajanje novega stika od začetka"        
 
-     "Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD zavihki"</string>
+     "Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD kartice"</string>
   <string name="noContactsHelpTextForCreateShortcut">Nimate stikov za prikaz</string>
   <string name="noContactsHelpTextWithSync">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo stikov.)
   
@@ -844,7 +844,7 @@ Za dodajanje stikov pritisnite Meni, nato pritisnite:
 
 "Nov stik za dodajanje novega stika od začetka" 
 
-"Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD zavihki"
+"Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD kartice"
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo stikov.)"</string>
   <string name="noContactsNoSimHelpText">"Nimate stikov za prikaz.
@@ -855,7 +855,7 @@ Za dodajanje stikov tapnite "&gt;Meni", potem pa:
 
 "Nov stik za dodajanje novega stika od začetka" 
 
-"Uvozi/Izvozi za uvoz stikov iz vaše SD zavihki"
+"Uvozi/Izvozi za uvoz stikov iz vaše SD kartice"
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">""Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo stikov.)
 Za dodajanje stikov tapnite "Meni", potem pa:
@@ -866,7 +866,7 @@ Za dodajanje stikov tapnite "Meni", potem pa:
 
 "Nov stik za dodajanje novega stika od začetka"
 
-"Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD zavihki"
+"Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD kartice"
 "</string>
   <string name="noContactsWithPhoneNumbers">Ni stikov s telefonskimi številkami.</string>
   <string name="noFavoritesHelpText">""Ni priljubljenih.
@@ -985,8 +985,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pref_key_rebuild_t9_index_message">Obnovi indeks da se odstranijo problemi iskanja</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovi podatke indeksa</string>
   <string name="pref_key_sdn_manage">Prikaži SDN</string>
-  <string name="pref_key_sdn_manage1">Prikaži SDN zavihki 1</string>
-  <string name="pref_key_sdn_manage2">Prikaži SDN zavihki 2</string>
+  <string name="pref_key_sdn_manage1">Prikaži SDN kartico 1</string>
+  <string name="pref_key_sdn_manage2">Prikaži SDN kartico 2</string>
   <string name="pref_key_sim_manage">SIM kartica</string>
   <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
   <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
@@ -1137,7 +1137,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_contacts_display">Stiki;Prikaz</string>
   <string name="search_contacts_more">Organiziraj;Stiki</string>
   <string name="search_contacts_recovery">Stiki</string>
-  <string name="search_contacts_setting">Nastavitve stikov;Prikaži slike in informacije;Fotografija za vse;Uvoz in izvoz;Deli; Import from sdcard;Uvoz iz SD zavihki;Uvoz iz SIM kartice;Uvoz iz drugega telefona;Izvoz iz SD zavihki;Uvoz iz SD zavihki;Deli vidljive stike;Prikaži stike;Skrij nepopolne številke;Prikaži SIM stike;Napravi seznam stikov;Pametne skupine;Organizraj stike; Združi podvojene stike;Brisanje serije;Izbriši serijo;Ponovno izgradi podatke indeksa;t9;SIM kartica;Pomnilnik SIM kartice;Obnovi stike</string>
+  <string name="search_contacts_setting">Nastavitve stikov;Prikaži slike in informacije;Fotografija za vse;Uvoz in izvoz;Deli; Import from sdcard;Uvoz iz SD kartice;Uvoz iz SIM kartice;Uvoz iz drugega telefona;Izvoz iz SD kartice;Uvoz iz SD kartice;Deli vidljive stike;Prikaži stike;Skrij nepopolne številke;Prikaži SIM stike;Napravi seznam stikov;Pametne skupine;Organizraj stike; Združi podvojene stike;Brisanje serije;Izbriši serijo;Ponovno izgradi podatke indeksa;t9;SIM kartica;Pomnilnik SIM kartice;Obnovi stike</string>
   <string name="search_display_only_phones">Stiki;Prikaz</string>
   <string name="search_display_sim_contacts">Stiki;Prikaz</string>
   <string name="search_export_to_sdcard">Stiki;Izvoz;SD kartica</string>
