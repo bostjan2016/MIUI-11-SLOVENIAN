@@ -576,7 +576,7 @@
   <string name="pref_title_sms_validity_period">Veljavnost SMS-a</string>
   <string name="pref_title_storage_status">Status shrambe sporočil</string>
   <string name="pref_title_system_mms_priority">Nastavi za privzeto</string>
-  <string name="pref_title_vcard">Pošlji preko vZavihki</string>
+  <string name="pref_title_vcard">Pošlji preko vKartice</string>
   <string name="pref_title_wake_up_screen">Zbudi zaslon</string>
   <string name="preferences_title">Nastavitve</string>
   <string name="prepare_send">Priprava za pošiljanje...</string>

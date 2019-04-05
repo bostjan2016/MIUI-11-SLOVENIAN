@@ -56,7 +56,7 @@
   <string name="mipay_cancel_forget_password">Odstopate od iskanja gesla za plačilo?</string>
   <string name="mipay_cancel_modify_password">Odstopate od zamenjave gesla za plačilo?</string>
   <string name="mipay_cancel_pay">Odstopate od nakupa?</string>
-  <string name="mipay_cancel_unbind_bank_card">Odstopate od odvezave bančne kartice?</string>
+  <string name="mipay_cancel_unbind_bank_card">Odstopate od od vezave bančne kartice?</string>
   <string name="mipay_check_login_password_summary">Vnesite svoje geslo za Xiaomi račun</string>
   <string name="mipay_check_order_title">Števec</string>
   <string name="mipay_check_password_summary">Vnesite svoje geslo za plačilo</string>
@@ -179,5 +179,5 @@ Preverite vaš lokalni datum in poizkusite ponovno."</string>
   <string name="mipay_unit_yuan">%1$s</string>
   <string name="mipay_update_title">Mipay posodobitev na voljo!</string>
   <string name="mipay_use_new_card">Uporabite novo bančno kartico</string>
-  <string name="mipay_wallet_app_name">Bančne zavihki</string>
+  <string name="mipay_wallet_app_name">Bančne kartice</string>
 </resources>
