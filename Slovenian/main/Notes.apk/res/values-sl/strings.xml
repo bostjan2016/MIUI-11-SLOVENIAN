@@ -99,9 +99,7 @@ Tapnite + da napravite mapo"</string>
   <string name="folder_operation_rename">Preimenuj</string>
   <string name="force_touch_menu_add">Dodaj beležko</string>
   <string name="format_move_note_out_folder">Beležka je premeščena</string>
-  <string name="format_move_note_to_folder">Prestavljeno v %1$s</string>
-  <string name="format_move_notes_out_folder">Premeščeno %1$s izven</string>
-  <string name="format_move_notes_to_folder">Premeščeno %1$s v %2$s</string>
+  <string name="format_move_note_to_folder">Premeščeno v %1$s</string>
   <string name="hidden_notes_fragment_title">Skrite beležke</string>
   <string name="hide_arrow_description">Skrij</string>
   <string name="hint_cannot_view_hidden_note_content">"Ne morem pregledati vsebine v skritih beležkah"</string>
@@ -247,9 +245,7 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_notes_hidden_edit">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
   <string name="toast_notes_hidden_home">Beležka uspešno skrita. Povlecite dol da boste videli skrite beležke.</string>
   <string name="toast_notes_hidden">Uspešno skrito</string>
-  <string name="toast_notes_hidden_count">%1$s uspešno skrit</string>
   <string name="toast_notes_unhidden">Uspešno odkrito</string>
-  <string name="toast_notes_unhidden_count">%1$s odkrit uspešno</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
   <string name="toast_reach_text_limit_attachment">Ne morem dodati nove priponke ker je beležka predolga</string>
   <string name="toast_reach_text_limit_checkbox">"Potrditveno okno ni mogoče dodati ker je beležka predolga"</string>

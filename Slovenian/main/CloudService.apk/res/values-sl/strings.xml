@@ -614,6 +614,8 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="user_agreement_p7">"pogoji uporabe storitve Mi Cloud"</string>
   <string name="user_agreement_p8">.</string>
   <string name="user_agreement_title">"Mi Cloud pogoji uporabe storitve"</string>
+  <string name="user_detail_agreement">Pogoji uporabe</string>
+  <string name="user_detail_privacy_policy">Pravila o zasebnosti</string>
   <string name="user_storage_info_available_text_prefix">%s na voljo</string>
   <string name="warning_bar_action_add_short_cut">Dodaj</string>
   <string name="warning_bar_action_close">Zapri</string>

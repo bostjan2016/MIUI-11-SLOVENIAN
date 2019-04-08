@@ -977,6 +977,7 @@ za fotografije"</string>
   <string name="photo_editor_beautify">Polepšaj</string>
   <string name="photo_editor_beautify_auto">Samod</string>
   <string name="photo_editor_beauty_compare">Original</string>
+  <string name="photo_editor_compare_tip">Pritisnite in držite za prikaz originalne slike</string>
   <string name="photo_editor_crop_and_rotate">Obreži</string>
   <string name="photo_editor_crop_auto">Samodejno</string>
   <string name="photo_editor_crop_auto_tips">Obrezano samodejno</string>
@@ -1014,6 +1015,7 @@ za fotografije"</string>
   <string name="photo_editor_navigator_module_download_wait_wlan">Čakaj na WiFi</string>
   <string name="photo_editor_navigator_module_downloading">Prenos %s…</string>
   <string name="photo_editor_navigator_need_download">Za prenos %s potrebujete spletno povezavo.</string>
+  <string name="photo_editor_remove_watermark">Odstrani vodni žig</string>
   <string name="photo_editor_remover">Izbriši</string>
   <string name="photo_editor_rotate">Obrni</string>
   <string name="photo_editor_saving">Shranjevanje…</string>
