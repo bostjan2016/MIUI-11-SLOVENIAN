@@ -59,7 +59,7 @@
   <string name="check_theme_app_install">Preverite ali je aplikacija Teme nameščena v vaši napravi.</string>
   <string name="check_voice_assist_app_version">Posodobite Mi AI na najnovejšo verzijo.</string>
   <string name="clock_bg_button_setting_summary_common">izberite barvo ozadja za aplikacijo ura</string>
-  <string name="clock_bg_button_setting_summary_follow_sys">Črna bo uporabljena kot barva ozadja vsakič ko preklopite na Temni način</string>
+  <string name="clock_bg_button_setting_summary_follow_sys">Črna bo uporabljena kot barva ozadja vsakič ko izberete Temni način</string>
   <string name="clock_bg_button_setting_title">Barva ozadja</string>
   <string name="close_alarm">Izključi</string>
   <string name="common_settings">Nastavitve</string>
