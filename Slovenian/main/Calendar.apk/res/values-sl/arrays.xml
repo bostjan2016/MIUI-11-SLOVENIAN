@@ -226,6 +226,12 @@
         <item>Mogoče</item>
         <item>Ne</item>
     </string-array>
+	<string-array name="default_reminder_later_time_labels">
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+    </string-array>
     <string-array name="delete_repeating_labels">
         <item>Samo ta dogodek</item>
         <item>Ta in bodoči dogodki</item>

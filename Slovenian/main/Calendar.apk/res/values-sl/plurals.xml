@@ -159,6 +159,10 @@
         <item quantity="other">Vsakih %1$d tednov na %2$s</item>
         <item quantity="one">Tedensko na %2$s</item>
      </plurals>
+	 <plurals name="reminder_later_toast">
+        <item quantity="other">Naslednji opomnik čez %1$d min.</item>
+        <item quantity="one">Naslednji opomnik čez %1$d minuto</item>
+    </plurals>
 	 <plurals name="repeat_custom_prompt">
         <item quantity="other">Vsakih %1$s na %2$s</item>
         <item quantity="one">Vsakih %1$s na %2$s</item>

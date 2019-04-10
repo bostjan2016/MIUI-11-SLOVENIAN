@@ -105,6 +105,7 @@
   <string name="can_not_modify_allday_event">"Sprememba celodnevnega dogodka ni mogoča"</string>
   <string name="can_not_modify_event">"Dogodka ni mogoče spremeniti"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne morem spremeniti dnevnega dogodka"</string>
+  <string name="cancel_reminder_later">Odpovej opomnik</string>
   <string name="change_response_title">Spremeni odziv</string>
   <string name="chips_action_cancel">Prekliči</string>
   <string name="chips_action_copy">Kopiraj</string>
@@ -153,6 +154,7 @@
   <string name="day_picker_description">Mesečni izbirnik dni</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">+ Nov dogodek</string>
+  <string name="default_reminder_later_time">Privzeti interval za \"Opomni kasneje\"</string>
   <string name="default_reminder_mode">Opomniki</string>
   <string name="delete_calendar">Izbriši</string>
   <string name="delete_label">Izbriši</string>
@@ -332,6 +334,7 @@
   <string name="new_event_dialog_label">Nov dogodek</string>
   <string name="new_event_dialog_option">Nov dogodek</string>
   <string name="no_calendars_found">Preden dodate dogodek morate dodati vsaj en račun koledarja v napravo in ga napraviti vidnega. Da dodate račun, tapnite Dodaj račun (če ste ga že dodali, počakajte konec sinhronizacije in poskusite ponovno). Ali pa tapnite Odpovej in preverite ali je vsaj en koledar viden.</string>
+  <string name="next_alarm_time">Naslednji opomnik ob %1$s</string>
   <string name="no_contact_birthday_hint">Ni rojstnih dni za uvoz</string>
   <string name="no_events_hint">Ni dogodkov</string>
   <string name="no_network">"Ne morem se povezati na omrežje.
@@ -409,6 +412,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="recurrence_month_pattern_by_day">na isti dan vsakega meseca</string>
   <string name="refresh">Osveži</string>
   <string name="refreshing_hint">Samo trenutek…</string>
+  <string name="reminder_later">Opomni kasneje</string>
+  <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminders_label">Dodaj opomnik</string>
   <string name="repeat_activity_label">Ponovi</string>
   <string name="repeat_custom_activity_label">Prilagojeno</string>
