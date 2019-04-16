@@ -323,9 +323,77 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="one">%1$d oseba povezana</item>
      </plurals>
      <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN mora vsebovati %d pismenk</item>
-        <item quantity="one">PIN mora vsebovati %d pismenko</item>
+        <item quantity="other">PIN mora vsebovati %d znakov</item>
+        <item quantity="one">PIN mora vsebovati %d znak</item>
      </plurals>
+	 <plurals name="usage_state_device_explain_today">
+        <item quantity="other">Odklenjeno danes: %d X</item>
+        <item quantity="one">Odklenjeno danes: %d X</item>
+    </plurals>
+    <plurals name="usage_state_device_explain_week">
+        <item quantity="other">Odklenjeno zadnjih 7 dni: %d X</item>
+        <item quantity="one">Odklenjeno zadnjih 7 dni: %d X</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_today">
+        <item quantity="other">Prejeto %d obvestil danes</item>
+        <item quantity="one">Prejeto %d obvestilo danes</item>
+    </plurals>
+    <plurals name="usage_state_device_noti_explain_week">
+        <item quantity="other">Prejeto %d obvestil zadnjih 7 dni</item>
+        <item quantity="one">Prejeto %d obvestilo zadnjih 7 dni</item>
+    </plurals>
+    <plurals name="usage_state_hour">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+    <plurals name="usage_state_hour24">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+    <plurals name="usage_state_hour_text">
+        <item quantity="other">" ur"</item>
+        <item quantity="one">" ura"</item>
+    </plurals>
+    <plurals name="usage_state_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="usage_state_miunte_text">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
+    <plurals name="usage_state_noti_count">
+        <item quantity="other">%d obvestil</item>
+        <item quantity="one">%d obvestilo</item>
+    </plurals>
+    <plurals name="usage_state_unlock_count">
+        <item quantity="other">%d krat</item>
+        <item quantity="one">%d krat</item>
+    </plurals>
+    <plurals name="usage_state_week_day_hour">
+        <item quantity="other">Delovnik: %d ur</item>
+        <item quantity="one">Delovnik: %d ura</item>
+    </plurals>
+    <plurals name="usage_state_week_day_minute">
+        <item quantity="other">Delovnik: %d min.</item>
+        <item quantity="one">Delovnik: %d min.</item>
+    </plurals>
+    <plurals name="usage_state_work_day_hour">
+        <item quantity="other">Delovnik: %d ur</item>
+        <item quantity="one">Delovnik: %d ura</item>
+    </plurals>
+    <plurals name="usage_state_work_day_minute">
+        <item quantity="other">Delovnik: %d min.</item>
+        <item quantity="one">Delovnik: %d min.</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_hour">
+        <item quantity="other">" ur"</item>
+        <item quantity="one">" ura"</item>
+    </plurals>
+    <plurals name="usagestats_device_notification_des_min">
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
+    </plurals>
      <plurals name="virus_scan_app_find_risk">
         <item quantity="other">Najdeno nevarnosti: %d</item>
         <item quantity="one">Najdena nevarnost: %d</item>

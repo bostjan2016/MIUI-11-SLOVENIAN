@@ -16,7 +16,12 @@
   <string name="am">AM</string>
   <string name="app_name">Kalkulator</string>
   <string name="app_name_danfa">Mi Kalkulator</string>
+  <string name="app_notification_info">Kalkulator dela v ozadju</string>
   <string name="base_rate">Osnovna obrestna mera</string>
+  <string name="btn_float_window_alpha">Nastavite neprozornost</string>
+  <string name="btn_float_window_back_to_app">Povečaj kalkulator</string>
+  <string name="btn_float_window_close">Zapri zmanjšani kalkulator</string>
+  <string name="btn_float_window_resize">Zamenjaj velikost zmanjšanega kalkulatorja</string>
   <string name="birthday">Rojstni dan</string>
   <string name="cal_convert_to_word_figure">Pretvori v finančne znake</string>
   <string name="cal_copy">Kopiraj</string>
@@ -78,6 +83,7 @@
   <string name="extra_deduction_instruction">Podrobnosti o odbitku</string>
   <string name="extra_deduction_tips">Tapnite tipko v zgornjem kotu zaslona da boste videli podrobnosti o odbitku.</string>
   <string name="extra_deduction_title">Dodatni odbitki</string>
+  <string name="float_window_guide_text">Tapnite da boste zmanjšali kalkulator</string>
   <string name="fmt_date">D</string>
   <string name="fmt_date_day">d</string>
   <string name="fmt_date_long_month">MMMM</string>
@@ -135,6 +141,7 @@
   <string name="from_unit_en">kilometrov na uro</string>
   <string name="further_education">Nadaljnje izobraževanje</string>
   <string name="global_network_confirm_content">"Pretvornik valut kalkulatorja za normalno delovanje potrebuje spletno povezavo naprave."</string>
+  <string name="hint_floatwindow_alpha_guide_text">Tapni za nastavitev neprozornosti</string>
   <string name="help_content_desc">Pomoč</string>
   <string name="home_loan">Obresti kredita</string>
   <string name="home_title_calculator">Kalkulator</string>
@@ -571,6 +578,7 @@
   <string name="unit_year_format">Leto %s</string>
   <string name="updating">Posodabljanje Kalkulatorja…</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="view_float_window_move">Preakni zmanjšani kalkulator</string>
   <string name="user_manual">Navodila</string>
   <string name="voiceDesc">Glasovne kontrole</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>

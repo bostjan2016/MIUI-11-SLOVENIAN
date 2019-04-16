@@ -141,6 +141,7 @@ nastavitev in aplikacij"</string>
   <string name="err_binder_died">Aplikacija se je nepričakovano ustavila.</string>
   <string name="err_filesystem_mount">"Ne morem dostopiti do prostora za shranjevanje na routerju"</string>
   <string name="err_low_storage">Premalo prostora</string>
+  <string name="err_no_gms">Nepodprta verzija aplikacije. Namestite to aplikacijo zasebno</string>
   <string name="err_not_allow">Ni podprto</string>
   <string name="err_pkg_not_exist">"Ne najdem aplikacije."</string>
   <string name="err_router_disconnected">"Preverite priključek vašega routerja in poskusite znova."</string>
@@ -437,6 +438,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
   <string name="trans_detail_category_wechat_qq">WeChat in QQ podatki (vključno zgodovina razgovorov)</string>
   <string name="trans_detail_item_app_data_selected_tip">Izberite odgovarjajoče aplikacije.</string>
+  <string name="trans_detail_item_app_data_skip_data">"Ne morem prenesti podatke aplikacije"</string>
   <string name="trans_detail_item_app_data_too_large_tip">Kaže da je stvar prevelika za prenos.</string>
   <string name="trans_detail_list_footer">"1. Lahko izberete posamezne aplikacije katere želite poslati.
   

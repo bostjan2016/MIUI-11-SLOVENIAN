@@ -7404,8 +7404,49 @@ Vam je všeč Mi Mover?"</string>
   <string name="usage_access_description">Dostop do podatkov o uporabi aplikaciji omogoča da spremlja katere aplikacije še uporabljate in kako pogosto, ter da si ogleda podrobnosti o operaterju, nastavitvah jezika in drugem.</string>
   <string name="usage_access_title">Apl. z dost. do pod. o uporabi</string>
   <string name="usage_log">Statistični podatki o uporabi aplikacije</string>
+  <string name="usage_state_app_timer">Čas zaslona</string>
+  <string name="usage_state_app_usage_detail_title">Podrobnosti o uporabi aplikacije</string>
+  <string name="usage_state_app_usage_list_title">"Čas zaslona aplikacije danes"</string>
+  <string name="usage_state_app_usage_list_week_title">"Čas zaslona aplikacije (zadnjih 7 dni)"</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Čas zaslona med %d:00 i %d:00</string>
+  <string name="usage_state_app_use_time">Čas zaslona aplikacije</string>
+  <string name="usage_state_channel_mouth">Zadnjih 30 dni</string>
+  <string name="usage_state_channel_week">Zadnjih 7 dni</string>
+  <string name="usage_state_device_noti_today_tip_title" formatted="false">Obvesti med %d:00 in %d:00</string>
+  <string name="usage_state_device_unlock_today_tip_title" formatted="false">Odklenjena naprava med %d:00 i %d:00</string>
+  <string name="usage_state_friday">Pet</string>
+  <string name="usage_state_go_more">Več aplikacij</string>
+  <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
+  <string name="usage_state_less_one_minute">Manj od 1 minute</string>
+  <string name="usage_state_monday">Pon</string>
+  <string name="usage_state_mourth_day">"'Čas zaslona vključeno' dd.MM"</string>
+  <string name="usage_state_noti_mourth_day">"'Obvestila vključena' dd.MM"</string>
+  <string name="usage_state_notification">Urejanje obvestil</string>
+  <string name="usage_state_notification_manager">Urejanje obvestil aplikacije</string>
+  <string name="usage_state_remind_summary">Vključite da boste dobili opozorila o času zaslona. Lahko nastaviti različne časovne omejitve za dni v tednu in vikende.</string>
+  <string name="usage_state_remind_title">Opozorila časa zaslona</string>
+  <string name="usage_state_rest_day">Delovniki</string>
+  <string name="usage_state_saturday">Sob</string>
+  <string name="usage_state_set_invalid_time_toast">"Ne morem nastaviti časovno omejitev manj od 1 minute"</string>
+  <string name="usage_state_sunday">Ned</string>
+  <string name="usage_state_thursday">Čet</string>
+  <string name="usage_state_today">Danae</string>
+  <string name="usage_state_today_total_text">Čas zaslona danes</string>
+  <string name="usage_state_tuesday">Tor</string>
+  <string name="usage_state_unlock_mourth_day">"'Odklenjeno' dd.MM"</string>
+  <string name="usage_state_usage_time">Čas zaslona</string>
+  <string name="usage_state_usage_time_remind">Opozorila časa zaslona</string>
+  <string name="usage_state_use_time_remind_title">Opozorila časa zaslona</string>
+  <string name="usage_state_wednesday">Sre</string>
+  <string name="usage_state_week_day_hour_minute" formatted="false">Vikendi: %dh %dm</string>
+  <string name="usage_state_week_total_text">Čas zaslona (zadnjih 7 dni)</string>
+  <string name="usage_state_which_mouth">MMM</string>
+  <string name="usage_state_work_day">Delovnik</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">Delovnik: %dh %dm</string>
   <string name="usage_name_percent">"%1$s - %2$s%%"</string>
   <string name="usage_stats_label">Statistika uporabe</string>
+  <string name="usage_stats_normal_day">Delovnik</string>
+  <string name="usage_stats_week_day">Vikendi</string>
   <string name="usage_time_label">Čas uporabe</string>
   <string name="usage_type_actual_power">Zaznana poraba energije</string>
   <string name="usage_type_audio">Zvok</string>
@@ -7427,6 +7468,25 @@ Vam je všeč Mi Mover?"</string>
     <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ohrani odklenjen zaslon</string>
   <string name="usage_type_wifi_running">WiFi vklopljen</string>
+  <string name="usagestats_app_category_miui_financial">Finance</string>
+  <string name="usagestats_app_category_miui_game">Igre</string>
+  <string name="usagestats_app_category_miui_life">Lifestyle</string>
+  <string name="usagestats_app_category_miui_productivity">Produktivnost</string>
+  <string name="usagestats_app_category_miui_reading">Branje</string>
+  <string name="usagestats_app_category_miui_shopping">Kupovanje</string>
+  <string name="usagestats_app_category_miui_social">Družbena omrežja</string>
+  <string name="usagestats_app_category_miui_system">Aplikacije sistema</string>
+  <string name="usagestats_app_category_miui_tools">Orodja</string>
+  <string name="usagestats_app_category_miui_undefined">Ostalo</string>
+  <string name="usagestats_app_category_miui_video_etc">Glasba in videoposnetki</string>
+  <string name="usagestats_device_notification_des">Omejitev časa zaslona za danes: %s</string>
+  <string name="usagestats_device_notification_des_over">"Ste že dosegli omejitev zaslona danes."</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Omejitev časa zaslona za danes: %s | %s ostalo</string>
+  <string name="usagestats_device_notification_title">Opozorila časa zaslona</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"Uporabbljali ste napravo %dh %dm danes. Malo se spočijte!"</string>
+  <string name="usagestats_device_timeout_negative">Opomni čez 1 uro</string>
+  <string name="usagestats_device_timeout_positive">Razumem</string>
+  <string name="usagestats_device_timeout_title">Opozorila časa zaslona</string>
   <string name="usb_adb_input">USB odpravljanje težav (Varnostne nastavitve)</string>
   <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB odpravljanja težav</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usmerjanje</string>
@@ -8200,6 +8260,9 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_priority_type_summary">Ročno nastavi prednosti vsake dostopne točke</string>
   <string name="wifi_priority_type_title">Ročno nastavi prednosti dostopnih točk</string>
   <string name="wifi_property">WiFi lastnosti</string>
+  <string name="wifi_protection_on">Vključi</string>
+  <string name="wifi_protection_settings_title">WiFi zaščita sonde</string>
+  <string name="wifi_protection_tip">MIUI samodejno uvljučuje storitev zaščite WiFi sonde. Ko mobilni telefon skenira Wifi bo izbral slučajni MAC naslov da prepreči da bi da WiFi sonda kradla zasebnost uporabnikov.</string>
   <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
   <string name="wifi_quick_toggle_title">WiFi</string>
   <string name="wifi_remembered">Shranjeno</string>

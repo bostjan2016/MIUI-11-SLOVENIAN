@@ -76,6 +76,7 @@
   <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="agreement_and_privacy">Pogoji uporabe in Pravila o zasebnosti</string>
   <string name="alert_title_remove_account">Odstranim račun?</string>
   <string name="app_name">Mi račun</string>
   <string name="auth_fail_warning">Račun za prijavo je potekel, poskusite kasneje</string>
@@ -317,6 +318,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
   <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
+  <string name="passport_first_login_prompt">Mi Račun bo samodejno napravjen ko se prvič prijavite.</string>
   <string name="passport_forget_password">Pozabljeno geslo</string>
   <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
   <string name="passport_get_back_pwd">Pridobi geslo računa</string>
@@ -508,6 +510,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="restart_phone_bind_message">Potrebno je nekaj časa za prejem SMS sporočila. Vseeno začnem znova?</string>
   <string name="restart_phone_bind_title">Spremeni telefon za obnovitev</string>
   <string name="same_new_and_old_pwd">"Ne more biti enako kot trenutno geslo"</string>
+  <string name="scan_barcode">Skeniraj QR kodo</string>
   <string name="scan_barcode_title">Če se želite prijaviti v svoj Mi račun skenirajte QR kodo</string>
   <string name="search_account_protection">Zaščita računa</string>
   <string name="search_account_protection_desc">Zaščita računa</string>

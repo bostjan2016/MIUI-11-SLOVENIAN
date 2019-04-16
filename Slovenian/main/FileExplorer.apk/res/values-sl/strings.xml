@@ -529,7 +529,7 @@
   <string name="no_apk">Pritisni za sprejem aplikacij.</string>
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Ni komentarjev</string>
-  <string name="no_content">Ponovno odprite aplik. Datoteke da vidite popularne videoposnetke</string>
+  <string name="no_content">Ponovno odprite aplik. Raziskovalec da vidite popularne videoposnetke</string>
   <string name="no_daren_tip">Tu ni še ničesar</string>
   <string name="no_display_file">"Ne morem prikazati %1$s"</string>
   <string name="no_downloaded_sticker_tip">"Ne najdem prenešenih nalepk. Preverite nalepke podeljene s strani Mi oboževalcev."</string>
@@ -582,8 +582,8 @@
   <string name="open_app">Odpri</string>
   <string name="open_chest">Odprite da boste dobili darilo</string>
   <string name="open_chest_failed">"Ne morem odpreti, preverite omrežne nastavitve in poskusite ponovno"</string>
-  <string name="open_changed_file_message">Datoteka ki jo poskušate odpreti se je spremenila. Prosimo da:     
-    1. Ponovno prenesite datoteko da jo posodobite.     
+  <string name="open_changed_file_message">Datoteka ki jo poskušate odpreti se je spremenila. Lahko:     
+    1. Ponovno prenesete datoteko da jo posodobite.     
     2. Prenesite jo na vaš KuaiPan račun.</string>
   <string name="open_changed_file_title">Sprememba shranjena.</string>
   <string name="open_file_failed">Odpiranje spodletelo</string>

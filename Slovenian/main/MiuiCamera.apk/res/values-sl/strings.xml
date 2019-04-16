@@ -216,7 +216,7 @@ in za trenutek zapustite pregled"</string>
   <string name="contact_web">Spletna stran</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_text_success">Tekst kopiran</string>
-  <string name="crop_saved">Obrezana slika spremljena je u %s.</string>
+  <string name="crop_saved">Obrezana slika je shranjena v %s.</string>
   <string name="custom_watermark_contains_senstive_words">"Oznaka ne more vsebovati omejene pojme (%1$s)"</string>
   <string name="custom_watermark_tips">Ta tekst se bo pojavil kot druga vrstica vaše oznake. Lahko vsebuje do 18 črk ali 14 kitajskih znakov</string>
   <string name="custom_watermark_too_many_words">Vnešeni tekst je predolg</string>
@@ -230,7 +230,8 @@ in za trenutek zapustite pregled"</string>
   <string name="details">Obrezana slika shranjena v</string>
   <string name="details_title">%1$d od %2$d predmetov:</string>
   <string name="dialog_ok">V redu</string>
-  <string name="disable_video_snapshot_hint">Posnetek videa je onemogočen kadar so vključeni posebni efekti.</string>
+  <string name="dialog_ok_time">V redu (%ds)</string>
+  <string name="disable_video_snapshot_hint">Snemanje videa je onemogočeno kadar so vključeni posebni efekti.</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
   <string name="download_by_browser">Prenesi z brskalnikom</string>
   <string name="download_qq">Prenesi QQ</string>
@@ -1038,12 +1039,12 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dalje od scene."<
   <string name="visit_cloud_album">Obiščite Cloud album</string>
   <string name="wait">Počakaj…</string>
   <string name="wideselfie_press_shoot_key_to_start">Tapni tipko sprožilca</string>
-  <string name="wideselfie_result_image_lossless">"Ne morem shraniti panoramo"</string>
-  <string name="wideselfie_rotate_slowly">Počasi obrnite telefon</string>
+  <string name="wideselfie_result_image_lossless">"Ne morem napraviti panoramo"</string>
+  <string name="wideselfie_rotate_slowly">Obrnite telefon na stran</string>
   <string name="wideselfie_rotate_to_back">Nagnite telefon nazaj</string>
   <string name="wideselfie_rotate_to_front">Nagnite telefon naprej</string>
-  <string name="wideselfie_rotate_to_left_slowly">Počasi obrnite telefon na levo</string>
-  <string name="wideselfie_rotate_to_right_slowly">Počasi obrnite telefon na desno</string>
+  <string name="wideselfie_rotate_to_left_slowly">Obrnite telefon na levo</string>
+  <string name="wideselfie_rotate_to_right_slowly">Obrnite telefon na desno</string>
   <string name="web_url_apk_warning">Ta aplikacija prihaja iz neznanih virov in lahko predstavlja varnostno tveganje. Nameščajte samo aplikacije iz znanih virov ki jim zaupate.</string>
   <string name="web_url_warning">Povezana spletna stran izvira iz neznanih virov in lahko predstavlja varnostno tveganje.</string>
   <string name="website_details">Podrobnosti spletne strani:</string>

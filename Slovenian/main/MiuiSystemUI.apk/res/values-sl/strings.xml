@@ -814,6 +814,7 @@ hitrost vzorčenja"</string>
   <string name="gxzw_try_again">Poskusite ponovno</string>
   <string name="gxzw_try_more_again">Poskusite ponovno</string>
   <string name="gxzw_use_password">Uporabite geslo za odklep</string>
+  <string name="gxzw_use_password_to_unlock">Vnesite geslo</string>
     <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
     <string name="hdcp_checking_title">Preverjanje HDCP</string>
   <string name="headset">Slušalke</string>
