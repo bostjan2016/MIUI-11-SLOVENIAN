@@ -7408,7 +7408,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="usage_state_app_usage_detail_title">Podrobnosti o uporabi aplikacije</string>
   <string name="usage_state_app_usage_list_title">"Čas zaslona aplikacije danes"</string>
   <string name="usage_state_app_usage_list_week_title">"Čas zaslona aplikacije (zadnjih 7 dni)"</string>
-  <string name="usage_state_app_usage_tip_title" formatted="false">Čas zaslona med %d:00 i %d:00</string>
+  <string name="usage_state_app_usage_tip_title" formatted="false">Čas zaslona med %d:00 in %d:00</string>
   <string name="usage_state_app_use_time">Čas zaslona aplikacije</string>
   <string name="usage_state_channel_mouth">Zadnjih 30 dni</string>
   <string name="usage_state_channel_week">Zadnjih 7 dni</string>
@@ -7423,14 +7423,14 @@ Vam je všeč Mi Mover?"</string>
   <string name="usage_state_noti_mourth_day">"'Obvestila vključena' dd.MM"</string>
   <string name="usage_state_notification">Urejanje obvestil</string>
   <string name="usage_state_notification_manager">Urejanje obvestil aplikacije</string>
-  <string name="usage_state_remind_summary">Vključite da boste dobili opozorila o času zaslona. Lahko nastaviti različne časovne omejitve za dni v tednu in vikende.</string>
+  <string name="usage_state_remind_summary">Vključite da boste dobili opozorila o času zaslona. Lahko nastaviti različne časovne omejitve za dneve v tednu in vikende.</string>
   <string name="usage_state_remind_title">Opozorila časa zaslona</string>
   <string name="usage_state_rest_day">Delovniki</string>
   <string name="usage_state_saturday">Sob</string>
   <string name="usage_state_set_invalid_time_toast">"Ne morem nastaviti časovno omejitev manj od 1 minute"</string>
   <string name="usage_state_sunday">Ned</string>
   <string name="usage_state_thursday">Čet</string>
-  <string name="usage_state_today">Danae</string>
+  <string name="usage_state_today">Danes</string>
   <string name="usage_state_today_total_text">Čas zaslona danes</string>
   <string name="usage_state_tuesday">Tor</string>
   <string name="usage_state_unlock_mourth_day">"'Odklenjeno' dd.MM"</string>
@@ -7480,10 +7480,10 @@ Vam je všeč Mi Mover?"</string>
   <string name="usagestats_app_category_miui_undefined">Ostalo</string>
   <string name="usagestats_app_category_miui_video_etc">Glasba in videoposnetki</string>
   <string name="usagestats_device_notification_des">Omejitev časa zaslona za danes: %s</string>
-  <string name="usagestats_device_notification_des_over">"Ste že dosegli omejitev zaslona danes."</string>
+  <string name="usagestats_device_notification_des_over">"Ste že dosegli omejitev zaslona za danes."</string>
   <string name="usagestats_device_notification_des_reset" formatted="false">Omejitev časa zaslona za danes: %s | %s ostalo</string>
   <string name="usagestats_device_notification_title">Opozorila časa zaslona</string>
-  <string name="usagestats_device_timeout_des" formatted="false">"Uporabbljali ste napravo %dh %dm danes. Malo se spočijte!"</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"Uporabljali ste napravo %dh %dm danes. Malo se spočijte!"</string>
   <string name="usagestats_device_timeout_negative">Opomni čez 1 uro</string>
   <string name="usagestats_device_timeout_positive">Razumem</string>
   <string name="usagestats_device_timeout_title">Opozorila časa zaslona</string>
@@ -8162,7 +8162,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_hotspot_checkbox_text">Dostopna točka WiFi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Uporaba mobil. povezave za omrežje WiFi</string>
   <string name="wifi_hotspot_configure_ap_text">Nastavitev dostopne toč. WiFi</string>
-    <string name="wifi_hotspot_configure_ap_text_summary">Dostopna točka AndroidAP WPA2 PSK</string>
+  <string name="wifi_hotspot_configure_ap_text_summary">Android hotspot</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
     <string name="wifi_hotspot_footer_info_local_only">Aplikacije lahko ustvarijo dostopno točko za skupno rabo vsebin z napravami v bližini.</string>
     <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje WiFi za svoje druge naprave. Dostopna točka omogoča uporabo interneta prek mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
@@ -8209,16 +8209,16 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_menu_wps_pbc">Gumb za WPS</string>
   <string name="wifi_menu_wps_pin">Vnos kode PIN za WPS</string>
   <string name="wifi_menu_write_to_nfc">Zapisovanje na oznako NFC</string>
-    <string name="wifi_metered_label">Z omejenim prenosom podatkov</string>
+  <string name="wifi_metered_label">Odmerjeno</string>
     <string name="wifi_modify">Spremeni</string>
-    <string name="wifi_more">Več</string>
+    <string name="wifi_more">"Več"</string>
     <string name="wifi_multiple_cert_added">(Dodanih je bilo več potrdil)</string>
   <string name="wifi_network_optimization">Optimizirana povezava</string>
   <string name="wifi_network_prefix_length">Dolžina predpone omrežja</string>
   <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_domain_warning">Določiti morate domeno.</string>
-  <string name="wifi_no_internet">Ne morem se povezati na omrežje</string>
-    <string name="wifi_no_internet_no_reconnect">Ni samodejne povezave</string>
+  <string name="wifi_no_internet">"Ne morem se povezati na omrežje"</string>
+    <string name="wifi_no_internet_no_reconnect">"Ni samodejne povezave"</string>
   <string name="wifi_not_in_range">Ni v obsegu</string>
   <string name="wifi_notify_cmcc_connected_summary">Pokaži obvestilo ko je povezano na CMCC omrežje</string>
   <string name="wifi_notify_cmcc_connected_title">Obvestila CMCC omrežij</string>

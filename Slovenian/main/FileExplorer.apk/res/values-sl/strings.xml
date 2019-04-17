@@ -582,9 +582,9 @@
   <string name="open_app">Odpri</string>
   <string name="open_chest">Odprite da boste dobili darilo</string>
   <string name="open_chest_failed">"Ne morem odpreti, preverite omrežne nastavitve in poskusite ponovno"</string>
-  <string name="open_changed_file_message">Datoteka ki jo poskušate odpreti se je spremenila. Lahko:     
+  <string name="open_changed_file_message">"Datoteka ki jo poskušate odpreti se je spremenila. Lahko:     
     1. Ponovno prenesete datoteko da jo posodobite.     
-    2. Prenesite jo na vaš KuaiPan račun.</string>
+    2. Prenesite jo na vaš KuaiPan račun."</string>
   <string name="open_changed_file_title">Sprememba shranjena.</string>
   <string name="open_file_failed">Odpiranje spodletelo</string>
   <string name="open_private_folder">Spustite za prikaz skritih map…</string>
@@ -660,7 +660,7 @@
   <string name="path_recent_file">Upravljaj z datotekami na napravi</string>
   <string name="permission_denial">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah."</string>
   <string name="permission_required">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah.​"</string>
-  <string name="partial_repair_done">Nekateree datoteke uspešno obnovljene</string>
+  <string name="partial_repair_done">Nekatere datoteke so uspešno obnovljene</string>
   <string name="paused">Ustavljeno</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Notranji pomnilnik</string>
