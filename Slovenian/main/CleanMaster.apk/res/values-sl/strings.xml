@@ -494,6 +494,7 @@
   <string name="sc_allow_network_dialog_message">Dovolim tej aplikaciji povezovanje na splet za prenos posodobitev?</string>
   <string name="scanning">Iskanje…</string>
   <string name="search_history">Zgodovina iskanja</string>
+  <string name="security_center_slogan">Varnost. Zmeraj na preži.</string>
   <string name="see_more">Več</string>
   <string name="set_immediately">Nastavi</string>
   <string name="seton_immediately">Vključi</string>
