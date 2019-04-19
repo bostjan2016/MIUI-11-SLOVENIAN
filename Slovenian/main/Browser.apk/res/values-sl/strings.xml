@@ -1447,7 +1447,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="soft_toast_see_view">Pokaži</string>
   <string name="speech_engine_not_install">Orodje za govor ni nameščeno</string>
   <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
-  <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vznastaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogočevzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
   <string name="ssl_certificate_is_valid">Ta certifikat je veljaven.</string>
   <string name="ssl_continue">Nadaljuj</string>

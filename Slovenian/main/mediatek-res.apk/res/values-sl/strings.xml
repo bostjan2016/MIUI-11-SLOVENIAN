@@ -174,7 +174,7 @@ Poskusite ponovno čez %d sekund."</string>
   <string name="wifi_display_build_connection">Povezovanje.</string>
   <string name="wifi_display_change_resolution_reminder">Sprememba ločljivosti bo samodejno ponovno povezala brezžični zaslon.</string>
   <string name="wifi_display_channel_confliction">Nesporazum kanalov</string>
-  <string name="wifi_display_confirm_connection">želi vznastaviti povezavo z vami.</string>
+  <string name="wifi_display_confirm_connection">želivzpostaviti povezavo z vami.</string>
   <string name="wifi_display_connected_to_wifi_network">Povezano z WiFi omrežjem %1$s.</string>
   <string name="wifi_display_connection_is_not_steady">Trenutna povezava brezžičnega zaslona ni stabilna.</string>
   <string name="wifi_display_disconnect_then_reconnect">Odklop brezžičnega zaslona. Želite ponovni priklop?</string>

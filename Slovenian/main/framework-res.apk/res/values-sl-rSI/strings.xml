@@ -517,8 +517,8 @@ s številko %s"</string>
   <string name="httpError">Napaka v omrežju.</string>
   <string name="httpErrorAuth">Pristnosti ni bilo mogoče preveriti.</string>
   <string name="httpErrorBadUrl">Strani ni mogoče odpreti ker povezava ni veljavna.</string>
-  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogoče vznastaviti.</string>
-  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogoče vznastaviti.</string>
+  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogočevzpostaviti.</string>
+  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogočevzpostaviti.</string>
   <string name="httpErrorFile">Do datoteke ni bilo mogoče dostopati.</string>
   <string name="httpErrorFileNotFound">Zahtevane datoteke ni bilo mogoče najti.</string>
   <string name="httpErrorIO">S strežnikom ni bilo mogoče komunicirati. Poskusite znova pozneje.</string>
@@ -2124,7 +2124,7 @@ Preostalo poskusov :"</string>
   <string name="wifi_available_title_connecting">Povezovanje na WiFi omrežje</string>
   <string name="wifi_available_title_failed_to_connect">Ne morem se povezati na WiFi omrežje</string>
   <string name="wifi_calling_off_summary">Izklopljeno</string>
-  <string name="wifi_connect_alert_message">Aplikacija %1$s želi vznastaviti povezavo z omrežjem WiFi %2$s</string>
+  <string name="wifi_connect_alert_message">Aplikacija %1$s želivzpostaviti povezavo z omrežjem WiFi %2$s</string>
   <string name="wifi_connect_alert_title">Ali dovolite vznastavitev povezave?</string>
   <string name="wifi_connect_default_application">Aplikacija</string>
   <string name="wifi_display_notification_connected_message">Povezan z zaslonom %1$s</string>

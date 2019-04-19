@@ -557,7 +557,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="resource_trial_fail_cancel">V redu</string>
   <string name="resource_trial_fail_go_settings">Nastavitve</string>
   <string name="resource_trial_fail_message">Poskrbite da je vaša sistemska ura nastavljena na pravilen čas.</string>
-  <string name="resource_trial_fail_title">Ni uspelo vznastaviti poskusne seje</string>
+  <string name="resource_trial_fail_title">Ni uspelovzpostaviti poskusne seje</string>
   <string name="resource_trial_hours">Preskusna doba : %1$d h</string>
   <string name="resource_trial_hours_minutes">(Preskusna doba :%1$dh %2$dm)</string>
   <string name="resource_trial_minutes">(Preskusna doba : %1$d m)</string>

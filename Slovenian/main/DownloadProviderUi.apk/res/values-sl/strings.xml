@@ -80,9 +80,9 @@
   <string name="dialog_msg_disabled_net">%1$s omejuje prenose v trenutnem omrežju. Tapnite Nastavitve omrežja za vstop v Varnost.</string>
   <string name="dialog_msg_recommend">"Ne boste mogli videti priporočenih virov po izklopu. Lahko izberete \"Naloži ko je povezano na WiFi\" da prihranite mobilne podatke."</string>
   <string name="dialog_speed_cancel">Odustani</string>
-  <string name="dialog_speed_msg">Uporaba mobilnih podataka za testiranje mreže može prouzrokovati velike količine mobilnih podataka. Svejedno nastaviti?</string>
-  <string name="dialog_speed_ok">Nastavi</string>
-  <string name="dialog_speed_title">Upozorenje uporabe podataka</string>
+  <string name="dialog_speed_msg">Uporaba mobilnih podatakov za testiranje omrežja lahko povzroči velike količine mobilnih podatakov. Nadaljujem?</string>
+  <string name="dialog_speed_ok">Nadaljuj</string>
+  <string name="dialog_speed_title">Opozorilo uporabe podatakov</string>
   <string name="dialog_queued_body">Ta datoteka je postavljena v čakalno vrsto zato še ni na voljo.</string>
   <string name="dialog_title_disabled_net">Dostop do spleta</string>
   <string name="dialog_title_not_available">Prenos ni uspel</string>
@@ -294,7 +294,7 @@
   <string name="remove_download">Prekini</string>
   <string name="restart_download">Zaženi znova</string>
   <string name="resume_download">Nadaljuj</string>
-  <string name="retry_after_network_available">Povezave ni mogoče vznastaviti. Preverite povezavo 
+  <string name="retry_after_network_available">Povezave ni mogočevzpostaviti. Preverite povezavo 
   in poskusite znova.</string>
   <string name="retry_download">Poskusi ponovno</string>
   <string name="revert_default">Vračanje privzetih nastavitev</string>

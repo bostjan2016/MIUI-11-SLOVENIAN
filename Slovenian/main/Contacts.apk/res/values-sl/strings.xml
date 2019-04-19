@@ -1378,13 +1378,13 @@ Napravite varnostno kopijo stikov."</string>
   <string name="yellowpage_navigation_search_history">Zgodovina</string>
   <string name="yellowpage_navigation_search_offline_hint">Niste povezani v omrežje</string>
   <string name="yellowpage_navigation_search_result_average_price">Povprečno %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">Povezave ni mogoče vznastaviti. Preverite povezavo in poskusite znova.</string>
+  <string name="yellowpage_navigation_search_result_network_error">Povezave ni mogočevzpostaviti. Preverite povezavo in poskusite znova.</string>
   <string name="yellowpage_navigation_search_result_no_more">Ni več rezultatov</string>
   <string name="yellowpage_navigation_search_result_service_error">Storitev ni na voljo</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Neznana napaka</string>
   <string name="yellowpage_navigation_search_select_city">Izberite mesto</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Prenašam...</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">Povezave ni mogoče vznastaviti. Preverite povezavo in poskusite znova.</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Povezave ni mogočevzpostaviti. Preverite povezavo in poskusite znova.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na začetni zaslon</string>
   <string name="yellowpage_search_the_yellowpage">Preišči Rumene strani</string>
   <string name="yellowpage_user_profile">Profil</string>

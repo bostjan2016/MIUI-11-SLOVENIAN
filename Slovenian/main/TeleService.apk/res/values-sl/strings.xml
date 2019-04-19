@@ -740,7 +740,7 @@ hitrost vzorčenja"</string>
   <string name="connect_disconnect_vibrate_summary">Vibriraj ko se oseba ki jo kličete oglasi</string>
   <string name="connect_disconnect_vibrate_title">Vibriraj ko je vaš klic sprejet</string>
   <string name="connect_disconnect_vibrate_weak">Rahlo</string>
-  <string name="connect_later">S tem omrežjem trenutno ni mogoče vznastaviti povezave. Poskusite znova pozneje.</string>
+  <string name="connect_later">S tem omrežjem trenutno ni mogočevzpostaviti povezave. Poskusite znova pozneje.</string>
   <string name="connected_via_carrier">Povezano preko omrežja %1$s</string>
   <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
   <string name="connected_via_network_scorer_default">Samodejno povezan preko ocenjevalca omrežja</string>
@@ -1814,7 +1814,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
-    <string name="private_dns_mode_provider_failure">Povezave ni bilo mogoče vznastaviti</string>
+    <string name="private_dns_mode_provider_failure">Povezave ni bilo mogočevzpostaviti</string>
     <string name="private_dns_mode_provider_hostname_hint">Vnesite ime gostitelja pri ponudniku strežnika DNS</string>
   <string name="private_num">Zasebna številka</string>
   <string name="proceed">Nadaljuj</string>

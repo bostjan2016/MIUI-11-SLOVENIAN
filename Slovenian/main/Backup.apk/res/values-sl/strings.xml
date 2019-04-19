@@ -103,7 +103,7 @@ nastavitev in aplikacij"</string>
   <string name="compute_delete_contact_info">Pridobivanje podrobnosti…</string>
   <string name="confirm_exit_link">Izhod</string>
   <string name="confirm_exit_link_cancel">"Ostani"</string>
-  <string name="confirm_exit_link_msg">"Izhod iz aplikacije bo prekinil trenutni prenos. Ponovno boste morali vznastaviti povezavo med napravama. Izhod iz aplikacije?"</string>
+  <string name="confirm_exit_link_msg">"Izhod iz aplikacije bo prekinil trenutni prenos. Ponovno boste moralivzpostaviti povezavo med napravama. Izhod iz aplikacije?"</string>
   <string name="confirm_exit_link_title">Prekinjanje prenosa</string>
   <string name="connect_soft_ap_label">Povezovanje z novo napravo…</string>
   <string name="connect_wifi">Povežite se na WiFi</string>
@@ -241,7 +241,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="never">Nikoli</string>
   <string name="new_backup">Izdelaj var. kopijo</string>
   <string name="no_encrypt_password">Brez gesla</string>
-  <string name="no_network">Povezave ni mogoče vznastaviti</string>
+  <string name="no_network">Povezave ni mogočevzpostaviti</string>
   <string name="note_title">Opombe</string>
   <string name="nothing_searched">Ni zadetkov</string>
   <string name="notif_backup_complete_title">Var. kopija uspešno dokončana</string>

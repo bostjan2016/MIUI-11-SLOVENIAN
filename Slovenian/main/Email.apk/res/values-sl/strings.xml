@@ -93,8 +93,8 @@
   <string name="account_setup_failed_check_credentials_message">Strežnik je odgovoril z napako. Preverite vaše uporabniško ime in geslo, nato poskusite znova.</string>
   <string name="account_setup_failed_dlg_auth_message">Uporabniško ime ali geslo je napačno.</string>
   <string name="account_setup_failed_dlg_bar_title">Načini prijave za %s</string>
-  <string name="account_setup_failed_dlg_certificate_message">Ne morem vznastaviti varne povezave s strežnikom.</string>
-  <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne morem vznastaviti varne povezave s strežnikom.
+  <string name="account_setup_failed_dlg_certificate_message">Ne moremvzpostaviti varne povezave s strežnikom.</string>
+  <string name="account_setup_failed_dlg_certificate_message_fmt">"Ne moremvzpostaviti varne povezave s strežnikom.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">"Vaš račun je zaklenjen. Potrdite napravo s pomočjo programa QQ Security ali odstranite zaščito"</string>
   <string name="account_setup_failed_dlg_edit_details_action">Uredi podrobnosti</string>
@@ -663,7 +663,7 @@
   <string name="net_check_title">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovo.</string>
   <string name="network_error">Ni povezave</string>
   <string name="network_invaild">"Ne morem se povezati z omrežjem"</string>
-  <string name="network_not_available">Povezave ni mogoče vznastaviti</string>
+  <string name="network_not_available">Povezave ni mogočevzpostaviti</string>
   <string name="network_tip">Kontrola prepoznave ni uspela, preverite omrežno povezavo</string>
   <string name="network_try_again">Preverite omrežje</string>
   <string name="network_unavailable">Omrežje ni na voljo</string>

@@ -760,9 +760,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Seznam pesmi</string>
   <string name="network_error_and_retry">"Ne morem se povezati, tapnite za nov poskus"</string>
-  <string name="network_failure">Povezave z omrežjem ni mogoče vznastaviti</string>
-  <string name="network_request_error">"Povezave z omrežjem ni mogoče vznastaviti"</string>
-  <string name="network_settings_error">"Povezave z omrežjem ni mogoče vznastaviti"</string>
+  <string name="network_failure">Povezave z omrežjem ni mogočevzpostaviti</string>
+  <string name="network_request_error">"Povezave z omrežjem ni mogočevzpostaviti"</string>
+  <string name="network_settings_error">"Povezave z omrežjem ni mogočevzpostaviti"</string>
   <string name="network_traffic">Uporaba podatkov</string>
   <string name="news_mark">NOVICE</string>
   <string name="next_time">Naslednjič</string>
