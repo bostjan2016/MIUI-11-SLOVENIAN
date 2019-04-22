@@ -2224,6 +2224,10 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_on_time_option_title">Med tem procesom preklopi na</string>
   <string name="power_save_on_time_start_time_summary">Začni</string>
   <string name="power_save_on_time_start_time_summary_na">Od</string>
+  <string name="power_save_ps_clean">Očisti predspomin ko se naprava zaklene</string>
+  <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da privarčujete baterijo</string>
+  <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
+  <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
   <string name="power_save_started_summary_text">"Varčevanje baterije je vklopljeno. Zmanjšuje aktivnost aplikacij v ozadju, ustavlja sinhronizacijo in minimizira animacije sistema."</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Razpored profilov za preklop</string>

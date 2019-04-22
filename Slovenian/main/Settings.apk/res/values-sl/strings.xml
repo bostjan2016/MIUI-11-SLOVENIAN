@@ -5350,7 +5350,7 @@ Vmesnik UT: %5$s"</string>
 "<li>Prenos podatkov v mobilnih omrežjih</li>"
 "<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">Ponastavi nastavitve</string>
-  <string name="reset_network_final_desc">Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
+  <string name="reset_network_final_desc">"Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti. Postopek traja nekaj sekund."</string>
     <string name="reset_network_title">Ponastavi WiFi, prenos podatkov v mobilnem omrežju in Bluetooth</string>
   <string name="reset_network_wifi">WiFi</string>
   <string name="reset_second_space_passwd">Ponastavi geslo Drugega prostora</string>
@@ -8261,8 +8261,8 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_priority_type_title">Ročno nastavi prednosti dostopnih točk</string>
   <string name="wifi_property">WiFi lastnosti</string>
   <string name="wifi_protection_on">Vključi</string>
-  <string name="wifi_protection_settings_title">WiFi zaščita sonde</string>
-  <string name="wifi_protection_tip">MIUI samodejno uvljučuje storitev zaščite WiFi sonde. Ko mobilni telefon skenira Wifi bo izbral slučajni MAC naslov da prepreči da bi da WiFi sonda kradla zasebnost uporabnikov.</string>
+  <string name="wifi_protection_settings_title">Zaštita pred WiFi poskusom zahteve</string>
+  <string name="wifi_protection_tip">MIUI bo zaščitil vaše osebne podatke pred WiFi poskusom zahteve ki pride iz naključnih MAC naslovov in WiFi poskusom sniffers-ov ko vaša naprava išče WiFi omrežja.</string>
   <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
   <string name="wifi_quick_toggle_title">WiFi</string>
   <string name="wifi_remembered">Shranjeno</string>

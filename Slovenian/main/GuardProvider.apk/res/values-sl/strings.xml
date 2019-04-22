@@ -35,7 +35,8 @@
   <string name="avl_dialog_policy">Prikaz Pravila o zasebnosti</string>
   <string name="avl_dialog_title">"AVL Pravila o zasebnosti"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-  <string name="hello_world">Hello world!</string>
+  <string name="common_ids_permission_label">Avast ids skupna dovoljenja</string>
+  <string name="hello_world">Zdravo svet!</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="tencent_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij in preveri s pomočjo online definicije virusov.</string>
   <string name="tencent_dialog_dbupdate">Samodejno posodobi definicije virusov</string>

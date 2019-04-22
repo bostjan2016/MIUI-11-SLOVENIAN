@@ -347,11 +347,16 @@
   <string name="battery_info_status_full">Napolnjeno</string>
   <string name="battery_info_status_not_charging">"Vključeno, trenutno se ne more polniti"</string>
   <string name="battery_info_status_unknown">Neznano</string>  
+  <string name="battery_low_button_not_open_power_save">Ne zdaj</string>
+  <string name="battery_low_button_open_power_save">Vključi</string>
   <string name="battery_low_percent_format">ostalo %d%%</string>
+  <string name="battery_low_percent_format_save_mode_closed">Preostalo je manj kot %d%% baterije. Priključite polnilec.</string>
+  <string name="battery_low_percent_format_save_mode_open">Preostalo je manj kot %d%% baterije. Vključite varčevanje baterije da prihranite energijo.</string>
   <string name="battery_low_percent_format_hybrid" formatted="false">Ostalo je %s, še približno %s na osnovi vaše porabe</string>
   <string name="battery_low_percent_format_hybrid_short" formatted="false">Ostalo je %s, še približno %s</string>
   <string name="battery_low_percent_format_saver_started">Ostalo %s. Vključeno je varčevanje baterije.</string>
-  <string name="battery_low_title">"Priključite polnilec"</string>
+  <string name="battery_low_title_power_save">Varčevanje baterije</string>
+  <string name="battery_low_title">"Baterija je prazna"</string>
   <string name="battery_low_why">Nastavitve</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="battery_panel_title">Poraba baterije</string>
@@ -709,6 +714,7 @@ hitrost vzorčenja"</string>
   <string name="face_data_manage_delete_msg">Izbriši</string>
   <string name="face_data_manage_delete_sure">"Po brisanju obraza naprave ne boste mogli odkleniti s pomočjo prepoznavanja obraza."</string>
   <string name="face_data_manage_delete_title">Obraz</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Ko se zaslon osvetli, podrsajte gor da boste odklenili napravo z obrazom.</string>
   <string name="face_data_manage_unlock_msg">Odklenite svojo napravo s pomočjo prepoznavanja vašega obraza</string>
   <string name="face_data_manage_unlock_slide_msg">Zamenjaj bližnjico drsnika odklepa z obrazom</string>
   <string name="face_data_manage_unlock_title">Odklenite z uporabo obraza</string>
@@ -724,7 +730,8 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_close_screen">Približajte se zaslonu</string>
   <string name="face_unlock_down">Dvignite glavo</string>
   <string name="face_unlock_fail">"Ne morem potrditi obraza"</string>
-  <string name="face_unlock_fail_retry">"Ne morem potrditi obraza. Tapnite ikono za ponovni poskus."</string>
+  <string name="face_unlock_fail_retry">"Ne morem prepoznati obraza. Tapnite zgoraj za ponovni poskus."</string>
+  <string name="face_unlock_fail_retry_global">Tapnite zgoraj da uporabite odklep z obrazom</string>
   <string name="face_unlock_identify_error">Prišlo je do napake pri prepoznavanju</string>
   <string name="face_unlock_not_found">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_not_roi">Imejte obraz znotraj okvirja</string>
@@ -1452,6 +1459,10 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="power_remaining_more_than_subtext">Ostalo je več kot %1$s (%2$s)</string>
   <string name="power_remaining_only_more_than_subtext">Ostalo je več kot %1$s</string>
   <string name="power_remaining_settings_home_page">%1$s – %2$s</string>
+  <string name="power_save_ps_clean">Očisti predpomnilnik vsakič ko bo naprava zaklenjena</string>
+  <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da prihranite baterijo</string>
+  <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
+  <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
   <string name="private_dns_mode_off">Izključeno</string>
   <string name="private_dns_mode_opportunistic">Samodejno</string>
   <string name="private_dns_mode_provider">Ime hosta ponudnika zasebnega DNS-a</string>
