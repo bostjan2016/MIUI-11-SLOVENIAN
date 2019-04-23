@@ -632,7 +632,8 @@ hitrost vzorčenja"</string>
   <string name="dlg_summary_close_wifi">Izključi WiFi, Bluetooth in dostopno točko</string>
   <string name="dlg_summary_nfc">Izključi NFC</string>
   <string name="dlg_summary_title">Ekstremno varčevanje baterije ustavi vse dejavnosti v ozadju. Če želite da se aplikacija izvaja v ozadju jo dodajte v izjeme ozadja.</string>
-  <string name="dnd_is_off">DND je izključen</string>
+  <string name="dnd_is_off">Ne moti je izključeno</string>
+  <string name="dnd_notification_warnings_title">Klici in obvestila bodo utišani dokler ne izključite Ne moti</string>
   <string name="dnd_suppressing_shade_text">Storitev Ne moti je pavzirala obvestila</string>
   <string name="do_disclosure_generic">S to napravo upravlja vaša organizacija</string>
   <string name="do_disclosure_with_name">S to napravo upravlja %s</string>
@@ -1301,6 +1302,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="notification_channel_controls_closed_accessibility">Kontrolniki obvestil za aplikacijo %1$s so zaprti</string>
     <string name="notification_channel_controls_opened_accessibility">Kontrolniki obvestil za aplikacijo %1$s so odprti</string>
     <string name="notification_channel_disabled">Teh obvestil ne boste več prejemali</string>
+  <string name="notification_channel_dnd">Ne moti</string>
     <string name="notification_channel_general">Splošna sporočila</string>
   <string name="notification_channel_hints">Nasveti</string>
   <string name="notification_channel_location">Lokacija</string>
