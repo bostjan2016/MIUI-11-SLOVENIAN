@@ -327,7 +327,6 @@
   <string name="month_view">Mesec</string>
   <string name="monthly">Mesečno</string>
   <string name="monthly_on_day">Mesečno (na isti dan vsak mesec)</string>
-  <string name="monthly_on_day_count">Mesečno (%1$s %2$s)</string>
   <string name="more_string">+%1$d</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
   <string name="new_event_description">Novo</string>
