@@ -175,6 +175,8 @@
   <string name="liked">Mi je že všeč</string>
   <string name="lks_left_net_deny">Omrežna povezava je omejena</string>
   <string name="lks_left_net_error">"Ne morem se povezati na omrežje."</string>
+  <string name="lks_left_top_notice">Tapnite tu za vrnitev na vrh</string>
+  <string name="lks_left_top_notice_refresh">Tapnite za prikaz novih stvari</string>
   <string name="lks_logo_desc2">Vsak dan nove slike ozadja</string>
   <string name="lks_subscription_toast">Slika ozadja zamenjana</string>
   <string name="llks_pop_btm_des">Začnite dan z nasmehom</string>
@@ -186,6 +188,16 @@
   <string name="llks_pop_top_des_backup">Dobite dnevno na vaš zaslon</string>
   <string name="llks_pop_top_title">Nove slike ozadja</string>
   <string name="llks_pop_top_title_backup">Sveže slike ozadja</string>
+  <string name="llks_setting_view_title">Dodatni zaslon</string>
+  <string name="llks_simple_mode">Lite način</string>
+  <string name="llks_simple_mode_desc">Poenostavljeni videz in dodatne bližnjice</string>
+  <string name="llks_standard_mode">Privzeto</string>
+  <string name="llks_standard_mode_desc">Ozadja, zgodbe in dnevna priporočila</string>
+  <string name="llks_tools_gallery_name">Wallpaper Carousel</string>
+  <string name="llks_tools_nfc_data">%s CNY</string>
+  <string name="llks_tools_nfc_name">NFC</string>
+  <string name="llks_tools_remote_control_name">Mi Remote</string>
+  <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="load_hdpicture_complete">Naložena originalna slika</string>
   <string name="loading">Samo trenutek…</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
@@ -493,6 +505,8 @@
   <string name="sst_subscribe_title">Moje kategorije</string>
   <string name="sst_wifi_only_desc">Izključite to nastavitev da privarčujete mobilne podatke</string>
   <string name="sst_wifi_only_title">Posodobi slike ozadja z uporabo mobilnih podatkov</string>
+  <string name="subscribe_apply_wp">Ozadje zakl. zaslona nastavljeno</string>
+  <string name="subscribe_dlg_content">Naročite se da boste vsakodnevno dobivali sveža ozadja na vaš zakl. zaslon in zjutraj dobivali pozdrave.</string>
   <string name="summary">"Strinjajte se z &lt;a href='%s'&gt;Pravila o zasebnosti&lt;/a&gt; za pregled online vsebine. Če se ne strinjate bodo lokalne slike za ozadje še naprej na voljo."</string>
   <string name="summary2">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
   <string name="summary_international">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
@@ -509,8 +523,9 @@
   <string name="toast_ad_down_tip2">Prenos %s</string>
   <string name="toast_load_hd_fail">Nalaganje originalnega dokumenta ni uspelo</string>
   <string name="toast_neterror_tip">Omrežna napaka</string>
+  <string name="toast_update_no_more_newest_feeds">Ni novih stvari</string>
   <string name="top_search_tip">Poiščite kategorije ki so vam všeč</string>
-  <string name="uninstall_introducation_text_desc">Wallpaper Carousel nastavlja nove kvalitete slike direktno na zakl. zaslon. Preden odstranite aplikacijo se prepričajte, da je res ne potrebujete.</string>
+  <string name="uninstall_introducation_text_desc">Wallpaper Carousel dostavlja nove kvalitete slike direktno na zakl. zaslon. Preden odstranite aplikacijo se prepričajte, da je res ne potrebujete.</string>
   <string name="uninstall_introduction_text_title">O Wallpaper Carousel</string>
   <string name="uninstall_warning_text_desc">"Brez Wallpaper Carousela ne boste dobivali novih slik za ozadje. Lahko pa boste na novo namestili aplikacijo. Izbrišem Wallpaper Carousel?"</string>
   <string name="uninstall_warning_text_title">Odstranjevanje Wallpaper Carousela…</string>
