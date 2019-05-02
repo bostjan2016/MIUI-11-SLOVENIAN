@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="abc_action_bar_home_description">Pojdi na začetno</string>
+  <string name="abc_action_bar_home_description">Pojdi na začetno</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Pojdi gor</string>
@@ -35,6 +35,7 @@
   <string name="birthday">Rojstni dan</string>
   <string name="business_card">Vizitka</string>
   <string name="business_card_title">Postavite vizitko znotraj okvirja</string>
+  <string name="business_card_with_qr_code">Postavite vizitko ali QR kodo znotraj okvirja</string>
   <string name="business_copy">Kopiraj</string>
   <string name="business_new_contacts">Napravi stik</string>
   <string name="business_no_result">"Ne morem prepoznati vizitke. Poskusite ponovno."</string>

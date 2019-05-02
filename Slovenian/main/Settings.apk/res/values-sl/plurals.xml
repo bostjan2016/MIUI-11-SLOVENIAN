@@ -327,20 +327,20 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="one">PIN mora vsebovati %d znak</item>
      </plurals>
 	 <plurals name="usage_state_device_explain_today">
-        <item quantity="other">Odklenjeno danes: %d X</item>
-        <item quantity="one">Odklenjeno danes: %d X</item>
+        <item quantity="other">Odklenjeno: %d X</item>
+        <item quantity="one">Odklenjeno: %d X</item>
     </plurals>
     <plurals name="usage_state_device_explain_week">
-        <item quantity="other">Odklenjeno zadnjih 7 dni: %d X</item>
-        <item quantity="one">Odklenjeno zadnjih 7 dni: %d X</item>
+        <item quantity="other">Odklenjeno: %d X</item>
+        <item quantity="one">Odklenjeno: %d X</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_today">
-        <item quantity="other">Prejeto %d obvestil danes</item>
-        <item quantity="one">Prejeto %d obvestilo danes</item>
+        <item quantity="other">Prejeto %d obvestil</item>
+        <item quantity="one">Prejeto %d obvestilo</item>
     </plurals>
     <plurals name="usage_state_device_noti_explain_week">
-        <item quantity="other">Prejeto %d obvestil zadnjih 7 dni</item>
-        <item quantity="one">Prejeto %d obvestilo zadnjih 7 dni</item>
+        <item quantity="other">Prejeto %d obvestil</item>
+        <item quantity="one">Prejeto %d obvestilo</item>
     </plurals>
     <plurals name="usage_state_hour">
         <item quantity="other">%d ur</item>

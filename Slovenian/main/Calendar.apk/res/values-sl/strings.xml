@@ -186,6 +186,8 @@
   <string name="edit_event_confirm_message">Zavržem spremembe?</string>
   <string name="edit_event_countdown_name_empty_hint">Vnesi ime dogodka</string>
   <string name="edit_event_countdown_name_hint">Dogodek</string>
+  <string name="edit_event_custom_reminder_time_dup">Lastni opomnik: %1$s</string>
+  <string name="edit_event_custom_reminder_title">Nastavi lastni opomnik</string>
   <string name="edit_event_dislike_title">Zakaj ste preklicali?</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Vnesi leto</string>
@@ -234,9 +236,10 @@
   <string name="event_info_where">Kje</string>
   <string name="event_not_found">Dogodek ni najden.</string>
   <string name="event_reminder_allday_day_zero">Na ta dan ob %2$s</string>
-  <string name="event_reminder_value_zero">Pred dogodkom</string>
+  <string name="event_reminder_custom">Lastno</string>
+  <string name="event_reminder_value_zero">Ob začetku dogodka</string>
   <string name="event_title">Naslov</string>
-  <string name="event_view">Ogled dogodka</string>
+  <string name="event_view">Pokaži dogodek</string>
   <string name="every_weekday">Med tednom (Pon - Pet)</string>
   <string name="festival_detail_title">Festival</string>
   <string name="force_touch_title_add_new_event">Dodaj nov dogodek</string>

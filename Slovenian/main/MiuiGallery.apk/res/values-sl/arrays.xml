@@ -114,4 +114,8 @@
         <item>Samo naprej</item>
         <item>Polno energije</item>
     </string-array>
+	<string-array name="backup_automatically_key_words">
+        <item>Shrani fotografije</item>
+        <item>Sinhr. fotografije z Mi Cloud</item>
+    </string-array>
 </resources> 

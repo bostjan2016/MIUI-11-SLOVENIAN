@@ -287,6 +287,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="perm_read_phone_state">"Branje statusa telefona"</string>
   <string name="perm_read_sms">Branje SMS-ov</string>
   <string name="perm_storage">Branje in pisanje na zunanji pomnilnik</string>
+  <string name="phone_title">Nastavitve telefona</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale znamke</string>
   <string name="platform_chooser_item_ios">Uvozi iz naprave Apple</string>

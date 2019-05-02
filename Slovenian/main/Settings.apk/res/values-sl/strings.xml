@@ -1477,11 +1477,15 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="children_mode_tips_on">Po izklopu Otroškega načina se dotaknite tipke Domov za vrnitev na začetni zaslon.</string>
   <string name="children_mode_title">Otroški način</string>
   <string name="choose_a_card_to_reset">Izberite SIM kartico za resetiranje</string>
+  <string name="choose_keyguard_clock_style">Format ure na Zakl. zaslonu</string>
+  <string name="choose_keyguard_clock_summary">"Ta storitev ne deluje z temami tretjih oseb"</string>
   <string name="choose_assist_title">Izbira aplikacije za pomoč</string>
   <string name="choose_profile">Izbira profila</string>
   <string name="choose_smartcover_type">Izberite vrsto ovitka</string>
   <string name="choose_spell_checker">Izbira črkovalnika</string>
   <string name="choose_timezone">Izberite časovni pas</string>
+  <string name="choose_unlock_face_msg">Nastavite zakl. zaslona pred snemanjem obraza.</string>
+  <string name="choose_unlock_fingerprint_msg">Nastavite zaklj. zaslona pred dodajanjem prstnega odtisa.</string>
   <string name="choose_voice_input_title">Izbira glasovnega vnosa</string>
   <string name="cleaner">Čistilec</string>
   <string name="clear_activities">Počisti privzete nastavitve</string>
@@ -2320,8 +2324,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="drive_mode_voice_report">Pretvarjanje teksta v govor</string>
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
   <string name="dual_clock">Dvojna ura</string>
-  <string name="dual_clock_aod_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za izključen zaslon omogočite prikazovanje stvari v Nastavitve &gt; Zaslon; 2. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 3. Za začetni zaslon preverite ali uporabljate standardni pripomoček sistemske ure."</string>
-  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 2. Za začetni zaslon preverite ali uporabljate standardni pripomoček sistemske ure."</string>
+  <string name="dual_clock_aod_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za izključen zaslon omogočite prikazovanje stvari v Nastavitve &gt; Zaslon; 2. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 3. Za začetni zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
+  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 2. Za začetni zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
   <string name="dual_clock_ok">Razumem</string>
   <string name="dual_clock_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -3866,6 +3870,8 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_features">MIUI laboratorijske storitve</string>
   <string name="miui_lab_gallery_search_desc">Izboljšano pregledovanje slik</string>
   <string name="miui_lab_gallery_search_title">Najdi fotografije v Galeriji</string>
+  <string name="miui_lab_gesture_desc">Onemogočite fizične tipke in uživajte v kretnjah celega zaslona</string>
+  <string name="miui_lab_gesture_title">Kretnje celega zaslona</string>
   <string name="miui_lab_install_drive_mode_error">"Ne morem namestiti, poskusite ponovno."</string>
   <string name="miui_lab_install_drive_mode_summary">"Način dela za avtomobil je sistemska aplikacija. Namestitev ne potrebuje spletne povezave."</string>
   <string name="miui_lab_install_drive_mode_title">Namesti način dela za avtomobil</string>
@@ -4597,10 +4603,10 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="paper_mode_side_effect_hint">Večja intenzivnost lahko vpliva na način prikazovanja vsebine.</string>
   <string name="paper_mode_start_time_title">Vključi</string>
   <string name="passpoint_content">Poverilnice za %1$s</string>
-    <string name="passpoint_label">Shranjeno prek:</string>
+    <string name="passpoint_label">Shranjeno preko</string>
   <string name="password">Geslo</string>
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
-  <string name="password_entrance_title">Zakl. zaslona</string>
+  <string name="password_entrance_title">Nastavi zakl. zaslona</string>
   <string name="password_guard">Geslo</string>
   <string name="password_null">Polje Geslo ne sme biti prazno</string>
   <string name="password_turned_off_text">Geslo je izključeno</string>
@@ -5669,6 +5675,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_airplane">Letalski način;Letalski način;Letalski način;Letalo;Letalo;Let</string>
   <string name="search_airplane_mode">Letalski način;Letalski način;Način letenja;Letalo;avion;Let</string>
   <string name="search_alarm_sound_title">Zvok Alarma;Zvok alarma;Alarm</string>
+  <string name="search_ambient_display_screen_title">Ambientalni zaslon</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
   <string name="search_apn_settings">APN;Imena dostopnih točk</string>
   <string name="search_app_invisible">Aplik. skrita;Skrite aplikacije</string>
@@ -5718,6 +5725,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_dndm_wristband">Aktiviraj z Mi Band;Mi Band</string>
   <string name="search_do_not_disturb">Ne moti;Ne moti;VIP;Nastavi čas;Izjeme;Ponovljeni klici</string>
   <string name="search_do_not_disturb_mode">Ne moti</string>
+  <string name="search_doze_always_on_title">Vedno vključen</string>
   <string name="search_dtmf_tone_enable_title">Vključi tone klicanja;Toni klicanja;toni dotika;toni dotika;Toni klicanja;Toni klicanja</string>
   <string name="search_edge_handgrip">Kontrole roba</string>
   <string name="search_empty">Ni najdenih rezultatov</string>
@@ -7406,12 +7414,13 @@ Vam je všeč Mi Mover?"</string>
   <string name="usage_log">Statistični podatki o uporabi aplikacije</string>
   <string name="usage_state_app_timer">Čas zaslona</string>
   <string name="usage_state_app_usage_detail_title">Podrobnosti o uporabi aplikacije</string>
-  <string name="usage_state_app_usage_list_title">"Čas zaslona aplikacije danes"</string>
-  <string name="usage_state_app_usage_list_week_title">"Čas zaslona aplikacije (zadnjih 7 dni)"</string>
+  <string name="usage_state_app_usage_list_title">"Čas zaslona aplikacije"</string>
+  <string name="usage_state_app_usage_list_week_title">"Čas zaslona aplikacije"</string>
   <string name="usage_state_app_usage_tip_title" formatted="false">Čas zaslona med %d:00 in %d:00</string>
-  <string name="usage_state_app_use_time">Čas zaslona aplikacije</string>
+  <string name="usage_state_app_use_time">Čas vkl. zaslona aplikacije</string>
   <string name="usage_state_channel_mouth">Zadnjih 30 dni</string>
   <string name="usage_state_channel_week">Zadnjih 7 dni</string>
+  <string name="usage_state_date">dd.MM</string>
   <string name="usage_state_device_noti_today_tip_title" formatted="false">Obvesti med %d:00 in %d:00</string>
   <string name="usage_state_device_unlock_today_tip_title" formatted="false">Odklenjena naprava med %d:00 i %d:00</string>
   <string name="usage_state_friday">Pet</string>
@@ -7419,8 +7428,8 @@ Vam je všeč Mi Mover?"</string>
   <string name="usage_state_hour_minute" formatted="false">%dh %dm</string>
   <string name="usage_state_less_one_minute">Manj od 1 minute</string>
   <string name="usage_state_monday">Pon</string>
-  <string name="usage_state_mourth_day">"'Čas zaslona vključeno' dd.MM"</string>
-  <string name="usage_state_noti_mourth_day">"'Obvestila vključena' dd.MM"</string>
+  <string name="usage_state_mourth_day">"Čas vkl. zaslona  %s"</string>
+  <string name="usage_state_noti_mourth_day">"Obvestila vključena %s"</string>
   <string name="usage_state_notification">Urejanje obvestil</string>
   <string name="usage_state_notification_manager">Urejanje obvestil aplikacije</string>
   <string name="usage_state_remind_summary">Vključite da boste dobili opozorila o času zaslona. Lahko nastavite različne časovne omejitve za dneve v tednu in vikende.</string>
@@ -7433,7 +7442,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="usage_state_today">Danes</string>
   <string name="usage_state_today_total_text">Čas zaslona danes</string>
   <string name="usage_state_tuesday">Tor</string>
-  <string name="usage_state_unlock_mourth_day">"'Odklenjeno' dd.MM"</string>
+  <string name="usage_state_unlock_mourth_day">"Odklenjeno %s"</string>
   <string name="usage_state_usage_time">Čas zaslona</string>
   <string name="usage_state_usage_time_remind">Opozorila časa zaslona</string>
   <string name="usage_state_use_time_remind_title">Opozorila časa zaslona</string>
@@ -7481,9 +7490,9 @@ Vam je všeč Mi Mover?"</string>
   <string name="usagestats_app_category_miui_video_etc">Glasba in videoposnetki</string>
   <string name="usagestats_device_notification_des">Omejitev časa zaslona za danes: %s</string>
   <string name="usagestats_device_notification_des_over">"Ste že dosegli omejitev zaslona za danes."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">Omejitev časa zaslona za danes: %s | %s ostalo</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">"Današnja omejitev: %s | %s ostalo"</string>
   <string name="usagestats_device_notification_title">Opozorila časa zaslona</string>
-  <string name="usagestats_device_timeout_des" formatted="false">"Uporabljali ste napravo %dh %dm danes. Malo se spočijte!"</string>
+  <string name="usagestats_device_timeout_des" formatted="false">"Danes ste napravo uporabljali %dh %dm. Malo se spočijte!"</string>
   <string name="usagestats_device_timeout_negative">Opomni čez 1 uro</string>
   <string name="usagestats_device_timeout_positive">Razumem</string>
   <string name="usagestats_device_timeout_title">Opozorila časa zaslona</string>

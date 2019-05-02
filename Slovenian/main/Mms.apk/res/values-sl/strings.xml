@@ -190,6 +190,8 @@
   <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Sporočila se marajo povezati na splet in dobiti vašo lokacijo za ponudbo Smart Messaging, prepoznavo ID-ja pošiljatelja in druge storitve. Se strinjate?</string>
   <string name="dialog_message_rcs">China Mobile Messaging vam omogoča pošiljanje sporočil drugim uporabnikom China Mobile brez stroškov. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
   <string name="dialog_message_sms_report">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite. Uporabile se bodo samo za izboljšanje MIUI spam filtra."</string>
+  <string name="dialog_sim_locked_confirm">V redu</string>
+  <string name="dialog_sim_locked_message">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vašega predplačila. Za več informacij kontaktirajte Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="dialog_title_fake_cell_detect_error">Popravi</string>
   <string name="dialog_title_mx_rcs">Mi sporočilo</string>
   <string name="dialog_title_networking">Pogoji in pravila</string>

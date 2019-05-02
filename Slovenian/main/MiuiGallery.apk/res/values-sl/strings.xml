@@ -56,6 +56,7 @@
   <string name="agreement_summary">Legalni dokumenti</string>
   <string name="ai_album_open_switch_button_title">Začni analizo fotografij</string>
   <string name="ai_album_requesting_title">AI algoritam še vedno obdeluje vaše fotografije. Vrati se malo kasneje.</string>
+  <string name="ai_album_setting_key_word">Išči fotografije</string>
   <string name="ai_album_setting_sub_title">Dovoli AI algoritmu da prepozna osebe, mesta in objekte na vašim fotografijah da jih hitreje najdeš.</string>
   <string name="ai_album_setting_title">Prepoznaj objekte na fotografijah</string>
   <string name="album_already_exists_check">Pokaži</string>
@@ -219,6 +220,8 @@
   <string name="backuped_title">Var. kopija je uspešno izdelana</string>
   <string name="backuping_title_gprs">Izdelava var. kopije s pomočjo prenosa mobilnih podatkov…</string>
   <string name="backuping_title_normal">Izdelava var. kopije…</string>
+  <string name="base_btn_cancel">Prekliči</string>
+  <string name="base_btn_download">Prenesi</string>
   <string name="begin_share">Končana izdelava otroškega albuma \"%s\", delite ga zdaj</string>
   <string name="begin_share_toast">Napravim zasebni album za tega otroka pred deljenjem?</string>
   <string name="black_white">Flat C&amp; B</string>
@@ -608,6 +611,7 @@ za fotografije"</string>
   <string name="filter_category_master">Master</string>
   <string name="filter_category_portrait">Portret</string>
   <string name="filter_category_scene">Pokrajina</string>
+  <string name="filter_category_sky">Nebo</string>
   <string name="filter_film_blackwhite">B&amp;W</string>
   <string name="filter_film_dew">Dew</string>
   <string name="filter_film_fade">Fade</string>
@@ -630,7 +634,7 @@ za fotografije"</string>
   <string name="filter_master_rise">Rise</string>
   <string name="filter_master_somber">Somber</string>
   <string name="filter_original">Nič</string>
-  <string name="filter_people_bw">Č&amp;B</string>
+  <string name="filter_people_bw">B&amp;W</string>
   <string name="filter_people_fairytale">Otroci</string>
   <string name="filter_people_heart">Čustva</string>
   <string name="filter_people_japanese">Fresh</string>
@@ -652,6 +656,17 @@ za fotografije"</string>
   <string name="filter_scene_series">Odsevi</string>
   <string name="filter_scene_vivid">Vivid</string>
   <string name="filter_scene_warm">Sonce</string>
+  <string name="filter_sky_cloudy">Oblačno</string>
+  <string name="filter_sky_detect_forbidden_tips">"Ne najdem neba"</string>
+  <string name="filter_sky_download_failed">"Ne morem prenesti dodatek. Preverite nastavitve omrežja in poskusite ponovno."</string>
+  <string name="filter_sky_download_finish">Dodatek uspešno prenešen</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"Če niste povezani na WiFi omrežje lahko z uporabo mobilnih podatakov prenesete dodatek (%1$dMB) ki vam omogoča menjavo neba na fotografijah."</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Prenesi dodatek</string>
+  <string name="filter_sky_dusk">Zora</string>
+  <string name="filter_sky_glow">Sijaj</string>
+  <string name="filter_sky_rainbow">Mavrica</string>
+  <string name="filter_sky_sunny">Sončno</string>
+  <string name="filter_sky_sunset">Sončni zahod</string>
   <string name="finish_create_baby_album_toast">Izdelan je \"%s\" album v Mi Cloudu</string>
   <string name="finish_fill_baby">Izdelaj</string>
   <string name="fisheye">Ribje oko</string>
@@ -1436,6 +1451,7 @@ za fotografije"</string>
   <string name="today">Danes</string>
   <string name="too_many_recipients">"Ne moreš dodati več kot %2$s prejemnikov (Trenutno ste dodali %1$s)."</string>
   <string name="trash_bin">Koš za smeti</string>
+  <string name="trash_bin_key_word">Izbrisane fotografije</string>
   <string name="trash_bin_summary">Preglejte shranjene fotografije ki so bile nedavno izbrisane</string>
   <string name="try_again_later">Poskusite ponovno kasneje.</string>
   <string name="try_to_send">Poslano</string>

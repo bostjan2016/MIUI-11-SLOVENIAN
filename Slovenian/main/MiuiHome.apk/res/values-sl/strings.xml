@@ -191,7 +191,13 @@
   <string name="guide_install_app_msg">"Aplikacija ni naložena na telefonu. Poiščem in naložim aplikacijo zdaj?"</string>
   <string name="guide_install_app_title">Poiščem in naložim aplikacijo?</string>
   <string name="guide_tips_editing_mode">Tapni &amp; drži da pobereš pripomoček</string>
+  <string name="home_gesture_content_center">Centar za vsebino</string>
+  <string name="home_gesture_global_search">Išči</string>
+  <string name="home_gesture_no_action">Nič</string>
+  <string name="home_gesture_notification_bar">Obvestila</string>
+  <string name="home_pull_down_action">Podrsajte dol na zač. zaslonu</string>
   <string name="home_screen">Začetni zaslon</string>
+  <string name="home_slide_up_action">Podrsajte gor na zač. zaslonu</string>
   <string name="icon_reorganize_channel">Razpored ikon</string>
   <string name="image_too_small_message">"Izbrana slika ni dovolj velika"</string>
   <string name="install">Namesti</string>
@@ -200,6 +206,8 @@
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
+  <string name="launcher_pull_down_title">Podrsajte gr na zač. zaslonu</string>
+  <string name="launcher_slide_up_title">Podrsajte dol na zač. zaslonu</string>
   <string name="launcher_sliding_up_gesture">Podrsajte s prstom gor na zač. zaslonu da odprete iskanje</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="like">Dodaj v priljubljeno</string>

@@ -38,6 +38,7 @@ bo to opravilo samodejno dodano v Drugi prostor."</string>
   <string name="closeSecondSpace">Izbriši Drugi prostor</string>
   <string name="closeSecondSpaceSummary">Izbriši Drugi prostor skupaj z podatki</string>
   <string name="closeSuccess">Izključeno</string>
+  <string name="close_kid_space_success">Otroški prostor je izbrisan</string>
   <string name="close_second_space">Drugi prostor je izbrisan</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Izključeno</string>
@@ -203,6 +204,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="install">Namesti</string>
   <string name="install_error">"Ne morem namestiti. Poskusite ponovno."</string>
   <string name="invalid_qr_code">Neveljavna QR koda</string>
+  <string name="kid_mode_label">Otroški prostor</string>
   <string name="list_empty_text">Prazno</string>
   <string name="list_empty_text_xspace">Namesti WeChat/QQ/Weibo, napravi dvojne aplikacije in poskusi ponovno.</string>
   <string name="loading">Samo trenutek…</string>
