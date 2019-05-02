@@ -6226,8 +6226,8 @@ Morda je koda PIN napačna."</string>
     <string name="sim_lock_settings_summary_off">Izklopljeno</string>
     <string name="sim_lock_settings_summary_on">Zaklenjeno</string>
   <string name="sim_lock_settings_title">Zaklepanje kartica SIM</string>
-  <string name="sim_management_title">SIM kartica in mobilna omrežja</string>
-  <string name="sim_management_title_singlesim">SIM kartica &amp; mobilna omrežja</string>
+  <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
+  <string name="sim_management_title_singlesim">SIM kartice &amp; mobilna omrežja</string>
   <string name="sim_missing">SIM manjka ali pa je napaka</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>

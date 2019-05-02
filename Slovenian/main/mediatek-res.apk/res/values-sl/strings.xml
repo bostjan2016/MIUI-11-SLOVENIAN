@@ -153,7 +153,7 @@ Poskusite ponovno čez %d sekund."</string>
   <string name="sim_missing_slot2">Reža 2: Ni SIM kartice</string>
   <string name="sim_missing_slot2_card">Reža 2: Ni kartice</string>
   <string name="sim_missing_slot3">Reža 3: Ni SIM kartice</string>
-  <string name="sim_missing_slot4">Reža 4: Ni SIM kartica</string>
+  <string name="sim_missing_slot4">Reža 4: Ni SIM kartice</string>
   <string name="storage_sd">Na SD kartici ni dovolj prostora. Sprostite nekaj prostora za shranjevanje ali v nastavitvah spremenite privzeti disk za vpis.</string>
   <string name="storage_withoutsd">V pomnilniku telefona ni dovolj prostora. Sprostite nekaj prostora za shranjevanje ali vstavite SD kartico.</string>
   <string name="storage_withsd">V pomnilniku telefona ni dovolj prostora. Sprostite nekaj prostora za shranjevanje ali v nastavitvah spremenite privzeti disk za vpis.</string>

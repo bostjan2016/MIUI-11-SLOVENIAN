@@ -3812,7 +3812,7 @@ Morda je koda PIN napačna."</string>
   <string name="sim_lock_settings">Nastavitve zaklepanja kartica SIM</string>
   <string name="sim_lock_settings_category">Nastavi zaklepanje kartica SIM</string>
   <string name="sim_lock_settings_title">Zaklepanje kartica SIM</string>
-  <string name="sim_management_title">SIM kartica in mobilna omrežja</string>
+  <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
   <string name="sim_name_hint">Vnesite ime kartica SIM</string>
@@ -3979,7 +3979,7 @@ Skrbnik lahko nadzira vašo dejavnost v omrežju, vključno z e-pošto, aplikaci
   <string name="status_serialno">Serijska številka</string>
   <string name="status_service_state">Stanje storitve</string>
   <string name="status_signal_strength">Moč signala</string>
-  <string name="status_sim">Status SIM kartica</string>
+  <string name="status_sim">Status SIM kartice</string>
   <string name="status_sim_1">SIM 1</string>
   <string name="status_sim_2">SIM 2</string>
   <string name="status_summary">Dotaknite se da si ogledate podrobnosti.</string>

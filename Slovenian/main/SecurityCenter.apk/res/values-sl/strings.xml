@@ -1214,7 +1214,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebox_hangup_tips_content">Ta storitev vam omogoča da izključite zaslon, a obdržite igro v ozadju. Samodejno se izključi po odklepu naprave.</string>
   <string name="gamebox_hangup_tips_title">Vključi zaslon</string>
   <string name="gamebox_immersion">Interaktivni način</string>
-  <string name="gamebox_immersion_tips_content">Interaktivni način omejuje vse funkcionalnosti SIM kartice, razen mobilne podatkovne povezave. Ne boste moteni s klici ali obvestili o njih. Storitve SIM kartica bodo povrnjene po izklopu interaktivnega načina. Vključim Interaktivni način?</string>
+  <string name="gamebox_immersion_tips_content">Interaktivni način omejuje vse funkcionalnosti SIM kartice, razen mobilne podatkovne povezave. Ne boste moteni s klici ali obvestili o njih. Storitve SIM kartice bodo povrnjene po izklopu interaktivnega načina. Vključim Interaktivni način?</string>
   <string name="gamebox_immersion_tips_title">Pozor</string>
   <string name="gamebox_immerson_open">"Vklop interaktivnega načina, ne menjajte omrežja…"</string>
   <string name="gamebox_positive_button_text">V redu (%1$ds)</string>
