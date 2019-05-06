@@ -100,7 +100,7 @@
   <string name="cta_declaration_ignore">"Ne kaži več"</string>
   <string name="cta_declaration_negative_text">Izhod</string>
   <string name="cta_declaration_positive_text">Sprejmi in nadaljuj</string>
-  <string name="cta_declaration_title">Pogoji in odredbe</string>
+  <string name="cta_declaration_title">Pogoji in pravila</string>
   <string name="default_download_path_dialog_title">Vrnem na privzeto lokacijo prenosa?</string>
   <string name="default_download_path_prefix">Privzeta lokacija:</string> 
   <string name="default_hint">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
