@@ -112,9 +112,12 @@
   <string name="double_tap_to_lock_title">Dvakrat tapnite da zakl. zaslon</string>
   <string name="download_action">Prevzemi</string>
   <string name="edit_folder_title">Spremeni ime mape</string>
+  <string name="edit_mode_dual_app">Napravi dvojno aplikacijo</string>
   <string name="edit_mode_group">Grupiraj</string>
+  <string name="edit_mode_group_error_cant_delete_system_apps">"Ne morem odstraniti aplikacije sistema"</string>
   <string name="edit_mode_group_error_full">Ni dovolj prostora</string>
   <string name="edit_mode_group_error_in_folder">Pred grupiranjem ikon zaprite mapo</string>
+  <string name="edit_mode_group_error_nothing_be_selected">Najprej izberite aplikacijo</string>
   <string name="edit_mode_group_error_one_folder">"Mapo z izbranimi ikonami ni možno podvojiti"</string>
   <string name="edit_mode_top_menu_finish">Končano</string>
   <string name="edit_mode_uninstall">Odstrani</string>
@@ -223,7 +226,7 @@
   <string name="memory_clear_nothing_result">Predpomnilnik je prazen</string>
   <string name="memory_clear_result">Očiščeno %1$sB</string>
   <string name="menu_add">Dodaj</string>
-  <string name="menu_auto_fill">Popolni prazna mesta</string>
+  <string name="menu_auto_fill_of_uninstall">Popolni mesta odstranjenih aplikacij</string>
   <string name="menu_back_desktop">Nazaj na začetni zaslon</string>
   <string name="menu_cell_setting">Razporeditev začetnega zaslona</string>
   <string name="menu_customize">Nastavitve</string>
@@ -243,7 +246,8 @@
   <string name="menu_trans_effect">Efekt prehoda</string>
   <string name="menu_wallpaper">Ozadje</string>
   <string name="menu_workspace_preview">Predogled začetnih zaslonov</string>
-  <string name="mi_wallpaper">MIUI Trgovina Teme</string>
+  <string name="mi_wallpaper">MIUI Teme</string>
+  <string name="minus_one_screen">Zakl. aplikacij</string>
   <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>

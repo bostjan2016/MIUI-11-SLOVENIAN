@@ -1355,4 +1355,9 @@
         <item>24-urni format 13:00</item>
         <item>Samodejno (na osnovi jezika sistema)</item>
     </string-array>
+	<string-array name="drip_battery_indicator_style_entries">
+        <item>Grafika</item>
+        <item>Odstotek (v ikoni)</item>
+        <item>Odstotek (zraven ikone)</item>
+    </string-array>
 </resources>

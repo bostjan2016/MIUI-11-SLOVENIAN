@@ -1202,6 +1202,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="ivr_type_cu_3">China Unicom 2G</string>
   <string name="ivr_type_settings">Nastavitve plana podatkov</string>
   <string name="ivr_type_settings_hint">Vnesite kodo plana podatkov</string>
+  <string name="jump_to_mobile_network_setting">Nastavitve mobilnega omrežja</string>
   <string name="keep_screen_on">Ne začni mirovanja</string>
   <string name="keep_screen_on_summary">Zaslon ne bo prešel v mirovanje med polnjenjem</string>
   <string name="keep_wait_call_back">Nadaljuj s čakanjem</string>
@@ -1985,6 +1986,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="selectContact">Izberi stik</string>
   <string name="select_application">Izberite aplikacijo</string>
   <string name="select_automatically">Izberi samodejno</string>
+  <string name="select_dds_dialog_title">Izberite privzeto mobilno podatkovno SIM kartico</string>
   <string name="select_cancel">Prekini</string>
   <string name="select_continue">Nadaljuj</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika zapisa</string>

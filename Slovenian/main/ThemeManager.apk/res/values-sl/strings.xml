@@ -62,6 +62,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="apply_theme_with_ringtones">Uporabite melodije teme</string>
   <string name="audio_duration_minutes_format">%1$d min.</string>
   <string name="audio_duration_seconds_format">%1$d sek.</string>
+  <string name="audition_ringtone">Predvajaj</string>
   <string name="automatically_update_using_theme_tips">Naslednjič posodobi samodejno</string>
   <string name="backup_theme_dialog_message">Varnostno kopiram trenutno temo?</string>
   <string name="backup_theme_dialog_ok">Varnostno kopiraj</string>
@@ -117,6 +118,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="component_title_settings_video_wallpaper">Slike zadja s posebnimi efekti</string>
   <string name="component_title_video_wallpaper">Filmi</string>
   <string name="component_title_wallpaper">Slika za ozadje</string>
+  <string name="count_down_tip">%ds ostalo</string>
   <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
   <string name="current_using_lockscreen_wallpaper_text">Zakl. zaslon</string>
   <string name="current_version_incompatible">Ta tema je nezdružljiva</string>
@@ -251,10 +253,11 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="item_resource_audio_optional_notification_ring">Obvestila</string>
   <string name="item_resource_audio_optional_phone_ring">Melodija zvonenja</string>
   <string name="lab">Beta storitve</string>
+  <string name="like_list">Stvari ki so mi všeč</string>
   <string name="live_wallpaper">Živo ozadje</string>
-  <string name="loading">Nalaganje...</string>
-  <string name="loading_resource_detail_fail">Ne morem naložiti vira</string>
-  <string name="loading_resource_detail_info">Nalaganje...</string>
+  <string name="loading">Nalaganje…</string>
+  <string name="loading_resource_detail_fail">"Ne morem naložiti vira!"</string>
+  <string name="loading_resource_detail_info">Nalaganje…</string>
   <string name="local_photos">Lokalne fotografije</string>
   <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
   <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje . zaslona"</string>
@@ -325,6 +328,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="online_precust_tiny">Tiny</string>
   <string name="online_search_hint">Iskanje online virov</string>
   <string name="password_toggle_content_description">Vidnost gesla bližnjice</string>
+  <string name="playing_ringtone">Predvaja se</string>
   <string name="pref_privacy_policy">Pravila o zasebnosti</string>
   <string name="present_local_fonts">Moji fonti</string>
   <string name="present_local_themes">Moje teme</string>
@@ -707,6 +711,13 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="transparent_wallpaper_white_wallpaper_failed">"Ne morem napraviti ozadje belo"</string>
   <string name="transparent_wallpaper_white_wallpaper_success">Barva ozadja je zdaj bela</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Transparento ozadje izgleda najboljše na belem ozadju</string>
+  <string name="trial_count_empty">Ni več brezplačnih stvari za danes. Vrnite se jutri!</string>
+  <string name="trial_count_tip">Poskusno obdobje se konča čez %1$s:%2$s:%3$s</string>
+  <string name="trial_for_free">Brezplačen preizkus</string>
+  <string name="trial_get_failed_tip">Končajte gledanje videoposnetka da boste dobili temo.</string>
+  <string name="trial_get_success_tip">"Čestitamo! Imate 3-dnevnu brezplačno preskusno verzijo."</string>
+  <string name="trial_now">Poskusite zdaj</string>
+  <string name="try_5_min">Poskusite čez 5 minut</string>
   <string name="uid_change_dialog_message">"Izbrisali ste posodobitve. Ponovno zaženite napravo da boste lahko uporabili teme."</string>
   <string name="uid_change_dialog_ok">Razumem</string>
   <string name="uid_change_dialog_title">Ponovni zagon</string>
@@ -724,6 +735,11 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
   <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je zaslon izključen</string>
   <string name="using_theme_show_ad">Priporočila</string>
+  <string name="video_ad_click">Poskusite zdaj</string>
+  <string name="video_ad_try_for_free">Brezplačna preskusna</string>
+  <string name="video_ad_uncomplete_tip">Končajte gledanje videoposnetka da boste dobili temo.</string>
+  <string name="video_ad_uncomplete_tip_cancel">Prekliči</string>
+  <string name="video_ad_uncomplete_tip_continue">Nadaljuj gledanje</string>
   <string name="using_wallpaper_personal">Izbor prilagojenih ozadij</string>
   <string name="video_apply_home">Zač. zaslon</string>
   <string name="video_apply_home_lock">Zač. zaslon in Zakl. zaslon</string>
