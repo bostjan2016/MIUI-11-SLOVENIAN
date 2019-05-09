@@ -512,13 +512,17 @@
   <string name="summary_international">"Z uporabo te storitve se strinjate z &lt;a href ='%1$s'&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href='%2$s'&gt;Pravila o zasebnosti&lt;/a&gt;. Imeti morate spletno povezavo.​"</string>
   <string name="tab_user_title_bar_text">Nastavitve</string>
   <string name="theme_apply_failured">"Ne morem nastaviti, poskusite ponovno kasneje"</string>
+  <string name="theme_apply_lockscreen_success">Uspešno nastavljeno</string>
   <string name="theme_apply_success">Nastavljeno</string>
   <string name="theme_applying">Nastavljanje…</string>
+  <string name="theme_close_maml">Wallpaper Carousel ozadja bo zamenjal ozadja zakl. zaslona.</string>
   <string name="theme_des">Nastavite privzeto temo in ponovno vključite Wallpaper Carousel.</string>
   <string name="theme_des_lock_style">Nastavite privzeti zakl. zaslon in ponovno vključite Wallpaper Carousel.</string>
+  <string name="theme_des_maml">"To ne bo vplivalo na ostale komponente trenutne teme. Tema se bo osvežila za uveljavitev sprememb."</string>
   <string name="theme_ok">Nastavitve</string>
   <string name="theme_title">Nastavljanje privzete teme</string>
   <string name="theme_title_lock_style">Nastavljanje privzetega zakl. zaslona</string>
+  <string name="theme_title_subscribe">Naročite se na Wallpaper Carousel</string>
   <string name="toast_ad_down_tip">Prenos aplikacije…</string>
   <string name="toast_ad_down_tip2">Prenos %s</string>
   <string name="toast_load_hd_fail">Nalaganje originalnega dokumenta ni uspelo</string>
