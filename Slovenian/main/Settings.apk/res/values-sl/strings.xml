@@ -2697,6 +2697,8 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
     <string name="fingerprint_unlock_skip_fingerprint">Nadaljevanje brez opravila Pixel Imprint</string>
     <string name="fingerprint_unlock_title">Storitev Pixel Imprint omogoča odklepanje telefona s prstnim odtisom. Zaradi varnosti ta možnost zahteva uporabo nadomestnega zaklepanja zaslona.</string>
   <string name="fingerprint_usage_category_title">Uporabi prst. odtis za</string>
+  <string name="fingerprint_wakeup_summary">Odkleni zaslon ko prstni odtis ni nastavljen.</string>
+  <string name="fingerprint_wakeup_title">Tapni čitalec prstnih odtisov za odklep</string>
   <string name="finish_application">Prisilna zaustavitev</string>
   <string name="finish_button">Končano</string>
     <string name="finish_button_label">Končaj</string>
@@ -4411,7 +4413,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="notification_reboot_title">Ponovno zaženi za uporabo posodobitev</string>
   <string name="notification_reboot_title_hm">Ponovno zaženi za uporabo posodobitev</string>
   <string name="notification_ringtone_title">Privzeti ton zvonenja za obvestila</string>
-  <string name="notification_shade_shortcut_title">bližnjica plošče obvestil</string>
+  <string name="notification_shade_shortcut_title">Bližnjica plošče obvestil</string>
   <string name="notification_section_header">Obvestilo</string>
   <string name="notification_settings">Zvok in obvestila</string>
   <string name="notification_settings_apps_title">Obvestila aplikacij</string>
@@ -4447,9 +4449,10 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="notifications_sent_never">Nikoli</string>
     <string name="notifications_sent_weekly">~%1$s na teden</string>
     <string name="notifications_silenced">Utišano</string>
+    <string name="notification_style_title">Stil obvestil</string>
   <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Obvestila</string>
-  <string name="notify_connect">CMCC WiFi poziv</string>
+  <string name="notify_connect">CMCC WiFi klic</string>
   <string name="notify_connect_summary">Opomni me pri dostopu na CMCC WiFi</string>
   <string name="now">Zdaj</string>
   <string name="nsd_quick_toggle_summary">Dovoli da aplikacije v drugih napravah odkrivajo aplikacije v tej napravi</string>

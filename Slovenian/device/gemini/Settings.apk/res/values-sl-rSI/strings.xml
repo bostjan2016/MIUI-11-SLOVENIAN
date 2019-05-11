@@ -271,7 +271,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="app_notification_row_banned">Blokirano</string>
   <string name="app_notification_row_priority">Prednost</string>
   <string name="app_notification_row_sensitive">Občutljivo</string>
-  <string name="app_notification_visibility_override_title">Na Zakl. zaslonu</string>
+  <string name="app_notification_visibility_override_title">Na zakl. zaslonu</string>
   <string name="app_notifications_dialog_done">Končano</string>
   <string name="app_notifications_switch_label">Pokaži obvestila</string>
   <string name="app_notifications_title">Obvestila aplikacij</string>
@@ -296,7 +296,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="application_item_already_permission">Dovoljeno</string>
   <string name="application_item_disable">Zavrni</string>
   <string name="application_item_permission">Dovoli</string>
-  <string name="application_lock_name">Zakl.  aplikacije</string>
+  <string name="application_lock_name">Zakl. aplikacije</string>
   <string name="application_manager_section_title">Nastavitve aplikacije</string>
   <string name="application_permission_manager">Dovoljenja aplikacij</string>
   <string name="application_restrictions">Dovoli aplikacije in vsebino</string>
@@ -2029,7 +2029,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_unlock_show">Preskoči poteg zaslona</string>
   <string name="lock_screen_unlock_show_summary">Pojdi direktno na začetni zaslon ali vnos gesla ko se telefon prebudi</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Klikni za spremembo</string>
-  <string name="lock_settings">Zakl.  zaslon &amp; geslo</string>
+  <string name="lock_settings">Zakl. zaslon &amp; geslo</string>
   <string name="lock_settings_common_title">Nastavitve zaklepa</string>
   <string name="lock_settings_picker_fingerprint_message">Izberite nadomestni način zaklepanja zaslona</string>
   <string name="lock_settings_picker_settings">Nastavi zaklep zaslona</string>
@@ -2048,7 +2048,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="lock_settings_profile_unification_title">Uporaba enakega zaklepanja</string>
   <string name="lock_settings_profile_unified_summary">Enako kot zaklepanje zaslona naprave</string>
   <string name="lock_settings_title">Varnost naprave</string>
-  <string name="lock_settings_with_fingerprint">Zakl. zaslon &amp; geslo</string>
+  <string name="lock_settings_with_fingerprint">Zakl.zaslon &amp; geslo</string>
   <string name="lock_setup">Namestitev je končana.</string>
   <string name="lock_sounds_enable_title">Zvoki zaklepanja zaslona</string>
   <string name="lockpassword_cancel_label">Prekliči</string>
@@ -2691,7 +2691,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_app_invisible">Nastavitve/Dodatne nastavitve/Beta opravila/Aplik. skrita</string>
   <string name="path_app_permission">Nastavitve/Dovoljenja</string>
   <string name="path_app_switch_key">Nastavitve/Dodatne nastavitve/Tipke/Nedavno</string>
-  <string name="path_application_lock">Nastavitve/Zakl.  aplikacije</string>
+  <string name="path_application_lock">Nastavitve/Zakl. aplikacije</string>
   <string name="path_applications_settings">Nastavitve/Nameščene aplikacije</string>
   <string name="path_back_key">Nastavitve/Dodatne nastavitve/Tipke/Nazaj</string>
   <string name="path_battery_indicator_settings">Nastavitve/Baterija &amp; performanse/Prikaz baterije</string>
@@ -2764,7 +2764,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_oldman_mode">Nastavitve/Lite Mode</string>
   <string name="path_onekey_migrate">Nastavitve/Dodatne nastavitve/Prenos</string>
   <string name="path_other_advanced_settings">Nastavitve/Dodatne nastavitve</string>
-  <string name="path_owner_info_settings">Nastavitve/Zakl.  zaslon &amp; geslo/Informacije o lastniku na zakl. zaslonu</string>
+  <string name="path_owner_info_settings">Nastavitve/Zakl. zaslon &amp; geslo/Informacije o lastniku na zakl. zaslonu</string>
   <string name="path_page_layout_settings">Nastavitve/Velikost teksta</string>
   <string name="path_permission_settings_title">Nastavitve/Dovoljenja/Dovoljenja</string>
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
@@ -2772,7 +2772,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_power_hide_mode_title">Nastavitve/Baterija/Upravljanje porabe baterije aplikacij</string>
   <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; performanse/Nastavitve energije</string>
   <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta opravila/Varčevanje baterije</string>
-  <string name="path_pref_volume_wake_title">Nastavitve/Zakl.  zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
+  <string name="path_pref_volume_wake_title">Nastavitve/Zakl. zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
   <string name="path_preferred_network_type_settings">Nastavitve/Nastavitve mobilnega omrežja/Željeni tip omrežja</string>
   <string name="path_privacy_policy">Nastavitve/O napravi/Pravne informacije/Pravila o zasebnosti</string>
   <string name="path_privacy_settings">Nastavitve/Dodatne nastavitve/Var. kopija &amp; prekliči</string>
@@ -2781,14 +2781,14 @@ Na tej napravi je več uporabnikov.
   <string name="path_safe_result_header_title_system">Nastavitve/Dodatne nastavitve/Varnost sistema</string>
   <string name="path_screen_effect_settings">Nastavitve/Zaslon/Barve &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Nastavitve/Dodatne nastavitve/Tipke/Nastavi čas dolgega pritiska</string>
-  <string name="path_screen_on_proximity_sensor_title">Nastavitve/Zakl.  zaslon &amp; geslo/Prepreči slučajno izbiranje v žepu</string>
+  <string name="path_screen_on_proximity_sensor_title">Nastavitve/Zakl. zaslon &amp; geslo/Prepreči slučajno izbiranje v žepu</string>
   <string name="path_screen_optimize">Nastavitve/Zaslon/Barve &amp; kontrast</string>
   <string name="path_screen_paper_mode">Nastavitve/Zaslon/Način branja</string>
   <string name="path_screen_saver_settings">Nastavitve/Zaslon/Ohranjevalnik zaslona</string>
-  <string name="path_screen_timeout_settings">Nastavitve/Zakl.  zaslon &amp; geslo/Mirovanje</string>
+  <string name="path_screen_timeout_settings">Nastavitve/Zakl. zaslon &amp; geslo/Mirovanje</string>
   <string name="path_second_space">Nastavitve/Drugi prostor</string>
   <string name="path_security_encryption_title">Nastavitve/Dodatne nastavitve/Zasebnost/Šifriraj napravo z uporabo gesla zakl. zaslona</string>
-  <string name="path_security_passwords_title">Nastavitve/Zakl.  zaslon &amp; geslo/Zakl.  zaslon</string>
+  <string name="path_security_passwords_title">Nastavitve/Zakl. zaslon &amp; geslo/Zakl. zaslon</string>
   <string name="path_security_settings">Nastavitve/Dodatne nastavitve/Zasebnost</string>
   <string name="path_slot_status_title">Nastavitve/O napravi/IMEI informacije</string>
   <string name="path_sms_delivered_sound_title">Nastavitve/Zvok &amp; vibracija/Sporočilo dobavljeno</string>
@@ -2817,8 +2817,8 @@ Na tej napravi je več uporabnikov.
   <string name="path_touch_sensitive_title">Nastavitve/Zaslon/Način dela v rokavicah</string>
   <string name="path_trusted_credentials">Nastavitve/Dodatne nastavitve/Varnost sistema/Zaupne poverilnice</string>
   <string name="path_tts_settings_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Pretvarjanje besedila v govor</string>
-  <string name="path_turn_on_security_lock">Nastavitve/Zakl.  zaslon &amp; geslo/Zakl.  zaslon/Spremenite zakl. zaslona</string>
-  <string name="path_unlock_set_settings">Nastavitve/Zakl.  zaslon &amp; geslo</string>
+  <string name="path_turn_on_security_lock">Nastavitve/Zakl. zaslon &amp; geslo/Zakl.  zaslon/Spremenite zakl. zaslona</string>
+  <string name="path_unlock_set_settings">Nastavitve/Zakl. zaslon &amp; geslo</string>
   <string name="path_user_dict_settings_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Osebni slovar</string>
   <string name="path_vibrate_in_silent_title">Nastavitve/Zvok &amp; vibracija/Vibracija če je tiho</string>
   <string name="path_vibrate_on_touch_title">Nastavitve/Zvok &amp; vibracija/Vibracija na dotik</string>
@@ -2827,7 +2827,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_vpn_enable">Nastavitve/Više/VPN/Omogoči VPN</string>
   <string name="path_vpn_settings">Nastavitve/Več/VPN</string>
   <string name="path_vpn_settings_password">Nastavitve/Več/VPN/VPN geslo</string>
-  <string name="path_wakeup_for_keyguard_notification_title">Nastavitve/Zakl.  zaslon &amp; geslo/Vključi zaslon pri prejetem obvestilu</string>
+  <string name="path_wakeup_for_keyguard_notification_title">Nastavitve/Zakl. zaslon &amp; geslo/Vključi zaslon pri prejetem obvestilu</string>
   <string name="path_wallpaper_settings">Nastavitve/Slika ozadja</string>
   <string name="path_wifi_advanced_ip_address_title">Nastavitve/WiFi/Napredne nastavitve/IP naslov</string>
   <string name="path_wifi_advanced_mac_address_title">Nastavitve/WiFi/Napredne nastavitve/WiFi MAC naslov</string>
@@ -2990,7 +2990,7 @@ Na tej napravi je več uporabnikov.
   <string name="priority_storage_settings_summary">Če ni zaznane SD kartice bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
-  <string name="privacy_applock">Zakl.  aplik.</string>
+  <string name="privacy_applock">Zakl. aplik.</string>
   <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
@@ -3430,7 +3430,7 @@ Uporaba pripenjanja:
   <string name="search_app_invisible">Aplik. skrita</string>
   <string name="search_app_permission">Dovoljenja;ROOT dostop</string>
   <string name="search_app_switch_key">Nedavno</string>
-  <string name="search_application_lock">Zakl.  aplikacije</string>
+  <string name="search_application_lock">Zakl. aplikacije</string>
   <string name="search_application_settings">Nameščene aplikacije</string>
   <string name="search_back_key">Nazaj</string>
   <string name="search_battery">Baterija &amp; performanse</string>
@@ -3443,7 +3443,7 @@ Uporaba pripenjanja:
   <string name="search_button_light_timeout">Zadrži osvetlitev tipk vključeno</string>
   <string name="search_calendar_sound_title">Zvok koledarja</string>
   <string name="search_camera_key_action_shortcut_screenshot">Posnetek zaslona</string>
-  <string name="search_children_mode_settings">Otroški način;Zakl.  sms;Starševski nadzor;Otrok staršev;Omeji SMS</string>
+  <string name="search_children_mode_settings">Otroški način;Zakl. sms;Starševski nadzor;Otrok staršev;Omeji SMS</string>
   <string name="search_children_mode_title">Otroški način</string>
   <string name="search_choose_timezone">Izberi časovni pas</string>
   <string name="search_cloud_backup_settings_section_title">Nastavitve var. kopije</string>
@@ -3531,7 +3531,7 @@ Uporaba pripenjanja:
   <string name="search_screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="search_screen_paper_mode">Način branja</string>
   <string name="search_screen_saver_settings">Ohranjevalnik zaslona</string>
-  <string name="search_screen_timeout">Mirovanje;Samod. zakl. zaslona;Zakl.  zaslon</string>
+  <string name="search_screen_timeout">Mirovanje;Samod. zakl. zaslona;Zakl. zaslon</string>
   <string name="search_second_space">Drugi Prostor</string>
   <string name="search_security_encryption_title">Šifriraj napravo z uporabo gesla zakl. zaslona;Šifriraj;Šifriranje;Šifriraj napravo;Šifriraj telefon</string>
   <string name="search_security_passwords_title">Geslo;Zakl. zaslona;PIN;Vzorec</string>

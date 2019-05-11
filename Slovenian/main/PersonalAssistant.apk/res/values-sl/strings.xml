@@ -36,6 +36,7 @@
   <string name="agenda_settings_loan">Pokaži plačila kreditov</string>
   <string name="alipay_init">Zagon Alipay storitve…</string>
   <string name="alipay_init_success">Alipay storitev je zagnana​</string>
+  <string name="all_function_title">Vse bližnjice</string>
   <string name="app_label">Asistent</string>
   <string name="app_setting">Nastavitve</string>
   <string name="app_setting_add_header_bg">Slika za ozadje</string>
@@ -473,6 +474,7 @@
   <string name="search_setting_description">Naslovi v priljubljenih</string>
   <string name="search_tip">Iskanje…</string>
   <string name="security">Varnost</string>
+  <string name="selected_shortcuts_title">Lastnosti</string>
   <string name="send_action_title">Dodaj med priljubljene</string>
   <string name="service_unavailiable">Povežite se na omrežje in poskusite znova.</string>
   <string name="set_home_failed">Ne morem dodati naslova, poskusite znova.</string>
@@ -595,7 +597,7 @@
   <string name="stock_web_lable">Zaloge</string>
   <string name="study_parent">Študiranje</string>
   <string name="system_favorite_dialog_link">Varnost &amp; zasebnost</string>
-  <string name="system_favorite_dialog_message">Priljubljeni iz več aplikacij in storitev bodo dodani v Zakl. aplikacij. Dovolim?</string>
+  <string name="system_favorite_dialog_message">Priljubljeni iz več aplikacij in storitev bodo dodani v zakl. aplikacij. Dovolim?</string>
   <string name="system_favorite_dialog_negative">Izhod</string>
   <string name="system_favorite_dialog_positive">Dovoli</string>
   <string name="system_favorite_dialog_title_confirm">Potrebna je avtorizacija</string>
@@ -605,6 +607,7 @@
   <string name="time_just_now">Pravkar</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
+  <string name="toast_function_add_limit">Dodate lahko do %d bližnjic</string> 
   <string name="toast_function_add_not_allowed">Dodate lahko do 8 bližnjic</string>
   <string name="toast_function_remove_not_allowed">Dodaj vsaj eno bližnjico</string>
   <string name="total_month_desc_text">Ta mesec</string>

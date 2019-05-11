@@ -757,13 +757,13 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_sc_status">Potegnite dol za odpiranje kamere</string>
   <string name="face_unlock_stay_away_screen">Bodite 25 do 40 cm oddaljeni od zaslona</string>
   <string name="face_unlock_success">Podatki obraza uspešno potrjeni</string>
-  <string name="face_unlock_success_show_message_dialog_msg">Omogočite obvestila Zakl. zaslona da jih boste lahko videli na Zakl. zaslonu.</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Omogočite obvestila zakl. zaslona da jih boste lahko videli na zakl. zaslonu.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Ne, hvala</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Omogoči</string>
-  <string name="face_unlock_success_show_message_dialog_title">Obvestila Zakl. zaslona</string>
+  <string name="face_unlock_success_show_message_dialog_title">Obvestila zakl. zaslona</string>
   <string name="face_unlock_success_show_message_msg">Pokaži samo vir obvestil kadar je naprava zaklenjena in pokaži podrobnosti ko bo obraz prepoznan</string>
   <string name="face_unlock_success_show_message_title">Pokaži podrobnosti obvestil ko bo obraz prepoznan</string>
-  <string name="face_unlock_success_show_message_toast">Obvestila bodo prikazana na Zakl. zaslonu</string>
+  <string name="face_unlock_success_show_message_toast">Obvestila bodo prikazana na zakl. zaslonu</string>
   <string name="face_unlock_success_stay_screen_msg">Ostani na zakl. zaslonu ko bo obraz potrjen. Podrsajte z prstom gor da odprete začetni zaslon.</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na zakl. zaslonu po odklepu</string>
   <string name="failed_to_open_app_settings_toast">"Odpiranje nastavitev za aplikacijo %1$s ni uspelo"</string>
