@@ -316,8 +316,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_network_error">Ne morem se povezati na omrežje</string>
   <string name="micloud_main_simple_last_sync_time">Zadnja sinhr: %s</string>
   <string name="micloud_main_simple_off">Sinhr. je izključena</string>
-  <string name="micloud_main_sync_mode_summary">Sinhroniziraj večino stvari ko je polnilec priključen in zaslon izključen</string>
-  <string name="micloud_main_sync_mode_title">Varčevanje baterije</string>
+  <string name="micloud_main_sync_mode_summary">"Zgornje stvari bodo sinhronizirane v realnem času ko je ta storitev vključena. To lahko poveča porabo energije."</string>
+  <string name="micloud_main_sync_mode_title">Sinhr. v realnem času</string>
   <string name="micloud_main_wait_charge">Popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>
   <string name="micloud_main_wait_charge_sleep">Izključite zaslon in popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>
   <string name="micloud_main_wait_wlan">Čaka se WiFi</string>

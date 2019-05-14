@@ -122,6 +122,9 @@ nastavitev in aplikacij"</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
   <string name="delete_failed_backup_confirm">Ta varnostna kopija ima napake.</string>
   <string name="deselect_all">Odznači vse</string>
+  <string name="dialog_app_upgrade_download">Posodobi</string>
+  <string name="dialog_app_upgrade_exit">Izhod</string>
+  <string name="dialog_app_upgrade_message">Na voljo je nova verzija Mi Mover-ja. Posodobim?</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>
@@ -141,7 +144,7 @@ nastavitev in aplikacij"</string>
   <string name="err_binder_died">Aplikacija se je nepričakovano ustavila.</string>
   <string name="err_filesystem_mount">"Ne morem dostopiti do prostora za shranjevanje na routerju"</string>
   <string name="err_low_storage">Premalo prostora</string>
-  <string name="err_no_gms">Nepodprta verzija aplikacije. Namestite to aplikacijo zasebno</string>
+  <string name="err_no_gms">Nepodprta verzija aplikacije. Namestite to aplikacijo zasebno.</string>
   <string name="err_not_allow">Ni podprto</string>
   <string name="err_pkg_not_exist">"Ne najdem aplikacije."</string>
   <string name="err_router_disconnected">"Preverite priključek vašega routerja in poskusite znova."</string>

@@ -14,6 +14,7 @@
   <string name="ble_device_profile_header_title">Nastavitve</string>
   <string name="ble_device_profile_title">Seznanjena Bluetooth Smart naprava</string>
   <string name="ble_device_rename">Preimenuj</string>
+  <string name="bluetooth_advanced_feat_description">Storitev Bluetooth naprednega pregledovanja</string>
   <string name="bluetooth_connected">Seznanjeno</string>
   <string name="bluetooth_connecting">Seznanjanje…</string>
   <string name="bluetooth_device_context_unpair">Prekliči seznanitev</string>
@@ -31,6 +32,8 @@
   <string name="bluetooth_preference_connected_devices">Povezane naprave</string>
   <string name="bluetooth_preference_found_devices">Naprave na voljo</string>
   <string name="bluetooth_preference_scan_title">Išči naprave</string>
+  <string name="bluetooth_rc_feat_content">Peer podpira napredno storitev</string>
+  <string name="bluetooth_rc_feat_subtext">Ponovno seznanite iz peer-a za omogočanje</string>
   <string name="bluetooth_sap_notif_disconnect_button">Prekini povezavo</string>
   <string name="bluetooth_sap_notif_disconnecting">Čakanje da klient prekine povezavo.</string>
   <string name="bluetooth_sap_notif_force_disconnect_button">Prisilno prekini povezavo</string>

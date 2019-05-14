@@ -223,6 +223,9 @@
   <string name="event_create">Nov dogodek</string>
   <string name="event_delete">Izbriši dogodek</string>
   <string name="event_edit">Uredi dogodek</string>
+  <string name="event_info_title_anniversary">Obletnica</string>
+  <string name="event_info_title_birthday">Rojstni dan</string>
+  <string name="event_info_title_countdown">Odštevanje</string>
   <string name="event_info_descrip">Opis</string>
   <string name="event_info_end">Konec</string>
   <string name="event_info_jump_to_email">Pojdi v e-pošto</string>

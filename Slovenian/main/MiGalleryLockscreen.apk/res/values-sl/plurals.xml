@@ -16,4 +16,20 @@
         <item quantity="other">%d naprav</item>
         <item quantity="one">%d naprava</item>
     </plurals>
+	<plurals name="feed_article_entrance_title">
+        <item quantity="other">%d člankov na tej temi</item>
+        <item quantity="one">%d članek na tej temi</item>
+     </plurals>
+     <plurals name="time_day_ago">
+        <item quantity="other">pred %d dni</item>
+        <item quantity="one">pred %d dan</item>
+     </plurals>
+     <plurals name="time_hour_ago">
+        <item quantity="other">pred %d ur</item>
+        <item quantity="one">pred %d uro</item>
+     </plurals>
+     <plurals name="time_minute_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred %d min</item>
+     </plurals>
 </resources>

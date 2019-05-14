@@ -115,6 +115,8 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="beauty_body_shoulder">Ramena</string>
   <string name="beauty_body_slim_count_tip">Efekti figure delujejo samo za posnetke ene osobe</string>
   <string name="beauty_body_whole">Telo</string>
+  <string name="beauty_clear">Izbriši</string>
+  <string name="beauty_clear_toast">Efekti olepšanja izbrisani</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Olepšanje</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Šminka</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">Remodeliranje</string>
@@ -232,6 +234,8 @@ in za trenutek zapustite pregled"</string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_ok_time">V redu (%ds)</string>
   <string name="disable_video_snapshot_hint">Snemanje videa je onemogočeno kadar so vključeni posebni efekti.</string>
+  <string name="device_48m_watermark_default_text">48MP DVOJNA KAMERA</string>
+  <string name="device_watermark_default_text">AI DVOJNA KAMERA</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
   <string name="download_by_browser">Prenesi z brskalnikom</string>
   <string name="download_qq">Prenesi QQ</string>
@@ -429,6 +433,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="loading_video">Nalaganje videoposnetka…</string>
   <string name="location">Lokacija</string>
   <string name="locations">Lokacije</string>
+  <string name="macro_mode_tip">"Oddaljenost med objektivom in predmetom ne sme presegati 10 cm"</string>
   <string name="maker">Avtor</string>
   <string name="makeup_reset_toast">Odstranjeni so učinki šminke</string>
   <string name="manual">Ročno</string>
@@ -1015,6 +1020,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="ultra_wide_mode">Ultra široki kot</string>
   <string name="ultra_wide_mode_use_hint_text">"Uporabite ta način za vključevanje več scen na fotografijo.
 Način širokega kota vam pomaga kadar se ne morete premakniti dalje od scene."</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Poskusite 0.6X Ultra široki kot da boste vključili več scen na fotografiji.
+Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</string>
+  <string name="ultra_wide_open_tip_sat">0.6X Ultra široki kot</string>
   <string name="ultra_wide_open_tip">Ultra široki kot</string>
   <string name="ultra_wide_recommend_tip_hint">Poskusite Ultra široki kot</string>
   <string name="undo">Prekliči</string>

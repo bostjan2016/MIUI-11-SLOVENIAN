@@ -212,6 +212,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="restoring_settings">Vračanje nastavitev…</string>
   <string name="restoreing_file_tile">Obnovitev datotek: %d</string>
   <string name="retry">Poskusi ponovno</string>
+  <string name="selected">Izbrano</string>
   <string name="self_device_main_space">"Prvi prostor te naprave"</string>
   <string name="self_device_second_space">"Drugi prostor te naprave"</string>
   <string name="self_phone">Ta telefon</string>
@@ -229,6 +230,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="trans_pausing">Premor…</string>
   <string name="try_again">Tapni za ponovni poskus</string>
   <string name="try_continue">Tapni za nadaljevanje</string>
+  <string name="unselected">Ni izbrano</string>
   <string name="unsupported_home">Posodobite MIUI na najnovejšo verzijo.</string>
   <string name="wait_icon_download">Prenos ikon aplikacij</string>
 </resources>
