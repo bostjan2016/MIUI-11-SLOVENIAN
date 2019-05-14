@@ -242,6 +242,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_find_apps">Najdi aplikacije</string>
   <string name="app_manager_force_stop_dlg_text">Če prisilno zaustavite aplikacijo, se lahko obnaša nepredvidljivo.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
+  <string name="app_manager_full_screen_summary">Dovoli izbranim aplikacijam delo v celem zaslonu</string>
+  <string name="app_manager_full_screen_title">Cel zaslon</string>
   <string name="app_manager_globel_other_perm_title">Ostala dovoljenja</string>
   <string name="app_manager_globel_perm_summary">Urejajte dovoljenja ki se nanašajo na lokacijo, prostor za shranjevanje, telefon, sporočila in stike.</string>
   <string name="app_manager_globel_perm_title">Dovoljenja aplikacij</string>
@@ -707,6 +709,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="check_network_state">Preveri status omrežja</string>
   <string name="checkout_traffic_saving_history">Prikaži zgodovino</string>
   <string name="choose">Izberi</string>
+  <string name="choose_gs_show_way">Izberite orijentacijo začetne strani</string>
   <string name="clean_immediately">Očisti</string>
   <string name="cleaned">Očiščeno</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, dvojnike fotografij in druge nepotrebne stvari</string>
@@ -1170,8 +1173,12 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="free_time_traffic_title">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
   <string name="function_close">Izključi</string>
-  <string name="function_shield_summary">Omejite samdoejno svetlost, gibe zaslona in način branja</string>
-  <string name="function_shield_summary_m">Omejite samodejno svetlost in gibe zaslona</string>
+  <string name="function_shield_auto_bright">Izključi samod. svetlost</string>
+  <string name="function_shield_eye_shield">Izključi način branja</string>
+  <string name="function_shield_pull_notification_bar">"Ne odpiraj ploščo obvestil"</string>
+  <string name="function_shield_settings_title">Med igranjem iger omejite naslednje storitve</string>
+  <string name="function_shield_summary">Med igranjem iger omejite izbrane storitve</string>
+  <string name="function_shield_three_finger">Omejite gibe posnetka zaslona</string>
   <string name="function_shield_title">Izboljšana izkušnja</string>
   <string name="fw_blocked">Seznam blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
@@ -1179,7 +1186,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="fw_oversea">Blokiraj klice iz tujine</string>
   <string name="fw_oversea_content">Blokiraj dohodne klice iz tujih telefonskih številk</string>
   <string name="game_ad_recommendation">Vsi igrajo</string>
-  <string name="game_anti_disturb_msg">Igre DND</string>
+  <string name="game_anti_disturb_msg">Igra DND</string>
   <string name="game_booster">Pohitritev igranja</string>
   <string name="game_booster_close">Pohitritev igranja je izključena</string>
   <string name="game_booster_intro">O Pohitritvi igranja</string>
@@ -1310,8 +1317,12 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gs_gamebox_slip">Povlecite zaslon dol za odpiranje</string>
   <string name="gs_only_self_start_for_list">Omejite procese v ozadju za prihranek baterije za igranje</string>
   <string name="gs_open_game_booster">Pohitritev</string>
+  <string name="gs_open_game_booster_summary">Povečajte hitrost omrežja za igre</string>
   <string name="gs_performance_mode">Način za zmogljivost</string>
   <string name="gs_performance_mode_detail">Optimizirajte performanse sistema za igranje</string>
+  <string name="gs_show_way">Orientacija začetne strani</string>
+  <string name="gs_show_way_horizontal">Vodoravno</string>
+  <string name="gs_show_way_vertical">Navpično</string>
   <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
   <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
@@ -1893,8 +1904,9 @@ To skrajšuje trajanje baterije."</string>
   <string name="om_memory_clean_cleaning_text">Povečanje hitrosti…</string>
   <string name="om_not_finish_speedboost">Potrebno je povečanje hitrosti</string>
   <string name="om_promotion">Oglas</string>
+  <string name="om_running_locked_apps">Zaklenjene zagnane aplikacije</string>
   <string name="om_running_system_apps">Zagon sistemske aplikacije</string>
-  <string name="om_running_third_apps">Zagon 3th aplikacij</string>
+  <string name="om_running_third_apps">Zagon aplikacij tretjih oseb</string>
   <string name="om_notify_cpu_load_too_high_summary">Omeji aktivnosti v ozadju za povečanje hitrosti</string>
   <string name="om_notify_cpu_load_too_high_title">Upotreba CPU od %s je previsoka</string>
   <string name="om_notify_need_clean_memory_summary">Izbriši predpomnilnik za povečanje hitrosti</string>

@@ -25,7 +25,9 @@
   <string name="accessibility_shutter_button">Sprožilec</string>
   <string name="action_search">Išči</string>
   <string name="address">Naslov:</string>
+  <string name="agree_btn">Strinjam se</string>
   <string name="allow_check_website_security">Obavesti me o spletnih varnostnih pregledih</string>
+  <string name="amazon_assistant_shopping_title">Išči na Amazonu</string>
   <string name="app_description_content">Skener lahko skenira QR kode, dokumente, vizitke in še mnogo drugega.</string>
   <string name="app_description_title">O Skenerju</string>
   <string name="app_details">Aplik:</string>
@@ -34,6 +36,7 @@
   <string name="barcode_into_rectangle">Postavite kodo znotraj okvira</string>
   <string name="birthday">Rojstni dan</string>
   <string name="business_card">Vizitka</string>
+  <string name="business_card_result_title">Vizitka</string>
   <string name="business_card_title">Postavite vizitko znotraj okvirja</string>
   <string name="business_card_with_qr_code">Postavite vizitko ali QR kodo znotraj okvirja</string>
   <string name="business_copy">Kopiraj</string>
@@ -60,6 +63,7 @@
   <string name="crop_done_description">Končano</string>
   <string name="crop_title_study">Obreži fotografijo</string>
   <string name="crop_title_translation">Izberite besedilo za prevod</string>
+  <string name="choose_pay_title">Izberi način plačanja</string>
   <string name="dialog_dismiss">Zavrzi</string>
   <string name="dialog_report">Poročilo</string>
   <string name="document_color_picture">Barva</string>
@@ -157,6 +161,7 @@
   <string name="not_recommend_access_web_url">Stran od tukaj! Ni varno</string>
   <string name="not_tips">"Ne prikazuj ponovno"</string>
   <string name="note">Opomba:</string>
+  <string name="open_url">Odpri URL</string>
   <string name="path_scanner_setting">Sistemska aplikacija/Skener</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
@@ -201,6 +206,7 @@
   <string name="setting_use_last_choose">Zapomni si izbrano</string>
   <string name="setting_wechat">WeChat</string>
   <string name="settings">Nastavitve</string>
+  <string name="setting_title">Nastavitve</string>
   <string name="shopping_searching">Iskanje izdelka…</string>
   <string name="shopping_title">Posnemite fotografijo izdelka</string>
   <string name="shopping_vendor_info">Ponuja Taobao</string>

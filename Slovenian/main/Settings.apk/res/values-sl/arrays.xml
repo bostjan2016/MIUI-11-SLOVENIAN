@@ -1188,6 +1188,30 @@
         <item>Starejše od 60 dni</item>
         <item>Starejše od 90 dni</item>
      </string-array>
+	 <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_summaries">
+        <item>Visoka kvaliteta (privzeto)</item>
+        <item>Nizka latenca</item>
+     </string-array>
+     <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
+        <item>Visoka kvaliteta (zadano)</item>
+        <item>Nizka latenca</item>
+     </string-array>
+     <string-array name="entries_font_size">
+        <item>Majhno</item>
+        <item>Privzeto</item>
+        <item>Veliko</item>
+        <item>Največje</item>
+     </string-array>
+     <string-array name="fold_entries">
+        <item>Priporočeno</item>
+        <item>Važno</item>
+        <item>Nevažno</item>
+     </string-array>
+     <string-array name="fold_summaries">
+        <item>MIUI bo odločil katera obvestila se pokažejo direktno</item>
+        <item>Obvestila se bodo pojavila v plošči obvestil</item>
+        <item>Obvestila se bodo pojavila v zasebni mapi</item>
+     </string-array>
 	 <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Izbira sistema (privzeto)</item>
         <item>16 bitov na vzorec</item>

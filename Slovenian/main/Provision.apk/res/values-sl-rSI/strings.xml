@@ -47,8 +47,9 @@
   <string name="language_picker_popular_languages_title">Izberi jezik</string>
   <string name="language_settings">Nastavitve jezika</string>
   <string name="locale_picker_title">Izberite vašo regijo</string>
+  <string name="locale_picker_other_locale_title">Več regij</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
-  <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete pogoje ponudnika storitev na %s"</string>
+  <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete Pogoje uporabe na %s"</string>
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
   <string name="multisim_settings_title">Najdene 2 SIM kartice</string>
   <string name="navigation_picker_gesture_guide">Vodič za gibe</string>

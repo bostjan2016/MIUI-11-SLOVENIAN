@@ -619,6 +619,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipko.</string>
   <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
   <string name="auto_dual_clock_summary">Pokaži dvojno uro če se trenutni čas razlikuje od časa na drugi uri</string>
+  <string name="auto_dual_clock_aod_summary">Pokaži dvojno uro če se trenutni čas razlikuje od  trenutnega časa</string>
   <string name="auto_dual_clock_title">Dvojna ura</string>
   <string name="auto_launch_disable_text">Ni privzetih nastavitev.</string>
   <string name="auto_launch_enable_text">Izbrali ste da se bo pri nekaterih dejanjih ta aplikacija samodejno zagnala.</string>
@@ -1171,6 +1172,9 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
 Za izboljšano izkušnjo pri uporabi naprave lahko aplikacije in storitve še vedno kadar koli iščejo naprave v bližini, tudi ko je Bluetooth izklopljen. To se na primer uporablja za izboljšanje opravil in storitve, ki pri delovanju uporabljajo lokacijo. Izbiro lahko spremenite v "<annotation id="link">nastavitvah iskanja</annotation>.</string>
   <string name="bluetooth_search_for_devices">Osveži</string>
   <string name="bluetooth_searching_for_devices">Iskanje…</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth audio aptX adaptivni način dela</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Zaženi izbiro kodeka za Bluetooth
+aptX adaptivni način: način kodeka"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Število bitov na vzorec za zvok prek Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Izberi zvočni kodek za Bluetooth:
 Bitov na vzorec"</string>
@@ -1941,6 +1945,10 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="date_time_set_timezone_title">Časovni pas</string>
   <string name="date_time_settings">Datum &amp; čas</string>
   <string name="day_of_week">Dan v tednu</string>
+  <string name="dc_light_dialog_summary">Ko je vklopljen način dela proti utripanju to lahko vpliva na kvaliteto slike. Vseeno vključim?</string>
+  <string name="dc_light_summary">Uporabite DC zmanjševanje da boste zmanjšali naprezanje oči</string>
+  <string name="dc_light_summary_new">DC zmanjševanje zmanjšuje naprezanje oči v pogojih slabe osvetlitve. A če je vključen način dela proti utripanju to lahko vpliva na kvaliteto slike.</string>
+  <string name="dc_light_title">Način dela proti utripanju</string>
   <string name="debug_app">Izberite aplikacijo za iskanje napak</string>
   <string name="debug_app_not_set">Aplikacija za iskanje napak ni nastavljena</string>
   <string name="debug_app_set">Aplikacija za iskanje napak: %1$s</string>
@@ -2338,7 +2346,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
   <string name="dual_clock">Dvojna ura</string>
   <string name="dual_clock_aod_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za izključen zaslon omogočite prikazovanje stvari v Nastavitve &gt; Zaslon; 2. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 3. Za začetni zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
-  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 2. Za začetni zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
+  <string name="dual_clock_aod_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
+  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na: 1. Za zakl. zaslon preverite če uporabljate privzeto ali klasično temu v Nastavitve &gt; Teme; 2. Za zač. zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
   <string name="dual_clock_ok">Razumem</string>
   <string name="dual_clock_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -3288,6 +3297,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launching_cit">Zaganjam CIT</string>
   <string name="launching_pho">Zaganjam podatke o napravi, počakajte.</string>
   <string name="launching_rep">Poročanje...</string>
+  <string name="layout_exhuge_font_take_effect_tips">XXL Velikost teksta deluje samo v telefonu, sporočilih in stikih</string>
+  <string name="layout_exhuge_font_tips">Več opcij je na voljo v %1$s</string>
+  <string name="layout_exhuge_font_tips_reg">Dostopnost &gt; Velikost prikaza</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">XXL</string>
   <string name="layout_size_huge">XL</string>
@@ -3885,7 +3897,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_features">MIUI laboratorijske storitve</string>
   <string name="miui_lab_gallery_search_desc">Izboljšano pregledovanje slik</string>
   <string name="miui_lab_gallery_search_title">Najdi fotografije v Galeriji</string>
-  <string name="miui_lab_gesture_desc">Onemogočite fizične tipke in uživajte v kretnjah celega zaslona</string>
+  <string name="miui_lab_gesture_desc">Za navigacij uporabite gibe namesto tipk</string>
   <string name="miui_lab_gesture_title">Kretnje celega zaslona</string>
   <string name="miui_lab_install_drive_mode_error">"Ne morem namestiti, poskusite ponovno."</string>
   <string name="miui_lab_install_drive_mode_summary">"Način dela za avtomobil je sistemska aplikacija. Namestitev ne potrebuje spletne povezave."</string>
@@ -4427,6 +4439,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="notification_summary_level">Nivo %d</string>
     <string name="notification_summary_none">Vklopljeno za vse aplikacije</string>
     <string name="notification_switch_label">Pokaži obvestila</string>
+  <string name="notification_style_title">Stil obvestil</string>
     <string name="notification_toggle_off">Izklopljeno</string>
     <string name="notification_toggle_on">Vklopljeno</string>
     <string name="notification_unknown_sound_title">Zvok iz aplikacije</string>
@@ -4449,7 +4462,6 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="notifications_sent_never">Nikoli</string>
     <string name="notifications_sent_weekly">~%1$s na teden</string>
     <string name="notifications_silenced">Utišano</string>
-    <string name="notification_style_title">Stil obvestil</string>
   <string name="notifications_summary_divider"> / </string>
     <string name="notifications_title">Obvestila</string>
   <string name="notify_connect">CMCC WiFi klic</string>
