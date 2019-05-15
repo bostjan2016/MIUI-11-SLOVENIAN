@@ -2408,8 +2408,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_apps_manage_dialog_title">O skritih aplikacijah</string>
   <string name="privacy_apps_manager_dialog_message">Skrivanje aplikacij zahteva nastavljanje zaklepa zaslona aplikacije. Obvestila za skrite aplikacije bodo izključene. Skrijem to aplikacijo?</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Ko skrijete aplikacijo bo premeščena v skrito mapo. Tudi bližnjica zakl. zaslona bo skrita.
-Ni podprto za sistemske aplikacije."</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Ta storitem vam omogoča skrivanje ikon aplikacij da se ne bi več pojavljale na začetnem zaslonu."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po vnosu gesla se bo pojavila mapa s skritimi aplikacijami.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Razširite dva prsta na zaslonu. Videli boste sporočilo da vnesite geslo za zakl. aplikacije."</string>
   <string name="privacy_declare_dialog_message">"Z uporabo te storitve se strinjate z Opera &lt;a href=%s&gt; Pogoji Uporabe&lt;/a&gt;."</string>

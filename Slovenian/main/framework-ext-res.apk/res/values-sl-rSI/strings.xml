@@ -151,6 +151,8 @@
   <string name="silence_mode">Tihi način</string>
   <string name="sim_added_reboot_confirm">Ponovno zaženi</string>
   <string name="sim_added_reboot_title">SIM kartica bo aktivirana po ponovnem zagonu naprave.</string>
+  <string name="sim_lock_non_ais_msg">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vaše naročnine. Za vprašanja in informacije se obrnite na Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
+  <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
   <string name="standard">Tiho</string>
