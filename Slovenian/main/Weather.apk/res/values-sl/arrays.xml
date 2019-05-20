@@ -46,11 +46,11 @@
         <item>Mešan dež in sneg</item>
         <item>Snežni vihar</item>
         <item>Sneg</item>
-        <item>Močno sneženje/item>
+        <item>Močno sneženje</item>
         <item>Zmerno sneženje</item>
         <item>Rahlo sneženje</item>
         <item>Hud peščeni vihar</item>
-        <item>Peščeni vihar/item>
+        <item>Peščeni vihar/</item>
         <item>Pesek</item>
         <item>Veter</item>
         <item>Toča</item>
@@ -131,6 +131,6 @@
          <item>Zmerno onesnaženo</item>
          <item>Močno onesnaženo</item>
          <item>Kritično onesnaženo</item>
-         <item>Nad ideksom</item>
+         <item>Nad indeksom</item>
      </string-array>
 </resources>
