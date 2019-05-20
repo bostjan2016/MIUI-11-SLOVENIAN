@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="abc_action_bar_home_description">Pojdi domov</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">Pojdi gor</string>
+  <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
+  <string name="abc_action_mode_done">Končano</string>
+  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+  <string name="abc_capital_off">IZKLJUČENO</string>
+  <string name="abc_capital_on">VKLJUČENO</string>
+  <string name="abc_search_hint">Preiščite</string>
+  <string name="abc_searchview_description_clear">Izbriši povpraševanje</string>
+  <string name="abc_searchview_description_query">Povpraševanje za iskanje</string>
+  <string name="abc_searchview_description_search">Iskanje</string>
+  <string name="abc_searchview_description_submit">Pošlji povpraševanje</string>
+  <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+  <string name="abc_shareactionprovider_share_with">Deljenje z</string>
+  <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
+  <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="accessibility_battery_level">Baterija %d %.</string>
+  <string name="accessibility_battery_level_charging">Polnjenje, baterija %d %.</string>
+  <string name="aod_close_color_inversion">To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
+  <string name="aod_dual_togother">HH:mm</string>
+  <string name="aod_dual_togother_12">hh:mm aa</string>
+  <string name="aod_lock_screen_date">dd.MM. EEEE</string>
+  <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
+  <string name="aod_mode_style">Stil ure in ozadja</string>
+  <string name="aod_mode_summary">Ta storitev povečuje porabo baterije. Izključila se bo ko naprava dlje časa ostane v mraku ali pa se uporabi način za varčevanje baterije.</string>
+  <string name="aod_mode_time_summary">Razpored časa za vklop/izklop načina zmeraj vključeno</string>
+  <string name="aod_mode_time_title">Razpored</string>
+  <string name="aod_mode_title">Zmeraj vključeno</string>
+  <string name="aod_to_close">Izključi</string>
+  <string name="cancel">Prekliči</string>
+  <string name="paper_mode_end_time_title">Izključi</string>
+  <string name="paper_mode_start_time_title">Vključi</string>
+  <string name="search_menu_title">Išči</string>
+</resources>

@@ -47,6 +47,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Vnesite geslo za zaščito zasebnosti</string>
   <string name="access_control_recording_intro_header">Narišite vzorec za zaklepanje aplikacije</string>
   <string name="access_control_reset_by_account">Prijavite se na svoj Mi račun za ponastavitev zaklepanja aplikacije</string>
+  <string name="accessibility_gameboosterservice_description">"Vključite da boste utišali dohodne WeChat klice ko igrate igre"</string>
   <string name="action_button_text_100">Optimiziraj</string>
   <string name="action_button_text_60">Popravi</string>
   <string name="action_button_text_60_80">Popravi</string>
@@ -1178,6 +1179,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="function_shield_pull_notification_bar">"Ne odpiraj ploščo obvestil"</string>
   <string name="function_shield_settings_title">Med igranjem iger omejite naslednje storitve</string>
   <string name="function_shield_summary">Med igranjem iger omejite izbrane storitve</string>
+  <string name="function_shield_summary_m">Omejite samodejno svetlobo in gibe zaslona</string>
   <string name="function_shield_three_finger">Omejite gibe posnetka zaslona</string>
   <string name="function_shield_title">Izboljšana izkušnja</string>
   <string name="fw_blocked">Seznam blokiranih</string>
@@ -1239,6 +1241,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
   <string name="gateway_exception_title">Testiraj router</string>
+  <string name="gb_ad_game_size">MB</string>
   <string name="gb_advance_settings_edge_gear1">Nič</string>
   <string name="gb_advance_settings_edge_gear2">Malo</string>
   <string name="gb_advance_settings_edge_gear3">Srednje</string>
@@ -1281,6 +1284,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
   <string name="gb_msg_transparent_dispaly_summary">Transparentno</string>
+  <string name="gb_network_status_bad">Napaka v povezavi.</string>
   <string name="gb_new_feature">Novo opravilo</string>
   <string name="gb_shortcut_pref_title">Bližnjica zač. zaslona</string>
   <string name="gdpr_msg">"Za uporabo aplikacije varnost se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke."</string>
