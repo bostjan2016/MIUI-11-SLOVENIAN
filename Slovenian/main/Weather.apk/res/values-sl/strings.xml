@@ -156,7 +156,6 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="location_provider_btn_text">Vključite storitve lociranja</string>
   <string name="location_management">Lokacije</string>
   <string name="location_tag">Lociraj</string>
-  <string name="menu_add_city">Uredi lokacije</string>
   <string name="menu_add_city">Dodaj mesto</string>
   <string name="menu_location">Mesta</string>
   <string name="menu_minute_rain">Napoved za naslednje 2 ure</string>
