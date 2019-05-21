@@ -262,6 +262,7 @@
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>
   <string name="upcoming_alarm">%s naslednji alarm</string>
   <string name="upcoming_alarm_hint">Alarm lahko izključite vnaprej</string>
+  <string name="update_notification_info">Posodabljanje podatakov v ozadju…</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="vibrate_pref_summary">Vibriraj ko se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj pri klicih</string>

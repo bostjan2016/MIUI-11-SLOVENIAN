@@ -115,7 +115,7 @@
   <string name="resolver_app_recommend_flag">Priporočeno</string>
   <string name="resolver_checkbox_always">Zmeraj</string>
   <string name="resolver_checkbox_once">Enkrat</string>
-  <string name="resolver_mi_browser">Mi splet</string>
+  <string name="resolver_mi_browser">Mi brskalnik</string>
   <string name="resolver_offical_recommend">Službeno</string>
   <string name="resolver_other_method">Druge opcije</string>
   <string name="resolver_recommend_options_tag">Priporočene opcije</string>
