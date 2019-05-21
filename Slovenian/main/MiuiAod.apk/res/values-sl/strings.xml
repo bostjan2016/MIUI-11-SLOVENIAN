@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Pojdi domov</string>
-  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Pojdi gor</string>
   <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
@@ -19,11 +17,9 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="accessibility_battery_level">Baterija %d %.</string>
-  <string name="accessibility_battery_level_charging">Polnjenje, baterija %d %.</string>
+  <string name="accessibility_battery_level">Baterija %d percent.</string>
+  <string name="accessibility_battery_level_charging">Polnjenje, baterija %d percent.</string>
   <string name="aod_close_color_inversion">To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
-  <string name="aod_dual_togother">HH:mm</string>
-  <string name="aod_dual_togother_12">hh:mm aa</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_mode_style">Stil ure in ozadja</string>
