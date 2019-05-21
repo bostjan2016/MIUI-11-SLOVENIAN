@@ -1015,7 +1015,7 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_device_context_unpair">Prekliči seznanitev</string>
   <string name="bluetooth_device_details">Nastavitve naprave</string>
     <string name="bluetooth_device_mac_address">Naslov Bluetooth naprave: %1$s</string>
-  <string name="bluetooth_device_misc_title">Redko uporabljene naprave Bluetooth</string>
+  <string name="bluetooth_device_misc_title">Redko uporabljene naprave</string>
   <string name="bluetooth_device_name">Ime naprave:</string>
     <string name="bluetooth_device_name_summary">Drugim napravam vidno kot »^1«</string>
   <string name="bluetooth_device_searchable">Viden</string>
@@ -1569,6 +1569,22 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="color_cyan">Cian</string>
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
+  <string name="color_led_applications_title">Izberi aplikacije</string>
+  <string name="color_led_applications_title_summary">Lahko omejite uporabo LED lučk za posamezne aplikacije</string>
+  <string name="color_led_battery_title">Obdrži med polnjenjem</string>
+  <string name="color_led_end_time">Čas zaključka</string>
+  <string name="color_led_game_mode_title">Game Turbo</string>
+  <string name="color_led_hint">Izberite scenarije kadar je treba uporabiti LED lučko. LED lučka bo zasvetila ko bo zaslon obrnjen dol in Ne moti izključeno.</string>
+  <string name="color_led_incall_pulse_title">Uporabi bliskavico za dohodne klice</string>
+  <string name="color_led_lucky_dialog_message">Ta storitev zahteva uporabo pomočnika Red envelope. Ga vključim?</string>
+  <string name="color_led_lucky_dialog_title">Vključi Red envelope pomočnika</string>
+  <string name="color_led_music_mode_summary">Pokaži ritmične svetlobne efekte pri predvajanju glasbe</string>
+  <string name="color_led_music_mode_title">Glasba</string>
+  <string name="color_led_notification_pulse_title">Pulziraj za obvestila</string>
+  <string name="color_led_red_more_feature">Specialni efekti</string>
+  <string name="color_led_red_package_title">Red envelope</string>
+  <string name="color_led_start_time">Čas začetka</string>
+  <string name="color_led_title">LED lučka</string>
   <string name="color_magenta">Magenta</string>
     <string name="color_mode_option_automatic">Samodejno</string>
     <string name="color_mode_option_boosted">Poudarjene</string>
@@ -3647,7 +3663,9 @@ kot PIN za Prvi prostor"</string>
   <string name="long_press_home_key">Dolg pritisk tipke Domov</string>
   <string name="long_press_menu_key">Dolg pritisk tipke Meni</string>
   <string name="long_press_menu_key_when_lock">Dolg pritisk tipke Meni na zakl. zaslonu</string>
+  <string name="long_press_power_key">Dolg pritisk tipke Power</string>
   <string name="long_press_power_key_half_of_second">Pritisnite in držite tipko vklopa 0,5 sekunde da boste vključili Google pomočnika</string>
+  <string name="long_press_power_key_tips">&lt;Data&gt;Dolg pritisk tipke Power &amp;lt;font color=#999999&amp;gt;Hitreje in bolj praktično&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Dolgo pritisnite na zmanjševanje glasnosti</string>
     <string name="lost_internet_access_cancel">Ostani v omrežju WiFi</string>
     <string name="lost_internet_access_persist">Tega ne prikaži nikoli več</string>
@@ -7012,6 +7030,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="toast_lockscreen_glogin_empty_password">Vnesi geslo</string>
   <string name="toast_need_login">Vpiši se v Mi Račun</string>
   <string name="toast_sta_ap_works_wifi_display_disable">"Ne morem predvajati ko se vznastavi WiFi povezava in vključi hotspot."</string>
+  <string name="toggle_auto_speaker_preference_summary">Naprava se bo prestavila na zvočnik če jo med klicem oddaljite od ušesa. To deluje samo če je TalkBack vključen.</string>
+  <string name="toggle_auto_speaker_preference_title">Prestavi na zvočnik samodejno</string>
   <string name="toggle_collapse_after_clicked_title">Strni po dotiku</string>
   <string name="total">DND</string>
   <string name="total_info">Utišaj zvoke in izključi vibracijo za vse razen alarma</string>

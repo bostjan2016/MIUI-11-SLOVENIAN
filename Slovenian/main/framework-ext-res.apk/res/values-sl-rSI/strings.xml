@@ -98,8 +98,8 @@
   <string name="popup_camera_calibrate_now">Kalibriraj</string>
   <string name="popup_camera_calibrate_success">Uspešno kalibrirano. Zdaj lahko odprete sprednjo kamero.</string>
   <string name="popup_camera_front_failed">"Ne morem odpreti sprednje kamere. Poskusite ponovno."</string>
+  <string name="popup_camera_front_when_use">Aplikacija Kamera mora ponovno odpreti sprednnj kamero. Odprem?</string>
   <string name="popup_camera_front_falied_times">"Ne morem odpreti sprednje kamere večkrat. Približajte napravo bliže Mi Home-u da ugotovite problem."</string>
-  <string name="popup_camera_front_when_use">Sprednja kamera je zasedena. Vseeno odprem?</string>
   <string name="popup_camera_popup_falied_times_calibrate">"Ne morem odpreti sprednje kamere večkrat. Poskusite kalibrirati kamero."</string>
   <string name="popup_camera_sure">Razumem</string>
   <string name="popup_camera_sure_wait">Razumem (%ds)</string>
@@ -212,6 +212,7 @@
   <string name="twohours">1 ura</string>
   <string name="unknown_caller">Neznana številka</string>
   <string name="user_switching_dialog_text">Sprememba…</string>
+  <string name="voice_assistant_tips">Nadgrajeno na dolg pritisk tipke vklop za vklop glasovnega asistenta</string>
   <string name="voice_begin">Kaj iščete?</string>
   <string name="voice_button_action_down">Spusti za iskanje</string>
   <string name="voice_button_action_up">Pritisni za pogovor</string>

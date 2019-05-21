@@ -305,6 +305,9 @@
   <string name="cleaner_video_description">Izbrišite videoposnetke ki zavzemajo prostor za shranjevanje</string>
   <string name="cleaner_video_pick_delete_selected">Izbriši izbrane videoposnetke</string>
   <string name="cleaner_video_title">Izbriši videoposnetke</string>
+  <string name="clear_dup_medias">Izbriši podvojene fotografije</string>
+  <string name="clear_dup_success">Uspešno izbrisano</string>
+  <string name="clear_dup_tip">Brisanje podvojenih fotografij</string>
   <string name="clear_local_photo_direction">Če izbrišete fotografije ali videoposnetke iz naprave bodo še zmeraj na voljo v Mi Cloudu</string>
   <string name="click_download_gif">Tapnite za prenos GIF-a</string>
   <string name="click_top_right">Tapnite to ikono</string>

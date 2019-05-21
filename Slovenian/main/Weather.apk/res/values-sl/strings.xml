@@ -153,12 +153,12 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="it_is_going_to_rain">Deževalo bo</string>
   <string name="locate_fail_detail_err">"Ne morem locirati naprave
 Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
-  <string name="location_provider_btn_text">Vključite storitve lociranja</string>
   <string name="location_management">Lokacije</string>
+  <string name="location_provider_btn_text">Vključite storitve lociranja</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Dodaj mesto</string>
   <string name="menu_location">Mesta</string>
-  <string name="menu_minute_rain">Napoved za naslednje 2 ure</string>
+  <string name="menu_minute_rain">2-urna napoved</string>
   <string name="minute_rain_after_an_hour">Uro kasneje</string>
   <string name="minute_rain_after_two_hour">Dve ure kasneje</string>
   <string name="minute_rain_feedback_subtitle">Povej mi kakšno je vreme</string>
@@ -242,6 +242,9 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="sunset">Sončni zahod</string>
   <string name="title_share_link">Deli povezavo</string>
   <string name="translate_notification_info">Prevajanje v ozadju…</string>
+  <string name="tts_best_aqi">Najboljša kvaliteta zraka</string>
+  <string name="tts_hour_weather_date_time">Od %2$s na %1$s do %4$s na %3$s</string>
+  <string name="tts_max_wind_power">Največja hitrost vetra</string>
   <string name="unit">Enota</string>
   <string name="unit_temperature">Enota temperature</string>
   <string name="unit_wind">Enota hitrosti vetra</string>

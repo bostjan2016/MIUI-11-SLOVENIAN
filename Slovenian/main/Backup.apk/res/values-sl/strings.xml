@@ -125,6 +125,10 @@ nastavitev in aplikacij"</string>
   <string name="dialog_app_upgrade_download">Posodobi</string>
   <string name="dialog_app_upgrade_exit">Izhod</string>
   <string name="dialog_app_upgrade_message">Na voljo je nova verzija Mi Mover-ja. Posodobim?</string>
+  <string name="dialog_backup_password_backup_tips">"Ne morem napraviti var. kopijo stvari k je vključeno geslo za var. kopije. Izključite geslo."</string>
+  <string name="dialog_backup_password_cancel">Prekliči</string>
+  <string name="dialog_backup_password_change_machine_tips">"Ne morete prenašati var. kopije zaščitene z geslom. Izključite geslo."</string>
+  <string name="dialog_backup_password_to_settings">Nastavitve</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>

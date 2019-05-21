@@ -212,6 +212,10 @@
          <item quantity="other">"Ne morem prenesti %1$d datotek, preverite omrežno povezavo in poskusite ponovno"</item>
          <item quantity="one">"Ne morem prenesti %1$d datoteko, preverite omrežno povezavo in poskusite ponovno"</item>
      </plurals>
+	  <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Kolaži lahko vsebujejo 1-%d fotografij</item>
+        <item quantity="one">Kolaži lahko vsebujejo 1-%d fotografijo</item>
+    </plurals>
 	 <plurals name="creation_max_image">
         <item quantity="other">Izberite do %d fotografij</item>
         <item quantity="one">Izberite %d fotografijo</item>
