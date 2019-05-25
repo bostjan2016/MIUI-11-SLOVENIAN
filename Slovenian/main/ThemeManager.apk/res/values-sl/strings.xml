@@ -742,7 +742,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="video_ad_uncomplete_tip_continue">Nadaljuj gledanje</string>
   <string name="using_wallpaper_personal">Izbor prilagojenih ozadij</string>
   <string name="video_apply_home">Zač. zaslon</string>
-  <string name="video_apply_home_lock">Zač. zaslon in Zakl. zaslon</string>
+  <string name="video_apply_home_lock">Zač. zaslon in zakl. zaslon</string>
   <string name="video_audio_apply_success">Video z zvokom uspešno nastavljen</string>
   <string name="video_data_tips_message">Uporaba mobilnih podatkov lahko povzroči dodatne stroške. Vseeno nadaljujem?</string>
   <string name="video_data_tips_title">Opozorilo porabe podatkov</string>

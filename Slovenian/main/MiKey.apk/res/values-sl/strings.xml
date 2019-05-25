@@ -300,7 +300,7 @@ S pritiskom na MiKey simulirajte dotik na izbranem mestu"</string>
   <string name="update_message">Posodabljanje!</string>
   <string name="vcard_prompt">Stika ni mogoče dodati ker ni imena</string>
   <string name="wallpaper_action">Sprememba ozadja</string>
-  <string name="wallpaper_change_both">Začetni zaslon + Zakl. zaslon</string>
+  <string name="wallpaper_change_both">Začetni zaslon + zakl. zaslon</string>
   <string name="wallpaper_change_desktop">Ozadje začetnega zaslona</string>
   <string name="wallpaper_change_failed">Zamenjava ni uspela</string>
   <string name="wallpaper_change_home">Ozadje zakl. zaslona</string>

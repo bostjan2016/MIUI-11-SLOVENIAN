@@ -1051,7 +1051,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="face_unlock_open_eye">Malo bolj odprite oči</string>
   <string name="face_unlock_reveal_eye">Napravite oči vidne</string>
   <string name="face_unlock_reveal_mouth">Napravite ustnice vidne</string>
-  <string name="face_unlock_toast_verity_failed">"Ne morem preveriti podatke o obrazu. Pojdite v Zakl. aplikacij in tam poskusite ponovno preveriti podatke vašega obraza."</string>
+  <string name="face_unlock_toast_verity_failed">"Ne morem preveriti podatke o obrazu. Pojdite v zakl. aplikacij in tam poskusite ponovno preveriti podatke vašega obraza."</string>
   <string name="face_unlock_verity_dialog_summary">Preverite podatke vašega obraza</string>
   <string name="face_unlock_verity_dialog_title_failed">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_verity_dialog_title_succeed">Uspešno preverjeno</string>

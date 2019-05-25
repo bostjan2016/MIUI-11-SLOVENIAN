@@ -1494,7 +1494,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="children_mode_tips_on">Po izklopu Otroškega načina se dotaknite tipke Domov za vrnitev na začetni zaslon.</string>
   <string name="children_mode_title">Otroški način</string>
   <string name="choose_a_card_to_reset">Izberite SIM kartico za resetiranje</string>
-  <string name="choose_keyguard_clock_style">Format ure na Zakl. zaslonu</string>
+  <string name="choose_keyguard_clock_style">Format ure na zakl. zaslonu</string>
   <string name="choose_keyguard_clock_summary">"Ta storitev ne deluje z temami tretjih oseb"</string>
   <string name="choose_assist_title">Izbira aplikacije za pomoč</string>
   <string name="choose_profile">Izbira profila</string>
@@ -4765,7 +4765,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="path_safe_result_header_title_system">Nastavitve/Dodatne nastavitve/Varnost sistema</string>
   <string name="path_screen_effect_settings">Nastavitve/Zaslon/Barve &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Nastavitve/Dodatne nastavitve/Tipke/Nastavi čas dolgega pritiska</string>
-  <string name="path_screen_on_proximity_sensor_title">Nastavitve/Zakl. zaslon &amp; geslo/Prepreči slučajno izbiranje v žepu</string>
+  <string name="path_screen_on_proximity_sensor_title">Nastavitve/Zakl. zaslon &amp; geslo/Prepreči slučajno klicanje v žepu</string>
   <string name="path_screen_optimize">Nastavitve/Zaslon/Barve &amp; kontrast</string>
   <string name="path_screen_paper_mode">Nastavitve/Zaslon/Način branja</string>
   <string name="path_screen_saver_settings">Nastavitve/Zaslon/Ohranjevalnik zaslona</string>
@@ -5745,7 +5745,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_camera_key_action_shortcut_screenshot">Posnetek zaslona</string>
   <string name="search_captioning_locale">Jezik</string>
   <string name="search_change_password">Zamenjaj zakl. zaslona;Zakl. zaslon;Uredi zakl. zaslona;uredi zakl. zaslona;zakl. zaslona</string>
-  <string name="search_children_mode_settings">Otroški način;Zakl.sms;Starševski nadzor;Otrok staršev;Omeji SMS</string>
+  <string name="search_children_mode_settings">Otroški način;Zakl. sms;Starševski nadzor;Otrok staršev;Omeji SMS</string>
   <string name="search_children_mode_title">Otroški način;Otrok;Starševski nadzor</string>
   <string name="search_choose_timezone">Izberi časovni pas;Časovni pasovi</string>
   <string name="search_cloud_backup_settings_section_title">Nastavitve var. kopije;Var. kopija;Var. kopija;Var. kopije</string>

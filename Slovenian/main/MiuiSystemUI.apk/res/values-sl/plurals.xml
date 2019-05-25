@@ -117,7 +117,7 @@
      </plurals>
      <plurals name="new_notifications_msg">
         <item quantity="other">Nova obvestila: %d</item>
-        <item quantity="one">%d novoa obvestilo</item>
+        <item quantity="one">%d novo obvestilo</item>
      </plurals>
      <plurals name="notification_channels_list_desc_2_and_others">
         <item quantity="other">%1$s, %2$s in še %3$d</item>
