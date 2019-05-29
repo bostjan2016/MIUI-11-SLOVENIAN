@@ -258,6 +258,11 @@
         <item>Kar naprej, začnite brez mene.</item>
         <item>Žal mi je, ne morm priti. Moramo spremeniti dogovor.</item>
     </string-array>
+	<string-array name="prefEntries_alerts_popup">
+        <item>Izključeno</item>
+        <item>Za vse dogodke</item>
+        <item>Za najvažnejše dogodke</item>
+    </string-array>
    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Vedno</item>
         <item>Samo ko je zvonec utišan</item>

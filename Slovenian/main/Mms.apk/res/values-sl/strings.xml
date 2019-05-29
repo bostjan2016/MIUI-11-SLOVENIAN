@@ -283,8 +283,8 @@
   <string name="group_rejoin_failed">"Ne morem se pridružiti skupinskemu klepetu"</string>
   <string name="group_message_failed_title">"Ni bilo možno poslati %d stikom"</string>
   <string name="group_resend_message">Ponovno pošlji (%d)</string>
-  <string name="group_verification_codes_summary">Samodejno grupiraj enkratna gesla</string>
-  <string name="group_verification_codes_title">Grupiraj enkratna gesla</string>
+  <string name="group_verification_codes_summary">Samodejno združi enkratna gesla</string>
+  <string name="group_verification_codes_title">Združi enkratna gesla</string>
   <string name="group_view_settings_disolved">"Ne morem pregledati stvari. Ta skupinski razgovor je izbrisan."</string>
   <string name="group_view_settings_not_memeber">"Ne morem pregledati stvari. Nisi član tega skupinskega razgovora."</string>
   <string name="guild_add_attachments">Dotaknite se da dodate smejkote in drugo vsebino</string>

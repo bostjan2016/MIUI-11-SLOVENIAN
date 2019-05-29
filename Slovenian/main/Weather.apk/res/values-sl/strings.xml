@@ -237,6 +237,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="share_weather_desc">\#MIUI Vreme#Danes %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Ne morem narediti posnetek zaslona"</string>
+  <string name="shortcut_short_label_24_hour_forecast">24-urna napoved</string>
+  <string name="shortcut_short_label_recent_forecast">Preveri vreme</string>
   <string name="some_where_on_earth">Nekje na Zemlji</string>
   <string name="sunrise">Sončni vzhod</string>
   <string name="sunset">Sončni zahod</string>

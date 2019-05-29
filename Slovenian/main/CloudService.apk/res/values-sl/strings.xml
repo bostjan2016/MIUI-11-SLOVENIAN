@@ -90,7 +90,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_disabled_title">"Najdi napravo" je izključeno</string>
   <string name="find_device_disabling">Izklapljam…</string>
   <string name="find_device_dspt">Lociraj, zakleni ali ponastavi vašo napravo na daljavo</string>
-  <string name="find_device_dspt_provision">"Če izgubite vašo napravo lahko greste na %s za iskanje, zaklepanje ali uničenje. 
+  <string name="find_device_dspt_provision">"Če izgubite vašo napravo lahko greste na &lt;font color=#ff0000&gt;%s&lt;/font&gt; za iskanje, zaklepanje ali uničenje. 
   To lahko vključite/izključite v nastavitvah."</string>
   <string name="find_device_dspt_provision_3">Za lociranje, zaklep ali ponastavitev. Opravilo lahko vklopite/izklopite v nastavitvah.</string>
   <string name="find_device_dspt_provision_4">Če zamenjate SIM kartico bo samodejno poslan SMS za ponovno aktiviranje tega opravila.</string>
@@ -316,7 +316,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_network_error">Ne morem se povezati na omrežje</string>
   <string name="micloud_main_simple_last_sync_time">Zadnja sinhr: %s</string>
   <string name="micloud_main_simple_off">Sinhr. je izključena</string>
-  <string name="micloud_main_sync_mode_summary">"Zgornje stvari bodo sinhronizirane v realnem času ko je ta storitev vključena. To lahko poveča porabo energije."</string>
+  <string name="micloud_main_sync_mode_summary">"Sinhroniziraj vse razen fotogfaij in videov v realnem času. To lahko poveča porabo energije."</string>
   <string name="micloud_main_sync_mode_title">Sinhr. v realnem času</string>
   <string name="micloud_main_wait_charge">Popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>
   <string name="micloud_main_wait_charge_sleep">Izključite zaslon in popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>

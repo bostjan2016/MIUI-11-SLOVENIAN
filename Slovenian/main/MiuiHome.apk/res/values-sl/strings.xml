@@ -114,7 +114,7 @@
   <string name="download_action">Prevzemi</string>
   <string name="edit_folder_title">Spremeni ime mape</string>
   <string name="edit_mode_dual_app">Napravi dvojno aplikacijo</string>
-  <string name="edit_mode_group">Grupiraj</string>
+  <string name="edit_mode_group">Združi</string>
   <string name="edit_mode_group_error_cant_delete_system_apps">"Ne morem odstraniti aplikacije sistema"</string>
   <string name="edit_mode_group_error_full">Ni dovolj prostora</string>
   <string name="edit_mode_group_error_in_folder">Pred grupiranjem ikon zaprite mapo</string>

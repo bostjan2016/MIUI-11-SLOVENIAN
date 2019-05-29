@@ -390,6 +390,9 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="preferences_home_tz_default">Europe/Ljubljana</string>
   <string name="preferences_home_tz_title">Domači časovni pas</string>
   <string name="preferences_notification_ringtone_title">Zvok</string>
+  <string name="preferences_popup_alert_smart_summary">MIUI bo samodejno določil važnost dogodkov</string>
+  <string name="preferences_popup_alert_smart_tips">"Zamenjajte tradicionalna obvestila z pojavnimi okni da preprečite izgubo važnih dogodkov. Ne bodo se pojavila kadar igrate igre, gledate videoposnetke preko celega zaslona ali uporabljate način Avto."</string>
+  <string name="preferences_popup_alert_title">Pojavna okna</string>
   <string name="preferences_reminder_title">Obvestila &amp; opomniki</string>
   <string name="preferences_reminders_category">Opomniki</string>
   <string name="preferences_reminders_quiet_hours_description">Utišaj opomnike dogodkov v določenem času.</string>

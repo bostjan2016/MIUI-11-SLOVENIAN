@@ -180,6 +180,7 @@ Preverite mali ima USB naprava dovolj prostora."</string>
   <string name="flash_drive_restore_btn">Povrni var. kopijo iz USB naprave</string>
   <string name="flash_drive_search_backup_files">"Iskanje var. kopije v USB napravi…
 Ne menjajte ali preimenujte datotek var. kopije."</string>
+  <string name="gallery_summary">Nastavitve galerije (ne vključuje fotografij)</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
   <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu dela Gost."</string>
@@ -625,6 +626,7 @@ Osvobodite prostor ali napravite več manjših prenosov."</string>
   <string name="usb_trans_old_phone_low_space_title">Nema dovolj prostora</string>
   <string name="usb_trans_select_data_no_space">"Samo %s je na voljo v vaši USB napravi.
 Osvobodite prostor ali prenesite samo važne stvari."</string>
+  <string name="user_feedback">Povratne inf.</string>
   <string name="user_name">Apple ID ali E-pošta</string>
   <string name="user_name_null">Uporabniško ime ne sme biti prazno</string>
   <string name="user_notice_declaration_ignore">"Ne kaži več"</string>

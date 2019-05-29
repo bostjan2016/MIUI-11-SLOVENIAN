@@ -1223,7 +1223,8 @@ Avdio"</string>
   <string name="bluetooth_unlock_change_matched_device">Izberite drugo napravo</string>
   <string name="bluetooth_unlock_confirm_device_text">Tapnite Bluetooth napravo za potrditev.</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Dotaknite se tipke na napravi za odklep.</string>
-  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Pritisnite tipko na uri za odklepanje.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_band">Potrdi na Mi bandu.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Potrdi na uri.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Pritisnite tipko na napravi za odklepanje.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši to napravo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrišem to napravo?</string>
@@ -3982,6 +3983,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_sos_statusbar_summary">Tapni za izklop</string>
   <string name="miui_sos_statusbar_title">Vključen je SOS v sili</string>
   <string name="miui_special_feature">Posebne storitve</string>
+  <string name="miui_touch_filtered_touchassistant_warning">Dialoški okvir dovoljenj je pokriven z menijem bližnjic. Premaknite ga ali izključite to storitev.</string>
   <string name="miui_touch_filtered_warning">Če aplikacija blokira pogovorno okno za dovoljenje potegnite stvar ki se preklapa ali zaprite aplikacijo.</string>
   <string name="miui_updater">Posodabljanje</string>
   <string name="miui_userguide">Uporabniški vodič</string>
@@ -5579,6 +5581,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_paper_mode_global_summary">Uporabi Način branja za vse aplikacije</string>
   <string name="screen_paper_mode_global_title">Vse aplikacije</string>
   <string name="screen_paper_mode_hdr_toast">"Način branja bo izključen dokler predvajate HDR videoposnetke. Po koncu predvajanja se bo samodejno vključil."</string>
+  <string name="screen_paper_mode_hdr_toast_new">Način branja bo izključen dokler predvajate HDR videoposnetke im med preverjanjem prstnega odtisa.</string>
   <string name="screen_paper_mode_local_summary">Uporabi Način branja za izbrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Izbrane aplikacije</string>
   <string name="screen_paper_mode_off_apps_title">"Ne uporabi Način branja"</string>
