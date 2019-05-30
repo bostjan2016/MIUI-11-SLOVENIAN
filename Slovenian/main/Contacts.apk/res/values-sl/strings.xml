@@ -726,10 +726,13 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="menu_set_ring_tone">Nastavi melodijo zvonenja</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_share">Deli</string>
+  <string name="menu_share_qrcode">QR koda</string>
+  <string name="menu_share_text">Besedilo</string>
+  <string name="menu_share_vcard_file">Datoteka</string>
   <string name="menu_show_all_calls">Pokaži vse klice</string>
   <string name="menu_show_voicemails_only">Pokaži samo glasovno pošto</string>
   <string name="menu_splitAggregate">Loči</string>
-  <string name="menu_sync_remove">Odstrani sinhronizirano skupino</string>
+  <string name="menu_sync_remove">"Odstrani sinhronizirano skupino"</string>
   <string name="menu_viewContact">Ogled stika</string>
   <string name="messageShortcutActivityTitle">Izberi številko za pošiljanje</string>
   <string name="miprofile_account_type">Mi Račun</string>
@@ -788,7 +791,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="miprofile_switch_on_alertdialog_message">Zamenjajte vizitke da boste videli posodobljene slike profilov.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Vključi</string>
   <string name="miprofile_switch_on_alertdialog_title">Posodabljanje slike profila</string>
-  <string name="missing_name">(Brez imena)</string>
+  <string name="missing_name">"(Brez imena)"</string>
   <string name="missing_required_permission">Onemogočili ste potrebno dovoljenje.</string>
   <string name="mobile_equipment_identification">Identifikacija mobilne opreme</string>
   <string name="more_call_logs">Poglejte podrobno zgodovino klicev na &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
@@ -1177,10 +1180,12 @@ Napravite varnostno kopijo stikov."</string>
   <string name="set_data_package">Najprej nastavite načrt podatkov</string>
   <string name="set_default">Nastavi privzeto</string>
   <string name="set_photo_failed_msg">Slike ni mogoče dodeliti.</string>
+  <string name="share_contact_as">Deli stik kot</string>
   <string name="share_error">Stika ni mogoče deliti</string>
   <string name="share_over_limit">Preveč, ni mogoče deliti</string>
-  <string name="share_via">Pošlji</string>
-  <string name="share_visible_contacts">Deli stike</string>
+  <string name="share_qrcode">Deli QR kodo</string>
+  <string name="share_via">Deli stik preko</string>
+  <string name="share_visible_contacts">Deli vidne stike</string>
   <string name="shortcutActivityTitle">Izberi bližnjico stika</string>
   <string name="shortcutContact">Stik</string>
   <string name="shortcutDialContact">Neposredno klicanje</string>

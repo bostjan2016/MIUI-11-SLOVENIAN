@@ -413,7 +413,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_login_instead_reg_with_email">Uporabi ta Email</string>
   <string name="passport_login_notice">Vpisujem se...</string>
   <string name="passport_login_other_account">Drugi račun</string>
-  <string name="passport_login_prompt">En Mi Račun. Vse Mi storitve.</string>
+  <string name="passport_login_prompt">Vse Mi storitve. En Mi Račun.</string>
   <string name="passport_login_recycle_account_no">Ne</string>
   <string name="passport_login_recycle_account_yes">Da</string>
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>

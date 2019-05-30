@@ -291,6 +291,7 @@
   <string name="guild_add_recipients">Dotaknite se da dodate prejemnike iz imenika</string>
   <string name="guild_msim_switcher">Dotaknite se za menjavo SIM kartice</string>
   <string name="has_invalid_recipient">Neveljavni prejemniki: %1$s</string>
+  <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Skrit pošiljateljev naslov</string>
   <string name="hint_search_sms">SMS-ov: %d</string>
   <string name="hms_add_image_progress_message">Delam...</string>
@@ -645,6 +646,7 @@
   <string name="received_label">Prejeto:</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Prejemnik:</string>
+  <string name="recipients_contain_sub_sim_number">"Kaže da obstaja sekundarna številka SIM-a med prejemniki. Pošljite to sporočilo s pomočjo sekundarne SIM kartice."</string>
   <string name="recipients_over_size">Preveč prejemnikov.</string>
   <string name="recommend_bar_cancel">Zanemari</string>
   <string name="recommend_bar_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI uporabnikom brez stroškov.</string>
@@ -834,6 +836,9 @@
   <string name="storage_limits_setting">Nastavi omejitev</string>
   <string name="storage_limits_setting_dismiss">Ni omejitve</string>
   <string name="storage_unavailable">Ni dostopnega prostora</string>
+  <string name="sub_sim_card">Sub</string>
+  <string name="sub_sim_card_indicator">Sub%d</string>
+  <string name="sub_sim_not_support_mms">"MMS ni možno poslati z uporabo sekundarne SIM kartice"</string>
   <string name="subject_hint">Predmet</string>
   <string name="subject_label">"Predmet: "</string>
   <string name="subscribe">Naroči se</string>

@@ -195,7 +195,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_app_storage">"Prostor za shranjevanje: "</string>
   <string name="app_manager_app_traffic">"Uporaba podatkov: "</string>
   <string name="app_manager_app_update">Posodobitve</string>
-  <string name="app_manager_app_version_name">Različica:</string>
+  <string name="app_manager_app_version_name">"Različica: "</string>
   <string name="app_manager_apps_generatioin">Posodobitve</string>
   <string name="app_manager_apps_generation_summary">Posodobite, da lahko uporabljate najnovejša opravila</string>
   <string name="app_manager_appupdate_remind">Obvesti o posodobitvah</string>
@@ -1589,9 +1589,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="manual_handle_title">OPRAVILA NA VOLJO</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>
-  <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim aplikacijam</string>
+  <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim stvarem</string>
   <string name="manual_item_white_list_title">Izjeme</string>
-  <string name="manual_white_list_header">%d izjem</string>
+  <string name="manual_white_list_header">Izjem: %d</string>
   <string name="mark_agent">Blokiraj prijavljene agencije</string>
   <string name="mark_agent_block">Prijavljen kot agencija</string>
   <string name="mark_agent_block_large">Agencija</string>
