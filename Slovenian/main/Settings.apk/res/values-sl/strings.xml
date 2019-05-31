@@ -6449,7 +6449,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="standard">Tiho</string>
   <string name="standard_info">Klici in obvestila bodo utišani</string>
     <string name="standby_bucket_summary">"Stanje pripravljenosti aplikacije:  %s"</string>
-  <string name="start_backup">Zači izdelavo var. kopije</string>
+  <string name="start_backup">Začni izdelavo var. kopije</string>
   <string name="start_restore">Obnovi</string>
   <string name="start_silent_mode">Vključi tihi način</string>
   <string name="start_vip_mode">Omogoči VIP način</string>
