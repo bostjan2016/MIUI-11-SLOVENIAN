@@ -6949,7 +6949,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
     <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo z opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="telephony_monitor_toast">Če želite uveljaviti spremembo nadziranja telefonije, znova zaženite napravo</string>
-  <string name="terms_title">Določila in pogoji</string>
+  <string name="terms_title">Pravila in pogoji</string>
   <string name="testing">Preizkušanje</string>
   <string name="testing_battery_info">Informacije o bateriji</string>
   <string name="testing_phone_info">Informacije o napravi</string>

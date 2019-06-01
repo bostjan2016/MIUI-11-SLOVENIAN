@@ -139,7 +139,7 @@
   <string name="cta_dialog_negative">Izhod</string>
   <string name="cta_dialog_positive">Strinjam se</string>
   <string name="cta_dialog_text_all">Za uporabo zakl. aplikacij morate prebrati in se strinjati z %1$s\"Pogoji uporabe\" %2$s in %3$s \"Pravila o zasebnosti\" %4$s. Potrebna je tudi spletna povezava in dostop do lokacije. Se strinjate?</string>
-  <string name="cta_dialog_title">Pogoji in določila</string>
+  <string name="cta_dialog_title">Pogoji in Pravila</string>
   <string name="cta_negative">Izhod</string>
   <string name="cta_positive">Podrobnosti</string>
   <string name="cta_text5">Storitev zahteva tudi spletno povezavo in dostop do lokacije. Ali se strinjate?</string>
