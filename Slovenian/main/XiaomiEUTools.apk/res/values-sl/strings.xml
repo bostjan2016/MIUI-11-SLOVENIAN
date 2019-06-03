@@ -31,7 +31,7 @@
     <string name="dpi_desc">Napredna orodja za prilagajanje velikosti zaslona kot so zoomiranje, dodatna urejanja velikosti črk in možnost urejanja DPI-ja celega vmesnika.</string>
     <string name="dpi_title">DPI urejanje</string>
     <string name="hardware_test">Preverite če je vse v redu</string>
-    <string name="hardware_title">Hardware test</string>
+    <string name="hardware_title">Test strojne opreme</string>
     <string name="oreo_desc">Vgrajena mini igra ki bo odpihnila paro ali enostavno pregnala dolgčas.</string>
     <string name="oreo_title">Oreo Easter Egg</string>
     <string name="power_desc">Prihranite nekaj baterije med mirovanjem</string>
@@ -43,5 +43,5 @@
     <string name="space_title">Drugi prostor</string>
     <string name="theme_desc">Prilagodite izgled naprave</string>
     <string name="theme_title">Teme</string>
-    <string name="tools">Orodja %1$s</string>
+    <string name="tools">Orodja</string>
 </resources>
