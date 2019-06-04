@@ -9,8 +9,11 @@
   <string name="button_queue_for_wifi">Počakaj</string>
   <string name="button_start_now">Nalagam</string>
   <string name="call_record">Posneti klici</string>
+  <string name="call_record_list_group_all">Vsi</string>
+  <string name="call_record_list_group_connected">Povezano</string>
+  <string name="call_record_list_group_unconnected">Ni povezano</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
-  <string name="cloud_record">%d sinhnorizirano</string>
+  <string name="cloud_record">Sinhronizirano %d</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
   <string name="cloud_record_tip">Sinhr. posnetkov z Mi Cloudom.</string>
   <string name="cloud_service_state_open_reminder">Vključite sinhronizacijo z Mi Cloudom za sinhroniziranje posnete datoteke.</string>
@@ -76,10 +79,11 @@
   <string name="preference_enable_earpiece_summary">Uporabi zvočnik za zunanje predvajanje</string>
   <string name="preference_enable_earpiece_title">Uporabi zvočnik za predvajanje avdia</string>
   <string name="preference_led_indicator">Obvestila na zaklenjem zaslonu</string>
-  <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko na zaklenjenem zaslonu.</string>
+  <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko.</string>
   <string name="preference_record_scenes_dialog_title">Izberi tip snemanja</string>
   <string name="preference_scenes">Vrsta snemanja</string>
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
+  <string name="preference_status_bar_indicator_prompt">Pokaži bližnjico v obvestilni vrstici med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
   <string name="recognition_error_cancel">Odpovedano</string>

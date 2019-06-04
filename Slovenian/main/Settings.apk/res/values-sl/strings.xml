@@ -738,6 +738,10 @@ nastavitev in aplikacij"</string>
   <string name="backup_set_enter_pw_title">Vnesi geslo za var. kopije</string>
   <string name="backup_set_error_pw">Geslo ni pravilno</string>
   <string name="backup_set_modify_title">Zamenjaj geslo</string>
+  <string name="backup_set_new_continue">Nadaljuj</string>
+  <string name="backup_set_new_exit">Izhod</string>
+  <string name="backup_set_new_pw_confirm_hint">Pozor</string>
+  <string name="backup_set_new_pw_confirm_summary">Vaše stvari se zdaj samodejno kopirajo. Izdelava gesla var. kopije bo ustavilo samodejne var. kopije. Vseeno nadaljujem?</string>
   <string name="backup_set_new_pw_title">Vnesi novo geslo</string>
   <string name="backup_set_null_pw">Najprej vnesi geslo</string>
   <string name="backup_set_pw_confirm_title">Potrdi novo geslo</string>
@@ -2090,9 +2094,10 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="device_miui_more">Prikaži več</string>
   <string name="device_miui_version">MIUI različica</string>
   <string name="device_miui_version_for_POCO">MIUI različica (Za POCO)</string>
+  <string name="device_miui_version_parameters">MIUI različica</string>
   <string name="device_miui_version_update">Na voljo je MIUI posodobitev</string>
   <string name="device_name">Ime naprave</string>
-  <string name="device_name_input_error">"Ne morem shraniti imena naprave2</string>
+  <string name="device_name_input_error">"Ne morem shraniti imena naprave"</string>
   <string name="device_name_input_hint">Vnesi ime</string>
   <string name="device_name_input_overlength">Preveliko število besed</string>
   <string name="device_name_usage_point">To ime bo vidno drugim napravam v bližini.</string>

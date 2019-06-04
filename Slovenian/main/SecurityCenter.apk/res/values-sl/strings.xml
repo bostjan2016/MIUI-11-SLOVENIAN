@@ -1242,6 +1242,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
   <string name="gateway_exception_title">Testiraj router</string>
   <string name="gb_ad_game_size">MB</string>
+  <string name="gb_add_game_hint">Dodajte stvari iz seznama aplikacij</string>
   <string name="gb_advance_settings_edge_gear1">Nič</string>
   <string name="gb_advance_settings_edge_gear2">Malo</string>
   <string name="gb_advance_settings_edge_gear3">Srednje</string>
@@ -1277,6 +1278,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_first_window_start">Začnite igrati</string>
   <string name="gb_first_window_summary">Povečajte hitrost in zmogljivost na nivoju sistema</string>
   <string name="gb_first_window_title">Pohitritev igre</string>
+  <string name="gb_global_settings">Splošne nastavitve</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>

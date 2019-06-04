@@ -233,7 +233,7 @@
   <string name="burst_save_all">Shrani vse</string>
   <string name="burst_save_choice_title" formatted="false">Izbrano %d od %d</string>
   <string name="burst_save_confirm_dialog_title">Shranjevanje fotografij</string>
-  <string name="burst_save_error_msg">"Ne moren shraniti"</string>
+  <string name="burst_save_error_msg">"Ne morem shraniti"</string>
   <string name="burst_save_processing">Obdelava…</string>
   <string name="buy_member_tip">Postanite član</string>
   <string name="by_email">E-pošta</string>
@@ -785,7 +785,7 @@ za fotografije"</string>
   <string name="input_nickname_toast">"Vnesite ime otroka"</string>
   <string name="input_or_select_a_name">Vnesite ali izberite ime</string>
   <string name="input_relation_name">Vnesi ime skupine</string>
-  <string name="install_fail">"Ne moren prebrati dodatka zaradi napake."</string>
+  <string name="install_fail">"Ne morem prebrati dodatka zaradi napake."</string>
   <string name="invalid_invition_url">Nepravilen URL vabila.</string>
   <string name="invalid_recipient_message">Imena prejemnikov so napačna</string>
   <string name="invite_send_sms_tip">Vaš operater vam lahko računa SMS porabljen za pošiljanje tega vabila.</string>
@@ -1408,7 +1408,7 @@ za fotografije"</string>
   <string name="slim_stop">Ustavi optimiziranje</string>
   <string name="special_type_eye_repair">Popravljene zaprte oči s pomočjo AI</string>
   <string name="special_type_hdr">HDR</string>
-  <string name="special_type_night_beauty">AI oepšanje slabe osvetlitve</string>
+  <string name="special_type_night_beauty">AI olepšanje slabe osvetlitve</string>
   <string name="special_type_night_mode">AI nočni način</string>
   <string name="special_type_portrait">AI barvanje portreta</string>
   <string name="special_type_wide_angle">AI ultra široki kot</string>

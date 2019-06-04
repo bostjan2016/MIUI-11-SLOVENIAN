@@ -30,9 +30,11 @@
   <string name="announce_for_open_default_preview">Odprli ste privzete nastavitve začetnega zaslona</string>
   <string name="announce_for_open_folder">Odprta mapa %1$s</string>
   <string name="announce_for_open_launcher_menu">Odprt meni</string>
+  <string name="announce_for_search_bar">Polje za iskanje</string>
   <string name="announce_for_show_uninstall_dialog">Pojavilo se je sporočilo za odstranitev. Prekličite ali potrdite.</string>
   <string name="announce_for_unchecked">%1$s, nepreverjeno</string>
   <string name="announce_for_widget_span">Širina %1$d, višina %2$d</string>
+  <string name="announce_for_xiaoai">Mi AI</string>
   <string name="app_already_exist">Aplikacija že obstaja</string>
   <string name="app_being_backup_message">Aplikacija se varnostno kopira.</string>
   <string name="app_being_restored_message">Izvaja se obnovitev aplikacije</string>
@@ -297,6 +299,8 @@
   <string name="preferences_general_title">Dodatne nastavitve</string>
   <string name="preferences_title">Nastavitve vmesnika</string>
   <string name="preferred_app_settings_not_selected">Ni izbrano</string>
+  <string name="privacy_thumbnail_blur_summary">Zameglitev pregleda aplikacij v nedavno</string>
+  <string name="privacy_thumbnail_blur_title">Zameglitev pregleda aplikacij</string>
   <string name="process"/>
   <string name="quick_app">Hitre aplik.</string>
   <string name="recents_config_title">Nedavno</string>
