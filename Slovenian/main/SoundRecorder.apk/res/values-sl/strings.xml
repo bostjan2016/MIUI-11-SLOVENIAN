@@ -144,6 +144,9 @@
   <string name="search_tip_rename">Ročno poimenuj posnetek</string>
   <string name="share">Deli</string>
   <string name="share_dialog_title">Deli z uporabo</string>
+  <string name="shortcut_records">Posnetki</string>
+  <string name="shortcut_start_record">Začni snemanje</string>
+  <string name="shortcut_stop_record">Ustavi snemanje</string>
   <string name="sound_recorder_settings">Nastavitve</string>
   <string name="speech_recognition_complete">Končano</string>
   <string name="speech_recognition_running_tip">Delujoče</string>
