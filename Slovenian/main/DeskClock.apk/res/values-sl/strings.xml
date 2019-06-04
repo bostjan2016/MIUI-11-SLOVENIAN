@@ -187,6 +187,9 @@
   <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonenjem</string>
   <string name="setting_alarm_arriving_title">Obvesti pred zvonenjem</string>
   <string name="settings">Nastavitve</string>
+  <string name="shortcut_new_alarm">Nastavi alarm</string>
+  <string name="shortcut_start_timer">Zaženi časovnik</string>
+  <string name="shortcut_stop_watch">Zaženi štoparico</string>
   <string name="shutdown_alarm_disable_summary">"Alarm se ne bo izključil po izklopu naprave"</string>
   <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 5 minut potem ko izključite napravo"</string>
   <string name="shutdown_alarm_title">Izklop alarma</string>
