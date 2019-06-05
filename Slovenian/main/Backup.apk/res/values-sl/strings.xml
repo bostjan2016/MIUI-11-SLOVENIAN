@@ -125,9 +125,12 @@ nastavitev in aplikacij"</string>
   <string name="dialog_app_upgrade_download">Posodobi</string>
   <string name="dialog_app_upgrade_exit">Izhod</string>
   <string name="dialog_app_upgrade_message">Na voljo je nova verzija Mi Mover-ja. Posodobim?</string>
-  <string name="dialog_backup_password_backup_tips">"Ne morem napraviti var. kopijo stvari k je vključeno geslo za var. kopije. Izključite geslo."</string>
+  <string name="dialog_backup_password_auto_backup_tips">"Ne morem samodejno napraviti var. kopijo stvari ko je geslo za var. kopije vključeno. Izključite geslo."</string>
+  <string name="dialog_backup_password_backup_tips">"Ne morem napraviti var. kopijo stvari ko je geslo za var. kopije vključeno. Izključite geslo"</string>
   <string name="dialog_backup_password_cancel">Prekliči</string>
+  <string name="dialog_backup_password_change_device_restore_tips">"Ne morem uporabiti Mi Mover ko je geslo za var. kopije vključeno. Izključite geslo."</string>
   <string name="dialog_backup_password_change_machine_tips">"Ne morete prenašati var. kopije zaščitene z geslom. Izključite geslo."</string>
+  <string name="dialog_backup_password_restore_tips">"Ne morem vrniti stvari ko je geslo za var. kopije vključeno. Izključite geslo."</string>
   <string name="dialog_backup_password_to_settings">Nastavitve</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_description">Ni šifrirano</string>
@@ -202,6 +205,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="hsa_verify_failed_message">Avtorizacija z dvema faktorjema ni uspela. Poskusite ponovno ali izključite avtorizacijo z dvema faktorjema.</string>
   <string name="hsa_verify_retry">Poskusi ponovno</string>
   <string name="hsa_verify_shutdown">Izključi</string>
+  <string name="iCloud_ID_verification_tip">"Vnesite kontrolno kodo SMS-a ki je poslana na številko telefona povezano z vašim Apple ID-om. Zanemarite pojavno okno prikazano na zaslonu vaše iPhone naprave."</string>
   <string name="icloud_backup_tip">Prijavite se v iCloud račun iz stare Apple naprave</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Odprite Nastavitve v svoji iOS napravi, nato izberite iCloud.\r\n2.Vključite spremembo za stike in druge stvari.\r\n3.Izberite Fotografije in vključite knjižnico fotografij v iCloudu."</string>
   <string name="icloud_how_to_backup_tip_summary">Da boste uvozili podatke iz iOS-a, morate napraviti iCloud var. kopijo.</string>
@@ -426,7 +430,8 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="trans_cancel_dialog_survey_title">Zakaj ste prekinili prenos?</string>
   <string name="trans_cancel_selection_message">Če zapustite Mi Mover bo prenos prekinjen. Počakajte do konca prenosa.</string>
   <string name="trans_cancel_selection_title">Ostani v Mi Mover</string>
-  <string name="trans_cancelling">Nehaj</string>
+  <string name="trans_cancelling">Preklic…</string>
+  <string name="trans_complete_restoring">Uspešno prenešeno. Vrnitev podatkov aplikacije…</string>
   <string name="trans_connect_failed_device_incompatible">Naprava ni kompatibilna. Prekličite prenos in poskusite ponovno.</string>
   <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
   <string name="trans_connect_failed_title">"Povezovanje ni uspelo"</string>

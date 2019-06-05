@@ -1140,6 +1140,7 @@ dd.MM."</string>
   <string name="lock_screen_magazine_default_entry_title">Podrobno o sliki ozadja</string>
   <string name="lock_screen_magazine_default_title">Wallpaper Carousel</string>
   <string name="lock_screen_magazine_global_button_text">Več</string>
+  <string name="lock_screen_magazine_label">Odpri Wallpaper Carousel</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Več</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Vstopi</string>
   <string name="lock_screen_no_sim_card">Ni SIM kartice</string>

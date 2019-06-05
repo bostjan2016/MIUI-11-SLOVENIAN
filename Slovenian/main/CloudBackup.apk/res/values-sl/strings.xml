@@ -9,10 +9,13 @@
   <string name="as_new_device_summary">Izbriši predhodne Mi Cloud var. kopije</string>
   <string name="authentication_failed">"Ne morem potrditi račun."</string>
   <string name="back_up_task_in_process">Izdelava v teku…</string>
-  <string name="back_up_task_unfinished">Var. kopija ni končana</string>
+  <string name="back_up_task_unfinished">"Ne morem napraviti var. kopijo"</string>
   <string name="backing_up_to_micloud">Varnostno kopiram…</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
   <string name="backup_fail_wifi_needed">"Za izdelavo var. kopije je potreben WiFi."</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Ni dovolj prostora za shranjevanje v Mi Cloudu. Nadgradite svoj plan ali osvobodite prostor za shranjevanje.</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Osvobodite prostor za shranjevanje.</string>
+  <string name="backup_failed_reason_network_error">Omrežna napaka. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
   <string name="backup_size">Velikost: %s</string>
@@ -195,8 +198,10 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="restore_detail_category_settings">Nastavitve</string>
   <string name="restore_detail_more">Več</string>
   <string name="restore_detail_title">Izberite stvari za povrnitev</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Ni dovolj prostora za shranjevanje. Najprej osvobodite prostor za shranjevanje.</string>
+  <string name="restore_failed_reason_network_error">Napaka omrežja. Počakajte malo in poskusite znova.</string>
   <string name="restore_finish_description">Obnova je končana</string>
-  <string name="restore_finished_notification_content">Vrnjene aplikacije začetnega zaslona, nastavitve sistema itd.</string>
+  <string name="restore_finished_notification_content">Vrnjene so aplikacije začetnega zaslona, nastavitve sistema itd.</string>
   <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>
   <string name="restore_from_this_device">Obnovi z uporabo te var. kopije</string>
   <string name="restore_home_failed">"Ne morem vrniti začetni zaslon."</string>
@@ -206,7 +211,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="restore_network_unconnect">%s (Čakanje na povezavo)</string>
   <string name="restore_task_cancelling">Prekinjam…</string>
   <string name="restore_task_in_process">Obnovitev…</string>
-  <string name="restore_task_unfinished">Obnovitev aplikacij, poskusite ponovno kasneje</string>
+  <string name="restore_task_unfinished">"Ne morem povrniti"</string>
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
   <string name="restoring_file_title_no_progress">Vračanje datotek…</string>
   <string name="restoring_settings">Vračanje nastavitev…</string>

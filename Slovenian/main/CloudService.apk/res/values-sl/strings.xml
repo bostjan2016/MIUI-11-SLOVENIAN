@@ -247,7 +247,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_dspt">Uporabi Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
   <string name="micloud_dspt_provision">Uporabi Mi Cloud za sinhronizacijo podatkov, lociranje naprave in deljenje stvari s prijatelji.</string>
   <string name="micloud_dspt_provision_xms">Uporabi Mi Cloud za sinhronizacijo podatkov.</string>
-  <string name="micloud_find_device_close_alert_content">"Če izključite to opravilo, ne boste mogli najti naprave če je izgubljena."</string>
+  <string name="micloud_find_device_close_alert_content">"Če izključite Najdi napravo ne boste mogli najti naprave če je izgubljena."</string>
   <string name="micloud_find_device_close_alert_negtive">Vseeno izključi</string>
   <string name="micloud_find_device_close_alert_positive">Pusti vključeno</string>
   <string name="micloud_find_device_close_alert_title">Izključim Najdi napravo?</string>

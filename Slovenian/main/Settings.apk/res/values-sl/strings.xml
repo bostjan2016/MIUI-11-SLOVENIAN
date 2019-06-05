@@ -2,6 +2,7 @@
 <resources>
   <string name="SMS_and_MMS">SMS in MMS</string>
   <string name="Accounts_settings_title">Računi</string>
+  <string name="a11y_settings_label">Nastavitve dostopnosti</string>
   <string name="aaid_info">"
  Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koristila.
  
@@ -113,7 +114,12 @@
     <string name="accessibility_long_press_timeout_preference_title">Časovni zam. za dotik in pridržanje</string>
     <string name="accessibility_manual_zen_less_time">Krajši čas.</string>
     <string name="accessibility_manual_zen_more_time">Daljši čas.</string>
+  <string name="accessibility_menu_description">"Meni dostopnosti ponuja bližnjice ki vam omogočajo upravljanje naprave.
+
+Vključite to storitev in tapnite gumb dostopnost na dnu zaslona da boste odprli meni."</string>
   <string name="accessibility_menu_item_settings">Nastavitve</string>
+  <string name="accessibility_menu_service_name">Meni dostopnosti</string>
+  <string name="accessibility_menu_summary">Urejajte svoje naprave s pomočjo bližnjic</string>
   <string name="accessibility_more_settings">Dodatne nastavitve</string>
   <string name="accessibility_no_service_selected">Izbrana ni nobena storitev</string>
   <string name="accessibility_no_services_installed">Ni nameščenih storitev</string>
@@ -3654,6 +3660,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="lockscreen_label">Zakl. zaslon</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
   <string name="lockscreen_magazine_summary">Wallpaper carousel visoka kvaliteta</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
@@ -4958,6 +4965,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_key_how_start_detail">Pritisnite in držite tipko za vklop/izklop 0.5 sek. Spustite za govor.</string>
   <string name="power_key_start_enjoy">Izvedite več o Google pomočniku</string>
   <string name="power_key_start_guide">Vključite Google pomočnika s pomočjo tipke za vklop/izklop na napravah s celim zaslonom</string>
+  <string name="power_label">Moč</string>
   <string name="power_menu_under_keyguard_summary">Omogočite dostop do menija za polnjenje ko je naprava zaklenjena</string>
   <string name="power_menu_under_keyguard_title">Dostop do menija za polnjenje</string>
     <string name="power_last_full_charge_summary">pred ^1</string>
@@ -5239,6 +5247,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies, Inc Reporting</string>
   <string name="qtifeedback_settings_title">Hardware Feedback</string>
   <string name="query_hint_text">Preišči nastavitve</string>
+  <string name="quick_reply_title">Hitri odgovori</string>
   <string name="quick_launch_assign_application">Dodeli aplikacijo</string>
   <string name="quick_launch_clear_cancel_button">Prekliči</string>
   <string name="quick_launch_clear_dialog_message">Vaša bližnjica za %1$s (%2$s) bo izbrisana.</string>
@@ -5251,6 +5260,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="quick_launch_summary">Nastavi bližnjice na tipkovnici za zagon aplikacij</string>
   <string name="quick_launch_title">Hitri zagon</string>
     <string name="quick_settings_developer_tiles">Ploščice razvijalcev za hitre nastavitve</string>
+  <string name="quick_settings_label">Bližnjice</string>
   <string name="quiet">Ne moti</string>
   <string name="quiet_group">Ne moti</string>
   <string name="quiet_important_interruptions_mode">Dovoli samo izjemam</string>
@@ -5345,6 +5355,7 @@ Vmesnik UT: %5$s"</string>
   <string name="rebootiing_for_updates">Ponovni zagon…</string>
   <string name="receiver_clean">Osvobodite prostor</string>
     <string name="recent_app_category_title">Nedavno odprte aplikacije</string>
+  <string name="recent_apps_label">Nedavno</string>
   <string name="recent_location_requests_summary">Pokaži aplikacije, ki zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
   <string name="recent_notifications">Nedavno poslano</string>
@@ -5677,6 +5688,7 @@ To velja za vse uporabnike telefona."</string>
     <string name="screensaver_settings_title">Ohranjevalnik zaslona</string>
     <string name="screensaver_settings_when_to_dream">Kdaj naj se zažene</string>
   <string name="screenshot">Posnetek zaslona</string>
+  <string name="screenshot_label">Posnetek zaslona</string>
   <string name="screenshot_three_gesture">Povlecite z 3 prsti istočasno za izdelavo posnetka zaslona</string>
   <string name="screenshot_three_gesture_summary">Ostali gibi z 3 prsti bodo izključeni</string>
     <string name="sd_card_settings_label">Pomnilnik USB</string>
@@ -7855,6 +7867,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Glasnost</string>
   <string name="volume_hifi_description">HiFi nastavitve</string>
+  <string name="volume_label">Glasnost</string>
   <string name="volume_media_description">Glasba, videoposnetki, igre in druge predstavnosti</string>
   <string name="volume_media_mute">Izklop glasbe in drugih medijev</string>
   <string name="volume_notification_description">Obvestila</string>
@@ -7875,8 +7888,8 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
     <string name="vpn_always_on_summary_active">Vedno vklopljeno in aktivno</string>
     <string name="vpn_always_on_summary_not_supported">Ta aplikacija tega ne podpira</string>
   <string name="vpn_cancel">Prekliči</string>
-    <string name="vpn_cant_connect_message">Ta aplikacija ne podpira stalno vklopljenega omrežja VPN.</string>
-    <string name="vpn_cant_connect_title">Z omrežjem VPN %1$s ni mogočevzpostaviti povezave.</string>
+  <string name="vpn_cant_connect_message">"Ta aplikacija ne podpira storitve zmeraj vključeno."</string>
+  <string name="vpn_cant_connect_title">"%1$s se ne more povezati"</string>
   <string name="vpn_configure">Nastavitev</string>
   <string name="vpn_connect">Vznastavi povezavo</string>
   <string name="vpn_connect_to">Povezovanje z %s</string>
