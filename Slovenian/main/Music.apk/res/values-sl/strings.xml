@@ -387,7 +387,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_share_dialog">Deli preko</string>
   <string name="download_speed_null"/>
   <string name="download_start">Prenos…</string>
-  <string name="download_start_apk">Začenjam prenos… Preverite napredek v Panelu obvestil</string>
+  <string name="download_start_apk">Začenjam prenos… Preverite napredek v plošči obvestil</string>
   <string name="download_start_btn">Prenesi</string>
   <string name="download_success">Dokončano</string>
   <string name="download_title">Prenosi</string>
@@ -414,9 +414,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_while_playing_summary">Samodejno prenesite skladbe ki jih predvajate na spletu</string>
   <string name="download_while_playing_title">Prenesite med predvajanjem</string>
   <string name="downloaded_empty">Prazno</string>
-  <string name="downloading_apk">Prenos poteka… Preverite napredek v Panelu obvestil</string>
+  <string name="downloading_apk">Prenos poteka… Preverite napredek v plošči obvestil</string>
   <string name="downloading_empty">Prazno</string>
-  <string name="downloading_pause_apk">Zaustavljeno… Nadaljujte prenos v Panelu obvestil.</string>
+  <string name="downloading_pause_apk">Zaustavljeno… Nadaljujte prenos v plošči obvestil.</string>
   <string name="downloads_operating">Obdelava…</string>
   <string name="edit_playlist_info">Uredi informacije o seznamu predvajanja</string>
   <string name="editmode_menu_delete">Izbriši</string>

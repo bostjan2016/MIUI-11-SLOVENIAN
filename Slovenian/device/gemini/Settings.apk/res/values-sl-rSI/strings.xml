@@ -959,7 +959,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="country_name">%s (sistem)</string>
   <string name="create">Ustvari</string>
   <string name="credential_storage_type">Vrsta shrambe</string>
-  <string name="credential_storage_type_hardware">Strojna</string>
+  <string name="credential_storage_type_hardware">Strojna oprema</string>
   <string name="credential_storage_type_software">Samo programska</string>
   <string name="credentials_configure_lock_screen_hint">Preden lahko uporabite shrambo poverilnic morate nastaviti kodo PIN ali geslo za zaklepanje zaslona.</string>
   <string name="credentials_enabled">Shramba poverilnic je omogočena.</string>

@@ -400,7 +400,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="apps_item_sms_reset_button_text">Vrni privzeto</string>
   <string name="apps_item_sms_title">Privzete nastavitve sporočil</string>
   <string name="apps_item_summary_sms">%s ima dostop do sporočil, to lahko povzroči varnostne težave</string>
-  <string name="apps_item_summary_system_rooted">ROOT dostop je dovoljen, vratite na privzeto da boste preprečili varnostne težave!</string>
+  <string name="apps_item_summary_system_rooted">ROOT dostop je dovoljen, vrnite na privzeto da boste preprečili varnostne težave!</string>
   <string name="apps_item_summary_system_update">Nekatere napake so odpravljene v novi verziji, tako da so plačila še varnejša.</string>
   <string name="apps_item_title_system">Posodobitev sistema</string>
   <string name="apps_item_virus_cleanup_success">Uspešno izbrisano!</string>
@@ -540,7 +540,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_status_unknown">Neznana napaka</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Datum ponastavitve uporabe</string>
-  <string name="best_booster_status">Na volje je povečanje hitrosti.</string>
+  <string name="best_booster_status">Na voljo je povečanje hitrosti.</string>
   <string name="bg_network_exception_title">Omejena povezava v ozadju</string>
   <string name="bind_xiaomi_account_cancel">Prekini</string>
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
@@ -674,7 +674,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_gamebooster_title">Izboljšajte hitrost igranja</string>
   <string name="card_main_hbassistant_summary">Pohitrite in izboljšajte reakcijo iger</string>
   <string name="card_main_hbassistant_title">Pohitri igre</string>
-  <string name="card_main_hwtest_title">Hardware test</string>
+  <string name="card_main_hwtest_title">Test strojne opreme</string>
   <string name="card_main_monthreport_action">Pokaži</string>
   <string name="card_main_monthreport_summary">Prikaži mesečna poročila</string>
   <string name="card_main_monthreport_title">Varnostna statistika</string>

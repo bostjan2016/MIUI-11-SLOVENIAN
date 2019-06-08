@@ -1729,7 +1729,7 @@ To lahko izključite v [Nastavitve]"</string>
     <string name="credential_for_vpn_and_apps">Nameščeno za VPN in aplikacije</string>
     <string name="credential_for_wifi">Nameščeno za WiFi</string>
   <string name="credential_storage_type">Vrsta shrambe</string>
-  <string name="credential_storage_type_hardware">Strojna</string>
+  <string name="credential_storage_type_hardware">Strojna oprema</string>
   <string name="credential_storage_type_software">Samo programska</string>
     <string name="credentials_configure_lock_screen_button">NASTAVITEV ZAKLEPANJA</string>
     <string name="credentials_configure_lock_screen_hint">Preden lahko uporabite shrambo poverilnic, morate v napravi nastaviti varno zaklepanje zaslona.</string>

@@ -2222,7 +2222,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="tether_settings_title_usb">USB skupna raba povezave</string>
   <string name="tether_settings_title_usb_bluetooth">Skupna raba povezave</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
-  <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
+  <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo prek mobilnega telefona</string>
   <string name="tethering_hardware_offload_summary">Uporabi hardversko pospeševanje za modemsko povezovanje če je na voljo</string>
   <string name="tethering_settings_not_available">Nastavitve skupne rabe povezave niso na voljo uporabniku</string>
   <string name="third_party_account_summary">Ta račun uporablja %s.</string>

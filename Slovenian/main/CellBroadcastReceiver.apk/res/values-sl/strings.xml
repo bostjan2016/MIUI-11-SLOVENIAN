@@ -456,9 +456,9 @@ Izbor"</string>
     <string name="tether_settings_title_usb">Internet prek USB-ja</string>
     <string name="tether_settings_title_usb_bluetooth">Internet prek mob. napr.</string>
     <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
-    <string name="tethering_hardware_offload">Strojno pospeševanje za internetno povezavo prek mobilnega telefona</string>
-    <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za internetno povezavo prek mobilnega telefona, če je na voljo</string>
-    <string name="tethering_settings_not_available">Nastavitve za povezavo z internetom prek mobilne naprave niso na voljo za tega uporabnika</string>
+    <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo prek mobilnega telefona</string>
+    <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo prek mobilnega telefona, če je na voljo</string>
+    <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
     <string name="time_unit_just_now">Pravkar</string>
     <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
     <string name="track_frame_time">Upod. profilov z GPE</string>
