@@ -333,7 +333,7 @@
   <string name="share">Skupna raba</string>
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži vse</string>
-  <string name="show_mem_info_title">Prikaži status spomina</string>
+  <string name="show_mem_info_title">Prikaži status pomnilnika</string>
   <string name="show_recents_recommend_title">Pokaži predloge</string>
   <string name="sort_by_abc">Razvrsti po imenu</string>
   <string name="sort_by_frequency">Razvrsti po uporabi</string>

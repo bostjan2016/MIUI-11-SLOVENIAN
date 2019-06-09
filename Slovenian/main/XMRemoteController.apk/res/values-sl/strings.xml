@@ -796,7 +796,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="press_to_match">Pritisnite za seznanitev</string>
   <string name="prev_remote">Predhodni daljinec</string>
   <string name="privacy_content">"Preberite Xiaomi Pravila o zasebnosti in Pogoje uporabe pred uporabo Mi Remote. Aplikaciji je potreben dostop do spleta in storitev lociranja da dela normalno.</string>
-  <string name="privacy_nohit">"Ne prikazuj ponovno"</string>
+  <string name="privacy_nohit">"Ne kaži več"</string>
   <string name="privacy_title">Pravila in pogoji</string>
   <string name="program_booking_book_filter_book_status">Status rezervacije</string>
   <string name="program_booking_book_filter_not_booked">Ni rezervirano</string>

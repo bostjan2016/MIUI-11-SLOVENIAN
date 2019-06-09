@@ -140,7 +140,7 @@
   <string name="dialpad_two">2</string>
   <string name="dialpad_wxyz">WXYZ</string>
   <string name="dialpad_zero">0</string>
-  <string name="do_not_ask">Ne prikazuj ponovno</string>
+  <string name="do_not_ask">Ne kaži več</string>
   <string name="do_not_support_video_calls_by_remote">"Video klici niso podprti na drugi napravi"</string>
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
   <string name="fraud_call_answer">Odgovori</string>

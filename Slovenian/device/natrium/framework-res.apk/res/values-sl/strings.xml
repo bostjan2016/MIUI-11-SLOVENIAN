@@ -351,8 +351,8 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="httpError">Napaka v omrežju.</string>
   <string name="httpErrorAuth">Pristnosti ni bilo mogoče preveriti.</string>
   <string name="httpErrorBadUrl">Strani ni mogoče odpreti ker povezava ni veljavna.</string>
-  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogočevzpostaviti.</string>
-  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogočevzpostaviti.</string>
+  <string name="httpErrorConnect">Povezave s strežnikom ni bilo mogoče vzpostaviti.</string>
+  <string name="httpErrorFailedSslHandshake">Varne povezave ni bilo mogoče vzpostaviti.</string>
   <string name="httpErrorFile">Do datoteke ni bilo mogoče dostopati.</string>
   <string name="httpErrorFileNotFound">Zahtevane datoteke ni bilo mogoče najti.</string>
   <string name="httpErrorIO">S strežnikom ni bilo mogoče komunicirati. Poskusite znova pozneje.</string>

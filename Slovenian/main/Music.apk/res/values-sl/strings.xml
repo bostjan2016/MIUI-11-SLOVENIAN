@@ -299,7 +299,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="dialog_insufficient_space_on_cache">Ne morem dokončati prenosa. Ni dovolj prostora v notranjem pomnilniku.</string>
   <string name="dialog_insufficient_space_on_external">Ne morem dokončati prenosa. Ni dovolj prostora v zunanjem pomnilniku.</string>
   <string name="dialog_media_not_found">Ne morem prenesti. Zunanji medij ni dostopen.</string>
-  <string name="dialog_not_show_again">"Ne prikazuj ponovno"</string>
+  <string name="dialog_not_show_again">"Ne kaži več"</string>
   <string name="dialog_queued_body">Ta datoteka je v čakalni vrsti za prenos.</string>
   <string name="dialog_show_more_backup">Shrani lokalne skladbe</string>
   <string name="dialog_show_more_optimize_all">"Optimiziraj informacije o skladbi"</string>
@@ -760,9 +760,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="nav_online_fm">Radio</string>
   <string name="nav_online_playlist">Seznam pesmi</string>
   <string name="network_error_and_retry">"Ne morem se povezati, tapnite za nov poskus"</string>
-  <string name="network_failure">Povezave z omrežjem ni mogočevzpostaviti</string>
-  <string name="network_request_error">"Povezave z omrežjem ni mogočevzpostaviti"</string>
-  <string name="network_settings_error">"Povezave z omrežjem ni mogočevzpostaviti"</string>
+  <string name="network_failure">Povezave z omrežjem ni mogoče vzpostaviti</string>
+  <string name="network_request_error">"Povezave z omrežjem ni mogoče vzpostaviti"</string>
+  <string name="network_settings_error">"Povezave z omrežjem ni mogoče vzpostaviti"</string>
   <string name="network_traffic">Uporaba podatkov</string>
   <string name="news_mark">NOVICE</string>
   <string name="next_time">Naslednjič</string>

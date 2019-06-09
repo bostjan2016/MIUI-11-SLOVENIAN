@@ -792,7 +792,7 @@ UT vmesnik: %5$s"</string>
     <string name="search_results_title">Nastavitve</string>
     <string name="search_settings">Iskanje</string>
     <string name="search_settings_no_results">Ni rezultatov</string>
-    <string name="search_settings_summary">Upravljaj nastavitve iskanja in zgodovine</string>
+    <string name="search_settings_summary">Urejaj iskanje nastavitev in zgodovine</string>
     <string name="security_dashboard_summary">Zaklepanje zaslona, prstni odtis</string>
     <string name="security_dashboard_summary_gms">Play Protect, zaklepanje zaslona, prstni odtis</string>
     <string name="security_dashboard_summary_gms_no_fingerprint">Play Protect, zaklepanje zaslona</string>
@@ -932,7 +932,7 @@ Več informacij v Googleovim "<a href="https://www.google.com/policies/privacy/"
     <string name="telephony_monitor_switch">Nadziranje telefonije</string>
     <string name="telephony_monitor_switch_summary">Opravilo Nadziranje telefonije pridobi dnevnike, ko zazna težavo z opravili telefonije/modema, in uporabnika z obvestilom pozove, naj prijavi napako.</string>
     <string name="telephony_monitor_toast">Če želite uveljaviti spremembo nadziranja telefonije, znova zaženite napravo</string>
-    <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogočevzpostaviti povezave z internetom prek mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
+    <string name="tether_settings_disabled_on_data_saver">Dokler je vklopljeno varčevanje s podatki, ni mogoče vzpostaviti povezave s spletom prek mobilnega telefona ali uporabljati prenosnih dostopnih točk.</string>
     <string name="tether_settings_summary_hotspot_off_tether_on">Internetna povezava prek telefona</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Dostopna točka je vklopljena</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, internetna povezava prek telefona</string>
@@ -1048,7 +1048,7 @@ Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli ve�
     <string name="vpn_always_on_summary_active">Vedno vklopljeno in aktivno</string>
     <string name="vpn_always_on_summary_not_supported">Ta aplikacija tega ne podpira</string>
     <string name="vpn_cant_connect_message">Ta aplikacija ne podpira stalno vklopljenega omrežja VPN.</string>
-    <string name="vpn_cant_connect_title">Z omrežjem VPN %1$s ni mogočevzpostaviti povezave.</string>
+    <string name="vpn_cant_connect_title">Z omrežjem VPN %1$s ni mogoče vzpostaviti povezave.</string>
     <string name="vpn_disconnected">Povezava z VPN je prekinjena</string>
     <string name="vpn_disconnected_summary">Brez</string>
     <string name="vpn_first_always_on_vpn_message">Če vklopite to nastavitev, ne boste imeli internetne povezave, dokler se ne vznastavi povezava z omrežjem VPN.</string>

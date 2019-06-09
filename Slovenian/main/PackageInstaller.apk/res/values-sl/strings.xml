@@ -556,7 +556,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
   <string name="remaining_length_format">Še %1$s</string>
   <string name="remove">Odstrani</string>
-  <string name="retail_demo_reset_message">Vnesite geslo za resetiranje v demo načinu</string>
+  <string name="retail_demo_reset_message">Vnesite geslo za ponastavitev v demo načinu</string>
   <string name="retail_demo_reset_next">Naprej</string>
   <string name="retail_demo_reset_title">Potrebno je geslo</string>
   <string name="review_button_cancel">Prekini</string>

@@ -519,7 +519,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="resource_search_color_hint_red">Rdeča</string>
   <string name="resource_search_color_hint_yellow">Rumena</string>
   <string name="resource_search_list_empty">"Nič nisem našel."</string>
-  <string name="resource_see_more">Poglej več</string>
+  <string name="resource_see_more">Pokaži več</string>
   <string name="resource_select">Izberi</string>
   <string name="resource_select_alarm_audio_confirm">Izberem ta zvok za obvestila?</string>
   <string name="resource_select_audio_confirm_picker">Izberem ta zvok?</string>

@@ -66,7 +66,7 @@
         <item quantity="other">"Izbrišem stvari: %d?
 Opomba: Datoteke bodo izbrisane tudi iz te naprave."</item>
         <item quantity="one">"Izbrišem %d stvar?
-Napomena: Datoteka bo izbrisana tudi iz te naprave."</item>
+Opomba: Datoteka bo izbrisana tudi iz te naprave."</item>
     </plurals>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Odstranim %d skladbe?</item>
@@ -74,7 +74,7 @@ Napomena: Datoteka bo izbrisana tudi iz te naprave."</item>
     </plurals>
 	<plurals name="dialog_remove_from_cloud_descript">
          <item quantity="other">Izbrišem %d pesmi iz Mi Clouda? Izbrisane bodo tudi iz lokalnega seznama predvajanja.</item>
-         <item quantity="one">Izbrisati %d pjesmu iz Mi Clouda? Izbrisane bodo tudi iz lokalnega seznama predvajanja</item>
+         <item quantity="one">Izbrisati %d pesem iz Mi Clouda? Izbrisane bodo tudi iz lokalnega seznama predvajanja</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Na seznam je dodano %d skladb</item>

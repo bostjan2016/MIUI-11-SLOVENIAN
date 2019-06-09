@@ -349,8 +349,8 @@ Uporabite priloženi polnilnik."</string>
   <string name="not_support_multi_window">"Trenutna aplikacija ne podpira način razdeljenega zaslona"</string>
   <string name="notification_header_title">Obvestila</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
-  <string name="notification_manager">Upravljaj obvestila</string>
-  <string name="notification_manager_des">Filtriraj in upravljaj obvestila</string>
+  <string name="notification_manager">Urejaj obvestila</string>
+  <string name="notification_manager_des">Filtriraj in urejaj obvestila</string>
   <string name="notification_otg_gamestick_in">Igralni kontroler je povezan</string>
   <string name="notification_otg_gamestick_out">Igralni kontroler ni povezan</string>
   <string name="notification_otg_keyboard_in">Tipkovnica je povezana</string>

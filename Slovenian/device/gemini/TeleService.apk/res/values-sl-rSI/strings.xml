@@ -1470,7 +1470,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="proceed">Nastavi</string>
   <string name="product_reflash_button">Osveži…</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina za povratni klic v sili</string>
-  <string name="propmpt_dialog_do_not_ask">Ne prikazuj ponovno</string>
+  <string name="propmpt_dialog_do_not_ask">Ne kaži več</string>
   <string name="propmpt_dialog_network_failed_title">potekel čas klica</string>
   <string name="propmpt_dialog_no_call_back_content">Povezovanje traja predolgo. Prestavljam na navaden klic, ki je lahko obračunan od ponudnika storitev.</string>
   <string name="propmpt_dialog_not_activate_sim_content">Potrdite svojo telefonsko številko da lahko začnete uporabljati paket doplačil. Še vedno lahko uporabite navaden klic, ki bo obračunan od ponudnika storitev.</string>
@@ -1947,7 +1947,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>
-  <string name="wifi_calling_use_call_assistant_summary">Naj aplikacije ali storitve upravljajo z omrežji uporabljenimi za klice</string>
+  <string name="wifi_calling_use_call_assistant_summary">Naj aplikacije ali storitve urejajo omrežja uporabljena za klice</string>
   <string name="wifi_connected_no_internet">Povezano, brez spleta</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a ni uspela</string>

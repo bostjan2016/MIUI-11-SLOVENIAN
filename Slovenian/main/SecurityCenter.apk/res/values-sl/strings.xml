@@ -893,7 +893,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dialog_roaming_apps_sorted_title">Razvrsti po</string>
   <string name="dialog_roaming_message">Aplikacije na seznamu dovoljenih se bodo lahko povezovale na podatkovne storitve v mednarodnem gostovanju. Dodam to aplikacijo na seznam dovoljenih?</string>
   <string name="dialog_roaming_title">Gostovanje</string>
-  <string name="dialog_roaming_warning_checkbox">"Ne prikazuj ponovno"</string>
+  <string name="dialog_roaming_warning_checkbox">"Ne kaži več"</string>
   <string name="dialog_roaming_warning_message">Po vklopu podatkovnega gostovanja vam bo operater zaračunal nadomestilo. Vključim vseeno?</string>
   <string name="dialog_roaming_warning_ok">Vključi</string>
   <string name="dialog_title_attention">Pozor</string>
@@ -1947,7 +1947,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_callwait">Vključeno</string>
   <string name="open_game">Odpri</string>
-  <string name="open_now">Dovoli aplikacijam uporabo mobilnih podatkov</string>
+  <string name="open_now">Dovoli aplikaciji uporabo mobilnih podatkov</string>
   <string name="operator_diagnostic">Diagnostika operaterja</string>
   <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
@@ -2073,7 +2073,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pm_auto_start_by_other">Aktivirani zagon</string>
   <string name="pm_auto_start_by_other_app">Dovoliti aplikaciji da bo zagnana s strani druge aplikacije	</string>
   <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
-  <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samodejni zagon</string>
+  <string name="pm_auto_start_by_system_event">Dovoli aplikaciji samodejni zagon</string>
   <string name="pm_auto_start_proc_is_running">Zagnano</string>
   <string name="pm_remember_choice">Zapomni si</string>
   <string name="pm_root_success_notification_infomation">Prepričajte se da razumete tveganja okoli ROOT dostopa</string>
@@ -2304,7 +2304,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_check_network_diagnostics">"Test spletne povezave naprave"</string>
   <string name="pref_confirm_operator_setting">Preverite pravilnost vnešenih informacij</string>
   <string name="pref_connect_settings_enable_background">Dovoli podatke v ozadju</string>
-  <string name="pref_connect_settings_enable_background_hint">"Dovoli aplikacijam uporabo mobilnih podatkov ko jih ne uporabljate"</string>
+  <string name="pref_connect_settings_enable_background_hint">"Dovoli aplikaciji uporabo mobilnih podatkov ko jih ne uporabljate"</string>
   <string name="pref_connect_settings_exceed_limit">Omeji porabo podatkov</string>
   <string name="pref_connect_settings_exceed_limit_hint">Izključi podatkovno povezavo ko poraba podatkov doseže omejitev</string>
   <string name="pref_content_virus_white_list_none">Ni predmetov</string>

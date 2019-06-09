@@ -740,7 +740,7 @@ hitrost vzorčenja"</string>
   <string name="connect_disconnect_vibrate_summary">Vibriraj ko se oseba ki jo kličete oglasi</string>
   <string name="connect_disconnect_vibrate_title">Vibriraj ko je vaš klic sprejet</string>
   <string name="connect_disconnect_vibrate_weak">Rahlo</string>
-  <string name="connect_later">S tem omrežjem trenutno ni mogočevzpostaviti povezave. Poskusite znova pozneje.</string>
+  <string name="connect_later">S tem omrežjem trenutno ni mogoče vzpostaviti povezave. Poskusite znova pozneje.</string>
   <string name="connected_via_carrier">Povezano preko omrežja %1$s</string>
   <string name="connected_via_network_scorer">Samodejno povezan preko %1$s</string>
   <string name="connected_via_network_scorer_default">Samodejno povezan preko ocenjevalca omrežja</string>
@@ -1815,7 +1815,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
-    <string name="private_dns_mode_provider_failure">Povezave ni bilo mogočevzpostaviti</string>
+    <string name="private_dns_mode_provider_failure">Povezave ni bilo mogoče vzpostaviti</string>
     <string name="private_dns_mode_provider_hostname_hint">Vnesite ime gostitelja pri ponudniku strežnika DNS</string>
   <string name="private_num">Zasebna številka</string>
   <string name="proceed">Nadaljuj</string>
@@ -1933,7 +1933,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="response_error">Nepričakovan odziv iz omrežja.</string>
   <string name="restaurants_disable">Restavracije so izklopljene</string>
   <string name="restaurants_enable">Restavracije so vklopljene</string>
-  <string name="retail_demo_reset_message">Vnesite zaporku za resetiranje v demo načinu</string>
+  <string name="retail_demo_reset_message">Vnesite zaporku za ponastavitev v demo načinu</string>
   <string name="retail_demo_reset_next">Naprej</string>
   <string name="retail_demo_reset_title">Potrebno je geslo</string>
   <string name="retail_directory_disable">Maloprodajni imenik je izključen</string>
@@ -2465,7 +2465,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>
-  <string name="wifi_calling_use_call_assistant_summary">Naj aplikacije ali storitve upravljajo z omrežji uporabljenimi za klice</string>
+  <string name="wifi_calling_use_call_assistant_summary">Naj aplikacije ali storitve urejajo omrežja uporabljena za klice</string>
   <string name="wifi_cant_connect">Povezovanje ni uspelo</string>
   <string name="wifi_cant_connect_to_ap">Povezovanje z aplikacijo \"%1$s\" ni uspelo</string>
   <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>

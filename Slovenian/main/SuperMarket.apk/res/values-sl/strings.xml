@@ -75,7 +75,7 @@
   <string name="delete_download">Izbriši</string>
   <string name="delta_update">Delta posodobitev %1$s</string>
   <string name="description_info">Opis</string>
-  <string name="developer_button">Poglej več</string>
+  <string name="developer_button">Pokaži več</string>
   <string name="diagnostics_btn_processing">Obdelujem…</string>
   <string name="diagnostics_btn_start">Začnite diagnostiko</string>
   <string name="diagnostics_btn_upload">Pošlji zapis</string>

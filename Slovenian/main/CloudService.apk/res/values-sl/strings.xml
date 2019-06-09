@@ -79,7 +79,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="error_data_in_transfer">Sinhronizacija se bo zaključila v %s urah.</string>
   <string name="error_data_in_transfer_title">Mi Cloud ni na voljo</string>
   <string name="error_forbidden">Sinhronizacija je onemogočena zaradi težav z vašim Mi računom.</string>
-  <string name="error_network">"Povezave ni mogočevzpostaviti"</string>
+  <string name="error_network">"Povezave ni mogoče vzpostaviti"</string>
   <string name="error_not_acceptable">Sinhronizacija je onemogočena.</string>
   <string name="error_server">Napaka strežnika</string>
   <string name="error_title">"Ni mogoče sinhronizirati"</string>
@@ -162,7 +162,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="ks_update_wait">Samo trenutek…</string>
   <string name="last_sync_time_just_now">Prav zdaj</string>
   <string name="last_sync_time_yesterday">Včeraj</string>
-  <string name="license_host_unreachable">"Povezave ni mogočevzpostaviti. Da boste lahko videli podatke pojdite na %s."</string>
+  <string name="license_host_unreachable">"Povezave ni mogoče vzpostaviti. Da boste lahko videli podatke pojdite na %s."</string>
   <string name="loading">Nalagam…</string>
   <string name="loading_hint">Nalagam</string>
   <string name="master_alert_notif_content">"Ne morem sinhronizirati"</string>

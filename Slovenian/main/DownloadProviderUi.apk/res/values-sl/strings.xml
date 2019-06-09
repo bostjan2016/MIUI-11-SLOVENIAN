@@ -294,7 +294,7 @@
   <string name="remove_download">Prekini</string>
   <string name="restart_download">Zaženi znova</string>
   <string name="resume_download">Nadaljuj</string>
-  <string name="retry_after_network_available">Povezave ni mogočevzpostaviti. Preverite povezavo 
+  <string name="retry_after_network_available">Povezave ni mogoče vzpostaviti. Preverite povezavo 
   in poskusite znova.</string>
   <string name="retry_download">Poskusi ponovno</string>
   <string name="revert_default">Vračanje privzetih nastavitev</string>
@@ -418,7 +418,7 @@
   <string name="test_speed_detail">Podrobnosti</string>
   <string name="test_speed_please">Tapni za testiranje hitrosti…</string>
   <string name="test_speed_result">Rezultat testiranja</string>
-  <string name="text_showmore_infoflow">Poglej več virov</string>
+  <string name="text_showmore_infoflow">Pokaži več virov</string>
   <string name="third_web_cancel">Prekini</string>
   <string name="third_web_confirm">V redu</string>
   <string name="third_web_default">Zapomni si lokacijo</string>

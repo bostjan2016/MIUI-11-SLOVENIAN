@@ -3080,7 +3080,7 @@ Na tej napravi je več uporabnikov.
   <string name="proxy_settings_title">Proxy</string>
   <string name="proxy_url_title">"URL datoteke PAC: "</string>
   <string name="proxy_warning_limited_support">Proxy HTTP lahko uporablja brskalnik druge aplikacije pa ne.</string>
-  <string name="query_hint_text">Nastavitve iskanja</string>
+  <string name="query_hint_text">Iskanje nastavitev</string>
   <string name="quick_launch_assign_application">Dodeli aplikaciji</string>
   <string name="quick_launch_clear_cancel_button">Prekliči</string>
   <string name="quick_launch_clear_dialog_message">Vaša bližnjica za %1$s (%2$s) bo izbrisana.</string>
@@ -3451,7 +3451,7 @@ Uporaba pripenjanja:
   <string name="search_copyright">Avtorske pravice</string>
   <string name="search_credentials_install">Namesti iz pomnilnika</string>
   <string name="search_date_time">Datum &amp; čas</string>
-  <string name="search_description">"Nastavitve iskanja"</string>
+  <string name="search_description">"Iskanje nastavitev"</string>
   <string name="search_development_settings">Možnosti za razvijalce, Assist</string>
   <string name="search_device_name">Ime naprave</string>
   <string name="search_device_status">Status</string>
@@ -3475,7 +3475,7 @@ Uporaba pripenjanja:
   <string name="search_gesture_wakeup_title">Dvakrat tapnite zaslon za bujenje;Dvakrat tapnite za bujenje;bujenje zaslona;Dvakrat tapnite zaslon;Dvakrat tapnite</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">delo z eno roko</string>
-  <string name="search_hint">Nastavitve iskanja</string>
+  <string name="search_hint">Iskanje nastavitev</string>
   <string name="search_home_key">Začetna</string>
   <string name="search_key">Tipke;Tipke</string>
   <string name="search_lab_functions_title">Beta opravila,Lab opravila</string>
@@ -3537,7 +3537,7 @@ Uporaba pripenjanja:
   <string name="search_security_passwords_title">Geslo;Zakl. zaslona;PIN;Vzorec</string>
   <string name="search_security_settings">Nastavitve zasebnosti</string>
   <string name="search_settings">Iskanje</string>
-  <string name="search_settings_summary">Urejaj nastavitve iskanja in zgodovine</string>
+  <string name="search_settings_summary">Urejaj iskanje nastavitev in zgodovine</string>
   <string name="search_slot_status_title">IMEI informacije</string>
   <string name="search_sms_delivered_sound_title">Sporočilo dostavljeno</string>
   <string name="search_sms_received">sms prejet</string>
@@ -5005,7 +5005,7 @@ WiFi Assistant"</string>
   <string name="wifi_setting_sleep_policy_title">Ohrani povezavo WiFi med spanjem</string>
   <string name="wifi_settings">WiFi</string>
   <string name="wifi_settings_category">Nastavitve za WiFi</string>
-  <string name="wifi_settings_summary">Nastavi in upravljaj brezžične dostopne točke</string>
+  <string name="wifi_settings_summary">Nastavi in urejaj brezžične dostopne točke</string>
   <string name="wifi_settings_title">WiFi</string>
   <string name="wifi_setup_add_network">Dodaj omrežje</string>
   <string name="wifi_setup_back">Nazaj</string>

@@ -97,7 +97,7 @@
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
   <string name="screen_rotation_freeze_message">Samodejna obračanje je onemogočeno.</string>
   <string name="screenshot_gesture_detect_alert_button">Vključi v Nastavitvah</string>
-  <string name="screenshot_gesture_detect_alert_dont_again">"Ne prikazuj ponovno"</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">"Ne kaži več"</string>
   <string name="screenshot_gesture_detect_alert_msg">Povleči navzdol s 3 prsti za izdelavo posnetka zaslona?</string>
   <string name="screenshot_gesture_detect_alert_title">Posnetek zaslona s 3 prsti</string>
   <string name="security_permission_denied_text">Dostop zavrnjen</string>

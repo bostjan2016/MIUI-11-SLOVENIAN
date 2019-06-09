@@ -663,7 +663,7 @@
   <string name="net_check_title">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovo.</string>
   <string name="network_error">Ni povezave</string>
   <string name="network_invaild">"Ne morem se povezati z omrežjem"</string>
-  <string name="network_not_available">Povezave ni mogočevzpostaviti</string>
+  <string name="network_not_available">Povezave ni mogoče vzpostaviti</string>
   <string name="network_tip">Kontrola prepoznave ni uspela, preverite omrežno povezavo</string>
   <string name="network_try_again">Preverite omrežje</string>
   <string name="network_unavailable">Omrežje ni na voljo</string>

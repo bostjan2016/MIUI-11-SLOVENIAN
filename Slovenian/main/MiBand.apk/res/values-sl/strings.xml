@@ -436,7 +436,7 @@ Vseeno nadaljujem?"</string>
   <string name="hr_delete_title">Izbrišem ta zapis?</string>
   <string name="hr_dialog_ble">Imejte Mi Band povezan z vašo napravo preko Bluetootha</string>
   <string name="hr_dialog_go">Začni</string>
-  <string name="hr_dialog_not_hint">"Ne prikazuj ponovno"</string>
+  <string name="hr_dialog_not_hint">"Ne kaži več"</string>
   <string name="hr_dialog_pace">Povežite Mi Band za prikaz tempa</string>
   <string name="hr_dialog_title">Spremljajte kako se vaše število utripov srca spreminja med sejo</string>
   <string name="hr_dialog_wear">Mi Band tesno pripnite da povečate točnost podatkov</string>
@@ -726,7 +726,7 @@ razpona merjenja (%s)"</string>
   <string name="mutex_login_title">Offline obvestila</string>
   <string name="name">Vzdevek</string>
   <string name="network_error">Najprej se povežite na omrežje</string>
-  <string name="never_reminder">"Ne prikazuj ponovno"</string>
+  <string name="never_reminder">"Ne kaži več"</string>
   <string name="new_user">Nov profil</string>
   <string name="next_step">Nazaj</string>
   <string name="no_bind_canot_analy">"Ne morem analizirati spanja dokler Mi Band ni seznanjen"</string>
@@ -739,7 +739,7 @@ razpona merjenja (%s)"</string>
   <string name="no_network_connection">"Ne morem se povezati na omrežje"</string>
   <string name="no_network_connection_retry">Pritisnite za osveži</string>
   <string name="no_sleep_data">Ni podatkov spanja</string>
-  <string name="no_tip">&lt;u&gt;"Ne prikazuj ponovno"&lt;/u&gt;</string>
+  <string name="no_tip">&lt;u&gt;"Ne kaži več"&lt;/u&gt;</string>
   <string name="not_connect_network">Niste povezani z omrežjem</string>
   <string name="not_restore">"Ne obnavljaj"</string>
   <string name="not_set">N/A</string>

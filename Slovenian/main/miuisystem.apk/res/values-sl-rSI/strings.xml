@@ -24,7 +24,7 @@
   <string name="cold_dews"/>
   <string name="cta_button_continue">Strinjam se</string>
   <string name="cta_button_quit">Izhod</string>
-  <string name="cta_check_reminder">"Ne prikazuj ponovno"</string>
+  <string name="cta_check_reminder">"Ne kaži več"</string>
   <string name="cta_message_license">Z uporabo tega proizvoda, se strinjate s pogoji navedenimi v naših Pogoji uporabe in Pravili o zasebnosti.</string>
   <string name="cta_message_permission">Ta aplikacija mora %2$s delati normalno.</string>
   <string name="cta_permission_and"> in </string>

@@ -180,7 +180,7 @@ Prestavi na GSM za %1$d sek…"</string>
   <string name="voip_free_voice_tip">Brezplačen voip klic</string>
   <string name="voip_gsm_online">"VoIP klic ni mogoč, dokler je v uporabi GSM"</string>
   <string name="voip_hang_up_mic_failed">"Mikrofon ni dostopen, preverite dovoljenja in se prepričajte da ni zaseden s strani druge aplikacije"</string>
-  <string name="voip_incall">"Voip klic ni mogočevzpostaviti dokler traja VoIP klic, kličite kasneje"</string>
+  <string name="voip_incall">"Voip klic ni mogoče vzpostaviti dokler traja VoIP klic, kličite kasneje"</string>
   <string name="voip_incoming_from_friend">Voip dohodni od %1$s</string>
   <string name="voip_loading_contact">Samo trenutek…</string>
   <string name="voip_network_not_online">Ni signala omrežja</string>

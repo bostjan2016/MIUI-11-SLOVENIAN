@@ -1071,7 +1071,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="qrcode_detail_menu_scan">Skeniraj</string>
   <string name="qrcode_editor_flash">QR koda posodobljena</string>
   <string name="qrcode_editor_flash_failed">Ne morem posodobiti QR kode"</string>
-  <string name="quickcontact_missing_app">Ni aplikacije ki bi upravljaja to opravilo</string>
+  <string name="quickcontact_missing_app">Ni aplikacije ki bi naredila to opravilo</string>
   <string name="quit_dialog_confirm_message">"Niste dodali nobenega stika"</string>
   <string name="quit_dialog_confirm_title">Opusti združevanje</string>
   <string name="rcs_app_name">Mini aplikacija</string>
@@ -1383,13 +1383,13 @@ Napravite varnostno kopijo stikov."</string>
   <string name="yellowpage_navigation_search_history">Zgodovina</string>
   <string name="yellowpage_navigation_search_offline_hint">Niste povezani v omrežje</string>
   <string name="yellowpage_navigation_search_result_average_price">Povprečno %d RMB</string>
-  <string name="yellowpage_navigation_search_result_network_error">Povezave ni mogočevzpostaviti. Preverite povezavo in poskusite znova.</string>
+  <string name="yellowpage_navigation_search_result_network_error">Povezave ni mogoče vzpostaviti. Preverite povezavo in poskusite znova.</string>
   <string name="yellowpage_navigation_search_result_no_more">Ni več rezultatov</string>
   <string name="yellowpage_navigation_search_result_service_error">Storitev ni na voljo</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Neznana napaka</string>
   <string name="yellowpage_navigation_search_select_city">Izberite mesto</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Prenašam...</string>
-  <string name="yellowpage_navigation_send_to_desktop_failed">Povezave ni mogočevzpostaviti. Preverite povezavo in poskusite znova.</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Povezave ni mogoče vzpostaviti. Preverite povezavo in poskusite znova.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na začetni zaslon</string>
   <string name="yellowpage_search_the_yellowpage">Preišči Rumene strani</string>
   <string name="yellowpage_user_profile">Profil</string>

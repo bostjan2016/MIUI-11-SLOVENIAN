@@ -254,7 +254,7 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="never">Nikoli</string>
   <string name="new_backup">Izdelaj var. kopijo</string>
   <string name="no_encrypt_password">Brez gesla</string>
-  <string name="no_network">Povezave ni mogočevzpostaviti</string>
+  <string name="no_network">Povezave ni mogoče vzpostaviti</string>
   <string name="note_title">Opombe</string>
   <string name="nothing_searched">Ni zadetkov</string>
   <string name="notif_backup_complete_title">Var. kopija uspešno dokončana</string>
