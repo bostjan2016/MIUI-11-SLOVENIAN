@@ -1269,7 +1269,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Omogoči izbirne kodeke</item>
-        <item>Onemogoči izbirne kodeke</item
+        <item>Onemogoči izbirne kodeke</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
          <item>Naj izbere sistem (Privzeto)</item>
