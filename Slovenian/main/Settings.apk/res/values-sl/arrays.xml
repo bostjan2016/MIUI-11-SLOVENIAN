@@ -861,7 +861,7 @@
         <item>Lastno</item>
     </string-array>
 	<string-array name="screen_resolution_entries">
-        <item>Ultrahigh (2K)</item>
+        <item>Ultravisoko (2K)</item>
         <item>Normalno (720P)</item>
     </string-array>
 	<string-array name="wifi_ssid_type_entries">
@@ -1121,25 +1121,25 @@
      </string-array>
 	      <string-array name="select_logd_size_lowram_titles">
         <item>Izključeno</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
      </string-array>
      <string-array name="select_logd_size_summaries">
         <item>Izključeno</item>
-        <item>64 KB na medpomnilnik</item>
-        <item>256 KB na medpomnilnik</item>
-        <item>1 MB na medpomnilnik</item>
-        <item>4 MB na medpomnilnik</item>
-        <item>16 MB na medpomnilnik</item>
+        <item>64K na medpomnilnik</item>
+        <item>256K na medpomnilnik</item>
+        <item>1M na medpomnilnik</item>
+        <item>4M na medpomnilnik</item>
+        <item>16M na medpomnilnik</item>
      </string-array>
      <string-array name="select_logd_size_titles">
         <item>Izključeno</item>
-        <item>64 KB</item>
-        <item>256 KB</item>
-        <item>1 MB</item>
-        <item>4 MB</item>
-        <item>16 MB</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
      </string-array>
 	 <string-array name="select_logd_system_levels">
         <item>Izključeno</item>
