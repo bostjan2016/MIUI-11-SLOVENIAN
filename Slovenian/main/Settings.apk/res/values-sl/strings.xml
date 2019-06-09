@@ -6183,7 +6183,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="share_this_wifi">Podaljšan WiFi domet</string>
   <string name="sharing_remote_bugreport_dialog_message">To poročilo o programski napaki je v skupni rabi z vašim IT skrbnikom. Več podrobnisti lahko izveste od skrbnika.</string>
     <string name="short_summary_font_size">Pomanjšava ali povečava besedila</string>
-    <string name="show_all_anrs">Pokaži ANR-je v ozadju</string>
+    <string name="show_all_anrs">Pokaži ANR v ozadju</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
     <string name="show_all_apps">Prikaz vseh podatkov o uporabi naprave</string>
   <string name="show_background_processes">Pokaži predpom. procese</string>

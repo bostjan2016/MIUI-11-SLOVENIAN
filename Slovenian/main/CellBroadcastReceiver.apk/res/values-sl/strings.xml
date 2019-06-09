@@ -422,7 +422,7 @@ Izbor"</string>
     <string name="select_webview_provider_dialog_title">Nastavitev izvedbe spletnega pogleda</string>
     <string name="select_webview_provider_title">Izvedba spletnega pogleda</string>
     <string name="select_webview_provider_toast_text">Ta izbira ni več veljavna. Poskusite znova.</string>
-    <string name="show_all_anrs">Pokaži ANR-je v ozadju</string>
+    <string name="show_all_anrs">Pokaži ANR v ozadju</string>
     <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacij v ozadju</string>
     <string name="show_cmas_opt_out_summary">Po prikazu prvega opozorila (ki ni predsedniško opozorilo) pokaži pogovorno okno za onemogočenje.</string>
     <string name="show_cmas_opt_out_title">Pokaži pogovorno okno za onemogočenje</string>

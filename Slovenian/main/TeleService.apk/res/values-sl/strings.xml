@@ -2019,7 +2019,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="setting_duration_other_prompt">"Za mednarodne cene klicev preverite "</string>
   <string name="setting_duration_title">Preostali čas</string>
   <string name="settings_label">Omrežne nastavitve</string>
-  <string name="show_all_anrs">Prikaži vse ANR-je</string>
+  <string name="show_all_anrs">Prikaži vse ANR</string>
   <string name="show_all_anrs_summary">Prikaz sporočil o izvajanju aplk. v ozadju ki ne odgovarja</string>
   <string name="show_cpu_usage">Prikaži porabo procesorja</string>
   <string name="show_cpu_usage_summary">Povzetek porabe procesorja</string>

@@ -283,12 +283,12 @@
   <string name="select_webview_provider_dialog_title">Nastavi implementacijo WebViewa</string>
   <string name="select_webview_provider_title">Implementacija WebViewa</string>
   <string name="select_webview_provider_toast_text">Ta izbira ni več veljavna. Poskusite ponovno.</string>
-  <string name="show_all_anrs">Prikaži sve ANR-je</string>
-  <string name="show_all_anrs_summary">Prikaz dijaloga o apl. v ozadju ki ne odgovarja</string>
+  <string name="show_all_anrs">Prikaži vse ANR</string>
+  <string name="show_all_anrs_summary">Prikaz dialoga o apl. v ozadju ki ne odgovarja</string>
   <string name="show_hw_layers_updates">Prikaži posodobitve strojnih slojev</string>
   <string name="show_hw_layers_updates_summary">Strojni sloji pri posodobitvi utripajo zeleno.</string>
   <string name="show_hw_screen_updates">Prikaži posd. GPU prikaza</string>
-  <string name="show_hw_screen_updates_summary">Utripanje prikaza v oknih pri risanju GPU-om</string>
+  <string name="show_hw_screen_updates_summary">Utripanje prikaza v oknih pri risanju GPU</string>
   <string name="show_non_rect_clip">Odstrani napake operacij nepravokotnega izseka</string>
   <string name="show_screen_updates">Prikaži posod. površine</string>
   <string name="show_screen_updates_summary">Površina okna utripa pri posodobitvi.</string>
