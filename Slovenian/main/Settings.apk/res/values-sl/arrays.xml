@@ -1261,24 +1261,26 @@
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Izbira sistema (privzeto)</item>
+        <item>Naj izbere sistem (Privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD avdio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Omogočanje izbornih kodekov</item>
-        <item>Onemogočanje izbornih kodekov</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Omogoči izbirne kodeke</item>
+        <item>Onemogoči izbirne kodeke</item
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Izbira sistema (privzeto)</item>
+         <item>Naj izbere sistem (Privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
-        <item>Qualcomm® aptX™ HD avdio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-        <item>Omogočanje izbornih kodekov</item>
-        <item>Onemogočanje izbornih kodekov</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Omogoči izbirne kodeke</item>
+        <item>Onemogoči izbirne kodeke</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
