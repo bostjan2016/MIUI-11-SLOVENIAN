@@ -6,8 +6,9 @@
          <item>"Ta mesec "</item>
      </string-array>
 	  <string-array name="date_of_traffic">
-         <item>"Včeraj "</item>
+	     <item>"Včeraj "</item>
          <item>"Danes "</item>
+         <item>"Prejšnji mesec "</item>
          <item>"Ta mesec "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
@@ -16,22 +17,20 @@
          <item>"Ta mesec "</item>
      </string-array>
 	  <string-array name="date_of_traffic_prefix">
-         <item>"Včeraj: "</item>
-         <item>"Danes: "</item>
-         <item>"Ta mesec: "</item>
+	    <item>"Včeraj: "</item>
+        <item>"Danes: "</item>
+        <item>"Prejšnji mesec: "</item>
+        <item>"Ta mesec: "</item>
      </string-array>
      <string-array name="date_of_app_all">
-         <item>Včeraj (podatki)</item>
+	     <item>Včeraj (podatki)</item>
          <item>Danes (podatki)</item>
+         <item>Prejšnji mesec (podatki)</item>
          <item>Ta mesec (podatki)</item>
-         <item>Včeraj WiFi</item>
-         <item>Danes WiFi</item>
-         <item>Ta mesec WiFi</item>
-     </string-array>
-     <string-array name="date_of_app">
-         <item>Včeraj (podatki)</item>
-         <item>Danes (podatki)</item>
-         <item>Ta mesec (podatki)</item>
+         <item>Včeraj (WiFi)</item>
+         <item>Danes (WiFi)</item>
+         <item>Prejšnji mesec (WiFi)</item>
+		 <item>Ta mesec (WiFi)</item>
      </string-array>
 	 <string-array name="network_speed_update_internals">
         <item>3 sek.</item>
