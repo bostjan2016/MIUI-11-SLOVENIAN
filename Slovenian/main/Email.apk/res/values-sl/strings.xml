@@ -894,7 +894,7 @@ Poskusite z ostalo pošto."</string>
   <string name="read_string">pogovor prebran</string>
   <string name="recent_folders_heading">Nedavne mape</string>
   <string name="recipient_needed">Dodaj vsaj 1 prejemnika.</string>
-  <string name="recipient_needed_title">Upozori</string>
+  <string name="recipient_needed_title">Opozorilo</string>
   <string name="recipient_null_dialog_title">Opozorilo</string>
   <string name="reduce_the_receiving_frequencye_summary">Manj pogosto sinhr. prejeto pošto ko je vključeno "Ne moti"</string>
   <string name="reduce_the_receiving_frequencye_title">Sinhr. manj pogosto</string>

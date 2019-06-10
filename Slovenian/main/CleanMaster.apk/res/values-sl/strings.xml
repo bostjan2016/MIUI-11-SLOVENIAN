@@ -390,6 +390,12 @@
   <string name="news_change">Zamenjaj</string>
   <string name="no_network">"Ne morem se povezati na omrežje, poskusite ponovno kasneje"</string>
   <string name="no_network_btn">Poskusite ponovno</string>
+  <string name="notification_garbage_cleanup_summary">Dosežena je velikost smeti %s</string>
+  <string name="notification_garbage_cleanup_title">Očisti datoteke smeti</string>
+  <string name="notification_low_memory_cache_summary">Na voljo manj kot 1,5 GB prostora za shranjevanje</string>
+  <string name="notification_low_memory_cache_title">Očisti predpomnilnik</string>
+  <string name="notification_low_memory_deepclean_summary">Globinsko čiščenje lahko osvobodi prostor za shranjevanje v vaši napravi</string>
+  <string name="notification_low_memory_deepclean_title">Premalo prostora za shranjevanje</string>
   <string name="notification_summary_after_auto_cleanup">Očiščeno %s.</string>
   <string name="notification_summary_of_garbage_cleanup">Pritisnite za sprostitev prostora.</string>
   <string name="notification_title_of_garbage_cleanup">%s datotek smeti</string>

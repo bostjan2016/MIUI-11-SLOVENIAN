@@ -26,9 +26,6 @@
   <string name="battery_stats_wake_lock_label">Budnost</string>
   <string name="battery_stats_wifi_running_label">WiFi</string>
   <string name="cpu_usage_android_system">Android sistem</string>
-  <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
-  <string name="create_table_oaid">CREATE TABLE OAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, oaid TEXT NOT NULL );</string>
-  <string name="create_table_vaid">CREATE TABLE VAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, vaid TEXT NOT NULL );</string>
   <string name="details_subtitle">Uporabi podrobnosti</string>
   <string name="enter_gamemode_tip">Odpiram igro…</string>
   <string name="firewall_network_allow">%1$s dovoljena uporaba %2$s povezave</string>
@@ -47,8 +44,6 @@
   <string name="menu_item_uninstall">Odstrani</string>
   <string name="packages_subtitle">Vključno paketi</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
-  <string name="percent_formatted_text">%s%%</string>
-  <string name="percentage">%d%%</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_cell">Stanje pripravljenosti</string>
   <string name="power_center_title">Moč</string>

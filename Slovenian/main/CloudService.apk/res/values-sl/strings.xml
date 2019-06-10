@@ -409,6 +409,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_request_permission_confirm">Razumem</string>
   <string name="micloud_request_permission_content">Mi Cloud potrebuje dovoljenje za sinhronizacijo podatkov. Dovolite Mi Cloudu dostop do Koledarja, Stikov, Mi Računa, statusa SIM kartice, zgodovine klicev in sporočil.</string>
   <string name="micloud_request_permission_title">Mi Cloud potrebuje dovoljenje</string>
+  <string name="micloud_request_sync_too_frequent">Preveč zahtev. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="micloud_sec_dspt">in deli stvari s prijatelji.</string>
   <string name="micloud_setting_antispam_summary">Izjeme in blokirane številke telefona.</string>
   <string name="micloud_setting_browser_summary">Oznake, zgodovina in zavihki</string>
@@ -589,6 +590,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_sub_1_sms_1_intl_sms">Vaš operater vam bo zaračunal 1 domač in 1 mednarodni SMS uporabljena za aktivacijo te storitve.</string>
   <string name="sync_sub_2_intl_sms">Za vklop te storitve bosta lahko potrebna 2 mednarodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
   <string name="sync_sub_2_sms">Za vklop te storitve bosta mogoče potrebna dva odhodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
+  <string name="system_busy_or_network_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="sync_sub_dspt">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktivacijo te storitve.</string>
   <string name="sync_sub_dspt_provision">Sinhronizacija slik, stikov, glasbe, aplikacij in ostalega na vse vaše naprave</string>
   <string name="sync_sub_int_dspt">Vaš operater vam bo zaračunal mednarodni SMS ki bo mogoče potreben za vklop te storitve.</string>
@@ -617,6 +619,7 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="user_detail_agreement">Pogoji uporabe</string>
   <string name="user_detail_privacy_policy">Pravila o zasebnosti</string>
   <string name="user_storage_info_available_text_prefix">%s na voljo</string>
+  <string name="waiting_for_sync">Čakanje…</string>
   <string name="warning_bar_action_add_short_cut">Dodaj</string>
   <string name="warning_bar_action_close">Zapri</string>
   <string name="warning_bar_action_turn_on_master_sync">Vključi</string>

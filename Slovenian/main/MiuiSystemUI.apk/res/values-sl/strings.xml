@@ -1166,6 +1166,8 @@ Poskusite ponovno čez %d sek."</string>
   <string name="lockscreen_storage_locked">Odkleni za vse storitve in podatke</string>
     <string name="lockscreen_unlock_left">Levo bližnjico uporabi tudi za odklepanje</string>
     <string name="lockscreen_unlock_right">Desno bližnjico uporabi tudi za odklepanje</string>
+  <string name="long_screenshot_guide_text">"Tapnite za izdelavo pomičnega
+posnetka zaslona"</string>
   <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podpira daljših posnetkov zaslona."</string>
   <string name="long_screenshot_out_of_memory_error">Velikost slike je prevelika</string>
   <string name="long_screenshot_processing">Obdelava...</string>
