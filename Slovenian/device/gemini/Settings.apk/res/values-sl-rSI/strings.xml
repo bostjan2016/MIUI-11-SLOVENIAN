@@ -3664,7 +3664,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="security_settings_fingerprint_preference_summary_none"/>
   <string name="security_settings_fingerprint_preference_title">Prstni odtis</string>
   <string name="security_settings_premium_sms_desc">Pošlji SMS za plačljive storitve</string>
-  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartica SIM, zaklepanje shrambe poverilnic</string>
+  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartic SIM, zaklepanje shrambe poverilnic</string>
   <string name="security_settings_title">Varnost</string>
   <string name="see_all">Pokaži vse</string>
   <string name="see_less">Pokaži manj</string>
@@ -3810,8 +3810,8 @@ Morda je koda PIN napačna."</string>
   <string name="sim_lock_off">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_on">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_settings">Nastavitve zaklepanja kartica SIM</string>
-  <string name="sim_lock_settings_category">Nastavi zaklepanje kartica SIM</string>
-  <string name="sim_lock_settings_title">Zaklepanje kartica SIM</string>
+  <string name="sim_lock_settings_category">Nastavi zaklepanje kartic SIM</string>
+  <string name="sim_lock_settings_title">Zaklepanje kartic SIM</string>
   <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>

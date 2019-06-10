@@ -772,7 +772,7 @@ za fotografije"</string>
   <string name="image_not_found">"Ne najdem slike"</string>
   <string name="image_quota_fulfiled">Preveč slik. Izbrišite nekaj slik in poskusite ponovno.</string>
   <string name="image_selection_summary">MIUI bo analiziral podobne fotografije in označil najboljše za vas. Izključite to, če hočete odstraniti oznake iz fotografij.</string>
-  <string name="image_selection_title">Izaberite najbolšo fotografijo</string>
+  <string name="image_selection_title">Izaberite najboljšo fotografijo</string>
   <string name="image_with_time">Fotografija je posneta %s</string>
   <string name="image_with_time_and_location">Fotografija je posneta %1$s. Lokacija: %2$s.</string>
   <string name="impunity_declaration_settings">Obvestila spletne povezave</string>

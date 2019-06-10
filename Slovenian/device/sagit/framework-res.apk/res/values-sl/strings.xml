@@ -329,7 +329,7 @@ s številko %s"</string>
     <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
     <string name="emergency_calls_only">Le klici v sili</string>
   <string name="emptyPhoneNumber">(Ni telefonske številke)</string>
-    <string name="enablePin">Ni uspelo. Omogočite zaklepanje kartica SIM/RUIM.</string>
+    <string name="enablePin">Ni uspelo. Omogočite zaklepanje kartic SIM/RUIM.</string>
   <string name="enable_accessibility_canceled">Omogočanje pripomočkov za ljudi s posebnimi potrebami preklicano.</string>
     <string name="enable_explore_by_touch_warning_message">Storitev %1$s želi omogočiti raziskovanje z dotikom. Ko je raziskovanje z dotikom vklopljeno, lahko slišite ali vidite opise tega, kar je pod vašim prstom, ali izvajate poteze za interakcijo s telefonom.</string>
     <string name="enable_explore_by_touch_warning_title">Vklop raziskovanja z dotikom?</string>

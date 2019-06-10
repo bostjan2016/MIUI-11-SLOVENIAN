@@ -175,6 +175,7 @@
   <string name="always_bcc_myself">Zmeraj pošlji sebi skrito kopijo</string>
   <string name="always_show_images">Vedno pokaži slike tega pošiljatelja</string>
   <string name="app_name">E-pošta</string>
+  <string name="attachment_opening_mode">Aplikacije za priponke</string>
   <string name="archive">Arhiv</string>
   <string name="archived">Arhivirano</string>
   <string name="att_download_failed_content">Priponke tega sporočila ni bilo mogoče prenesti</string>
@@ -342,6 +343,7 @@
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danes ob %1$s</string>
   <string name="default_">PRIVZETO</string>
+  <string name="default_opening_attchemnt_mode">Odpri priponke z privzeto aplikacijo</string>
   <string name="default_setup">PRIVZETE NASTAVITVE</string>
   <string name="default_signature">Poslano iz mojega Mi telefona</string>
   <string name="default_signature_2">Poslano z mojega %s</string>
@@ -710,6 +712,7 @@ Poskusite z ostalo pošto."</string>
   <string name="open_external_storage_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in shranjevanja</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja, stikov in shranjevanja</string>
   <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
+  <string name="optimization_suggestion">Predlogi optimizacije</string>
   <string name="others_mail">Ostalo</string>
   <string name="others_mail_des">(Kompatibilno z 600K poštnimi ponudniki)</string>
   <string name="outbox_alert_button_no_resend">Ne pošlji</string>

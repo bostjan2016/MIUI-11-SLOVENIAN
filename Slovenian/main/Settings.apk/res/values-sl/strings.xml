@@ -6057,7 +6057,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
     <string name="security_settings_fingerprint_preference_summary_none">Dotaknite se, da nastavite prstni odtis</string>
     <string name="security_settings_fingerprint_preference_title">Pixel Imprint</string>
   <string name="security_settings_premium_sms_desc">Pošlji SMS za plačljive storitve</string>
-  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartica SIM, zaklepanje shrambe poverilnic</string>
+  <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartic SIM, zaklepanje shrambe poverilnic</string>
     <string name="security_settings_title">Varnost in lokacija</string>
   <string name="security_status">Varnost</string>
     <string name="security_status_title">Stanje varnosti</string>
@@ -6296,7 +6296,7 @@ Morda je koda PIN napačna."</string>
     <string name="sim_lock_settings_category">Zaklepanje kartice SIM</string>
     <string name="sim_lock_settings_summary_off">Izklopljeno</string>
     <string name="sim_lock_settings_summary_on">Zaklenjeno</string>
-  <string name="sim_lock_settings_title">Zaklepanje kartica SIM</string>
+  <string name="sim_lock_settings_title">Zaklepanje kartic SIM</string>
   <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
   <string name="sim_management_title_singlesim">SIM kartice &amp; mobilna omrežja</string>
   <string name="sim_missing">SIM manjka ali pa je napaka</string>
@@ -8344,7 +8344,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_priority_type_title">Ročno nastavi prednosti dostopnih točk</string>
   <string name="wifi_property">WiFi lastnosti</string>
   <string name="wifi_protection_on">Vključi</string>
-  <string name="wifi_protection_settings_title">Zaštita pred WiFi poskusom zahteve</string>
+  <string name="wifi_protection_settings_title">Zaščita pred WiFi poskusom zahteve</string>
   <string name="wifi_protection_tip">MIUI bo zaščitil vaše osebne podatke pred WiFi poskusom zahteve ki pride iz naključnih MAC naslovov in WiFi poskusom sniffers-ov ko vaša naprava išče WiFi omrežja.</string>
   <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
   <string name="wifi_quick_toggle_title">WiFi</string>

@@ -438,8 +438,8 @@ Vizitke stikov so izključene"</string>
   <string name="display_options_sort_by_family_name">Priimek</string>
   <string name="display_options_sort_by_given_name">Ime</string>
   <string name="display_options_sort_list_by">Razvrsti po</string>
-  <string name="display_options_view_family_name_first">Priimek najprej</string>
-  <string name="display_options_view_given_name_first">Ime najprej</string>
+  <string name="display_options_view_family_name_first">Najprej priimek</string>
+  <string name="display_options_view_given_name_first">Najprej ime</string>
   <string name="display_options_view_names_as">Prikaži imena stikov kot</string>
   <string name="display_sim_contacts">Pokaži SIM stike</string>
   <string name="display_ungrouped">Vsi ostali stiki</string>
