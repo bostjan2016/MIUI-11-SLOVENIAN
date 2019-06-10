@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
   <string name="android_ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="android_ringtone_silent">Nič</string>
   <string name="android_ringtone_unknown">Neznana melodija zvonjenja</string>
@@ -32,17 +31,12 @@
   <string name="cta_title">Pogoji uporabe</string>
   <string name="daydream">Dnevno sanjarenje</string>
   <string name="day_following_good_friday"/>
-  <string name="delete_frequent_phrases">Izbriši pogoste izraze</string>
-  <string name="delete_frequent_phrases_confirm">Izbrišem izbrane pogoste izraze?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Telefon</string>
   <string name="double_seventh_day"/>
   <string name="easter">Velika noč</string>
-  <string name="edit_frequent_phrases">Uredi pogoste izraze</string>
   <string name="fools_day">1. april</string>
-  <string name="frequent_phrases_des">Vnesite pogoste izraze s samo nekoliko dotiki med urejanjem besedil</string>
-  <string name="frequent_phrases_size_exceeded">Lahko dodate največ %1$d pogostih izrazov. Izbrišite nepotrebne da jih lahko dodate več</string>
   <string name="glockenspiel">Glockenspiel</string>
   <string name="group_name_contacts">Stiki</string>
   <string name="group_name_coworkers">Sodelavci</string>
@@ -86,9 +80,6 @@
   <string name="lunar_yi">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
-  <string name="menu_add_frequent_phrases">Dodaj</string>
-  <string name="menu_delete">Izbriši</string>
-  <string name="menu_edit">Uredi</string>
   <string name="miclassic">MiClassic</string>
   <string name="miui_device_name">Android</string>
   <string name="messagesent">Sporočilo poslano</string>
