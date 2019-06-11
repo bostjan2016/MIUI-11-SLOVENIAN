@@ -347,7 +347,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="allow_interruption_summary">Dovoli aplikaciji, da predvaja zvok, vibrira in/ali prikaže obvestila na zaslonu</string>
   <string name="allow_keyguard_summary">Dovoli obvestila na  zakl. zaslonu</string>
   <string name="allow_keyguard_title">Obvestila zakl. zaslona</string>
-  <string name="allow_lights_title">Dovoli oprabo LED svetlobe</string>
+  <string name="allow_lights_title">Dovoli uporabo LED svetlobe</string>
   <string name="allow_mock_location">Dovoli lažne lokacije</string>
   <string name="allow_mock_location_summary">Dovoli lažne lokacije</string>
   <string name="allow_oaid_used">Dovoli uporabo ID naprave</string>
