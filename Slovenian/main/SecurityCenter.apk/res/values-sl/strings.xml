@@ -1300,7 +1300,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Vključite to opravilo če imate težave z uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
-  <string name="gmscore_support_service">Google storitve</string>
+  <string name="gmscore_support_service">Osnovne Google storitve</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
   <string name="google_base_app_install_choice">Aplikacija potrebuje Google Service Framework aplikacijo za normalno delo, jo prenesem in namestim?</string>
@@ -2089,8 +2089,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Načrtovan čas vklop/izklop</string>
   <string name="power_center_back">Nazaj v Baterija</string>
+  <string name="power_center_battery_last">%s ostalo</string>
   <string name="power_center_battery_full">"Baterija je napolnjena "</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
+  <string name="power_center_dialog_msg_bottom">Trajanje baterije lahko povećate do %1$dh %2$dm. Vključim varčevanje baterije?</string>
+  <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije,bo  MIUI napravil naslednje optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
   <string name="power_center_list_item_battery_status_time">h</string>
@@ -2101,8 +2104,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_one_key_save">Optimiziraj</string>
   <string name="power_center_ontime_boot">Čas vklopa</string>
   <string name="power_center_ontime_shutdown">Čas izklopa</string>
+  <string name="power_center_power_save_summary_text">Povečaj preostali čas do %1$dh %2$dm</string>
+  <string name="power_center_power_save_title_text">Varčevanje baterije</string>
   <string name="power_center_repeat">Ponovi</string>
   <string name="power_center_scan_item_title_GPS">Uredite natančnost GPS-a</string>
   <string name="power_center_scan_item_title_abnormal">Problemi z baterijo</string>
@@ -2119,6 +2125,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_state_off">Izklop</string>
   <string name="power_center_state_on">Vklop</string>
   <string name="power_center_stop_scan_title">Ustavi iskanje</string>
+  <string name="power_center_super_save_summary_text">Povečaj preostali čas do %1$dh %2$dm</string>
+  <string name="power_center_super_save_title_text">Ultra varčevanje baterije</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Optimizacija baterije</string>
@@ -2165,6 +2173,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_dialog_delete_dialog_delete">Izbriši ta profil baterije?</string>
   <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
   <string name="power_dialog_ok">V redu</string>
+  <string name="power_dialog_super_save_msg">"Ultra varčevanje baterije omejuje stvari ki porabljajo največ energije in zmanjšuje znogljivost naprave da bi osnovne storitve (npr. klici, SMS sporočila in povezava z omrežjem bile na voljo čim dlje. Vključim Ultra varčevanje baterije?"</string>
+  <string name="power_dialog_super_save_title">Ultra varčevanje baterije</string>
   <string name="power_dialog_screen_brightness_automatic">Samodejno prilagodi osvetlitev</string>
   <string name="power_dialog_screen_brightness_automatic_off">Osvetlitev zaslona bo ostala nespremenjena v vseh pogojih</string>
   <string name="power_dialog_screen_brightness_automatic_on">Osvetlitev zaslona se spreminja glede na svetlobo v vaši okolici</string>
@@ -2268,7 +2278,13 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_summary_text">"Vključite varčevanje baterije za zmanjšanje aktivnosti aplikacij v ozadju, zaustavljanje sinhronizacije in minimaliziranje animacij sistema."</string>
   <string name="power_save_title_text">Varčevanje baterije</string>
   <string name="power_screen">Zaslon</string>
-  <string name="power_settings_category_title">Izgled baterije</string>
+  <string name="power_setting_background_app_save_summary">Omeji aktivnost aplikacij v ozadju brez vpliva na funkcionalnost</string>
+  <string name="power_setting_background_app_save_title">Varčevanje baterije v ozadju</string>
+  <string name="power_setting_category_other">Dodatne nastavitve</string>
+  <string name="power_setting_power_save_summary_text">Optimiziraj nastavitve sistema da prihranite baterijo</string>
+  <string name="power_setting_super_save_summary_text">Omeji večino storitev sistema da prihranite baterijo</string>
+  <string name="power_settings_category_title">Videz baterije</string>
+  <string name="power_settings_lock_screen_saver_title">Nastavitve zakl. zaslona</string>
   <string name="power_settings_number">Odstotki</string>
   <string name="power_settings_saver_title">Varčevanje energije</string>
   <string name="power_settings_shape">Grafični</string>
@@ -2457,7 +2473,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="quick_optimize_no_issue">Ni težav baterije</string>
   <string name="quick_optimize_no_issue_subtitle">Vse izgleda dobro</string>
   <string name="quick_optimize_no_issue_title">"Ne morem najti težav baterije"</string>
+  <string name="quick_optimize_sub_battery_text">Ostalo še približno %s</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>
+  <string name="quick_optimize_sub_summary_with_battery_text">Dodano %1$s trajanju baterije, ostalo še %2$s</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prehitro prazni baterijo, popravite to</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregreva, popravite to</string>
   <string name="quick_replay_list_title">Dostopne aplikacije</string>
@@ -3349,6 +3367,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   Preverite spletno povezavo vašega računalnika."</string>
   <string name="use_immediately">Uporabi</string>
   <string name="user_define_title">Dodaj pravilo</string>
+  <string name="user_guide">Podrsajte gor da boste našli nove igre</string>
+  <string name="user_guide_title">Joystick Picks</string>
   <string name="video_repeat">Predvajaj ponovno</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije so posodobljene</string>

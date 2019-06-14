@@ -149,7 +149,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="international_details_title">Podrobnosti</string>
   <string name="international_details_uv_index_title">UV Indeks</string>
   <string name="international_details_wind_title">Veter</string>
-  <string name="international_version_first_start_network_msg">Z uporabo te aplikacije se strinjate z %1$s i %2$s. Ta aplikacija rabi spletno povezavo.</string>
+  <string name="international_version_first_start_network_msg">Z uporabo te aplikacije se strinjate z %1$s in %2$s. Ta aplikacija rabi spletno povezavo.</string>
   <string name="it_is_going_to_rain">Deževalo bo</string>
   <string name="locate_fail_detail_err">"Ne morem locirati naprave
 Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>

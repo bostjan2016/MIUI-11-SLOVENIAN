@@ -1473,6 +1473,7 @@ za uporabo top-up package"</string>
   <string name="network_info_message">Sporočilo omrežja</string>
   <string name="network_lte">LTE (priporočeno)</string>
   <string name="network_message">Sporočilo omrežja</string>
+  <string name="network_mode_updating_title">Vrsta omrežja</string>
   <string name="network_operator_category">Omrežje</string>
   <string name="network_query_error">Napaka pri iskanju omrežij.</string>
   <string name="network_select_title">Omrežje</string>
@@ -1801,6 +1802,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prednostno omrežje 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Prednostno omrežje LTE</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prednostno omrežje 4G (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Prednostno 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Samodejno</string>
   <string name="preferred_network_type_pref_entries_global">Globalno</string>
   <string name="preferred_network_type_pref_entries_only_2g">Samo 2G (hrani baterijo)</string>
