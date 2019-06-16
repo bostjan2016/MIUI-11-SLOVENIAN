@@ -1119,7 +1119,7 @@
         <item>Naravno</item>
         <item>Standardno</item>
      </string-array>
-	      <string-array name="select_logd_size_lowram_titles">
+	 <string-array name="select_logd_size_lowram_titles">
         <item>Izključeno</item>
         <item>64K</item>
         <item>256K</item>
@@ -1127,11 +1127,11 @@
      </string-array>
      <string-array name="select_logd_size_summaries">
         <item>Izključeno</item>
-        <item>64K na medpomnilnik</item>
-        <item>256K na medpomnilnik</item>
-        <item>1M na medpomnilnik</item>
-        <item>4M na medpomnilnik</item>
-        <item>16M na medpomnilnik</item>
+        <item>64K na medpomnilnik dnevnika</item>
+        <item>256K na medpomnilnik dnevnika</item>
+        <item>1M na medpomnilnik dnevnika</item>
+        <item>4M na medpomnilnik dnevnika</item>
+        <item>16M na medpomnilnik dnevnika</item>
      </string-array>
      <string-array name="select_logd_size_titles">
         <item>Izključeno</item>
@@ -1283,7 +1283,7 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
-	<item>AVRCP 1.3</item>
+	    <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
