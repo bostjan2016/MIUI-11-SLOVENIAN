@@ -257,12 +257,12 @@
         <item>32 bitov po vzorcu</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
-         <item>Samodejno (privzeto)</item>
+        <item>Samodejno (privzeto)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
-          <item>Samodejno (privzeto)</item>
+        <item>Samodejno (privzeto)</item>
         <item>Mono</item>
         <item>Stereo</item>
      </string-array>
