@@ -2050,7 +2050,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_main_battery_text_hour_minute">Dodano %1$sm, ostalo okoli %2$sh %3$sm</string>
   <string name="pc_main_battery_text_minute">Dodano %1$sm, ostalo okoli %2$sm</string>
   <string name="pc_main_power_manager_day_hour">%1$sd %2$sh do popolne napolnjenosti</string>
-  <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do popolne napolnjenosti<</string>
+  <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do popolne napolnjenosti</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh ostalo</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm ostalo</string>
   <string name="pc_settings_title">Nastavitve optimizacije baterije</string>
