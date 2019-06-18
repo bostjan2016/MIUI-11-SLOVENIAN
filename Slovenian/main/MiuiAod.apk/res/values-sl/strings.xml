@@ -19,10 +19,14 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_battery_level_charging">Polnjenje, baterija %d procentov.</string>
+  <string name="always_style">Zmeraj</string>
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_mode_style">Stil ure in ozadja</string>
+  <string name="aod_mode_preview">Predogled</string>
+  <string name="aod_mode_style_title">Več možnosti</string>
+  <string name="aod_show_style_title">Pokaži stvari</string>
   <string name="aod_mode_summary">Ta storitev povečuje porabo baterije. Izključila se bo ko naprava dlje časa ostane v mraku ali pa se uporabi način za varčevanje baterije.</string>
   <string name="aod_mode_time_summary">Razpored časa za vklop/izklop načina zmeraj vključeno</string>
   <string name="aod_mode_time_title">Razpored</string>
@@ -32,4 +36,9 @@
   <string name="paper_mode_end_time_title">Izključi</string>
   <string name="paper_mode_start_time_title">Vključi</string>
   <string name="search_menu_title">Išči</string>
+  <string name="scheduled_style">Razpored</string>
+  <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
+1. Ko naprava dolgo stoji v mraku.
+2. Če je vključen DND način."</string>
+  <string name="temporary_style">Čez 10 sekund nakon po dotiku</string>
 </resources>

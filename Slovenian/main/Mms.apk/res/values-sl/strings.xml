@@ -180,7 +180,8 @@
   <string name="delete_wild_sims_confirm">Vsa sporočila ki pripadajo izbranim številkam bodo izbrisana. Obnovite jih lahko na i.mi.com.</string>
   <string name="delete_wild_sims_title">Izbriši izbrane številke</string>
   <string name="delivery_report_activity">Poročilo o dostavi</string>
-  <string name="delivery_toast_body">%s prejel/a sporočilo.</string>
+  <string name="delivery_toast_body">Sporočilo prejeto od %s.</string>
+  <string name="dialog_complain_tips">Dovolite aplikaciji sporočila povezavo na omrežje.</string>
   <string name="dialog_message_fake_cell_detect_error">Popravim informacije o tem sporočilu? Za to mora MIUI prebrati številko telefona (%1$s), vsebino sporočila in informacije o najbližji lokaciji njegovih strežnikov.</string>
   <string name="dialog_message_mx">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe.</string>
   <string name="dialog_message_mx_rcs">Mi Sporočilo vam omogoča pošiljanje sporočil drugim MIUI napravam in uporabnikom China Mobile brez stroškov. Odhodno SMS sporočilo je potrebno za aktivacijo. Vaš mobilni operater vam ga lahko zaračuna. Morate se strinjati z našimi \"%1$s\" in \"%2$s\" pred začetkom uporabe. Se strinjate?</string>
@@ -222,9 +223,9 @@
   <string name="enable_password_protect">Omogoči geslo</string>
   <string name="enable_visible_pattern_title">Naredi vzorec viden</string>
   <string name="enabled">Vključeno</string>
-  <string name="english_subject_limit">max. 40 znakov</string>
+  <string name="english_subject_limit">max 40 znakov</string>
   <string name="enter_edit_mode">Spremeni sporočila</string>
-  <string name="error_code_label">Koda napake:</string>
+  <string name="error_code_label">"Napaka kode: "</string>
   <string name="error_state">Neskladno stanje</string>
   <string name="error_state_text">Stanje zadev in prejemnikov je v neskladju. Pošlji poročilo o napaki preko http://go/droidanizer</string>
   <string name="error_timed_msg">Neveljaven čas.</string>
@@ -730,7 +731,7 @@
   <string name="security_alert_dialog_title">Prijavi</string>
   <string name="select_audio">Izberi zvok</string>
   <string name="select_bottom_text">Besedilo na dnu</string>
-  <string name="select_copy_text">Izberite besedilo za kopiranje</string>
+  <string name="select_copy_text">Izberi in kopiraj tekst</string>
   <string name="select_different_attachment">Izberite drugo priponko.</string>
   <string name="select_different_audio">Izberite drug zvok.</string>
   <string name="select_different_media">Izberite drug %1$s.</string>
@@ -885,7 +886,7 @@
   <string name="undelivered_msg_dialog_title">Neposlano sporočilo</string>
   <string name="undelivered_sms_dialog_body">Tega sporočila ni mogoče poslati</string>
   <string name="unknown_num">Neznana številka</string>
-  <string name="unknown_sender">Neznan pošiljatelj</string>
+  <string name="unknown_sender">Imate novo sporočilo</string>
   <string name="unstick">Odpni</string>
   <string name="unstick_conversation">Odpni trenutni pogovor</string>
   <string name="unsticked_conversation">Pogovor je že odpet</string>

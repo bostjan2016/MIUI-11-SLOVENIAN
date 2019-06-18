@@ -39,8 +39,9 @@
   <string name="account_settings_login_dialog_content_fmt">Ime ali geslo za %s je napačno. Ali jih želite posodobiti zdaj?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Ni bilo mogoče prijaviti se na %s. Strežnik obvešča: %s</string>
   <string name="account_settings_login_dialog_title">Ni bilo mogoče prijaviti se</string>
+  <string name="account_settings_mail_check_frequency_dialog_title">Da boste sinhronizirali e-pošto morate ročno osvežiti pošto</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">"Morali boste ročno sinhronizirati pošto da boste lahko sinhronizirali sporočila in dogodke koledarja."</string>
-  <string name="account_settings_mail_check_frequency_label">Pogostost</string>
+  <string name="account_settings_mail_check_frequency_label">Pogostost sinhronizacije</string>
   <string name="account_settings_mibill_resolve_label">Samodejno urejaj račune</string>
   <string name="account_settings_name_label">Vaše ime</string>
   <string name="account_settings_notifications">Nastavitve obvestil</string>
@@ -78,6 +79,7 @@
   <string name="account_setup_basics_manual_setup_action">Ročna nastavitev</string>
   <string name="account_setup_basics_mi_mail_login_help">Uspešno prijavljeno, preverite SMS, kliknite na aktivacijsko povezavo!</string>
   <string name="account_setup_basics_password_label">Vnesite geslo</string>
+  <string name="account_setup_basics_password_label_authcode">Vnesite geslo ali kontrolno kodo</string>
   <string name="account_setup_basics_title">Dodaj račun</string>
   <string name="account_setup_check_settings_check_incoming_msg">Preverjam nastavitve strežnika ...</string>
   <string name="account_setup_check_settings_check_outgoing_msg">Preverjanje nastavitve SMPT…</string>
@@ -88,6 +90,7 @@
   <string name="account_setup_exchange_certificate_title">Potrdilo odjemalca</string>
   <string name="account_setup_exchange_device_id_label">ID mobilne naprave</string>
   <string name="account_setup_exchange_no_certificate">Brez</string>
+  <string name="account_setup_failed_auth_required">"Server ne podpira tega načina preverjanja."</string>
   <string name="account_setup_failed_certificate_inaccessible">Certifikat je neveljaven ali nedostopen.</string>
   <string name="account_setup_failed_certificate_required">Certifikat odjemalca je zahtevan. Se želite povezati s strežnikom s potrdilom odjemalca?</string>
   <string name="account_setup_failed_check_credentials_message">Strežnik je odgovoril z napako. Preverite vaše uporabniško ime in geslo, nato poskusite znova.</string>
@@ -164,8 +167,10 @@
   <string name="ad_merge">Oglasi &amp; Obvestila</string>
   <string name="add_account">Dodaj račun</string>
   <string name="add_account_keywords">Dodaj račun;Dodaj račun E-pošte</string>
+  <string name="add_account_search">Dodaj račun</string>
   <string name="add_attachment">Dodaj priponko</string>
   <string name="add_calendar">Opomni</string>
+  <string name="add_file_exception">"Ne morem dodati. Poskusite dodati to priponko kje drugje."</string>
   <string name="add_label">Dodaj mapo</string>
   <string name="add_pre_message_attachments">Dodam priponke v osnutke?</string>
   <string name="add_pre_message_attachments_no">Ne</string>
@@ -175,7 +180,10 @@
   <string name="always_bcc_myself">Zmeraj pošlji sebi skrito kopijo</string>
   <string name="always_show_images">Vedno pokaži slike tega pošiljatelja</string>
   <string name="app_name">E-pošta</string>
-  <string name="attachment_opening_mode">Aplikacije za priponke</string>
+  <string name="appraise_des">Vam je všeč naša aplikacija?</string>
+  <string name="appraise_good">Da</string>
+  <string name="appraise_ignore">"Ne morem reči"</string>
+  <string name="appraise_negative">Ne</string>
   <string name="archive">Arhiv</string>
   <string name="archived">Arhivirano</string>
   <string name="att_download_failed_content">Priponke tega sporočila ni bilo mogoče prenesti</string>
@@ -204,6 +212,7 @@
   <string name="attachment_not_exists">Priponka ni na voljo!</string>
   <string name="attachment_open_SecurityException_hint">Nimate dovoljenja za odpiranje datoteke ali pa je morda datoteka poškodovana</string>
   <string name="attachment_open_SecurityException_title">"Ne morem odpreti datoteke"</string>
+  <string name="attachment_opening_mode">Aplikacije za priponke</string>
   <string name="attachment_size_exceed_limit">"Kaže da velikost presega omejitve strežnika"</string>
   <string name="attachment_stop_all">Ustavi</string>
   <string name="attachment_text">Besedilo</string>
@@ -349,6 +358,7 @@
   <string name="default_signature_2">Poslano z mojega %s</string>
   <string name="del_account_questionnair_hint">"Zakaj brišete ta račun?"</string>
   <string name="delete">Izbriši</string>
+  <string name="delete_contact_content">Želite izbrisati ta stik?</string>
   <string name="delete_message_flow">Izbriši tok sporočil</string>
   <string name="delete_message_flow_keywords">Izbriši tok sporočil;Izbriši preusmerjene</string>
   <string name="deleted">Izbrisano</string>
@@ -361,8 +371,8 @@
   <string name="dialog_account_auto_sync_setting_no_open">"Zamenjali ste ročno sinhronizacijo, potrebna je ročna osvežitev za prejemanje pošte."</string>
   <string name="dialog_agree">Strinjam se</string>
   <string name="dialog_auto_sync_setting_no_open">"Ne morem samodejno prejemati nova sporočila. Sinhronizacija je izključena."</string>
-  <string name="dialog_disagree">Ne strinjam se</string>
   <string name="dialog_change_sync_lookback">Sporočilo e-pošte prejeto pred %s bo samodejno izbrisano. Dotaknite se da spremenite.</string>
+  <string name="dialog_disagree">Ne strinjam se</string>
   <string name="dialog_gmail_proxy_server_is_error">Napaka Gmail proxy strežnika.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Ni dovolj prostora za %s.</string>
   <string name="dialog_insufficient_space_on_external">Prenosa ni mogoče končati. Ni dovolj prostora na zunanjem pomnilniku.</string>
@@ -419,12 +429,12 @@
   <string name="enumeration_delimiter">" | "</string>
   <string name="error">Napaka</string>
   <string name="exception_cancel">"
-     Ta dogodek je odpovedan
-     za:
+  Ta dogodek je odpovedan
+  za:
 %s "</string>
   <string name="exception_updated">"
     Podobnosti tega dogodka so se spremenile
-    za:
+  za:
 %s "</string>
   <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -442,14 +452,15 @@
   <string name="feedback_user_edit_tag">Od MIUI </string>
   <string name="fetch_bank_sender_list_failure">"Ni bilo mogoče dobiti informacije"</string>
   <string name="fetching_attachment">Pridobivam priponke</string>
-  <string name="file_deleted_success">Datoteka izbrisana</string>
-  <string name="file_defailt_save_path">Priloge se privzeto shranjujejo v mapo %s. Lahlo spremenite v nastavitvah.</string>
+  <string name="file_defailt_save_path">Priponke se privzeto shranjujejo v mapo %s. Mapo lahko spremenite v nastavitvah.</string>
   <string name="file_default_save_path_title">Privzeta lokacija za priponke</string>
+  <string name="file_deleted_success">Datoteka izbrisana</string>
+  <string name="file_not_found">"Ne morem najti datoteko"</string>
+  <string name="file_not_found_redownload">"Ne morem najti datoteko"</string>
+  <string name="file_rar_not_support">"Ne morem odpreti šifrirano rar datoteko"</string>
   <string name="file_save_path_dialog_cancel">Razumem</string>
-  <string name="file_save_path_dialog_ok">Zamenjaj</string>
-  <string name="file_not_found">Datoteke ni bilo mogoče najti</string>
-  <string name="file_not_found_redownload">Datoteke ni bilo mogoče najti</string>
-  <string name="file_rar_not_support">Kodiranih rar datotek ni mogoče odpreti</string>
+  <string name="file_save_path_dialog_ok">Zamenjaj zdaj</string>
+  <string name="file_save_term">Pogoji shranjevanja datotek</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
   <string name="first_quick_default_reply">Tapnite tipko za pošiljanje \"%s\" vsem osebam v razgovoru</string>
   <string name="float_window_content">Uporabljate poštni nabiralnik, klikni Potrdi da se samodejno popolni 139 račun e-pošte in geslo.</string>
@@ -493,6 +504,7 @@
   <string name="folder_trash_name_en1">Izbrisana sporočila</string>
   <string name="folder_trash_name_en2">Izbrisano sporočilo</string>
   <string name="folder_trash_name_en3">[Gmail]/Bin</string>
+  <string name="forever">Zmeraj</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
   <string name="forward">Posreduj</string>
   <string name="forward_attachment">Posreduj</string>
@@ -521,11 +533,13 @@
   <string name="gmail_server_authorization_deleted">"Ne morem potrditi avtentičnost računa. Poskusite ponovno dodati ta račun."</string>
   <string name="gmail_web_login_go">V redu</string>
   <string name="gmail_web_login_required_message">Prijavite se v Gmail</string>
+  <string name="have_auth_code">Imam kodo</string>
   <string name="header_category_account">Računi</string>
   <string name="header_category_other">Povratne informacije</string>
   <string name="header_label_general_preferences">Splošno</string>
   <string name="help_and_info">Pomoč</string>
   <string name="help_config">Ročna nastavitev</string>
+  <string name="help_me_get_qq_auth">Dobite QQ kodo</string>
   <string name="hide_elided">▼ Skrij citirano besedilo</string>
   <string name="hide_password">Skrij geslo</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -553,18 +567,21 @@
   <string name="interact_with_server_error">"Povezovanje s strežnikom ni uspelo"</string>
   <string name="invalid_recipient">Naslov %s ni pravilen.</string>
   <string name="invalid_recipient_title">Napaka prejemnika</string>
-  <string name="list_empty_to_fresh">Ni e-pošte, povlecite dol da boste osvežili.</string>
   <string name="kilobytes">%s KB</string>
+  <string name="list_empty_to_fresh">Ni e-pošte, povlecite dol da boste osvežili.</string>
   <string name="load_from_remote">Nadaljuj iskanje na strežniku</string>
   <string name="load_more">Naloži več</string>
   <string name="loading_conversation">Nalagam...</string>
   <string name="loading_conversations">Nalagam...</string>
   <string name="loading_from_remote">Nalagam...</string>
   <string name="local_search">Lokalno iskanje</string>
+  <string name="local_search_result">Rezultati v sinhroniziranih sporočilih: %s</string>
+  <string name="log_save_path">Pot zapisa</string>
   <string name="login">Prijavite se</string>
   <string name="login139">CMCC prijava z eno tipko</string>
+  <string name="login_err_message">Vnešeno geslo ni pravilno. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate uničiti geslo zaporku, obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
-  <string name="login_failed_title">Ni se mogoče vpisati</string>
+  <string name="login_failed_title">"Neuspešna prijava"</string>
   <string name="login_mail">Prijavi se</string>
   <string name="login_support_tip_text">Podpira vse glavne račune e-pošte</string>
   <string name="long_press_to_select_tip">Tapnite &amp; držite za izbor enega pogovora, nato tapnite za izbor večih.</string>
@@ -662,10 +679,11 @@
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
   <string name="mute">Izključi zvok</string>
   <string name="navigation_menu">Meni navigacije</string>
-  <string name="net_check_title">Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovo.</string>
+  <string name="need_get_qq_mail">Potrebna je QQ pošta</string>
+  <string name="net_check_title">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="network_error">Ni povezave</string>
   <string name="network_invaild">"Ne morem se povezati z omrežjem"</string>
-  <string name="network_not_available">Povezave ni mogoče vzpostaviti</string>
+  <string name="network_not_available">"Povezave ni mogoče vzpostaviti"</string>
   <string name="network_tip">Kontrola prepoznave ni uspela, preverite omrežno povezavo</string>
   <string name="network_try_again">Preverite omrežje</string>
   <string name="network_unavailable">Omrežje ni na voljo</string>
@@ -699,19 +717,26 @@ Poskusite z ostalo pošto."</string>
   <string name="notification_action_undo_remove_label">Oznaka odstranjena</string>
   <string name="notification_exchange_calendar_added">Dodan Exchange koledar</string>
   <string name="notify_channel_new_mail">Obvestila o novih sporočilih</string>
+  <string name="notify_channel_no_disterb">DND način</string>
   <string name="notify_channel_permission_notice">Opomnik obvestil o dovoljenju</string>
   <string name="notify_channel_send_fail">Obvesti o neuspešni dostavi</string>
+  <string name="notify_channel_service">Obvesti o sinhronizaciji v ozadju</string>
   <string name="oauth_error_description">"Ne morem preveriti avtentičnosti"</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
-  <string name="oauth_login_continue_qq">Pridobitev pri kontroli za prijavo &gt;</string>
+  <string name="oauth_login_continue_qq">Pridobitev kode za preverjanje za prijavo &gt;</string>
   <string name="oauth_login_usr_proxy">Proxy prijava</string>
   <string name="ok">V redu</string>
   <string name="okay_action">V redu</string>
+  <string name="one_day">1 dan</string>
+  <string name="one_month">1 mesec</string>
+  <string name="one_week">1 teden</string>
+  <string name="open_androidp_warning">Upozori na 9,0 neslužbene SDK</string>
   <string name="open_calendar_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in stikov</string>
   <string name="open_external_storage_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja in shranjevanja</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">V nastavitvah omogočite dovoljenje uporabe Koledarja, stikov in shranjevanja</string>
   <string name="open_external_storage_and_contacts_permission">V nastavitvah omogočite dovoljenje uporabe stikov</string>
+  <string name="open_notification_kingagent">Vključite obvestila kingagent</string>
   <string name="optimization_suggestion">Predlogi optimizacije</string>
   <string name="others_mail">Ostalo</string>
   <string name="others_mail_des">(Kompatibilno z 600K poštnimi ponudniki)</string>
@@ -736,10 +761,15 @@ Poskusite z ostalo pošto."</string>
   <string name="outbox_alert_select_operation">Izberite opravilo</string>
   <string name="outbox_alert_title_sent_failed">E-pošte ni bilo mogoče poslati</string>
   <string name="outbox_no_mails">Izprazni</string>
-  <string name="overlays_fail_tip">Žal nam je ker vaš poštni nabiralnik ni uspešno nastavljen, odprite skočno oknodovoljenj in poskusite ponovno</string>
+  <string name="output_all_log">Ispiši vsa poročila</string>
+  <string name="output_db_summary">O izhodni bazi podatkov</string>
+  <string name="output_db_title">Izhodna baza podatkov</string>
+  <string name="output_to_disk">Shrani zapise v datoteko</string>
+  <string name="overlays_fail_tip">Žal nam je ker vaš poštni nabiralnik ni uspešno nastavljen, odprite pojavno okno dovoljenj in poskusite ponovno</string>
   <string name="overlays_ok">Odpri dovoljenja</string>
-  <string name="overlays_tip">Odpri skočno okno dovoljenj in takoj uživajte v samod. nastavitvi 139 pošt. nabiralnika.</string>
-  <string name="overlays_title">Odpri skočno okno dovoljenj</string>
+  <string name="overlays_tip">Odpri pojavno okno dovoljenj in takoj uživajte v samod. nastavitvi 139 pošt. nabiralnika.</string>
+  <string name="overlays_tip_23">Odpri pojavna dovoljenja za Windows in uživaj ob poštnem nabiralniku da samodejno konfiguriraš ekstremno izkušnjo.</string>
+  <string name="overlays_title">Odpri pojavno okno dovoljenj</string>
   <string name="parase_setup_data">Pridobivam podatke...</string>
   <string name="parse_recognize_describe">Analiza e-pošte…</string>
   <string name="password_expire_warning_content_title">Geslo zaslona za zaklep poteče</string>
@@ -816,6 +846,7 @@ Poskusite z ostalo pošto."</string>
   <string name="preview_attachment">Pregled</string>
   <string name="previous_action">Nazaj</string>
   <string name="print">Izpiši</string>
+  <string name="privacy_des">"Zapisi vsebujejo informacije o odpravljanju napak klienta e-pošte in podatke o napravi. Te informacije se uporabljajo za hitrejše iskanje problema. Z tapom na na \"%1$s\" spodaj se strinjaš z našimi \"%2$s\"."</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="prompt_title">Vprašaj</string>
   <string name="protocol_eas">eas</string>
@@ -835,6 +866,9 @@ Poskusite z ostalo pošto."</string>
   <string name="push_wps_confirm_message">Poskusite uporabiti WPS Office za odpiranje te priponke</string>
   <string name="push_wps_confirm_title">Poskusite WPS Office</string>
   <string name="push_wps_no_response_app">Ne najdem aplikacije za izvedbo tega dela</string>
+  <string name="qq_authorization_help_get">Dobi kodo</string>
+  <string name="qq_authorization_know">O kodi</string>
+  <string name="qq_authorization_tips">"Ne kaži več"</string>
   <string name="qq_auto_login_failed_cpy_pass_success">Uspešno kopirano; vrnite se na stran za prijavo in prilepite za izpolnitev polja za geslo</string>
   <string name="qq_auto_login_failed_dialog_message">Kopirajte kodo za potrditev, vrnite se na stran za prijavo in kliknite \"Vnesite uporabniško ime in geslo za prijavo\"; prilepite da boste ročno izpolnili geslo</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Kopirajte kodo za potrditev</string>
@@ -842,12 +876,15 @@ Poskusite z ostalo pošto."</string>
   <string name="qq_bar_send_message">Pošlji SMS</string>
   <string name="qq_login_basecode">Prijava na QQ Email preko spletne strani. Vnesite svoje samostojno geslo.</string>
   <string name="qq_login_get_auth">Pošiljanje SMS sporočila ni uspelo? Identificirajte se preko varnostnih vprašanj</string>
+  <string name="qq_login_notice">"Opomba: če ste že nastavili geslo ga morate potrditi pri prijavi."</string>
   <string name="qq_login_open_imap">Kliknite na \"Omogoči\" da omogočite \"IMAP/SMTP\"</string>
   <string name="qq_login_origin_setting">Vnesite uporabniško ime in geslo za prijavo &gt;</string>
   <string name="qq_login_send_message">Kliknite na \"Pošlji SMS\" da dobite kodo za autorizacijo</string>
   <string name="qq_login_webview">Prijava na QQ Email preko spletne strani. Vnesite svoje geslo.</string>
   <string name="qq_next_generation_auth_toast">Prosimo Vas da izpolnite prijavo zaščite z geslom druge generacije preko brskalnika</string>
+  <string name="qq_pwd_or_qq_auth_code">Vnesite QQ kodo ali geslo e-pošte</string>
   <string name="qq_uthentication_failed">Kontrola identitete ni uspela, prijavite se ponovno</string>
+  <string name="qq_verify_code">(Potrebna je kontrolna koda iz QQ)</string>
   <string name="qq_webview_loading">Preskakujem, prosim počakajte…</string>
   <string name="questionnair_body_invisibility">"Sporočila niso prikazana"</string>
   <string name="questionnair_confirm_delete">Odstranim račun?</string>
@@ -896,6 +933,7 @@ Poskusite z ostalo pošto."</string>
   <string name="recipient_needed">Dodaj vsaj 1 prejemnika.</string>
   <string name="recipient_needed_title">Opozorilo</string>
   <string name="recipient_null_dialog_title">Opozorilo</string>
+  <string name="recommend_protocal">Priporočeni protokol</string>
   <string name="reduce_the_receiving_frequencye_summary">Manj pogosto sinhr. prejeto pošto ko je vključeno "Ne moti"</string>
   <string name="reduce_the_receiving_frequencye_title">Sinhr. manj pogosto</string>
   <string name="refresh">Osveži</string>
@@ -903,6 +941,7 @@ Poskusite z ostalo pošto."</string>
   <string name="refreshing_done">Končano</string>
   <string name="release_to_refresh">Spustite za osvežitev</string>
   <string name="remind_attachment_size_limit">Vaš e-mail bi moral biti manjši od %sMB</string>
+  <string name="remote_no_mail">"Na strežniku ni več sporočil e-pošte."</string>
   <string name="remove_account">Odstrani račun</string>
   <string name="remove_folder">Odstrani iz %1$s</string>
   <string name="remove_star">Odstrani zvezdico</string>
@@ -913,14 +952,15 @@ Poskusite z ostalo pošto."</string>
   <string name="replyto_heading">Odgovori:</string>
   <string name="report">Prijavi</string>
   <string name="report_phishing">Prijavite krajo identitete</string>
-  <string name="report_spam">Prijavite neželjenu pošto</string>
+  <string name="report_spam">Prijavite neželjeno pošto</string>
+  <string name="request_copy_db_to_disk">Aplikacija E-pošta zahteva kopiranje baze podatakov v datoteko</string>
   <string name="request_entity_large">Datoteka je prevelika</string>
   <string name="request_permission_activity">Iskanje dovoljenja</string>
   <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>
   <string name="respond_inline">Odgovori v tekstu</string>
-  <string name="retry_login">Prijavite se ponovno</string>
   <string name="resume_draft">Uredi</string>
   <string name="retry">Poskusite znova</string>
+  <string name="retry_login">Prijavite se ponovno</string>
   <string name="save_action">Shrani</string>
   <string name="save_attachment">Shrani</string>
   <string name="save_draft">Shrani osnutek</string>
@@ -991,13 +1031,13 @@ Poskusite z ostalo pošto."</string>
 
 
 %s"</string>
-  <string name="silent_ringtone">Tiho</string>
   <string name="signature_black_shark">Poslano iz mojega Blackshark telefona</string>
+  <string name="silent_ringtone">Tiho</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="sms_tip">Kontrola identitete ni uspela, preverite če je antivirusni program blokiral SMS sporočilo</string>
   <string name="smtp_password_error">Napačno geslo odhodnega strežnika</string>
-  <string name="sort_attachment">Razvrsti</string>
+  <string name="sort_attachment">Razvrsti po</string>
   <string name="special_text_1">写道:</string>
   <string name="special_text_2">写道：</string>
   <string name="special_text_3">寫道:</string>
@@ -1026,26 +1066,30 @@ Poskusite z ostalo pošto."</string>
   <string name="system_folders_trash_dlg">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_summary">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_title">Koš</string>
+  <string name="system_root_path">Nastavitve notranjega pomnilnika</string>
   <string name="system_security_open_error">Varnost ni mogoče nastaviti. Odprite dovoljenja v nastavitvah telefona</string>
   <string name="system_setup_open_error">"Ne morem zagnati sinhronizacijo računa, vključite "nastavitev" sistema v računu za sinhronizacijo e-pošte"</string>
-  <string name="system_root_path">Nastavitve notranjega pomnilnika</string>
   <string name="tablet">tablica</string>
   <string name="tap_to_configure">Tapni za nastavitev</string>
   <string name="tap_to_enable_sync">Tapni za vklop.</string>
+  <string name="three_day">3 dni</string>
   <string name="tip_cannot_switchview_in_unread_folder">Ne morem spremeniti način prikaza neprebrane pošte</string>
+  <string name="title_activity_about">O aktivnosti</string>
+  <string name="to">Do</string>
   <string name="to_heading">"Za:"</string>
   <string name="toast_bar_fail_synchronization">"Ne morem se povezati z omrežjem"</string>
   <string name="toast_bar_insufficient_memory_space">Ni dovolj prostora za shrambo</string>
   <string name="toast_bar_invalid_account">Ponovno se prijavite</string>
   <string name="toast_bar_no_connection_network">"Niste povezani s spletom"</string>
   <string name="toast_bar_open_gmail_synchronization">Dotaknite se za uporabo proxy strežnika za Gmail</string>
+  <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Ne morem sinronizirati. Počakajte minuto ali dve in poskusite ponovno. Če se prvič prijavljate avtorizirajte svojo napravo preko spleta/SMS tokena."</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Dovoljenja koledarja in stikov so zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_calendar_permission_switch_close">Dovoljenja koledarja so zaprta. Koledar se ne more sinhronizirati</string>
   <string name="toastbar_contacts_permission_switch_close">Dovoljenja stikov so zaprta. Stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Sprememba sinhronizacije koledarja in stikov je zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_local_calendar_sync_switch_close">Sprememba sinhronizacije koledarja je zaprta. Koledar se ne more sinhronizirati</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Sprememba sinhronizacije stikov je zaprta. Stiki se ne morejo sinhronizirati</string>
-  <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
   <string name="today_text">Danes</string>
   <string name="too_large_to_attach_additional">"Velikost datoteke ne sme preseči %1$s."</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
@@ -1074,6 +1118,8 @@ Zaustavim zdaj?"</string>
   <string name="unselected_lable">Več</string>
   <string name="unzip_file_failed">"Ne morem razširiti!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
+  <string name="update_domain_summary">Posodobi seznam domen in konfiguracijo</string>
+  <string name="update_domain_title">Posodobi domeno</string>
   <string name="update_to_wps_mail">Uživajte v dodatnih opravilih storitve WPS Mail</string>
   <string name="updated_at">Osveženo ob: %1$s</string>
   <string name="upload_log">Pošlji</string>
@@ -1090,15 +1136,17 @@ Zaustavim zdaj?"</string>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>
   <string name="veiled_summary_unknown_person"/>
-  <string name="via_domain">preko %1$s</string>
-  <string name="verify_code">Koda za preverjanje</string>
+  <string name="verify_code">Koda za preverbo</string>
   <string name="version_string">Različica: %s</string>
+  <string name="via_domain">preko %1$s</string>
   <string name="view_more_conversations">Prikaži več pogovorov</string>
   <string name="wait_for_manual_sync_body">"Račun ni nastavljen na samodejno sinhronizacijo.
 Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizirali enkrat ali &lt;b&gt;Sprememba sinhronizacije&lt;/b&gt; da boste ta račun nastavili za automatsko sinhronizacijo pošte.</string>
   <string name="wait_for_sync_body_txt_array_4">opozorila sistema</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_title">Čakaj na sinhr.</string>
+  <string name="wait_help_context">Na čakanju</string>
+  <string name="wait_while_update_db">Počakajte trenutek med nadgradnjo baze podatkov!</string>
   <string name="webview_logout">Ali res odstopate od prijave? Pridite in poskusite ponovno!</string>
   <string name="webview_logout_cancel">"Ne želim več poizkušati"</string>
   <string name="webview_logout_sure">Poizkusi še enkrat</string>

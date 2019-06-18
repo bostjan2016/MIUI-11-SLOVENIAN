@@ -351,6 +351,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="no_syncable_calendars">Ni koledarjev</string>
   <string name="no_title_label">(brez naslova)</string>
   <string name="no_visiable_calendar_message">Dodati morate račun koledarja, pritisnite na Dodaj račun za nadaljevanje.</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">>Dodati morate račun koledarja. Tapni \"Dodaj račun\" za nadaljevanje.</string>
   <string name="no_visiable_calendar_select_account">Dodaj račun</string>
   <string name="no_visiable_calendar_title">Dodaj račun koledarja</string>
   <string name="not_synced">Ni sinhronizirano</string>
@@ -465,6 +466,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="search">Išči</string>
   <string name="search_history_cleared">Zgodovina iskanja je izbrisana</string>
   <string name="search_title">Preišči moje koledarje</string>
+  <string name="search_menu_title">Preišči</string>
   <string name="searchview_description_clear">Očisti povpraševanje</string>
   <string name="select_date">Izberi datum</string>
   <string name="select_day">Izberi mesec i dan</string>

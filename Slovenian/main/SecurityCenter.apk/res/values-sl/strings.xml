@@ -598,6 +598,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="button_background_connection">Dovoli</string>
   <string name="button_block_calls_from_cantacts">Odblokiraj</string>
   <string name="button_block_calls_from_strangers">Odblokiraj</string>
+  <string name="button_dark_mode">Popravi</string>
   <string name="button_do_not_disturb">Izključi</string>
   <string name="button_eye_shield">Izključi</string>
   <string name="button_first_aid_kit">Popravi</string>
@@ -2043,6 +2044,15 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Namesti preko USB-a</string>
   <string name="pc_main_activity_back">Nazaj</string>
+  <string name="pc_main_battery_text_day">Dodano %1$sm, ostalo okoli %2$sd</string>
+  <string name="pc_main_battery_text_day_hour">Dodano %1$sm, ostalo okoli %2$sd %3$sh</string>
+  <string name="pc_main_battery_text_hour">Dodano %1$sm, preostalo oko %2$sh</string>
+  <string name="pc_main_battery_text_hour_minute">Dodano %1$sm, ostalo okoli %2$sh %3$sm</string>
+  <string name="pc_main_battery_text_minute">Dodano %1$sm, ostalo okoli %2$sm</string>
+  <string name="pc_main_power_manager_day_hour">%1$sd %2$sh do popolne napolnjenosti</string>
+  <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do popolne napolnjenosti<</string>
+  <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh ostalo</string>
+  <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm ostalo</string>
   <string name="pc_settings_title">Nastavitve optimizacije baterije</string>
   <string name="pc_to_phone_install">Blokirana namestitev (%s) preko USB-a</string>
   <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
@@ -2184,6 +2194,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_dialog_wifi_title">WiFi</string>
   <string name="power_exitlowbattery_whencharge">Onemogoči napravo ko je priklopljena</string>
   <string name="power_idle">Nedejavnost telefona</string>
+  <string name="power_main_battery_last_day_hour">%1$sd %2$sh ostalo</string>
+  <string name="power_main_battery_last_hour_minute">%1$sh %2$sm ostalo</string>
   <string name="power_mode_airplane_mode">Način za letalo</string>
   <string name="power_mode_auto_clean_memery_lock_screen">Po %1$d minutah</string>
   <string name="power_mode_auto_clean_memory">Počisti spomin</string>
@@ -2892,7 +2904,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_cloud_space_full">Pridobite več prostora za shranjevanje in dostop do več opravil</string>
   <string name="summary_cmcc_app_check">"Nekaterih aplikacij ne morem preveriti"</string>
   <string name="summary_consume_power">Najdeni problemi z pregrevanjem ki lahko vplivajo na trajanje baterije</string>
-  <string name="summary_data_flow">Izogibajte se nalaganja podatkov čez mejo mesečnega limita svojega operaterja</string>
+  <string name="summary_dark_mode">Nekatere strani so črne zaradi storitev tretjih strani</string>
+  <string name="summary_data_flow">"Izogibajte se nalaganja podatkov čez mejo mesečnega limita svojega operaterja"</string>
   <string name="summary_default_app">"%s ni nastavljena kot privzeta aplikacija sistema"</string>
   <string name="summary_dev">Preprečite aplikacijam dostop do uporabniških podatkov</string>
   <string name="summary_do_not_disturb">"Uporabljate DND način."</string>
@@ -3090,6 +3103,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_cmcc_app_check">"Preverjanje ni popolno"</string>
   <string name="title_consume_power">Najdene težave baterije</string>
   <string name="title_consume_power_rank">Uporaba baterije aplikacij</string>
+  <string name="title_dark_mode">"Nekatere stvari se ne prikazujejo pravilno"</string>
   <string name="title_data_flow">Nastavi opozorilo o porabi podatkov</string>
   <string name="title_data_flow_monitor">Nadzor uporabe podatkov je vključen</string>
   <string name="title_default_app">"MIUI %s ni nastavljena kot privzeta aplikacija"</string>
@@ -3150,6 +3164,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_add_virus_white_list_success">Dodano v Izjeme. Preglejte nastavitve v nastavitvah apl. Varnost.</string>
   <string name="toast_auto_traffic_correct">Samodejna uporaba podatkov je nastavljena</string>
   <string name="toast_cleaner_cloudscan">Optimizacija bo uporabila spletna navodila</string>
+  <string name="toast_dark_mode_fixed">Popravljeno. Zapustite stran da vidite spremembe.</string>
   <string name="toast_default_app">"%1$s nastaviti kot privzeto sistema %2$s"</string>
   <string name="toast_flow_notification">Vklopljeno obvestilo uporabe podatkov</string>
   <string name="toast_garbage_lib">Samodejna posodabljanja Čistilca so vključena</string>

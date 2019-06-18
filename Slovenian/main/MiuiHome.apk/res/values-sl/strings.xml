@@ -2,6 +2,7 @@
 <resources>
   <string name="action_add_to_workspace">Dodaj v delovni prostor</string>
   <string name="activity_not_found">"Aplikacija ni naložena na vašem telefonu"</string>
+  <string name="activity_not_unlocked">Počakajte da se naprava popolnoma znova zažene pred odpiranjen aplikacij</string>
   <string name="add_screen">Dodaj tipko zaslona</string>
   <string name="announce_for_app_move_in_folder">Premeščeno na mesto %1$d v mapi</string>
   <string name="announce_for_checked">%1$s, preverjeno</string>
@@ -100,6 +101,7 @@
   <string name="custom_wallpaper_picker">Po meri</string>
   <string name="defalut_launcher_title">Privzeti zaganjalnik</string>
   <string name="default_folder_title_game">Igre</string>
+  <string name="default_folder_title_meitu">Meitu aplikacije</string>
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sistem</string>
   <string name="default_folder_title_services">Storitve</string>
@@ -330,7 +332,10 @@
   <string name="setting_wallpaper_tip">Premakni ali povečaj za prilagoditev</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_shortcut">Nastavitve</string>
-  <string name="share">Skupna raba</string>
+  <string name="shake_to_align_icons">Pretresite napravo da popolnite prazne celice z ikonami</string>
+  <string name="shake_to_align_icons_summary">Pretresite napravo v načinu urejanja da boste samodejno izpolnili prazne celice z ikonami</string>
+  <string name="shake_to_align_icons_title">Pretresite da izpolnite prazne celice</string>
+  <string name="share">Deli</string>
   <string name="sharedUserId"/>
   <string name="show_all">Prikaži vse</string>
   <string name="show_mem_info_title">Prikaži status pomnilnika</string>
@@ -345,6 +350,7 @@
   <string name="status_installing">Nalaganje</string>
   <string name="status_paused">Zaustavljeno</string>
   <string name="status_pending">Na čakanju</string>
+  <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
   <string name="title_jeejen">Jeejen začetni zaslon</string>
   <string name="title_select_live_folder">Izberi mapo</string>
   <string name="title_select_shortcut">Izberi bližnjico</string>
