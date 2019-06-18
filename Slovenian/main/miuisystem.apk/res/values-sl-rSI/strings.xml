@@ -13,7 +13,7 @@
   <string name="autumn_equinox"/>
   <string name="carousel">Carousel</string>
   <string name="celesta">Celesta</string>
-  <string name="child">Djetinjstvo</string>
+  <string name="child">Otroštvo</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -38,7 +38,7 @@
   <string name="daydream">Dnevno sanjarenje</string>
   <string name="day_following_good_friday"/>
   <string name="delete_frequent_phrases">Izbriši pogoste izraze</string>
-  <string name="delete_frequent_phrases_confirm">Izbrišem izbrabe pogoste izraze?</string>
+  <string name="delete_frequent_phrases_confirm">Izbrišem izbrane pogoste izraze?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Mi Telefon</string>
@@ -50,7 +50,7 @@
   <string name="fools_day">1. april</string>
   <string name="frenchchic">Chic</string>
   <string name="fresh">Sveže</string>
-  <string name="frequent_phrases_des">Vnesite pogoste izraze z samo nekaj dotiki meg urejanjem teksta</string>
+  <string name="frequent_phrases_des">Vnesite pogoste izraze z samo nekaj dotiki med urejanjem teksta</string>
   <string name="frequent_phrases_size_exceeded">Lahko dodate največ %1$d pogostih izrazov. Izbrišite nepotrebne da jih dodate več</string>
   <string name="glockenspiel">Glockenspiel</string>
   <string name="glorious">Slava</string>
