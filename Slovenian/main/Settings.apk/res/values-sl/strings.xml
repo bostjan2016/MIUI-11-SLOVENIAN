@@ -4963,6 +4963,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="pointer_location_summary">Prekriv. zaslona prikazuje tren. podatke za dotik</string>
   <string name="pointer_settings_category">Miška/sledilna ploščica</string>
   <string name="pointer_speed">Hitrost kazalca</string>
+  <string name="popup_gesture_summary">Dvignite telefon in poglejte zaslon da bste samodejno odprli sprednjo kamero</string>
+  <string name="popup_gesture_title">Dvignite telefon za odpiranje sprednje kamere</string>
   <string name="popup_window">Omeji pojavna okna</string>
   <string name="power_apps">Aplikacije</string>
   <string name="power_autorun_apps_empty">Prazno</string>
@@ -4972,7 +4974,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_cell">Način čakanja</string>
   <string name="power_center">Optimizacija baterije</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
-  <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
+  <string name="power_charging_duration">%1$s - %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>

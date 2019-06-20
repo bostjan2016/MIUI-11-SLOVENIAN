@@ -19,6 +19,8 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="about_app_name">O Temah</string>
+  <string name="about_version_update">"Kaj je novega"</string>
   <string name="accessibility_setting_hint">"Tapnite gumb zgoraj desno da vključite.
 Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadja v aplikacijah po vaš izbiri.​"</string>
   <string name="accessibiliy_description_content_account">Profil</string>
@@ -51,6 +53,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="ad_tag_text_2">Moda</string>
   <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
   <string name="all_resources">Vse</string>
+  <string name="already_latest_version">Najnovejša verzija</string>
   <string name="app_ad_title">Dnevna priporočila</string>
   <string name="app_disable_transparent_wallpaper">Brez transparentnega ozadja</string>
   <string name="app_enable_transparent_wallpaper">Z transparentnim ozadjem</string>
@@ -80,9 +83,15 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="card_retry">Poskusi ponovno</string>
   <string name="change_host_hint">Zamenjaj gostitelja</string>
   <string name="change_wallpaper">Ozadje</string>
+  <string name="character_counter_content_description">Omejitev znakov je presežena %1$d od %2$d</string>
+  <string name="check_has_new_version">Posodobitev je na voljo</string>
   <string name="classification_more_understand_you">Izberite svojo priljubljeno kategorijo</string>
   <string name="choose_new_themes">Teme</string>
   <string name="close">Zapri</string>
+  <string name="common_applying">Nameščanje…</string>
+  <string name="common_downloading">Prenos…</string>
+  <string name="common_format_date_no_year">dd/MM</string>
+  <string name="common_skip">Preskoči</string>
   <string name="common_google_play_services_enable_button">Omogoči storitve za Google Play</string>
   <string name="common_google_play_services_enable_text">%1$s ne bo deloval če ne omogočite Google  Play storitev.</string>
   <string name="common_google_play_services_enable_title">Omogoči storitve za Google Play</string>
@@ -121,6 +130,7 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="count_down_tip">%ds ostalo</string>
   <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
   <string name="current_using_lockscreen_wallpaper_text">Zakl. zaslon</string>
+  <string name="current_version">Trenutna verzija: %1$s</string>
   <string name="current_version_incompatible">Ta tema je nezdružljiva</string>
   <string name="deleting">Brisanje…</string>
   <string name="description_author">Avtor</string>
@@ -221,6 +231,8 @@ Teme bodo odkrile katere aplikacije uporabljate in prikazale transparentna ozadj
   <string name="gift_use_fail_dlg_title">Nekaj ni v redu</string>
   <string name="gift_used">Poslano</string>
   <string name="go_accessibility_setting">Izberi</string>
+  <string name="goto_purchased_list">Poglejte zgodovino nakupov</string>
+  <string name="goto_wechat">WeChat račun kopiran \"%1$s\" v medpomnilnik. Odprem WeChat?</string>
   <string name="hide_free">Skrij brezplačne teme</string>
   <string name="hide_incompatible">Skrij nekompatibilne teme</string>
   <string name="hide_pull_down_message">Skrijem?</string>
@@ -260,7 +272,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="loading_resource_detail_info">Nalaganje…</string>
   <string name="local_photos">Lokalne fotografije</string>
   <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
-  <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje . zaslona"</string>
+  <string name="lock_screen_apply">Nastavi za Zakl. zaslon</string>
+  <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje zakl. zaslona"</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">"Slika ozadja zač. zaslona nastavljena, ne morem pa nastaviti slike ozadja zakl. zaslona"</string>
   <string name="lockscreen_apply_success">Slika ozadja zakl. zaslona nastavljena</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">"Slika ozadja zakl. zaslona nastavljena, ne morem pa nastaviti slike ozadja zač. zaslona"</string>
@@ -300,6 +313,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="mix_icons_option_des">Ikona zač. zaslona. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_lockscreen_option_des">Slika za ozadje in ura. Odznačite ta okvir da uporabite privzeto.</string>
   <string name="mix_tip">Komponente teme</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Ta melodija zvonenja bo nastavljena za obe SIM kartici.</string>
   <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartici.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
@@ -308,6 +322,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="my_gifts">Darila</string>
   <string name="my_gifts_purchased">Kupljeno</string>
   <string name="my_gifts_received">Prejeto</string>
+  <string name="network_exception">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite znova."</string>
   <string name="no_data">"Ne morem se povezati na omrežje"</string>
   <string name="no_net_work_connection">Preverite omrežne nastavitve in poskusite ponovno.</string>
   <string name="online_no_network">"Ne morem se povezati na omrežje"</string>
@@ -327,7 +342,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="online_precust_scenery">Pokrajina</string>
   <string name="online_precust_tiny">Tiny</string>
   <string name="online_search_hint">Iskanje online virov</string>
-  <string name="password_toggle_content_description">Vidnost gesla bližnjice</string>
+  <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="playing_ringtone">Predvaja se</string>
   <string name="pref_privacy_policy">Pravila o zasebnosti</string>
   <string name="present_local_fonts">Moji fonti</string>
@@ -476,7 +491,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="resource_import_failed">Napaka pri uvozu</string>
   <string name="resource_import_successful">Nalaganje končano</string>
   <string name="resource_importing">Uvoz teme…</string>
-  <string name="resource_is_off_shelf">Ni dostupno</string>
+  <string name="resource_is_off_shelf">Ni na voljo</string>
+  <string name="resource_is_off_shelf_can_not_share">"Ne morem deliti. Ta stvar ni več na voljo."</string>
   <string name="resource_list_title">Zadnje izbrano</string>
   <string name="resource_local_picker">Izberi melodijo zvonenja</string>
   <string name="resource_menu_refresh">Osveži</string>
@@ -617,7 +633,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="theme_changed_failed_message">"Ne morem nastaviti teme"</string>
   <string name="theme_changed_message">Tema nastavljena</string>
   <string name="theme_changing_dialog_title">Nastavljanje teme…</string>
-  <string name="theme_comment_dialog_message">Ocenite to aplikacijo in nam povejte kaj mislite.</string>
+  <string name="theme_comment_dialog_cancel">Ne zdaj</string>
+  <string name="theme_comment_dialog_message">"Ocenite to aplikacijo in nam povejte kaj mislite."</string>
   <string name="theme_comment_dialog_ok">Oceni</string>
   <string name="theme_component_title_alarm">Alarm</string>
   <string name="theme_component_title_alarmstyle">Stil alarma</string>
@@ -735,6 +752,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="using_theme_next_automatic_update">Samodejna posodobitev</string>
   <string name="using_theme_next_automatic_update_summary">Samodejno posodobi prenešene teme preko WiFi ko je zaslon izključen</string>
   <string name="using_theme_show_ad">Priporočila</string>
+  <string name="version_update">Preveri za posodobitve</string>
   <string name="video_ad_click">Poskusite zdaj</string>
   <string name="video_ad_try_for_free">Brezplačna preskusna</string>
   <string name="video_ad_uncomplete_tip">Končajte gledanje videoposnetka da boste dobili temo.</string>
@@ -793,6 +811,8 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="wallpaper_settings_desktop_text">Začetni zaslon</string>
   <string name="wallpaper_settings_lockscreen_text">Zakl.zaslon</string>
   <string name="wallpaper_settings_page_title">Slika ozadja</string>
+  <string name="wechat_not_found">Najprej namestite WeChat</string>
+  <string name="weibo">Weibo</string>
   <string name="wifi_check_cancel">Prekliči</string>
   <string name="wifi_check_confirm">Potrdi</string>
   <string name="wifi_check_message">Uporabim mob. podatke za prenos posodobitve?</string>
@@ -800,4 +820,11 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="xiaoai_speech_not_installed_download">Prenesi</string>
   <string name="xiaoai_speech_not_installed_message">Prenesite in namestite Mi AI glasovni pomočnik za nadaljevanje.</string>
   <string name="xiaoai_speech_not_installed_title">"Mi AI glasovni pomočnik ni nameščen."</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije prenos ni uspelo, preverite stanje v upravitelji aplikacij.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s
+Velikost: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+Velikost Delta posodobitve: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitve!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
 </resources>
