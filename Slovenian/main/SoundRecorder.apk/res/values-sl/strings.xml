@@ -154,7 +154,9 @@
   <string name="status_bar_back">Dotaknite se da se vrnete na snemanje</string>
   <string name="status_bar_recording">Snemam...</string>
   <string name="status_bar_recording_pause">Snemanje zaustavljeno</string>
+  <string name="text_btn_backward_3_seconds">3 sekunde nazaj</string>
   <string name="text_btn_complete">Končano</string>
+  <string name="text_btn_forward_3_seconds">3 sekunde naprej</string>
   <string name="text_btn_list">Posnetki</string>
   <string name="text_btn_mark">Označi</string>
   <string name="text_btn_pause">Premor</string>
@@ -163,10 +165,14 @@
   <string name="text_btn_recording">Posnemi</string>
   <string name="text_btn_wave">Val</string>
   <string name="text_finish">Potrdi</string>
+  <string name="text_play_speed_0_5">Hitrost predvajanja 0.5X</string>
+  <string name="text_play_speed_1_0">Normalna hitrost predvajanja</string>
+  <string name="text_play_speed_1_5">Hitrost predvajanja 1.5X</string>
+  <string name="text_play_speed_2_0">Hitrost predvajanja 2X</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s lahko snemam za toliko %2$s</string>
-  <string name="toast_uninstall_fileexplorer">Aplikacija Raziskovalec ni nameščena</string>
+  <string name="toast_uninstall_fileexplorer">Aplikacija raziskovalec ni nameščena</string>
   <string name="webview_check_network">Omrežne nastavitve</string>
   <string name="webview_data_error">Prišlo je do napake</string>
   <string name="webview_locating_fail">"Ne morem najti vaše lokacije"</string>

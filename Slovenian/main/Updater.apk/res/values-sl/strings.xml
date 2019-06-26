@@ -16,6 +16,8 @@
   <string name="channel_downloading">Napredek prenosov</string>
   <string name="channel_update">Na voljo je nova verzija</string>
      <string name="check_new_version">Preveri</string>
+  <string name="default_filedownloader_notification_content">Prevzem datotek je zagnan.</string>
+  <string name="default_filedownloader_notification_title">Prevzem datotek</string>
   <string name="dialog_3g_desc">Prenos nove MIUI verzije preko mobilnih podatkov lahko povzroči stroške. Priporočamo prenos preko WiFi.</string>
   <string name="dialog_3g_title">Opozorilo!</string>
   <string name="dialog_btn_3g">Vseeno nadaljuj</string>

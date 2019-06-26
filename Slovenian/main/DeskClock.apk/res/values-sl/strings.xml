@@ -90,6 +90,7 @@
   <string name="dynamic_alarm_speech">Pametni alarm</string>
   <string name="edit_alarm">Uredi alarm</string>
   <string name="edit_systemtime">Uredi sistemski čas</string>
+  <string name="edit_systemtime_setting_summary">Datum, čas in dvojna ura</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Vsak dan</string>
   <string name="expired_timers_dismissed">Odštevanje je preklicano</string>
@@ -274,9 +275,12 @@
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>
   <string name="worldclock_input_hint_text">Vnesite mesto</string>
+  <string name="worldclock_resident_city_text">Druga ura: %s</string>
+  <string name="worldclock_resident_city_text_detail">Dvojna ura je vključena</string>
   <string name="worldclock_search_city">Izberite mesto</string>
   <string name="worldclock_title">Ura</string>
   <string name="worldclock_world_time">Časovni pasovi</string>
+  <string name="worldcolock_date_display_prefix">Trenutno: </string>
   <string name="worldcolock_timezone_current">Trenutno: %1$s</string>
   <string name="worldcolock_timezone_date">dd/MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>

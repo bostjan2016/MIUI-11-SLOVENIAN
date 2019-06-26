@@ -12,6 +12,10 @@
         <item quantity="other">Skladb: %d</item>
         <item quantity="one">%d skladba</item>
     </plurals>
+	<plurals name="days_ago">
+        <item quantity="other">pred %d dnevi</item>
+        <item quantity="one">pred %d dan</item>
+    </plurals>
 	<plurals name="dialog_confirm_delete_downloads_message">
          <item quantity="other">Izbrišem predmete: %d?</item>
          <item quantity="one">Izbrišem %d predmet?</item>

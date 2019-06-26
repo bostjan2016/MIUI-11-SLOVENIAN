@@ -850,6 +850,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="deep_save_memory_clean_summary">Izbriši predpomnilnik kadar je naprava zaklenjena da preprečite aplikacijam uporabo baterije</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Določite čas za vklop in izklop naprave</string>
   <string name="delete">Izbriši</string>
+  <string name="delete_all_sms">Izbriši vse</string>
   <string name="delete_from_manual_item_white_list">Odstrani iz izjem</string>
   <string name="delete_input">Izbriši</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
@@ -2688,6 +2689,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sms_blacklist">Seznam blokiranih SMS-ov</string>
   <string name="sms_cloud_block">Cloud Seznam blokiranih</string>
   <string name="sms_contact_block">Blokiraj SMS od stika</string>
+  <string name="sms_delete_all_hint">Izbrišem vsa sporočila?</string>
   <string name="sms_delete_hint">Izbrišem vsa blokirana sporočila s te številke?</string>
   <string name="sms_delete_title">Izbriši sporočila</string>
   <string name="sms_detail_correct_success_text">"To so statistični podatki predhodne kalibracije (%1$s):"</string>

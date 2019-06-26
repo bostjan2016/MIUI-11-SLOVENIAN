@@ -102,17 +102,20 @@
   <string name="authorize_title">Avtorizacija</string>
   <string name="barcode_add_account_prompt">Če želite dodati račun ponovno skenirajte QR kodo ko se prijavite.</string>
   <string name="bind_facebook">Dodajte svoj Facebook račun</string>
+  <string name="bind_google">Povežite svoj Google račun</string>
   <string name="bind_qq">QQ</string>
   <string name="bind_safe_phone_msg">Dodajte številko telefona za naslednjo prijavo</string>
   <string name="bind_settings">Računi</string>
   <string name="bind_sina_weibo">Dodaj Sina Weibo račun</string>
   <string name="bind_sns_description">Vpiši se z %s</string>
   <string name="bind_weibo_description">"Dodaj svoje prijatelje iz Sina Wiebo</string>
+  <string name="bind_weixin">Povežite svoj WeChat račun</string>
   <string name="binded">Dodan</string>
-  <string name="binded_description" formatted="false">%s je povezan k vašemu Mi Računu. Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
+  <string name="binded_description" formatted="false">%s je povezan na vaš Mi Računu.
+Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="button_unbind">Prekini povezavo</string>
-  <string name="change_activate_email">Menjava naslova e-pošte</string>
-  <string name="change_email_address">Menjava naslova e-pošte</string>
+  <string name="change_activate_email">Zamenjaj naslov e-pošte</string>
+  <string name="change_email_address">Zamenjaj naslov e-pošte</string>
   <string name="change_password">Spremeni geslo</string>
   <string name="change_phone_number">Menjava številke telefona</string>
   <string name="checking_phone_num_availible">Preverjanje telefona…</string>
@@ -238,6 +241,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi račune z eno številko telefona. Ni možno dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
+  <string name="google">Google</string>
   <string name="i_agree">V redu</string>
   <string name="i_agree_continue">Nadaljuj</string>
   <string name="identity">Identifikacija</string>
@@ -279,9 +283,10 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"V tem primeru se bodo vsi podatki sinhronizirali na vaš Drugi prostor. Da se ognete temu ne vključujte sinhronizacije z Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Ne vključujte sinhronizacijo z Mi Cloudom"</string>
   <string name="my_device_title">Trenutna naprava</string>
+  <string name="need_install_wechat">Najprej namestite WeChat</string>
   <string name="my_favorite">Moji priljubljeni</string>
   <string name="no_network_btn">Osveži</string>
-  <string name="no_network_title">Ne morem se povezati z omrežjem.</string>
+  <string name="no_network_title">"Ne morem se povezati z omrežjem."</string>
   <string name="no_phone">Ni številke telefona</string>
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
   <string name="no_sim_card_or_unactivated">Ni SIM kartice ali pa ni aktivirana</string>
@@ -656,5 +661,6 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Nekateri predmeti niso bili sinhronizirani"</string>
   <string name="vip_settings_info">VIP nastavitve</string>
+  <string name="weixin">WeChat</string>
   <string name="xiao_mi_vip">Mi VIP</string>
 </resources>
