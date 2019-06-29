@@ -122,4 +122,8 @@
          <item>Nov</item>
          <item>Dec</item>
      </string-array>
+	 <string-array name="prefEntries_contact_add">
+        <item>Vsi</item>
+        <item>Samo prejemniki</item>
+     </string-array>
 </resources>

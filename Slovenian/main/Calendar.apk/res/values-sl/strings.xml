@@ -93,7 +93,8 @@
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_saved">Rojstni dan je shranjen</string>
-  <string name="birthday_term">rojstni dan</string>
+  <string name="birthday_term">Rojstni dan</string>
+  <string name="birthday_term_chinese_calendar">"%1$s ima rojstni dan (Tradicionalni kitajski koledar)"</string>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
   <string name="button_week">T</string>
@@ -119,6 +120,7 @@
   <string name="color_swatch_description_selected">Izbrana je %1$d barva</string>
   <string name="copy_db">Pošlji bazo podatkov</string>
   <string name="copy_email">Kopiraj E-naslov</string>
+  <string name="content_confirm_close_chinese_calendar">Vsi vaši dogodki na osnovi tradicionalnoga kitajskega koledarja bodo spremenjeni v gregorijanski koledar po izklopu te storitve. Leta in meseci Gregorijanskoga koledarja bodo uporabljeni za ponovljene dogodke.</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
   <string name="countdown_event_title">Število dni: %1$s</string>
   <string name="countdown_notify_before_3_day_title">Število dni: %1$s čez 3 dni</string>
@@ -289,6 +291,7 @@
   <string name="local_owner_account_name">Shranjeno na napravo</string>
   <string name="login_failed_toast">"Ne morem se prijaviti, osvežite in poskusite ponovno"</string>
   <string name="lunar_date">Lunin koledar</string>
+  <string name="lunar_to_solar_chinese_calendar">Kitajski v Gregorijanski</string>
   <string name="map_label">Map</string>
   <string name="match_select_activity_label">Izberi ujemanja</string>
   <string name="menu_about_preferences">O koledarju</string>
@@ -483,6 +486,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="setting_about_miui_version">MIUI Verzija:</string>
   <string name="setting_about_summary">Verzija:</string>
   <string name="setting_accounts">Računi koledarja</string>
+  <string name="setting_chinese_calendar">Kitajski koledar</string>
   <string name="setting_daysoff_no_update">Informacije o državnih praznkih so posodobljene.</string>
   <string name="setting_daysoff_update">Posodobite informacije o državnih praznkih</string>
   <string name="setting_daysoff_update_cta_cancel">Dovoli koledarju da se najprej poveže na splet</string>
@@ -496,11 +500,17 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Pokaži praznike</string>
   <string name="show_controls">Pokaži kontrole</string>
+  <string name="shortcut_new_event">Dodaj dogodek</string>
+  <string name="shortcut_next_agenda">Naslednji dogodek</string>
+  <string name="shortcut_settings">Nastavitve</string>
   <string name="show_day_view">Pokaži dan</string>
   <string name="show_newer_events">Tapni za pregled dogodkov po %1$s</string>
   <string name="show_older_events">Tapni za pregled dogodkov pred %1$s</string>
   <string name="snooze_all_label">Odloži vse</string>
   <string name="snooze_label">Odloži</string>
+  <string name="solar_lunar_convert_description">Gregorijanski v tradicionalni kitajski</string>
+  <string name="solar_lunar_convert_tab">Spremeni</string>
+  <string name="solar_to_lunar_chinese_calendar">Gregorijanski v kitajski</string>
   <string name="start_date_calculate">Izračunaj</string>
   <string name="synced">sinhr.</string>
   <string name="tab_title_agenda">Dogodki</string>
@@ -516,6 +526,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="template_week_num">Teden %1$s</string>
   <string name="time_zone">Časovni pas</string>
   <string name="timezone_label">Časovni pas</string>
+  <string name="title_confirm_close_chinese_calendar">Izklop kitajskega koledarja</string>
   <string name="today">Danes</string>
   <string name="today_at_time_fmt">Danes ob %s</string>
   <string name="today_icon_voice_contentdescription">Nazaj na danes</string>

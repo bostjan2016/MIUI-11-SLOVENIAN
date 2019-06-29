@@ -297,6 +297,9 @@
   <string name="confirm_send_message_with_no_body">Ni besedila v telesu sporočila.</string>
   <string name="confirm_send_message_with_no_subject">To sporočilo nima predmeta.</string>
   <string name="confirm_send_title">Pošljem sporočilo?</string>
+  <string name="contact_add_options">Dodaj v stike</string>
+  <string name="contact_add_options_details1">Vsi</string>
+  <string name="contact_add_options_details2">Samo prejemniki</string>
   <string name="contact_edit_set_black_list_from">Premesti vsa sporočila tega pošiljatelja v Smeti</string>
   <string name="contact_edit_set_black_list_receive">Premesti vsa sporočila tega pošiljatelja v Smeti (samo nova sporočila)</string>
   <string name="contact_edit_set_black_list_receive_summary">Izbriši pošto ki vsebuje tega prejemnika v polju Prejemnik ali Kopija</string>
@@ -443,8 +446,8 @@
   <string name="failed">Slike ni bilo mogoče naložiti</string>
   <string name="failed_parse_eml_file">"Ne morem odpreti EML datoteko, poskusite ponovno."</string>
   <string name="failed_read_phone_state_permission">"Nimate dovoljenja za dostop do stanja telefona"</string>
-  <string name="failed_read_write_calendar_permission">"Nimate dovoljenja za dostop do Koledarja"</string>
-  <string name="failed_read_write_contacts_permission">"Nimate dovoljenja za dostop do Stikov"</string>
+  <string name="failed_read_write_calendar_permission">"Dostop do koledarja je omejen"</string>
+  <string name="failed_read_write_contacts_permission">"Dostop do stikov je omejen"</string>
   <string name="feedback">Pošlji povratne informacije</string>
   <string name="feedback_body">Sporočilo</string>
   <string name="feedback_sent">Hvala za vaše povratne informacije</string>
@@ -525,8 +528,9 @@
   <string name="general_preference_text_zoom_normal">Normalno</string>
   <string name="general_preference_text_zoom_small">Majhno</string>
   <string name="general_preference_text_zoom_tiny">Najmanjše</string>
-  <string name="generic_attachment_problem">Datoteke ni mogoče pripeti.</string>
+  <string name="generic_attachment_problem">"Datoteke ni mogoče pripeti."</string>
   <string name="get_database_exception">"Izbrišite podatke te aplikacije v Nastavitve &gt; Aplikacije sistema in poskusite ponovno."</string>
+  <string name="get_oauth_code">Dobi kodo</string>
   <string name="gmail_acceleration">Uporabi proxy strežnik za Gmail Račun</string>
   <string name="gmail_login_confirm_to_use_proxy">Uporabim proxy strežnik za dostop do Gmail Računa?</string>
   <string name="gmail_login_failed_non_proxy_title">"Ne morem dostopiti do Gmail strežnika"</string>
@@ -540,6 +544,7 @@
   <string name="help_and_info">Pomoč</string>
   <string name="help_config">Ročna nastavitev</string>
   <string name="help_me_get_qq_auth">Dobite QQ kodo</string>
+  <string name="help_weixin_title">"Vprašanja nam pošljite na naš službeni WeChat račun: "</string>
   <string name="hide_elided">▼ Skrij citirano besedilo</string>
   <string name="hide_password">Skrij geslo</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -583,6 +588,7 @@
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
   <string name="login_failed_title">"Neuspešna prijava"</string>
   <string name="login_mail">Prijavi se</string>
+  <string name="login_qq_psw">Prijavi se z QQ geslom/kodo za preverjanje</string>
   <string name="login_support_tip_text">Podpira vse glavne račune e-pošte</string>
   <string name="long_press_to_select_tip">Tapnite &amp; držite za izbor enega pogovora, nato tapnite za izbor večih.</string>
   <string name="long_string">dooooooooooooooooooolgo</string>
@@ -668,7 +674,9 @@
   <string name="message_invite_title">Vabilo za dogodek</string>
   <string name="message_saved">Sporočilo shranjeno med osnutke.</string>
   <string name="message_view_attachment_background_load">Ena ali več priponk ki ste jih posredovali se bodo prenesle za pošiljanje.</string>
-  <string name="mibill_privacy_policy_button1">"Ne strinjam se"</string>
+  <string name="mi_sync_erroe_toast">"Omrežna napaka: "</string>
+  <string name="mi_sync_erroe_toast_other">"Napaka strežnika: "</string>
+  <string name="mibill_privacy_policy_button1">Kasneje</string>
   <string name="mibill_privacy_policy_button2">Strinjam se</string>
   <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo tega opravila se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
@@ -700,8 +708,10 @@
   <string name="no_filtrable_email_account">Nema računa za filtriranje</string>
   <string name="no_mails">Ni E-pošte.</string>
   <string name="no_matched_attachment">Ni zadetkov.</string>
+  <string name="no_more_mail">Ni več sporočil</string>
   <string name="no_recognize_describe">"Ne morem najti e-pošt ki vsebujejo vstopnice ali rezervacije.
 Poskusite z ostalo pošto."</string>
+  <string name="no_search_results">"Ne morem najti rezultatov"</string>
   <string name="no_remind">Ne opomni</string>
   <string name="not_subject">(Brez predmeta)</string>
   <string name="not_synced_title">Račun ni sinhroniziran</string>
@@ -854,6 +864,7 @@ Poskusite z ostalo pošto."</string>
   <string name="protocol_legacy_imap">imap</string>
   <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Pritisnite zgornji desni vogal da greste v Nastavitve po tem ko sprejmete</string>
+  <string name="pull_load_more">Podrsajte gor za prenašanje več</string>
   <string name="pull_to_refresh">Podrsajte navzdol za osvežitev</string>
   <string name="pull_up_to_load_more">Prenesi več</string>
   <string name="push_wps_better_confirm_download">Prenesi</string>
@@ -941,6 +952,9 @@ Poskusite z ostalo pošto."</string>
   <string name="refreshing_done">Končano</string>
   <string name="release_to_refresh">Spustite za osvežitev</string>
   <string name="remind_attachment_size_limit">Vaš e-mail bi moral biti manjši od %sMB</string>
+  <string name="remote_no_mail">"Na strežniku ni več sporočil e-pošte."</string>
+  <string name="remote_search_body_too_large_prompt">"Sporočilo je predolgo.
+Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</string>
   <string name="remove_account">Odstrani račun</string>
   <string name="remove_folder">Odstrani iz %1$s</string>
   <string name="remove_star">Odstrani zvezdico</string>
@@ -972,6 +986,7 @@ Poskusite z ostalo pošto."</string>
   <string name="sdcard_cannot_use">"Ne morem uporabiti SD kartice"</string>
   <string name="search_bar_text">Iskanje sporočil in stikov</string>
   <string name="search_hint">Preišči pošto</string>
+  <string name="search_remote_again">Omrežje ni na voljo, poskusite ponovno</string>
   <string name="search_result">Zadetki</string>
   <string name="search_tabs_name_all">Vse</string>
   <string name="search_tabs_name_recipient">Prejemnik</string>
@@ -1055,6 +1070,7 @@ Poskusite z ostalo pošto."</string>
   <string name="sync_contacts_req_per_ignored">Sinhronizacija stikov ni uspela</string>
   <string name="sync_error">Sinhronizacija ni mogoča.</string>
   <string name="sync_error_message">Vaša naprava nima dovolj prostora za sinhronizacijo.</string>
+  <string name="sync_failed_mi_authority_view_detail">Pokaži podrobnosti</string>
   <string name="syncing_wait_restart">Poskusi ponovno</string>
   <string name="syncing_wait_restart_title">"Povezava strežnika je potekla, ne morem prebrati sporočila"</string>
   <string name="system_account_create_failed">Računa ni bilo mogoče ustvariti. Poskusite ponovno.</string>
@@ -1082,7 +1098,9 @@ Poskusite z ostalo pošto."</string>
   <string name="toast_bar_no_connection_network">"Niste povezani s spletom"</string>
   <string name="toast_bar_open_gmail_synchronization">Dotaknite se za uporabo proxy strežnika za Gmail</string>
   <string name="toast_bar_send_fail_remind">"Ne morem poslati e-pošte. Shranjeno v mapo \"Odhodno\".</string>
-  <string name="toast_bar_sync_failed_mi_authority">"Ne morem sinronizirati. Počakajte minuto ali dve in poskusite ponovno. Če se prvič prijavljate avtorizirajte svojo napravo preko spleta/SMS tokena."</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Ne morem sinronizirati. Počakajte minuto ali dve in poskusite ponovno. 
+   
+(Če uporabljate nepooblaščeno napravo se povežite na splet ali uporabite kontrolno kodo.)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Dovoljenja koledarja in stikov so zaprta. Koledar in stiki se ne morejo sinhronizirati</string>
   <string name="toastbar_calendar_permission_switch_close">Dovoljenja koledarja so zaprta. Koledar se ne more sinhronizirati</string>
   <string name="toastbar_contacts_permission_switch_close">Dovoljenja stikov so zaprta. Stiki se ne morejo sinhronizirati</string>
@@ -1117,8 +1135,8 @@ Zaustavim zdaj?"</string>
   <string name="unselected_lable">Več</string>
   <string name="unzip_file_failed">"Ne morem razširiti!"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
-  <string name="update_domain_summary">Posodobi seznam domen in konfiguracijo</string>
-  <string name="update_domain_title">Posodobi domeno</string>
+  <string name="update_domain_summary">Posodobi seznam domen na voljo in konfiguracijo</string>
+  <string name="update_domain_title">Posodobi nastavitve domene</string>
   <string name="update_to_wps_mail">Uživajte v dodatnih opravilih storitve WPS Mail</string>
   <string name="updated_at">Osveženo ob: %1$s</string>
   <string name="upload_log">Pošlji</string>
