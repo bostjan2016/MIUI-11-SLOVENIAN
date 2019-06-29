@@ -952,7 +952,6 @@ Poskusite z ostalo pošto."</string>
   <string name="refreshing_done">Končano</string>
   <string name="release_to_refresh">Spustite za osvežitev</string>
   <string name="remind_attachment_size_limit">Vaš e-mail bi moral biti manjši od %sMB</string>
-  <string name="remote_no_mail">"Na strežniku ni več sporočil e-pošte."</string>
   <string name="remote_search_body_too_large_prompt">"Sporočilo je predolgo.
 Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</string>
   <string name="remove_account">Odstrani račun</string>
