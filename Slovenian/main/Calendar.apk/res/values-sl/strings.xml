@@ -80,7 +80,7 @@
   <string name="birthday_event_description_a_week_later">Teden kasneje</string>
   <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
-  <string name="birthday_event_description_default">"%1$s %4$s, %2$s. %3$s"</string>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_special">"%1$s ima %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Danes</string>
   <string name="birthday_event_description_tomorrow">Jutri</string>

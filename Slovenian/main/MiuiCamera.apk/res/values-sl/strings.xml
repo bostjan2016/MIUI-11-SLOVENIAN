@@ -744,7 +744,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite sprožilec za zaklep AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Leče</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE &amp; AF Zakl.</string>
-  <string name="pref_camera_magic_mirror_title">Magic mirror</string>
+  <string name="pref_camera_lying_summary">Obvesti o trenutni orientaciji ko je telefon vzporeden s tlemi</string>
+  <string name="pref_camera_lying_title">Obvesti o orientaciji</string>
+  <string name="pref_camera_magic_mirror_title">Magično ogledalo</string>
   <string name="pref_camera_manual_mode_title">Ročno</string>
   <string name="pref_camera_mfnr_sat_enable_title">Vključi MFNR</string>
   <string name="pref_camera_mono_mode_title">Mono</string>
@@ -1096,6 +1098,8 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="undo">Prekliči</string>
   <string name="unit_mm">mm</string>
   <string name="user_agree">Strinjam se</string>
+  <string name="user_define_watermark_cancel">Prekliči</string>
+  <string name="user_define_watermark_save">Shrani</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>
   <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s. Se strinjate z povezavo s spletom?"</string>
@@ -1140,4 +1144,5 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">"Pred povezovanjem preverite če je omrežje varno."</string>
   <string name="zoom_no_support_tip_48M">"Zoomiranje ne dela v 48MP načinu"</string>
+  <string name="zoom_no_support_tip_64M">Zoomiranje ne dela v 64MP načinu</string>
 </resources>

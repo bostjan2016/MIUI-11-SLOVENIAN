@@ -219,7 +219,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="account_settings_menu_auto_sync">Samod. sinhronizacija podatkov</string>
   <string name="account_settings_menu_auto_sync_personal">Samod. sinhron. oseb. podatkov</string>
   <string name="account_settings_menu_auto_sync_work">Samod. sinhr. delov. podatkov</string>
-  <string name="account_settings_title">Računi</string>
+  <string name="account_settings_title">Google &amp; Računi</string>
   <string name="account_summary">Varnostno kopiraj Google račun, Mi račun in ostale podatke</string>
   <string name="account_sync_settings_title">Sinhronizacija</string>
   <string name="account_sync_summary_all_off">Sinhronizacija izključena za vse stvari</string>
@@ -388,7 +388,10 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="another_migration_already_in_progress">Poteka že druga selitev.</string>
   <string name="anr_record_interval_title">Posnemi ANR intervale</string>
   <string name="anti_spam">Seznam blokiranih</string>
+  <string name="aod_and_lock_screen_settings_title">Ambientalni zaslon &amp; Zakl. zaslon</string>
   <string name="aod_clock_style_title">Stil ure</string>
+  <string name="aod_settings_category_name">Ambientalni zaslon</string>
+  <string name="aod_settings_title">Ambientalni zaslon</string>
   <string name="aod_close_color_inversion">"To opravilo se ne more kombinirati z inverzijo barv. Izključite jo."</string>
   <string name="aod_dual_togother">HH:MM</string>
   <string name="aod_dual_togother_12">hh:mm aa</string>
@@ -544,6 +547,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="applications_settings">Urejaj aplikacije</string>
   <string name="applications_settings_header">Nastavitve aplikacij</string>
   <string name="applications_settings_summary">Upravljanje aplikacij, nastavljanje bližnjic za hiter zagon</string>
+  <string name="applications_settings_title">Aplikacije</string>
     <string name="apply">Uporabi</string>
   <string name="apply_fingerprint_to_category_title">Uporabi prstni odtis za…</string>
   <string name="apply_now_button_text">Posodobi</string>
@@ -2686,6 +2690,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="feature_title_mms_setting">Nastavitve MMS</string>
   <string name="feature_title_sms">Sporočila</string>
   <string name="feedback">Povratna inf.</string>
+  <string name="feedback_settings">Povratna inf.</string>
   <string name="file_privacy_password_role_instruction">Vaše zasebne datoteke bodo shranjene tukaj.</string>
   <string name="file_uploading">Osveževanje…</string>
   <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videoposnetke, podatke aplikacij itd.)</string>
@@ -2903,6 +2908,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="frequently_fragment_tempty">Pogosto uporabljene stvari bodo tukaj prikazane</string>
   <string name="fsg_mistake_touch_summary">V nekaterih prizorih, kot igre in videoposnetki na celem zaslonu, morajo gibi biti dvakrat napravljeni da imajo efekt</string>
   <string name="fsg_mistake_touch_title">Dvakrat preveri za gibe</string>
+  <string name="full_screen_display">Cel zaslon</string>
   <string name="full_transparent_smarrcover_title">Prozorni prednji pokrov</string>
   <string name="fullbackup_data_summary">"Daljinsko zaženite samodejno izdelavo var. kopije podatkov naprave (npr. gesla WiFi, zgodovina klicev) in podatkov aplikacij (npr. nastavitve in datoteke ki jih aplikacije hranijo).
 
@@ -2928,6 +2934,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gadget_wifi">WiFi</string>
   <string name="gallery_privacy_password_role_instruction">Vaše zasebne fotografije bodo shranjene tukaj.</string>
   <string name="gallery_summary">Nastavitve galerije (ne vključuje fotografij)</string>
+  <string name="game_booster_title">Game Turbo</string>
   <string name="game_controller_settings_category">Krmilnik za igre</string>
   <string name="game_mode_cta_dialog_agree">Strinjam se</string>
   <string name="game_mode_cta_dialog_cancel">Prekliči</string>
@@ -2959,10 +2966,13 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
   <string name="global_font_change_title">Spremenjena velikost pisave</string>
   <string name="global_locale_change_title">Spremba jezika</string>
+  <string name="gmscore_settings_title">Osnovne Google storitve</string>
     <string name="go_back_button_label">Nazaj</string>
   <string name="go_to_sleep">Izključi zaslon</string>
+  <string name="google_account_title">Google</string>
   <string name="google_backup_enable">Vključi var. kopije</string>
-  <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
+  <string name="google_backup_section_title">Google shramba &amp; povrnitev</string>
+  <string name="google_service_title">Google storitve</string>
   <string name="google_title">Google</string>
   <string name="google_wallet">Google denarnica</string>
   <string name="got_it">V redu</string>
@@ -3033,6 +3043,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="header_category_system">SISTEM</string>
   <string name="header_category_wireless_networks">Brezžično &amp; omrežja</string>
     <string name="header_data_and_synchronization">Podatki in sinhronizacija</string>
+  <string name="headset_settings_title">Slušalke</string>
   <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
   <string name="headset_calibrate">Nastavitev tipk</string>
   <string name="heavy_weight_stop_description">Aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
@@ -3060,6 +3071,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="home_app">Zaganjalnik</string>
   <string name="home_app_uninstall_button">Odstrani to aplikacijo</string>
   <string name="home_key">Domov</string>
+  <string name="home_title">Zač. zaslon</string>
   <string name="home_settings">Domov</string>
   <string name="home_work_profile_not_supported">Ne podpira delovnih profilov</string>
   <string name="hsa_code_null">Koda za preverjanje ne sme biti prazna</string>
@@ -3214,6 +3226,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="key_position_cat">Položaj tipk</string>
   <string name="key_settings">Tipke</string>
   <string name="key_settings_title">Tipke</string>
+  <string name="key_shortcut_settings_title">Bližnjice tipk</string>
   <string name="key_system_control">Kontrola sistema</string>
   <string name="keyboard_and_input_methods_category">Tipkovnica in načini vnosa</string>
   <string name="keyboard_assistance_category">Pomoč za tipkovnico</string>
@@ -3524,6 +3537,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_profile_wipe_warning_content_password">Če tudi tokrat vnesete nepravilno geslo za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_content_pattern">Če tudi tokrat vnesete nepravilni vzorec za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
   <string name="lock_profile_wipe_warning_content_pin">Če tudi tokrat vnesete nepravilno kodo PIN za delovni profil, bodo delovni profil in povezani podatki odstranjeni iz te naprave.</string>
+  <string name="lock_screen_display_category_name">Zakl. zaslon</string>
   <string name="lock_profile_wipe_warning_title">Zadnji poskus</string>
   <string name="lock_screen_cells_title">Zakleni razpored začet. zaslona</string>
   <string name="lock_screen_intro_skip_dialog_text">Opravila za zaščito naprave ne bodo aktivirana. V primeru izgube ali kraje telefona drugim ne boste mogli preprečiti njegove uporabe.</string>
@@ -3546,6 +3560,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
   <string name="lock_screen_signature_summary">Sporočilo bo prikazano na zakl. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o lastniku na zakl. zaslonu</string>
+  <string name="lock_screen_tip_toast">Najprej omogočite v nastavitvah obvestil aplikacije</string>
   <string name="lock_screen_unlock_show">Preskoči zakl. zaslona</string>
   <string name="lock_screen_unlock_show_summary">Odpri začetni zaslon ali neposreden vnos gesla</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tapni za spremembo</string>
@@ -4010,6 +4025,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_sos_contacts_add">Stiki v sili</string>
   <string name="miui_sos_contacts_category">Stiki v sili</string>
   <string name="miui_sos_emergency_contacts">Stiki v sili</string>
+  <string name="miui_sos_emergency_delete">Izbriši</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) je že sprejel</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s je že sprejel</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">"Ne morem poslati sporočilo na %1s (%2s)."</string>
@@ -4073,6 +4089,7 @@ Na tej napravi je več uporabnikov.
   <string name="modem_tool_log_stop_toast">"Ustavi zapis modema iz %s"</string>
   <string name="modify_instruction_password_settings">Nastavi geslo</string>
   <string name="modify_privacy_password">Zamenjaj geslo</string>
+  <string name="more_account_settings_title">Ostali računi</string>
   <string name="more_dangerous_option_hint">Stvari visokega tveganja, vključno \"%1$s\" so omogočene. Tapni za spremembo nastavitev.</string>
   <string name="more_installed_services_title">Več storitev prenosa</string>
   <string name="move_app">Premakni</string>
@@ -4381,8 +4398,10 @@ Na tej napravi je več uporabnikov.
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
   <string name="not_battery_optimizing">Ne uporablja optimizacijo baterije</string>
   <string name="not_installed">Ni nameščeno</string>
+  <string name="notch_and_status_bar_settings">Zob &amp; vrstica obvestil</string>
   <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
   <string name="notch_force_black_title">Skrij zob zaslona</string>
+  <string name="notch_settings">Zob</string>
   <string name="note_title">Beležke</string>
   <string name="notes_privacy_password_role_instruction">Vaše zasebne beležke bodo shranjene tukaj.</string>
   <string name="nothing_searched">Ni zadetkov</string>
@@ -4429,6 +4448,7 @@ Na tej napravi je več uporabnikov.
     <string name="notification_badging_title">Dovoli obvestilne pike</string>
   <string name="notification_breathing_light_color_title">Barvno svetlobno obvestilo</string>
   <string name="notification_breathing_light_freq_title">Frekvenca barvnega LED obvestila</string>
+  <string name="notification_center">Obvestila</string>
     <string name="notification_channel_badge_title">Pokaži obvestilno piko</string>
     <string name="notification_channel_sound_title">Zvok</string>
     <string name="notification_channel_summary_default">Visoka pomembnost</string>
@@ -4630,6 +4650,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="other_settings_sync_settings">Sinhr.</string>
     <string name="other_sound_category_preference_title">Drugi zvoki in vibriranja</string>
   <string name="other_sound_settings">Drugi zvoki</string>
+  <string name="other_sound_settings_title">Dodatne nastavitve</string>
   <string name="others">Ostalo</string>
     <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
     <string name="overlay_settings">Prekrivanje drugih aplikacij</string>
@@ -4719,9 +4740,11 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
   <string name="password_entrance_title">Nastavi zakl. zaslona</string>
   <string name="password_guard">Geslo</string>
+  <string name="password_security_settings_title">Geslo &amp; varnost</string>
   <string name="password_null">Polje Geslo ne sme biti prazno</string>
   <string name="password_turned_off_text">Geslo je izključeno</string>
   <string name="password_turned_on_text">Geslo je vključeno</string>
+  <string name="password_unlock_title">Geslo</string>
   <string name="path_about_about_settings">Nastavitve/O napravi</string>
   <string name="path_accelerometer_settings">Nastavitve/Zaslon/Samodejno obrni zaslon</string>
   <string name="path_access_control_settings">Nastavitve/Dodatne nastavitve/Zasebnost/Nastavitve zasebnosti</string>
@@ -5220,6 +5243,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="privacy_password_use_finger_success">Vključeno</string>
   <string name="privacy_password_visible_pattern">Prikaži vzorec</string>
   <string name="privacy_protect_title">Varovanje zasebnosti</string>
+  <string name="privacy_protection_title">Zasebnost</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="privacy_settings">Varnostno kopiraj &amp; ponastavi</string>
   <string name="privacy_settings_title">Napravi var. kopijo &amp; ponastavi</string>
@@ -5423,7 +5447,8 @@ Vmesnik UT: %5$s"</string>
   <string name="recommend_item_3">Mobilni polnilec</string>
   <string name="recommend_item_4">Slušalke</string>
   <string name="recommend_item_title">Priporočeno</string>
-    <string name="recompute_size">Preračunavanje velikosti ...</string>
+  <string name="recommend_tip">Potrebujete druge nastavutve?</string>
+    <string name="recompute_size">Preračunavanje velikosti…</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
   <string name="recreate_soft_ap_tips">Tapnite tipko spodaj da poskusite ponovno.</string>
@@ -5704,6 +5729,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_resolution_title">Resolucija zaslona</string>
   <string name="screen_resolution_ultrahigh_format">Ultravisoka (%1$s)</string>
   <string name="screen_saturation">Nasičenost</string>
+  <string name="screen_settings">Zakl. zaslon</string>
   <string name="screen_shot">Posnemi posnetek zaslona</string>
   <string name="screen_timeout">Stanje pripravljenosti</string>
     <string name="screen_timeout_summary">Po toliko nedejavnosti: %1$s</string>
@@ -6194,6 +6220,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
   <string name="settings_license_activity_unavailable">Pri nalaganju licenc je prišlo do težave.</string>
   <string name="settings_manual_activity_title">Priročnik</string>
   <string name="settings_manual_activity_unavailable">Prišlo je do težav pri prenosu priročnika.</string>
+  <string name="settings_new_version_btn">Posodobi</string>
   <string name="settings_notify_need_backup">Izdelajte varnostno kopijo nastavitev na Mi Cloud da jo lahko uporabite po zamenjavi telefona.</string>
   <string name="settings_notify_new_version">Posodobitev je na voljo. Tapnite za prikaz podrobnosti.</string>
   <string name="settings_notify_phone_recycled">Vaša telefonska številka je reciklirana. Pritisnite za dodajanje druge telefonske številke.</string>
@@ -6601,6 +6628,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Pokaži obvestila na zaklenjenem zaslonu in spusti predogled spodaj</string>
   <string name="status_bar_settings_show_wifi_name">Prikaži WiFi</string>
   <string name="status_bar_settings_status_bar">Vrstica stanja</string>
+  <string name="status_bar_title">Vrstica obvestil</string>
   <string name="status_bar_settings_style">Obvestila &amp; razpored bližnjic</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Po dotiku zapri</string>
   <string name="status_bar_settings_toggle_layout_style">Vključi/izključi slog izgleda</string>
@@ -7497,6 +7525,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="unlock_disable_lock_pattern_summary">Odstrani vzorec za odklepanje</string>
   <string name="unlock_disable_lock_pin_summary">Izključi PIN</string>
   <string name="unlock_disable_lock_title">Izklopi zaklepanje zaslona</string>
+  <string name="unlock_mode_title">Zakl. zaslon</string>
     <string name="unlock_set_do_later_title">Ne zdaj</string>
   <string name="unlock_set_enter_system">Preskoči zaklepanje zaslona</string>
   <string name="unlock_set_enter_system_summary">Iz spanja pojdi neposredno na začetni zaslon </string>
@@ -7935,6 +7964,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="volume_category_title">Glasnost</string>
   <string name="volume_hifi_description">HiFi nastavitve</string>
   <string name="volume_label">Glasnost</string>
+  <string name="volume_launch_camera_summary">Dvakrat pritisnite tipko za glasnost da odprete kamero ko je zaslon zaklenjen</string>
   <string name="volume_media_description">Glasba, videoposnetki, igre in druge predstavnosti</string>
   <string name="volume_media_mute">Izklop glasbe in drugih medijev</string>
   <string name="volume_notification_description">Obvestila</string>
@@ -8031,6 +8061,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
     <string name="vt_provisioned_switch_string">Videoklicanje je pripravljeno</string>
   <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija v kateri iščete napako pred izvajanjem čaka na povezavo z iskalnikom napak</string>
+  <string name="wakeup_and_sleep_settings_category_name">Nastavitve zakl. zaslona</string>
   <string name="wait_link">"Odprite Mi Mover v starom uređaju,
 Ne zapuščjte strani dokler se povezava ne vzpostavi. "
 Tapnite \"Sem pošiljatelj\" in izberite hotspot za povezovanje.

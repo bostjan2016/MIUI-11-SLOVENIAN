@@ -1186,6 +1186,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="function_shield_summary_m">Omejite samodejno svetlobo in gibe zaslona</string>
   <string name="function_shield_three_finger">Omejite gibe posnetka zaslona</string>
   <string name="function_shield_title">Izboljšana izkušnja</string>
+  <string name="function_shield_voice_trigger">"Ne budi Mi AI z glasom"</string>
   <string name="fw_blocked">Seznam blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" in "</string>
