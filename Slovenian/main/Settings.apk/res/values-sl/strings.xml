@@ -1308,8 +1308,12 @@ Avdio"</string>
   <string name="bootloader_status_unlocked">Odklenjeno</string>
   <string name="bootloader_status_unlocked_info">Naprava je odklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
-  <string name="bootloader_tips">"Ko dodate svoj Mi Račun se ne odjavite, napravite povrnitev na tovarniške nastavitve ali izbrišite podatke aplikacij sistema. Če naredite nekaj od zgoraj navedenega, ponovno dodajte svoj račun ali ne boste mogli odkleniti naprave."</string>
+  <string name="bootloader_tips">"%s
+  
+  
+  Če ste že storili kaj od zgoraj navedenega, ponovno dodajte svoj Mi račun; drugače ne boste mogli odkleniti naprave."</string>
   <string name="bootloader_tips_ok">Razumem</string>
+  <string name="bootloader_tips_warning">"Ne prekinite povezave z omrežjem, odjavite se iz Mi računa, naredite vrnitev na tovarniške nastavitve ali brišite podatke sistema."</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -2238,6 +2242,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="disabled_dependent_setting_summary">Ta nastavitev je odvisna od druge nastavitve</string>
     <string name="disabled_for_user_setting_summary">Trenutni uporabnik ne sme spremeniti nastavitve</string>
     <string name="disabled_low_ram_device">To opravilo ni na voljo v tej napravi.</string>
+  <string name="disallow_lock_screen_summary">Najprej dovolite obvestila v \"Obvestila aplikacij\"</string>
   <string name="disconnect">Prekini povezavo</string>
   <string name="disconnected">Povezava je prekinjena</string>
   <string name="display_auto_rotate_rotate">Vključi</string>
@@ -3560,7 +3565,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
   <string name="lock_screen_signature_summary">Sporočilo bo prikazano na zakl. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o lastniku na zakl. zaslonu</string>
-  <string name="lock_screen_tip_toast">Najprej omogočite v nastavitvah obvestil aplikacije</string>
   <string name="lock_screen_unlock_show">Preskoči zakl. zaslona</string>
   <string name="lock_screen_unlock_show_summary">Odpri začetni zaslon ali neposreden vnos gesla</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Tapni za spremembo</string>
@@ -7354,7 +7358,7 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_success_dialog_market_comment_title">"Vaša nova naprava uživa.
 Vam je všeč Mi Mover?"</string>
   <string name="trans_success_dialog_survey_title">Cenimo vaše povratne informacije</string>
-  <string name="trans_success_survey_hint">Najprej izpolnite sva polja.</string>
+  <string name="trans_success_survey_hint">Najprej izpolnite vsa polja.</string>
   <string name="trans_switching_5g">Menjava na 5GHz WiFi…</string>
   <string name="trans_time_format_second">Manj od 1 minute</string>
   <string name="trans_time_spent">"Porabljeni čas: %s"</string>

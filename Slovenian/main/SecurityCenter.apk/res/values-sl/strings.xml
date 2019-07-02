@@ -15,7 +15,7 @@
   <string name="SMS_SERVICE">Seznam blokiranih storitev</string>
   <string name="SMS_and_MMS">SMS in MMS</string>
   <string name="SMSpass">Dovoli SMS</string>
-  <string name="STRANGER_BLOCK">Seznam blokiranih strani</string>
+  <string name="STRANGER_BLOCK">Seznam blokiranih neznancev</string>
   <string name="Setting_lock">Nastavitve</string>
   <string name="Settings_title_anti_spam">Nastavitve seznama blokad</string>
   <string name="Settings_title_anti_virus">Nastavitve Varnostnega preverjanja</string>
@@ -1278,6 +1278,11 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Zavrni</string>
   <string name="gb_description_image_button_video_answer">Videoklic</string>
+  <string name="gb_first_guide_function_shiled_title">Izključi storitve sistema ko je Game Turbo vključen</string>
+  <string name="gb_first_guide_gamebox_des">Med igranjem uporabite bližnjice</string>
+  <string name="gb_first_guide_handsfree_des">Odgovorite na klice v ozadju</string>
+  <string name="gb_first_guide_shortcut_des">Bližnjica na zač. zaslonu za Game Turbo je napravljena</string>
+  <string name="gb_first_guide_title">Povečaj hitrost in zmogljivost na nivoju sistema</string>
   <string name="gb_first_window_antimsg_summary_quick_answer">Uporabi hitre odgovore</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Poglejte tekst na prozorni podlagi</string>
   <string name="gb_first_window_antimsg_title">Lepa obvestila</string>

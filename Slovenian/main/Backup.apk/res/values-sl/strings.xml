@@ -608,7 +608,7 @@ Izberite samo važne stvari da bo prenos hitrejši."</string>
   <string name="trans_success_dialog_market_comment_title">"Vaša nova naprava uživa.
 Vam je všeč Mi Mover?"</string>
   <string name="trans_success_dialog_survey_title">Cenimo vaše povratne informacije</string>
-  <string name="trans_success_survey_hint">Najprej izpolnite sva polja.</string>
+  <string name="trans_success_survey_hint">Najprej izpolnite vsa polja.</string>
   <string name="trans_switching_5g">Menjava na 5GHz WiFi…</string>
   <string name="trans_time_format_second">Manj od 1 minute</string>
   <string name="trans_time_spent">"Porabljeni čas: %s"</string>
