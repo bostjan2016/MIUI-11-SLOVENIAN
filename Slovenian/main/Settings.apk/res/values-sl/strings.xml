@@ -5453,7 +5453,7 @@ Vmesnik UT: %5$s"</string>
   <string name="recommend_item_3">Mobilni polnilec</string>
   <string name="recommend_item_4">Slušalke</string>
   <string name="recommend_item_title">Priporočeno</string>
-  <string name="recommend_tip">Potrebujete druge nastavutve?</string>
+  <string name="recommend_tip">Potrebujete druge nastavitve?</string>
     <string name="recompute_size">Preračunavanje velikosti…</string>
   <string name="reconnect">Ponovno poveži</string>
   <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
@@ -7536,7 +7536,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="unlock_set_enter_system">Preskoči zaklepanje zaslona</string>
   <string name="unlock_set_enter_system_summary">Iz spanja pojdi neposredno na začetni zaslon </string>
   <string name="unlock_set_unlock_biometric_weak_summary">Eksperimentalna storitev z nizko ravnjo varnosti</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Odklepnaje z obrazom</string>
+  <string name="unlock_set_unlock_biometric_weak_title">Odklepanje z obrazom</string>
     <string name="unlock_set_unlock_disabled_summary">Onemogočil skrbnik, pravilnik za šifriranje ali shramba poverilnic</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Spremeni ali onemogoči vzorec, PIN ali geslo</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Sprememba zakl. zasl.</string>
@@ -7545,7 +7545,7 @@ Vam je všeč Mi Mover?"</string>
     <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s/Takoj po stanju pripravljenosti</string>
   <string name="unlock_set_unlock_launch_picker_title">Zaklepanje zaslona</string>
   <string name="unlock_set_unlock_launch_picker_title_profile">Zakl. delovnega profila</string>
-  <string name="unlock_set_unlock_mode_biometric_weak">Odklepnaje z obrazom</string>
+  <string name="unlock_set_unlock_mode_biometric_weak">Odklepanje z obrazom</string>
   <string name="unlock_set_unlock_mode_none">Vlečenje</string>
   <string name="unlock_set_unlock_mode_off">Brez</string>
   <string name="unlock_set_unlock_mode_password">Geslo</string>

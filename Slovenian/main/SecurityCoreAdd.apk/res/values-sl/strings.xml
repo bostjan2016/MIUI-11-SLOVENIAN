@@ -358,8 +358,8 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="settings_space_data">Podatki</string>
   <string name="settings_status_icon_summary">Prikaži ikono Drugega prostora v vrstici obvestil</string>
   <string name="settings_status_icon_title">Ikona Drugega prostora</string>
-  <string name="settings_switch_shortcut_summary">Prikaži bližnjico zač. zaslona v Prvem prostoru</string>
-  <string name="settings_switch_shortcut_title">Bližnjica Začet. zaslona</string>
+  <string name="settings_switch_shortcut_summary">Prikaži bližnjico zač. zaslona v prvem prostoru</string>
+  <string name="settings_switch_shortcut_title">Bližnjica začet. zaslona</string>
   <string name="settings_switch_space">Sprememba prostora</string>
   <string name="show_decktop_quick_switch_icon">Bližnjica zač. zaslona</string>
   <string name="show_decktop_quick_switch_icon_detail">Pokaži bližnjico za spremembo prostora na zač. zaslonu v prvem prostoru</string>

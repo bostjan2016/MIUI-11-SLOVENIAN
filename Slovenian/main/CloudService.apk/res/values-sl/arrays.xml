@@ -112,7 +112,7 @@
     <string-array name="settings_search_backup_setting">
         <item>Napravite var. kopijo začetnega zaslona v Mi Cloud</item>
         <item>Napravite var. kopijo videza začetnega zaslona, popis nameščenih aplikacij in nastavitev sistema</item>
-        <item>Cloud;var. kopija;var. kopija;Cloud storitve;Mi Cloud;Začetni zaslon;Vdez;Aplikacije;Nastavitve;Pogostost var. kopije;Urejanje var. kopij;Povrni</item>
+        <item>Cloud;var. kopija;var. kopija;Cloud storitve;Mi Cloud;Začetni zaslon;Videz;Aplikacije;Nastavitve;Pogostost var. kopije;Urejanje var. kopij;Povrni</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Var. kopije</item>
