@@ -2964,7 +2964,6 @@ Ko vkljuÄite samodejno izdelavo var. kopije se podatki naprave in aplikacij obÄ
     <string name="gesture_setting_off">Izklopljeno</string>
     <string name="gesture_setting_on">Vklopljeno</string>
   <string name="gesture_w">Vzorec W</string>
-  <string name="gesture_wakeup_title">Dvakrat se dotaknite zaslona za bujenje</string>
   <string name="gesture_z">Vzorec Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
