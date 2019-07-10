@@ -2658,7 +2658,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="every_day">Vsak dan</string>
   <string name="exchange_account">Zamenjaj račun</string>
     <string name="expand_button_title">Dodatno</string>
-  <string name="expandable_under_keyguard_title">Pokaži na zakl. zaslonu</string>
+  <string name="expandable_under_keyguard_title">Razširljivo na zakl. zaslonu</string>
   <string name="experience_optimization_category">Optimizacija</string>
   <string name="experimental_category_title">Poskusno</string>
   <string name="experimental_preference">(Poskusno)</string>
@@ -2964,6 +2964,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
     <string name="gesture_setting_off">Izklopljeno</string>
     <string name="gesture_setting_on">Vklopljeno</string>
   <string name="gesture_w">Vzorec W</string>
+  <string name="gesture_wakeup_summary">Dvakrat tapni za izklop zaslona če je uporabljena privzeta ali klasična tema</string>
   <string name="gesture_z">Vzorec Z</string>
   <string name="giga_hertz">GHz</string>
   <string name="gigabyteShort">GB</string>
@@ -3558,6 +3559,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_notifications_summary_show">Pokaži vso vsebino obvestil</string>
     <string name="lock_screen_notifications_summary_show_profile">Pokaži vso vsebino obvestil delovnega profila</string>
   <string name="lock_screen_notifications_title">Na zaklenjenem zaslonu</string>
+  <string name="lock_screen_settings_title">Zakl. zaslon</string>
   <string name="lock_screen_secure_after_timeout_immediately_never">Nikoli ne zahtevaj gesla.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Takoj je potrebno geslo</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebno je geslo za %1$s</string>
@@ -4407,6 +4409,11 @@ Na tej napravi je več uporabnikov.
   <string name="notch_force_black_desc">Ko je vključeno je področje zoba zaslona črno</string>
   <string name="notch_force_black_title">Skrij zob zaslona</string>
   <string name="notch_settings">Zob</string>
+  <string name="notch_style_mod_description">Možnosti prikaza zoba in vrstice obvestil</string>
+  <string name="notch_style_mod_title">Skrij zob</string>
+  <string name="notch_style_show">"Ne skrivaj"</string>
+  <string name="notch_style_status_bar_inside">Skrij brez premikanja vrstice obvestil</string>
+  <string name="notch_style_status_bar_outside">Skrij in premakni vrstico obvestil</string>
   <string name="note_title">Beležke</string>
   <string name="notes_privacy_password_role_instruction">Vaše zasebne beležke bodo shranjene tukaj.</string>
   <string name="nothing_searched">Ni zadetkov</string>
@@ -4441,12 +4448,12 @@ Na tej napravi je več uporabnikov.
   <string name="notif_trans_wait_for_reconnecting">Povezava je prekinjena. Ponovno se povežite.</string>
   <string name="notifi_channels">Kategorije obvestil</string>
   <string name="notifi_channels_other">Ostalo</string>
-  <string name="notifi_importance_default">Predvajaj zvok in pokaži na zakl. zaslonu.</string>
-  <string name="notifi_importance_high">Predvajaj zvok in pokaži na zakl. zaslonu, dovoli prikaz preko celega zaslona.</string>
-  <string name="notifi_importance_low">"Ne predvajaj zvoka"</string>
-  <string name="notifi_importance_min">"Ne prikaži na zakl. zaslonu, ne predvajaj zvoka"</string>
-  <string name="notifi_importance_none">Izključeno</string>
-  <string name="notifi_importance_unspecified">Naj aplikacija odloči</string>
+  <string name="notifi_importance_default">Predvajaj zvok.</string>
+  <string name="notifi_importance_high">Predvajaj zvok in pokaži na zaslonu.</string>
+  <string name="notifi_importance_low">Prikaži tiho</string>
+  <string name="notifi_importance_min">Prikaži tiho in minimiraj</string>
+  <string name="notifi_importance_none">Nikada ne kaži obvestil</string>
+  <string name="notifi_importance_unspecified">Dovoli zvok</string>
   <string name="notifi_no_channels">"Ta aplikacija ni dobila nobenega obvestila"</string>
   <string name="notification_app_settings_button">Nastavitve obvestil</string>
     <string name="notification_badge_title">Dovoli obvestilno piko</string>
@@ -5008,7 +5015,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="pointer_location_summary">Prekriv. zaslona prikazuje tren. podatke za dotik</string>
   <string name="pointer_settings_category">Miška/sledilna ploščica</string>
   <string name="pointer_speed">Hitrost kazalca</string>
-  <string name="popup_gesture_summary">Dvignite telefon in poglejte zaslon da bste samodejno odprli sprednjo kamero</string>
+  <string name="popup_gesture_summary">Pojdite na začetni zaslon, dvignite telefon in poglejte zaslon da boste samodejno odprli sprednjo kamero</string>
   <string name="popup_gesture_title">Dvignite telefon za odpiranje sprednje kamere</string>
   <string name="popup_window">Omeji pojavna okna</string>
   <string name="power_apps">Aplikacije</string>
@@ -5343,6 +5350,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="quick_launch_title">Hitri zagon</string>
   <string name="quick_reply_title">Hitri odgovori</string>
     <string name="quick_settings_developer_tiles">Ploščice razvijalcev za hitre nastavitve</string>
+  <string name="quick_settings_under_keyguard_summary">Omogoči dostop do hitrih nastavitev dokler je naprava zaklenjena</string>
+  <string name="quick_settings_under_keyguard_title">Dostop do hitrih nastavitev</string>
   <string name="quick_settings_label">Bližnjice</string>
   <string name="quiet">Ne moti</string>
   <string name="quiet_group">Ne moti</string>
@@ -5993,7 +6002,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_status_bar">Obvestila &amp;Statusna vrstica;Obvestila;Statusna vrstica;status;Obvestila aplikacij;Položaji bližnjic;Bližnjica;Bližnjice;Hitrost povezave;Ime operaterja;Operater;Obvestilo posnetka zaslona;posnetek zaslona;Zakl. zaslona</string>
   <string name="search_status_bar_settings">Obvestila &amp; vrstica obvestil;Obvestila;vrstica obvestil</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi ime operaterja;Ime operaterja</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu;prikaži na zakl. zaslonu</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Razširljivo na zakl. zaslonu;razširljivo na zakl. zaslonu</string>
   <string name="search_status_bar_settings_manage_notification">Obvestila aplikacij;Obvestila</string>
   <string name="search_status_bar_settings_show_carrier">Prikaži ime operaterja;Ime operaterja</string>
   <string name="search_status_bar_settings_show_network_speed">Prikaži hitrost povezave;Hitrost povezave</string>
@@ -6994,7 +7003,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="sync_now">Sinhroniziraj</string>
     <string name="sync_one_time_sync">"Dotaknite se za sinhronizacijo %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobro došli v Googlovo sinhronizacijo!&lt;/font&gt;"Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov in drugih stvari od kjerkoli."</string>
-  <string name="sync_settings">Sinhronizacija</string>
+  <string name="sync_settings">Računi &amp; Sinhronizacija</string>
   <string name="sync_wifi_label">WiFi</string>
   <string name="sync_wifi_only">Samo WiFi</string>
   <string name="system">Sistem</string>
@@ -8738,6 +8747,8 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira stike, fotografije in ostale stvari v vaši napravi. \"Najdi napravo\" tudi potebuje Mi Cloud za normalno delovanje.</string>
   <string name="xiaomi_cloud_service_disabled">Izključeno</string>
+  <string name="xiaomi_cloud_service_description_contact">stiki in</string>
+  <string name="xiaomi_cloud_service_description_format">Mi Cloud sinhronizira vaše fotografije %s, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti telefon s storitvijo Najdi napravo.</string>
   <string name="xiaomi_cloud_service_unknown">Neznano</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>

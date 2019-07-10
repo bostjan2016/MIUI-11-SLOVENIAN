@@ -504,6 +504,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napolnjeno</string>
   <string name="battery_charging_prompt">Polnjenje</string>
+  <string name="battery_desc_ambient_display">Baterija porabljena z ambientalnim zaslonom</string>
   <string name="battery_desc_apps">Baterija porabljena od aplikacij</string>
   <string name="battery_desc_bluetooth">Baterija porabljena od Bluetootha</string>
   <string name="battery_desc_display">Baterija porabljena od zaslona in osvetlitev</string>
@@ -2098,6 +2099,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pm_root_success_notification_infomation">Prepričajte se da razumete tveganja okoli ROOT dostopa</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
+  <string name="power_ambient_display">Ambientalni zaslon</string>
   <string name="power_analysis_consume_title">Poraba baterije</string>
   <string name="power_analysis_suggestion_need_optimize">Najdene težave pri uporabi baterije.</string>
   <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
@@ -2708,7 +2710,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sms_service">Blokiraj SMS storitve</string>
   <string name="sms_smart_engine_update">Samodejno posodobi SMS filter</string>
   <string name="sms_smart_engine_update_now">Posodobi</string>
-  <string name="sms_stranger_block">Blokiraj SMS je od tujcev</string>
+  <string name="sms_stranger_block">Blokirano</string>
   <string name="songs_number">18 pesmi</string>
   <string name="songs_unit">" pesmi"</string>
   <string name="sorted_button">Razvrsti po</string>
@@ -2786,6 +2788,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_antispam_title_contact_incoming">Klici stikov</string>
   <string name="st_antispam_title_contact_sms">SMS stikov</string>
   <string name="st_antispam_title_contactandanoy_group">Nastavitve</string>
+  <string name="st_antispam_title_mms">MMS</string>
   <string name="st_antispam_title_null_incoming">Zasebne klic</string>
   <string name="st_antispam_title_service_sms">Storitev številke</string>
   <string name="st_antispam_title_whitelist">Izjeme</string>

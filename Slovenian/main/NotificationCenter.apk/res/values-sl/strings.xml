@@ -7,7 +7,8 @@
   <string name="disable_show_badge_notification">"Značke obvestil niso dovoljene"</string>
   <string name="enable_float_notification">Plavajoča obvestila so dovoljena</string>
   <string name="enable_lockscreen_notification">Obvestila zakl. zaslona so dovoljena</string>
-  <string name="enable_show_badge_notification">Značke obvestil so dovoljene</string>
+  <string name="enable_show_badge_notification">Značke so dovoljene</string>
+  <string name="expand_top_notification">Razširi zgornje obvestilo</string>
   <string name="expandable_under_keyguard">Odpri ploščo obvestil na zakl. zaslonu</string>
   <string name="float_notifications">Plavajoča obvestila</string>
   <string name="hint_search_all">Iskanje aplikacij</string>

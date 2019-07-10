@@ -249,6 +249,7 @@
   <string name="original_price">Cena</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
+  <string name="path_not_available">Pot ni na voljo</string>
   <string name="pause_download">Odmor</string>
   <string name="paused">Pavza</string>
   <string name="paused_by_app">Ustavljeno</string>
