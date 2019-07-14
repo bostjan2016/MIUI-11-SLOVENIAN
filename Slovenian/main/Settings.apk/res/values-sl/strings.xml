@@ -8693,14 +8693,21 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="wifiap_settings_indication_step1">1. Vključi WiFi na PC/Mobilni napravi.</string>
   <string name="wifiap_settings_indication_step2">2. Najdi “%s” na seznamu WiFi omrežij.</string>
   <string name="wifiap_title">WiFi dostopna točka</string>
-  <string name="wifiap_turn_on_hint">Za uporabo WiFi wifiap, ga vključite.</string>
+  <string name="wifiap_turn_on_hint">Za uporabo WiFi wifiap ga vključite.</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Merilo animacije okna</string>
     <string name="winscope_trace_quick_settings_title">Sledenje z apl. Winscope</string>
+  <string name="wireless_button">Brežično napolnite druge naprave</string>
+  <string name="wireless_charging_settings">Brežično napolnite druge naprave</string>
+  <string name="wireless_closed">Izključeno</string>
   <string name="wireless_connected">Povezano</string>
   <string name="wireless_networks_settings_title">Brezžično in omrežja</string>
   <string name="wireless_off">Izključeno</string>
   <string name="wireless_on">Vključeno</string>
+  <string name="wireless_opened">Vključeno</string>
+  <string name="wireless_tip">"Uporabite svoj telefon za brezžično polnjenje drugih naprav.
+
+ Storitev se bo samodejno izključila če se polnjenje ne začne v roku 90 sekund."</string>
   <string name="wizard_back">Nazaj</string>
   <string name="wizard_finish">Dokončaj</string>
   <string name="wizard_next">Naprej</string>

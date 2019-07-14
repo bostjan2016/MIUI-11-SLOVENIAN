@@ -64,7 +64,7 @@
   <string name="description_title">O Kalkulatorju</string>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
-  <string name="dialog_privacy_content">Razen osnovnih storitev kalkulatorja naša aplikacija vsebuje tudi znanstveni kalkulator in večnamenski pretvornik. Nekatere storitve se morajo povezati na splet da delajo normalno. Morate prebrati in se strinjati z %1$s i %2$s pred uporabo Kalkulatorja.</string>
+  <string name="dialog_privacy_content">Razen osnovnih storitev kalkulatorja naša aplikacija vsebuje tudi znanstveni kalkulator in večnamenski pretvornik. Nekatere storitve se morajo povezati na splet da delajo normalno. Morate prebrati in se strinjati z %1$s in %2$s pred uporabo Kalkulatorja.</string>
   <string name="dialog_privacy_title">Pogoji in Pravila</string>
   <string name="dialog_rating_desc_ask">Kaj mislite o Kalkulatorju?</string>
   <string name="dialog_rating_desc_less">Nam daste povratne informacije?</string>
