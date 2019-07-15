@@ -36,6 +36,11 @@
   <string name="cancel_action">Prekliči</string>
   <string name="close">Izključi</string>
   <string name="configure_input_methods">Izberite tipkovnico</string>
+  <string name="content_description_dial">Klic</string>
+  <string name="content_description_search">Išči</string>
+  <string name="content_description_share">Deli</string>
+  <string name="content_description_translate">Prevedi</string>
+  <string name="content_description_web_url">Preglej</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="default_name">Privzeto</string>
@@ -54,6 +59,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
   <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
+  <string name="frequent_email">Pogosti naslovi e-pošte</string>
   <string name="frequent_phrases">Pogosti izrazi</string>
   <string name="global_actions_airplane_mode">"Način v letalu"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>

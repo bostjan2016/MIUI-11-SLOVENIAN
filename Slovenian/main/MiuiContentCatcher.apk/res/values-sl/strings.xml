@@ -26,6 +26,8 @@
   <string name="ok">V redu</string>
   <string name="save_content_tip">"Shranjene bodo naslednje stvari: "</string>
   <string name="search">Išči</string>
+  <string name="settings_clear_data_confirmation_description">"Če zdaj izbrišete gesla jih boste morali ročno vnesti naslednjič ko se prijavite.
+Izbrišem geslo?"</string>
   <string name="settings_clear_data_confirmation_title">Brisanje gesel</string>
   <string name="using_miui_autofill_message">Za samodejni vnos gesla bo MIUI shranil podatke o računu in geslu v vašo napravo.</string>
 </resources>

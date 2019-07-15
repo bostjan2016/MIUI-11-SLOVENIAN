@@ -60,6 +60,10 @@
         <item quantity="other">%d sek</item>
         <item quantity="one">%d sek</item>
      </plurals>
+	<plurals name="snooze_duration_changed_info">
+        <item quantity="other">Alarm je odložen za %d min.</item>
+        <item quantity="one">Alarm je odložen za %d minuto</item>
+    </plurals>
 	<plurals name="snooze_duration_summary">
         <item quantity="other">Alarm se bo izključil %2$s X (%1$s min. vsakič)</item>
         <item quantity="one">Alarm se bo izključil %2$s X (%1$s min.)</item>

@@ -264,7 +264,7 @@ Vizitke stikov so izključene"</string>
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Izberite način uvoza</string>
-  <string name="contact_is_deleted">Stik je izbrisan</string>
+  <string name="contact_is_deleted">Ta stik je izbrisan</string>
   <string name="contact_is_readOnly">Ne morem urediti stika ki je samo za branje</string>
   <string name="contact_list_loading">"Nalagam…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
@@ -675,11 +675,11 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="lunar_calendar">Lunarno Novo leto</string>
   <string name="lunar_leap">Zaženi</string>
   <string name="lunar_yue">Mesec</string>
-  <string name="make_primary">Zapomni si to odločitev</string>
-  <string name="map_custom">Ogled %s naslova</string>
-  <string name="map_home">Ogled domačega naslova</string>
-  <string name="map_other">Ogled naslova</string>
-  <string name="map_work">Ogled službenega naslova</string>
+  <string name="make_primary">"Zapomni si to odločitev"</string>
+  <string name="map_custom">"Ogled %s naslova"</string>
+  <string name="map_home">"Ogled domačega naslova"</string>
+  <string name="map_other">"Ogled naslova"</string>
+  <string name="map_work">"Ogled službenega naslova"</string>
   <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Nepravilni MEID</string>
   <string name="menuMoreDescription">Več</string>
@@ -1198,11 +1198,13 @@ Napravite varnostno kopijo stikov."</string>
   <string name="shortcutContact">Stik</string>
   <string name="shortcutDialContact">Neposredno klicanje</string>
   <string name="shortcutMessageContact">Neposredno sporočilo</string>
+  <string name="shortcut_new_contact_label">Nov stik</string>
+  <string name="shortcut_scan_label">Skeniraj vizitko</string>
   <string name="showAllContactsJoinItem">Prikaži vse stike</string>
-  <string name="simContacts_airplaneMode">Za uvoz stikov iz SIM kartice izklopite letalski način</string>
+  <string name="simContacts_airplaneMode">"Za uvoz stikov iz SIM kartice izklopite letalski način"</string>
   <string name="simContacts_empty">Na SIM kartici ni stikov</string>
-  <string name="simContacts_emptyLoading">Nalagam stike s SIM kartice...</string>
-  <string name="simContacts_title">Stiki SIM kartice</string>
+  <string name="simContacts_emptyLoading">Nalagam stike s SIM kartice…</string>
+  <string name="simContacts_title">"Stiki SIM kartice"</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Prikaži prostor SIM kartice</string>
   <string name="sim_capacity_content" formatted="false">Skupaj %d | Izkoriščeno %d</string>

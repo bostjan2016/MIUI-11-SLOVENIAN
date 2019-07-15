@@ -263,6 +263,11 @@
         <item>Za vse dogodke</item>
         <item>Za najvažnejše dogodke</item>
     </string-array>
+	<string-array name="prefEntries_alerts_popup_new">
+        <item>Izključeno</item>
+        <item>Za vse dogodke</item>
+        <item>Za najvažnejše dogodke</item>
+    </string-array>
    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Vedno</item>
         <item>Samo ko je zvonec utišan</item>
@@ -490,4 +495,13 @@
         <item>vsako četrto sredo</item>
         <item>vsako zadnjo sredo</item>
      </string-array>
+	 <string-array name="year_view_week_header_name">
+        <item>N</item>
+        <item>P</item>
+        <item>T</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
 </resources> 

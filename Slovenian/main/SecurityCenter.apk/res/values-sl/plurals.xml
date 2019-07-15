@@ -113,9 +113,11 @@
     </plurals>
      <plurals name="people_million">
          <item quantity="other">Preneslo %1$d oseb</item>
+		 <item quantity="one">Prenesla %1$d oseba</item>
      </plurals>
      <plurals name="million">
          <item quantity="other">Preneslo %1$d oseb</item>
+		 <item quantity="one">Prenesla %1$d oseba</item>
     </plurals>
 	<plurals name="gb_ad_people_play">
          <item quantity="other">%1$d oseb igra</item>

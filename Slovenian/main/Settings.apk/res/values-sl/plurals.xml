@@ -506,7 +506,8 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="few">%s minut</item>
      </plurals>
 	 <plurals name="miui_sos_emergency_contacts_quantity">
-         <item quantity="other">%d dodan</item>
+         <item quantity="other">%d dodano</item>
+	 <item quantity="one">%d dodan</item>
      </plurals>
      <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d omejitev</item>

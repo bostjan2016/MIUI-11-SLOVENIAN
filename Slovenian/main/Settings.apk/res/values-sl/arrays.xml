@@ -1326,7 +1326,8 @@
     </string-array>
 	<string-array name="notch_battery_indicator_style_entries">
         <item>Grafika</item>
-        <item>Odstotek</item>
+        <item>Odstotek (v ikoni)</item>
+	<item>Odstotek (zraven ikone)</item>
     </string-array>
 	<string-array name="status_bar_settings_notification_shade_shortcut_entries">
         <item>Išči</item>
@@ -1380,9 +1381,9 @@
         <item>24-urni format 13:00</item>
         <item>Samodejno (na osnovi jezika sistema)</item>
     </string-array>
-	<string-array name="drip_battery_indicator_style_entries">
+	<string-array name="wide_notch_battery_indicator_style_entries">
         <item>Grafika</item>
         <item>Odstotek (v ikoni)</item>
-        <item>Odstotek (zraven ikone)</item>
+        <item>Odstotek (zraven ikone v plošči obvestil)</item>
     </string-array>
 </resources>

@@ -5243,6 +5243,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
   <string name="privacy_password_settings">Uporabi Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_settings_next">Naprej</string>
+  <string name="privacy_password_settings_summary">Geslo za zaščito zasebnosti se uporablja za aplikacije ki lahko vsebujejo občutljive informacije</string>
   <string name="privacy_password_settings_titles">Geslo za zaščito zasebnosti varuje vaša sporočila, fotografije, datoteke in beležke.</string>
   <string name="privacy_password_settings_titles_elder_mode">Geslo zaščite zasebnosti varuje vaše fotografije, datoteke in beležke.</string>
   <string name="privacy_password_settings_titles_second_space">Geslo zaščite zasebnosti varuje vaša sporočila, fotografije in beležke.</string>

@@ -395,6 +395,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="preferences_home_tz_title">Domači časovni pas</string>
   <string name="preferences_notification_ringtone_title">Zvok</string>
   <string name="preferences_popup_alert_smart_summary">MIUI bo samodejno določil važnost dogodkov</string>
+  <string name="preferences_popup_alert_smart_summary_new">Časovno občutljivi dogodki so dogodki s točnim časom</string>
   <string name="preferences_popup_alert_smart_tips">"Zamenjajte tradicionalna obvestila z pojavnimi okni da preprečite izgubo važnih dogodkov. Ne bodo se pojavila kadar igrate igre, gledate videoposnetke preko celega zaslona ali uporabljate način Avto."</string>
   <string name="preferences_popup_alert_title">Pojavna okna</string>
   <string name="preferences_reminder_title">Obvestila &amp; opomniki</string>
@@ -493,12 +494,14 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="setting_daysoff_update_net_err">"Ne morem preveriti posodobitev. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="setting_daysoff_update_schedule">Posodabljanje…</string>
   <string name="setting_daysoff_update_success">Uspešno posodobljeno</string>
+  <string name="setting_desc_import_todo">Uvozite razporejene naloge iz beležk</string>
   <string name="setting_features_title">Poudarjene nastavitve</string>
   <string name="setting_holiday_display_desc">Kartica praznikov ki se nahaja na začetni strani koledarja</string>
   <string name="setting_holiday_reminder">Opomnik praznikov</string>
   <string name="setting_others">Ostalo</string>
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Pokaži praznike</string>
+  <string name="setting_title_import_todo">Uvozi naloge</string>
   <string name="show_controls">Pokaži kontrole</string>
   <string name="shortcut_new_event">Dodaj dogodek</string>
   <string name="shortcut_next_agenda">Naslednji dogodek</string>
@@ -531,11 +534,13 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="today_at_time_fmt">Danes ob %s</string>
   <string name="today_icon_voice_contentdescription">Nazaj na danes</string>
   <string name="today_no_events">Ni dogodkov</string>
+  <string name="todo_audio_event">"[Glasovna naloga] "</string>
+  <string name="todo_event">Prihajajoče naloge</string>
   <string name="tomorrow">Jutri</string>
   <string name="tomorrow_at_time_fmt">Jutri ob %s</string>
   <string name="too_long_content">Vsebina je prevelika je predugačak</string>
   <string name="too_long_description">Opis dogodka je predolg</string>
-  <string name="too_long_location">Lokacija događaja je predolga</string>
+  <string name="too_long_location">Lokacija dogodka je predolga</string>
   <string name="too_long_name">Ime je predolgo</string>
   <string name="travel_airport">Letališče</string>
   <string name="travel_carriage_number_text">Avto</string>

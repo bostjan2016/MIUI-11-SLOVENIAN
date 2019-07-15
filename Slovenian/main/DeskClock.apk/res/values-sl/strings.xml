@@ -150,7 +150,7 @@
   <string name="menu_item_sort_by_gmt_offset">Razporedi po času</string>
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
   <string name="module_download_cancel">Ne, hvala</string>
-  <string name="module_download_data_msg">Ura se mora povezati s spletom zaradi prenosa avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio vsebine ki omogočajo vklop informacij o trenutnem vremenu v alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
+  <string name="module_download_data_msg">Da bodo MIUI pametni alarmi na voljo mora Miui prenesti avdio datoteke. Pametni alarmi vsebujejo avdio storitve ki omogočajo vklop informacij o trenutnem času v alarme. ≈20MB mobilnih podatakov bo potrebno za prenos. Prenesem?</string>
   <string name="module_download_data_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_data_msg_replace">Na voljo je posodobljen zvok za MIUI pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
@@ -164,10 +164,14 @@
   <string name="module_download_success">Uspešno prenešeno</string>
   <string name="module_download_title">Potreben je dodatni zvok</string>
   <string name="module_downloading">Prenos dodatnega zvoka…</string>
+  <string name="module_update_success">Posodobljeni avdio za MIUI pametne alarme prenešen. Lahko nastavite MIUI pametne alarme v nastavitvah ure.</string>
+  <string name="module_update_success_control">Razumem</string>
   <string name="monday_to_friday">Pon - Pet</string>
   <string name="more_settings">Več nastavitev</string>
   <string name="more_setting">Več nastavitev</string>
   <string name="never">Enkrat</string>
+  <string name="no_alarm_setting">Ni alarmov</string>
+  <string name="no_worldclock">Ni ur</string>
   <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
   <string name="open_keep_screen">Zaslon bo ostal vključen</string>
   <string name="other_category_title">Ostalo</string>

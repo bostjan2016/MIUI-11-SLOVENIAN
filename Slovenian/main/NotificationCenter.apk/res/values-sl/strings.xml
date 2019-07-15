@@ -17,7 +17,7 @@
   <string name="list_title_disable_notification">"Obvestila niso dovoljena"</string>
   <string name="loading">Samo trenutek…</string>
   <string name="lock_screen_display_rules">Format</string>
-  <string name="lock_screen_tip_toast">Najprej dovolite obvestila v \"Obvestila aplikacij\"</string>
+  <string name="lock_screen_tip_toast">Dovolite obvestila zakl. zaslona v \"Format\"</string>
   <string name="lockscreen_notifications">Obvestila zakl. zaslona</string>
   <string name="not_sent_recently">Nedavno</string>
   <string name="notch_and_status_bar_setting">Zob &amp; vrstica obvestil</string>
