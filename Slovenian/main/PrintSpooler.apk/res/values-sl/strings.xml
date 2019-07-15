@@ -91,7 +91,6 @@
   <string name="printer_busy">Tiskalnik je zaseden</string>
   <string name="printer_error">Napaka tiskalnika</string>
   <string name="printer_error_msg">Napaka tiskalnika:…%1$s</string>
-  <string name="printer_unavailable">%1$s – naloga ni na voljo</string>
   <string name="printer_info_desc">Več informacij o tem tiskalniku</string>
   <string name="printer_notification_error_title">"Ne morem natisniti %1$s"</string>
   <string name="printer_unavailable">"Printer ni na voljo"</string>
