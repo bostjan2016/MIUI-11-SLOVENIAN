@@ -33,6 +33,7 @@
   <string name="check_phone_io_error">"Ne morem se povezati na omrežje</string>
   <string name="children_education">"Otroško izobraževanje"</string>
   <string name="choose_currency">Izberite valuto</string>
+  <string name="choose_radix">Izberite številčni sistem</string>
   <string name="choose_unit">Izberite enoto</string>
   <string name="city">Mesto</string>
   <string name="clear_history">Izbriši zgodovino</string>
@@ -43,6 +44,7 @@
   <string name="convertion_unit">Pretvarjanje enot</string>
   <string name="convertion_unit_area">Pretvarjanje površine</string>
   <string name="convertion_unit_length">Pretvarjanje dolžine</string>
+  <string name="convertion_unit_radix">Številčni sistem</string>
   <string name="convertion_unit_temperature">Pretvarjanje temperature</string>
   <string name="convertion_unit_time">Pretvarjanje časa</string>
   <string name="convertion_unit_velocity">Pretvarjanje hitrosti</string>
@@ -161,6 +163,7 @@
   <string name="item_title_dress_size">Velikost obleke</string>
   <string name="item_title_length_conversion">Dolžina</string>
   <string name="item_title_mortgage">Kredit</string>
+  <string name="item_title_radix">Številčni sistem</string>
   <string name="item_title_relationship">Pogoji sorodstva</string>
   <string name="item_title_scientific_calculator">Znanstveni</string>
   <string name="item_title_tax">Davek</string>

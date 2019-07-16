@@ -343,8 +343,8 @@
   <string name="sort_by_abc">Razvrsti po imenu</string>
   <string name="sort_by_frequency">Razvrsti po uporabi</string>
   <string name="sort_by_not_defined">Samodejno sortiranje</string>
-  <string name="start_activity_failed">Ne morem zagnati vmesnika</string>
-  <string name="starting_preset_app">Začenjam...</string>
+  <string name="start_activity_failed">"Ne morem zagnati vmesnika"</string>
+  <string name="starting_preset_app">Začenjam…</string>
   <string name="status_downloaded">Prenešeno</string>
   <string name="status_downloading">Prenašanje</string>
   <string name="status_installing">Nalaganje</string>
@@ -379,6 +379,7 @@
   <string name="uninstall_xspace_dialog_title_format">Odstranim dvojno \"%s\" ?</string>
   <string name="unknown_artist_name">Neznan izvajalec</string>
   <string name="unnamed_folder_name">Mapa</string>
+  <string name="unstable_dialog_content">"To je testna verzija sistema Androidin je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
   <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>
   <string name="wallpaper">Slika za ozadje</string>
   <string name="wallpaper_auto_change_title">Zaklenjeni zaslon</string>

@@ -876,6 +876,7 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="input_password_after_boot_msg">"Vnesite geslo za odklep"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Ne morem spremeniti prostor ko je vključen starševski nadzor"</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">"Ne morem spremeniti prostor ko je vključeno Ultra varčevanje baterije"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Morate iti v Prvi prostor po ponovnem zagonu</string>
   <string name="input_password_handle_sdcard_fs">"Ne morem iti v Drugi prostor iz zakl. zaslona. Vstopi iz Prvega prostora."</string>
   <string name="input_password_hint_text">Vnesite geslo</string>
@@ -1380,10 +1381,10 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="okay">V redu</string>
   <string name="oldman_airplane_mode_text">Letalo</string>
   <string name="oldman_incall_text">Nazaj na klic</string>
-  <string name="open_camera_hint_text">Podrsajte levo za Kamera</string>
+  <string name="open_camera_hint_text">Povlecite ikono za Kamera</string>
   <string name="open_extreme_power_save_mode_title">Vključi ekstremno varčevanje baterije</string>
-  <string name="open_lock_screen_magazine_hint_text">Povlecite desno za več opcij</string>
-  <string name="open_remote_center_hint_text">Podrsajte desno za Telefon</string>
+  <string name="open_lock_screen_magazine_hint_text">Povlecite ikono za odpiranje Wallpaper Carousel</string>
+  <string name="open_remote_center_hint_text">Povlecite ikono da boste videli kontrole</string>
   <string name="open_saver_setting_action">Nastavitve</string>
     <string name="orb_search_action">Dejanje iskanja</string>
     <string name="other">Drugo</string>
