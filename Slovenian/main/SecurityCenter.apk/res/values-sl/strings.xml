@@ -647,6 +647,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="call_blacklist">Seznam blokiranih klicev</string>
   <string name="call_cloud_block">Cloud prestrezanje</string>
   <string name="call_contact_block">Prestrezanje stikov</string>
+  <string name="call_delete_all_hint">Izbrišem vse blokirane klice?</string>
   <string name="call_delete_hint">Izbrišem vse blokirane klice iz te številke?</string>
   <string name="call_delete_title">Izbriši klic</string>
   <string name="call_oversea_block">Blokiraj klice iz tujine</string>

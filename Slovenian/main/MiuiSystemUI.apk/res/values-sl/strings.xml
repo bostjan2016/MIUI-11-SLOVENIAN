@@ -1206,12 +1206,12 @@ posnetka zaslona"</string>
   <string name="miui_ringer_total">DND</string>
   <string name="miui_ringer_total_description">Utišaj zvoke in izključi vibracijo za vse razen alarma</string>
   <string name="miui_screen_rotation_freeze_message">Samod. rotacija onemogočena.</string>
-  <string name="miui_toast_zen_dnd_to_off">Zvoki in vibracije povrnjeni na normalno</string>
-  <string name="miui_toast_zen_standard_to_off">Melodije zvonenja povrnjene na normalno</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Melodije zvonenja in obvestila in zvoki predstavnosti bodo predvajani.</string>
-  <string name="miui_toast_zen_to_dnd">Zvoki utišani in vibracija izključena</string>
-  <string name="miui_toast_zen_to_standard">Melodije zvonenja za klice in obvestila utišane</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Melodije zvonenja in obvestila in zvoki predstavnosti bodo utišani.</string>
+  <string name="miui_toast_zen_dnd_to_off">Ne moti je izključeno. Zvoki in vibracije vrnjeni na normalno.</string>
+  <string name="miui_toast_zen_standard_to_off">Ne moti je izključeno. Melodije zvonenja vrnjene na normalno.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Ne moti je izključeno. Melodije zvonenja, kot tudi obvestila in zvoki predstavnosti bodo predvajani.</string>
+  <string name="miui_toast_zen_to_dnd">Ne moti je vključeno. Zvoki so utišani in vibracija je izključena.</string>
+  <string name="miui_toast_zen_to_standard">Ne moti je uključeno. Melodije zvonenja za klice in obvestila utišane</string>
+  <string name="miui_toast_zen_to_standard_when_shield_vedia">Ne moti je vključeno. Melodije zvonenja in zvoki obvestil in predstavnosti so utišani.</string>
   <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Mobilni podatki</string>
     <string name="mobile_data_always_on">Prenos podatkov v mobilnem omrežju je vedno aktiven</string>
@@ -1384,7 +1384,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="open_camera_hint_text">Povlecite ikono za Kamera</string>
   <string name="open_extreme_power_save_mode_title">Vključi ekstremno varčevanje baterije</string>
   <string name="open_lock_screen_magazine_hint_text">Povlecite ikono za odpiranje Wallpaper Carousel</string>
-  <string name="open_remote_center_hint_text">Povlecite ikono da boste videli kontrole</string>
+  <string name="open_remote_center_hint_text">Povlecite ikono za prikaz bližnjic</string>
   <string name="open_saver_setting_action">Nastavitve</string>
     <string name="orb_search_action">Dejanje iskanja</string>
     <string name="other">Drugo</string>
