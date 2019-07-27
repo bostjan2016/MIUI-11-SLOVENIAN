@@ -485,7 +485,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_install_guide_step2_content">Po končani namestitvi, tapnite \"Začetek\".</string>
   <string name="trans_install_guide_step2_title">Korak 2</string>
   <string name="trans_intro_desc_1">"Na Mi telefonu se povežite na WiFi. Tapnite \"Sem prejemnik\".Potem izberite "Apple naprava". Prijavite se v iCloud in uvozite podatke."</string>
-  <string name="trans_intro_desc_10">Tapnite \"Povežite se z pomočjo QR kode\" na novi napravi in skenirajte QR kodo da vznastavite povezavo.</string>
+  <string name="trans_intro_desc_10">Tapnite \"Povežite se z pomočjo QR kode\" na novi napravi in skenirajte QR kodo da vzpostavite povezavo.</string>
   <string name="trans_intro_desc_3">Prekličite prenos, zaprite Mi Mover in začnite ponovno. Dvojne datoteke bodo prepisane med ponovnim prenosom.</string>
   <string name="trans_intro_desc_4">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke. Nekatere nove naprave (npr. Mi 6) se pa kljub temu lahko povežejo na splet v času prenosa."</string>
   <string name="trans_intro_desc_4_market">"Mi Mover uporablja WiFi za prenos datotek. Zato se ne morete povezati na splet z uporabo WiFi med prenosem. Lahko pa uporabite mobilne podatke."</string>

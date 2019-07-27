@@ -110,7 +110,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="new_config">Nove naloge</string>
   <string name="new_configures">Nove konfiguracije</string>
   <string name="no_available_networks">Ni dostopnih omrežji</string>
-  <string name="no_available_networks_summary">Poskušajte ponovno po vznastavitvi povezave.</string>
+  <string name="no_available_networks_summary">Poskusite ponovno po vzpostavitvi povezave.</string>
   <string name="no_available_xiaomi_shop">"Ne morem odpreti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
   <string name="null_task">Ni nalog</string>

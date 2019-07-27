@@ -907,8 +907,8 @@ Znova poskusite čez %d s."</string>
     <string name="permdesc_changeNetworkState">Aplikaciji omogoča spreminjanje stanja povezljivosti omrežja.</string>
     <string name="permdesc_changeTetherState">Aplikaciji dovoljuje spreminjanje stanja povezljivosti posredniškega omrežja.</string>
     <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju  z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
-    <string name="permdesc_changeWifiState">Aplikaciji omogoča, da vznastavi povezavo z dostopnimi točkami  in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja .</string>
-    <string name="permdesc_changeWimaxState">Aplikaciji omogoča, da vznastavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
+    <string name="permdesc_changeWifiState">Aplikaciji omogoča, da vzpostavi povezavo z dostopnimi točkami  in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja .</string>
+    <string name="permdesc_changeWimaxState">Aplikaciji omogoča, da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
   <string name="permdesc_checkinProperties">Aplikaciji omogoča dostop za branje/pisanje lastnosti prenesenih iz prijave. Ni za uporabo z navadnimi aplikacijami.</string>
   <string name="permdesc_clearAppCache">Aplikaciji omogoča sproščanje pomnilnika telefona tako da izbriše datoteke v imenikih predpomnilnika drugih aplikacij. To lahko povzroči počasnejši zagon drugih aplikacij, saj morajo znova prenesti svoje podatke.</string>
   <string name="permdesc_clearAppUserData">Aplikaciji omogoča izbris podatkov uporabnika.</string>
@@ -1182,7 +1182,7 @@ za račun %s."</string>
     <string name="permlab_accessNotifications">dostop do obvestil</string>
   <string name="permlab_accessSurfaceFlinger">dostop do storitve SurfaceFlinger</string>
   <string name="permlab_accessWifiState">prikaz povezav WiFi</string>
-    <string name="permlab_accessWimaxState">vznastavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
+    <string name="permlab_accessWimaxState">vzpostavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
   <string name="permlab_access_keyguard_secure_storage">Dostop do varne shrambe Keyguard.</string>
     <string name="permlab_access_notification_policy">dostop do načina »ne moti«</string>
   <string name="permlab_accountManagerService">opravljanje vloge AccountManagerService</string>
@@ -1248,7 +1248,7 @@ za račun %s."</string>
     <string name="permlab_changeNetworkState">spreminjanje povezljivosti omrežja</string>
     <string name="permlab_changeTetherState">Spreminjanje posredniške povezljivosti</string>
     <string name="permlab_changeWifiMulticastState">dovoljevanje sprejema večvrstnega brezžičnega oddajanja</string>
-    <string name="permlab_changeWifiState">vznastavitev povezave z omrežjem  in prekinitev povezave z njim</string>
+    <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem  in prekinitev povezave z njim</string>
     <string name="permlab_changeWimaxState">sprememba stanja omrežja WiMAX</string>
   <string name="permlab_checkinProperties">dostop do lastnosti sprostitve</string>
   <string name="permlab_clearAppCache">brisanje vseh podatkov predpomnilnika aplikacij</string>
@@ -1755,7 +1755,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="usb_storage_activity_title">Masovni pomnilnik USB</string>
   <string name="usb_storage_button_mount">Vklop pomnilnika USB</string>
   <string name="usb_storage_error_message">Težava pri uporabi pomnilnika USB kot masovnega pomnilnika USB.</string>
-  <string name="usb_storage_message">Z računalnikom ste vznastavili povezavo z USB-jem. Dotaknite se spodnjega gumba če želite kopirati datoteke med računalnikom in pomnilnikom USB.</string>
+  <string name="usb_storage_message">Z računalnikom ste vzpostavili povezavo z USB-jem. Dotaknite se spodnjega gumba če želite kopirati datoteke med računalnikom in pomnilnikom USB.</string>
   <string name="usb_storage_notification_message">Dotaknite se če želite kopirati datoteke v računalnik ali iz njega.</string>
   <string name="usb_storage_notification_title">Povezava USB je vzpostavljena</string>
   <string name="usb_storage_stop_button_mount">Izklopi pomnilnik USB</string>
@@ -1841,7 +1841,7 @@ Ali jo želite zapreti?"</string>
     <string name="wifi_available_sign_in">Prijavite se v omrežje </string>
     <string name="wifi_calling_off_summary">Izklopljeno</string>
     <string name="wifi_connect_alert_message">Aplikacija %1$s želivzpostaviti povezavo z omrežjem WiFi %2$s</string>
-    <string name="wifi_connect_alert_title">Ali dovolite vznastavitev povezave?</string>
+    <string name="wifi_connect_alert_title">Ali dovolite vzpostavitev povezave?</string>
     <string name="wifi_connect_default_application">Aplikacija</string>
   <string name="wifi_display_notification_connected_message">Povezan z zaslonom %1$s</string>
   <string name="wifi_display_notification_connected_title">Predvajanje zaslona</string>

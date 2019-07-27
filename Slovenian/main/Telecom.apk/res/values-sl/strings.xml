@@ -369,7 +369,7 @@ Avdio"</string>
     <string name="phone_settings_unknown_txt">Neznano</string>
     <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Blokiranje klicev je onemogočeno</string>
     <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Blokiranje klicev</string>
-    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Blokiranje klicev je onemogočeno, da lahko stik z vami vznastavijo uslužbenci služb za klic v sili.</string>
+    <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Blokiranje klicev je onemogočeno, da lahko stik z vami vzpostavijo uslužbenci služb za klic v sili.</string>
     <string name="phone_strings_emergency_call_made_dialog_title_txt">Opravljen je klic v sili</string>
   <string name="picture_color_mode">Način barve slike</string>
   <string name="picture_color_mode_desc">Uporabi sRGB</string>
@@ -570,7 +570,7 @@ Avdio"</string>
     <string name="wifi_cant_connect">Povezava ni mogoča</string>
     <string name="wifi_cant_connect_to_ap">Povezava z aplikacijo »%1$s« ni mogoča</string>
     <string name="wifi_check_password_try_again">Preverite geslo in poskusite znova</string>
-    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vznastavitvi povezave</string>
+    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vzpostavitvi povezave</string>
     <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji Wi‑Fi</string>
     <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez interneta</string>
   <string name="wifi_coverage_extend">Enable WLAN Coverage Extend Feature</string>
@@ -585,7 +585,7 @@ Avdio"</string>
     <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
     <string name="wifi_metered_label">Z omejenim prenosom podatkov</string>
     <string name="wifi_no_internet">Ni dostopa do interneta</string>
-    <string name="wifi_no_internet_no_reconnect">Samodejna vnovična vznastavitev povezave se ne bo izvedla</string>
+    <string name="wifi_no_internet_no_reconnect">Samodejna vnovična vzpostavitev povezave se ne bo izvedla</string>
     <string name="wifi_not_in_range">Ni v obsegu</string>
   <string name="wifi_p2p_allow_passive_listen">Omogoči WiFi P2P pasivno poslušanje</string>
   <string name="wifi_p2p_allow_passive_listen_summary">Omogoči/onemogoči WiFi P2p pasivno poslušanje, naprava ne more iskati druge naprave, druge naprave pa lahko skenirajo trenutno napravo</string>

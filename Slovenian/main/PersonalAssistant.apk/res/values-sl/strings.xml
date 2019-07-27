@@ -328,7 +328,7 @@
   <string name="launch_setting_alipay_logout_msg">Izpis iz Alipay računa?</string>
   <string name="launch_setting_alipay_logout_posi">Izpiši</string>
   <string name="launch_setting_alipay_logout_success">Izpis uspešen</string>
-  <string name="launch_top">Odprite določene opravila priljubljenih aplikacij</string>
+  <string name="launch_top">Odprite določena opravila priljubljenih aplikacij</string>
   <string name="launcher_else">Ostalo</string>
   <string name="list_icon_add">Dodaj</string>
   <string name="list_icon_delete">Odstrani</string>

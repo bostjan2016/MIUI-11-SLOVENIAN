@@ -468,7 +468,7 @@ Izbor"</string>
     <string name="wifi_cant_connect">Povezava ni mogoča</string>
     <string name="wifi_cant_connect_to_ap">Povezava z aplikacijo »%1$s« ni mogoča</string>
     <string name="wifi_check_password_try_again">Preverite geslo in poskusite znova</string>
-    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vznastavitvi povezave</string>
+    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vzpostavitvi povezave</string>
     <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji Wi‑Fi</string>
     <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez interneta</string>
     <string name="wifi_disabled_by_recommendation_provider">Ni povezano zaradi slabe kakovosti omrežja</string>
@@ -481,7 +481,7 @@ Izbor"</string>
     <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
     <string name="wifi_metered_label">Z omejenim prenosom podatkov</string>
     <string name="wifi_no_internet">Ni dostopa do interneta</string>
-    <string name="wifi_no_internet_no_reconnect">Samodejna vnovična vznastavitev povezave se ne bo izvedla</string>
+    <string name="wifi_no_internet_no_reconnect">Samodejna vnovična vzpostavitev povezave se ne bo izvedla</string>
     <string name="wifi_not_in_range">Ni v obsegu</string>
     <string name="wifi_remembered">Shranjeno</string>
     <string name="wifi_security_none">Brez</string>

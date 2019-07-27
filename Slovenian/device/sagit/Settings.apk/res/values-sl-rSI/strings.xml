@@ -677,8 +677,8 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="notifications_silenced">Utišano</string>
     <string name="number_of_device_admins_none">Ni aktivnih aplikacij</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Nalagalnik zagona je že odklenjen</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity">Najprej vznastavite povezavo z internetom</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Povežite se z internetom ali se obrnite na operaterja</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity">Najprej vzpostavite povezavo s spletom</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Povežite se s spletom ali se obrnite na operaterja</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Ni na voljo v napravah, zaklenjenih na operaterja</string>
     <string name="one_cacrt">eno potrdilo overitelja potrdil</string>
     <string name="one_usercrt">eno uporabniško potrdilo</string>
@@ -1051,12 +1051,12 @@ Iz profila bodo odstranjeni shranjeni prstni odtisi, zato jih ne boste mogli ve�
     <string name="vpn_cant_connect_title">Z omrežjem VPN %1$s ni mogoče vzpostaviti povezave.</string>
     <string name="vpn_disconnected">Povezava z VPN je prekinjena</string>
     <string name="vpn_disconnected_summary">Brez</string>
-    <string name="vpn_first_always_on_vpn_message">Če vklopite to nastavitev, ne boste imeli internetne povezave, dokler se ne vznastavi povezava z omrežjem VPN.</string>
+    <string name="vpn_first_always_on_vpn_message">Če vklopite to nastavitev, ne boste imeli spletne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
     <string name="vpn_forget_long">Pozabi omrežje VPN</string>
     <string name="vpn_no_vpns_added">Dodano ni bilo nobeno omrežje VPN</string>
     <string name="vpn_replace">Zamenjaj</string>
     <string name="vpn_replace_always_on_vpn_disable_message">S stalno vklopljenim omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano in stalno vklopljeni način se bo izklopil.</string>
-    <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli internetne povezave, dokler se ne vznastavi povezava z omrežjem VPN.</string>
+    <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli spletne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
     <string name="vpn_replace_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
     <string name="vpn_replace_vpn_title">Želite zamenjati obstoječe omrežje VPN?</string>
     <string name="vpn_require_connection">Blokiraj povezave brez omrežja VPN</string>

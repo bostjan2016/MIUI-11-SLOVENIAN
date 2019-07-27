@@ -389,7 +389,7 @@ hitrost vzorčenja"</string>
   <string name="callFailed_call_rejected">Klic zavrnjen</string>
   <string name="callFailed_cb_enabled">Med aktivno zaporo klicev ni mogoče opravljati odhodnih klicev.</string>
   <string name="callFailed_cdma_activation">Kartica SIM je aktivirala vašo storitev in posodobila možnosti telefona za gostovanje.</string>
-  <string name="callFailed_cdma_call_limit">Preveč aktivnih klicev. Prekinite ali združite obstoječe klice pred vznastavitvijo novega klica.</string>
+  <string name="callFailed_cdma_call_limit">Preveč aktivnih klicev. Prekinite ali združite obstoječe klice pred vzponastavitvijo novega klica.</string>
   <string name="callFailed_channel_unacceptable">Kanal nesprejemljiv</string>
   <string name="callFailed_conditional_IE_error">Pogojna IE napaka</string>
   <string name="callFailed_congestion">Omrežje je zasedeno</string>
@@ -423,7 +423,7 @@ hitrost vzorčenja"</string>
   <string name="callFailed_invalid_transit_NW_selection">Neveljavna izbira tranzitnega omrežja</string>
   <string name="callFailed_limitExceeded">Presežena omejitev ACM</string>
   <string name="callFailed_low_battery">Slaba baterija</string>
-  <string name="callFailed_maximum_reached">Vse dostopne linije so zasedene. Za vznastavitev klica, prekinite enega od klicev na tej ali drugi napravi.</string>
+  <string name="callFailed_maximum_reached">Vse dostopne linije so zasedene. Za vzpostavitev klica, prekinite enega od klicev na tej ali drugi napravi.</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Sporočilo ne ustreza statusu protokola</string>
   <string name="callFailed_message_type_non_implemented">Vrsta sporočila ne obstaja ali ni izvedljivo</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Vrsta sporočila ni kompatibilna s statusom protokola</string>
@@ -1151,9 +1151,9 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="incall_error_no_phone_number_supplied">Številka ki ste jo vnesli je neveljavna.</string>
   <string name="incall_error_out_of_service">Mobilno omrežje ni na voljo</string>
   <string name="incall_error_out_of_service_wfc">Mobilno omrežje ni na voljo. Povežite se v omrežje WiFi če želite opraviti klic.</string>
-  <string name="incall_error_power_off">Za vznastavitev klica izključite Letalski način.</string>
+  <string name="incall_error_power_off">Za vzpostavitev klica izključite Letalski način.</string>
   <string name="incall_error_power_off_wfc">Izklopite način za letalo ali se povežite v omrežje WiFi če želite opraviti klic.</string>
-  <string name="incall_error_promote_wfc">Omogočite klicanje preko  povezave za vznastavitev klica.</string>
+  <string name="incall_error_promote_wfc">Omogočite klicanje preko povezave za vzpostavitev klica.</string>
   <string name="incall_error_sim_deactive">Neaktivna SIM kartica</string>
   <string name="incall_error_supp_service_conference">Konferenčni klici onemogočeni.</string>
   <string name="incall_error_supp_service_hangup">Klicanje ni mogoče.</string>
@@ -1287,7 +1287,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
 za uporabo top-up package"</string>
   <string name="livetalk_name">top-up package</string>
   <string name="livetalk_network_confirm">V redu</string>
-  <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vznastavi klic.</string>
+  <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
   <string name="livetalk_network_unavailable">Omrežje ni na voljo </string>
   <string name="livetalk_next_step">Naprej</string>
   <string name="livetalk_niece_price_arrow">To opravilo je na voljo v 13 državah in regijah</string>
@@ -1510,7 +1510,7 @@ za uporabo top-up package"</string>
   <string name="no_change">Ni bilo nobenih sprememb</string>
   <string name="no_checked_network">"Ne boste se mogli povezati z mobilnim omrežjem in klicati. Izberem drugo omrežje?"</string>
   <string name="no_data">Ni podatkov</string>
-  <string name="no_internet_available">Za vznastavitev spletnega klica rabite spletno povezavo</string>
+  <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
   <string name="no_internet_available_title">Ni spletne povezave</string>
   <string name="no_mobile_data">Mobilni podatki niso na voljo</string>
   <string name="no_mobile_data_roaming">Podatki v gostovanju niso na voljo</string>
@@ -1526,7 +1526,7 @@ Kontaktirajte vašega operaterja."</string>
   <string name="no_vm_number_msg">Na SIM kartici ni shranjene številke glasovne pošte.</string>
   <string name="no_voip">Spletno klicanje ni podprto</string>
   <string name="no_volte">Ne morem izvesti IMS klicev</string>
-  <string name="no_vt_allowed">Za vznastavitev video klica izklopite način TTY</string>
+  <string name="no_vt_allowed">Za vzpostavitev video klica izklopite način TTY</string>
   <string name="no_wifi_available">Morate biti povezani z omrežjem WiFi za spletne klice (uporabite nastavitve brezžične povezave in omrežij).</string>
   <string name="no_wifi_available_title">Ni povezave WiFi</string>
   <string name="not_a_valid_port">Številka vrat mora biti med 1000 in 65534.</string>
@@ -1673,7 +1673,7 @@ Poskusite ponovno ali pokličite podoporo</string>
   <string name="phone_in_ecm_notification_title">Način za povratni klic v sili</string>
   <string name="phone_number_hint_text">Telefonska številka</string>
   <string name="phone_numbers">Vnesi telefonsko številko</string>
-  <string name="pick_outgoing_call_phone_type">Vznastavi klic</string>
+  <string name="pick_outgoing_call_phone_type">Vzpostavi klic</string>
   <string name="pick_outgoing_sip_phone">Uporabi spletni klicni račun</string>
   <string name="picture_color_mode">Način barve slike</string>
   <string name="picture_color_mode_desc">Uporabi sRGB</string>
@@ -2338,7 +2338,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="verify_failed">"Ne morem preveriti"</string>
   <string name="verifying">Preverjanje…</string>
   <string name="vibrate_after_connected_summary">Vibriraj pri odgovoru</string>
-  <string name="vibrate_after_connected_title">Vibriraj po vznastavitvi</string>
+  <string name="vibrate_after_connected_title">Vibriraj po vzpostavitvi</string>
   <string name="vibrate_on_ring_title">Vibracija pri klicu</string>
   <string name="vice_card_data_in_use_alert">Lahko se generirajo dodatni stroški.</string>
   <string name="vice_slot_volte_data_switch_prompt">Naprava se bo povezala z mobilnim podatkovnim omrežjem s pomočjo sekundarne SIM kartice med VoLTE klicem. To lahko povzroči dodatne stroške za podatke. Kontaktirajte operaterja za podrobnosti.</string>
@@ -2471,7 +2471,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_cant_connect">Povezovanje ni uspelo</string>
   <string name="wifi_cant_connect_to_ap">Povezovanje z aplikacijo \"%1$s\" ni uspelo</string>
   <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>
-    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vznastavitvi povezave</string>
+    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vzpostavitvi povezave</string>
     <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji Wi‑Fi</string>
   <string name="wifi_connected_no_internet">Povezano, brez spleta</string>
   <string name="wifi_coverage_extend">Enable WLAN Coverage Extend Feature</string>

@@ -1210,7 +1210,7 @@ posnetka zaslona"</string>
   <string name="miui_toast_zen_standard_to_off">Ne moti je izključeno. Melodije zvonenja vrnjene na normalno.</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Ne moti je izključeno. Melodije zvonenja, kot tudi obvestila in zvoki predstavnosti bodo predvajani.</string>
   <string name="miui_toast_zen_to_dnd">Ne moti je vključeno. Zvoki so utišani in vibracija je izključena.</string>
-  <string name="miui_toast_zen_to_standard">Ne moti je uključeno. Melodije zvonenja za klice in obvestila utišane</string>
+  <string name="miui_toast_zen_to_standard">Ne moti je vključeno. Melodije zvonenja za klice in obvestila utišane</string>
   <string name="miui_toast_zen_to_standard_when_shield_vedia">Ne moti je vključeno. Melodije zvonenja in zvoki obvestil in predstavnosti so utišani.</string>
   <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">Mobilni podatki</string>
@@ -1253,7 +1253,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, z 
 Če želite več informacij se obrnite na skrbnika."</string>
     <string name="monitoring_description_personal_profile_named_vpn">Osebni profil je povezan z aplikacijo %1$s, ki lahko nadzira omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.</string>
     <string name="monitoring_description_two_named_vpns">Povezani ste z aplikacijama %1$s in %2$s, ki lahko nadzirata omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.</string>
-    <string name="monitoring_description_vpn">"Aplikaciji ste dovolili vznastavitev povezave VPN.
+    <string name="monitoring_description_vpn">"Aplikaciji ste dovolili vzpostavitev povezave VPN.
 
 Ta aplikacija lahko nadzira napravo in omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti."</string>
     <string name="monitoring_description_vpn_profile_owned">"Delovni profil upravlja %1$s.

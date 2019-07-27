@@ -47,8 +47,8 @@ Ga želite omogočiti za NFC storitev"</string>
   <string name="status_wifi_connected">Povezava je vzpostavljena</string>
   <string name="tap_again_to_complete">Znova se dotaknite, da dokončate z aplikacijo %1$s</string>
   <string name="tap_again_to_pay">Znova se dotaknite da plačate z aplikacijo %1$s</string>
-  <string name="title_connect_to_network">Vznastavitev povezave z omrežjem</string>
+  <string name="title_connect_to_network">Vzpostavitev povezave z omrežjem</string>
   <string name="touch">Dotaknite se da pošljete</string>
   <string name="transaction_failure">Transakcije ni bilo mogoče dokončati z aplikacijo %1$s.</string>
-  <string name="wifi_connect">Vznastavi povezavo</string>
+  <string name="wifi_connect">Vzpostavi povezavo</string>
 </resources>

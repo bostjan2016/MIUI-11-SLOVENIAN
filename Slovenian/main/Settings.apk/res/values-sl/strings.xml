@@ -51,7 +51,7 @@
   <string name="abort_restore_confirm">"Obnovitev ni končana. Vseeno zaustavim?"</string>
   <string name="about_ad_service_instructions">O storitvah oglasov in zasebnosti​</string>
   <string name="about_autostart">O samodejnem zagonu</string>
-    <string name="about_phone_device_name_warning">Ime naprave je vidno aplikacijam v telefonu. Ko vznastavite povezavo z napravami Bluetooth ali nastavite dostopno točko , ga bodo morda videle tudi druge osebe.</string>
+    <string name="about_phone_device_name_warning">Ime naprave je vidno aplikacijam v telefonu. Ko vzpostavite povezavo z napravami Bluetooth ali nastavite dostopno točko ,ga bodo morda videle tudi druge osebe.</string>
   <string name="about_phone_enter_xiaomi_net">Izvedite več</string>
     <string name="about_settings">O telefonu</string>
   <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
@@ -997,7 +997,7 @@ Aplikacije:
 Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_confirm_passkey_msg">Če želite seznaniti z napravo:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Prikazano mora biti to geslo:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_failed">Povezave ni bilo mogoče vzpostaviti. Poskusite znova.</string>
-    <string name="bluetooth_connect_specific_profiles_title">Vznastavi povezavo z ...</string>
+    <string name="bluetooth_connect_specific_profiles_title">Vzpostavi povezavo z ...</string>
     <string name="bluetooth_connected">Povezano %1$s</string>
   <string name="bluetooth_connected_battery_level">Povezano| Baterija %1$s</string>
     <string name="bluetooth_connected_multiple_devices_summary">Povezan z več napravami</string>
@@ -1017,12 +1017,12 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_device">Neimenovana naprava Bluetooth</string>
   <string name="bluetooth_device_address">Naslov:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Dovoli dohodne prenose datotek</string>
-  <string name="bluetooth_device_advanced_online_mode_summary">Vznastavi povezavo z napravo Bluetooth</string>
-  <string name="bluetooth_device_advanced_online_mode_title">Vznastavi povezavo</string>
+  <string name="bluetooth_device_advanced_online_mode_summary">Vzpostavi povezavo z napravo Bluetooth</string>
+  <string name="bluetooth_device_advanced_online_mode_title">Vzpostavi povezavo</string>
   <string name="bluetooth_device_advanced_profile_header_title">Uporaba za</string>
   <string name="bluetooth_device_advanced_rename_device">Preimenuj</string>
   <string name="bluetooth_device_advanced_title">Seznanjena naprava Bluetooth</string>
-  <string name="bluetooth_device_context_connect">Vznastavi povezavo</string>
+  <string name="bluetooth_device_context_connect">Vzpostavi povezavo</string>
   <string name="bluetooth_device_context_connect_advanced">Možnosti …</string>
     <string name="bluetooth_device_context_disconnect">Prekini povezavo</string>
     <string name="bluetooth_device_context_disconnect_unpair">Prekini povezavo in prekliči seznanitev</string>
@@ -4076,7 +4076,7 @@ Na tej napravi je več uporabnikov.
   <string name="mms_breathing_light_freq_title">Frekvenca LED indikatorja za sporočila</string>
   <string name="mms_privacy_password_role_instruction">Vaši razgovori z zasebnimi stiki bodo shranjeni tukaj.</string>
   <string name="mms_title">MMS</string>
-  <string name="mobile_connect_to_internet">Vznastavite spletno povezavo</string>
+  <string name="mobile_connect_to_internet">Vzpostavi spletno povezavo</string>
   <string name="mobile_data_always_on">Prenos podatkov v mobilnih omrežjih je vedno aktiven</string>
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mobile_insert_sim_card">Vstavite SIM in znova zaženite</string>
@@ -4588,7 +4588,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="oem_radio_info_label">Informacije/nastavitve za OEM</string>
   <string name="oem_unlock_enable">Odklepanje OEM</string>
     <string name="oem_unlock_enable_disabled_summary_bootloader_unlocked">Nalagalnik zagona je že odklenjen</string>
-    <string name="oem_unlock_enable_disabled_summary_connectivity">Najprej vznastavite povezavo s spletom</string>
+    <string name="oem_unlock_enable_disabled_summary_connectivity">Najprej vzpostavite povezavo s spletom</string>
     <string name="oem_unlock_enable_disabled_summary_connectivity_or_locked">Povežite se s spletom ali se obrnite na operaterja</string>
     <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Ni na voljo v napravah, zaklenjenih na operaterja</string>
     <string name="oem_unlock_enable_summary">Dovoli odklepanje zagonskega nalagalnika</string>
@@ -5596,8 +5596,8 @@ Vmesnik UT: %5$s"</string>
   <string name="ringtones_install_custom_sound_content">Ta datoteka bo kopirana v mapo %s</string>
     <string name="ringtones_install_custom_sound_title">Želite dodati zvok po meri?</string>
   <string name="roaming">Podatkovno gostovanje</string>
-    <string name="roaming_disable">Med gostovanjem vznastavi povezavo s podatkovnimi storitvami</string>
-    <string name="roaming_enable">Med gostovanjem vznastavi povezavo s podatkovnimi storitvami</string>
+    <string name="roaming_disable">Med gostovanjem vzpostavi povezavo s podatkovnimi storitvami</string>
+    <string name="roaming_enable">Med gostovanjem vzpostavi povezavo s podatkovnimi storitvami</string>
   <string name="roaming_reenable_message">Podatkovna povezava ni mogoča ker ste zapustili domače omrežje, podatkovno gostovanje pa je izklopljeno.</string>
     <string name="roaming_reenable_title">Želite dovoliti podatkovno gostovanje?</string>
   <string name="roaming_turn_it_on_button">Vklopi</string>
@@ -7159,7 +7159,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="to_close">Izključi</string>
   <string name="toast_lockscreen_glogin_empty_password">Vnesi geslo</string>
   <string name="toast_need_login">Vpiši se v Mi Račun</string>
-  <string name="toast_sta_ap_works_wifi_display_disable">"Ne morem predvajati ko se vznastavi WiFi povezava in vključi hotspot."</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">"Ne morem predvajati ko se vzpostavi WiFi povezava in vključi hotspot."</string>
   <string name="toggle_auto_speaker_preference_summary">Naprava se bo prestavila na zvočnik če jo med klicem oddaljite od ušesa. To deluje samo če je TalkBack vključen.</string>
   <string name="toggle_auto_speaker_preference_title">Prestavi na zvočnik samodejno</string>
   <string name="toggle_collapse_after_clicked_title">Strni po dotiku</string>
@@ -7689,7 +7689,7 @@ Vam je všeč Mi Mover?"</string>
 Prenesite samo važne stvari."</string>
   <string name="usb_charging_summary">Izključi vse ostale storitve USB povezovanja za pospešitev polnjenja.</string>
   <string name="usb_charging_title">Pospeši polnjenje</string>
-  <string name="usb_connection_category">Vznastavi povezavo kot</string>
+  <string name="usb_connection_category">Vzpostavi povezavo kot</string>
     <string name="usb_control_device">Ta naprava</string>
     <string name="usb_control_host">Povezana naprava</string>
     <string name="usb_control_title">Povezavo USB upravlja</string>
@@ -8005,7 +8005,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="vpn_cant_connect_message">"Ta aplikacija ne podpira storitve zmeraj vključeno."</string>
   <string name="vpn_cant_connect_title">"%1$s se ne more povezati"</string>
   <string name="vpn_configure">Nastavitev</string>
-  <string name="vpn_connect">Vznastavi povezavo</string>
+  <string name="vpn_connect">Vzpostavi povezavo</string>
   <string name="vpn_connect_to">Povezovanje z %s</string>
   <string name="vpn_create">Dodajanje profila VPN</string>
   <string name="vpn_disconnect">Prekini povezavo</string>
@@ -8016,7 +8016,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="vpn_done">Opusti</string>
   <string name="vpn_edit">Urejanje profila VPN</string>
   <string name="vpn_enable">VPN</string>
-    <string name="vpn_first_always_on_vpn_message">Če vklopite to nastavitev, ne boste imeli spletne povezave, dokler se ne vznastavi povezava z omrežjem VPN.</string>
+    <string name="vpn_first_always_on_vpn_message">Če vklopite to nastavitev, ne boste imeli spletne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
   <string name="vpn_forget">Pozabi</string>
   <string name="vpn_forget_long">Pozabi VPN</string>
     <string name="vpn_ipsec_ca_cert">Overjeno potrdilo IPSec</string>
@@ -8045,7 +8045,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="vpn_password">Geslo</string>
   <string name="vpn_replace">Zamenjaj</string>
     <string name="vpn_replace_always_on_vpn_disable_message">S stalno vklopljenim omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano in stalno vklopljeni način se bo izklopil.</string>
-    <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli internetne povezave, dokler se ne vznastavi povezava z omrežjem VPN.</string>
+    <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli internetne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
   <string name="vpn_replace_always_on_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
   <string name="vpn_replace_always_on_vpn_title">Želite zamenjati dosedanji VPN?</string>
   <string name="vpn_replace_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
@@ -8203,7 +8203,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wifi_assistant_ok">V redu</string>
   <string name="wifi_assistant_on">Vključi</string>
   <string name="wifi_assistant_open_app">ODPRI APLIKACIJO</string>
-  <string name="wifi_assistant_permission_accepted">“Google WiFi Asistentu” ste dali dovoljenje da vznastavi VPN povezavo. To pomeni da aplikacija lahko nadzira omrežni promet.</string>
+  <string name="wifi_assistant_permission_accepted">“Google WiFi Asistentu” ste dali dovoljenje da vzpostavi VPN povezavo. To pomeni da aplikacija lahko nadzira omrežni promet.</string>
   <string name="wifi_assistant_setting_summary">Google WiFi Asistent</string>
   <string name="wifi_assistant_setting_title">WiFi Asistent</string>
   <string name="wifi_assistant_setup">NASTAVI</string>
@@ -8218,7 +8218,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wifi_auto_connect_type_summary">Določite vrsto omrežne povezave</string>
   <string name="wifi_auto_connect_type_title">Samodejna povezava</string>
   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
-  <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vznastavi povezavo z odprtimi omrežji visoke kakovosti</string>
+  <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vzpostavi povezavo z odprtimi omrežji visoke kakovosti</string>
   <string name="wifi_automatically_connect_title">Samodejno uporabi odprto omrežje WiFi</string>
   <string name="wifi_automatically_manage_summary">Naj %1$s upravlja povezavo z omrežjem WiFi</string>
   <string name="wifi_automatically_manage_title">Samodejno upravljanje WiFi-ja</string>
@@ -8264,7 +8264,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">"Ne kaži več"</string>
   <string name="wifi_connect_cmcc_dialog_title">Obvestila uporabe podatkov</string>
   <string name="wifi_connect_failed_message">Telefon se ni mogel povezati v to omrežje WiFi.</string>
-    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vznastavitvi povezave</string>
+    <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vzpostavitvi povezave</string>
     <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji Wi‑Fi</string>
   <string name="wifi_connected_no_internet">Vzpostavljena povezava brez spleta</string>
   <string name="wifi_connection_management">Urejaj WiFi povezave</string>
@@ -8400,7 +8400,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_master_key_service_dialog_title">WiFi omrežje v skupni rabi</string>
     <string name="wifi_menu_advanced">Dodatno</string>
     <string name="wifi_menu_configure">Konfiguriranje</string>
-  <string name="wifi_menu_connect">Vznastavi povezavo z omrežjem</string>
+  <string name="wifi_menu_connect">Vzpostavi povezavo z omrežjem</string>
   <string name="wifi_menu_disconnect">Prekini povezavo</string>
   <string name="wifi_menu_forget">Pozabi omrežje</string>
   <string name="wifi_menu_modify">Spremeni omrežje</string>
@@ -8517,7 +8517,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_setup_add_network">Dodaj omrežje</string>
   <string name="wifi_setup_back">Nazaj</string>
   <string name="wifi_setup_cancel">Prekliči</string>
-  <string name="wifi_setup_connect">Vznastavi povezavo</string>
+  <string name="wifi_setup_connect">Vzpostavi povezavo</string>
     <string name="wifi_setup_description_connected">Če želite nadaljevati nastavitev, se dotaknite <b>Naprej</b>". Če se želite povezati z drugim omrežjem , se dotaknite "<b>Nazaj</b>.</string>
   <string name="wifi_setup_description_connecting">Vzpostavljanje povezave lahko traja nekaj minut…</string>
   <string name="wifi_setup_detail">O omrežju</string>
@@ -8535,7 +8535,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_setup_status_new_network">Poveži se z novim omrežjem</string>
   <string name="wifi_setup_status_proceed_to_next">Naprej</string>
     <string name="wifi_setup_status_scanning">Iskanje omrežij ...</string>
-  <string name="wifi_setup_status_select_network">Dotaknite se omrežja da vznastavite povezavo</string>
+  <string name="wifi_setup_status_select_network">Dotaknite se omrežja da vzpostavite povezavo</string>
   <string name="wifi_setup_status_unsecured_network">Poveži z nezaščitenim omrežjem</string>
   <string name="wifi_setup_title">Namestitev povezave WiFi</string>
   <string name="wifi_setup_title_add_network">Dodajanje omrežja</string>

@@ -844,7 +844,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="incall_error_no_phone_number_supplied">Številka ki ste jo vnesli je neveljavna.</string>
   <string name="incall_error_out_of_service">Mobilno omrežje ni na voljo</string>
   <string name="incall_error_out_of_service_wfc">Mobilno omrežje ni na voljo. Povežite se v omrežje WiFi če želite opraviti klic.</string>
-  <string name="incall_error_power_off">Za vznastavitev klica izključite Letalski način.</string>
+  <string name="incall_error_power_off">Za vzpostavitev klica izključite Letalski način.</string>
   <string name="incall_error_power_off_wfc">Izklopite način za letalo ali se povežite v omrežje WiFi če želite opraviti klic.</string>
   <string name="incall_error_sim_deactive">Neaktivna SIM kartica</string>
   <string name="incall_error_supp_service_conference">Konferenčni klici onemogočeni.</string>
@@ -976,7 +976,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="livetalk_manual">Operation Manual</string>
   <string name="livetalk_name">top-up package</string>
   <string name="livetalk_network_confirm">V redu</string>
-  <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vznastavi klic.</string>
+  <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
   <string name="livetalk_network_unavailable">Omrežje ni na voljo</string>
   <string name="livetalk_next_step">Naprej</string>
   <string name="livetalk_niece_price_arrow">To opravilo je na voljo v 13 državah in regijah</string>
@@ -1160,7 +1160,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="no_call_barring">Ni prepovedi klicev</string>
   <string name="no_change">Ni bilo nobenih sprememb</string>
   <string name="no_data">Ni podatkov</string>
-  <string name="no_internet_available">Za vznastavitev spletnega klica rabite spletno povezavo</string>
+  <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
   <string name="no_internet_available_title">Ni spletne povezave</string>
   <string name="no_mobile_data">Mobilni podatki niso omogočeni</string>
   <string name="no_mobile_data_roaming">Podatki v gostovanju niso na voljo</string>
@@ -1174,7 +1174,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="no_vm_number_msg">Na SIM kartici ni shranjene številke glasovne pošte.</string>
   <string name="no_voip">Spletno klicanje ni podprto</string>
   <string name="no_volte">Ne morem izvesti IMS klicev</string>
-  <string name="no_vt_allowed">Za vznastavitev video klica izklopite način TTY</string>
+  <string name="no_vt_allowed">Za vzpostavitev video klica izklopite način TTY</string>
   <string name="no_wifi_available">Morate biti povezani z omrežjem WiFi za spletne klice (uporabite nastavitve brezžične povezave in omrežij).</string>
   <string name="no_wifi_available_title">Ni povezave WiFi</string>
   <string name="not_a_valid_port">Številka vrat mora biti med 1000 in 65534.</string>
@@ -1351,7 +1351,7 @@ Poskusite znova ali se obrnite na podporo za stranke za več možnosti."</string
   <string name="phone_in_ecm_notification_title">Način za povratni klic v sili</string>
   <string name="phone_number_hint_text">Telefonska številka</string>
   <string name="phone_numbers">Vnesi telefonsko številko</string>
-  <string name="pick_outgoing_call_phone_type">Vznastavi klic</string>
+  <string name="pick_outgoing_call_phone_type">Vzpostavi klic</string>
   <string name="pick_outgoing_sip_phone">Uporabi spletni klicni račun</string>
   <string name="picture_color_mode">Način barv slike</string>
   <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
@@ -1892,7 +1892,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="verify_failed">"Ne morem preveriti"</string>
   <string name="verifying">Preverjanje…</string>
   <string name="vibrate_after_connected_summary">Vibriraj pri odgovoru</string>
-  <string name="vibrate_after_connected_title">Vibriraj po vznastavitvi</string>
+  <string name="vibrate_after_connected_title">Vibriraj po vzpostavitvi</string>
   <string name="vibrate_on_ring_title">Vibriraj ko zvoni</string>
   <string name="vm_change_failed">Številke glasovne pošte ni mogoče spremeniti. 
 Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
