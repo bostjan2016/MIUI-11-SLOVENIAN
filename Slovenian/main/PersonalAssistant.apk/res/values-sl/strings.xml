@@ -365,6 +365,8 @@
   <string name="mi_wallet">Denarnica Mi</string>
   <string name="midrop_parent">Mi Drop</string>
   <string name="midrop_send">Pošlji</string>
+  <string name="miot_device_card_title">Mi Home naprave</string>
+  <string name="miot_device_introduction">Podrsaj dol v Asistentu na dotik za prikaz kontrol pametnega doma</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prekliči</string>
@@ -435,6 +437,7 @@
   <string name="place_label">Pogosta mesta</string>
   <string name="preferences">Nastavitve</string>
   <string name="preferences_label">Nastavitve</string>
+  <string name="quick_app_setting_brief">Podrsaj dol v Asistentu na dotik za prikaz nedavno uporabljenih hitrih aplikacij</string>
   <string name="qq_new">Nov status</string>
   <string name="qq_qzone">Qzone</string>
   <string name="quickstart_accessibility_description">"Zakl. aplikacij omogoča bližnjice za izbrane aplikacije tretjih strani. Te bližnjice ne bodo delovala če izključite to opravilo."</string>
@@ -488,6 +491,8 @@
   <string name="setting_btn_added">Dodano</string>
   <string name="setting_btn_remove">Izbriši kartico</string>
   <string name="setting_btn_setting">Nastavitve</string>
+  <string name="setting_cancel_sticky">Odpni</string>
+  <string name="setting_sticky_canceled">Odpeto</string>
   <string name="setting_cards_all_added">Vse kartice dodane</string>
   <string name="setting_cards_more">Več kartic</string>
   <string name="setting_common_private">Varnost &amp; zasebnost</string>
@@ -533,6 +538,7 @@
   <string name="setting_place_next">Naprej</string>
   <string name="setting_pref_confirm">Dokončaj</string>
   <string name="setting_school_label">Dodaj naslov v službi/šoli</string>
+  <string name="setting_sticky">Pripni na vrh</string>
   <string name="setting_stock">Zaloge</string>
   <string name="setting_stock_brief">Poglejte dnevni napredek podjetij katerim sledite.</string>
   <string name="setting_stock_brief_list">Dnevno poročanje</string>
@@ -567,6 +573,7 @@
   <string name="spending_open">Vključite Plačilno kartico</string>
   <string name="spending_setting_brief">Podrobnosti plačila</string>
   <string name="sport">Šport</string>
+  <string name="sport_headline">"Današnja aktivnost"</string>
   <string name="sport_open">Pokaži kartico Mi Fit</string>
   <string name="start_download">开始下载...</string>
   <string name="step_cal_unit"> Kal.</string>
@@ -607,6 +614,7 @@
   <string name="time_just_now">Pravkar</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
+  <string name="timeline_headline">Prihajajoče</string>
   <string name="toast_function_add_limit">Dodate lahko do %d bližnjic</string> 
   <string name="toast_function_add_not_allowed">Dodate lahko do 8 bližnjic</string>
   <string name="toast_function_remove_not_allowed">Dodaj vsaj eno bližnjico</string>
