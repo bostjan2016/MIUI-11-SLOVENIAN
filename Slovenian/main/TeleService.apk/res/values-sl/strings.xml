@@ -653,6 +653,8 @@ hitrost vzorčenja"</string>
   <string name="chose_product_summary">Kličite ceneje</string>
   <string name="chose_product_title">Paket doplačila</string>
     <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
+  <string name="clear_all_set_button">Očisti nastavitve</string>
+  <string name="clear_all_set_title">Ta tipka je za čiščenje vseh nastavitev</string>
     <string name="clh_callFailed_ACM_equal_to_or_greater_than_ACMmax_txt">ACM je enako ali več kot ACMmax</string>
     <string name="clh_callFailed_access_information_discarded_txt">Podatki o dostopu so zavrženi</string>
     <string name="clh_callFailed_bearer_capability_not_authorized_txt">Zmogljivost nosilca ni odobrena</string>
@@ -1024,6 +1026,8 @@ hitrost vzorčenja"</string>
   <string name="entertainment_news_settings">Zabava</string>
   <string name="eo_disable">Zaposlitvene priložnosti so izklopljene</string>
   <string name="eo_enable">Zaposlitvene priložnosti so vklopljene</string>
+  <string name="eps_only_set_button">Nastavi samo eps</string>
+  <string name="eps_only_set_title">Ta tipka je za nastavljanje samo eps</string>
   <string name="error_type_account_201">Premalo sredstev</string>
   <string name="error_type_account_203">"Vrsta številke ki ste jo izbrali ni podprta"</string>
   <string name="error_type_account_208">"Ne morem dokončati klica na to številko"</string>
@@ -2399,12 +2403,12 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="volte_provision_title">Aktiviraj VoLTE klice</string>
   <string name="volte_switch_not_support_summary">"VoLTE klici niso podprti za mobilne podatke SIM kartice."</string>
   <string name="volte_switch_not_support_summary2">"VoLTE klici niso podprti s strani operaterja."</string>
-  <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih in video klicev</string>
+  <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih klicev</string>
   <string name="volte_switch_summary2">Potrdite da vaš mobilni operater podpira to storitev pred vklopom. Drugače lahko vpliva na normalno klicanje.</string>
-  <string name="volte_switch_title">VoLTE omogočen</string>
-  <string name="volte_switch_title_ct">VoLTE omogočen</string>
+  <string name="volte_switch_title">Uporabi VoLTE</string>
+  <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">Storitve China Telecom VoLTE so na voljo samo v področjih pokritih z LTE omrežjem.</string>
-  <string name="vowifi_emergency_notification_channel">WiFi klici opzorila v sili</string>
+  <string name="vowifi_emergency_notification_channel">WiFi klici opozorila v sili</string>
   <string name="vowifi_emergency_notification_content">Nujni klisi so na voljo samo v postajni pokritosti.</string>
   <string name="vowifi_emergency_notification_title">Vodafone WiFi povezovanje</string>
   <string name="vowifi_emergency_warning_check">"Ne kaži več."</string>

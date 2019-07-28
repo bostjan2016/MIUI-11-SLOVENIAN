@@ -325,6 +325,7 @@ Avdio"</string>
   <string name="local_backup_password_toast_validation_failure">Nastavitev gesla za var. kopijo ni uspela</string>
   <string name="managed_user_title">Vse radne aplikacije</string>
   <string name="media_category">Predstavnosti</string>
+  <string name="missedcall_notification_public_version_title">Telefon</string>
   <string name="mobile_data_always_on">Mobilni podatki zmeraj aktivni</string>
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>

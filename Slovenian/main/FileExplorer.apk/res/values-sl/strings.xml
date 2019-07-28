@@ -91,7 +91,9 @@
   <string name="category_photo">Fotografije</string>
   <string name="category_picture">Slike</string>
   <string name="category_recent">Nedavno</string>
+  <string name="category_source">Vir</string>
   <string name="category_theme">Teme</string>
+  <string name="category_time">Čas</string>
   <string name="category_type_document">Dokumenti</string>
   <string name="category_type_meida">Predstavnosti</string>
   <string name="category_type_other">Ostalo</string>
@@ -160,6 +162,7 @@
   <string name="copy_file_to_midrive">Kopiraj datoteko na MiDrive</string>
   <string name="copy_text">Kopiraj besedilo</string>
   <string name="copy_to">Kopiraj v…</string>
+  <string name="create_folder">Napravi</string>
   <string name="count_down">Odštevanje: %1$s</string>
   <string name="create_shortcut_success">Bližnjica uspešno dodana</string>
   <string name="daily_clockin">Prijavi se</string>
@@ -219,6 +222,14 @@
   <string name="directory_no_item">Prazno</string>
   <string name="disk_available">Na voljo:</string>
   <string name="disk_total">Skupaj:</string>
+  <string name="doc_all">Vse</string>
+  <string name="doc_epub">EPUB</string>
+  <string name="doc_pdf">PDF</string>
+  <string name="doc_ppt">PPT</string>
+  <string name="doc_txt">TXT</string>
+  <string name="doc_word">DOC</string>
+  <string name="doc_wps">WPS</string>
+  <string name="doc_xls">XLS</string>
   <string name="dislike_toast">"Takšni videoposnetki ne bodo priporočeni za vas."</string>
   <string name="dislike_video">"Nisem zainteresiran"</string>
   <string name="dlg_error_unmount_text">Ni bilo mogoče izvreči zunanjega pomnilnika.</string>
@@ -329,6 +340,7 @@
   <string name="handsome_boy">Moški</string>
   <string name="has_installed">Nameščeno</string>
   <string name="home_action_up">Nazaj</string>
+  <string name="home_title">Datoteke</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pomnilnik</string>
   <string name="homepage_tab_file_view_phone">Pomnilnik</string>
@@ -433,7 +445,8 @@
   <string name="message_reply_prefix">Odgovor</string>
   <string name="message_title">Moja sporočila</string>
   <string name="mi_router_label">Router</string>
-  <string name="midrive_network_connect_confirm">Midrive potrebuje povezavo s spletom za normalno delo.</string>
+  <string name="mi_share">MiShare</string>
+  <string name="midrive_network_connect_confirm">Mi drive potrebuje povezavo s spletom za normalno delo.</string>
   <string name="midrive_space_full">Ni dovolj prostora na Mi Cloudu.</string>
   <string name="midrive_welcome_message">Vaši Kuaipan podatki uspešno premeščeni. Vi pa ste dobili tri mesece članstva Mi Cloud kot darilo. Mi Cloud in cloud storitve bodo delili prostor za shranjevanje. Do svijega Mi Cloud prostora za shranjevanje dostopite  na i.mi.com.</string>
   <string name="midrive_welcome_title">Dobrodošli na Mi Cloud</string>
@@ -467,7 +480,7 @@
   <string name="mobile_photo">Slike telefona</string>
   <string name="mobile_photo_desc"/>
   <string name="month_day_format">dd MMM</string>
-  <string name="move_failed">Ni mogoče izrezati</string>
+  <string name="move_failed">Ni mogoče premestiti</string>
   <string name="move_failed_retry">"Ne morem izrezati, poskusite ponovno čez %1$s"</string>
   <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše upravljanje datotek.</string>
   <string name="move_icon_to_desktop_success">Zdaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
@@ -550,8 +563,8 @@
   <string name="no_search_content">"Ne najdem rezultate"</string>
   <string name="no_tasks">Ni nalog.</string>
   <string name="no_topic">Ni tem</string>
-  <string name="no_topic_found">Ni najdenih tem</string>
   <string name="no_videos">Tu ni nič. Preverite tiste spodaj!</string>
+  <string name="no_topic_found">Ni tem</string>
   <string name="no_wifi">Ni dostopnih WiFi omrežij</string>
   <string name="no_wifi_hint">Ni dostopnih omrežij</string>
   <string name="not_installed_documentsui">"Nimate nameščene DocumentsUI aplikacije"</string>
@@ -611,8 +624,8 @@
   <string name="operation_favorite">Dodaj med priljubljene</string>
   <string name="operation_hide_sys">Ne pokaži skritih datotek</string>
   <string name="operation_info">Podrobnosti</string>
-  <string name="operation_like">Všeč mi je!</string>
-  <string name="operation_move">Izreži</string>
+  <string name="operation_move">Premesti</string>
+  <string name="operation_like">Všeč mi je</string>
   <string name="operation_moving">Premikam...</string>
   <string name="operation_moving_detail">Premikam (%1$d/%2$d)</string>
   <string name="operation_other_apps">Odpri v drugi aplikaciji</string>
@@ -632,6 +645,9 @@
   <string name="operation_show_privacy_policy">Pokaži pravila o zasebnosti</string>
   <string name="operation_show_sys">Pokaži skrite datoteke</string>
   <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
+  <string name="otg_file_security_confirm">Kopiraj na telefon</string>
+  <string name="otg_file_security_details">Kopiraj na telefon</string>
+  <string name="otg_file_security_note">OTG Varnost</string>
   <string name="operation_unlike">Ni mi všeč</string>
   <string name="original_user_desc">Redno prenašajte originalne videoposnetke da dobite status avtorja vsebin</string>
   <string name="original_user_qq_group">Pridružite se QQ skupini Talent team</string>
@@ -701,6 +717,7 @@
   <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
   <string name="popup_msg_wx">Podelite ta video z vašimi WeChat prijatelji.</string>
   <string name="port_range">Vrata morajo biti med 1024–65535</string>
+  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="pretty_girl">Ženska</string>
   <string name="private_files">Skrito</string>
   <string name="private_folder">Skrita mapa</string>
@@ -890,6 +907,8 @@
   <string name="smb_loading">Samo trenutek…</string>
  <string name="sort_size_asc">Manjše proti večjem</string>
   <string name="sort_size_desc">Večje proti manjšemu</string>
+  <string name="start_doc">Datoteke</string>
+  <string name="start_phone">Shramba</string>
   <string name="sms_platform">SMS</string>
   <string name="space_info">KuaiPan: %1$s na voljo, %2$s skupaj</string>
   <string name="space_usage">Zaseden prostor</string>
@@ -914,6 +933,7 @@
   <string name="swap_tip_2">da gledate druge videoposnetke</string>
   <string name="subtitle_report_video">Pošilja %1$s</string>
   <string name="sys_size_enable">na voljo</string>
+  <string name="tab_app">Več</string>
   <string name="system_alert">Spletno povezovanje</string>
   <string name="system_sticker_control">Prikaži popularne videoposnetke</string>
   <string name="system_sticker_control_tip">Prikaži popularne nalepke v Raziskovalcu</string>
@@ -943,6 +963,8 @@
   <string name="tab_storage">Pomnilnik</string>
   <string name="tag_weixin_video">Mali videoposnetki</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_select_all">Izberi vse</string>
+  <string name="text_select_nothing">Prekliči izbrano</string>
   <string name="tip">Pozor</string>
   <string name="title_album">Albumi</string>
   <string name="title_app_tags">Aplik.</string>
@@ -951,7 +973,7 @@
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>
   <string name="title_select_volume">Izberite mape</string>
-  <string name="title_upload_video">Podelite male videoponetke</string>
+  <string name="title_upload_video">Podelite male videoposnetke</string>
   <string name="toast_file_not_can_read">Najdene ni nobene aplikacije ki bi znala opraviti to nalogo.</string>
   <string name="tools">ORODJA</string>
   <string name="top_mark">TOP</string>

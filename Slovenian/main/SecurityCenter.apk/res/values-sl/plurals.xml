@@ -545,12 +545,12 @@
         <item quantity="one">    +%1$d več znak</item>
     </plurals>
 	 <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">%d aplikacij je lahko skrito</item>
-        <item quantity="one">%d aplikacija je lahko skrita</item>
+        <item quantity="other">Ikona začetnega zaslona skrita za %d aplikacij</item>
+        <item quantity="one">Ikona začetnega zaslona skrita za %d aplikacijo</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">%d aplikacij je skrito</item>
-        <item quantity="one">%d aplikacija je skrita</item>
+        <item quantity="other">"Ikona začetnega zaslona ni skrita za %d aplikacij"</item>
+        <item quantity="one">"Ikona začetnega zaslona ni skrita za %d aplikacijo"</item>
     </plurals>
 	<plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d aplikacij se lahko prikaže na napačen način. Omejite plavajoča obvestila.</item>

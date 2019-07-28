@@ -1246,6 +1246,28 @@
         <item>Optimizirano za kvaliteto povezave (330 kbps/303 kbps)</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
     </string-array>
+	<string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
+        <item>Kratka latenca</item>
+        <item>Srednja latenca</item>
+        <item>Duga latenca</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
+        <item>Kratka latenca (50~100ms)</item>
+        <item>Srednja latenca (150~200ms)</item>
+        <item>Duga latenca (300~500ms)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
+        <item>Optimizirano za kvaliteto povezave</item>
+        <item>Uravnotežena kvaliteta predvajanja zvoka in povezave</item>
+        <item>Optimizirano za kvalitetu predvajanja zvoka</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimizirano za kvaliteto povezave (400kbps)</item>
+        <item>Uravnotežena kvaliteta predvajanja zvoka in povezave (500/560kbps)</item>
+        <item>Optimizirano za kvalitetu predvajanja zvoka (900kbps)</item>
+        <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Izbira sistema (privzeto)</item>
         <item>44,1 kHz</item>
@@ -1261,29 +1283,31 @@
         <item>96,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Naj izbere sistem (Privzeto)</item>
+        <item>Izbira sistema (Privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>LHDC</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-         <item>Naj izbere sistem (Privzeto)</item>
+         <item>Izbira sistema (Privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+	<item>LHDC</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
-	    <item>AVRCP 1.3</item>
+	<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>

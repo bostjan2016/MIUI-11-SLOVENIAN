@@ -348,6 +348,11 @@
          <item quantity="other">Prijavljeni %1$s dni zaporedoma, samo nadaljujte tako!</item>
          <item quantity="one">Prijavljen %1$s dan zapored, nadaljujte tako!</item>
      </plurals>
+	 <plurals name="text_group_count">
+        <item quantity="other">%d stvari</item>
+        <item quantity="zero"> %1$d stvari</item>
+        <item quantity="one">%d stvar</item>
+    </plurals>
      <plurals name="total_topic_num">
          <item quantity="other">Tem: %1$s</item>
          <item quantity="one">%1$s tema</item>

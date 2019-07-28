@@ -77,7 +77,8 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	    <item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>LHDC</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -88,6 +89,7 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+	<item>LHDC</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -105,7 +107,7 @@
     </string-array>
     <string-array name="clock_options">
         <item>Pokaži ure, minute in sekunde</item>
-        <item>Prikaži ure in minute (privzeto)</item>
+        <item>Pokaži ure in minute (privzeto)</item>
         <item>"Ne kaži te ikone"</item>
     </string-array>
     <string-array name="color_mode_descriptions">

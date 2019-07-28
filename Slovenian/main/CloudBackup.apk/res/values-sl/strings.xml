@@ -171,7 +171,6 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="query_restore_back_view">Mi Cloud var. kopija</string>
   <string name="query_restore_description">Obnovi aplikacije in nastavitve začetnega zaslona s pomočjo te var. kopije. To bo pobrisalo podatke aplikacij za podvojene aplikacije nameščene na napravi. Aplikacije ki niso vključene v var. kopijo bodo premeščene na zadnji začetni zaslon.</string>
   <string name="query_restore_summary">Najdena var. kopija na Mi Cloudu za to napravo. Obnovim aplikacije in nastavitve zač. zaslona ali uporabim kot novo napravo in izbrišem predhodne var. kopije iz Mi Clouda?</string>
-  <string name="recover_from_micloud">Obnovi s pomočjo Mi Cloud</string>
   <string name="recover_home_settings">Obnovi nastavitve zač. zaslona</string>
   <string name="recover_miui_settings">Obnovi nastavitve sistema</string>
   <string name="recover_settings_description">Ne izklopite naprave</string>
@@ -213,6 +212,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="restore_task_in_process">Obnovitev…</string>
   <string name="restore_task_unfinished">"Ne morem povrniti"</string>
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
+  <string name="restoring_data">Obnovitev podatkov…</string>
   <string name="restoring_file_title_no_progress">Vračanje datotek…</string>
   <string name="restoring_settings">Vračanje nastavitev…</string>
   <string name="restoreing_file_tile">Obnovitev datotek: %d</string>

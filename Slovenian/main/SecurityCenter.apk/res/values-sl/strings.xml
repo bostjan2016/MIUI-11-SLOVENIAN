@@ -35,7 +35,7 @@
   <string name="ac_pre_notification_contentText">Zaščitite svoje osebne podatke</string>
   <string name="ac_pre_notification_contentTitle">Poskusite zakl. aplikacij</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
-  <string name="ac_summaryOn">Vključeno, potrebna je geslo za odpiranje aplikacije</string>
+  <string name="ac_summaryOn">Vnesite geslo za odpiranje aplikacije</string>
   <string name="ac_unmask_all_apps">Prikaži za vse aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se zaganja</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Narišite vzorec odklepanja da uporabite nov prstni odtis</string>
@@ -119,10 +119,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="after_the_lock_screen">"Zakleni aplikacije skupaj z zaslonom."</string>
   <string name="alert_back_diving_mode_summary">Izključim Interaktivni način?</string>
   <string name="alert_back_diving_mode_title">Interaktivni način</string>
+  <string name="alert_back_milink_hangup_tips_content">"Predvajanje ne bo prekinjeno dokler ne končate klica. Pritisnite gumb za vklop da zbudite zaslon."</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
   <string name="already_close_gamebooster">Pohitritev hitrosti igranja je izključeno</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
-  <string name="anti_disturb_msg_detail">Izključi vsa obvestilajesti, razen za dohodne klice</string>
+  <string name="anti_disturb_msg_detail">Izključi vsa obvestila, razen za dohodne klice</string>
   <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">Podrobnosti seznama blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Vse številke</string>
@@ -1238,6 +1239,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebox_immersion_tips_content">Interaktivni način omejuje vse funkcionalnosti SIM kartice, razen mobilne podatkovne povezave. Ne boste moteni s klici ali obvestili o njih. Storitve SIM kartice bodo povrnjene po izklopu interaktivnega načina. Vključim Interaktivni način?</string>
   <string name="gamebox_immersion_tips_title">Pozor</string>
   <string name="gamebox_immerson_open">"Vklop interaktivnega načina, ne menjajte omrežja…"</string>
+  <string name="gamebox_milink">Predvajanje</string>
   <string name="gamebox_positive_button_text">V redu (%1$ds)</string>
   <string name="gamebox_qq_not_find">Namestite QQ i poskusite ponovno.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije ki delajo z bližnjicami niso nameščene"</string>
@@ -1854,8 +1856,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
-  <string name="notification_mask_summary">"Vsebine obvestil ne prikazuj na zakl. zaslonu in plošči obvestil"</string>
-  <string name="notification_mask_title">Skrij vsebino</string>
+  <string name="notification_mask_summary">"Ne kaži vsebine obvestil za zaščitene aplikacije"</string>
+  <string name="notification_mask_title">Skrij vsebino obvestil</string>
   <string name="notification_masked_item">Skrij obvestila</string>
   <string name="notification_masked_subtitle">Skrij obvestila iz aplikacij zaščitenih z zakl. aplikacij</string>
   <string name="notification_open_extreme_mode_text">Ekstremno varčevanje baterije je vključeno</string>
@@ -2007,6 +2009,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="other">Ostalo</string>
   <string name="other_exception_summary">"Ni povezave s spletom"</string>
   <string name="other_exception_title">Kontrola drugih težav</string>
+  <string name="other_milink_connect">"Ne morem predvajati. Predvaja se druga vsebina."</string>
   <string name="package_change_notification_summary">Tapnite da izveste več.</string>
   <string name="package_change_notification_title">Nastavite omejitev podatkov na samodejno</string>
   <string name="package_setted_error_notification_summary">Tapnite za prikaz podrobnosti o porabi podatkov.</string>
@@ -2459,6 +2462,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="preferred_app_entries_messaging">Sporočila</string>
   <string name="preferred_app_entries_music">Glasba</string>
   <string name="privacy_apps">Skrite aplikacije</string>
+  <string name="privacy_apps_begin_use">Začetek</string>
+  <string name="privacy_apps_button_know">Razumem</string>
   <string name="privacy_apps_category_title">Skrite aplikacije</string>
   <string name="privacy_apps_checkbox_remind_choice">"Ne kaži več"</string>
   <string name="privacy_apps_close">Zapri</string>
@@ -2466,9 +2471,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_apps_go_to_use">Začni</string>
   <string name="privacy_apps_manage">Urejaj skrite aplikacijama</string>
   <string name="privacy_apps_manage_dialog_title">O skritih aplikacijah</string>
-  <string name="privacy_apps_manager_dialog_message">Skrivanje aplikacij zahteva nastavljanje zaklepa zaslona aplikacije. Obvestila za skrite aplikacije bodo izključene. Skrijem to aplikacijo?</string>
+  <string name="privacy_apps_manager_dialog_message">"Ikona te aplikacije ne bo prikazana na začetnem zaslonu če aplikacijo skrijete. Želite skriti to aplikacijo?"</string>
+  <string name="privacy_apps_next_stup">Naprej</string>
+  <string name="privacy_apps_shield_message_summary">"Ne kaži obvestil zaščitenih aplikacij"</string>
+  <string name="privacy_apps_shield_message_title">"Ne kaži obvestil"</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Ta storitem vam omogoča skrivanje ikon aplikacij da se ne bi več pojavljale na začetnem zaslonu."</string>
+  <string name="privacy_apps_tutorial_dlg_title">Kako najti skrite aplikacije</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Ta storitev vam omogoča skrivanje ikon aplikacij da se ne bi več pojavljale na začetnem zaslonu."</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Po vnosu gesla se bo pojavila mapa s skritimi aplikacijami.</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">"Razširite dva prsta na zaslonu. Videli boste sporočilo da vnesite geslo za zakl. aplikacije."</string>
   <string name="privacy_declare_dialog_message">"Z uporabo te storitve se strinjate z Opera &lt;a href=%s&gt; Pogoji Uporabe&lt;/a&gt;."</string>
@@ -2895,6 +2904,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="status_bar_network_flow_setup_data_plan">"   Nastavi podatkovni plan &gt;"</string>
   <string name="status_bar_network_flow_today">Danes: %1$s</string>
   <string name="still_retain_btn">Zadrži</string>
+  <string name="stop_milink_connect">Predvajanje je ustavljeno</string>
   <string name="stop_app_button">Ustavi</string>
   <string name="suffix_pay_risk_count_bottom">tveganj</string>
   <string name="suffix_pay_risk_count_top">plačilo</string>
@@ -2997,13 +3007,20 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_app">Sistemske aplikacije</string>
   <string name="system_application">Sistemske aplikacije</string>
   <string name="system_permission_declare_agree">Strinjam se</string>
+  <string name="system_permission_declare_disagree">Ne strinjam se</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;Preberite in se strinjajte z našimi &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnost&amp;lt;/a&amp;gt; pred uporabo te storitve.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta aplikacija vam omogoča uporabo: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Če ne daste potrebnih dovoljenj ali nam ne dovolite zbiranje in uporabo podatkov ta aplikacija ne bo mogla normalno delati."</string>
   <string name="system_permission_declare_privacy_declare">"Spoštujemo in ščitimo vašo zasebnost.
 Vedite da %1s mora zbrati vaše podatke in zahteva za normalno delo naslednja dovoljenja:"</string>
-  <string name="system_permission_declare_revoke_path">Lahko odstranite to aplikacijo se odjavite iz računa ali urejatje dovoljenja v Varnost &gt; Aplikacije &gt; Dovoljenja &gt; Ostala dovoljenja.</string>
+  <string name="system_permission_declare_privacy_no_permission">"Vedite da %1s mora zbrati vaše podatke za normalno delo.
+Spoštujemo in ščitimo vašo zasebnost."</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_revoke_system">Lahko izidete iz aplikacije.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Lahko odstranite to aplikacijo ali urejate dovoljenja v Varnost &gt; Aplikacije &gt; Dovoljenja &gt; Ostala dovoljenja.</string>
   <string name="system_permission_declare_use_network">Povezovanje z omrežjem</string>
+  <string name="system_permission_declare_use_network_no_permission">Poveži se na omrežje</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Klicanje</string>
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje telefonskih številk</string>
