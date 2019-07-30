@@ -13,6 +13,7 @@
   <string name="add_follow">Spremljaj</string>
   <string name="add_private">Skrij datoteke</string>
   <string name="add_private_files">Dodaj datoteke</string>
+  <string name="app_function">Urejanje datotek v vaši napravi</string>
   <string name="add_task">Dodaj opravila</string>
   <string name="all_topic">Vse teme</string>
   <string name="apk_installing">Nameščanje…</string>
@@ -259,6 +260,7 @@
   <string name="error_create_dir">"Ne morem napraviti mapo"</string>
   <string name="error_create_file">"Ne morem napraviti datoteko"</string>
   <string name="error_delete_failed">"Ne morem izbrisati datoteko"</string>
+  <string name="error_file_already_exists">Ta datoteka že obstaja</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="error_folder_already_exists">Ta datoteka že obstaja</string>
   <string name="error_info_cant_send_folder">"Ne morem poslati to vrsto datoteke."</string>
@@ -323,6 +325,9 @@
   <string name="ftp_transfer_secure">Varnost</string>
   <string name="ftp_username_and_passworld">Vpis</string>
   <string name="ftp_username_hint">Uporabniško ime</string>
+  <string name="function_file_operation">"Za dostop in odpiranje datotek; "</string>
+  <string name="function_set_private">"Za pregled in šifriranje datotek; "</string>
+  <string name="function_use_imei">"Za dostop do IMEI in šifriranje datotek; "</string>
   <string name="full_gems">Zamenjajte svoje dragulje</string>
   <string name="gbk_summary">Poenostavljeno kitajsko Windows privzeto kodiranje</string>
   <string name="gbk_title">GBK</string>
@@ -340,7 +345,7 @@
   <string name="handsome_boy">Moški</string>
   <string name="has_installed">Nameščeno</string>
   <string name="home_action_up">Nazaj</string>
-  <string name="home_title">Datoteke</string>
+  <string name="home_title">Raziskovalec</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pomnilnik</string>
   <string name="homepage_tab_file_view_phone">Pomnilnik</string>

@@ -36,7 +36,7 @@
   <string name="agenda_settings_loan">Pokaži plačila kreditov</string>
   <string name="alipay_init">Zagon Alipay storitve…</string>
   <string name="alipay_init_success">Alipay storitev je zagnana​</string>
-  <string name="all_function_title">Vse bližnjice</string>
+  <string name="announce_for_drag">Poteg ene stvari</string>
   <string name="app_label">Asistent</string>
   <string name="app_setting">Nastavitve</string>
   <string name="app_setting_add_header_bg">Slika za ozadje</string>
@@ -81,6 +81,7 @@
   <string name="card_expand_note_toast_save_dup">Uspešno shranjeno</string>
   <string name="card_hint_noteboard">Pritisni tu za izdelavo beležke</string>
   <string name="card_menu_edit">Uredi</string>
+  <string name="card_menu_remove">Odstrani</string>
   <string name="card_menu_setting">Nastavitve</string>
   <string name="card_note_finish">Končano</string>
   <string name="card_plan_fly">Planirani odhod</string>
@@ -564,7 +565,7 @@
   <string name="sms_hotel">Hotel</string>
   <string name="sms_passenger">Potnik</string>
   <string name="sms_phone">Telefonska številka</string>
-  <string name="sms_platform">Platforma</string>
+  <string name="sms_platform">Lokacija</string>
   <string name="sms_session">Pregledovanje</string>
   <string name="sms_start_date">Datum</string>
   <string name="sms_start_time">Čas</string>
@@ -575,7 +576,7 @@
   <string name="sport">Šport</string>
   <string name="sport_headline">"Današnja aktivnost"</string>
   <string name="sport_open">Pokaži kartico Mi Fit</string>
-  <string name="start_download">开始下载...</string>
+  <string name="start_download">Začni prenos…</string>
   <string name="step_cal_unit"> Kal.</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Viri informacij o korakih</string>

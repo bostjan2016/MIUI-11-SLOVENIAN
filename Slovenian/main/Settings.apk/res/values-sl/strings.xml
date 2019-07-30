@@ -1044,8 +1044,8 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_disable_absolute_volume_summary">Onemogoči opravilo absolutnega praga glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disable_inband_ringing">Onemogoči in-band zvonjenje</string>
   <string name="bluetooth_disable_inband_ringing_summary">Ne predvajaj prilagojene zvonjenja zvona za Bluetooth slušalke</string>
-  <string name="bluetooth_disable_mi_fast_connect">Onemogoči Mi Fast Connect</string>
-  <string name="bluetooth_disable_mi_fast_connect_summary">Onemogoči storitev Mi Fast Connect</string>
+  <string name="bluetooth_disable_mi_fast_connect">Onemogoči Mi Link</string>
+  <string name="bluetooth_disable_mi_fast_connect_summary">Onemogoči storitev Mi Link</string>
     <string name="bluetooth_disable_profile_message">S tem boste onemogočili:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;na napravi:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Želite onemogočiti profil?</string>
     <string name="bluetooth_disabled">Izklopljeno</string>
@@ -3953,6 +3953,7 @@ Na tej napravi je več uporabnikov.
   <string name="mi_service">Mi storitve</string>
   <string name="mi_service_app_detail">Podrobnosti uporabe podatkov</string>
   <string name="mi_shopping_mall">Mi Store</string>
+  <string name="mi_transfer">Mi Mover</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
   <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Teme in druge storitve Mi.</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
@@ -6654,9 +6655,10 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_settings_show_keyguard_notification">Obvestila zakl. zaslona</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Dovoli važna obvestila na zakl. zaslonu</string>
   <string name="status_bar_settings_show_lte_for_4g">Pokaži LTE ikono za 4G</string>
+  <string name="status_bar_settings_show_weather">Pokaži vremensko napoved v plošči obvestil</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži v prosojnem obvestilu</string>
-  <string name="status_bar_settings_show_notification_icon">Pokaži ikono obvestila</string>
+  <string name="status_bar_settings_show_notification_icon">Pokaži ikono obvestil</string>
   <string name="status_bar_settings_show_screenshot_notification">Pokaži obvestilo posnetka zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Prikaži kot seznam</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Pokaži obvestila na zaklenjenem zaslonu in spusti predogled spodaj</string>

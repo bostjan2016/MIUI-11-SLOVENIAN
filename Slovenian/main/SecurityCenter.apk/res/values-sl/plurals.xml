@@ -52,6 +52,22 @@
         <item quantity="other">%s min.</item>
         <item quantity="one">%s min.</item>
     </plurals>
+	<plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d min. od zadnjega polnjenja</item>
+        <item quantity="one">%d min. od zadnjega polnjenja</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d sek.  od zadnjega polnjenja</item>
+        <item quantity="one">%d sek. od zadnjega polnjenja</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d min. ostalo</item>
+        <item quantity="one">%d min. ostala</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d ur ostalo</item>
+        <item quantity="one">%d ura ostala</item>
+    </plurals>
 	<plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d aplikacij, vključno %1$s, porablja baterijo</item>
         <item quantity="one">%2$d aplikacija, vključno %1$s, porablja baterijo</item>
@@ -545,12 +561,12 @@
         <item quantity="one">    +%1$d več znak</item>
     </plurals>
 	 <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Ikona začetnega zaslona skrita za %d aplikacij</item>
-        <item quantity="one">Ikona začetnega zaslona skrita za %d aplikacijo</item>
+        <item quantity="other">%d ikon aplikacij niso skrite</item>
+        <item quantity="one">%d ikona aplikacije ni skrita</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">"Ikona začetnega zaslona ni skrita za %d aplikacij"</item>
-        <item quantity="one">"Ikona začetnega zaslona ni skrita za %d aplikacijo"</item>
+        <item quantity="other">"%d ikon aplikacij so skrite"</item>
+        <item quantity="one">"%d ikona aplikacije je skrita"</item>
     </plurals>
 	<plurals name="first_aid_card_float_window_summary">
         <item quantity="other">%d aplikacij se lahko prikaže na napačen način. Omejite plavajoča obvestila.</item>
