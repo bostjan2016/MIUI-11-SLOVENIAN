@@ -55,9 +55,9 @@
   <string name="agreement_required_tip">(Obvezno)</string>
   <string name="agreement_summary">Legalni dokumenti</string>
   <string name="ai_album_open_switch_button_title">Začni analizo fotografij</string>
-  <string name="ai_album_requesting_title">AI algoritam še vedno obdeluje vaše fotografije. Vrati se malo kasneje.</string>
+  <string name="ai_album_requesting_title">AI algoritam še vedno obdeluje vaše fotografije. Vrnite se malo kasneje.</string>
   <string name="ai_album_setting_key_word">Išči fotografije</string>
-  <string name="ai_album_setting_sub_title">Dovoli AI algoritmu da prepozna osebe, mesta in objekte na vašim fotografijah da jih hitreje najdeš.</string>
+  <string name="ai_album_setting_sub_title">Dovoli AI algoritmu da prepozna osebe, mesta in objekte na vaših fotografijah da jih hitreje najdete.</string>
   <string name="ai_album_setting_title">Prepoznaj objekte na fotografijah</string>
   <string name="album_already_exists_check">Pokaži</string>
   <string name="album_already_exists_msg">Album \"%s\" že obstaja</string>

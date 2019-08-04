@@ -366,7 +366,16 @@
   <string name="mi_wallet">Denarnica Mi</string>
   <string name="midrop_parent">Mi Drop</string>
   <string name="midrop_send">Pošlji</string>
+  <string name="miot_device_add_device">Dodaj napravo</string>
+  <string name="miot_device_all_device">Vse naprave</string>
+  <string name="miot_device_cancel">Prekliči</string>
   <string name="miot_device_card_title">Mi Home naprave</string>
+  <string name="miot_device_click_show_detail">Tapnite da izveste več o pametnih napravah.</string>
+  <string name="miot_device_cta_and"> in </string>
+  <string name="miot_device_cta_message">"Dodajte pametne naprave da jih lahko upravljate v Meniju bližnjic. Če tapnete \"Strinjam se\" se strinjate z "</string>
+  <string name="miot_device_cta_priv">Pravila o zasebnosti.</string>
+  <string name="miot_device_cta_use_info">Mi Home pogoji uporabe</string>
+  <string name="miot_device_empty_text">Dodajte čistilec zraka, kamero, vakuumskega robota in ostale pametne naprave da jih boste upravljali.</string>
   <string name="miot_device_introduction">Podrsaj dol v Asistentu na dotik za prikaz kontrol pametnega doma</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
