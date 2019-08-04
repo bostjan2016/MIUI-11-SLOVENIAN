@@ -174,7 +174,7 @@
   <string name="superpower_dialog_app_select_content">Aplikacije tretjih oseb porabijo več energije od sistemskih aplikacij. Vseeno dodam?</string>
   <string name="superpower_dialog_app_select_title">Pozor</string>
   <string name="superpower_incharging">Polnjenje</string>
-  <string name="superpower_progress_battery_last">%s stalo</string>
+  <string name="superpower_progress_battery_last">%s ostalo</string>
   <string name="superpower_progress_left_time">%1$dh %2$dm</string>
   <string name="superpower_search_hint">Išči aplikacije</string>
   <string name="superpower_select_app_title">Videz začetnega zaslona</string>
