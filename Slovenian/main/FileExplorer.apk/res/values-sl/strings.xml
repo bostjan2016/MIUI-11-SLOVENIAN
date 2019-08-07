@@ -342,6 +342,8 @@
   <string name="group_title_extra_backup">Var. kopije</string>
   <string name="group_title_extra_expire">O poteku</string>
   <string name="group_title_extra_new">Novo</string>
+  <string name="hint_switch_to_grid_mode">Spremenjeno na prikaz rešetke</string>
+  <string name="hint_switch_to_list_mode">Spremenjeno na prikaz seznama</string>
   <string name="handsome_boy">Moški</string>
   <string name="has_installed">Nameščeno</string>
   <string name="home_action_up">Nazaj</string>

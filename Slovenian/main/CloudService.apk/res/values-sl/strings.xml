@@ -49,8 +49,12 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_back_up_title">Napravi var. kopijo naprave</string>
   <string name="cloud_backup_dialog_title">Napravi var. kopijo na Mi Cloud</string>
   <string name="cloud_find_device">Najdi napravo</string>
-  <string name="cloud_find_device_off">Izključi</string>
-  <string name="cloud_find_device_on">Vključi</string>
+  <string name="cloud_find_device_off">Izključeno</string>
+  <string name="cloud_find_device_on">Vključeno</string>
+  <string name="cloud_lab_title">Cloud Lab</string>
+  <string name="cloud_storage_already_used">Porabljeno: %1$s/%2$s</string>
+  <string name="cloud_storage_info_type_others">Preostalo</string>
+  <string name="cloud_storage_manage_title">Urejajte Cloud prostor</string>
   <string name="cloud_restore_title">Obnovi iz var. kopije</string>
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
@@ -62,6 +66,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="confirm_save">Obdrži</string>
   <string name="connect_network">Povežite se preko WiFi ali vstavite SIM kartico</string>
   <string name="connect_wlan">Povežite se preko WiFi</string>
+  <string name="data_protection_title">Zaščita podatkov</string>
   <string name="contact">Stiki</string>
   <string name="deskclock_backup">Napravi var. kopijo ure</string>
   <string name="detect_sim_card">Poišči SIM kartico</string>
@@ -444,7 +449,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_sync_alert_dialog_positive">V redu</string>
   <string name="micloud_sync_alert_dialog_title">Uporabi Mi Cloud</string>
   <string name="micloud_sync_off">Sinhr. z Mi Cloud je izključena</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Stiki, Koledar in Beležke se samodejno sinhronizirajo. Da boste sinhronizirali več stvari, pojdite v Mi Cloud nastavitve.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Sinhroniziraj samo stike, dogodke koledarja in beležke. Za sinhronizacijo več stvari pojdite v Mi Cloud nastavitve.</string>
   <string name="micloud_sync_result_already_in_progress">Obdelava predhodne sinhronizacije…</string>
   <string name="micloud_sync_result_auth_exception">Napaka računa</string>
   <string name="micloud_sync_result_cancel">Sinhr. je  prekinjena</string>
@@ -570,7 +575,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_dspt_entrance_provision">"Sinhronizirajte svoje fotografije, stike, zgodovino klicev in obvestila na vseh napravah. Sinhroniziranim stvarem dostopajte v kateremkoli brskalniku na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Preberite več</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne uporabi"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI sistemskim aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Uporabi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne boste uporabljali Mi Cloud-a?"</string>
   <string name="sync_dspt_entrance_provision_network">Ta aplikacija za normalno delo potrebuje spletni dostop. Sinh. podatkov lahko zahteva mobilno podatkovno povezavo in vklop WiFi ja.</string>
@@ -589,6 +594,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_item_title">Sinhr. podatke aplikacije</string>
   <string name="sync_off">Izklop</string>
   <string name="sync_on">Vklop</string>
+  <string name="sync_setting_title">Nastavitve sinhronizacije</string>
   <string name="sync_resend_sms_dspt_provision">"Če zamenjate SIM kartico, vam bo operater zaračunal SMS uporabljen za ponovno aktiviranje te storitve."</string>
   <string name="sync_sub_1_intl_sms">Mednarodni in domač SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater vam bo to zaračunal.</string>
   <string name="sync_sub_1_sms">Vaš operater vam bo zaračunal SMS ki je uporabljen za aktivacijo te storitve.</string>

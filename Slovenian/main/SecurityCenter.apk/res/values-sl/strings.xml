@@ -2072,6 +2072,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm do popolne napolnjenosti</string>
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh ostalo</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm ostalo</string>
+  <string name="pc_search_keywords_battery">Baterija</string>
+  <string name="pc_search_keywords_battery_save">Varčevanje baterije</string>
+  <string name="pc_search_keywords_battery_use">Uporaba baterije</string>
+  <string name="pc_search_keywords_capacity">Kapaciteta baterije</string>
+  <string name="pc_search_keywords_property">Zmogljivost</string>
   <string name="pc_settings_title">Nastavitve optimizacije baterije</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm ostalo</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm od zadnjega polnjenja</string>
@@ -2760,7 +2765,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_settings_check_item_title_root">ROOT</string>
   <string name="sp_settings_check_item_title_sign_exception">Izjeme prijav</string>
   <string name="sp_settings_check_item_title_update">Posodabljanje sistema</string>
-  <string name="sp_settings_check_item_title_virus_exception">Izjeme Virusov</string>
+  <string name="sp_settings_check_item_title_virus_exception">Izjeme</string>
   <string name="sp_settings_check_item_title_wifi">WiFi</string>
   <string name="sp_settings_exception_count_zero">Ni stvari</string>
   <string name="sp_settings_group_title_check_item">Večkratne nastavitve</string>

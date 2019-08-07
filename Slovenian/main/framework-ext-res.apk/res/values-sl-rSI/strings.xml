@@ -71,6 +71,11 @@
   <string name="handy_mode_summary">Da zaprete se dotaknite temnega področja zaslona</string>
   <string name="handy_mode_title">Delo z eno roko</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Postavite vaš prst na gumb Domov</string>
+  <string name="input_method_edit_phrase_text">Uredite pogoste izraze</string>
+  <string name="input_method_no_content_text">Nič še ni tu</string>
+  <string name="input_method_switch_settings_text">Nastavitve tipkovnice</string>
+  <string name="input_method_tab_clipboard_text">Medpomnilnik</string>
+  <string name="input_method_tab_phrase_text">Pogosti izrazi</string>
   <string name="internal_livetalk_enable">Uporabite doplačilo paketa za domače klice</string>
   <string name="international_livetalk_enable">Uporabite doplačilo paketa za mednarodne klice</string>
   <string name="key_btn_ok">V redu</string>
@@ -168,6 +173,10 @@
   <string name="sim_added_reboot_title">SIM kartica bo aktivirana po ponovnem zagonu naprave.</string>
   <string name="sim_lock_non_ais_msg">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vaše naročnine. Za vprašanja in informacije se obrnite na Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
+  <string name="slavewifi">Dvopasovni WiFi</string>
+  <string name="slavewifi_disconnect">Prekini povezavo</string>
+  <string name="slavewifi_notification_title">Uporaba dvopasovnega WiFi omrežja</string>
+  <string name="slavewifi_settings">Tapnite za spremembo nastavitev</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
   <string name="standard">Tiho</string>

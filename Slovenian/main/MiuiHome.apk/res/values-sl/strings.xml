@@ -258,6 +258,7 @@
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
   <string name="no_space_toast">Ni dovolj prostora</string>
+  <string name="no_space_toast_when_click_widget">Na tej strani je premalo prostora. Poskusite to stvar potegniti na drugo stran.</string>
   <string name="normal_wallpaper">Slika ozadja</string>
   <string name="notification_installed">Uspešno nameščeno</string>
   <string name="notification_open_button">Odpri</string>

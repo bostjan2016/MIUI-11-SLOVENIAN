@@ -1353,8 +1353,8 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Lastnosti</string>
   <string name="bt_lhdc_declaration">Če Bluetooth naprava podpira LHDC bo povezana po privzetih nastavitvah. LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Zaradi omejitev Bluetooth strojne opreme lahko pride do napak..</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo
-Storitev lahko izključite v [Nastavitve]"</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo.
+Storitev lahko izključite v nastavitvah"</string>
   <string name="bt_lhdc_dialog_title">Trenutna naprava podpira LHDC, ki je povezan po standardnem:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Zaradi omejitev Bluetooth strojne opreme lahko pride do napak.</string>
   <string name="bt_lhdc_open_dialog_title">Vključim LHDC?</string>
@@ -2935,6 +2935,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="fsg_mistake_touch_summary">V nekaterih prizorih, kot igre in videoposnetki na celem zaslonu, morajo gibi biti dvakrat napravljeni da imajo efekt</string>
   <string name="fsg_mistake_touch_title">Dvakrat preveri za gibe</string>
   <string name="full_screen_display">Cel zaslon</string>
+  <string name="full_screen_keyboard_optimization">Izboljšajte tipkovnico</string>
   <string name="full_transparent_smarrcover_title">Prozorni prednji pokrov</string>
   <string name="fullbackup_data_summary">"Daljinsko zaženite samodejno izdelavo var. kopije podatkov naprave (npr. gesla WiFi, zgodovina klicev) in podatkov aplikacij (npr. nastavitve in datoteke ki jih aplikacije hranijo).
 
@@ -3176,6 +3177,16 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_assistance">Pomoč pri vnosu</string>
   <string name="input_hint_prefix">Vnesi %1$s</string>
     <string name="input_method">Vnosna metoda</string>
+  <string name="input_method_function_clipboard">Medpomnilnik in pogoste fraze</string>
+  <string name="input_method_function_clipboard_des">Tapnite za pregled vsebine medpomnilnika in pogostih izrazov</string>
+  <string name="input_method_function_no_function">Nič</string>
+  <string name="input_method_function_no_function_des">"Ne kaži bližnjic"</string>
+  <string name="input_method_function_switch">Zamenjaj tipkovnice</string>
+  <string name="input_method_function_switch_des">Tapnite za prehod na drugo tipkovnico</string>
+  <string name="input_method_function_voice">Glasovni vnos</string>
+  <string name="input_method_function_voice_des">Tapnite za uporabo glasovnega vnosa</string>
+  <string name="input_method_function_xiaoai">Mi AI Glasovni vnos</string>
+  <string name="input_method_function_xiaoai_des">Tapnite za uporabo Mi AI glasovnega vnosa</string>
     <string name="input_method_selector">Izbirnik načina vnosa</string>
   <string name="input_method_selector_always_hide_title">Vedno skrij</string>
   <string name="input_method_selector_always_show_title">Vedno pokaži</string>
@@ -3408,7 +3419,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="launching_cit">Zaganjam CIT</string>
   <string name="launching_pho">Zaganjam podatke o napravi, počakajte.</string>
-  <string name="launching_rep">Poročanje...</string>
+  <string name="launching_rep">Poročanje…</string>
   <string name="layout_exhuge_font_take_effect_tips">XXL Velikost teksta deluje samo v telefonu, sporočilih in stikih</string>
   <string name="layout_exhuge_font_tips">Več opcij je na voljo v %1$s</string>
   <string name="layout_exhuge_font_tips_reg">Dostopnost &gt; Velikost prikaza</string>
@@ -3429,6 +3440,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="led_frequence_summary">Nastavite interval utripov</string>
   <string name="led_pulse_summary">LED obvestilo ko je prejeto novo obvestilo</string>
   <string name="led_settings">Opozorilna lučka</string>
+  <string name="left_function_key">Leva bližnjica</string>
   <string name="legacy_dhcp_client">Uporaba starejšega odjemalca DHCP</string>
   <string name="legacy_dhcp_client_summary">Uporaba odjemalca DHCP za Lollipop namesto novega odjemalca DHCP za Android.</string>
   <string name="legal_information">Pravne informacije</string>
@@ -4425,6 +4437,7 @@ Na tej napravi je več uporabnikov.
   <string name="noise_suppression">Odpravljanje šuma v okolju</string>
   <string name="none">Nič</string>
   <string name="normal">Normalno</string>
+  <string name="normal_bottom_height_of_keyboard">Normalno</string>
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_info">Vsi zvoki bodo delali normalno</string>
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
@@ -5111,6 +5124,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_usage_old_debug">%1$s levo (Old est)</string>
   <string name="power_usage_summary">Kaj porablja energijo akumulatorja</string>
   <string name="power_usage_summary_title">Baterija &amp; zmogljivost</string>
+  <string name="power_usage_summary_title_new">Baterija &amp; zmogljivost</string>
     <string name="power_user">Uporabnik</string>
   <string name="power_wifi">WiFi</string>
   <string name="pre_installed_application">Prednameščene aplikacije</string>
@@ -5464,6 +5478,9 @@ Vmesnik UT: %5$s"</string>
     <string name="radio_info_toggle_dns_check_label">Preklop preverjanja DNS</string>
     <string name="radio_info_ul_kbps">Pasovna širina za nalaganje (kbps):</string>
   <string name="radio_info_voice_network_type_label">Vrsta glasovnega omrežja:</string>
+  <string name="raise_bottom_height_of_keyboard">Izboljšano</string>
+  <string name="raise_bottom_height_of_keyboard_sub_title">Trak z prilagodljivimi bližnjicami se bo pojavil pod tipkovnico tipkovnice če zamenjate na izboljšani način dela</string>
+  <string name="raise_bottom_height_of_keyboard_title">Prilagodite tipkovnico za prikaz na celem zaslonu</string>
   <string name="rank_title">Razvrstitev</string>
   <string name="rarely_running">Redko se izvaja (%s)</string>
   <string name="read_encrypt_fail">"Šifrirane varnostne kopije ni mogoče prebrati"</string>
@@ -5608,6 +5625,7 @@ Vmesnik UT: %5$s"</string>
   <string name="retry">Poskusite znova</string>
   <string name="reverse_all">Prekliči izbrano</string>
   <string name="rgb_manage_facerecoginition_text">Upravljaj podatke 2D obraza</string>
+  <string name="right_function_key">Desna bližnjica</string>
   <string name="ring_volume_option_title">Glasnost zvonenja</string>
   <string name="ring_volume_title">Glasnost zvonenja</string>
   <string name="ringtone_mute">Tiho</string>
@@ -8779,10 +8797,9 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="wrong_pin_code_pukked">Napačna PIN koda kartica SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
-  <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira stike, fotografije in ostale stvari v vaši napravi. \"Najdi napravo\" tudi potebuje Mi Cloud za normalno delovanje.</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira stike in fotografije, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti napravo.</string>
+  <string name="xiaomi_cloud_service_description_without_contacts">Mi Cloud sinhronizira vaše fotografije, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti napravo.</string>
   <string name="xiaomi_cloud_service_disabled">Izključeno</string>
-  <string name="xiaomi_cloud_service_description_contact">stiki in</string>
-  <string name="xiaomi_cloud_service_description_format">Mi Cloud sinhronizira vaše fotografije %s, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti telefon s storitvijo Najdi napravo.</string>
   <string name="xiaomi_cloud_service_unknown">Neznano</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
