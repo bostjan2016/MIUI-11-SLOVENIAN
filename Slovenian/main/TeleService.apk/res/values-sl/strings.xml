@@ -1331,6 +1331,7 @@ za uporabo top-up package"</string>
   <string name="local_enable">Lokalne novice so vklopljene</string>
   <string name="local_weather_disable">Lokalno vreme je izklopljeno</string>
   <string name="local_weather_enable">Lokalno vreme je vklopljeno</string>
+  <string name="location">Lokacija</string>
   <string name="lodgings_disable">Nastanitve onemogočene</string>
   <string name="lodgings_enable">Nastanitve omogočene</string>
   <string name="login_account_button_text">Prijavite se</string>
@@ -1603,7 +1604,8 @@ Kontaktirajte vašega operaterja."</string>
   <string name="operator_mins_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
-  <string name="optional_summary">&lt;Izbirno&gt;</string>
+  <string name="operator">Operater</string>
+  <string name="optional_summary">Opcija</string>
   <string name="order_by_name">Po abesedi</string>
   <string name="order_by_recent">Pogosto uporabljano</string>
   <string name="order_error_network">Ne morem prenesti, omrežje ni na voljo.</string>
@@ -2109,6 +2111,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="slot">Reža</string>
   <string name="smart_divert_summary">CFNRc nastavitve</string>
   <string name="smart_divert_title">Smart-Divert</string>
+  <string name="smsc_dialog_message">"Preverite pravilnost vnešene številke, drugače ne boste mogli prejemati in pošiljati SMS. Za potrditev vaše SMSC številke kontaktirajte svojega operaterja."</string>
   <string name="sp_unlock_failed">SIM zahtevek odklepa ponudnika storitev neuspešen.</string>
   <string name="sp_unlock_success">SIM odklep ponudnika storitev uspešen.</string>
   <string name="speed_label_fast">Hitro</string>
