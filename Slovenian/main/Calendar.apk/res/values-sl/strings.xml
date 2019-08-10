@@ -538,7 +538,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="todo_event">Prihajajoče naloge</string>
   <string name="tomorrow">Jutri</string>
   <string name="tomorrow_at_time_fmt">Jutri ob %s</string>
-  <string name="too_long_content">Vsebina je prevelika je predugačak</string>
+  <string name="too_long_content">Vsebina je prevelika</string>
   <string name="too_long_description">Opis dogodka je predolg</string>
   <string name="too_long_location">Lokacija dogodka je predolga</string>
   <string name="too_long_name">Ime je predolgo</string>

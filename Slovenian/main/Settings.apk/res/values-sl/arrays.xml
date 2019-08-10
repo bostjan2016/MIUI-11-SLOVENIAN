@@ -1249,23 +1249,23 @@
 	<string-array name="bluetooth_a2dp_codec_lhdc_latency_summaries">
         <item>Kratka latenca</item>
         <item>Srednja latenca</item>
-        <item>Duga latenca</item>
+        <item>Dolga latenca</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_latency_titles">
         <item>Kratka latenca (50~100ms)</item>
         <item>Srednja latenca (150~200ms)</item>
-        <item>Duga latenca (300~500ms)</item>
+        <item>Dolga latenca (300~500ms)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>Optimizirano za kvaliteto povezave</item>
         <item>Uravnotežena kvaliteta predvajanja zvoka in povezave</item>
-        <item>Optimizirano za kvalitetu predvajanja zvoka</item>
+        <item>Optimizirano za kvaliteto predvajanja zvoka</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Optimizirano za kvaliteto povezave (400kbps)</item>
         <item>Uravnotežena kvaliteta predvajanja zvoka in povezave (500/560kbps)</item>
-        <item>Optimizirano za kvalitetu predvajanja zvoka (900kbps)</item>
+        <item>Optimizirano za kvaliteto predvajanja zvoka (900kbps)</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
