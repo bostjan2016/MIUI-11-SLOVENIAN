@@ -954,8 +954,8 @@ Uporabite priloženi polnilnik."</string>
     <string name="keyguard_accessibility_next_alarm">Naslednji alarm je nastavljen čez %1$s</string>
   <string name="keyguard_accessibility_password">Geslo naprave</string>
     <string name="keyguard_accessibility_pin_area">Območje za kodo PIN</string>
-    <string name="keyguard_accessibility_sim_pin_area">Območje za kodo PIN kartica SIM</string>
-    <string name="keyguard_accessibility_sim_puk_area">Območje za kodo PUK kartica SIM</string>
+    <string name="keyguard_accessibility_sim_pin_area">Območje za kodo PIN kartice SIM</string>
+    <string name="keyguard_accessibility_sim_puk_area">Območje za kodo PUK kartice SIM</string>
     <string name="keyguard_carrier_default">Ni storitve.</string>
     <string name="keyguard_charged">Akumulator napolnjen</string>
   <string name="keyguard_charging_back_to_lockscreen">Nazaj na zakl. zaslon</string>
@@ -997,16 +997,16 @@ Uporabite priloženi polnilnik."</string>
   <string name="keyguard_left_view_lock_wallpaper">Wallpaper Carousel</string>
     <string name="keyguard_low_battery">Priključite napajalnik.</string>
     <string name="keyguard_missing_sim_instructions">Vstavite kartico SIM.</string>
-    <string name="keyguard_missing_sim_instructions_long">Ni kartica SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
-    <string name="keyguard_missing_sim_message">V telefonu ni kartica SIM.</string>
-    <string name="keyguard_missing_sim_message_short">Ni kartica SIM</string>
+    <string name="keyguard_missing_sim_instructions_long">Ni kartkarticeica SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
+    <string name="keyguard_missing_sim_message">V telefonu ni kartice SIM.</string>
+    <string name="keyguard_missing_sim_message_short">Ni kartice SIM</string>
     <string name="keyguard_network_locked_message">Omrežje je zaklenjeno</string>
     <string name="keyguard_password_enter_password_code">Vnesite geslo za odklepanje</string>
     <string name="keyguard_password_enter_pin_code">Vnesite kodo PIN</string>
     <string name="keyguard_password_enter_pin_password_code">Vnesite kodo PIN za odklepanje</string>
-    <string name="keyguard_password_enter_pin_prompt">Nova koda PIN kartica SIM</string>
-    <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN kartica SIM</string>
-    <string name="keyguard_password_enter_puk_prompt">Koda PUK kartica SIM</string>
+    <string name="keyguard_password_enter_pin_prompt">Nova koda PIN kartice SIM</string>
+    <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN kartice SIM</string>
+    <string name="keyguard_password_enter_puk_prompt">Koda PUK kartice SIM</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotaknite se za vnos gesla&lt;/font&gt;</string>
     <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Kartica SIM je trajno onemogočena.
@@ -1041,8 +1041,8 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8- ali večmestno število.</string>
     <string name="kg_login_too_many_attempts">Preveč poskusov vnosa vzorca</string>
     <string name="kg_password_instructions">Vnesite geslo</string>
-    <string name="kg_password_pin_failed">"Postopek za odklepanje s kodo PIN kartica SIM ni uspel"</string>
-    <string name="kg_password_puk_failed">"Postopek za odklepanje s kodo PUK kartica SIM ni uspel"</string>
+    <string name="kg_password_pin_failed">"Postopek za odklepanje s kodo PIN kartice SIM ni uspel"</string>
+    <string name="kg_password_puk_failed">"Postopek za odklepanje s kodo PUK kartice SIM ni uspel"</string>
     <string name="kg_password_wrong_pin_code_pukked">Napačna koda PIN kartica SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
     <string name="kg_password_wrong_puk_code_dead">Kartica SIM ni več uporabna. Obrnite se na operaterja.</string>
     <string name="kg_pattern_instructions">Narišite vzorec</string>
@@ -1063,9 +1063,9 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_puk_enter_puk_hint">Kartica SIM je onemogočena. Če želite nadaljevati, vnesite kodo PUK. Za dodatne informacije se obrnite na operaterja.</string>
     <string name="kg_puk_enter_puk_hint_multi">Kartica SIM operaterja \"%1$s\"  je onemogočena. Če želite nadaljevati, vnesite kodo PUK. Za podrobnosti se obrnite na operaterja.</string>
   <string name="kg_sim_lock_esim_instructions">%1$s Onemogočite eSIM da boste uporabljali napravo brez mobilnih storitev.</string>
-    <string name="kg_sim_pin_instructions">Vnesite kodo PIN kartica SIM.</string>
-    <string name="kg_sim_pin_instructions_multi">Vnesite kodo PIN kartica SIM operaterja \"%1$s\" .</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartica SIM …</string>
+    <string name="kg_sim_pin_instructions">Vnesite kodo PIN kartice SIM.</string>
+    <string name="kg_sim_pin_instructions_multi">Vnesite kodo PIN kartice SIM operaterja \"%1$s\" .</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM …</string>
     <string name="kg_too_many_failed_attempts_countdown">Poskusite znova čez %d s.</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"Geslo ste %1$d krat vnesli napačno. 
 

@@ -5035,7 +5035,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="picture_in_picture_on">Da</string>
     <string name="picture_in_picture_title">Slika v sliki</string>
   <string name="picture_source">Vir slike</string>
-  <string name="pin_failed">Postopek za odklepanje s kodo PIN kartica SIM ni uspel.</string>
+  <string name="pin_failed">Postopek za odklepanje s kodo PIN kartice SIM ni uspel.</string>
   <string name="ping_test_label">Zaženi ping test</string>
   <string name="platform_chooser_item_android_mi">Mi Telefon</string>
   <string name="platform_chooser_item_android_others">Ostale znamke</string>
@@ -6444,14 +6444,14 @@ Morda je koda PIN napačna."</string>
   <string name="sim_missing">SIM manjka ali pa je napaka</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
-  <string name="sim_name_hint">Vnesite ime kartica SIM</string>
+  <string name="sim_name_hint">Vnesite ime kartice SIM</string>
   <string name="sim_no_inserted_msg">Ni vstavljenih kartic SIM</string>
   <string name="sim_notification_summary">Dotaknite se za nastavitev</string>
   <string name="sim_notification_title">Zamenjava kartic SIM.</string>
   <string name="sim_other_call_settings">Druge nastavitve klicev</string>
   <string name="sim_outgoing_call_title">Kartica SIM za odhodne klice</string>
   <string name="sim_pin_attempts">"Preostalo še poskusov:"</string>
-    <string name="sim_pin_change">Spremeni kodo PIN kartica SIM</string>
+    <string name="sim_pin_change">Spremeni kodo PIN kartice SIM</string>
   <string name="sim_pin_change_failed_enable_sim_lock">"Ne morem zamenjati SIM/RUIM PIN. Omogoči SIM/RUIM zaklepanje."</string>
   <string name="sim_pin_disable_failed">"Ne morem onemogočiti PIN."</string>
   <string name="sim_pin_disabled">PIN1 onemogočen!</string>

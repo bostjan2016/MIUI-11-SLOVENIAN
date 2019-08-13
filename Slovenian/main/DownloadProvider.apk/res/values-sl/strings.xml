@@ -15,7 +15,7 @@
   <string name="dialog_button_ok">V redu</string>
   <string name="dialog_content_limit0">Omeji prenose</string>
   <string name="dialog_content_limit_max">Neomejeno</string>
-  <string name="dialog_data_limit_button1">Čekaj na WiFi</string>
+  <string name="dialog_data_limit_button1">Čakaj na WiFi</string>
   <string name="dialog_data_limit_button2">Prenesi zdaj</string>
   <string name="dialog_data_limit_msg1">%s mobilnih podatkov se bo porabilo za prenos te datoteke. Prenesem zdaj?</string>
   <string name="dialog_data_limit_msg3">Spremeni omejitev</string>
@@ -78,11 +78,11 @@
   <string name="privacy_tip_ok">V redu</string>
   <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
   <string name="recommended_file_size_download_in_mobile">Uporabim %s mobilnih podatkov za prenašanje te datoteke?</string>
-  <string name="recommended_no_file_size_download_in_mobile">Uporabim mobilnih podatkov za prenašanje te datoteke?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Uporabim mobilne podatke za prenašanje te datoteke?</string>
   <string name="root_downloads">Prenosi</string>
   <string name="task_already_exist">Opravilo že obstaja</string>
   <string name="warning_tip_cancel">Prenesi</string>
-  <string name="warning_tip_content">"Niste več povezani z WiFi. Uporaba mobilnih podatkov za dokončanje prenosa bo povečalo uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
+  <string name="warning_tip_content">"Niste več povezani z WiFi. Uporaba mobilnih podatkov za dokončanje prenosa bo povečala uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
   <string name="warning_tip_ok">Premor</string>
   <string name="warning_tip_title">Opozorilo uporabe podatkov</string>
   <string name="wifi_recommended_body" formatted="false">Zagon %s prenosa lahko povzroči čezmerno uporabo vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju.

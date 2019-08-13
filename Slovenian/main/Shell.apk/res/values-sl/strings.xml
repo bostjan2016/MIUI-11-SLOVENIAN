@@ -11,7 +11,7 @@
     <string name="bugreport_updating_title">Dodajanje podrobnosti v Poročilo o programski napaki</string>
     <string name="bugreport_updating_wait">Počakajte...</string>
     <string name="bugreport_finished_text">Tapnite da boste delili poročilo o programski napaki</string>
-    <string name="bugreport_finished_pending_screenshot_text">Tapnite da boste delili poročila o napaki brez posnetka zaslona ili pričekajte da se izradi snimka</string>
+    <string name="bugreport_finished_pending_screenshot_text">Tapnite da boste delili poročila o napaki brez posnetka zaslona ali ppčakajte da se posnetek naredi</string>
     <string name="bugreport_confirm">Prijave programskih napak vsebujejo podatke iz različnih datotek zapisnika sistema, vključno osebne in zasebne informacije.</string>
     <string name="bugreport_confirm_repeat">Pokaži to sporočilo naslednjič</string>
     <string name="bugreport_storage_title">Poročilo o programski napaki</string>

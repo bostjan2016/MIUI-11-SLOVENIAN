@@ -2877,7 +2877,7 @@ Na tej napravi je več uporabnikov.
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
   <string name="picture_color_mode">Način barv slike</string>
   <string name="picture_color_mode_desc">Uporaba sRGB-ja</string>
-  <string name="pin_failed">Postopek za odklepanje s kodo PIN kartica SIM ni uspel.</string>
+  <string name="pin_failed">Postopek za odklepanje s kodo PIN kartice SIM ni uspel.</string>
   <string name="ping_test_label">Zaženi preizkus za preverjanje dosegljivosti (ping)</string>
   <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
   <string name="please_type_passphrase">Geslo</string>
@@ -3814,13 +3814,13 @@ Morda je koda PIN napačna."</string>
   <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
-  <string name="sim_name_hint">Vnesite ime kartica SIM</string>
+  <string name="sim_name_hint">Vnesite ime kartice SIM</string>
   <string name="sim_no_inserted_msg">Ni vstavljenih kartic SIM</string>
   <string name="sim_notification_summary">Dotaknite se za nastavitev</string>
   <string name="sim_notification_title">Zamenjava kartic SIM.</string>
   <string name="sim_other_call_settings">Druge nastavitve klicev</string>
   <string name="sim_outgoing_call_title">Kartica SIM za odhodne klice</string>
-  <string name="sim_pin_change">Spremeni kodo PIN kartica SIM</string>
+  <string name="sim_pin_change">Spremeni kodo PIN  SIM</string>
   <string name="sim_pin_toggle">Zakleni kartico SIM</string>
   <string name="sim_pins_dont_match">Kodi PIN se ne ujemata</string>
   <string name="sim_pref_divider">Prednostna kartica SIM za:</string>
