@@ -1137,6 +1137,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="scan_bussiness_card_merge_tip">Konfliktni podatki so zamenjani</string>
   <string name="scan_duplicate_message">Število stikov z istimi podatki: %1$d</string>
   <string name="scan_merge">Iščem podvojene stike...</string>
+  <string name="scan_not_installed">Najprej namestite aplikacijo Skener</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kodo</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>

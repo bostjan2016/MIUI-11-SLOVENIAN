@@ -337,6 +337,7 @@
   <string name="get_user_info_err">"Ne morem dobiti informacije o uporabniku"</string>
   <string name="get_verification_code_fail">"Ne morem dobiti kode za preverjanje"</string>
   <string name="gigabyteShort">GB</string>
+  <string name="grid_mode">Mreža</string>
   <string name="good_tip">Bravo!</string>
   <string name="group_title">%2$s od %1$s</string>
   <string name="group_title_extra_backup">Var. kopije</string>
@@ -373,6 +374,7 @@
   <string name="join_activity">Sodeluj</string>
   <string name="just_now">Prav zdaj</string>
   <string name="kilobyteShort">KB</string>
+  <string name="list_mode">Seznam</string>
   <string name="kp_category_all">Kategorija</string>
   <string name="kp_category_doc">Word</string>
   <string name="kp_category_excel">Excel</string>
@@ -935,6 +937,7 @@
   <string name="storage_usb">USB pomnilnik</string>
   <string name="storage_usb_description">USB pomnilnik</string>
   <string name="storage_warning">Zunanjega pomnilnika ni mogoče uporabiti</string>
+  <string name="switch_doc_type">Izberite format</string>
   <string name="support_mtp">MTP bo kmalu podprt </string>
   <string name="swap_tip_1">Podrsajte levo ali desno</string>
   <string name="swap_tip_2">da gledate druge videoposnetke</string>
