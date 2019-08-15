@@ -501,6 +501,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>
   <string name="backsound_set_hint">Nastavim sporočilo \"Sem odsoten\" za %s?</string>
+  <string name="battery_and_property">Baterija &amp; zmogljivost</string>
   <string name="battery_capacity_title">Kapaciteta baterije</string>
   <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napolnjeno</string>
@@ -2077,7 +2078,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pc_search_keywords_battery_use">Uporaba baterije</string>
   <string name="pc_search_keywords_capacity">Kapaciteta baterije</string>
   <string name="pc_search_keywords_property">Zmogljivost</string>
-  <string name="pc_settings_title">Nastavitve optimizacije baterije</string>
+  <string name="pc_settings_title">Nastavitve baterije &amp; zmogljivost</string>
   <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm ostalo</string>
   <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm od zadnjega polnjenja</string>
   <string name="pc_statistics_battery_use_summary">%s od zadnjega polnjenja</string>
@@ -2168,7 +2169,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_super_save_title_text">Ultra varčevanje baterije</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
-  <string name="power_center_title">Optimizacija baterije</string>
+  <string name="power_center_title">Baterija &amp; zmogljivost</string>
   <string name="power_chooser_check_box_title">Izberi profil</string>
   <string name="power_chooser_sleep_summary">Izklopi vse opravila (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>
   <string name="power_chooser_sleep_title">Spanje</string>
@@ -2322,8 +2323,16 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_setting_background_app_save_summary">Omeji aktivnost aplikacij v ozadju brez vpliva na funkcionalnost</string>
   <string name="power_setting_background_app_save_title">Varčevanje baterije v ozadju</string>
   <string name="power_setting_category_other">Dodatne nastavitve</string>
+  <string name="power_setting_config_scenario_policies_title">Scenariji</string>
+  <string name="power_setting_features">Posebne storitve</string>
+  <string name="power_setting_important_warning">Pozor</string>
   <string name="power_setting_power_save_summary_text">Optimiziraj nastavitve sistema da prihranite baterijo</string>
+  <string name="power_setting_scenario_policies_summary">Določite scenarije za samodejni preklop med načini varčevanja baterije</string>
   <string name="power_setting_super_save_summary_text">Omeji večino storitev sistema da prihranite baterijo</string>
+  <string name="power_setting_warm_configure">Kontrola temperature</string>
+  <string name="power_setting_warm_performance_tip">Scenariji ki zahtevajo veliko porabo energije bodo povišali temperaturo vaše naprave nad nivo privzetega načina kontrole temperature.</string>
+  <string name="power_setting_wireless_reverse_charging_summary">Brezžično polnite kompatibilne naprave</string>
+  <string name="power_setting_wireless_reverse_charging_title">Obrnjeno brezžično polnjenje</string>
   <string name="power_settings_category_title">Videz baterije</string>
   <string name="power_settings_lock_screen_saver_title">Nastavitve zakl. zaslona</string>
   <string name="power_settings_number">Odstotki</string>

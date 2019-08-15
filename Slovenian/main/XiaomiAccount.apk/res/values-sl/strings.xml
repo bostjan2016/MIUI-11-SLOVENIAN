@@ -635,7 +635,14 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="trusted_browsers_prompt">Brskalnik ne bo več zaupanja vreden če izbrišete piškotke.</string>
   <string name="turn_off_find_device_failed_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="turning_off_find_device">Izklop Najdi napravo…</string>
-  <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun.</string>
+  <string name="two_factor_auth">Dvonivojsko preverjanje</string>
+  <string name="two_factor_auth_click_confirm">Potrdite za prijavo</string>
+  <string name="two_factor_auth_click_confirm_summary">"Videli boste obvestila na ostalih povezanih Mi napravah. Tapnite obvestilo da omogočite prijavo na novi napravi."</string>
+  <string name="two_factor_auth_method">Način preverjanja avtentičnosti</string>
+  <string name="two_factor_auth_need_code">Vnesite kodo</string>
+  <string name="two_factor_auth_need_code_summary">"Na ostalih povezanih Mi napravah boste videli kodo. Vnesite jo v novo napravo za prijavo."</string>
+  <string name="two_factor_auth_summary">"Ko se poskusite prijaviti na novi napravi ali lokaciji boste o tem obveščeni na ostalih povezanih napravah. Morate potrditi če ste te poskuse prijave odobrili."</string>
+  <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun."</string>
   <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo."</string>
   <string name="unlock_help_notice">"Pomoč:
 1. Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.

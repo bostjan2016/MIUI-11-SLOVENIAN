@@ -79,10 +79,8 @@
   <string name="accessibility_skin_beautify_closed">Poudari tone kože izkl.</string>
   <string name="accessibility_skin_beautify_opened">Poudari tone kože vkl.</string>
   <string name="accessibility_stereo_button">Nastavljanje fokusa</string>
-  <string name="accessibility_ultra_pixel_photography_32mp_off">32MP izkl.</string>
-  <string name="accessibility_ultra_pixel_photography_32mp_on">32MP vkl.</string>
-  <string name="accessibility_ultra_pixel_photography_48mp_off">48MP izkl.</string>
-  <string name="accessibility_ultra_pixel_photography_48mp_on">48MP vkl.</string>
+  <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD je izklj.</string>
+  <string name="accessibility_ultra_pixel_photography_on">%s Ultra HD je vklj.</string>
   <string name="accessibility_ultra_wide_off">Ultra široki kot je izklj.</string>
   <string name="accessibility_ultra_wide_on">Ultra široki kot je vklj.</string>
   <string name="accessibility_video_btn_play">Predvajaj videoposnetek</string>
@@ -892,6 +890,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_whitebalance_entry_measure">Mera</string>
   <string name="pref_camera_whitebalance_title">Ravnovesje beline</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+  <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
   <string name="pref_camera_zoom_mode_title">LEČE</string>
@@ -921,6 +920,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_hdr_indicator_entry_off">Izklj.</string>
   <string name="pref_hdr_indicator_entry_on">Vklj.</string>
   <string name="pref_manual_exposure_title">čas ekspozicije</string>
+  <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Lahko snemate samo 720P videoposnetke z 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Lahko snemate samo 720P videoposnetke z 960FPS</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
@@ -1065,8 +1065,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>
   <string name="tap_to_focus">Pritisni za izostritev</string>
   <string name="time">Čas</string>
-  <string name="time_lapse_error">Tega videoposnetka se ne da uporabiti za snemanje v intervalih</string>
-  <string name="times">Kolikokrat</string>
+  <string name="time_lapse_error">"Tega videoposnetka se ne da uporabiti za snemanje v intervalih"</string>
+  <string name="times">Krat</string>
   <string name="title">Naslov</string>
   <string name="title_snap_double_confirm">Potrdi ponovno</string>
   <string name="toast_burst_snap_finished_end">fotografija</string>
@@ -1080,10 +1080,14 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>
   <string name="ubi_focus_capture_fail">"Slike ni bilo mogoče zajeti"</string>
   <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati predmete tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
-  <string name="ultra_pixel_photography_32mp_close_tip">32MP je izklj.</string>
-  <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
-  <string name="ultra_pixel_photography_48mp_close_tip">48MP je izklj.</string>
-  <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_pixel_32mp">32MP</string>
+  <string name="ultra_pixel_48mp">48MP</string>
+  <string name="ultra_pixel_64mp">64MP</string>
+  <string name="ultra_pixel_device">64MP</string>
+  <string name="ultra_pixel_photography_close_tip">%s Ultra HD je izklj.</string>
+  <string name="ultra_pixel_photography_open_tip">%s Ultra HD je vklj.</string>
+  <string name="ultra_pixel_portrait_hint">Ultra-clear portret</string>
+  <string name="ultra_pixel_zoom_no_support_tip">"Zoomiranje ne deluje v %s Ultra HD načinu"</string>
   <string name="ultra_wide_bokeh_close_tip">Način celega telesa je izklj.</string>
   <string name="ultra_wide_bokeh_open_tip">Način celega telesa</string>
   <string name="ultra_wide_close_tip">Ultra široki kot je izklj.</string>
@@ -1144,6 +1148,4 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="wifi_security">Varnost:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">"Pred povezovanjem preverite če je omrežje varno."</string>
-  <string name="zoom_no_support_tip_48M">"Zoomiranje ne dela v 48MP načinu"</string>
-  <string name="zoom_no_support_tip_64M">Zoomiranje ne dela v 64MP načinu</string>
 </resources>

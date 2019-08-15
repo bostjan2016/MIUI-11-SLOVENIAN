@@ -58,8 +58,8 @@
   <string name="enable_midrop">Vključi</string>
   <string name="fc_dialog_body">Pošljem poročilo o napakah Mi strežnikom za analizo? Lahko vsebuje tudi osebne podatke. Vaše poročilo bo koristilo pri reševanju te napake in se ne bo delilo v komercialne namene.</string>
   <string name="fc_dialog_jump_to_preview">Prikaži poročilo</string>
-  <string name="file_cannot_print">"Ne morem izpisati."</string>
-  <string name="file_cannot_screen_throw">"Ne morem izpisati."</string>
+  <string name="file_cannot_print">"Ne morem natisniti."</string>
+  <string name="file_cannot_screen_throw">"Ne morem predvajati."</string>
   <string name="file_sending">Prenos datotek…</string>
   <string name="first_back_long_press_message">"Za nastavljanje prilagojenega pritisnite &amp; zadržite opravilo za Navigacijske tipke, pojdite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snemanje</string>
@@ -262,7 +262,7 @@
   <string name="turn_off">Izključi</string>
   <string name="twohours">1 ura</string>
   <string name="unknown_caller">Neznana številka</string>
-  <string name="unrecognized_manufacture">Neznana naprava</string>
+  <string name="unrecognized_manufacture">Neznano</string>
   <string name="unrecognized_model">Neznana naprava</string>
   <string name="user_switching_dialog_switch_into_kid_space">Menjava v otroški prostor…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Izhod iz otroškega prostora…</string>
@@ -295,7 +295,7 @@
   <string name="xiaomi_mix_2">Mi MIX 2</string>
   <string name="xiaomi_mix_2s">Mi MIX 2S</string>
   <string name="xiaomi_mix_3">Mi MIX 3</string>
-  <string name="xiaomi_mix_3_5g">Mi MIX3 5G</string>
+  <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
   <string name="xiaomi_note_3">Mi Note 3</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="xspace_head">Dvojna aplikacija</string>

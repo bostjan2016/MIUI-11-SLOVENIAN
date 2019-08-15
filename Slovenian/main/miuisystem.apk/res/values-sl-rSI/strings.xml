@@ -11,6 +11,7 @@
   <string name="asend">Pošlji</string>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
+  <string name="birdcicada_preview">Zvoki narave 2</string>
   <string name="carousel">Carousel</string>
   <string name="celesta">Celesta</string>
   <string name="child">Otroštvo</string>
@@ -111,6 +112,7 @@
   <string name="national_father_day"/>
   <string name="new_years_day"/>
   <string name="no_notification_tips">Brez obvestil</string>
+  <string name="notice_audition">Zvoki narave</string>
   <string name="notificationxylophone">Obvestilo (Xylophone)</string>
   <string name="partys_day"/>
   <string name="passionflower">Strast</string>
@@ -145,6 +147,7 @@
   <string name="vip_login">Kliknite za prijavo</string>
   <string name="vip_not_login">Niste prijavljeni</string>
   <string name="vip_sign">Podpis:</string>
+  <string name="waterdrop_preview">Zvoki narave 1</string>
   <string name="white_dews"/>
   <string name="winter_begins"/>
   <string name="winter_solstice"/>

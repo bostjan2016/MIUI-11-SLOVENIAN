@@ -140,4 +140,22 @@
         <item>Dnevni plan podatkov</item>
         <item>Neomejeni plan podatkov</item>
     </string-array>
+	<string-array name="pc_settings_thermal_entries">
+        <item>Privzeto</item>
+        <item>Prednost ima zmogljivost</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Uporaba privzetega načina kontrole temperature</item>
+        <item>Prednost zmogljivosti</item>
+    </string-array>
+	<string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
 </resources>
