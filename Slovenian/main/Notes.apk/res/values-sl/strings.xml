@@ -166,7 +166,7 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
   <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
-  <string name="pref_desc_todo_float_mode">Podrsajte od roba zaslona da boste odprlo okvir orodja z nalogami</string>
+  <string name="pref_desc_todo_float_mode">Podrsajte od roba zaslona da boste odprli okvir orodja z nalogami</string>
   <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
   <string name="pref_title_font_size">Velikost pisave</string>
