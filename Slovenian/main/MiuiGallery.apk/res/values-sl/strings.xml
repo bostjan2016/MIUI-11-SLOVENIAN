@@ -64,13 +64,16 @@
   <string name="album_already_forced_top">Že na vrhu</string>
   <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Kamera</string>
+  <string name="album_cloud_list_page_title">Urejanje sinhroniziranih albumov</string>
   <string name="album_creative">Moje urejene fotografije</string>
   <string name="album_detail_clear_local_page_empty">Ni shranjenih fotografij ali videoposnetkov za brisanje</string>
   <string name="album_detail_page_empty">Ni predmetov</string>
   <string name="album_download">Prenosi</string>
   <string name="album_faces_name">Osebe</string>
   <string name="album_favorites_name">Priljubljeno</string>
-  <string name="album_from_format">%s</string>
+  <string name="album_from_format">Od %s</string>
+  <string name="album_hidden_item_button_title">Pokaži</string>
+  <string name="album_hidden_page_title">Skrij</string>
   <string name="album_jump_failed">Počakajte da se albumi sinhronizirajo z Mi Cloudom in poskusite ponovno</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_midrop">Mi Drop</string>
@@ -287,7 +290,8 @@
   <string name="choose_owner_relation">Razmerje</string>
   <string name="choose_people">"Izberite album osebe"</string>
   <string name="choose_some_people">Izberite album z %s</string>
-  <string name="cleaner_empty_value_description">Vse izgleda dobro</string>
+  <string name="chooser_fragment_mishare_title">Deli na</string>
+  <string name="cleaner_empty_value_description">Vse zgleda dobro</string>
   <string name="cleaner_photo_pick_delete_selected">Izbriši izbrane fotografije</string>
   <string name="cleaner_scan_description">Optimiziranje stvari osvobaja prostor za shranjevanje v vaši napravi</string>
   <string name="cleaner_scan_exit_dialog_message">"Morali boste začeti od začetka. Želite zdaj ustaviti skeniranje?"</string>
@@ -509,6 +513,8 @@
   <string name="edited_photo_bucket_name">Spremenjeno</string>
   <string name="effect">Filtri</string>
   <string name="email_picker_title">Dodaj deljeno E-pošto</string>
+  <string name="empty_album_cloud_list_title">Ni albumov za sinhroniziranje</string>
+  <string name="empty_album_hidden_list_title">Ni skritih albumov</string>
   <string name="empty_description_conditions">Zapomnite si stvari ki so važne</string>
   <string name="empty_description_no_cards">Zapomnite si stvari ki so važne</string>
   <string name="empty_query_text_msg">"Ne vem kaj iskati…"</string>
@@ -714,6 +720,7 @@ za fotografije"</string>
   <string name="filter_sky_download_sdk_without_wifi_title">Prenesi dodatek</string>
   <string name="filter_sky_dusk">Zora</string>
   <string name="filter_sky_glow">Sijaj</string>
+  <string name="filter_sky_hint">Skyscaping</string>
   <string name="filter_sky_rainbow">Mavrica</string>
   <string name="filter_sky_sunny">Sončno</string>
   <string name="filter_sky_sunset">Sončni zahod</string>
@@ -1261,6 +1268,7 @@ za fotografije"</string>
   <string name="projection_device_connection_failed">Ne morem se povezati z projektorjem</string>
   <string name="projection_local_mobile">Mobilno</string>
   <string name="projection_multi_title">Popis naprav</string>
+  <string name="projection_screen_project_in_screening">"Zdaj uporabljate svojo napravo za predvajanje"</string>
   <string name="projection_single_title">Predvajaj na %s</string>
   <string name="projection_slide_exit">Izhod iz diaprojekcije</string>
   <string name="projection_slide_fail_cause_loading">Ponovno zaženi diaprojekcijo po prenosu slik</string>
@@ -1316,6 +1324,9 @@ za fotografije"</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
+  <string name="remove_hidden_status_success">Odstranjeno %s iz skritega albuma</string>
+  <string name="remove_hidden_status_tip">Ta album bo prikazan med ostalimi albumi če ga pokažete.</string>
+  <string name="remove_hidden_status_title">Pokaži</string>
   <string name="remove_to_album_title">Združi z</string>
   <string name="remove_to_other_album">Združi z drugo osebo</string>
   <string name="removed_from_favorites_desc">Odstranjeno iz priljubljenih</string>
@@ -1491,6 +1502,8 @@ za fotografije"</string>
   <string name="sharpen">Izostri</string>
   <string name="show_all">Fotografije in videoposnetki</string>
   <string name="show_hidden_album_title">Pokaži skrite albume</string>
+  <string name="show_cloud_albumlist_summary">Urejajte albume ki jih sinhronizirate z Mi Cloudom</string>
+  <string name="show_hidden_album_summary">Pregled in urejanje skritih albumov</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Uspešno premeščeno, pojdite na albume Ostalo za pregled</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Uspešno premeščeno, pojdite na Albumi za pregled</string>
   <string name="similar_keep_clear">Obdrži najboljše fotografije</string>

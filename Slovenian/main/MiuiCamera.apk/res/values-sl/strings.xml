@@ -435,6 +435,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="lying_direct_hint">Trenutna orientacija</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">"Oddaljenost med objektivom in predmetom ne sme presegati 10 cm"</string>
+  <string name="macro_mode_use_hint_text_body">"Uporabite Macro način da bodo majhni predmeti
+izgledali večji na fotografijah"</string>
+  <string name="macro_mode_use_hint_text_title">Macro</string>
   <string name="maker">Avtor</string>
   <string name="makeup_reset_toast">Odstranjeni so učinki šminke</string>
   <string name="manual">Ročno</string>
@@ -679,6 +682,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje obraza</string>
   <string name="pref_camera_fisheye_title">Ribje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Samodejno</string>
+  <string name="pref_camera_flashmode_entry_back_soft_light">Mehka svetloba</string>
   <string name="pref_camera_flashmode_entry_off">Izklopi</string>
   <string name="pref_camera_flashmode_entry_on">Vklopi</string>
   <string name="pref_camera_flashmode_entry_torch">Svetilka</string>
@@ -793,7 +797,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
   <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Cijeli zaslon</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Cel zaslon</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title">Velikost slike</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
@@ -991,8 +995,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="qq_details">QQ podrobnosti:</string>
   <string name="qr_code_details">Podrobnosti QQ kode:</string>
   <string name="raw_data_exit_button_text">Izhod iz RAW načina</string>
-  <string name="record_back_pressed_hint">Ponovno se dotakni če hočeš prenehati s snemanjem</string>
-  <string name="resume_playing_message">Nadaljuj z predvajanjem od %s?</string>
+  <string name="recommend_soft_light_tip">Uporabite bliskavico v načinu mehke svetlobe</string>
+  <string name="record_back_pressed_hint">Ponovno se dotakni za prenehanje snemanja</string>
+  <string name="resume_playing_message">Nadaljujem z predvajanjem od %s?</string>
   <string name="resume_playing_restart">Začni od začetka</string>
   <string name="resume_playing_resume">Nadaljuj predvajanje</string>
   <string name="resume_playing_title">Nadaljuj videoposnetek</string>

@@ -39,8 +39,10 @@
   <string name="alert_dialog_download_progress">"Prenos: "</string>
   <string name="app_name">Mi Video</string>
   <string name="bind_sign_in_title">Poveži z Mi Računom</string>
+  <string name="before_yestoday">Pred 2 dnevoma</string>
   <string name="browser_error">Začasno ni na voljo, poskusite ponovno kasneje</string>
   <string name="cancel">Prekliči</string>
+  <string name="cancel_choose">Prekliči izbrano</string>
   <string name="canceled">Odpovedano</string>
   <string name="cast_ad_label">Oglas</string>
   <string name="cast_casting_to_device">Pošiljanje na %1$s</string>
@@ -82,6 +84,8 @@
   <string name="cast_tracks_chooser_dialog_subtitles">Naslovi</string>
   <string name="cast_unmute">Vključi zvok</string>
   <string name="choose_to_signin">Da</string>
+  <string name="check_nothing">"Nič še niste izbrali"</string>
+  <string name="choose">Izberi</string>
   <string name="choose_to_signup">"Ne, napravil bom račun"</string>
   <string name="click_to_reload_more">Tapni za več</string>
   <string name="click_to_retry">Poskusi ponovno</string>
@@ -114,6 +118,7 @@
   <string name="com_mixpanel_android_notification_image">Slika se ne prikaže</string>
   <string name="com_permission_desc">"Mi Video ne more dostopiti do videoposnetkov. Omogočite dostop v nastavitvah."</string>
   <string name="com_permission_title">Potrebno je dovoljenje</string>
+  <string name="common_cancel">Prekliči</string>
   <string name="common_google_play_services_enable_button">Omogoči</string>
   <string name="common_google_play_services_enable_text">"%1$s ne bo deloval če ne omogočite Google Play storitev."</string>
   <string name="common_google_play_services_enable_title">Omogoči storitve za Google Play</string>
@@ -133,7 +138,8 @@
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava s storitvijo Google</string>
   <string name="data_empty">Tu ni nič</string>
-  <string name="dialog_privacy_info_new2">"Da boste lahko uporabili te storitve morate sprejeti %1$s kar zbiramo, obdelujemo in uporabljamo vaše osebne podatke. Verjamemo da ste prebrali in sprejeli naše &lt;a href=%2$s&gt;Pravila o zasebnosti&lt;/a&gt; ko tapnete \"Strinjam se\"."</string>
+  <string name="day">dan</string>
+  <string name="dialog_privacy_info_new2">"Da boste lahko uporabili te storitve morate sprejeti %1$s ker zbiramo, obdelujemo in uporabljamo vaše osebne podatke. Verjamemo da ste prebrali in sprejeli naše &lt;a href=%2$s&gt;Pravila o zasebnosti&lt;/a&gt; ko tapnete \"Strinjam se\"."</string>
   <string name="dialog_privacy_title">Avtorizacija</string>
   <string name="dialog_revoke_privacy_info_new2">Po preklicu avtorizacije bo aplikacija nehala zbirati podatke, zbrani podatki pa bodo zbrisani. To lahko napravi aplikacijo skoraj neuporabno. Prekličem avtorizacijo?</string>
   <string name="dialog_revoke_privacy_title">Preklic avtorizacije</string>
@@ -163,6 +169,7 @@
   <string name="exo_controls_stop_description">Stop</string>
   <string name="explore_On">Preiščite</string>
   <string name="explore_on_mi_video">Najdi več v Mi Video</string>
+  <string name="do_not_show_again">"Ne kaži več"</string>
   <string name="failed_to_fetch_data">"Ne morem prebrati informacije."</string>
   <string name="find_psw">Pozabljeno geslo</string>
   <string name="finish">Končano</string>
@@ -173,6 +180,7 @@
   <string name="get_ph_ticket">Dobite kodo</string>
   <string name="goto_sign_up">Napravi račun</string>
   <string name="grant_write_settings_permission">Odobrite dovoljenje za kontrolo osvetlitve playera</string>
+  <string name="have_learned">Razumem</string>
   <string name="isornot_your_mi_account">Je to vaš Mi račun?</string>
   <string name="language_select_tips">Katere so vaše jezične nastavitve videoposnetkov? Lahko izberete več jezikov.</string>
   <string name="language_setting_tips">Uspešno shranjeno. Nastavitve jezikov spremenite v nastavitvah.</string>
@@ -291,12 +299,26 @@
   <string name="lv_subtitle_track">Podnapisi</string>
   <string name="lv_unhide_prompt">Uspešno nastavljeno. Zdaj lahko vidite skrite stvari.</string>
   <string name="lv_updating">Posodabljanje…</string>
+  <string name="lv_use_notch">Pokaži zob</string>
   <string name="lv_videoView_error_text_invalid_progressive_playback">"Ni možno predvajati na tej napravi."</string>
   <string name="lv_videoView_error_text_unknown">"Ni možno predvajati."</string>
   <string name="lv_videoView_error_title">"Ne morem predvajati"</string>
   <string name="lv_video_null">Ni posnetkov</string>
   <string name="lv_volume">Glasnost</string>
   <string name="mi_video">Mi Video</string>
+  <string name="moment_guide_desc">Uporabite kretnje za povečevanje in zmanjševanje</string>
+  <string name="moment_tab_all">Vse</string>
+  <string name="moment_tab_facebook">Facebook</string>
+  <string name="moment_tab_image">Slike</string>
+  <string name="moment_tab_instagram">Instagram</string>
+  <string name="moment_tab_qq">QQ</string>
+  <string name="moment_tab_sina_weibo">Weibo</string>
+  <string name="moment_tab_video">Posneto</string>
+  <string name="moment_tab_wechat">WeChat</string>
+  <string name="moment_tab_whatsapp">WhatsApp</string>
+  <string name="moment_title_my_videos">Moji videoposnetki</string>
+  <string name="monday">Ponedeljek</string>
+  <string name="month">mesec</string>
   <string name="more">Več</string>
   <string name="mr_button_content_description">Tipka predvajaj</string>
   <string name="mr_cast_button_connected">Tipka predvajaj. Povezan</string>
@@ -324,6 +346,7 @@
   <string name="network_failed">"Ne morem se povezati na omrežje"</string>
   <string name="next">Naprej</string>
   <string name="nick_name">Ime</string>
+  <string name="no_network_tips">"Ne momorem uporabiti te storitve. Dostop do omrežja je omejen."</string>
   <string name="no_recommend_data">Ni priporočenih posnetkov</string>
   <string name="not_show">"Ne kaži več"</string>
   <string name="notify_apk_installed">Uspešno prenešeno</string>
@@ -433,6 +456,11 @@
   <string name="passport_wechat_not_install">WeChat ni nameščen</string>
   <string name="password_toggle_content_description">Vidnost bližnjic gesla</string>
   <string name="permission_continue">Nadaljuj</string>
+  <string name="permission_content">Odobrite aplikaciji Mi Video potrebna dovoljenja da bo normalno delovala.</string>
+  <string name="permission_content2">"Pojdite v nastavitve &gt; aplikacije &gt; Mi Video &gt; dovoljenja, in odobrite aplikaciji Mi Video naslednja dovoljenja:
+
+1. Dostop do shrambe
+2. Dostop do podatkov o napravi"</string>
   <string name="permission_info">"Mi Video potrebuje dostop do IMEI številke vaše naprave za naslednja opravila:
  
 Izboljšana opravilnost storitev v vaši napravi;
@@ -440,7 +468,12 @@ Povečanje varnosti vašega računa."</string>
   <string name="permission_info1">Mi Video potrebuje dostop do IMEI številke vaše naprave, da lahko naredi:</string>
   <string name="permission_info2">Izboljšana opravilnost storitev v vaši napravi</string>
   <string name="permission_info3">Povečanje varnosti vašega računa.​</string>
-  <string name="permission_title">Zahtevano je dovoljenje</string>
+  <string name="permission_open_settings">Nastavitve</string>
+  <string name="permission_phone">Telefon</string>
+  <string name="permission_phone_desc">Za dostop statusu naprave in ustavljanje predvajanja med klicom</string>
+  <string name="permission_refuse">Ne, hvala</string>
+  <string name="permission_retry">V redu</string>
+  <string name="permission_title">Potrebno je dovoljenje</string>
   <string name="phone_bind_too_many">Ta telefon je povezan z več Mi Računi v kratkem času. Uporabite drugo številko telefona.</string>
   <string name="phone_hint">Številka telefona</string>
   <string name="phone_number">Številka telefona</string>

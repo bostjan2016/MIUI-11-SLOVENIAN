@@ -7,5 +7,10 @@
         <item>Visoko</item>
         <item>Zelo visoko</item>
     </string-array>
+	<string-array name="feedback_tag_list">
+        <item>Napaka</item>
+        <item>Predlog</item>
+        <item>Ostalo</item>
+    </string-array>
 </resources>
 

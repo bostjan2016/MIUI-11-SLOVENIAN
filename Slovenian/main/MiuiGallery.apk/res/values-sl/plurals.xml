@@ -40,6 +40,10 @@
         <item quantity="other">%1$d fotografij iz %2$s bo dodano</item>
         <item quantity="one">%1$d fotografija iz %2$s bo dodana</item>
     </plurals>
+	<plurals name="album_photo_count_text">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotografij od %2$s bo dodano</item>
         <item quantity="one">%1$d fotografija od %2$s bo dodana</item>
@@ -98,15 +102,15 @@
     </plurals>		      
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Izbrišem fotografije %d iz vseh naprav in Mi Clouda?</item>
-        <item quantity="one">Izbrišem to fotografijo iz vseh naprav in Mi Clouda?</item>
+        <item quantity="one">Izbrišem %d fotografijo iz vseh naprav in Mi Clouda?</item>
     </plurals>	   	
    <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Izbrišem fotografije %d iz tega albuma in Mi Clouda?</item>
-        <item quantity="one">Izbrišem to fotografijo iz tega albuma in Mi Clouda?</item>
+        <item quantity="one">Izbrišem %d fotografijo iz tega albuma in Mi Clouda?</item>
      </plurals>
      <plurals name="delete_video_from_local">
          <item quantity="other">Izbrišem videoposnetke: %d?</item>
-         <item quantity="one">Izbrišem ta videoposnetek?</item>
+         <item quantity="one">Izbrišem %d videoposnetek?</item>
      </plurals>
 	 <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Izbrišem %d zaporednih fotografij iz naprave?</item>
@@ -114,11 +118,11 @@
     </plurals>
      <plurals name="delete_video_from_all_devices_and_cloud_msg">
          <item quantity="other">Izbrišem videoposnetke %d iz vseh naprav in Mi Clouda?</item>
-         <item quantity="one">Izbrišem ta videoposnetek iz vseh naprav in Mi Clouda?</item>
+         <item quantity="one">Izbrišem %d videoposnetek iz vseh naprav in Mi Clouda?</item>
      </plurals>
      <plurals name="delete_video_from_this_album_and_cloud_msg">
          <item quantity="other">Izbrišem videoposnetke %d iz tega albuma in Mi Clouda?</item>
-         <item quantity="one">Izbrišem ta videoposnetek iz tega albuma in Mi Clouda?</item>
+         <item quantity="one">Izbrišem %d videoposnetek iz tega albuma in Mi Clouda?</item>
      </plurals>
      <plurals name="delete_media_from_local">
          <item quantity="other">Izbrišem stvari: %d?</item>

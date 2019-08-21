@@ -36,4 +36,28 @@
         <item quantity="other">Pokaži vse komentarje :%d</item>
         <item quantity="one">Pokaži %d komentar</item>
     </plurals>
+	<plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Izbrišem stvari: %s?</item>
+        <item quantity="one">Izbrišem %s stvar?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">Izbrano: %s</item>
+        <item quantity="one">Izbrano: %s</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Velikost: %.2fKB</item>
+        <item quantity="one">Velikost: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s rezultatov za \"%1$s\"</item>
+        <item quantity="one">%2$s rezultat za \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d slik</item>
+        <item quantity="one">%d slika</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d videoposnetkov</item>
+        <item quantity="one">%d videoposnetek</item>
+    </plurals>
 </resources>

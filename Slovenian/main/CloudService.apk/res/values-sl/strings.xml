@@ -55,6 +55,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_storage_already_used">Porabljeno: %1$s/%2$s</string>
   <string name="cloud_storage_info_type_others">Preostalo</string>
   <string name="cloud_storage_manage_title">Urejajte Cloud prostor</string>
+  <string name="cloud_storage_no_data">V Cloudu ni ničesar</string>
   <string name="cloud_restore_title">Obnovi iz var. kopije</string>
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
@@ -514,6 +515,9 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="next">Naprej</string>
   <string name="noRemind">"Ne opominjaj me"</string>
   <string name="no_sim">"Ne najdem SIM kartice"</string>
+  <string name="pay_info_dialog_confirm_to_pay">Plačaj %s</string>
+  <string name="pay_info_dialog_mibi_balance_prefix">Uporabi preostale Mi kredite: %s</string>
+  <string name="pay_info_dialog_title">Izberite način plačila</string>
   <string name="open_micloud_sync">Vključite sinhr. z Mi Cloudom</string>
   <string name="other_settings">Ostale nastavitve</string>
   <string name="password">Vpišite geslo</string>

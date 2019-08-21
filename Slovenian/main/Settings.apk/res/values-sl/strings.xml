@@ -1751,6 +1751,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="connected_via_wfa">Povezava vzpostavljena preko pomočnika za WiFi</string>
   <string name="connected_wifi">Povezan</string>
   <string name="connecting_to_vpn">Povezovanje na VPN</string>
+  <string name="connection_and_sharing">Povezovanje &amp; deljenje</string>
   <string name="contact_title">Stiki</string>
     <string name="content_description_menu_button">Meni</string>
   <string name="continue_all_caps">Nadaljuj</string>
@@ -1759,7 +1760,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="controls_subtitle">Prilagodi porabo energije</string>
   <string name="convenience_key_category_title">Bližnjice</string>
     <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
- !!Opozorilo!! S tem bodo izbrisani vsi podatki.
+ Opozorilo!! S tem bodo izbrisani vsi podatki.
  To opravilo je različice alfa, zato morda ne bo delovalo pravilno.
  Pritisnite \"Izbriši in pretvori…\" za nadaljevanje."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
@@ -2501,6 +2502,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_multi_window_summary">Več hkratnih dejavnosti na zaslonu</string>
   <string name="enable_opengl_traces_title">Omogoči sledi OpenGL</string>
   <string name="enable_quick_setting">Prikaži v »Hitrih nastavitvah«</string>
+  <string name="enable_screen_projection_summary">Premestite vsebino zaslona na zunanji monitor</string>
   <string name="enable_quickboot_summary">Zaženite napravo v QuickBoot način namesto normalnega izklopa</string>
   <string name="enable_quickboot_title">Omogoči QuickBoot način</string>
   <string name="enable_service_encryption_warning">Če vklopite storitev %1$s vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov.</string>
@@ -4668,6 +4670,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="open_dark_mode_dialog_title">Kompatibilnost z temnim načinom dela</string>
   <string name="open_demo_mode">Vključi</string>
   <string name="open_demo_mode_warning_message">Ko je Demo način vključen se bo ura v vrstici stanja ustavila, baterija in ikone signala bodo prikazane kot polne. Lahko izključite Demo način ali ponovno zaženete napravo da spremenite.</string>
+  <string name="open_game_accelerate">Vključi Game Turbo</string>
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
   <string name="open_optimization_message">Vključi optimizacijo da boste uživali v uglajenem in hitrem UI.</string>
   <string name="open_optimization_option">Vključi</string>
@@ -5712,6 +5715,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_compatibility_label">Združljivost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija morda ni namenjena za vaš zaslon. Tu lahko nastavite način prilagajanja zaslonu.</string>
   <string name="screen_confirm">Vključi</string>
+  <string name="screen_dark_mode_select_time_error_summary">"Čas začetka in konca ne moreta biti enaka"</string>
+  <string name="screen_dark_mode_time_title">Razpored</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
   <string name="screen_key_long_press">Daljši pritisk na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Zaženi storitev</string>
@@ -5778,6 +5783,24 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_pinning_unlock_password">Pred odpenjanjem vprašaj za geslo</string>
   <string name="screen_pinning_unlock_pattern">Pred odpenjanjem vprašaj za vzorec za odklepanje</string>
   <string name="screen_pinning_unlock_pin">Zahtevaj PIN pred odpenjanjem</string>
+  <string name="screen_projection">Predvajaj</string>
+  <string name="screen_projection_characteristics">Posebne storitve</string>
+  <string name="screen_projection_characteristics_off_screen_summary">Lahko nadaljujete predvajanje ko je ekran vaše naprave izključen. To zmanjšuje porabo energije.</string>
+  <string name="screen_projection_characteristics_off_screen_title">Predvajanje z izključenim zaslonom</string>
+  <string name="screen_projection_characteristics_privacy_protect_summary">"Ne kaži pojavnih obvestil, dohodnih klicev in drugih zasebnih stvari na zunanjih monitorjih."</string>
+  <string name="screen_projection_characteristics_privacy_protect_title">Skrij zasebne stvari</string>
+  <string name="screen_projection_characteristics_small_window_summary">"Zmanjšaj okno ki se predvaja da boste uporabili ostale storitve vašega telefona."</string>
+  <string name="screen_projection_characteristics_small_window_title">Zmanjšaj okno</string>
+  <string name="screen_projection_example_document_summary">Pokaži prezentacije na zunanjem monitorju ko s telefonom prehajate iz diapozitivov in pregledujete beležke. Pojdite na raziskovalec &gt; Dokumenti da poskusite to storitev.</string>
+  <string name="screen_projection_example_document_title">Dokumenti</string>
+  <string name="screen_projection_example_gallery_summary">Tapnite tipko Deli spodaj v aplikaciji galerija da jo boste prikazali na zunanjem monitorju.</string>
+  <string name="screen_projection_example_gallery_title">Fotografije &amp; videoposnetki</string>
+  <string name="screen_projection_example_game_summary">Game Turbo vam omogoča da igre predvajate na zunanji monitor. Vključite z bližnjico v Game Turbo.</string>
+  <string name="screen_projection_example_game_title">Igre</string>
+  <string name="screen_projection_help">Pomoč</string>
+  <string name="screen_projection_sample_summary">Predvajanje dokumenatov, iger, fotografij in videoposnetkov</string>
+  <string name="screen_projection_sample_title">Demos</string>
+  <string name="screen_projection_title">Predvajaj</string>
     <string name="screen_reader_category_title">Bralniki zaslona</string>
   <string name="screen_recorder">Posnetek zaslona</string>
   <string name="screen_resolution_confirm">Ponovno zaženi</string>
@@ -5918,6 +5941,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_choose_timezone">Izberi časovni pas;Časovni pasovi</string>
   <string name="search_cloud_backup_settings_section_title">Nastavitve var. kopije;Var. kopija;Var. kopija;Var. kopije</string>
   <string name="search_cloud_restore_section_title">Vrni iz Mi Clouda;Mi Cloud;Mi Cloud var. kopije</string>
+  <string name="search_connection_and_sharing">Več;Brezžično</string>
   <string name="search_copyright">Avtorske pravice</string>
   <string name="search_copyright_title">Copyright</string>
   <string name="search_credentials_install">Namesti iz pomnilnika;Neposredna namestitev;Namesti APK</string>
@@ -6010,7 +6034,6 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_privacy">Var. kopija &amp; prekliči;Var. kopija in prekliči;Var. kopija;Reset;Izdelaj var. kopijo</string>
   <string name="search_privacy_policy">Pravila o zasebnosti</string>
   <string name="search_privacy_settings">Var. kopija &amp; uniči;Var. kopija in uniči;Var. kopija;obnovi;Napravi var. kopijo</string>
-  <string name="search_radio_controls_title">Več;Brežično</string>
   <string name="search_recents_queries_label">Zadnja iskanja</string>
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Rezultati</string>
@@ -6582,13 +6605,14 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="sound_title">Zvok</string>
   <string name="sound_vibrate_settings">Zvok &amp; vibracija</string>
     <string name="sound_work_settings">Zvoki v delovnem profilu</string>
+  <string name="speaker">Zvočnik</string>
     <string name="special_access">Posebni dostop za aplikacije</string>
-    <string name="speed_label_fast">Hitra</string>
-    <string name="speed_label_medium">Srednje hitra</string>
+    <string name="speed_label_fast">Hitro</string>
+    <string name="speed_label_medium">Srednje hitro</string>
     <string name="speed_label_okay">V redu</string>
     <string name="speed_label_slow">Počasna</string>
-    <string name="speed_label_very_fast">Zelo hitra</string>
-    <string name="speed_label_very_slow">Zelo počasna</string>
+    <string name="speed_label_very_fast">Zelo hitro</string>
+    <string name="speed_label_very_slow">Zelo počasno</string>
     <string name="spell_checker_master_switch_title">Uporaba črkovalnika</string>
   <string name="spell_checker_not_selected">Ni izbrano</string>
   <string name="spellchecker_language">Jezik</string>
@@ -7070,6 +7094,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
     <string name="system_dashboard_summary">Jeziki, čas, varnostna kopija, posodobitve</string>
     <string name="system_default_app">(Sistemsko privzeto)</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
+  <string name="system_print_service_help">O izpisu</string>
   <string name="system_shortcut_wake">Zbudi z bližnjicami na tipkah</string>
   <string name="system_storage">Notranja shramba</string>
   <string name="system_ui_settings">Prikaži sprejemnik upor. vmes. sistema</string>
@@ -8812,6 +8837,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_router_notif_summary">Obvesti me ko bo Mi Router na voljo</string>
   <string name="xiaomi_router_notif_title">Mi Router obvestilo</string>
+  <string name="xiaomi_transfer">Mi Share</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s 
   Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  

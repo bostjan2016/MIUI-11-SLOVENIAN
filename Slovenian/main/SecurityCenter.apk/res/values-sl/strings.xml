@@ -501,6 +501,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="background_restrict_app_dialog_message">Omejevanje dostopa do omrežja v ozadju tej aplikaciji lahko povzroči težave pri delovanju, sprejemanju obvestil, prenosu vsebin itd. Omejim vseeno?</string>
   <string name="background_traffic">V ozadju %s</string>
   <string name="backsound_set_hint">Nastavim sporočilo \"Sem odsoten\" za %s?</string>
+  <string name="banner_optimizemanage_summary">Osvobodite spomin</string>
+  <string name="banner_red_money_assist_button">Vključi</string>
+  <string name="banner_red_money_assist_summary">Hitreje odprite rdeče ovojnice</string>
   <string name="battery_and_property">Baterija &amp; zmogljivost</string>
   <string name="battery_capacity_title">Kapaciteta baterije</string>
   <string name="battery_charge_estimating">Izračun…</string>
@@ -848,7 +851,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="deep_clean_never_memory_clean">Nikoli</string>
   <string name="deep_power_save_item_summary_auto_brightness">Samodejno prilagodite svetlost zaslona da boste prihranili baterijo</string>
   <string name="deep_power_save_item_summary_bluetooth">Izključite Bluetooth da boste prihranili baterijo</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Izključi zaslon v mirovanje čez 30 sekund neaktivnosti da boste prihranili baterijo</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Izključi zaslon v mirovanje čez 15 sekund neaktivnosti da boste prihranili baterijo</string>
   <string name="deep_power_save_item_title_auto_brightness">Vključi samodejno svetlost</string>
   <string name="deep_power_save_item_title_bluetooth">Izključi Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Izključi zaslon</string>
@@ -1183,6 +1186,12 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="free_time_traffic_title">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
   <string name="function_close">Izključi</string>
+  <string name="function_gwsd_detail">"O tej storitvi:
+  1. Dohodni klici na vašo podatkovno SIM ne bodo prekinili mobilne podatkovne povezave. Povezava bo prekinjena samo ko odgovorite na klic.
+  2. Če je ova storitev vključena klicatelj ne bo slišal melodije klica čakanja. Dohodni klici bodo končani če ne odgovorite v roku 6 sekund.
+  3. Ta storitev deluje samo za podatkovne SIM kartice. Klici na vašo primarno SIM prekinjajo mobilno podatkovno povezavo.
+  4. To storitev podpirajo samo China Mobile in China Unicom."</string>
+  <string name="function_gwsd_title">"Ne dovoli dohodnim klicem da prekinejo podatkovno SIM povezavo"</string>
   <string name="function_shield_auto_bright">Izključi samod. svetlost</string>
   <string name="function_shield_eye_shield">Izključi način branja</string>
   <string name="function_shield_pull_notification_bar">"Ne odpiraj ploščo obvestil"</string>
@@ -1216,7 +1225,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gamebooster_lowbattery_notification_summary">Napolnite napravo predno se izključi.</string>
   <string name="gamebooster_lowbattery_notification_title">Baterija je na manj kot 5%%</string>
   <string name="gamebooster_main_activity_back">Nazaj</string>
-  <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
+  <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na splet da uporabite vse storitve Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">"Nekatere stvari niso na voljo"</string>
   <string name="gamebox_app_not_find">Najprej namestite aplikacijo.</string>
   <string name="gamebox_browser_not_find">Najprej namestite Mi brskalnik</string>
@@ -1704,15 +1713,10 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="menu_setting_traffic">Nastavi ročno</string>
   <string name="menu_sms">Pošlji SMS</string>
   <string name="menu_summary_antispam">Blokiraj klice in sporočila</string>
-  <string name="menu_summary_antispam_2">Blokirani klici in sporočila</string>
   <string name="menu_summary_antivirus">Iskanje virusov</string>
-  <string name="menu_summary_antivirus_2">Najdena možna tveganja</string>
-  <string name="menu_summary_antivirus_3">"Niste skenirali naprave"</string>
-  <string name="menu_summary_app_manager">Posodobi in ponovno namesti aplikacije</string>
-  <string name="menu_summary_app_manager_2">Na voljo so posodobitve</string>
+  <string name="menu_summary_app_manager">Posodobi in odstarni aplikacije</string>
   <string name="menu_summary_garbage_cleanup">Ni smeti</string>
-  <string name="menu_summary_garbage_cleanup_2">Velikost smeti</string>
-  <string name="menu_summary_garbage_cleanup_3">Izbriši smeti</string>
+  <string name="menu_summary_garbage_cleanup_ex">Očisti smeti: %s</string>
   <string name="menu_summary_networkassistants">Urejajte svoj plan podatkov</string>
   <string name="menu_summary_networkassistants_2">Omejitev prekoračena</string>
   <string name="menu_summary_networkassistants_3">Ostalo je dovolj podatkov</string>
@@ -1734,7 +1738,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Povečaj hitrost</string>
-  <string name="menu_text_power_manager">Optimizacija baterije</string>
+  <string name="menu_text_power_manager">Baterija &amp; zmogljivost</string>
   <string name="menu_wh_remove">Odstrani iz izjem</string>
   <string name="menu_white">Dodaj v izjeme</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
@@ -2092,6 +2096,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="perfermance_optimization_summary">Izogibajte se pregrevanja in probleme povezane s strojno opremo</string>
   <string name="perfermance_optimization_title">Optimizacija performansa</string>
   <string name="permission_action_accept">Sprejmi</string>
+  <string name="permission_action_always">Zmeraj dovoli</string>
+  <string name="permission_action_foreground">Dokler uporabljate aplikacijo</string>
   <string name="permission_action_prompt">Obvesti</string>
   <string name="permission_action_reject">Zavrni</string>
   <string name="permission_close_permission_control_dialog_msg">Ko je dovoljenje vodje izklopljeno vas aplikacije ne bodo vprašale pred branjem vaših stikov, ogledom zgodovine klicev, spreminjanjem sistemskih nastavitev ali dostopa do kamere in drugih virov. Naprava ne bo vprašala za vaše dovoljenje.</string>
@@ -2106,8 +2112,18 @@ To skrajšuje trajanje baterije."</string>
   <string name="permit_running_network">Podatki v ozadju</string>
   <string name="person_hotpot">Mobilna dostopna točka</string>
   <string name="phone">Telefon</string>
+  <string name="phone_manage">Koristni programi</string>
+  <string name="phone_manage_app_manager_summary">Urejajte aplikacije v vaši napravi</string>
+  <string name="phone_manage_clean_summary">Osvobodite prostor za shranjevanje</string>
+  <string name="phone_manage_clean_title">Čistilec</string>
+  <string name="phone_manage_electric_summary">Optimizirajte svojo napravo da prihranite baterijo</string>
+  <string name="phone_manage_electric_title">Baterija</string>
+  <string name="phone_manage_special_summary">Raziščite našo dodatno funkcionalnost</string>
+  <string name="phone_manage_special_title">Posebne storitve</string>
+  <string name="phone_manage_system_tool_summary">Koristna sistemska orodja</string>
+  <string name="phone_manage_system_tool_title">Orodja</string>
   <string name="pkg_traffic">Nastavi omejitev porabe podatkov</string>
-  <string name="please_continue_keep">Zadrži</string>
+  <string name="please_continue_keep">Obdrži</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
   <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
   <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
@@ -2277,6 +2293,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_optimize_save_mode_not_opened">Varčevanje baterije izključeno</string>
   <string name="power_optimize_save_on_lockscreen">Varčujte energijo kadar je naprava zaklenjena</string>
   <string name="power_phone">Glasovni klici</string>
+  <string name="power_save_mode">Varčevanje baterije</string>
   <string name="power_recovery_mode">Preklopi baterijo na %1$s</string>
   <string name="power_save_choose_mode">Izberi profil</string>
   <string name="power_save_choose_recovery_mode">Izberi profil</string>
@@ -2314,6 +2331,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da privarčujete baterijo</string>
   <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
   <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
+  <string name="power_save_settings">Nastavitve baterije</string>
   <string name="power_save_started_summary_text">"Varčevanje baterije je vklopljeno. Zmanjšuje aktivnost aplikacij v ozadju, ustavlja sinhronizacijo in minimizira animacije sistema."</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Razpored profilov za preklop</string>
@@ -2678,6 +2696,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="securityadd_update_tips_message">Posodobite dodatek apl varnost za dostop do najnovejših storitev za igre. %1$dMB bo prenešeno.</string>
   <string name="securityadd_update_tips_now">Posodobi</string>
   <string name="securityadd_update_tips_title">Posodobi</string>
+  <string name="securitycenter_tab_title">Varnost</string>
   <string name="see_detail">Podrobnosti</string>
   <string name="see_more_content">Posodobite igre da boste videli več</string>
   <string name="see_more">Več</string>
@@ -3043,7 +3062,7 @@ Vedite da %1s mora zbrati vaše podatke in zahteva za normalno delo naslednja do
 Spoštujemo in ščitimo vašo zasebnost."</string>
   <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Lahko izidete iz aplikacije.</string>
-  <string name="system_permission_declare_revoke_uninstallable">Lahko odstranite to aplikacijo ali urejate dovoljenja v Varnost &gt; Aplikacije &gt; Dovoljenja &gt; Ostala dovoljenja.</string>
+  <string name="system_permission_declare_revoke_uninstallable">Lahko se odjavite, odstranite to aplikacijo ali urejate dovoljenja v Varnost &gt; Aplikacije &gt; Dovoljenja &gt; Dovoljenja.</string>
   <string name="system_permission_declare_use_network">Povezovanje z omrežjem</string>
   <string name="system_permission_declare_use_network_no_permission">Poveži se na omrežje</string>
   <string name="system_permission_declare_user_agreement">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
@@ -3051,7 +3070,9 @@ Spoštujemo in ščitimo vašo zasebnost."</string>
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje telefonskih številk</string>
   <string name="system_permission_perm_send_mms">Pošiljanje MMS-ov</string>
-  <string name="system_check_content">%1$d sumljivih predmetov</string>
+  <string name="system_tool_green_guard">Zaščitnik družine</string>
+  <string name="system_tool_sos">SOS v sili</string>
+  <string name="system_check_content">Tveganj: %1$d</string>
   <string name="system_check_content_none">Varno</string>
   <string name="system_header_title">Počisti %1$d procesov za sprostitev %2$s spomina</string>
   <string name="system_info_remind">Dodajte zaklepanja za preprečitev nepooblaščenega dostopa do vaših aplikacij</string>
