@@ -1808,6 +1808,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prednostno omrežje 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Prednostno omrežje LTE</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prednostno omrežje 4G (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">Prednostno 4G</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">Prednostno 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Samodejno</string>
   <string name="preferred_network_type_pref_entries_global">Globalno</string>

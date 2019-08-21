@@ -763,11 +763,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cta_button_text_agree">V redu</string>
   <string name="cta_button_text_cancel">Prekliči</string>
   <string name="cta_checkbox_title">Ne pokaži več</string>
-  <string name="cta_dialog_msg">Morate se strinjati z &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabao se mora aplikacija varnost povezati na splet in dostopiti do vaše lokacije za normalno delovanje in posodobitev antivirusnih definicij. Se strinjate?</string>
   <string name="cta_dialog_negative">Izhod</string>
   <string name="cta_dialog_positive">Strinjam se</string>
   <string name="cta_dialog_title">Pogoji in storitve</string>
   <string name="cta_settings">Dovoli spletno povezavo</string>
+  <string name="cta_main_purpose">Dobrodošli v varnost! Z njo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost za igre, prihranite baterijo, urejate aplikacije in še veliko več.</string>
   <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
   <string name="customize_limit_pkg">%s (prilagojeno)</string>
   <string name="customizer_mode_user_define_name">Moja pravila</string>
