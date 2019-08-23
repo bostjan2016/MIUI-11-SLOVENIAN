@@ -1243,6 +1243,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_notifications_title">Obvestila</string>
   <string name="pref_other_title">Ostalo</string>
   <string name="pref_paper_mode_title">Način branja</string>
+  <string name="pref_personalized_customization">Osebna prilagoditev</string>
   <string name="pref_privacy_clear_cache">Počisti predpomnilnik</string>
   <string name="pref_privacy_clear_cache_dlg">Pobrišem lokalni predpomnilnik in podatke?</string>
   <string name="pref_privacy_clear_cache_summary">Počisti lokalni predpomnilnik in podatke</string>
