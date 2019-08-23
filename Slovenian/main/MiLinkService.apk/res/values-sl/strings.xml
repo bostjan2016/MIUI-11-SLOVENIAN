@@ -25,7 +25,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
   <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
   <string name="dialog_select_tv">Izberite napravo za povezovanje</string>
-  <string name="dialog_show_help">Pomo</string>
+  <string name="dialog_show_help">Pomoč</string>
   <string name="disconnect">Ustavi predvajanje</string>
   <string name="hang_up">Predvajaj ko je ekran izključen</string>
   <string name="hang_up_alert_dialog_content">"Predvajanje se ne bo prekinilo ko se zaslon vašega telefona izključi. Pritisnite tipko za vklop na telefonu da boste ponovno vključili zaslon."</string>
@@ -34,7 +34,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="hang_up_alert_dialog_title">O predvajanju ko je zaslon izključen</string>
   <string name="help_page_text_01">Pomoč</string>
   <string name="help_page_text_02">Kaj je predvajanje?</string>
-  <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na veji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>
+  <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na večji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>
   <string name="help_page_text_04">Kako lahko predvajam stvari na večji zaslon?</string>
   <string name="help_page_text_05">Korak 1</string>
   <string name="help_page_text_06">"1. Uporabite mali ročni telefon za povezavo na televizor z majhnim zaslonom, lahko vzpostavite navpično povezavo z zaslonom brez omrežnoga okolja.
@@ -46,14 +46,14 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_11">Korak 3</string>
   <string name="help_page_text_12">Izberite zunanjo napravo s spiska naprav na voljo da boste začeli predvajanje.</string>
   <string name="help_page_text_13">"Povezovanje z zunanjo napravo ni možno ?"</string>
-  <string name="help_page_text_14">"1. Millet TV screencast, please upgrade the Wireless Screening application in the TV application list to the latest version. 
-2. You can try to connect your phone to your TV to the same LAN to increase your connection success rate. However, some routers may not be able to provide a stable connection environment for the screen, resulting in no connection or frequent interruption. 
-3. If you're using Mi TV, turning on Bluetooth might improve the connection. 
-4. If there aren't any WLAN networks available, make sure your external device (e.g. TV) supports Miracast functionality. The names of casting features on your external device may vary depending on the brand of your device. Refer to the information below to learn about Miracast functionality on different devices."</string>
+  <string name="help_page_text_14">"1. Mi TV screencast, nadgradite aplikacijo Wireless Screening na seznamu aplikacij za televizijo na najnovejšo različico. 
+2. Če želite povečati stopnjo uspešnosti povezave, lahko poskusite telefon povezati s televizorjem v istem omrežju LAN. Vendar nekateri usmerjevalniki morda ne bodo mogli zagotoviti stabilnega povezavnega okolja za zaslon, kar povzroči da ni nobene povezave ali pogoste prekinitve. 
+3. Če uporabljate Mi TV, bi vklop Bluetootha lahko izboljšal povezavo. 
+4. Če ni na voljo nobenega omrežja WiFi, se prepričajte, da vaša zunanja naprava (npr. TV) podpira funkcijo Miracast. Imena funkcij za predvajanje na zunanji napravi se lahko razlikujejo glede na blagovno znamko vaše naprave. Glejte spodnje informacije, če želite izvedeti več o storitvi Miracast na različnih napravah."</string>
   <string name="help_page_text_15">Miracast funkcionalnost na različnih napravah</string>
-  <string name="help_page_text_16">Mi TV/Mi Projector</string>
-  <string name="help_page_text_17">"Xiaomi mobile phone can directly connect to most of the Xiaomi TV with Bluetooth tooth function, instead of manually opening the Miracast function.
-If you need to manually open the Miracast function, you can press the [Menu] button of the TV remote control to select me on the TV screen. Applications &gt; Wireless Screening &gt; Millet / Android Miracas."</string>
+  <string name="help_page_text_16">Mi TV/Mi Projektor</string>
+  <string name="help_page_text_17">"Xiaomi mobilni telefon se lahko neposredno poveže z večino Xiaomi TV s funkcijo Bluetooth, namesto da ročno odpre storitev Miracast.
+Če želite ročno odpreti storitev Miracast, lahko s pritiskom na gumb [Menu] na daljinskem upravljalniku TV da izberete TV zaslon. Aplikacije & gt; Brezžično deljenje & gt; Mi / Android Miracast."</string>
   <string name="help_page_text_17_1">Xiaomi pomoč uporabnikom: 400-100-5678</string>
   <string name="help_page_text_18">Samsung TV</string>
   <string name="help_page_text_19">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\". To je standardno vključeno na različnih modelih.</string>
@@ -89,23 +89,23 @@ If you need to manually open the Miracast function, you can press the [Menu] but
   <string name="help_page_text_49">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Za vklop te storitve pojdite na Moje aplikacije &gt; WiFi zaslon.</string>
   <string name="help_page_text_50">AODIN pomoč uporabnikom:400-810-5858</string>
   <string name="help_page_text_51">LeTV</string>
-  <string name="help_page_text_52">Please make sure that your large screen device model supports the Miracast protocol. On some models, select Settings &gt; Network &gt; Multi-screen Interactive &gt; Wireless Display.</string>
-  <string name="help_page_text_53">LeTV customer service phone: 10109000</string>
-  <string name="help_page_text_end">"If the brand of your device isn't listed here, contact the manufacturer to learn more about casting functionality."</string>
-  <string name="notification_rc_desc">The best TV Assistant for your mobile to cast video, photo and application to XiaoMi Box (or TV), just try it now!</string>
-  <string name="notification_rc_title">XiaoMi TV Assistant</string>
+  <string name="help_page_text_52">Prepričajte se, da model vaše naprave z velikim zaslonom podpira protokol Miracast. V nekaterih modelih izberite Nastavitve & gt; Omrežje & gt; Interakcija z več zasloni & gt; Brezžični zaslon.</string>
+  <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
+  <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
+  <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
+  <string name="notification_rc_title">XiaoMi TV pomočnik</string>
   <string name="notification_show_more">Poglejte dodatne storitve</string>
   <string name="privacy_agree">同意</string>
-  <string name="privacy_text_1">　　You are welcome to use the screencast function. The screen-casting service is provided by Milian, and some of the screen-casting functions are supported by third-party company broadcast screens. To ensure your privacy, please be sure to read&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-  <string name="privacy_text_2">　　By clicking Agree, you agree to the above&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;content and the privilege granted.</string>
-  <string name="privacy_text_pemission">"　　• WIFI network permissions are used to discover and connect devices.
-　　•Bluetooth is used to discover and connect devices.
-　　•Read the phone storage After reading the content, cast the content to the big screen device.
-　　•Get phone information Read the phone IMEI, Android_id, version and log information recording.
-　　•After reading the sound, cast the sound to the large screen device.
-　　•Targeting permissions Locate and discover surrounding devices."</string>
-  <string name="private_protect">Protect privacy</string>
-  <string name="service_name">UniPlay Service</string>
+  <string name="privacy_text_1">　　Vabljeni k uporabi funkcije screencast. Storitev predvajanja zaslonov ponuja Milian, nekatere funkcije predvajanja zaslona pa podpirajo televizijski ekrani drugih proizvajalcev. Če želite zagotoviti svojo zasebnost, ne pozabite prebrati&lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
+  <string name="privacy_text_2">　　S klikom Strinjam se strinjate z navedeno&lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;vsebino in dodeljenim privilegijem.</string>
+  <string name="privacy_text_pemission">"　　• Omrežna dovoljenja WIFI se uporabljajo za odkrivanje in povezovanje naprav.
+　　•Bluetooth se uporablja za odkrivanje in povezovanje naprav.
+　　•Branje pomnilnika telefona. Po branju vsebine vsebino predvajajte v napravo z velikim zaslonom.
+　　•Pridobite podatke o telefonu. Preberite IMEI, Android_id, verzijo in posnetke poročil v telefonu.
+　　•Po branju zvoka oddajte zvok napravi z velikim zaslonom.
+　　•Dovoljenja ciljanja. Poiščite in odkrivajte okoliške naprave."</string>
+  <string name="private_protect">Varujte zasebnost</string>
+  <string name="service_name">UniPlay storitev</string>
   <string name="small_window">Minimiziraj okno</string>
   <string name="status_bar_in_casting">Predvajanje</string>
   <string name="status_bar_in_casting_long">Kliknite za razširitev dodatnih storitev</string>
