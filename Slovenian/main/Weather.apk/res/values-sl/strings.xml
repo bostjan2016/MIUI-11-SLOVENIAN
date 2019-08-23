@@ -231,11 +231,11 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="settings">Nastavitve</string>
   <string name="share">Deli</string>
   <string name="share_btn_cancel">Prekini</string>
-  <string name="share_btn_confirm">Podeli</string>
-  <string name="share_button">Podeli</string>
-  <string name="share_menu_title">Podeli</string>
-  <string name="share_subject">Podeli</string>
-  <string name="share_title">Podeli čas</string>
+  <string name="share_btn_confirm">Delite</string>
+  <string name="share_button">Delite</string>
+  <string name="share_menu_title">Delite</string>
+  <string name="share_subject">Delite</string>
+  <string name="share_title">Delite čas</string>
   <string name="share_weather_desc">\#MIUI Vreme#Danes %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Ne morem narediti posnetek zaslona"</string>

@@ -7,7 +7,7 @@
   <string name="phone_numbers">Vnesite številke telefona</string>
   <string name="proceed">Nadaljuj</string>
   <string name="radio_off_error">Vključite radio pred pregledom teh nastavitev.</string>
-  <string name="reading_settings">Nastavitve branja…</string>
+  <string name="reading_settings">Branje nastavitev…</string>
   <string name="response_error">Nepričakovan odgovor omrežja.</string>
   <string name="reverting_settings">Povrnitev nastavitev…</string>
   <string name="set_subscription_error_atleast_one">Izberite vsaj eno naročnino</string>

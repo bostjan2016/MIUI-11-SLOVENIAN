@@ -119,7 +119,7 @@
   <string name="main_toolbar_purchase">Doplačilo</string>
   <string name="man_add_application">Dodajte ročno samod. zagon aplikacije</string>
   <string name="miuishare_title_more">Več</string>
-  <string name="miuishare_title_share">Podeli</string>
+  <string name="miuishare_title_share">Deli</string>
   <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="month_report_activity_label">Mesečno poročilo</string>
@@ -134,7 +134,7 @@
   <string name="month_report_network_dialog_positive">Dovoli</string>
   <string name="month_report_network_dialog_title">"Ne morem dobiti podrobnega poročila"</string>
   <string name="month_report_result_share">Deli</string>
-  <string name="month_report_share_img_fail">"Ne morem podeliti"</string>
+  <string name="month_report_share_img_fail">"Ne morem deliti"</string>
   <string name="month_report_share_loading">Samo trenutek…</string>
   <string name="month_report_warning_dialog_description">"Za pregled mesečnega poročila vključite to opravilo v nastavitvah aplikacije Varnost."</string>
   <string name="month_report_warning_dialog_positive">Vključi</string>
@@ -158,7 +158,7 @@
   <string name="save_energy_title">Optimiziranje baterije</string>
   <string name="scan_installed_games">Kontrola nameščenih iger…</string>
   <string name="setting">Nastavitve</string>
-  <string name="share">Podeli</string>
+  <string name="share">Deli</string>
   <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih ponovno vključite</string>
   <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="start">Začni</string>
@@ -185,7 +185,7 @@
   <string name="superpower_third">Aplikacije tretjih oseb</string>
   <string name="superpower_time">h:mm</string>
   <string name="superpower_time_24">H:mm</string>
-  <string name="title_share_link">Podeli povezavo</string>
+  <string name="title_share_link">Delite povezavo</string>
   <string name="top_game">Najboljše igre</string>
   <string name="top_load_fail_detail">Ne morem prenesti, poskusite ponovno</string>
   <string name="top_no_network_detial">Ne morem prenesti, poskusite ponovno</string>

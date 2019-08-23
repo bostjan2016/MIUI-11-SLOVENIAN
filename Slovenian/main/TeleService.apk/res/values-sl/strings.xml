@@ -1074,7 +1074,7 @@ hitrost vzorčenja"</string>
   <string name="fdn_with_label">Številke za preusmeritev (%s)</string>
   <string name="fiveg_switch_title">5G omrežje</string>
   <string name="feedback">Povratna informacija</string>
-  <string name="flash_when_ring_summary">Uporabi bliskavico za obvestiloo dohodnih klicih</string>
+  <string name="flash_when_ring_summary">Uporabi bliskavico za obvestilo o dohodnih klicih</string>
   <string name="flash_when_ring_title">Bliskavica tudi za klice</string>
   <string name="forbidden_network">(Omejeno)</string>
   <string name="force_allow_on_external">Prisilno dovoli aplikacije v zunanji shrambi</string>
@@ -1881,7 +1881,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="rc_unlock_failed">RUIM odklep neuspešen</string>
   <string name="rc_unlock_success">RUIM odklep uspešen</string>
   <string name="rcs_not_supported">"Rcs ni podprt"</string>
-  <string name="reading_settings">Nastavitve branja…</string>
+  <string name="reading_settings">Branje nastavitev…</string>
   <string name="refueling_package_a">Paket A</string>
   <string name="refueling_package_b">Paket B</string>
   <string name="refueling_package_c">Paket C</string>
@@ -2310,7 +2310,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="tty_mode_option_title">Način TTY</string>
   <string name="turn_off_dual_4g_failed">"Ne morem izključiti dvojni 4G."</string>
   <string name="turn_on_dual_4g_failed">"Ne morem vključiti dvojni 4G."</string>
-  <string name="turnover_mute_summary">Ko je telefon postavljen na vodoravno površino z zaslonom obrnjrnim navzgor ga obrnite za utišanje zvonjenja.</string>
+  <string name="turnover_mute_summary">Ko je telefon postavljen na vodoravno površino z zaslonom obrnjenim navzgor ga obrnite za utišanje zvonjenja.</string>
   <string name="turnover_mute_title">Obrni za utišanje zvonjenja</string>
   <string name="unable_dial_livetalk">"Ne morem dokončati klica"</string>
   <string name="undefined">Brez</string>

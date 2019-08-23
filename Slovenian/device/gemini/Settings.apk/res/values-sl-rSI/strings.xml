@@ -2285,7 +2285,7 @@ Na tej napravi je več uporabnikov.
   <string name="menu_proc_stats_type_foreground">V ospredju</string>
   <string name="menu_restore">Ponastavi na privzeto</string>
   <string name="menu_save">Shrani</string>
-  <string name="menu_share">Podeli</string>
+  <string name="menu_share">Deli</string>
   <string name="menu_show_percentage">Prikaži odstotke</string>
   <string name="menu_show_system">Prikaz sistemskih procesov</string>
   <string name="menu_stats_last_unplugged">Pri zadnjem odklepu za %1$s</string>

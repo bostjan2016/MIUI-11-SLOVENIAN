@@ -156,9 +156,9 @@
   <string name="baby_album_setting_title">Informacije o otroku</string>
   <string name="baby_album_settings">Nastavitve otroškega albuma</string>
   <string name="baby_album_sharer_accept_dialog_msg">"%1$s %2$s,
-%3$s %4$s je podelil %5$s album s teboj"</string>
+%3$s %4$s je delil %5$s album s teboj"</string>
   <string name="baby_album_sharer_recommand_face">Dodati obstoječo fotografijo od %1$s?</string>
-  <string name="baby_album_sharers_page_title">Podelite z družino</string>
+  <string name="baby_album_sharers_page_title">Delite z družino</string>
   <string name="baby_birthday">Rojstni dan</string>
   <string name="baby_face_desc">Otroški album</string>
   <string name="baby_lock_wallpaper">Slika zakl. zaslona</string>
@@ -865,7 +865,7 @@ za fotografije"</string>
   <string name="invite_sharer_phone_number_tip">Vnesite številko telefona</string>
   <string name="invite_sharer_relation_tip">Razmerje do %1$s</string>
   <string name="invite_sharer_title">"Povabite %1$s %2$s"</string>
-  <string name="invite_tip">"Podelite fotografije vašega otroka"</string>
+  <string name="invite_tip">"Delite fotografije vašega otroka"</string>
   <string name="invited_tip">Povabljen</string>
   <string name="is">Da</string>
   <string name="is_higher_definition">HD pregled</string>

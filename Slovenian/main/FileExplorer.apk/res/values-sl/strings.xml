@@ -722,9 +722,9 @@
   <string name="phone_valid_code_tip">Koda je danes vnešena prevečkrat, poskusite dobiti novo</string>
   <string name="pick_file">Izberite datoteko</string>
   <string name="pick_folder">Izberite mapo</string>
-  <string name="popup_msg_qq">Podelite ta video z vašimi QQ prijatelji.</string>
+  <string name="popup_msg_qq">Delite ta video z vašimi QQ prijatelji.</string>
   <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
-  <string name="popup_msg_wx">Podelite ta video z vašimi WeChat prijatelji.</string>
+  <string name="popup_msg_wx">Delite ta video z vašimi WeChat prijatelji.</string>
   <string name="port_range">Vrata morajo biti med 1024–65535</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="pretty_girl">Ženska</string>
@@ -888,7 +888,7 @@
   <string name="share_link_failed">"Ne morem napraviti povezave."</string>
   <string name="share_now">Deli</string>
   <string name="share_title_1">Najden cool paket nalepk!</string>
-  <string name="share_to">Podeli z…</string>
+  <string name="share_to">Delite z…</string>
   <string name="share_topic_desc">Prenesite videoposnetke da dobite nagrado</string>
   <string name="share_topic_title">"Gledam #%1$s#, poglejte!"</string>
   <string name="share_youliao1">Nadgradite da boste pogledali več epizod.</string>
@@ -902,7 +902,7 @@
   <string name="shared_sticker_use_tip">"Lahko pošljete nalepke shranjene v WeChat razgovorih - enako kot da pošiljate slike. 
   (GIF-i so lahko dodani v Lastno v WeChat Nalepkah)."</string>
   <string name="shared_sticker_use_tip_title">Kako uporabiti nalepke</string>
-  <string name="shared_str">Podelil %s</string>
+  <string name="shared_str">Delil %s</string>
   <string name="shortcut_exists">Bližnjica že obstaja</string>
   <string name="shortcut_hotvideos">Popularni videoposnetki</string>
   <string name="shortcut_msg">Dodaj bližnjico na začetni zaslon za popularne videoposnetke</string>
@@ -983,7 +983,7 @@
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>
   <string name="title_select_volume">Izberite mape</string>
-  <string name="title_upload_video">Podelite male videoposnetke</string>
+  <string name="title_upload_video">Delite male videoposnetke</string>
   <string name="toast_file_not_can_read">Najdene ni nobene aplikacije ki bi znala opraviti to nalogo.</string>
   <string name="tools">ORODJA</string>
   <string name="top_mark">TOP</string>
@@ -1035,7 +1035,7 @@
   <string name="upload_external_notification_title">Obajava v teku, počakajte…</string>
   <string name="upload_failed">"Ne morem prebrati"</string>
   <string name="upload_file_toolarge_message">%1$d ni bilo mogoče prenesti: ne morete naložiti datotek večjih kot 300 Mb.</string>
-  <string name="upload_local_video">Podelite mali videoposnetek</string>
+  <string name="upload_local_video">Delite mali videoposnetek</string>
   <string name="upload_notification_compress_progress">Stiskanje %1$s%%</string>
   <string name="upload_notification_compress_title">Stiskanje videoposnetka</string>
   <string name="upload_notification_failed">"Ne morem poslati"</string>

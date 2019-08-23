@@ -661,7 +661,7 @@
   <string name="menu_search">Išči</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="merged_mailbox_compose_select_account">Izberi račun</string>
-  <string name="message_body_load_set_description">Prenesi velikost za nova sporočila e-pošte pri uporabi mobilnih podatkov</string>
+  <string name="message_body_load_set_description">Naloži velikost za nova sporočila e-pošte pri uporabi mobilnih podatkov</string>
   <string name="message_compose_insert_quick_response_list_title">Vstavi hitri odgovor</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Sporočila ni mogoče odkodirati</string>
