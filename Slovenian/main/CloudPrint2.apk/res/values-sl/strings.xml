@@ -283,7 +283,7 @@ Napaka: %1$s"</string>
   <string name="printer_support_url_at">Podpora je na voljo na spletnem naslovu %1$s</string>
   <string name="printer_type_android">Naprava z Androidom</string>
   <string name="printer_type_connector">Klasični tiskalnik povezan preko Google Chromea</string>
-  <string name="printer_type_docs">Tiskalnik Google dokumenatov</string>
+  <string name="printer_type_docs">Tiskalnik Google dokumentov</string>
   <string name="printer_type_drive">Tiskalnik Google diska</string>
   <string name="printer_type_fedex">FedEx Office</string>
   <string name="printer_type_gcp_ready">Tiskalnik dan v oblak</string>

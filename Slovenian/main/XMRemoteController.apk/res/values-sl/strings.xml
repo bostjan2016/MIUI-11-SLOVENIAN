@@ -1075,7 +1075,7 @@ Za menjavo dolg pritisk tipke za vklop TV sprejemnika"</string>
   <string name="video_count_info">Skupaj videoposnetkov: %d</string>
   <string name="video_detial_unfold">Podrobnosti</string>
   <string name="video_director_label">"Režiser: "</string>
-  <string name="video_favor">Priljubljen</string>
+  <string name="video_favor">Priljubljeno</string>
   <string name="video_filter_all">Filtriraj vse</string>
   <string name="video_history">Zgodovina</string>
   <string name="video_history_before_yestory">Predvčerajšnim</string>

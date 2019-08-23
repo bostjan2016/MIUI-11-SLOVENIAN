@@ -1410,4 +1410,10 @@
         <item>Odstotek (v ikoni)</item>
         <item>Odstotek (zraven ikone v plošči obvestil)</item>
     </string-array>
+	<string-array name="privacy_password_function_specfication_names">
+        <item>Sporočila</item>
+        <item>Fotografije</item>
+        <item>Datoteke</item>
+        <item>Beležke</item>
+	</string-array>	
 </resources>

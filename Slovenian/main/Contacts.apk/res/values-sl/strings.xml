@@ -1274,7 +1274,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="splitConfirmation">Ta stik bo razdeljen v več stikov.</string>
   <string name="splitConfirmation_title">Razdelim stik?</string>
   <string name="starredList">"Z zvezdo"</string>
-  <string name="starred_contacts">Priljubljen</string>
+  <string name="starred_contacts">Priljubljeno</string>
   <string name="status_available">Na voljo</string>
   <string name="status_away">Proč</string>
   <string name="status_busy">Zaposlen</string>
