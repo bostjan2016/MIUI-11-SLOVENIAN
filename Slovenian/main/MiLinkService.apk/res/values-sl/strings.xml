@@ -53,7 +53,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_15">Miracast funkcionalnost na različnih napravah</string>
   <string name="help_page_text_16">Mi TV/Mi Projektor</string>
   <string name="help_page_text_17">"Xiaomi mobilni telefon se lahko neposredno poveže z večino Xiaomi TV s funkcijo Bluetooth, namesto da ročno odpre storitev Miracast.
-Če želite ročno odpreti storitev Miracast, lahko s pritiskom na gumb [Menu] na daljinskem upravljalniku TV da izberete TV zaslon. Aplikacije & gt; Brezžično deljenje & gt; Mi / Android Miracast."</string>
+Če morate ročno odpreti storitev Miracast, pritisnite gumb [Meni] na TV daljincu za izbiro TV ekrana. Aplikacije &gt; Brezžično deljenje &gt; Millet / Android Miracast."</string>
   <string name="help_page_text_17_1">Xiaomi pomoč uporabnikom: 400-100-5678</string>
   <string name="help_page_text_18">Samsung TV</string>
   <string name="help_page_text_19">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\". To je standardno vključeno na različnih modelih.</string>
@@ -89,7 +89,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_49">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Za vklop te storitve pojdite na Moje aplikacije &gt; WiFi zaslon.</string>
   <string name="help_page_text_50">AODIN pomoč uporabnikom:400-810-5858</string>
   <string name="help_page_text_51">LeTV</string>
-  <string name="help_page_text_52">Prepričajte se, da model vaše naprave z velikim zaslonom podpira protokol Miracast. V nekaterih modelih izberite Nastavitve & gt; Omrežje & gt; Interakcija z več zasloni & gt; Brezžični zaslon.</string>
+  <string name="help_page_text_52">Preverite ali model večjega zaslona podpira Miracast protokol. Na nekaterih modelih izberite Nastavitve &gt; Omrežje &gt; Multi-zaslon &gt; Brezžični zaslon.</string>
   <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>

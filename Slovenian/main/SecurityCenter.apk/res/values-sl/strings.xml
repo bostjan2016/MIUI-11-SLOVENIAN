@@ -721,7 +721,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="check_network_state">Preveri status omrežja</string>
   <string name="checkout_traffic_saving_history">Prikaži zgodovino</string>
   <string name="choose">Izberi</string>
-  <string name="choose_gs_show_way">Izberite orijentacijo začetne strani</string>
+  <string name="choose_gs_show_way">Izberite orientacijo začetne strani</string>
   <string name="clean_immediately">Očisti</string>
   <string name="cleaned">Očiščeno</string>
   <string name="clear_bigfiles">Izbriši velike datoteke, dvojnike fotografij in druge nepotrebne stvari</string>
@@ -1174,7 +1174,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_password_button_text_normal">Pozabljeno geslo</string>
   <string name="forget_pattern">Pozabljen vzorec</string>
-  <string name="forground_network_optimization_summary">Dajte večjo propusntost igram v prvem planu</string>
+  <string name="forground_network_optimization_summary">Dajte večjo propustnost igram v prvem planu</string>
   <string name="forground_network_optimization_title">Prioriteta propustnosti</string>
   <string name="free_send_net_booster">Brezplačno povečanje hitrosi omrežja</string>
   <string name="free_send_net_booster_busniess">Pridobite brezplačno hitrost Xunlei</string>
@@ -1714,7 +1714,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="menu_sms">Pošlji SMS</string>
   <string name="menu_summary_antispam">Blokiraj klice in sporočila</string>
   <string name="menu_summary_antivirus">Iskanje virusov</string>
-  <string name="menu_summary_app_manager">Posodobi in odstarni aplikacije</string>
+  <string name="menu_summary_app_manager">Posodobi in odstrani aplikacije</string>
   <string name="menu_summary_garbage_cleanup">Ni smeti</string>
   <string name="menu_summary_garbage_cleanup_ex">Očisti smeti: %s</string>
   <string name="menu_summary_networkassistants">Urejajte svoj plan podatkov</string>
@@ -2310,7 +2310,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_low_battery_title">Varčevanje z baterijo</string>
   <string name="power_save_mode_auto_exit_summary">Izključite ko je baterija 60% ali popolnoma napolnjena​</string>
   <string name="power_save_mode_auto_exit_title">Izključite ko je napolnjena​</string>
-  <string name="power_save_mode_close_warn_text">Varčevanje baterije omejuje aktivnost v ozadju in sinhronizacijo. Če jo uporabljate med polnjenjem nekatere stvari morda ne bodo prav delale. Ali želite li da je varčevanje baterije vključeno med polnjenjem ?</string>
+  <string name="power_save_mode_close_warn_text">Varčevanje baterije omejuje aktivnost v ozadju in sinhronizacijo. Če jo uporabljate med polnjenjem nekatere stvari morda ne bodo prav delale. Ali želite da je varčevanje baterije vključeno med polnjenjem ?</string>
   <string name="power_save_mode_close_warn_title">Varčevanje baterije</string>
   <string name="power_save_mode_enable">Varčevanje z baterijo</string>
   <string name="power_save_mode_end_time">Konec</string>
@@ -3030,7 +3030,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="superpower_settings">Ultra varčevanje baterije</string>
   <string name="superpower_settins_autoenter_summary">Vključi Ultra varčevanje baterije samodejno ko je baterija samo še 10%</string>
   <string name="superpower_settins_autoenter_title">Vključi samodejno</string>
-  <string name="superpower_settins_autoleave_summary">Izključi Ultra varčevanje baterije samodejno ko je baterija napolnjana 50%</string>
+  <string name="superpower_settins_autoleave_summary">Izključi Ultra varčevanje baterije samodejno ko je baterija napolnjena 50%</string>
   <string name="superpower_settins_autoleave_title">Izključi samodejno</string>
   <string name="superpower_settins_other">Dodatne nastavitve</string>
   <string name="superpower_settins_switch_summary">Omejuje največje porabnike energije da so osnovne storitve (npr. klici, SMS in povezovanje na omrežje) na voljo kolikor je mogoče</string>
