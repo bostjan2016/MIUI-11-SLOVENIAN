@@ -140,6 +140,8 @@
   <string name="cta_dialog_negative">Izhod</string>
   <string name="cta_dialog_positive">Strinjam se</string>
   <string name="cta_dialog_text_all">Za uporabo zakl. aplikacij morate prebrati in se strinjati z %1$s\"Pogoji uporabe\" %2$s in %3$s \"Pravila o zasebnosti\" %4$s. Potrebna je tudi spletna povezava in dostop do lokacije. Se strinjate?</string>
+  <string name="cta_dialog_text_new_user">"Pred uporabo se morati strinjati z %1$s\"Pogoji uporabe\"%2$s, %3$s\"Pravila o zasebnosti\"%4$s, in %5$s\"Asistent na dotik Pravila o zasebnosti\"%6$s. Aplikacija potrebuje povezavo s spletom in dostop do lokacije. Tapni \"Začni\" za strinjanje."</string>
+  <string name="cta_dialog_text_old_user">Pred uporabo se morati strinjati z %1$s\"Asistent na dotik Pravila o zasebnosti\"%2$s. Tapni \"Začni\" za strinjanje.</string>
   <string name="cta_dialog_title">Pogoji in Pravila</string>
   <string name="cta_negative">Izhod</string>
   <string name="cta_positive">Podrobnosti</string>
@@ -366,6 +368,11 @@
   <string name="mi_wallet">Denarnica Mi</string>
   <string name="midrop_parent">Mi Drop</string>
   <string name="midrop_send">Pošlji</string>
+  <string name="miot_cta_dialog_title">Dovoli avtorizacijo</string>
+  <string name="miot_del_dialog_cancel">Obdrži</string>
+  <string name="miot_del_dialog_sure">Odstrani</string>
+  <string name="miot_delete_dialog_content">"Lahko boste obnovili Mi Home kartico v nastavitvah Asistent na dotik."</string>
+  <string name="miot_delete_dialog_title">Odstranjujem Mi Home kartico</string>
   <string name="miot_device_add_device">Dodaj napravo</string>
   <string name="miot_device_all_device">Vse naprave</string>
   <string name="miot_device_cancel">Prekliči</string>

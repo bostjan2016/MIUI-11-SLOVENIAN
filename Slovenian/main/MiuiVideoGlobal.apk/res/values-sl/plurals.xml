@@ -13,15 +13,15 @@
         <item quantity="one">Velikost: %.2fKB</item>
     </plurals>
     <plurals name="lv_video_count">
-        <item quantity="other">%d videoponetkov</item>
+        <item quantity="other">%d videoposnetkov</item>
         <item quantity="one">%d videoposnetek</item>
     </plurals>
 	<plurals name="ovp_detail_v_video_count">
-        <item quantity="other">%d videoponetkov</item>
+        <item quantity="other">%d videoposnetkov</item>
         <item quantity="one">%d videoposnetek</item>
     </plurals>
     <plurals name="ovp_home_item_unit">
-        <item quantity="other">%d videoponetkov</item>
+        <item quantity="other">%d videoposnetkov</item>
         <item quantity="one">%d videoposnetek</item>
     </plurals>
     <plurals name="pw_comment_count">

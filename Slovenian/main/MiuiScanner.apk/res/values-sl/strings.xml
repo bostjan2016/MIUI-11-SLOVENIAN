@@ -108,7 +108,7 @@
   <string name="gps">Navigacija</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="import_contact">Uvozi stik</string>
-  <string name="impunity_declaration_content">"Skener mora uporabljati kamero in obdelovati slike katere snemate med uporabo aplikacije. Ne uporabljajte skener za fotografiranje objektov ki vsebujejo vaše osebne podatke. Z dotikon \"Strinjam se\", pristajate na naša &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o zasebnosti&lt;/a&gt;&lt;/font&gt; in dovolite aplikaciji povezovanje na splet."</string>
+  <string name="impunity_declaration_content">"Skener mora uporabljati kamero in obdelovati slike katere snemate med uporabo aplikacije. Ne uporabljajte skener za fotografiranje objektov ki vsebujejo vaše osebne podatke. Z dotikon \"Strinjam se\", pristajate na naše &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o zasebnosti&lt;/a&gt;&lt;/font&gt; in dovolite aplikaciji povezovanje na splet."</string>
   <string name="impunity_declaration_negative_text">Izhod</string>
   <string name="impunity_declaration_positive_text">Dovoli</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>
