@@ -184,7 +184,7 @@
   <string name="kr_authorization_select_all">Izberi vse</string>
   <string name="kr_authorization_storage">Shramba</string>
   <string name="kr_authorization_storage_desc">Za dostop do shrambe in shranjevanje stvari, vključno zapise, slike in videoposnetke</string>
-  <string name="kr_authorization_summary">Legalni dokumenti</string>
+  <string name="kr_authorization_summary">Dokumenti</string>
   <string name="kr_authorization_user_protocol">Pogoji uporabe (obvezno)</string>
   <string name="loading_apps">Nalagam seznam…</string>
   <string name="login_system_failed">"Ne morem se prijaviti, poskusite ponovno"</string>

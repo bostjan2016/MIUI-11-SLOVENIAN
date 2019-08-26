@@ -269,10 +269,11 @@ Tapnite + da napravite mapo"</string>
 Dovolite aplikaciji Beležke branje vaših stikov in računov v tej napravi."</string>
   <string name="toast_refuse_to_use_external_storage">"Dovoljenja za shrambo so omejena.
 Dovolite aplikaciji Beležke branje vsebine SD kartice."</string>
-  <string name="toast_refuse_to_use_phone_state">"Dovoljenja za telefon su omejena.
+  <string name="toast_refuse_to_use_phone_state">"Dovoljenja za telefon so omejena.
 Dovolite aplikaciji Beležke branje statusa in identitete telefona."</string>
-  <string name="toast_refuse_to_use_record_audio">"Dovoljenja za mikrofon su omejena.
+  <string name="toast_refuse_to_use_record_audio">"Dovoljenja za mikrofon so omejena.
 Dovolite aplikaciji Beležke snemanje zvoka."</string>
+  <string name="toast_pic_is_not_really">Shranjevanje slike…</string>
   <string name="todo_alert_title_delete">Izbrišite dokončane naloge</string>
   <string name="todo_audio_default_content">"[Glasovna naloga] "</string>
   <string name="todo_custom_remind_tag_pattern_with_md">dd/MM HH:mm</string>

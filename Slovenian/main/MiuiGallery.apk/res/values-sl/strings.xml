@@ -53,7 +53,7 @@
   <string name="agreement_optional_tip">(Opcija)</string>
   <string name="agreement_quit">Izhod</string>
   <string name="agreement_required_tip">(Obvezno)</string>
-  <string name="agreement_summary">Legalni dokumenti</string>
+  <string name="agreement_summary">Dokumenti</string>
   <string name="ai_album_open_switch_button_title">Začni analizo fotografij</string>
   <string name="ai_album_requesting_title">AI algoritam še vedno obdeluje vaše fotografije. Vrnite se malo kasneje.</string>
   <string name="ai_album_setting_key_word">Išči fotografije</string>
