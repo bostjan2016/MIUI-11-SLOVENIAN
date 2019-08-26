@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">O Vremenu</string>
+  <string name="about_weather_setting_feedback">Pov. informacije</string>
+  <string name="abrupt_weather_settings_summary_type">Dobivajte opozorila o pričakovanih nevihtah, spremembi kvalitete zraka in ostalih važnih spremembah</string>
   <string name="abrupt_weather_settings_summary_type_a">Sprememba vremenskih opozoril</string>
   <string name="abrupt_weather_settings_summary_type_b">Sprememba vremenskih opozoril</string>
   <string name="abrupt_weather_settings_title">Neobičajna vremenska opozorila</string>
@@ -33,6 +36,8 @@
   <string name="add_city">Dodaj</string>
   <string name="alert_detail_title">Podrobnosti opozorila</string>
   <string name="alert_warning">Opozorila vremena</string>
+  <string name="alert_weather_enable_settings_summary">Dobivajte uradna opozorila o vremenu</string>
+  <string name="alert_weather_enable_settings_title">Opozorila vremena</string>
   <string name="already_voted">Glasovano</string>
   <string name="app_name">Vreme</string>
   <string name="aqi_data_source">Poganja Colorful Clouds</string>
@@ -69,7 +74,7 @@
   <string name="common_loading_text">Samo trenutek…</string>
   <string name="connect_fail">Obtajajo težave z vašim omrežjem. Prosimo poskusite ponovno kasneje.</string>
   <string name="content_desc_activity_main_add_city">Dodaj kraj</string>
-  <string name="content_desc_activity_main_add_city_manage">Upravljaj s krajom</string>
+  <string name="content_desc_activity_main_add_city_manage">Urejaj kraj</string>
   <string name="content_desc_activity_main_more_settings">Več nastavitev</string>
   <string name="content_desc_back_button">Nazaj</string>
   <string name="content_desc_city_manage_del">Izbriši</string>
@@ -96,9 +101,10 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="empty_view_net_unavailable">"Ne morem se povezati na omrežje"</string>
   <string name="empty_view_refresh">Poskusi ponovno</string>
   <string name="eu_region_version_first_start_network_msg">"Z uporabo se strinjate da se bo Xiaomi povezal na splet in zbiral, obdeloval in uporabljal vaše osebne podatke, vključno koordinate mest ki jih uporabljate in druge vrste podatkov navedenih v našim pravilih o zasebnosti. Preberite jih. Z dotikom na "Strinjam se", se strinjate z Xiaomi %1$s in %2$s."</string>
+  <string name="feedback">Prijavite napačne vremenske informacije</string>
   <string name="feedback_heavy_rain">Močan dež</string>
-  <string name="feedback_heavy_snow">Snig</string>
-  <string name="feedback_light_rain">Rahel dež kiša</string>
+  <string name="feedback_heavy_snow">Sneg</string>
+  <string name="feedback_light_rain">Rahel dež</string>
   <string name="feedback_overcast">Napoved</string>
   <string name="feedback_report_privacy_msg">Poročilo vsebuje informacije o vaši lokaciji</string>
   <string name="feedback_result_fail_no_choice">Izberite vreme kakor vidite</string>
@@ -176,7 +182,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="more_details">Več podrobnosti</string>
   <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
   <string name="network_unavailable">"Ne morem se povezati z omrežjem."</string>
-  <string name="night_not_disturb_settings_summary">Utišaj opozorila med 23:00 in 07:00</string>
+  <string name="night_not_disturb_settings_summary">Blokiraj opozorila med 23:00 in 07:00</string>
   <string name="night_not_disturb_settings_title">"Ne moti ponoči"</string>
   <string name="no_data">Ni podatkov</string>
   <string name="no_network_btn">Poskusi ponovno</string>
@@ -262,6 +268,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="view_forecast_item_yesterday">Včeraj</string>
   <string name="view_indexes_item_today">Danes</string>
   <string name="view_indexes_item_tommorrow">Jutri</string>
+  <string name="warning_weather_day_and_night_settings_summary">Prejemanje dnevnih povzetkov, ki vsebujejo podatke o vremenu ob 7:00 in 19:00</string>
+  <string name="warning_weather_day_and_night_settings_title">Dnevni povzetki</string>
   <string name="weather_alert_channel_name">Opozorila</string>
   <string name="weather_introduce">Zmeraj z vami.</string>
   <string name="weather_permission_agree">Sprejmem</string>

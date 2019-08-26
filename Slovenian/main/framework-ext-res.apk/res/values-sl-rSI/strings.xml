@@ -37,6 +37,7 @@
   <string name="call_record_sample_prefix_miui">Klic</string>
   <string name="caller_info_name_delimiter">" ali "</string>
   <string name="cancel_action">Prekliči</string>
+  <string name="can_not_transfer_when_screening">"Ne morem prenesti med sejanjem"</string>
   <string name="close">Izključi</string>
   <string name="configure_input_methods">Izberite tipkovnico</string>
   <string name="confirm_cancel_task_files">Odložim pošiljanje datotek na %1$s?</string>

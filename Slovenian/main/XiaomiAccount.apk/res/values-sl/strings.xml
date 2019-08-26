@@ -202,7 +202,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
 ID:%s
 Pošaljite to kodo našemu tehniku."</string>
   <string name="empty_device_list_notice">Ni naprave</string>
-  <string name="ep_unsupported">Vaša naprava ne podpira prijave v Mi Račun</string>
+  <string name="ep_unsupported">Ne morem se prijaviti v Mi Račun na vaši napravi</string>
   <string name="error_dup_binded_email">Ta naslov e-pošte je že povezan z drugim Mi Računom.</string>
   <string name="error_duplicate_answers">"Ne uporabljajte podvojene odgovore iz varnostnih razlogov"</string>
   <string name="error_incomplete_question_or_answer">Izberite 4 vprašanja in ponudite odgovore</string>

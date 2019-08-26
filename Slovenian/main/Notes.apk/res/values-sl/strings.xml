@@ -3,7 +3,7 @@
   <string name="action_folder_description">Prikaži mape</string>
   <string name="action_mode_switcher_grid_description">Mreža</string>
   <string name="action_mode_switcher_list_description">Seznam</string>
-  <string name="action_settings_description">Odpri Nastavitve</string>
+  <string name="action_settings_description">Nastavitve</string>
   <string name="actionbar_close_description">Zapri</string>
   <string name="actionbar_home_description">Nazaj</string>
   <string name="add_account_desc">Sinhroniziram beležke z vašim Mi Računom?</string>
