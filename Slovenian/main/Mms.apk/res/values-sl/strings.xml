@@ -129,7 +129,7 @@
   <string name="confirm_dialog_locked_title">Izbrišem zaklenjeno sporočilo?</string>
   <string name="confirm_dialog_title">Izbriši?</string>
   <string name="confirm_dlg__msg">CMCC obvestilo: CMCC storitev ne bo varovana če jo ukinete. Ali želite preklicati?</string>
-  <string name="confirm_dlg_title">Upravljanje naprave</string>
+  <string name="confirm_dlg_title">Urejanje naprave</string>
   <string name="confirm_export_dialog_description">Prejšnji pogovori s tem stikom ne bodo več skriti.</string>
   <string name="confirm_export_dialog_title">Odstrani iz zasebnih stikov</string>
   <string name="confirm_no_block_positive">"Ne blokiraj in vrni"</string>
@@ -538,7 +538,7 @@
   <string name="pref_summary_delivery_reports">Prikaži stanje dostave za vsako sporočilo ki ga pošljete</string>
   <string name="pref_summary_delivery_ringtone">Prejmi zvočna obvestila za dostavljena sporočila.</string>
   <string name="pref_summary_hide_festival">Skrij opravila kitajskega jezika, ko je sistem nastavljen na drug jezik.</string>
-  <string name="pref_summary_manage_sim_messages">Upravljaj s sporočili shranjenimi na SIM kartici</string>
+  <string name="pref_summary_manage_sim_messages">Urejaj sporočila shranjena na SIM kartici</string>
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
   <string name="pref_summary_mms_read_reports">Zahtevaj poročilo za vsako sporočilo, ki ste ga poslali</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Samodejno prenesti sporočila med gostovanjem</string>
@@ -563,7 +563,7 @@
   <string name="pref_title_festival_networking">Spletna povezava</string>
   <string name="pref_title_fwd_sender_info">Posreduj informacije pošiljatelja</string>
   <string name="pref_title_hide_festival">Skrij opravila kitajskega jezika</string>
-  <string name="pref_title_manage_sim_messages">Upravljanje sporočil na kartici SIM</string>
+  <string name="pref_title_manage_sim_messages">Urejanje sporočil na kartici SIM</string>
   <string name="pref_title_miui_card">Pošlji preko kartice</string>
   <string name="pref_title_mms_auto_retrieval">Samodejno pridobi MMS</string>
   <string name="pref_title_mms_delete">Meja večpredstavnostnega sporočila</string>
@@ -748,8 +748,8 @@
   <string name="send">Pošlji</string>
   <string name="send_hms_editor_hints">Mi Sporočilo</string>
   <string name="send_message_dlg_check_hint">Ne kaži več</string>
-  <string name="send_message_dlg_mgs">CMCC obvestilo: Moramo registrirati vašo napravo za upravljanje naprave za zagotavljanje brezplačnih post-storitev (Post-storitev je platforma CMCC ki lahko upravlja terminalne naprave. Zagotavlja storitve oddaljenih nastavitev in nadgradnjo aplikacije). Brezplačno sporočilo o napravi bo poslano za registracijo. Sporočilo bo poslano samo enkrat in ne potrebuje vaših osebnih podatkov (Ne pošiljajte iz Hong Kong, Macao, Taiwan in mednarodnega gostovanja). Izberite V redu če se strinjate z registracijo in uporabo storitve. Izberite Prekliči če hočete prenehati s to storitvijo in tako ne bo nobena storitev CMCC na voljo.</string>
-  <string name="send_message_dlg_title">Upravljanje naprave</string>
+  <string name="send_message_dlg_mgs">CMCC obvestilo: Moramo registrirati vašo napravo za urejanje naprave za zagotavljanje brezplačnih post-storitev (Post-storitev je platforma CMCC ki lahko upravlja terminalne naprave. Zagotavlja storitve oddaljenih nastavitev in nadgradnjo aplikacije). Brezplačno sporočilo o napravi bo poslano za registracijo. Sporočilo bo poslano samo enkrat in ne potrebuje vaših osebnih podatkov (Ne pošiljajte iz Hong Kong, Macao, Taiwan in mednarodnega gostovanja). Izberite V redu če se strinjate z registracijo in uporabo storitve. Izberite Prekliči če hočete prenehati s to storitvijo in tako ne bo nobena storitev CMCC na voljo.</string>
+  <string name="send_message_dlg_title">Urejanje naprave</string>
   <string name="send_message_notification_msg">Tapnite za ogled zahtevanih podrobnosti.</string>
   <string name="send_message_notification_tickerText">Naprava zahteva dovoljenje</string>
   <string name="send_message_notification_title">Zahtevano dovoljenje</string>

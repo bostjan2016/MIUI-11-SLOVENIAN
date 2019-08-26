@@ -240,7 +240,7 @@
   <string name="group_name_data_source">Vir</string>
   <string name="group_name_enroll"/>
   <string name="group_name_gallery">Galerija</string>
-  <string name="group_name_management">Upravljanje</string>
+  <string name="group_name_management">Urejanje</string>
   <string name="group_name_more">Ostalo</string>
   <string name="group_name_service">Storitev</string>
   <string name="group_name_shop_info">Informacije</string>
@@ -256,7 +256,7 @@
   <string name="locating_fail">Ne morem najti vaše lokacije</string>
   <string name="login_before_use">Najprej se morate prijaviti</string>
   <string name="login_ok">Prijava</string>
-  <string name="mark_number_check_choose_others">Izaberite ostale</string>
+  <string name="mark_number_check_choose_others">Izberite ostale</string>
   <string name="mark_number_check_dialog_title">Označi številko</string>
   <string name="mark_number_check_most_choice">(Najpogostejša izbira uporabnikov)</string>
   <string name="mark_number_custom_mark_deleted">Oznaka je odstranjena</string>

@@ -902,8 +902,6 @@
          <item>Fotografije</item>
          <item>Datoteke</item>
          <item>Beležke</item>
-         <item>Zaklep. aplik.</item>
-         <item>Otroški način</item>
     </string-array>	
     <string-array name="organized_locales">
         <item>sk</item>

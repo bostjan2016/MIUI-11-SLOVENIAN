@@ -22,7 +22,7 @@
     <string name="app_name">XiaomiEU Orodja</string>
     <string name="btn_cancel">Prekliči</string>
     <string name="btn_next">Naprej</string>
-    <string name="carousel_desc">Samod. upravljanje zakl. zaslona</string>
+    <string name="carousel_desc">Samod. urejanje zakl. zaslona</string>
     <string name="carousel_title">Wallpaper carousel</string>
     <string name="dialog_desc">Za zdaj lahko izberete samo uporabo sprememb preko ikone delovne površine, izbira vzorca bo povzročila FC.</string>
     <string name="dialog_title">OPOZORILO!</string>

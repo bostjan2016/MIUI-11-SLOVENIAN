@@ -42,7 +42,7 @@
   <string name="nfc_all_mipay_card_not_in_use">"Mi Pay ni aktiviran"</string>
   <string name="nfc_trans_card_not_in_use">"Transportna kartica ni aktivirana"</string>
   <string name="not_working">%s (Ne dela)</string>
-  <string name="pay_entry_dialog_title_select">Izaberite aplikacijo za odpiranje</string>
+  <string name="pay_entry_dialog_title_select">Izberite aplikacijo za odpiranje</string>
   <string name="pay_entry_dialog_title_setting">Nastavi aplikacijo da preverja omogočenje</string>
   <string name="pref_category_mipay">NFC bližnjice</string>
   <string name="pref_category_others">Ostalo</string>

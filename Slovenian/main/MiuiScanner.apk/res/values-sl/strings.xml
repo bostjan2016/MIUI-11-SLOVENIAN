@@ -46,7 +46,7 @@
   <string name="call_anyone">Klic</string>
   <string name="camera_error_title">Napaka kamere</string>
   <string name="cancel">Prekliči</string>
-  <string name="choose_picture">Izaberite sliko QR kode</string>
+  <string name="choose_picture">Izberite sliko QR kode</string>
   <string name="common_retake_picture">Posnemi ponovno</string>
   <string name="common_retry">Poskusi ponovno</string>
   <string name="common_save">Shrani</string>
@@ -246,7 +246,7 @@
   <string name="translation_prompt_cannot_find">"Ne najdem besede ali fraze"</string>
   <string name="translation_prompt_maintain_level">Besedilo mora biti vzporedno s črto</string>
   <string name="translation_prompt_recapture">Fotografija je motna, posnemite drugo</string>
-  <string name="translation_prompt_sentence">Izaberite besedilo za prevod</string>
+  <string name="translation_prompt_sentence">Izberite besedilo za prevod</string>
   <string name="translation_prompt_translating">Prevajanje…</string>
   <string name="translation_prompt_translating_sentence">Prevajanje…</string>
   <string name="translation_prompt_translating_word">Prepoznavanje…</string>

@@ -331,7 +331,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="dialog_queued_body">Ta datoteka je v vrsti čakanja na prenos.</string>
   <string name="dialog_recovery_tabs_action">Tapni za vrnitev</string>
   <string name="dialog_recovery_tabs_disc">Odkrivanje neodkritih strani zahteva popolno obnovitev.</string>
-  <string name="dialog_recovery_tabs_tip">Najdi web-prikaz ni bil zaprt zadnjič</string>
+  <string name="dialog_recovery_tabs_tip">Spletna stran zadnjič ni bila zaprta</string>
   <string name="dialog_recovery_tabs_title">Odpri stran pred obnovitvijo</string>
   <string name="dialog_title_not_available">"Ne morem prenesti"</string>
   <string name="dialog_title_queued_body">Datoteka še ni na voljo</string>

@@ -1345,7 +1345,7 @@ za uporabo top-up package"</string>
   <string name="lte_switch_unavailable">Menjava 4G/3G SIM kartica je nedostopna</string>
   <string name="maintenance_disable">Vzdrževanje je izklopljeno</string>
   <string name="maintenance_enable">Vzdrževanje je vklopljeno</string>
-  <string name="manageConferenceLabel">Upravljanje konferenčnih klicev</string>
+  <string name="manageConferenceLabel">Urejanje konferenčnih klicev</string>
   <string name="manage_fdn_list">Seznam FDN</string>
   <string name="managed_roaming_dialog_cancel_button">Prekliči</string>
   <string name="managed_roaming_dialog_content">Najdeno omrežje z omejenimi storitvami. Ogled razpoložljivih omrežij?</string>
@@ -1581,8 +1581,8 @@ Kontaktirajte vašega operaterja."</string>
   <string name="onscreenAudioText">Zvok</string>
   <string name="onscreenEndCallText">Konec</string>
   <string name="onscreenHoldText">Na čakanju</string>
-  <string name="onscreenManageCallsText">Upravljanje klicev</string>
-  <string name="onscreenManageConferenceText">Upravljanje konference</string>
+  <string name="onscreenManageCallsText">Urejanje klicev</string>
+  <string name="onscreenManageConferenceText">Urejanje konference</string>
   <string name="onscreenMergeCallsText">Združi klice</string>
   <string name="onscreenMuteText">Tiho</string>
   <string name="onscreenShowDialpadText">Številčnica</string>
@@ -2050,7 +2050,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="simContacts_airplaneMode">Za uvoz stikov iz SIM kartice izklopite način Letalo .</string>
   <string name="simContacts_empty">Na kartici SIM ni stikov.</string>
   <string name="simContacts_emptyLoading">Berem...</string>
-  <string name="simContacts_title">Upravljaj s stiki iz SIM kartice</string>
+  <string name="simContacts_title">Urejaj stike iz SIM kartice</string>
   <string name="simFdnContacts_empty">Ni stikov za fiksno izbiranje.</string>
   <string name="sim_absent">Ni</string>
   <string name="sim_accounts">SIM računi</string>
@@ -2156,9 +2156,9 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sum_cw_disabled">Med klicem me obvesti o dohodnih klicih</string>
   <string name="sum_cw_enabled">Med klicem me obvesti o dohodnih klicih</string>
   <string name="sum_default_caller_id">Uporabi privzete nastavitve operaterja za prikaz moje številke</string>
-  <string name="sum_fdn">Upravljanje številk za fiksno izbiranje</string>
+  <string name="sum_fdn">Urejanje številk za fiksno izbiranje</string>
   <string name="sum_fdn_change_pin">Spremeni PIN za FDN dostop</string>
-  <string name="sum_fdn_manage_list">Upravljaj z seznamom telefonskih številk</string>
+  <string name="sum_fdn_manage_list">Urejaj seznam telefonskih številk</string>
   <string name="sum_gsm_call_settings">Dodatne GSM klicne nastavitve</string>
   <string name="sum_hide_caller_id">Številka skrita v odhodnih klicih</string>
   <string name="sum_loading_settings">Nalagam nastavitve...</string>
@@ -2170,7 +2170,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sum_xdivert_enabled">X-Divert je vklopljen</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>
-  <string name="summary_manage_subscriptions">Upravljaj z omrežnimi nastavitvami od vsake naročnine</string>
+  <string name="summary_manage_subscriptions">Urejaj omrežne nastavitve vsake naročnine</string>
   <string name="supp_service_additional_call_forwarded">Dodatni klic preusmerjen.</string>
   <string name="supp_service_additional_ect_connected">Prenos eksplicitnega klica končan.</string>
   <string name="supp_service_additional_ect_connecting">Prenos eksplicitnega klica poteka.</string>
@@ -2213,7 +2213,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="telocation_countrycode_alert_message_wrong">Koda države ki ste jo vnesli je nepravilna.</string>
   <string name="telocation_countrycode_alert_title">Opozorilo</string>
   <string name="telocation_custom_empty">Dodaj številko z dotikom na tipko dodaj (+)</string>
-  <string name="telocation_custom_location_summary">Upravljaj z shranjenimi območnimi kodami in skupinskimi številkami</string>
+  <string name="telocation_custom_location_summary">Urejaj shranjene območne kode in skupinske številke</string>
   <string name="telocation_custom_location_title">Moje lokacije</string>
   <string name="telocation_custom_name_hint">Ime</string>
   <string name="telocation_custom_number_hint">Območna koda in skupinska številka</string>
@@ -2434,7 +2434,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wapi_cert_is_not_selected">Najpreje izberite certifikat</string>
   <string name="wapi_cert_manage_error">Nastavitev WAPI certifikata ni uspela.</string>
   <string name="wapi_cert_manage_summary">Dodajte ali izbrišite WAPI certifikat</string>
-  <string name="wapi_cert_manage_title">Upravljanje z WAPI certifikatom</string>
+  <string name="wapi_cert_manage_title">Urejanje z WAPI certifikatom</string>
   <string name="wapi_cert_roaming">Povezovanje…</string>
   <string name="wapi_no">ne</string>
   <string name="wapi_no_vaild_cert">Ni dostopnih certifikatov, namestite jih?</string>
@@ -2470,7 +2470,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_calling_preference_summary">Spremeni WiFi klicne nastavitve</string>
   <string name="wifi_calling_preference_title">Nastavitev WiFi klica</string>
   <string name="wifi_calling_select_call_assistant">Izberite Asistenta klicev</string>
-  <string name="wifi_calling_select_call_assistant_summary">Izberite aplikacijo ali storitev za upravljanje z omrežji uporabljenimi za klice</string>
+  <string name="wifi_calling_select_call_assistant_summary">Izberite aplikacijo ali storitev za urejanje z omrežji uporabljenimi za klice</string>
   <string name="wifi_calling_settings_title">WiFi Klicanje</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>

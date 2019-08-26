@@ -557,8 +557,8 @@
         <item quantity="one">%d mAh</item>
      </plurals>
 	 <plurals name="function_shield_num">
-        <item quantity="other">%d funkcij</item>
-        <item quantity="one">%d funkcija</item>
+        <item quantity="other">%d storitev</item>
+        <item quantity="one">%d storitev</item>
     </plurals>
 	 <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d več znakov</item>

@@ -136,7 +136,7 @@ Pametna shramba ne boosvobodila prostor če je prostor za shranjevanje skoraj po
 
 Zadnjič zagnano %2$s"</string>
     <string name="automatic_storage_manager_preference_title">Pametna shramba</string>
-    <string name="automatic_storage_manager_settings">Upravljanje shrambe</string>
+    <string name="automatic_storage_manager_settings">Urejanje shrambe</string>
     <string name="automatic_storage_manager_text">Ko je shramba skoraj polna odstranite varnostno kopirane fotografije in videoposnetke. Še vedno bodo na voljo v Googlu Foto.</string>
     <string name="available_virtual_keyboard_category">Razpoložljiva navidezna tipkovnica</string>
     <string name="background_activity_summary">Dovoli, da se aplikacija izvaja v ozadju</string>
@@ -172,7 +172,7 @@ Povrnitvi na privzeto začnite postopek nastavljanja in izberite prenos podatkov
     <string name="battery_detail_background">Med izvajanjem v ozadju</string>
     <string name="battery_detail_foreground">Med aktivno uporabo</string>
     <string name="battery_detail_info_title">Od polne napolnjenosti akumulatorja</string>
-    <string name="battery_detail_manage_title">Upravljanje porabe akumulatorja</string>
+    <string name="battery_detail_manage_title">Urejanje porabe akumulatorja</string>
     <string name="battery_detail_power_percentage">%1$s od skupne porabe aplikacij (%2$d mAh)</string>
     <string name="battery_detail_power_usage">Poraba akumulatorja</string>
     <string name="battery_detail_since_full_charge">Razčlenitev od zadnje napol. akumulatorja</string>
@@ -183,7 +183,7 @@ Povrnitvi na privzeto začnite postopek nastavljanja in izberite prenos podatkov
     <string name="battery_overall_usage">%1$s celotne napolnjenosti akumulatorja</string>
     <string name="battery_percentage">Odstotek napolnjenosti akumulatorja</string>
     <string name="battery_percentage_description">Pokaži odstotek napolnjenosti akumulatorja v vrstici stanja</string>
-    <string name="battery_power_management">Upravljanje napajanja</string>
+    <string name="battery_power_management">Urejanje napajanja</string>
     <string name="battery_saver_desc_turn_on_auto_never">Brez samodejnega vklopa</string>
     <string name="battery_saver_desc_turn_on_auto_pct">Samodejni vklop pri toliko odstotkih akumulatorja: %1$s</string>
     <string name="battery_saver_off_summary">Izklopljeno/%1$s</string>
@@ -483,13 +483,13 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="fragment_usb_other_ways">Drugi načini za kopiranje podatkov</string>
     <string name="fragment_usb_title">Kopiranje podatkov preko kabla</string>
     <string name="game_storage_settings">Igre</string>
-    <string name="gesture_preference_summary">Hitre poteze za upravljanje telefona</string>
+    <string name="gesture_preference_summary">Hitre poteze za urejanje telefona</string>
     <string name="gesture_preference_title">Gibi</string>
     <string name="gesture_setting_off">Izklopljeno</string>
     <string name="gesture_setting_on">Vklopljeno</string>
     <string name="go_back_button_label">Nazaj</string>
     <string name="google_services_automatic_storage_manager"><b>Sprostite prostor, ko je shramba v napravi skoraj polna</b>, tako da odstranite podatke iz naprave, na primer varnostno kopirane fotografije in videoposnetke.</string>
-    <string name="google_services_automatic_storage_manager_dialog_text">Ko boste imeli vzpostavljeno povezavo, boste lahko še vedno dostopali do teh podatkov. Če želite nadzirati to opravilo in kaj se izbriše, to storite v »Nastavitve > Shramba > Upravljanje shrambe«.</string>
+    <string name="google_services_automatic_storage_manager_dialog_text">Ko boste imeli vzpostavljeno povezavo, boste lahko še vedno dostopali do teh podatkov. Če želite nadzirati to opravilo in kaj se izbriše, to storite v »Nastavitve > Shramba > Urejanje shrambe«.</string>
     <string name="google_services_kids_automatic_storage_manager"><b>Sprostite prostor, ko je shramba v napravi skoraj polna</b>, tako da odstranite podatke iz naprave, na primer varnostno kopirane fotografije in videoposnetke.</string>
     <string name="hardware_info">Model in strojna oprema</string>
     <string name="hardware_revision">Različica strojne opreme</string>
@@ -869,7 +869,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
     <string name="storage_manager_indicator_off">Izklopljeno</string>
     <string name="storage_manager_indicator_on">Vklopljeno</string>
     <string name="storage_menu_free">Sprostitev prostora</string>
-    <string name="storage_menu_manage">Upravljanje shrambe</string>
+    <string name="storage_menu_manage">Urejanje shrambe</string>
     <string name="storage_movies_tv">Aplikacije za filme in TV</string>
     <string name="storage_music_audio">Glasba in zvok</string>
     <string name="storage_other_apps">Druge aplikacije</string>

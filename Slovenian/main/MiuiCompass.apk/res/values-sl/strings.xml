@@ -17,7 +17,7 @@
   <string name="calibrate_failed_timeout">Povezava do strežnika ni mogoča</string>
   <string name="calibrate_rotate_again">Poskusi ponovno</string>
   <string name="calibrate_success">Kalibrirano</string>
-  <string name="calibrate_tip">Nagibajte napravo da ulovite piko v krog</string>
+  <string name="calibrate_tip">Nagibajte napravo da s piko narišete krog</string>
   <string name="calibrate_title">Kalibriranje kompasa</string>
   <string name="compass_settings">Nastavitve</string>
   <string name="cancel">Prekliči</string>

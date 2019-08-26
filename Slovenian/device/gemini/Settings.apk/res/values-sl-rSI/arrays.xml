@@ -822,8 +822,6 @@
          <item>Fotografije</item>
          <item>Datoteke</item>
          <item>Beležke</item>
-         <item>Zakl. aplik.</item>
-         <item>Otroški način</item>
     </string-array>
 	<string-array name="select_logd_size_summaries">
         <item>Izključeno</item>

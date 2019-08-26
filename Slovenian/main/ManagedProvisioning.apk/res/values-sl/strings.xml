@@ -70,7 +70,7 @@
   <string name="device_has_reset_protection_contact_admin">Na vaši napravi je vključena zaščita pred ponastavitvijo. Kontaktirajte skrbnika.</string>
   <string name="device_owner_cancel_cancel">Prekliči</string>
     <string name="device_owner_cancel_message">Ali želite ustaviti nastavitev in izbrisati podatke v napravi?</string>
-    <string name="device_owner_description">Za varnost in upravljanje te naprave bo skrbela vaša organizacija.</string>
+    <string name="device_owner_description">Za varnost in urejanje te naprave bo skrbela vaša organizacija.</string>
   <string name="device_owner_error_download_failed">Skrbniške aplikacije ni bilo mogoče prenesti</string>
   <string name="device_owner_error_hash_mismatch">Skrbniške aplikacije ni bilo mogoče uporabiti zaradi napake kontrolne vsote. Obrnite se na oddelek za IT.</string>
   <string name="device_owner_error_installation_failed">Skrbniške aplikacije ni bilo mogoče namestiti</string>
@@ -165,7 +165,7 @@
     <string name="work_profile_cant_be_added_contact_admin">Delovnega profila ni mogoče dodati v to napravo. Če imate vprašanja, se obrnite na skrbnika.</string>
     <string name="work_profile_description">V tem profilu bodo vaše delovne aplikacije, ki jih bo upravljala vaša organizacija</string>
     <string name="work_profile_info">Podatki o delovnem profilu</string>
-  <string name="work_profile_setup_later_message">Delovni profil lahko nastavite pozneje v aplikaciji za upravljanje naprave ki jo uporablja vaša organizacija.</string>
+  <string name="work_profile_setup_later_message">Delovni profil lahko nastavite pozneje v aplikaciji za urejanje naprave ki jo uporablja vaša organizacija.</string>
   <string name="work_profile_setup_later_title">Ustavim nastavitev profila?</string>
     <string name="work_profile_setup_stop">Ustavi</string>
   <string name="your_org_app_used">Organizacija %1$s bo upravljala s to napravo in ga kontrolirala s pomočjo naslednje aplikacije:</string>

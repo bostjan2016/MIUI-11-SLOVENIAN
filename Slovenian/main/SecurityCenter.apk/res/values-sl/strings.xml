@@ -974,7 +974,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="download">Prenesi</string>
   <string name="downloading">Prenašam…</string>
   <string name="doze_optimization_summary">Povečajte občutljivost na dotik in občutljivost</string>
-  <string name="doze_optimization_title">Optimizirano upravljanje dotika</string>
+  <string name="doze_optimization_title">Optimizirano urejanje dotika</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="email">E-pošta</string>
@@ -1363,7 +1363,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
-  <string name="guide_primary_text">"Uporabljajte aplikacijo Varnost za upravljanje z mobilnimi podatki"</string>
+  <string name="guide_primary_text">"Uporabljajte aplikacijo Varnost za urejanje z mobilnimi podatki"</string>
   <string name="guide_quck_open">Vključi</string>
   <string name="guide_second_text">"Ko nastavite operaterja bo MIUI spremljal promet mobilnih podatkov vsakodnevno z pošiljanjem brezplačnega SMS-a mobilnemu operaterju. Ko MIUI opazi da ste prekoračili omejitev podatkov vas bo izljučil iz omrežja in vas o tem obvestil."</string>
   <string name="guide_wait_setting">Ne zdaj</string>
@@ -1513,7 +1513,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Pov. informacije in pošljite poročilo s svoje naprave."</string>
   <string name="lock_mode_title">Nastavitve zaklepanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Izkoriščeno %s pri zakl. zaslonu</string>
-  <string name="lock_screen_traffic_guide_notification_title">Tapnite za upravljanje porab. podatkov</string>
+  <string name="lock_screen_traffic_guide_notification_title">Tapnite za urejanje porab. podatkov</string>
   <string name="lock_screen_traffic_notify_body">Zakl. na %2$s; %1$s, izkoriš. %3$s pod.</string>
   <string name="lock_screen_traffic_purchase_textview">Doplačajte bon</string>
   <string name="lock_screen_traffic_warn_title">Obvestila zakl. zaslona</string>
@@ -1616,7 +1616,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="main_traffic_used_text">Izkoriščeno</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Dodajte ročni samod. zagon aplikacije</string>
-  <string name="manage_hybrid_permissions">"Upravljanje dovoljenj aplikacij"</string>
+  <string name="manage_hybrid_permissions">"Urejanje dovoljenj aplikacij"</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="manual_handle_title">OPRAVILA NA VOLJO</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
@@ -1758,7 +1758,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="modifypassword">Spremeni vrsto gesla</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
-  <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
+  <string name="monitor_requests_from_pc">Urejanje namestitve aplikacij preko USB</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
   <string name="more_game">Več iger</string>
   <string name="more_lock">Več</string>
@@ -2410,7 +2410,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_key_daily_package_summary">Vključite da dnevno resetirate omejitev podatkov</string>
   <string name="pref_key_daily_package_switch">Dnevni plan podatkov</string>
   <string name="pref_key_daily_package_value">Dnevni plan podatkov</string>
-  <string name="pref_key_direction_traffic">Nekateri mobilni podatki</string>
+  <string name="pref_key_direction_traffic">Označeni mobilni podatki</string>
   <string name="pref_key_extra_package_switch">Mesečni paket doplačila</string>
   <string name="pref_key_extra_package_value">Velikost paketa</string>
   <string name="pref_key_half_year_package_start">Datum začetka</string>
@@ -2445,7 +2445,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_setting_operators_message">Uredite obvestilo ki ga vaša naprava pošlje operaterju za sinhronizacijo statistike porabe podatkov</string>
   <string name="pref_show_mobile_traffic">Prikaži statistiko porabe podatkov v času odklepanja po tem ko je naprava zaklenjena več kot 5 minut</string>
   <string name="pref_special_package_setting">Prilagojeni plan podatkov</string>
-  <string name="pref_special_package_setting_summary">Upravljaj omejitve in določene podatke</string>
+  <string name="pref_special_package_setting_summary">Urejaj omejitve in določene podatke</string>
   <string name="pref_special_traffic_exceed_limit">Obvesti ko poraba podatkov doseže omejitev</string>
   <string name="pref_special_traffic_limit_warn">Nastavite opozorilo porabe podatkov</string>
   <string name="pref_specified_adjust">Nastavitev prilagojene omejitve podatkov</string>
@@ -2788,8 +2788,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_safe_score_text">Plačilo je varno</string>
   <string name="sp_scan_item_monitor">Nadziranje plačila</string>
   <string name="sp_scan_item_url_antispam">Zaščita pred zlonamernimi povezavami</string>
-  <string name="sp_settings_check_item_summary_sign_exception">Upravljaj izjeme prijav</string>
-  <string name="sp_settings_check_item_summary_virus_exception">Upravljaj izjeme virusov</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Urejaj izjeme prijav</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Urejaj izjeme virusov</string>
   <string name="sp_settings_check_item_title_root">ROOT</string>
   <string name="sp_settings_check_item_title_sign_exception">Izjeme prijav</string>
   <string name="sp_settings_check_item_title_update">Posodabljanje sistema</string>
@@ -3355,7 +3355,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_protection_use_data">Mobilni podatki</string>
   <string name="traffic_purchase_body">Obnovite bon</string>
   <string name="traffic_purchse_suggestion">Doplačilo bona</string>
-  <string name="traffic_saving_button_mng">Upravljaj z aplikacijami</string>
+  <string name="traffic_saving_button_mng">Urejaj aplikacije</string>
   <string name="traffic_saving_button_sorted">Grafikon</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Razvrsti po</string>
   <string name="traffic_saving_button_start">Vključi</string>

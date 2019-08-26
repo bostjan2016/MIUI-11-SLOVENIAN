@@ -472,7 +472,7 @@ Avdio"</string>
   <string name="strict_mode_summary">Zaslon se svetlika kadar operacije apl. v glavni niti dolgo trajajo.</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_empty"/>
-    <string name="telecommAppLabel">Upravljanje klicev</string>
+    <string name="telecommAppLabel">Urejanje klicev</string>
   <string name="telephony_monitor_switch">TelephonyMonitor</string>
   <string name="telephony_monitor_switch_summary">TelephonyMonitor bo zbiral zapisnike ko odkrije težavo z delovanjem telefona/modema in obvesti uporabnika da prijavi programsko napako</string>
   <string name="test_account_0_label">Q Mobile</string>
@@ -550,7 +550,7 @@ Avdio"</string>
   <string name="wapi_cert_is_not_selected">Najprej izberite certifikat</string>
   <string name="wapi_cert_manage_error">Nastavitev WAPI certifikata ni uspela.</string>
   <string name="wapi_cert_manage_summary">Dodajte ali izbrišite WAPI certifikat</string>
-  <string name="wapi_cert_manage_title">Upravljanje z WAPI certifikatom</string>
+  <string name="wapi_cert_manage_title">Urejanje z WAPI certifikatom</string>
   <string name="wapi_cert_roaming">Povezovanje…</string>
   <string name="wapi_no">ne</string>
   <string name="wapi_no_vaild_cert">Ni dostopnih certifikatov, ali jih namestim zdaj?</string>

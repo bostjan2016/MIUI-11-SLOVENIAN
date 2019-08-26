@@ -322,7 +322,7 @@
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="vibrate_pref_summary">Vibriraj ko se oglasi alarm</string>
   <string name="vibrate_when_ringing">Vibriraj pri klicih</string>
-  <string name="volume_button_setting_desc">Dodelite funkcije za tipke Vklop in Glasnost +/-</string>
+  <string name="volume_button_setting_desc">Dodelite storitve za tipke Vklop in Glasnost +/-</string>
   <string name="volume_button_setting_summary">Nastavi opravilo tipk za glasnost med bujenjem</string>
   <string name="volume_button_setting_title">Tipke za glasnost</string>
   <string name="workday_alarm_clock">Alarm ob delavnikih</string>

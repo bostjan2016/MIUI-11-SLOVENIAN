@@ -341,7 +341,7 @@
   <string name="conversation_item_mark_unread">Neprebrano</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Pošlji "</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
-  <string name="conversation_pull_ad_content">Upravljajte svoja sporočila e-pošte brez napora</string>
+  <string name="conversation_pull_ad_content">Urejajte svoja sporočila e-pošte brez napora</string>
   <string name="conversation_quick_button_approve">V redu</string>
   <string name="conversation_quick_button_disapprove">Prekini</string>
   <string name="conversation_quick_button_received">Prejeto</string>
@@ -383,7 +383,7 @@
   <string name="dialog_insufficient_space_on_internal">Ni dovolj prostora na notranjem pomnilniku.</string>
   <string name="dialog_system_auto_sync_account_no_open">Sinhronizacija računa je izključena. E-pošta se ne more sinhronizirati</string>
   <string name="dialog_system_auto_sync_master_no_open">Sinhronizacija sistema je izključena. E-pošta se ne more sinhronizirati</string>
-  <string name="disable_admin_warning">Opozorilo: Z deaktivacijo pooblastil aplikacije E-pošta za upravljanje z napravo bodo izbrisani vsi računi e-pošte ki to zahtevajo, kot tudi e-pošta, stiki, dogodki koledarja itd.</string>
+  <string name="disable_admin_warning">Opozorilo: Z deaktivacijo pooblastil aplikacije E-pošta za urejanje z napravo bodo izbrisani vsi računi e-pošte ki to zahtevajo, kot tudi e-pošta, stiki, dogodki koledarja itd.</string>
   <string name="discard">Opusti</string>
   <string name="discard_drafts">Opusti osnutke</string>
   <string name="dismiss_tip_hover_text">Opusti nasvete</string>
@@ -679,7 +679,7 @@
   <string name="mi_sync_erroe_toast_other">"Napaka strežnika: "</string>
   <string name="mibill_privacy_policy_button1">Kasneje</string>
   <string name="mibill_privacy_policy_button2">Strinjam se</string>
-  <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
+  <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in urejanje z vašimi računi samodejno. To opravilo je privzeto izključeno za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo tega opravila se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji uporabe&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
   <string name="more_context">Več</string>

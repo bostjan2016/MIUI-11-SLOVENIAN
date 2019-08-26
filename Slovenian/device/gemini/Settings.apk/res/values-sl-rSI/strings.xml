@@ -303,7 +303,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="application_size_label">Aplikacija</string>
   <string name="applications_settings">Aplikacije</string>
   <string name="applications_settings_header">Nastavitve aplikacij</string>
-  <string name="applications_settings_summary">Upravljanje aplikacij, nastavljanje bližnjic za hiter zagon</string>
+  <string name="applications_settings_summary">Urejanje aplikacij, nastavljanje bližnjic za hiter zagon</string>
   <string name="apply_fingerprint_to_category_title">Uporabi prstni odtis za…</string>
   <string name="apply_now_button_text">Posodobi</string>
   <string name="apply_password_to_category_title">Potebno geslo</string>
@@ -772,7 +772,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="cached">Predpomnjeni procesi v ozadju</string>
   <string name="calendar_sound_dialog_title">Izberite zvok koledarja</string>
   <string name="calendar_sound_title">Zvok koledarja</string>
-  <string name="call_manager_enable_summary">Omogoči tej storitvi upravljanje načina izvajanja klicev.</string>
+  <string name="call_manager_enable_summary">Omogoči tej storitvi urejanje načina izvajanja klicev.</string>
   <string name="call_manager_enable_title">Omogočanje Upravitelja klicev</string>
   <string name="call_manager_title">Upravitelj klicev</string>
   <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v privzetem prostoru</string>
@@ -1535,7 +1535,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="fingerprint_list_title">Prstni odtis</string>
   <string name="fingerprint_lock_first">Odkleni Prvi prostor</string>
   <string name="fingerprint_lock_second">Odkleni Drugi prostor</string>
-  <string name="fingerprint_manage">Upravljaj s Prstnimi odtisi</string>
+  <string name="fingerprint_manage">Urejaj prstne odtise</string>
   <string name="fingerprint_manage_category_title">Urejanje prst. odtisov</string>
   <string name="fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa. Vnesite svoje geslo"</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
@@ -2161,7 +2161,7 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="manage_condition_providers_summary_zero">Nobena aplikacija ne zagotavlja pogojev</string>
   <string name="manage_device_admin">Skrbniki naprav</string>
   <string name="manage_device_admin_summary">Ogled ali izklop skrbnikov naprave</string>
-  <string name="manage_fingerprint_text">Upravljaj s prstnimi odtisi</string>
+  <string name="manage_fingerprint_text">Urejaj prstne odtise</string>
   <string name="manage_mobile_plan_title">Naročniški paket za mobilno napravo</string>
   <string name="manage_notification_access">Dostop do obvestil</string>
   <string name="manage_notification_access_summary_zero">Aplikacije ne morejo brati obvestil</string>
@@ -2443,9 +2443,9 @@ Na tej napravi je več uporabnikov.
   <string name="network_operators_settings">Omrežni operaterji</string>
   <string name="network_reset_not_available">Ponastavitev omrežnih nastavitev ni na voljo za tega uporabnika</string>
   <string name="network_restrictions">Omejitve omrežja</string>
-  <string name="network_scorer_change_active_dialog_text">Želite za upravljanje omrežnih povezav namesto aplikacije %2$s uporabljati aplikacijo %1$s?</string>
+  <string name="network_scorer_change_active_dialog_text">Želite za urejanje omrežnih povezav namesto aplikacije %2$s uporabljati aplikacijo %1$s?</string>
   <string name="network_scorer_change_active_dialog_title">Želite zamenjati Pomočnika za Wi‑Fi?</string>
-  <string name="network_scorer_change_active_no_previous_dialog_text">Želite za upravljanje omrežnih povezav uporabljati aplikacijo %s?</string>
+  <string name="network_scorer_change_active_no_previous_dialog_text">Želite za urejanje omrežnih povezav uporabljati aplikacijo %s?</string>
   <string name="network_settings_title">Mobilna omrežja</string>
   <string name="network_state_label">Stanje omrežja:</string>
   <string name="networkid_label">Omrežni ID:</string>
@@ -2768,7 +2768,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_permission_settings_title">Nastavitve/Dovoljenja/Dovoljenja</string>
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
   <string name="path_power_checker">Nastavitve/Dodatne nastavitve/Beta opravila/Kontrola energije</string>
-  <string name="path_power_hide_mode_title">Nastavitve/Baterija/Upravljanje porabe baterije aplikacij</string>
+  <string name="path_power_hide_mode_title">Nastavitve/Baterija/Urejanje porabe baterije aplikacij</string>
   <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; performanse/Nastavitve energije</string>
   <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta opravila/Varčevanje baterije</string>
   <string name="path_pref_volume_wake_title">Nastavitve/Zakl. zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
@@ -2902,7 +2902,7 @@ Na tej napravi je več uporabnikov.
   <string name="power_discharging_duration_short">%1$s - %2$s left</string>
   <string name="power_flashlight">Svetilka</string>
   <string name="power_hide_mode_summary">"Prihranite baterijo z omejevanjem procesov v ozadju, WiFi-ja, mobilne podatkovne povezave in uporabo GPS-a"</string>
-  <string name="power_hide_mode_title">Upravljanje z uporabo baterije aplikacij</string>
+  <string name="power_hide_mode_title">Urejanje z uporabo baterije aplikacij</string>
   <string name="power_idle">Telefon je nedejaven</string>
   <string name="power_mgr">Baterija</string>
   <string name="power_mode">Nastavitve porabe</string>
@@ -3121,7 +3121,7 @@ Na tej napravi je več uporabnikov.
   <string name="radioInfo_service_off">Radio je izklopljen</string>
   <string name="radioInfo_service_out">Ne deluje</string>
   <string name="radioInfo_unknown">neznano</string>
-  <string name="radio_controls_summary">Upravljanje WiFi-ja, Bluetootha, načina za letalo, mobilnih omrežij in omrežij VPN</string>
+  <string name="radio_controls_summary">Urejanje WiFi-ja, Bluetootha, načina za letalo, mobilnih omrežij in omrežij VPN</string>
   <string name="radio_controls_title">Druga omrežja</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
   <string name="radio_info_band_mode_label">Izberite radijsko pasovno širino</string>
@@ -3511,7 +3511,7 @@ Uporaba pripenjanja:
   <string name="search_permission_settings_title">Dovoljenja aplikacij</string>
   <string name="search_pointer_speed">Hitrost kazalca</string>
   <string name="search_power_checker">Kontrola energije</string>
-  <string name="search_power_hide_mode_title">Upravljanje z uporabo baterije aplikacij</string>
+  <string name="search_power_hide_mode_title">Urejanje z uporabo baterije aplikacij</string>
   <string name="search_power_mode">Nastavitve energije</string>
   <string name="search_power_optimize">Varčevanje baterije</string>
   <string name="search_pref_volume_wake_title">Prebudi z tipkami za glasnost</string>
@@ -3917,7 +3917,7 @@ Skrbnik lahko nadzira vašo dejavnost v omrežju, vključno z e-pošto, aplikaci
   <string name="status_bar_settings_app_notification_preferences">Nastavitve aplikacije</string>
   <string name="status_bar_settings_basic_settings">Osnovne nastavitve</string>
   <string name="status_bar_settings_custom_carrier">Uredi ime ponudnika storitev</string>
-  <string name="status_bar_settings_custom_notification">Upravljanje obvestil</string>
+  <string name="status_bar_settings_custom_notification">Urejanje obvestil</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
   <string name="status_bar_settings_enable_notification">Prikaži obvestila</string>
   <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu</string>
@@ -4196,7 +4196,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
   <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
-  <string name="tether_devices_management_title">Upravljanje naprav</string>
+  <string name="tether_devices_management_title">Urejanje naprav</string>
   <string name="tether_settings_disabled">Osebni Hotspot je izključen</string>
   <string name="tether_settings_disabled_on_data_saver">Ne morem deliti povezave ali uporabljati prenosni hotspot dokler je Varčevanje podatkov vključeno</string>
   <string name="tether_settings_launch_title">Mobilni hotspot</string>
@@ -4630,7 +4630,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="voice_input_output_settings_title">Nastavitve glasovnega vnosa in izhoda</string>
   <string name="voice_input_settings">Nastavitve glasovnega vnosa</string>
   <string name="voice_input_settings_title">Glasovni vnos</string>
-  <string name="voice_interaction_security_warning">Storitev glasovnega vnosa bo lahko izvajala stalno vklopljeno nadziranje glasu in v vašem imenu urejala aplikacije ki omogočajo glasovno upravljanje. Storitev izvira iz aplikacije %s. Želite omogočiti njeno uporabo?</string>
+  <string name="voice_interaction_security_warning">Storitev glasovnega vnosa bo lahko izvajala stalno vklopljeno nadziranje glasu in v vašem imenu urejala aplikacije ki omogočajo glasovno urejanje. Storitev izvira iz aplikacije %s. Želite omogočiti njeno uporabo?</string>
   <string name="voice_interactor_preference_summary">Polna uporaba sprožilnih besed in govora</string>
   <string name="voice_over_lte">Glas preko LTE</string>
   <string name="voice_recognizer_preference_summary">Pretvorba preprostega govora v besedilo</string>
@@ -4779,7 +4779,7 @@ WiFi Assistant"</string>
   <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vzpostavi povezavo z odprtimi omrežji visoke kakovosti</string>
   <string name="wifi_automatically_connect_title">Samodejno uporabi odprto omrežje WiFi</string>
   <string name="wifi_automatically_manage_summary">Naj %1$s upravlja povezavo z omrežjem WiFi</string>
-  <string name="wifi_automatically_manage_title">Samodejno upravljanje WiFi-ja</string>
+  <string name="wifi_automatically_manage_title">Samodejno urejanje WiFi-ja</string>
   <string name="wifi_available_title">Poveži z WiFi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Uporaba samo omrežij z dobro spletno povezavo</string>
   <string name="wifi_band_24ghz">2.4 GHz</string>

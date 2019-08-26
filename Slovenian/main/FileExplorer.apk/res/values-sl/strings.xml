@@ -316,7 +316,7 @@
   <string name="found_usb">USB pomnilnik povezan</string>
   <string name="ftp_account_req_notice">4-16 znakov, črk in številk, male in velike črke</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
-  <string name="ftp_anonymous_warning_msg">Funkcije anonimizacije lahko predstavljajo varnostno tveganje. Vseeno uporabim?</string>
+  <string name="ftp_anonymous_warning_msg">Storitve anonimizacije lahko predstavljajo varnostno tveganje. Vseeno uporabim?</string>
   <string name="ftp_anonymous_warning_title">Pozor</string>
   <string name="ftp_invalid_username_or_password">Nepravilno uporabniško ime ali geslo.</string>
   <string name="ftp_open_port_error">"Napaka pri odpiranju vrat: preverite vašo povezavo ali ponastavite številko vrat."</string>
@@ -491,7 +491,7 @@
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Ni mogoče premestiti</string>
   <string name="move_failed_retry">"Ne morem izrezati, poskusite ponovno čez %1$s"</string>
-  <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše upravljanje datotek.</string>
+  <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše urejanje datotek.</string>
   <string name="move_icon_to_desktop_success">Zdaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
   <string name="move_to">Premesti v…</string>
   <string name="msg_notify_setting">Nastavitve obvestil</string>
@@ -682,7 +682,7 @@
   <string name="path_hot_sticker">Popularne nalepke</string>
   <string name="path_hot_video">Preglejte popularne kratke videoposnetke zastonj</string>
   <string name="path_kuai_chuan">Peer-to-peer prenos datotek</string>
-  <string name="path_recent_file">Upravljaj z datotekami na napravi</string>
+  <string name="path_recent_file">Urejaj datoteke v napravi</string>
   <string name="permission_denial">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah."</string>
   <string name="permission_required">"Ne morem dostopiti do datotek. Dovolite aplikaciji Raziskovalec dostop do datotek v nastavitvah.​"</string>
   <string name="partial_repair_done">Nekatere datoteke so uspešno obnovljene</string>
@@ -1175,7 +1175,7 @@
   <string name="video_upload_retry_confirm">Poskusite ponovno</string>
   <string name="video_upload_retry_message">"Ne morem naložiti, poskusim spet?"</string>
   <string name="video_upload_retry_title">Poskusi spet</string>
-  <string name="video_upload_title">Izaberite video</string>
+  <string name="video_upload_title">Izberite video</string>
   <string name="video_upload_wechat_hint">Naložite WeChat videoposnetke da dobite več oboževalcev.</string>
   <string name="video_uploaded">Naloženo</string>
   <string name="view_master_rank">Prikaži Youliao top</string>

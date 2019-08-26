@@ -36,6 +36,7 @@
   <string name="agenda_settings_loan">Pokaži plačila kreditov</string>
   <string name="alipay_init">Zagon Alipay storitve…</string>
   <string name="alipay_init_success">Alipay storitev je zagnana​</string>
+  <string name="all_function_title">Vse bližnjice</string>
   <string name="announce_for_drag">Poteg ene stvari</string>
   <string name="app_label">Asistent</string>
   <string name="app_setting">Nastavitve</string>
@@ -60,6 +61,7 @@
   <string name="ball_dialog_tip">Ne kaži več</string>
   <string name="ball_dialog_title">Najprej namestite aplikacijo.</string>
   <string name="ball_hupu">HuPu Sport</string>
+  <string name="battery_history">Baterija</string>
   <string name="beijing">Peking</string>
   <string name="bicycle">Kolo</string>
   <string name="calc_currency">Valuta</string>
@@ -210,7 +212,7 @@
   <string name="fav_search_nodata_tip">Ne morem najti rezultatov</string>
   <string name="fav_share_fail">"Ni bilo možno deliti. V priljubljene lahko dodate le URL-je."</string>
   <string name="fav_success">Uspešno dodano med priljubljene</string>
-  <string name="fav_support_introduce">Upravljanje priljubljenih za posamične aplikacije</string>
+  <string name="fav_support_introduce">Urejanje priljubljenih za posamične aplikacije</string>
   <string name="fav_support_label">Priljubljeni za aplikacije</string>
   <string name="fav_support_more">Vse podprte aplikacije</string>
   <string name="fav_support_not_title">"Priljubljeni se ne bojo pojavili na seznamu"</string>

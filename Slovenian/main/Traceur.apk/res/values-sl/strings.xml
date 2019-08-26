@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Deljenje z</string>
     <string name="abc_shareactionprovider_share_with_application">Deljenje z drugimi prek aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Strni</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna storitev in lahko vpliva na učinkovitost delovanja.</string>
     <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
     <string name="accessibility_manual_zen_less_time">Krajši čas.</string>
     <string name="accessibility_manual_zen_more_time">Daljši čas.</string>
@@ -164,7 +164,7 @@ Izbor"</string>
     <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
     <string name="clear_saved_traces">Izbriši shranjene sledi</string>
     <string name="clear_saved_traces_question">Želite izbrisati shranjene sledi?</string>
-    <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, funkcije za zaščito naprave v tej napravi ne bodo delovale.</string>
+    <string name="confirm_enable_oem_unlock_text">OPOZORILO: Ko je vklopljena ta nastavitev, storitve za zaščito naprave v tej napravi ne bodo delovale.</string>
     <string name="confirm_enable_oem_unlock_title">Želite omogočiti odklepanje OEM?</string>
     <string name="connected_via_carrier">Vzpostavljena povezava prek: %1$s</string>
     <string name="connected_via_network_scorer">Samodejno vzpostavljena povezava prek: %1$s</string>
@@ -173,7 +173,7 @@ Izbor"</string>
     <string name="content_description_menu_button">Meni</string>
     <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  !!Opozorilo!! S tem bodo izbrisani vsi podatki.
- Ta funkcija je različice alfa, zato morda ne bo delovala pravilno.
+ Ta storitev je različice alfa, zato morda ne bo delovala pravilno.
  Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
     <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
     <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>

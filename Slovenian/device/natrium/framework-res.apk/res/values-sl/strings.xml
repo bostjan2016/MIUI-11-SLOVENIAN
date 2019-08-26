@@ -758,7 +758,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju WiFi z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
   <string name="permdesc_changeWifiState">Aplikaciji omogoča da vzpostavi povezavo z dostopnimi točkami WiFi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WiFi.</string>
   <string name="permdesc_changeWimaxState">Aplikaciji omogoča da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
-  <string name="permdesc_connection_manager">Aplikaciji omogoča upravljanje telekomunikacijskih povezav.</string>
+  <string name="permdesc_connection_manager">Aplikaciji omogoča urejanje telekomunikacijskih povezav.</string>
   <string name="permdesc_control_incall_experience">Aplikaciji omogoča zagotavljanje uporabniške izkušnje med klicem.</string>
   <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in drugi programi omogočajo pošiljanje podatkov v omrežje, zato to dovoljenje ni potrebno za pošiljanje podatkov na splet.</string>
   <string name="permdesc_disableKeyguard">Aplikaciji dovoljuje da onemogoči zaklep tipkovnice in morebitno povezano varnostno geslo. Telefonu na primer onemogoči zaklep tipkovnice pri dohodnem klicu ter vnovič omogoči zaklep ko je klic končan.</string>
@@ -773,7 +773,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_invokeCarrierSetup">Lastniku omogoča sproženje operaterjeve aplikacije za konfiguracijo. Tega nikoli ni treba uporabiti za navadne aplikacije.</string>
   <string name="permdesc_killBackgroundProcesses">Aplikaciji omogoča da konča procese v ozadju drugih aplikacij. S tem lahko druge aplikacije nehajo delovati.</string>
   <string name="permdesc_manageFingerprint">Aplikaciji omogoča sprožanje načinov za dodajanje in brisanje predlog s prstnimi odtisi za uporabo.</string>
-  <string name="permdesc_manageNetworkPolicy">Aplikaciji omogoča upravljanje pravilnikov o omrežju in določanje pravil za aplikacije.</string>
+  <string name="permdesc_manageNetworkPolicy">Aplikaciji omogoča urejanje pravilnikov o omrežju in določanje pravil za aplikacije.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Dovoli aplikacijam da nastavijo lastnike profilov in lastnika naprave.</string>
   <string name="permdesc_modifyAudioSettings">Aplikaciji omogoča spremembo globalnih nastavitev zvoka, npr. glasnosti in zvočnika ki se uporablja za izhod.</string>
   <string name="permdesc_modifyNetworkAccounting">Aplikaciji omogoča da spremeni uporabo omrežja na podlagi aplikacij. Ni za uporabo z navadnimi aplikacijami.</string>
@@ -798,7 +798,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_recordAudio">Aplikaciji omogoča snemanje zvoka z mikrofonom. S tem dovoljenjem lahko aplikacija kadar koli snema zvok brez vaše potrditve.</string>
   <string name="permdesc_register_call_provider">Aplikaciji omogoča registriranje novih telekomunikacijskih povezav.</string>
   <string name="permdesc_register_sim_subscription">Aplikaciji omogoča registriranje novih telekomunikacijskih povezav s kartico SIM.</string>
-  <string name="permdesc_removeDrmCertificates">Aplikaciji omogoča odstranjevanje potrdil za upravljanje digitalnih pravic. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
+  <string name="permdesc_removeDrmCertificates">Aplikaciji omogoča odstranjevanje potrdil za urejanje digitalnih pravic. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_reorderTasks">Aplikaciji omogoča premikanje opravil v ospredje in ozadje. Aplikacija lahko to naredi brez vašega nadzora.</string>
   <string name="permdesc_requestInstallPackages">Aplikaciji omogoča zahtevanje namestitve paketov.</string>
   <string name="permdesc_route_media_output">Aplikaciji omogoča preusmerjanje predstavnosti v druge zunanje naprave.</string>
@@ -851,7 +851,7 @@ Znova poskusite čez %d s."</string>
   <string name="permission_request_notification_with_subtitle">"Zahtevano je dovoljenje
  za račun %s."</string>
   <string name="permlab_accessCoarseLocation">približna lokacija (na podlagi omrežja)</string>
-  <string name="permlab_accessDrmCertificates">dostop do potrdil za upravljanje digitalnih pravic</string>
+  <string name="permlab_accessDrmCertificates">dostop do potrdil za urejanje digitalnih pravic</string>
   <string name="permlab_accessFineLocation">natančna lokacija (na podlagi podatkov GPS in omrežja)</string>
   <string name="permlab_accessImsCallService">dostop do storitve za klicanje IMS</string>
   <string name="permlab_accessLocationExtraCommands">dostopanje do dodatnih ukazov ponudnika lokacij</string>
@@ -880,7 +880,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_changeWifiMulticastState">dovoljevanje sprejema večvrstnega brezžičnega oddajanja</string>
   <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem WiFi in prekinitev povezave z njim</string>
   <string name="permlab_changeWimaxState">Sprememba stanja omrežja WiMAX</string>
-  <string name="permlab_connection_manager">upravljanje telekomunikacijskih povezav</string>
+  <string name="permlab_connection_manager">urejanje telekomunikacijskih povezav</string>
   <string name="permlab_control_incall_experience">dajanje uporabniške izkušnje med klicem</string>
   <string name="permlab_createNetworkSockets">poln dostop do omrežja</string>
   <string name="permlab_disableKeyguard">onemogočanje zaklepanja zaslona</string>
@@ -894,9 +894,9 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_install_shortcut">nameščanje bližnjic</string>
   <string name="permlab_invokeCarrierSetup">sprožitev operaterjeve aplikacije za konfiguracijo</string>
   <string name="permlab_killBackgroundProcesses">zapiranje drugih aplikacij</string>
-  <string name="permlab_manageFingerprint">upravljanje strojne opreme za prstne odtise</string>
-  <string name="permlab_manageNetworkPolicy">upravljanje pravilnika o omrežju</string>
-  <string name="permlab_manageProfileAndDeviceOwners">Upravljanje lastnikov profilov in lastnika naprave.</string>
+  <string name="permlab_manageFingerprint">urejanje strojne opreme za prstne odtise</string>
+  <string name="permlab_manageNetworkPolicy">urejanje pravilnika o omrežju</string>
+  <string name="permlab_manageProfileAndDeviceOwners">Urejanje lastnikov profilov in lastnika naprave.</string>
   <string name="permlab_modifyAudioSettings">spreminjanje nastavitev zvoka</string>
   <string name="permlab_modifyNetworkAccounting">spremeni obračunavanje uporabe omrežja</string>
   <string name="permlab_nfc">nadzor nad komunikacijo s tehnologijo NFC</string>
@@ -920,7 +920,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_recordAudio">snemanje zvoka</string>
   <string name="permlab_register_call_provider">registriranje novih telekomunikacijskih povezav</string>
   <string name="permlab_register_sim_subscription">registriranje novih telekomunikacijskih povezav s kartico SIM</string>
-  <string name="permlab_removeDrmCertificates">odstranjevanje potrdil za upravljanje digitalnih pravic</string>
+  <string name="permlab_removeDrmCertificates">odstranjevanje potrdil za urejanje digitalnih pravic</string>
   <string name="permlab_reorderTasks">preurejanje aplikacij ki se izvajajo</string>
   <string name="permlab_requestInstallPackages">Zahtevanje paketov za namestitev</string>
   <string name="permlab_route_media_output">Preusmeritev predstavnosti</string>

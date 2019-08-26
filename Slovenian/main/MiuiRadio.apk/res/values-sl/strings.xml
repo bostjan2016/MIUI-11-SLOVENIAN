@@ -84,7 +84,7 @@
   <string name="ok">V redu</string>
   <string name="one_subscription_title">%1$s posodobljeno</string>
   <string name="play_local_sound">Radio igra lokalni zvok: %1$s</string>
-  <string name="play_quality_toast">Izaberite kvaliteto predvajanja</string>
+  <string name="play_quality_toast">Izberite kvaliteto predvajanja</string>
   <string name="presonal_center">Nastavitve računa</string>
   <string name="priority_storage">Uporabi zunanji pomnilnik</string>
   <string name="priority_storage_summary">Samodejno prenesi na zunanji pomnilnik če obstaja</string>

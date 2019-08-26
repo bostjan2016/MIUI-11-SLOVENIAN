@@ -11,7 +11,7 @@
   <string name="active_week_distance">Skupna oddaljenost</string>
   <string name="active_week_duration">Povp. aktivnost</string>
   <string name="add">Dodaj</string>
-  <string name="add_alert_app">Upravljaj aplikacije</string>
+  <string name="add_alert_app">Urejaj aplikacije</string>
   <string name="add_family_member">Dodaj člana družine za spremljanje njegovih podatkov o teži</string>
   <string name="add_family_name_title">Dodaj novega člana</string>
   <string name="add_family_nickname_hint">"Vnesite nadimek člana družine"</string>
@@ -312,7 +312,7 @@ Naslov: %2$s"</string>
   <string name="download_failed">"Ne morem prenesti posodobitve"</string>
   <string name="dynamic_title_weight_not_nearby">"Ne morem najti tehtnice"</string>
   <string name="edit">Uredi</string>
-  <string name="edit_app">Upravljanje aplikacij</string>
+  <string name="edit_app">Urejanje aplikacij</string>
   <string name="email_alert">E-pošta</string>
   <string name="enable_app_alert">Vključi obvestila aplikacij</string>
   <string name="enable_broadcast">Vključi način dela odkrivanja</string>
@@ -335,7 +335,7 @@ Naslov: %2$s"</string>
   <string name="exit">Odjava</string>
   <string name="exit_app">Odjava</string>
   <string name="family_info_key_nickname">Vzdevek</string>
-  <string name="family_manager">Upravljaj s člani</string>
+  <string name="family_manager">Urejaj člane</string>
   <string name="family_member">Družinski člani</string>
   <string name="feedback_abandon">Zavrni</string>
   <string name="feedback_checkoutbox_msg">(Pomagajte nam ugotoviti težavo)</string>

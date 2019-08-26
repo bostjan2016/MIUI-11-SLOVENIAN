@@ -190,8 +190,8 @@ Napaka: %1$s"</string>
   <string name="local_discovery_off_message">Povežite se z WiFi omrežjem da ga vključite</string>
   <string name="local_printer_display_name_format">(lokalni) %s</string>
   <string name="long_desc_virtual_print_queue_feature">Lahko shranite dokumente da jih lahko kasneje tiskate s pomočjo mobilne naprave. Če vključite iskanje s pomočjo Bluetootha, enostavno dostopate do tiskalnika b bližini.</string>
-  <string name="manage_accounts">Upravljanje z računi</string>
-  <string name="manage_acl_permission">Upravljanje z dozvoljenji</string>
+  <string name="manage_accounts">Urejanje z računi</string>
+  <string name="manage_acl_permission">Urejanje z dozvoljenji</string>
   <string name="menu_hint_search_printers">Poišči tiskalnike</string>
   <string name="no_accounts_message">Za uporabo Cloud Print, morate napravi dodati Google račun</string>
   <string name="no_devices_to_add">Ni tiskalnikov za dodajanje</string>
@@ -228,7 +228,7 @@ Napaka: %1$s"</string>
   <string name="pref_category_features">Opravila</string>
   <string name="pref_category_features_settings_key">pref_category_features_settings_key</string>
   <string name="pref_category_general_settings_key">pref_category_general_settings_key</string>
-  <string name="pref_category_manage">Upravljanje</string>
+  <string name="pref_category_manage">Urejanje</string>
   <string name="pref_category_manage_settings_key">pref_category_manage_settings_key</string>
   <string name="pref_category_options">Možnosti</string>
   <string name="pref_category_settings">Nastavitve</string>
@@ -331,8 +331,8 @@ Napaka: %1$s"</string>
   <string name="text_learn_more">&lt;a href=\"http://goto.google.com/on-the-go\"&gt;Izvedite več&lt;/a&gt;</string>
   <string name="title_add_printer">Dodaj tiskalnik</string>
   <string name="title_invitations">Povabilo</string>
-  <string name="title_manage_printer">Upravljanje s tiskalnikom</string>
-  <string name="title_manage_printers">Upravljanje s tiskalniki</string>
+  <string name="title_manage_printer">Urejanje s tiskalnikom</string>
+  <string name="title_manage_printers">Urejanje s tiskalniki</string>
   <string name="title_print_jobs">Naloge tiska</string>
   <string name="title_print_preview">Pregled izpisov</string>
   <string name="title_printers">Tiskalniki</string>

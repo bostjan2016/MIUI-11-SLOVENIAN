@@ -600,7 +600,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="search_logout_account_path">Nastavitve/Mi Račun</string>
   <string name="search_mi_account">Mi Račun</string>
   <string name="search_mi_account_desc">Mi Račun</string>
-  <string name="search_mi_account_key_words">Mi Račun,Prijava,izdelaj račun,Mi Cloud,Mi Krediti,Mi Wallet,Mi Pass,Mi Insurance,Nastavitve računa,Upravljanje računa</string>
+  <string name="search_mi_account_key_words">Mi Račun,Prijava,izdelaj račun,Mi Cloud,Mi Krediti,Mi Wallet,Mi Pass,Mi Insurance,Nastavitve računa,Urejanje računa</string>
   <string name="search_mi_account_path">Nastavitve/Mi Račun</string>
   <string name="search_user_detail">Osebne informacije</string>
   <string name="search_user_detail_bottom_key_words">Zamenjaj Telefon,Zamenjaj E-pošto,Spremeni dohodek,Spremeni izobrazbo,Spremeni lokacijo,Spremeni regijo</string>
@@ -613,7 +613,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="security_question_notice_title">Poveži Telefon</string>
   <string name="security_question_prompt">"Varnostna vprašanja vam pomagajo kadar zamenjate ali izbrišete geslo.
  Poskrbite da boste vedeli odgovore!"</string>
-  <string name="select_location_title">Izaberite vašo lokacijo</string>
+  <string name="select_location_title">Izberite vašo lokacijo</string>
   <string name="select_all">Izberi vse</string>
   <string name="send_diagnosis_log">Pošlji dnevnik pregleda</string>
   <string name="send_email_activate_message">E-pošta za preverbo poslana</string>

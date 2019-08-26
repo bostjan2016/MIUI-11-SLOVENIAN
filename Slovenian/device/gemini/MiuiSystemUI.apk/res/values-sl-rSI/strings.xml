@@ -257,7 +257,7 @@
   <string name="enable_webview_multiprocess_desc">Izvajanje upodabljalnikov za WebView ločeno</string>
   <string name="enabled_by_admin">Omogočil skrbnik</string>
   <string name="expanded_confirm_disable_notification">Skrij</string>
-  <string name="expanded_notification_manager">Upravljaj z obvestili</string>
+  <string name="expanded_notification_manager">Urejaj obvestila</string>
   <string name="ext_media_badremoval_notification_message">"USB shrambo izključite na varen način pred odstranitvijo da ne izgubite podatke."</string>
   <string name="ext_media_badremoval_notification_title">"USB shramba je nepričakovano odstranjena"</string>
   <string name="ext_media_checking_notification_message">"Iskanje napak."</string>
@@ -569,7 +569,7 @@ Povlecite navzdol za zaklepanje"</string>
   <string name="user_guest">Gost</string>
   <string name="user_guide_for_notification">Podrsajte navzdol z enim prstom za prikaz plošče obvestil</string>
   <string name="user_guide_for_toggle">Spisek bližnjic je mogoče premikati vodoravno</string>
-  <string name="user_guide_for_toggle_list">Upravljaj bližnjice</string>
+  <string name="user_guide_for_toggle_list">Urejaj bližnjice</string>
   <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
   <string name="verify_apps_over_usb_title">Preveri aplikacije prek USB</string>
   <string name="vpn_settings_not_available">Nastavitve VPN niso na voljo za tega uporabnika</string>

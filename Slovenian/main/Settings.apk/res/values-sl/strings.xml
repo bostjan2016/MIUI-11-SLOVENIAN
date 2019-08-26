@@ -114,7 +114,7 @@
     <string name="accessibility_long_press_timeout_preference_title">Časovni zam. za dotik in pridržanje</string>
     <string name="accessibility_manual_zen_less_time">Krajši čas.</string>
     <string name="accessibility_manual_zen_more_time">Daljši čas.</string>
-  <string name="accessibility_menu_description">"Meni dostopnosti ponuja bližnjice ki vam omogočajo upravljanje naprave.
+  <string name="accessibility_menu_description">"Meni dostopnosti ponuja bližnjice ki vam omogočajo urejanje naprave.
 
 Vključite to storitev in tapnite gumb dostopnost na dnu zaslona da boste odprli meni."</string>
   <string name="accessibility_menu_item_settings">Nastavitve</string>
@@ -130,7 +130,7 @@ Vključite to storitev in tapnite gumb dostopnost na dnu zaslona da boste odprli
     <string name="accessibility_preference_magnification_summary">Povečava zaslona</string>
   <string name="accessibility_screen_magnification_enable">Gibi povečanja</string>
   <string name="accessibility_screen_magnification_gestures_title">Če želite povečati, se trikrat dotaknite</string>
-  <string name="accessibility_screen_magnification_navbar_configuration_warning">Gumb Dostopnost je nastavljen na %1$s. Da uporabite povečanje, tapnite in držite gumb Dostopnost in nato izaberite povečanje.</string>
+  <string name="accessibility_screen_magnification_navbar_configuration_warning">Gumb Dostopnost je nastavljen na %1$s. Da uporabite povečanje, tapnite in držite gumb Dostopnost in nato izberite povečanje.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">Če želite povečati, se dotaknite gumba</string>
     <string name="accessibility_screen_magnification_navbar_summary">"Ko je povečava vklopljena, za hitro povečevanje uporabite gumb Dostopnost na dnu zaslona.
 
@@ -546,7 +546,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="application_size_label">Velikost aplikacije</string>
   <string name="applications_settings">Urejaj aplikacije</string>
   <string name="applications_settings_header">Nastavitve aplikacij</string>
-  <string name="applications_settings_summary">Upravljanje aplikacij, nastavljanje bližnjic za hiter zagon</string>
+  <string name="applications_settings_summary">Urejanje aplikacij, nastavljanje bližnjic za hiter zagon</string>
   <string name="applications_settings_title">Aplikacije</string>
     <string name="apply">Uporabi</string>
   <string name="apply_fingerprint_to_category_title">Uporabi prstni odtis za…</string>
@@ -797,7 +797,7 @@ nastavitev in aplikacij"</string>
     <string name="battery_detail_background">Med izvajanjem v ozadju</string>
     <string name="battery_detail_foreground">Med aktivno uporabo</string>
     <string name="battery_detail_info_title">Od polne napolnjenosti akumulatorja</string>
-    <string name="battery_detail_manage_title">Upravljanje porabe akumulatorja</string>
+    <string name="battery_detail_manage_title">Urejanje porabe akumulatorja</string>
     <string name="battery_detail_power_percentage">%1$s od skupne porabe aplikacij (%2$d mAh)</string>
     <string name="battery_detail_power_usage">Poraba akumulatorja</string>
     <string name="battery_detail_since_full_charge">Razčlenitev od zadnje napolnjenosti akumulatorja</string>
@@ -863,7 +863,7 @@ nastavitev in aplikacij"</string>
     <string name="battery_overall_usage">%1$s celotne porabe akumulatorja</string>
     <string name="battery_percentage">Odstotek napolnjenosti akumulatorja</string>
     <string name="battery_percentage_description">Pokaži odstotek napolnjenosti akumulatorja v vrstici stanja</string>
-    <string name="battery_power_management">Upravljanje napajanja</string>
+    <string name="battery_power_management">Urejanje napajanja</string>
     <string name="battery_saver">Varčevanje baterije</string>
     <string name="battery_saver_auto_title">Samodejni vklop</string>
     <string name="battery_saver_button_turn_off">Izklopi zdaj</string>
@@ -1412,7 +1412,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="calendar_sound_dialog_title">Izberite zvok koledarja</string>
   <string name="calendar_sound_title">Zvok koledarja</string>
   <string name="call_and_contact">Klici in  stiki</string>
-  <string name="call_manager_enable_summary">Omogoči tej storitvi upravljanje načina izvajanja klicev.</string>
+  <string name="call_manager_enable_summary">Omogoči tej storitvi urejanje načina izvajanja klicev.</string>
   <string name="call_manager_enable_title">Omogočanje Upravitelja klicev</string>
   <string name="call_manager_title">Upravitelj klicev</string>
   <string name="call_records_name_1">Boštjan REBOLJ</string>
@@ -1514,7 +1514,7 @@ Storitev lahko izključite v nastavitvah"</string>
     <string name="change_theme_reboot">Menjava teme zahteva ponovni zagon.</string>
     <string name="change_wifi_state_app_detail_summary">Tej aplikacij omogočite, da vklopi ali izklopi povezavo , išče omrežja  in se z njimi poveže, doda ali odstrani omrežja ali pa zažene lokalno dostopno točko</string>
     <string name="change_wifi_state_app_detail_switch">Tej aplikaciji omogočite, da upravlja povezavo </string>
-    <string name="change_wifi_state_title">Upravljanje povezave </string>
+    <string name="change_wifi_state_title">Urejanje povezave </string>
     <string name="channel_group_notifications_off_desc">Na vašo zahtevo je prikazovanje te skupine obvestil blokirano v tej napravi Android</string>
     <string name="channel_notifications_off_desc">Na vašo zahtevo je prikazovanje te kategorije obvestil blokirano v tej napravi Android</string>
     <string name="charge_length_format">Pred toliko časa: %1$s</string>
@@ -2982,7 +2982,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gesture_open_camera">Odpri Kamera</string>
   <string name="gesture_open_music">Odpri Glasba</string>
   <string name="gesture_open_wechat">Odpri WeChat</string>
-    <string name="gesture_preference_summary">Hitre poteze za upravljanje telefona</string>
+    <string name="gesture_preference_summary">Hitre poteze za urejanje telefona</string>
     <string name="gesture_preference_title">Gibi</string>
     <string name="gesture_prevent_ringing_screen_title">Preprečevanje zvonjenja</string>
     <string name="gesture_prevent_ringing_sound_title">Bližnjica za preprečevanje zvonjenja</string>
@@ -3313,7 +3313,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keywords_battery">poraba energije, polnjenje</string>
   <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
     <string name="keywords_bluetooth_settings">povezano, naprava, slušalke, slušalke z mikrofonom, zvočnik, brezžično, seznaniti, seznanitev, ušesne slušalke, glasba, predstavnost</string>
-    <string name="keywords_change_wifi_state">wifi, wi-fi, preklop, upravljanje</string>
+    <string name="keywords_change_wifi_state">wifi, wi-fi, preklop, urejanje</string>
   <string name="keywords_color_mode">živo, RGB, sRGB, barva, naravno, standardno</string>
     <string name="keywords_color_temperature">barva, temperatura, D65, D73, bela, rumena, modra topla, hladna</string>
   <string name="keywords_data">4G;3G;Podatki;Mobilni podatki;Mobilni podatki;Promet;Mobilni splet</string>
@@ -3805,9 +3805,9 @@ kot PIN za Prvi prostor"</string>
   <string name="manage_condition_providers_summary_zero">Nobena aplikacija ne zagotavlja pogojev</string>
   <string name="manage_device_admin">Skrbniki naprav</string>
   <string name="manage_device_admin_summary">Ogled ali izklop skrbnikov naprave</string>
-  <string name="manage_facerecoginition_text">Upravljaj z obrazi</string>
+  <string name="manage_facerecoginition_text">Urejaj obraze</string>
   <string name="manage_fakecell_settings">Zaščita pred nepravimi baznimi postajami</string>
-  <string name="manage_fingerprint_text">Upravljaj s prstnimi odtisi</string>
+  <string name="manage_fingerprint_text">Urejaj prstne odtise</string>
   <string name="manage_mobile_plan_title">Naročniški paket za mobilno napravo</string>
   <string name="manage_notification_access">Dostop do obvestil</string>
   <string name="manage_notification_access_summary_zero">Aplikacije ne morejo brati obvestil</string>
@@ -4318,7 +4318,7 @@ Na tej napravi je več uporabnikov.
   <string name="network_operators_settings">Omrežni operaterji</string>
   <string name="network_reset_not_available">Ponastavitev omrežnih nastavitev ni na voljo za tega uporabnika</string>
     <string name="network_restrictions">Omejitve omrežja</string>
-  <string name="network_scorer_change_active_dialog_text">Želite uporabljati aplikacijo %1$s namesto %2$s za upravljanje omrežnih povezav?</string>
+  <string name="network_scorer_change_active_dialog_text">Želite uporabljati aplikacijo %1$s namesto %2$s za urejanje omrežnih povezav?</string>
   <string name="network_scorer_change_active_dialog_title">Želite zamenjati Pomočnika za WiFi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Želite za urejanje omrežnih povezav uporabljati aplikacijo %s?</string>
     <string name="network_scorer_picker_none_preference">Brez</string>
@@ -4899,7 +4899,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="path_permission_settings_title">Nastavitve/Dovoljenja/Dovoljenja</string>
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
   <string name="path_power_checker">Nastavitve/Dodatne nastavitve/Beta opravila/Kontrola energije</string>
-  <string name="path_power_hide_mode_title">Nastavitve/Baterija/Upravljanje porabe baterije aplikacij</string>
+  <string name="path_power_hide_mode_title">Nastavitve/Baterija/Urejanje porabe baterije aplikacij</string>
   <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; performanse/Nastavitve energije</string>
   <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta opravila/Varčevanje baterije</string>
   <string name="path_pref_volume_wake_title">Nastavitve/Zakl. zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
@@ -5443,7 +5443,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="radioInfo_service_off">Radio je izklopljen</string>
   <string name="radioInfo_service_out">Ne deluje</string>
   <string name="radioInfo_unknown">neznano</string>
-    <string name="radio_controls_summary">Upravljajte WiFi, Bluetooth, način za letalo, mobilna omrežja in omrežja VPN</string>
+    <string name="radio_controls_summary">Urejaj WiFi, Bluetooth, način za letalo, mobilna omrežja in omrežja VPN</string>
   <string name="radio_controls_title">Več</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
     <string name="radio_info_band_mode_label">Izbira radijskega območja</string>
@@ -5643,7 +5643,7 @@ Vmesnik UT: %5$s"</string>
     <string name="retail_demo_reset_title">Vnesite geslo</string>
   <string name="retry">Poskusite znova</string>
   <string name="reverse_all">Prekliči izbrano</string>
-  <string name="rgb_manage_facerecoginition_text">Upravljaj podatke 2D obraza</string>
+  <string name="rgb_manage_facerecoginition_text">Urejaj podatke 2D obraza</string>
   <string name="right_function_key">Desna bližnjica</string>
   <string name="ring_volume_option_title">Glasnost zvonenja</string>
   <string name="ring_volume_title">Glasnost zvonenja</string>
@@ -6038,7 +6038,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_permission_settings_title">Dovoljenja aplikacij</string>
   <string name="search_pointer_speed">Hitrost kazalca</string>
   <string name="search_power_checker">Kontrola energije</string>
-  <string name="search_power_hide_mode_title">Upravljanje z uporabo baterije aplikacij;Uporaba baterije aplikacij;Uporaba baterije;Statistika baterije</string>
+  <string name="search_power_hide_mode_title">Urejanje z uporabo baterije aplikacij;Uporaba baterije aplikacij;Uporaba baterije;Statistika baterije</string>
   <string name="search_power_mode">Nastavitve energije;Energija</string>
   <string name="search_power_optimize">Varčevanje baterije;Varčuj baterijo</string>
   <string name="search_power_usage_summary_title">Baterija &amp; zmogljivost;Baterija in zmogljivost;Baterija;zmogljivost;Varčevanje baterije;Prihrani baterijo</string>
@@ -6666,7 +6666,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="status_bar_app_enable_keyguard">Zakl. zaslon</string>
   <string name="status_bar_app_enable_message">Značke</string>
   <string name="status_bar_carrier_settings_no_sim_card">Ni SIM kartice</string>
-  <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
+  <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Urejanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Pregled</string>
   <string name="status_bar_key_position_custom">Zamenjajte položaj tipke</string>
   <string name="status_bar_screen_button_desc">Podrsajte navzdol da skrijete tipke zaslona</string>
@@ -6987,7 +6987,7 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="structure_add_facerecoginition_text">Dodajte 3D obraz</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Ta storitev se ne more uporabiti zaradi slabe baterije"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Baterija mora biti napolnjena najmanj 5% za začetek snemanja.</string>
-  <string name="structure_manage_facerecoginition_text">Upravljaj podatke 3D obraza</string>
+  <string name="structure_manage_facerecoginition_text">Urejaj podatke 3D obraza</string>
   <string name="sub_activate_failed">Aktivacija ni uspela.</string>
   <string name="sub_activate_not_supported">Aktivacija ni podprta</string>
   <string name="sub_activate_success">Uspešno aktivirano.</string>
@@ -8319,7 +8319,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
   <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vzpostavi povezavo z odprtimi omrežji visoke kakovosti</string>
   <string name="wifi_automatically_connect_title">Samodejno uporabi odprto omrežje WiFi</string>
   <string name="wifi_automatically_manage_summary">Naj %1$s upravlja povezavo z omrežjem WiFi</string>
-  <string name="wifi_automatically_manage_title">Samodejno upravljanje WiFi-ja</string>
+  <string name="wifi_automatically_manage_title">Samodejno urejanje WiFi-ja</string>
   <string name="wifi_available_title">Poveži z WiFi</string>
   <string name="wifi_avoid_poor_network_detection_summary">Uporaba samo omrežij z dobro spletno povezavo</string>
   <string name="wifi_badging_thresholds_default">10:3000,20:5000,30:25000</string>

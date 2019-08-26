@@ -9,7 +9,7 @@
   <string name="Dashboard_Perm">Dovoljenja</string>
   <string name="Dashboard_Perm_AutoStart">Samodejno dovoljenje zagona</string>
   <string name="Dashboard_Perm_AutoStart_Desc">Označi katere aplikacije se lahko zaženejo ob zagonu naprave.</string>
-  <string name="Dashboard_Perm_HIPS">Upravljaj dovoljenja</string>
+  <string name="Dashboard_Perm_HIPS">Urejaj dovoljenja</string>
   <string name="Dashboard_Perm_HIPS_Desc">Spremljanje %1$d aplikacij/e</string>
   <string name="Dashboard_Perm_HIPS_Desc2">Opazovanje %1$d aplikacij/e</string>
   <string name="Dashboard_Perm_HIPS_Disabled">Upravljalec dovoljenj je izključen</string>
@@ -18,7 +18,7 @@
   <string name="Dashboard_Perm_HIPS_Switch">Dovoljenja</string>
   <string name="Dashboard_Perm_Header">Opazovanje %1$d aplikacij/e</string>
   <string name="Dashboard_Perm_Header_Disabled">Upravljalec dovoljenj izključen</string>
-  <string name="Dashboard_Perm_SU">Upravljaje z ROOT dovoljenji</string>
+  <string name="Dashboard_Perm_SU">Urejaj ROOT dovoljenja</string>
   <string name="Dashboard_Perm_SU_Desc">Nadzor %1$d aplikacij z ROOT dovoljenjem</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT dovoljenje je izključeno</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT dovoljenje ni na voljo v stabilni različici MIUI</string>

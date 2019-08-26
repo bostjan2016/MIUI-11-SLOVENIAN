@@ -318,7 +318,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="search_result_text">"Ne morem najti nobene aplikacije"</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Prstni odtis za Drugi prostor</string>
-  <string name="second_space_desktop_tips_dialog_message">Po tej posodobitvi ikone za prestavljanje podatkov in upravljanje z Drugim prostorom ne bodo več prikazane na začetnem zaslonu. Do potrebnih opravil boste lahko dostopali v Nastavitvah.</string>
+  <string name="second_space_desktop_tips_dialog_message">Po tej posodobitvi ikone za prestavljanje podatkov in urejanje z Drugim prostorom ne bodo več prikazane na začetnem zaslonu. Do potrebnih opravil boste lahko dostopali v Nastavitvah.</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Razumem</string>
   <string name="second_space_desktop_tips_dialog_title">Pomembna posodobitev</string>
   <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebej uporabljal za vstop v Drugi prostor</string>
@@ -440,7 +440,7 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="transferImage">Fotografije iz Drugega prostora bodo premeščene v album \"Drugi prostor\" v Prvem prostoru</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
-  <string name="undo_activated_dialog_message">"Preklic avtorizacije bo izključil način dela Enterprise in povrnil napravo na tovarniške nastavitve. Vse povezane funkcije ne bodo več na voljo. Razen tega bo Xiaomi prenehal zbirati informacije potrebne za način dela Enterprise (IMEI, ID naprave, verzija sistema, regija itd.). Prekličem avtorizacijo in vrnem napravo na tovarniške nastavitve?"</string>
+  <string name="undo_activated_dialog_message">"Preklic avtorizacije bo izključil način dela Enterprise in povrnil napravo na tovarniške nastavitve. Vse povezane storitve ne bodo več na voljo. Razen tega bo Xiaomi prenehal zbirati informacije potrebne za način dela Enterprise (IMEI, ID naprave, verzija sistema, regija itd.). Prekličem avtorizacijo in vrnem napravo na tovarniške nastavitve?"</string>
   <string name="undo_activated_dialog_ok">Prekliči</string>
   <string name="undo_grant_dialog_message">Xiaomi bo prenehal zbirati informacije potrebne za to storitev (IMEI, ID naprave, verzija sistema, regija itd.) po preklicu avtorizacije. Prekličem zdaj?</string>
   <string name="undo_privacy_menu">Prekliči avtorizacijo</string>

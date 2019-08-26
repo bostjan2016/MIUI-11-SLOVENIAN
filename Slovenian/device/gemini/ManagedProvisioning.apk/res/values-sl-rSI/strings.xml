@@ -92,7 +92,7 @@
   <string name="user_consent_msg">Sprejemam</string>
   <string name="user_setup_incomplete">Nastavitev uporabnika ni končana</string>
   <string name="work_profile_setup_continue">NADALJUJ</string>
-  <string name="work_profile_setup_later_message">Delovni profil lahko nastavite kasneje iz aplikacije za upravljanje z napravo katero uporablja vaša organizacija.</string>
+  <string name="work_profile_setup_later_message">Delovni profil lahko nastavite kasneje iz aplikacije za urejanje z napravo katero uporablja vaša organizacija.</string>
   <string name="work_profile_setup_later_title">Ali želite zaustaviti nastavitev profila?</string>
   <string name="work_profile_setup_stop">USTAVI</string>
 </resources>

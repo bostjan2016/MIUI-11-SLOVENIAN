@@ -400,8 +400,8 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="location_settings">Nastavitve lokacije</string>
   <string name="location_warning">%1$s je ponudnik lokacijskih storitev za to napravo. Dostop do lokacije je mogoče spremeniti v nastavitvah lokacije.</string>
   <string name="low_risk_perms">Dovoljenje nizkega tveganja</string>
-  <string name="manage_applications">Upravljanje aplikacij</string>
-  <string name="manage_device_administrators">Upravljanje skrbnikov naprave</string>
+  <string name="manage_applications">Urejanje aplikacij</string>
+  <string name="manage_device_administrators">Urejanje skrbnikov naprave</string>
   <string name="manage_users">Nastavitev uporabnikov</string>
   <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="media_category">Predstavnosti</string>

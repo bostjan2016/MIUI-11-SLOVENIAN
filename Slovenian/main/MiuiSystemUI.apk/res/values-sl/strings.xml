@@ -1238,7 +1238,7 @@ Za več informacij se obrnite na skrbnika."</string>
     <string name="monitoring_description_do_body">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, podatke, povezane z napravo, in podatke o lokaciji naprave.</string>
     <string name="monitoring_description_do_body_vpn">Povezani ste z aplikacijo %1$s, ki lahko nadzira omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.</string>
     <string name="monitoring_description_do_header_generic">Napravo upravlja aplikacija %1$s.</string>
-    <string name="monitoring_description_do_header_with_name">%1$s uporablja aplikacijo %2$s za upravljanje naprave.</string>
+    <string name="monitoring_description_do_header_with_name">%1$s uporablja aplikacijo %2$s za urejanje naprave.</string>
     <string name="monitoring_description_do_learn_more">Več o tem</string>
     <string name="monitoring_description_managed_profile_ca_certificate">Vaša organizacija je v vaš delovni profil namestila overitelja potrdil. Varni omrežni promet se lahko nadzira ali spreminja.</string>
     <string name="monitoring_description_managed_profile_named_vpn">Delovni profil je povezan z aplikacijo %1$s, ki lahko nadzira omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.</string>
@@ -1269,7 +1269,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="monitoring_subtitle_network_logging">Beleženje omrežnega prometa</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
     <string name="monitoring_title">Nadzor omrežja</string>
-    <string name="monitoring_title_device_owned">Upravljanje naprav</string>
+    <string name="monitoring_title_device_owned">Urejanje naprav</string>
     <string name="monitoring_title_profile_owned">Nadzor nad profilom</string>
   <string name="mount_storage">"Da"</string>
     <string name="mr_button_content_description">Gumb za predvajanje</string>
@@ -2121,7 +2121,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="wapi_cert_is_not_selected">Najprej izberite certifikat</string>
   <string name="wapi_cert_manage_error">Nastavitev WAPI certifikata ni uspela.</string>
   <string name="wapi_cert_manage_summary">Dodajte ali izbrišite WAPI certifikat</string>
-  <string name="wapi_cert_manage_title">Upravljanje z WAPI certifikatom</string>
+  <string name="wapi_cert_manage_title">Urejanje z WAPI certifikatom</string>
   <string name="wapi_cert_roaming">Povezovanje…</string>
   <string name="wapi_cert_select">WAPI certifikat</string>
   <string name="wapi_no">ne</string>

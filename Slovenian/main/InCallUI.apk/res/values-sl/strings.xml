@@ -175,9 +175,9 @@
   <string name="keep_wait_call_back">Čakaj</string>
   <string name="livetalk_dial">Using Top-up package</string>
   <string name="livetalk_hangup">Prekini klic</string>
-  <string name="manageConferenceLabel">Upravljaj s konferenčnimi klici</string>
+  <string name="manageConferenceLabel">Urejaj konferenčne klice</string>
   <string name="miprofile_stranger_card">Neznano</string>
-  <string name="modify_call_failure_str">"Posodobitev Klicev ni uspela
+  <string name="modify_call_failure_str">"Posodobitev klicev ni uspela
 "</string>
   <string name="modify_call_option_title">Katera vrsta klica?</string>
   <string name="modify_call_option_voice">Le glasovno</string>
