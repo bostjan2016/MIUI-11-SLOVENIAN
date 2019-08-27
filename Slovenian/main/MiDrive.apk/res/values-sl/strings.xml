@@ -11,7 +11,7 @@
   <string name="byteShort">B</string>
   <string name="cancel">Prekini</string>
   <string name="category_midrive">Mi Drive</string>
-  <string name="category_transport">Prikaži prenose</string>
+  <string name="category_transport">Pokaži prenose</string>
   <string name="change_mobile_network_message">Prestavljeno na mobilne podatke. Nadaljevanje prenosa datotek bo porabilo veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="confirm">V redu</string>
   <string name="consumption_alert">Povezovanje s spletom</string>
@@ -104,7 +104,7 @@
   <string name="operation_resume_all">Nastavi vse</string>
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
-  <string name="operation_task_manage">Prikaži prenose</string>
+  <string name="operation_task_manage">Pokaži prenose</string>
   <string name="operation_upload">Naloži</string>
   <string name="paused">Zaustavljeno</string>
   <string name="petabyteShort">PB</string>

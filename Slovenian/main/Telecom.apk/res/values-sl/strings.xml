@@ -173,7 +173,7 @@ hitrost vzorčenja"</string>
 Avdio"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Izberite različico profila AVRCP za Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_string">Različica profila AVRCP za Bluetooth</string>
-    <string name="bluetooth_show_devices_without_names">Prikaži naprave Bluetooth brez imen</string>
+    <string name="bluetooth_show_devices_without_names">Pokaži naprave Bluetooth brez imen</string>
     <string name="bluetooth_show_devices_without_names_summary">Prikazane bodo naprave Bluetooth brez imen (samo z naslovi MAC)</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Računalnik</string>
@@ -443,16 +443,16 @@ Avdio"</string>
     <string name="select_webview_provider_dialog_title">Nastavitev izvedbe spletnega pogleda</string>
     <string name="select_webview_provider_title">Izvedba spletnega pogleda</string>
   <string name="select_webview_provider_toast_text">Ta izbira ni več veljavna. Poskusite ponovno.</string>
-  <string name="show_cpu_usage">Prikaži uporabo procesorja</string>
+  <string name="show_cpu_usage">Pokaži uporabo procesorja</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje izkoriščenost procesorja.</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
-  <string name="show_hw_layers_updates">Prikaži posodobitve hardverskih slojev</string>
+  <string name="show_hw_layers_updates">Pokaži posodobitve hardverskih slojev</string>
   <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi</string>
   <string name="show_hw_screen_updates">Pokaži posod. pogleda GPE</string>
   <string name="show_hw_screen_updates_summary">Osvetli poglede v oknih pri risanju z GPE</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
-  <string name="show_notification_channel_warnings">Prikaži opozorila kanala obvestil</string>
+  <string name="show_notification_channel_warnings">Pokaži opozorila kanala obvestil</string>
   <string name="show_notification_channel_warnings_summary">Prikazuje opozorilo na zaslonu ko aplikacija objavi obvestilo bez veljavnega kanala</string>
   <string name="show_screen_updates">Pokaži posodob. površine</string>
   <string name="show_screen_updates_summary">Ob posodobitvi osvetli celotne površine oken</string>

@@ -137,7 +137,7 @@
   <string name="search_app">Snemanje</string>
   <string name="search_enable_earpiece_title">Uporabi snemanje za predvajanje zvoka</string>
   <string name="search_led_indicator">Obvestila zakl. zaslona</string>
-  <string name="search_led_indicator_prompt">Med snemanjem prikaži obvestila v vrstici obvestil in pulzno svetlobno opozorilo na zakl. zaslonu</string>
+  <string name="search_led_indicator_prompt">Med snemanjem pokaži obvestila v vrstici obvestil in pulzno svetlobno opozorilo na zakl. zaslonu</string>
   <string name="search_quliaty_title">Kvaliteta snemanja</string>
   <string name="search_scenes">Vrsta snemanja</string>
   <string name="search_silent_mode">Izključi zvok zvonjenja med snemanjem</string>

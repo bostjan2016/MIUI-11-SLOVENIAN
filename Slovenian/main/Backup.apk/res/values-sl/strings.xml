@@ -638,7 +638,7 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
   <string name="user_notice_declaration_ignore">"Ne kaži več"</string>
   <string name="user_notice_message">Nekatera opravila za normalno delo potrebujejo spletno povezavo.</string>
   <string name="user_notice_title">Pozor</string>
-  <string name="view_password_description">Prikaži geslo</string>
+  <string name="view_password_description">Pokaži geslo</string>
   <string name="wait_link">"Odprite Mi Mover na stari napravi,
 Ne zapuščajte te strani dokler se povezava ne vzpostavi. "
 Tapnite \"Sem pošiljatelj\" in izberite hotspot za povezovanje.

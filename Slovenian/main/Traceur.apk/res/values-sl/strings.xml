@@ -139,7 +139,7 @@ Izbor: hitrost vzorčenja"</string>
 Izbor"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Izberite različico profila AVRCP za Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_string">Različica profila AVRCP za Bluetooth</string>
-    <string name="bluetooth_show_devices_without_names">Prikaži naprave Bluetooth brez imen</string>
+    <string name="bluetooth_show_devices_without_names">Pokaži naprave Bluetooth brez imen</string>
     <string name="bluetooth_show_devices_without_names_summary">Prikazane bodo naprave Bluetooth brez imen (samo z naslovi MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Računalnik</string>

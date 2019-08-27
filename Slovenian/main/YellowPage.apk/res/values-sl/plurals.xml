@@ -5,7 +5,7 @@
         <item quantity="one">1 kupon</item>
     </plurals>
     <plurals name="review_count">
-        <item quantity="other">Prikaži komentarje (%d)</item>
-        <item quantity="one">Prikaži 1 komentar</item>
+        <item quantity="other">Pokaži komentarje (%d)</item>
+        <item quantity="one">Pokaži 1 komentar</item>
     </plurals>
 </resources>

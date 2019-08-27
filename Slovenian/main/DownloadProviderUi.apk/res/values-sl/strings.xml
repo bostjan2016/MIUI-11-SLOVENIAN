@@ -265,10 +265,10 @@
   <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
   <string name="pref_sniff_shortcut">Naredi bližnjico</string>
   <string name="pref_summary_any_bytes_popup">Vedno čakaj na WiFi povezavo za prenos datotek</string>
-  <string name="pref_summary_enable_max_bytes_popup">Prikaži pojavno okno pri uporabi podatkovne povezave da prenesete vsebino.</string>
+  <string name="pref_summary_enable_max_bytes_popup">Pokaži pojavno okno pri uporabi podatkovne povezave da prenesete vsebino.</string>
   <string name="pref_summary_max_bytes_limit_format">Čakaj na WiFi če velikost preseže %s</string>
   <string name="pref_summary_no_limit_popup">Neomejeno</string>
-  <string name="pref_title_enable_max_bytes_popup">Prikaži podatke o porabi</string>
+  <string name="pref_title_enable_max_bytes_popup">Pokaži podatke o porabi</string>
   <string name="preferences_title">Nastavitve</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="privacy_tip_cancel">Prekliči</string>
@@ -343,7 +343,7 @@
   <string name="shortcut_dialog_content">Napravite bližnjico zač. zaslona za direktno iskanje virov.</string>
   <string name="shortcut_dialog_create">Napravi</string>
   <string name="shortcut_dialog_title">Napravim bližnjico zač. zaslona?</string>
-  <string name="show_more">Prikaži %s več</string>
+  <string name="show_more">Pokaži %s več</string>
   <string name="sniff_associate_text">Popularno</string>
   <string name="sniff_bt_text">Torrent</string>
   <string name="sniff_btn_text">Vir</string>

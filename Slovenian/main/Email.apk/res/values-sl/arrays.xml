@@ -29,14 +29,14 @@
         <item>Prikaz prihodne pošte po brisanju</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Prikaži samo arhiviranje</item>
-        <item>Prikaži samo brisanje</item>
-        <item>Prikaži arhiviranje in brisanje</item>
+        <item>Pokaži samo arhiviranje</item>
+        <item>Pokaži samo brisanje</item>
+        <item>Pokaži arhiviranje in brisanje</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Prikaži samo arhiviranje</item>
-        <item>Prikaži samo brisanje</item>
-        <item>Prikaži arhiviranje in brisanje</item>
+        <item>Pokaži samo arhiviranje</item>
+        <item>Pokaži samo brisanje</item>
+        <item>Pokaži arhiviranje in brisanje</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>Majčken</item>

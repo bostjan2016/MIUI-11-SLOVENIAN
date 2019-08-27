@@ -6,7 +6,7 @@
   <string name="abc_action_bar_up_description">Pojdi gor</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
   <string name="abc_action_mode_done">Končano</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
@@ -120,8 +120,8 @@ Dolžina: %s
   <string name="select_all">Izberi vse</string>
   <string name="send">Pošlji</string>
   <string name="settings">Nastavitve</string>
-  <string name="show_all_files_tips">Prikaži vse datoteke</string>
-  <string name="show_all_folder_tips">Prikaži vse mape</string>
+  <string name="show_all_files_tips">Pokaži vse datoteke</string>
+  <string name="show_all_folder_tips">Pokaži vse mape</string>
   <string name="small_a">A</string>
   <string name="songs">Pesmi</string>
   <string name="sound_off">Zvok izključen</string>

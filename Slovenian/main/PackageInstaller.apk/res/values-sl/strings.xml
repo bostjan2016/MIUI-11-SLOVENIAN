@@ -185,7 +185,7 @@ hitrost vzorčenja"</string>
   <string name="btn_text_scaning">Preverjanje</string>
   <string name="btn_text_security_install">Zamenjaj z varno verzijo</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
-  <string name="bugreport_in_power_summary">Prikaži gumb za izdelavo poročila o programskih napakah v meniju zagona</string>
+  <string name="bugreport_in_power_summary">Pokaži gumb za izdelavo poročila o programskih napakah v meniju zagona</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
   <string name="caller_app">Zahteva dovoljenje od %1$s</string>
   <string name="cancel">Prekini</string>
@@ -238,7 +238,7 @@ hitrost vzorčenja"</string>
   <string name="debug_hw_overdraw">Rešavanje GPU preklapanja</string>
   <string name="debug_hw_renderer">Nastavi prikazovalec GPU-a</string>
   <string name="debug_input_category">Vhod</string>
-  <string name="debug_layout">Prikaži okvir prikaza</string>
+  <string name="debug_layout">Pokaži okvir prikaza</string>
   <string name="debug_layout_summary">Prikazujejo se obrobe, meje itd. izsekov.</string>
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Umreženje</string>
@@ -406,7 +406,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="media_category">Predstavnosti</string>
   <string name="menu_hide_system">Skrij sistem</string>
-  <string name="menu_show_system">Prikaži sistem</string>
+  <string name="menu_show_system">Pokaži sistem</string>
   <string name="message_appstore_verify_has_new_version">Novejša verzija te aplikacije je na voljo v App Store. Jo želite namestiti?</string>
   <string name="message_appstore_verify_inconsistent">"Ta aplikacija ima drugačen podpis od tistega v App Store, bolje da jo namestite od tam."</string>
   <string name="message_appstore_verify_ok">Verzija te aplikacije iz App Store je opravila naše varnostne teste, bolje da jo namestite od tam.</string>
@@ -593,16 +593,16 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="settings">Nastavitve</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
-  <string name="show_cpu_usage">Prikaži uporabo procesorja</string>
+  <string name="show_cpu_usage">Pokaži uporabo procesorja</string>
   <string name="show_cpu_usage_summary">Postav. element s trenutno uporabo procesorja</string>
   <string name="show_hw_layers_updates">Pokaži pos. sl. str. opr</string>
   <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi.</string>
   <string name="show_hw_screen_updates">Pokaži posod. pogleda GPE</string>
   <string name="show_hw_screen_updates_summary">Osvetli poglede v oknih pri risanju z GPE</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
-  <string name="show_notification_channel_warnings">Prikaži opozorila kanala obvestil</string>
+  <string name="show_notification_channel_warnings">Pokaži opozorila kanala obvestil</string>
   <string name="show_notification_channel_warnings_summary">Prikazuje opozorilo na zaslonu ko aplikacija objavi obvestilo brez veljavnega kanala</string>
-  <string name="show_password">Prikaži geslo</string>
+  <string name="show_password">Pokaži geslo</string>
   <string name="show_screen_updates">Pokaži posodob. površine</string>
   <string name="show_screen_updates_summary">Ob posodobitvi osvetli celotne površine oken.</string>
   <string name="show_touches">Prikaz dotikov</string>
@@ -721,7 +721,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wifi_cant_connect_to_ap">"Ne morem se povezati na '%1$s'"</string>
   <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>
   <string name="wifi_connected_mac_randomization">Povezana MAC Randomizacija</string>
-  <string name="wifi_connected_mac_randomization_summary">Naključno prikaži MAC naslove pri povezavi v WiFi omrežja</string> 
+  <string name="wifi_connected_mac_randomization_summary">Naključno pokaži MAC naslove pri povezavi v WiFi omrežja</string> 
   <string name="wifi_aggressive_handover">Aktivni prehod iz WiFi na mob. omrežje</string>
   <string name="wifi_aggressive_handover_summary">Če je omogočeno bo WiFi aktivno prestavljal podatkovnu povezavo na mobilno omrežje kadar je WiFi signal slab.</string>
   <string name="wifi_allow_scan_with_traffic">Vedno dovoli prosto iskanje WiFi omrežja</string>
@@ -733,7 +733,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wifi_disabled_password_failure">Težava pri prijavi</string>
   <string name="wifi_disabled_wifi_failure">Povezovanje z WiFi ni uspelo</string>
   <string name="wifi_display_certification">Potrjevanje brezžičnega prikaza</string>
-  <string name="wifi_display_certification_summary">Prikaži možnosti za potrjevanje brezžičnega prikaza</string>
+  <string name="wifi_display_certification_summary">Pokaži možnosti za potrjevanje brezžičnega prikaza</string>
   <string name="wifi_fail_to_scan">"Iskanje omrežij ni možno"</string>
   <string name="wifi_metered_label">Merjeno</string>
   <string name="wifi_no_internet">Ni dostopa na splet.</string>

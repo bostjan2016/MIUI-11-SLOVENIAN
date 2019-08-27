@@ -59,7 +59,7 @@
   <string name="enable_livetalk_title">Vključi paket doplačila</string>
   <string name="enable_midrop">Vključi</string>
   <string name="fc_dialog_body">Pošljem poročilo o napakah Mi strežnikom za analizo? Lahko vsebuje tudi osebne podatke. Vaše poročilo bo koristilo pri reševanju te napake in se ne bo delilo v komercialne namene.</string>
-  <string name="fc_dialog_jump_to_preview">Prikaži poročilo</string>
+  <string name="fc_dialog_jump_to_preview">Pokaži poročilo</string>
   <string name="file_cannot_print">"Ne morem natisniti."</string>
   <string name="file_cannot_screen_throw">"Ne morem predvajati."</string>
   <string name="file_sending">Prenos datotek…</string>

@@ -57,5 +57,5 @@
   <string name="text_message">Tekstualno sporočilo</string>
   <string name="title_pref_cm_smart_sms">China Mobile Smart SMS</string>
   <string name="updating">Posodabljanje</string>
-  <string name="view_message_details">Prikaži podrobnosti</string>
+  <string name="view_message_details">Pokaži podrobnosti</string>
 </resources>

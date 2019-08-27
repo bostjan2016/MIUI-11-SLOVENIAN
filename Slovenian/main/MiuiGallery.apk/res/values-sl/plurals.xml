@@ -93,8 +93,8 @@
          <item quantity="one">Odpovem prenos preostale fotografije?</item>
     </plurals>
 	<plurals name="add_to_album_cloud_photo_count_tip">
-         <item quantity="other">Dodano %d Cloud fotografij, izključi \"Prikaži samo lokalne albume\" za pregled.</item>
-         <item quantity="one">Dodana %d Cloud fotografija, izključi \"Prikaži samo lokalne albume\" za pregled.</item>
+         <item quantity="other">Dodano %d Cloud fotografij, izključi \"Pokaži samo lokalne albume\" za pregled.</item>
+         <item quantity="one">Dodana %d Cloud fotografija, izključi \"Pokaži samo lokalne albume\" za pregled.</item>
      </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Izbrišem fotografije: %d?</item>

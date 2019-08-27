@@ -619,7 +619,7 @@ napolnite svojo napravo"</string>
   <string name="long_sit_no_alert_title">DND</string>
   <string name="long_sit_set_failed">Ne morem nastaviti</string>
   <string name="long_sit_set_success">Uspešno nastavljeno</string>
-  <string name="look_for">Prikaži</string>
+  <string name="look_for">Pokaži</string>
   <string name="love_fail">"Ne morem dregniti"</string>
   <string name="love_success">Dregnjeno</string>
   <string name="main_over_max_range_weight">"Teža je večja od
@@ -682,7 +682,7 @@ razpona merjenja (%s)"</string>
   <string name="mili_setting_sleep_assist_tips">Pomaga da se dobijo natančnejši podatki spanja (zamanjša trajanje baterije)</string>
   <string name="mili_setting_unbind">Prekliči seznanitev</string>
   <string name="mili_setting_vibrate_notify">Mi Band obvestila</string>
-  <string name="mili_setting_vibrate_notify_tips">Prikaži obvestila na telefonu ko Mi Band zavibrira</string>
+  <string name="mili_setting_vibrate_notify_tips">Pokaži obvestila na telefonu ko Mi Band zavibrira</string>
   <string name="mili_settting_mili_pro">Mi Band 2</string>
   <string name="mine_add_more_device">Dodaj napravo</string>
   <string name="mine_ave_daystep">Povp. korakov</string>
@@ -811,7 +811,7 @@ razpona merjenja (%s)"</string>
   <string name="pull_to_refresh_refreshing_label">Sinhr…</string>
   <string name="pull_to_refresh_release_label">Popusti za Osvežitev</string>
   <string name="pull_to_refresh_tip">Povleci navzdol za Osvežitev</string>
-  <string name="query_weixin_btn_text">Prikaži WeChats</string>
+  <string name="query_weixin_btn_text">Pokaži WeChats</string>
   <string name="quite_heart_rate">Odmor</string>
   <string name="quite_heart_rate_tip">Število utripov srca v mirovanju običajno niha med 60 in 100 utr/min</string>
   <string name="radio_day">D</string>
@@ -1425,7 +1425,7 @@ Nastavitve -&gt; Varnost zaslona -&gt; Odkleni z Bluetooth napravo"</string>
   <string name="user_plan_sub_title">Pošljite informacije o svojih navadah uporabe na naše strežnike. Vaše informacije so zaščtene s Pravili o zasebnosti.</string>
   <string name="user_protocol">Pogoji uporabe storitve in Pravila o zasebnosti</string>
   <string name="vibrate_notify">Mi Band obvestila vibracij</string>
-  <string name="vibrate_notify_tips">Prikaži obvestila ko Mi Band zavibrira</string>
+  <string name="vibrate_notify_tips">Pokaži obvestila ko Mi Band zavibrira</string>
   <string name="wait">Samo trenutek…</string>
   <string name="wear_hand">Položaj Mi Banda</string>
   <string name="web_activity_reload_tip">Pritisni za osvežitev</string>

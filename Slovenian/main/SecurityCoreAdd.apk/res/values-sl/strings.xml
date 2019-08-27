@@ -59,7 +59,7 @@ Vseeno izključim?"</string>
   <string name="confirm_restore">"Ne kaži"</string>
   <string name="contactData">Stiki</string>
   <string name="contact_sub_titile_text">Podatki sporočil se bodo delili med dvema prostoroma</string>
-  <string name="contact_titile_text">"Prikaži zasebna sporočila v Drugem prostoru
+  <string name="contact_titile_text">"Pokaži zasebna sporočila v Drugem prostoru
  da jih lahko vidite kadarkoli"</string>
   <string name="contact_us">Kontaktirajte nas</string>
   <string name="continueButton">Nadaljuj</string>
@@ -202,7 +202,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="import_file_suc">Stvari uvožene v mape</string>
   <string name="import_now">Izvoz</string>
   <string name="import_photo">Uvozi fotografije</string>
-  <string name="import_photo_desc">Prikaži deljene stvari v Drugem prostoru</string>
+  <string name="import_photo_desc">Pokaži deljene stvari v Drugem prostoru</string>
   <string name="import_photo_suc">Uvožene fotografije</string>
   <string name="input_space_finger">Nastavi zdaj</string>
   <string name="input_space_password">Nastavi zdaj</string>
@@ -246,8 +246,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="notificationSetPasswordDes">Zaščitite podatke Drugega prostora</string>
   <string name="notificationSummary">Zamenjajte prostor iz plošče obvestil</string>
   <string name="notificationTitle">Bližnjica plošče obvestil</string>
-  <string name="notification_from_owner_user">Prikaži obvetila iz Prvega prostora</string>
-  <string name="notification_from_second_user">Prikaži obvestila iz Drugega prostora</string>
+  <string name="notification_from_owner_user">Pokaži obvetila iz Prvega prostora</string>
+  <string name="notification_from_second_user">Pokaži obvestila iz Drugega prostora</string>
   <string name="notification_recommend_title">Top 12 Aplik. za Drugi prostor</string>
   <string name="notification_setting_second_space">Nastavite Drugi prostor</string>
   <string name="notification_setting_second_space_desc">Dodajte geslo Drugega prostora in premestite podatke</string>
@@ -265,7 +265,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="please_diff_finger_print">Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
   Drugače ne boste mogli v Drugi prostor iz zakl. zaslona.</string>
-  <string name="privacyContactsSummary">Prikaži zasebne nastavitve v Drugem prostoru</string>
+  <string name="privacyContactsSummary">Pokaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
   <string name="privacy_password_fingerprint_dialog_message">Postavite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skeniraj prstni odtis</string>
@@ -350,8 +350,8 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="settings_msg_remove_shortcut_from_second_space">Bližnjica odstranjena iz Drugega prostora</string>
   <string name="settings_notification_and_switch_owner_space">Nastavitve Prvega prostora</string>
   <string name="settings_notification_and_switch_second_space">Nastavitve Drugega prostora</string>
-  <string name="settings_notification_from_owner_space_title">Prikaži obvestila iz Prvega prostora</string>
-  <string name="settings_notification_from_second_space_title">Prikaži obvestila iz Drugega prostora</string>
+  <string name="settings_notification_from_owner_space_title">Pokaži obvestila iz Prvega prostora</string>
+  <string name="settings_notification_from_second_space_title">Pokaži obvestila iz Drugega prostora</string>
   <string name="settings_second_space_entrance_summary">Pokaži bližnjico Drugega prostora v Nastavitvah</string>
   <string name="settings_second_space_entrance_title">Bližnjica v nastavitvah</string>
   <string name="settings_set_password_for_owner_space">Nastavi Zaklepanje zaslona v Prvem prostoru</string>
@@ -359,9 +359,9 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="settings_set_password_for_sec_space">Nastavi Zaklepanje zaslona v Drugem prostoru</string>
   <string name="settings_set_password_for_sec_space_desc">Nastavi Zaklepanje zaslona v Drugem prostoru za odstranitev bližnive iz nastavitev.</string>
   <string name="settings_space_data">Podatki</string>
-  <string name="settings_status_icon_summary">Prikaži ikono Drugega prostora v vrstici obvestil</string>
+  <string name="settings_status_icon_summary">Pokaži ikono Drugega prostora v vrstici obvestil</string>
   <string name="settings_status_icon_title">Ikona Drugega prostora</string>
-  <string name="settings_switch_shortcut_summary">Prikaži bližnjico zač. zaslona v prvem prostoru</string>
+  <string name="settings_switch_shortcut_summary">Pokaži bližnjico zač. zaslona v prvem prostoru</string>
   <string name="settings_switch_shortcut_title">Bližnjica začet. zaslona</string>
   <string name="settings_switch_space">Sprememba prostora</string>
   <string name="show_decktop_quick_switch_icon">Bližnjica zač. zaslona</string>
@@ -371,10 +371,10 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="show_noti_from_owner_detail">Prejmi obvestila v trenutnem prostoru kadar pridejo iz drugega prostora</string>
   <string name="show_noti_quick_switch_icon">Bližnjica plošče obvestil</string>
   <string name="show_noti_quick_switch_icon_detail">Pokaži bližnjico za spremembo prostora v plošči obvestil</string>
-  <string name="show_noti_setting">Prikaži Drugi prostor v plošči obvestil</string>
-  <string name="show_private_content">Prikaži zasebno vsebino</string>
-  <string name="show_private_msg">Prikaži zasebna sporočila</string>
-  <string name="show_private_msg_summary">Prikaži zasebna sporočila v Drugem prostoru</string>
+  <string name="show_noti_setting">Pokaži Drugi prostor v plošči obvestil</string>
+  <string name="show_private_content">Pokaži zasebno vsebino</string>
+  <string name="show_private_msg">Pokaži zasebna sporočila</string>
+  <string name="show_private_msg_summary">Pokaži zasebna sporočila v Drugem prostoru</string>
   <string name="skip">Preskoči</string>
   <string name="spaceSetting">Nastavitve</string>
   <string name="space_create_guide_desc_1">Shranite aplikacije in fotografije na varen način</string>

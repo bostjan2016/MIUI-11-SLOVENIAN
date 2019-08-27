@@ -346,9 +346,9 @@
   <string name="menu_send_as_common">Pošlji kot SMS</string>
   <string name="menu_traffic_destination">Izhodišče</string>
   <string name="menu_unlock">Odstrani iz priljubljenih</string>
-  <string name="menu_view_contact">Prikaži stik</string>
+  <string name="menu_view_contact">Pokaži stik</string>
   <string name="menu_view_group_info">Informacije o skupini</string>
-  <string name="menu_yellowpage">Prikaži %s</string>
+  <string name="menu_yellowpage">Pokaži %s</string>
   <string name="message_class_label">Vrsta sporočila:</string>
   <string name="message_contact">Stik:</string>
   <string name="message_details_title">Podrobnosti sporočila</string>
@@ -417,7 +417,7 @@
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Številka telefona ki ste jo vnesli ni veljavna</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Ne morem aktivirati Mi sporočila"</string>
   <string name="mx_and_voip_enable">Mi sporočil &amp; Voice</string>
-  <string name="mx_and_voip_enable_popup_msg">"Pošiljajte sporočila in kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
+  <string name="mx_and_voip_enable_popup_msg">"Pošiljajte sporočila in kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>
   <string name="mx_and_voip_enable_popup_msg2">Pravila o zasebnosti</string>
   <string name="mx_auto_resend_mms">Samodejno ponovno pošlji MMS</string>
   <string name="mx_auto_resend_mms_summary">Pošlji kot MMS preko mobilne podatkovne povezave ko niste povezani z WiFi. Operater vam bo to zaračunal.</string>
@@ -433,7 +433,7 @@
   <string name="mx_dspt">"Pošiljajte SMS in MMS sporočila drugim MIUI napravam brezplačno ko ste povezani na WiFi."</string>
   <string name="mx_dspt_listview">Pošiljajte sporočila drugim MIUI napravam brezplačno</string>
   <string name="mx_dspt_provision">Mi sporočila omogočajo pošiljanje sporočil drugim MIUI uporabnikom preko spleta brez stroškov. Morda bo potrebno odhodno SMS sporočilo za ponovno aktiviranje Mi sporočil. Vaš mobilni operater vam to lahko računa. Potrebna je manjša količina mobilnih podatkov. Se strinjate?</string>
-  <string name="mx_dspt_provision_ex">"Pošiljajte sporočila in kličite druge MIUI uporabnike preko spleta brez stroškov. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
+  <string name="mx_dspt_provision_ex">"Pošiljajte sporočila in kličite druge MIUI uporabnike preko spleta brez stroškov. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>
   <string name="mx_dspt_provision_ex2">Pravila o zasebnosti</string>
   <string name="mx_enable">Mi sporočilo</string>
   <string name="mx_enable_ex">Mi sporočil &amp; Voice</string>
@@ -523,7 +523,7 @@
   <string name="pref_notification_settings_title">Obvestila</string>
   <string name="pref_other_title">Dodatne nastavitve</string>
   <string name="pref_show_blocked_messages_summary">Pokaži blokirana SMS sporočila</string>
-  <string name="pref_show_list_avatar_summary">Prikaži fotografije in ostale informacije o stikih v popisnem pregledu</string>
+  <string name="pref_show_list_avatar_summary">Pokaži fotografije in ostale informacije o stikih v popisnem pregledu</string>
   <string name="pref_show_photo_word_summary">Samodejno dodeli sliko stikom ki je nimajo</string>
   <string name="pref_show_sms_template_entry_summary">Odkrij enkratna gesla v SMS-u</string>
   <string name="pref_show_sms_template_in_summary">Samodejno odkrij OTP v SMS sporočilih</string>
@@ -535,7 +535,7 @@
   <string name="pref_summary_allow_upload_message_info">"Spam sporočila in informacije o pošiljatelju bodo poslani MIUI če jih prijavite."</string>
   <string name="pref_summary_auto_delete">Ko se doseže omejitev izbriši stara sporočila </string>
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>
-  <string name="pref_summary_delivery_reports">Prikaži stanje dostave za vsako sporočilo ki ga pošljete</string>
+  <string name="pref_summary_delivery_reports">Pokaži stanje dostave za vsako sporočilo ki ga pošljete</string>
   <string name="pref_summary_delivery_ringtone">Prejmi zvočna obvestila za dostavljena sporočila.</string>
   <string name="pref_summary_hide_festival">Skrij opravila kitajskega jezika, ko je sistem nastavljen na drug jezik.</string>
   <string name="pref_summary_manage_sim_messages">Urejaj sporočila shranjena na SIM kartici</string>
@@ -547,7 +547,7 @@
   <string name="pref_summary_off_system_mms_priority">Uporabite aplikacije tretjih oseb za pošiljanje in prejemanje MMS</string>
   <string name="pref_summary_on_system_mms_priority">Nastavi MIUI aplikacijo za sporočila kot privzeto aplikacijo za pošiljanje in prejemanje MMS</string>
   <string name="pref_summary_send_delivery_reports">Pošlji pošiljatelju potrdilo o dostavi za prejet MMS</string>
-  <string name="pref_summary_show_recent_contacts">Prikaži nedavne stike ko pišete novo besedilno sporočilo</string>
+  <string name="pref_summary_show_recent_contacts">Pokaži nedavne stike ko pišete novo besedilno sporočilo</string>
   <string name="pref_summary_wake_up_screen">Zbudi zaslon vsakič ko je prejeto novo sporočilo</string>
   <string name="pref_switch_sdk_setting">Zamenjaj smart SMS uslugo operaterja</string>
   <string name="pref_system_title">Sistem</string>
@@ -719,7 +719,7 @@
   <string name="search_label">Sporočila</string>
   <string name="search_path_mms">Nastavitve/Sistemske aplikacije/Sporočila</string>
   <string name="search_setting_description">Besedilo v vaših sporočilih</string>
-  <string name="search_show_more_results">Prikaži več</string>
+  <string name="search_show_more_results">Pokaži več</string>
   <string name="search_title_mms">Pošiljanje sporočil</string>
   <string name="second_mms_introduction">pojdite v Drugi prostor</string>
   <string name="second_mms_switch">Zamenjaj uporabnika</string>
@@ -768,9 +768,9 @@
   <string name="service_unavailiable">Storitev ni na voljo</string>
   <string name="set">Nastavi</string>
   <string name="share_img">Deli</string>
-  <string name="show_all_messages">Prikaži vsa sporočila</string>
-  <string name="show_delivery_status">Prikaži poročila o dostavi</string>
-  <string name="show_sender">Prikaži podrobnosti pošiljatelja</string>
+  <string name="show_all_messages">Pokaži vsa sporočila</string>
+  <string name="show_delivery_status">Pokaži poročila o dostavi</string>
+  <string name="show_sender">Pokaži podrobnosti pošiljatelja</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sim_card1">SIM kartica 1</string>
@@ -782,7 +782,7 @@
   <string name="sim_full_body">Izbrišite nekatera sporočila da boste naredili prostor za druga.</string>
   <string name="sim_full_title">SIM kartica polna</string>
   <string name="sim_manage_messages_title">Besedilna sporočila na SIM kartici</string>
-  <string name="sim_view">Prikaži</string>
+  <string name="sim_view">Pokaži</string>
   <string name="slide_number">Diapozitiv %d</string>
   <string name="slide_show_part">Del %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Podrsajte navzgor za preklic</string>
@@ -857,7 +857,7 @@
   <string name="title_hide_verification_code">Samod. skrij OTP na zakl. zaslonu</string>
   <string name="title_send_red_package">Preveri Red Package</string>
   <string name="title_show_blocked_messages">Pokaži blokirana SMS sporočila</string>
-  <string name="title_show_list_avatar">Prikaži fotografijo profila</string>
+  <string name="title_show_list_avatar">Pokaži fotografijo profila</string>
   <string name="title_show_photo_word">Dodeli sliko stiku</string>
   <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
@@ -917,7 +917,7 @@
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Poglej podrobnosti</string>
   <string name="voip_enable">Mi sporočila in Voice</string>
-  <string name="voip_enable_popup_msg">"Kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
+  <string name="voip_enable_popup_msg">"Kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>
   <string name="voip_enable_popup_msg2">Pravila o zasebnosti</string>
   <string name="wap_push_title">[WAP Push]</string>
   <string name="warning_show">Pošlji za %ds</string>

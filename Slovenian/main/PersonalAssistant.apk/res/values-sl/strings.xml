@@ -131,7 +131,7 @@
   <string name="closed">Izključeno</string>
   <string name="common_google_play_services_unknown_issue">%1$s ima težave s storitvami Google Play. Če težava še naprej obstaja kontaktirajte razvojnega programerja.</string>
   <string name="commute">Predlogi zemljevida</string>
-  <string name="commute_open">Prikaži kartico za predloge zemljevida</string>
+  <string name="commute_open">Pokaži kartico za predloge zemljevida</string>
   <string name="commute_setting_brief">Pridobite predloge za pot in promet preden odidete.</string>
   <string name="company_or_school">Služba ali šola</string>
   <string name="corpus_description_apps">Nameščene aplikacije</string>
@@ -313,7 +313,7 @@
   <string name="launch_app">App recommendations</string>
   <string name="launch_change_order">Spremeni zaporedje</string>
   <string name="launch_else">Ostalo</string>
-  <string name="launch_enable">Prikaži hitro dostopne kartice</string>
+  <string name="launch_enable">Pokaži hitro dostopne kartice</string>
   <string name="launch_function">Izberitega opravila</string>
   <string name="launch_label">Hitri dostop</string>
   <string name="launch_no_dapp_dialog_reset">Nastavitve Dvojnih aplikacij</string>
@@ -567,7 +567,7 @@
   <string name="settings_title">Obvesti o dodajanju med priljubljene</string>
   <string name="share_title">Deli povezavo z uporabo</string>
   <string name="shortcut">Bližnjice</string>
-  <string name="show_more">Prikaži več</string>
+  <string name="show_more">Pokaži več</string>
   <string name="smart_assistant_enter_tip">Zakl. aplikacij</string>
   <string name="sms_address">Naslov</string>
   <string name="sms_airline">Airline</string>
@@ -577,7 +577,7 @@
   <string name="sms_cinema">Gledališče</string>
   <string name="sms_dest">Destinacija</string>
   <string name="sms_film">Film</string>
-  <string name="sms_film_see">Prikaži</string>
+  <string name="sms_film_see">Pokaži</string>
   <string name="sms_hao">Sedež</string>
   <string name="sms_happened">Končano</string>
   <string name="sms_hotel">Hotel</string>
@@ -628,7 +628,7 @@
   <string name="system_favorite_dialog_positive">Dovoli</string>
   <string name="system_favorite_dialog_title_confirm">Potrebna je avtorizacija</string>
   <string name="taxi">Taksi</string>
-  <string name="taxi_open">Prikaži kartico za taksi</string>
+  <string name="taxi_open">Pokaži kartico za taksi</string>
   <string name="taxi_setting_brief">Dobite taksi z enim samim pritiskom.</string>
   <string name="time_just_now">Pravkar</string>
   <string name="time_month">dd/MM</string>

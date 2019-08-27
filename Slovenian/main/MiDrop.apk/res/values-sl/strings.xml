@@ -68,7 +68,7 @@
   <string name="receiver_pic_file_num">Prejemanje %2$d od %1$s​…</string>
   <string name="receiver_reject">Zavračam</string>
   <string name="receiver_succeed_ok">V redu</string>
-  <string name="receiver_succeed_view">Prikaži</string>
+  <string name="receiver_succeed_view">Pokaži</string>
   <string name="receiver_transfer_interrupt">"Prenos prekinjen, ne izklopite WiFi hotspot med prenosom"</string>
   <string name="request_permission_msg">Mi Drop zahteva naslednja dovoljenja: %s. Dovolim?</string>
   <string name="request_permission_title">Potrebna so dovoljenja</string>

@@ -31,11 +31,11 @@
      </string-array>
      <string-array name="cache_clean_menu">
         <item>Počisti to datoteko</item>
-        <item>"Prikaži lokacijo datoteke"</item>
+        <item>"Pokaži lokacijo datoteke"</item>
     </string-array>
     <string-array name="trash_clean_menu">
         <item>Počisti to datoteko</item>
-        <item>"Prikaži lokacijo datoteke"</item>
+        <item>"Pokaži lokacijo datoteke"</item>
      </string-array> 
     <string-array name="video_clean_menu">
         <item>Počisti to datoteko</item>
@@ -47,7 +47,7 @@
     <string-array name="apk_clean_menu">
         <item>Počisti</item>
 		<item>Namesti to aplik.</item>
-        <item>Prikaži v mapi</item>
+        <item>Pokaži v mapi</item>
     </string-array>
     <string-array name="auto_alert_apps_time">
         <item>Vsakih 7 dni</item>
@@ -78,7 +78,7 @@
     </string-array>
     <string-array name="wechat_menu_delete_whitelist_view">
          <item>Očisti</item>
-         <item>Prikaži</item>
+         <item>Pokaži</item>
     </string-array>
 		  <string-array name="wechat_sort">
         <item>Datum</item>

@@ -110,8 +110,8 @@
   <string name="please_select_share">Izberite datoteke za skupno rabo</string>
   <string name="press_to_handle">Dotaknite za dodajanje</string>
   <string name="press_to_view">Dotaknite se za pregled</string>
-  <string name="press_to_view_receive_history">Prikaži zgodovino prenosov</string>
-  <string name="press_to_view_send_history">Prikaži zgodovino</string>
+  <string name="press_to_view_receive_history">Pokaži zgodovino prenosov</string>
+  <string name="press_to_view_send_history">Pokaži zgodovino</string>
   <string name="receive">Sprejmi</string>
   <string name="receive_cancel_tip">Prenos nepopoln. Ustavim prenos in izstopim?</string>
   <string name="receive_cancel_tip2">Prenos preklican: Prejeto %1$d / %2$d datotek</string>

@@ -190,7 +190,7 @@
   <string name="express_order_succeeded">Uspešno</string>
   <string name="express_order_success_hint">%s bo dostavil vaše naročilo</string>
   <string name="express_phone">Telefon</string>
-  <string name="express_preview_order">Prikaži</string>
+  <string name="express_preview_order">Pokaži</string>
   <string name="express_region_pick_title">Izberi regijo</string>
   <string name="express_select_address">Naslov</string>
   <string name="express_select_addressee">Za</string>
@@ -204,7 +204,7 @@
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">"Regija pošiljatelja"</string>
   <string name="express_shortcut_name">Vprašanje ali ekspresno pošiljanje</string>
-  <string name="express_show_all_inquiry_history">Prikaži vsa vprašanja zgodovine</string>
+  <string name="express_show_all_inquiry_history">Pokaži vsa vprašanja zgodovine</string>
   <string name="express_submit_order">Pošlji</string>
   <string name="express_track_order">Sledi</string>
   <string name="express_tracking_number">Sledilna številka</string>
@@ -326,7 +326,7 @@
   <string name="no_evaluation">Ni ocen</string>
   <string name="no_more_result">Ni rezultatov</string>
   <string name="no_price">Ni informacij o ceni</string>
-  <string name="notify_connect_summary">Prikaži obvestilo pri povezovanju s spletom</string>
+  <string name="notify_connect_summary">Pokaži obvestilo pri povezovanju s spletom</string>
   <string name="notify_connect_title">Obvestilo spletne povezave</string>
   <string name="online_no_network">Ne morem se povezati v omrežje</string>
   <string name="online_search_hint">Iskanje spletnih virov</string>

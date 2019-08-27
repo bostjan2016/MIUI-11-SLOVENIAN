@@ -15,7 +15,7 @@
   <string name="abc_action_bar_up_description">Pojdi navzgor</string>
   <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izberi aplikacijo</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
@@ -586,7 +586,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_vibrator_long">Dolga vibracija</string>
   <string name="cit_vibrator_play_touch_pattern">Vibracija</string>
   <string name="cit_vibrator_short">Kratka vibracija</string>
-  <string name="cit_vibrator_show_advanced">Prikaži napredne opcije</string>
+  <string name="cit_vibrator_show_advanced">Pokaži napredne opcije</string>
   <string name="cit_wifi_address_check_summary">Testiranje bo prikazalo trenutno stanje WiFi-ja</string>
   <string name="cit_wifi_address_check_title">WiFi naslov</string>
   <string name="cit_wifi_address_error">"Ne morem dobiti WiFi naslova. Preverite ali je WiFi omogočen."</string>
@@ -661,7 +661,7 @@ Kontrolirajte zapiranje stojala in se oddaljite se od telefona"</string>
   <string name="select_none">Nič</string>
   <string name="selftest">SELF TEST</string>
   <string name="sensor_information">Informacije senzorja</string>
-  <string name="show_log">Prikaži zapis</string>
+  <string name="show_log">Pokaži zapis</string>
   <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvočniku.</string>
   <string name="start">Start</string>
   <string name="start_extract_sample">Začni izločati vzorce</string>

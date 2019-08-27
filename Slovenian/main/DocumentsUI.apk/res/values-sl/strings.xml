@@ -83,7 +83,7 @@
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_share">Skupna raba</string>
   <string name="menu_sort">Razvrsti glede na</string>
-  <string name="menu_view_in_owner">Prikaži na uslugo %1$s</string>
+  <string name="menu_view_in_owner">Pokaži na uslugo %1$s</string>
   <string name="move_failure_alert_content">Te datoteke niso premeščene: %1$s</string>
   <string name="move_notification_title">Premeščanje datotek</string>
   <string name="move_preparing">Priprava za premeščanje…</string>

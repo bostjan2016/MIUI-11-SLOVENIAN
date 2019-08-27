@@ -106,7 +106,7 @@
   <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
   <string name="keyguard_charging_info_charging_text">Polnjenje</string>
   <string name="keyguard_charging_info_charging_voltage_text">Napetost</string>
-  <string name="keyguard_charging_info_click_to_detail">Prikaži podrobnosti</string>
+  <string name="keyguard_charging_info_click_to_detail">Pokaži podrobnosti</string>
   <string name="keyguard_charging_info_current_now_text">Nadzor v realnem času</string>
   <string name="keyguard_charging_info_data_c">%s℃</string>
   <string name="keyguard_charging_info_data_ma">%smA</string>

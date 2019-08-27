@@ -17,7 +17,7 @@
   <string name="abc_action_bar_up_description">Pojdi navzgor</string>
   <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
@@ -295,7 +295,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="desktop_lyric_dialog_positive_button">Preiskusite zdaj</string>
   <string name="desktop_lyric_dialog_title">Poglejte besedilo na delovni površini</string>
   <string name="desktop_lyric_lock_toast">Zaklenjeno. Uporabite Mini Player</string>
-  <string name="desktop_lyric_setting_summary">Prikaži plavajoče besedilo na delovni površini</string>
+  <string name="desktop_lyric_setting_summary">Pokaži plavajoče besedilo na delovni površini</string>
   <string name="desktop_lyric_setting_title">Besedilo na delovni površini</string>
   <string name="desktop_lyric_textsize">Besedilo</string>
   <string name="device_connected">Povezano</string>
@@ -324,7 +324,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="dialog_song_sort_type_name">Po imenu</string>
   <string name="dialog_song_sort_type_playing_times">Po številu predvajanj</string>
   <string name="dialog_song_sort_type_time">Po času dodajanja</string>
-  <string name="dialog_song_view_type">Prikaži lokalno glasbo</string>
+  <string name="dialog_song_view_type">Pokaži lokalno glasbo</string>
   <string name="dialog_song_view_type_album">Po albumu</string>
   <string name="dialog_song_view_type_artist">Po izvajalcu</string>
   <string name="dialog_song_view_type_folder">Po mapi</string>
@@ -539,7 +539,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="filter_by_size_max">%d2MB</string>
   <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">Minimalna velikost:</string>
-  <string name="filter_by_size_summary">Ne prikaži majhnih avdio datotek</string>
+  <string name="filter_by_size_summary">Ne pokaži majhnih avdio datotek</string>
   <string name="find_music">Najdi sladbe</string>
   <string name="floating_view_dialog_desc">Glasba se bo nehala predvajati če zapustite to stran. Vseeno zapustim?</string>
   <string name="floating_view_dialog_leave">Zapusti</string>
@@ -615,7 +615,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="i_know">V redu</string>
   <string name="i_know_it">V redu</string>
   <string name="impunity_declaration_content">Morate prebrati in se strinjati z &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Pogoji uporabe&lt;/a&gt; in &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Pravila o zasebnosti&lt;/a&gt; pred uporabo.</string>
-  <string name="impunity_declaration_content1">"Z dotikom \"Strinjam se\", pristajate na pogoje navedene v naših "</string>
+  <string name="impunity_declaration_content1">"Z dotikom \"Strinjam se\", se strinjate z pogoji navedenemi v naših "</string>
   <string name="impunity_declaration_content2">Pogoji uporabe</string>
   <string name="impunity_declaration_content3">" in "</string>
   <string name="impunity_declaration_content4">Pravilih o zasebnosti</string>
@@ -623,8 +623,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="impunity_declaration_ignore">Ne kaži več</string>
   <string name="impunity_declaration_negative_text">Zapri</string>
   <string name="impunity_declaration_positive_text">V redu</string>
-  <string name="impunity_declaration_settings">Prikaži pogoje uporabe</string>
-  <string name="impunity_declaration_summary">Prikaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
+  <string name="impunity_declaration_settings">Pokaži pogoje uporabe</string>
+  <string name="impunity_declaration_summary">Pokaži "Pogoji uporabe" vsakič kadar se zažene aplikacija "Glasba"</string>
   <string name="impunity_declaration_title">Pogoji uporabe</string>
   <string name="in_searching_please_wait">Iščem...</string>
   <string name="individuation_card_login_button">Prijavi se</string>
@@ -671,7 +671,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="local_music_empty">"Ni lokalnih pesmi za predvajanje"</string>
   <string name="local_music_empty_goto_online">"Ne morem najti pesmi za predvajanje. Najprej jih prenesite"</string>
   <string name="local_music_is_not_available">"Na vaši napravi ni skladb."</string>
-  <string name="local_page_album_more">Prikaži vse</string>
+  <string name="local_page_album_more">Pokaži vse</string>
   <string name="local_page_artist">Spremljaj izvajalce</string>
   <string name="local_page_artist_more">Več skladb od %s</string>
   <string name="local_page_custom_subtitle">Dnevne pesmi</string>
@@ -838,7 +838,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="notification_headset_info">Dotaknite se za prikaz nastavitev.</string>
   <string name="notification_headset_settings">Slušalke priključene</string>
   <string name="notification_need_wifi_for_size">Potreben WiFi za velikost prenosa</string>
-  <string name="notification_play_summary">Pregled trenutne in naslednje pesmi, prikaži besedilo na zač. zaslonu</string>
+  <string name="notification_play_summary">Pregled trenutne in naslednje pesmi, pokaži besedilo na zač. zaslonu</string>
   <string name="notification_play_title">Pripomoček v plošči obvestil</string>
   <string name="notification_recommend_summary">Izvedite več o novih glasbenih trendih in promocijah aplikacij</string>
   <string name="notification_recommend_title">Pomembna obvestila</string>
@@ -954,10 +954,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="power_save_mode_dialog_msg">Naprava je v varčnem načinu dela. Zaženem prenos?</string>
   <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
   <string name="pref_summary_any_bytes_popup">Vedno počakaj WiFi povezavo za prenos datotek</string>
-  <string name="pref_summary_enable_max_bytes_popup">Prikaži skočno obvestilo ko se uporablja mobilna podatkovna povezava za prenos vsebine</string>
+  <string name="pref_summary_enable_max_bytes_popup">Pokaži skočno obvestilo ko se uporablja mobilna podatkovna povezava za prenos vsebine</string>
   <string name="pref_summary_max_bytes_limit_format">Počakaj na WiFi če velikost datoteke preseže %s</string>
   <string name="pref_summary_no_limit_popup">Neomejeno</string>
-  <string name="pref_title_enable_max_bytes_popup">Prikaži opozorilo uporabe podatkov</string>
+  <string name="pref_title_enable_max_bytes_popup">Pokaži opozorilo uporabe podatkov</string>
   <string name="preferences_title">Nastavitve</string>
   <string name="preset_music_playlist">Mi Glasba seznam pesmi</string>
   <string name="presonal_center">Nastavitve računa</string>
@@ -1121,7 +1121,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="share_image_error">"Ne morem deliti slike zaradi napake pri prenosu slike"</string>
   <string name="share_text_list">"Seznam pesmi od Mi Glasba: "</string>
   <string name="share_text_song">"Pesem v Mi Glasba: "</string>
-  <string name="show_more">Prikaži še %s</string>
+  <string name="show_more">Pokaži še %s</string>
   <string name="shuffle_music">Naključno predvajanje</string>
   <string name="shuffle_off_notif">Naključni izbor izključen.</string>
   <string name="shuffle_on_notif">Naključni izbor vključen.</string>
@@ -1219,7 +1219,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="terms_of_service">Pogoji uporabe</string>
   <string name="test_mode">Način testiranja</string>
   <string name="ticket_summary">Kupite vstopnice za predstave, koncerte, predstave in druge manifestacije</string>
-  <string name="ticket_title">Prikaži vstopnice</string>
+  <string name="ticket_title">Pokaži vstopnice</string>
   <string name="time_to_upgrade">Potrebno je posodobiti Mi Glasbo</string>
   <string name="title_online_artist">Izvajalci v trendu</string>
   <string name="title_online_billboard">Lestvice</string>

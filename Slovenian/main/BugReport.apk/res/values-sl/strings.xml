@@ -148,7 +148,7 @@
   <string name="feedback_status_supplement">"Opišite podrobnosti težave"</string>
   <string name="feedback_status_supplement_more">Dodaj komentar</string>
   <string name="feedback_status_upload_log_failed">"Ne morem prebrati priponk"</string>
-  <string name="feedback_submit_failed_notification_desc">Prikaži podrobnosti</string>
+  <string name="feedback_submit_failed_notification_desc">Pokaži podrobnosti</string>
   <string name="feedback_submit_failed_notification_retry">Ponovno pošlji</string>
   <string name="feedback_submit_failed_notification_title">"Ne morem poslati poročila"</string>
   <string name="feedback_submit_hint">Prijavite napake vsakič ko naletite na njih zato, da nam jih pomagate popraviti čim hitreje.</string>
@@ -242,7 +242,7 @@
   <string name="michat_net_error_info">Ni omrežne povezave, pritisnite tukaj za Nastavitve</string>
   <string name="michat_network_unavaliable">"Ne morem dobiti informacij, preverite omrežno povezavo"</string>
   <string name="michat_no_good_message_title">"To ne more rešiti moje težave."</string>
-  <string name="michat_product_click_text">Prikaži</string>
+  <string name="michat_product_click_text">Pokaži</string>
   <string name="michat_pull_to_refresh_pull_label">Povlecite navzdol za prikaz zgodovine</string>
   <string name="michat_pull_to_refresh_refreshing_label">Nalaganje zgodovine…</string>
   <string name="michat_pull_to_refresh_release_label">Spustite za prikaz zgodovine</string>
@@ -257,7 +257,7 @@
   <string name="michat_type_picture">Slika</string>
   <string name="michat_user_quit">Zapustili ste chat</string>
   <string name="michat_wait_for_a_moment">Samo trenutek, pomoč prihaja!</string>
-  <string name="michat_webview_title">Prikaži podrobnosti</string>
+  <string name="michat_webview_title">Pokaži podrobnosti</string>
   <string name="min_error">Vaš %1$s mora biti daljši.</string>
   <string name="mobile_data_note_dialog_cancel">Počakaj na WiFi</string>
   <string name="mobile_data_note_dialog_confirm">Pošlji</string>

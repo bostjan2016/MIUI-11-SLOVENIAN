@@ -60,7 +60,7 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
   <string name="activate_popup_desc_sim_card">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS ki se uporabljajo za aktiviranje %s.</string>
   <string name="activate_popup_desc_sim_card_downlink">Če želite omogočiti %s vnesite svojo telefonsko številko</string>
   <string name="activate_popup_desc_voip_privacy">Varnostna pravila</string>
-  <string name="activate_popup_desc_voip_privacy_prefix">"VOIP storitev podpira Wei Hui. Prikaži Wei Hui"</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">"VOIP storitev podpira Wei Hui. Pokaži Wei Hui"</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">"Ne morem najti telefonske številke"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne morem poslati SMS aktivacije"</string>
   <string name="activate_popup_title_error_device_id">Neveljaven IMEI</string>

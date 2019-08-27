@@ -675,7 +675,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Samodejno</string>
   <string name="pref_camera_exposuretime_title">Čas ekspozicije</string>
-  <string name="pref_camera_face_info_watermark_title">Prikaži podatke o starosti na fotografiji</string>
+  <string name="pref_camera_face_info_watermark_title">Pokaži podatke o starosti na fotografiji</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Skrij okvir za samodejno prepoznavanje obraza</string>
   <string name="pref_camera_facedetection_entry_off">Izklj.</string>
   <string name="pref_camera_facedetection_entry_on">Vklj.</string>
@@ -816,7 +816,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_redeyereduction_entry_disable">Onemogoči</string>
   <string name="pref_camera_redeyereduction_entry_enable">Omogoči</string>
   <string name="pref_camera_redeyereduction_title">Brisanje rdečih oči</string>
-  <string name="pref_camera_referenceline_title">Prikaži mrežne črte</string>
+  <string name="pref_camera_referenceline_title">Pokaži mrežne črte</string>
   <string name="pref_camera_saturation_title">Nasičenost</string>
   <string name="pref_camera_scenedetect_title">Samod. prepoznavanje scene.</string>
   <string name="pref_camera_scenemode_entry_auto">Samodejno</string>
@@ -838,9 +838,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_settings_title">Nastavitve</string>
   <string name="pref_camera_sharpness_title">Ostrina</string>
   <string name="pref_camera_show_gender_age_config_title">Starost &amp; spol</string>
-  <string name="pref_camera_show_gender_age_entry_alias">Prikaži starost</string>
+  <string name="pref_camera_show_gender_age_entry_alias">Pokaži starost</string>
   <string name="pref_camera_show_gender_age_entry_off">Izklop</string>
-  <string name="pref_camera_show_gender_age_entry_on">Prikaži starost in spol</string>
+  <string name="pref_camera_show_gender_age_entry_on">Pokaži starost in spol</string>
   <string name="pref_camera_show_gender_age_label_alias">Starost</string>
   <string name="pref_camera_show_gender_age_label_on">Starost &amp; spol</string>
   <string name="pref_camera_show_gender_age_title">Starost &amp; spol</string>
@@ -1010,7 +1010,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>
   <string name="secure_access_web_url">Varen dostop</string>
   <string name="see_app_details">Poglejte podrobnosti aplikacije</string>
-  <string name="see_qrcode_detals">Prikaži podrobnosti QR kode</string>
+  <string name="see_qrcode_detals">Pokaži podrobnosti QR kode</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_image">Izberi fotografijo</string>
   <string name="select_item">Izberi predmet</string>
@@ -1025,7 +1025,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="share">Deli</string>
   <string name="show_all">Slike &amp; videoposnetki</string>
   <string name="show_images_only">Samo slike</string>
-  <string name="show_on_map">Prikaži na mapi</string>
+  <string name="show_on_map">Pokaži na mapi</string>
   <string name="show_videos_only">Samo videoposnetki</string>
   <string name="simple_mode_button_asd_flash">Končaj zajem bliskavice</string>
   <string name="simple_mode_button_asd_hdr">Končaj zajem HDR</string>

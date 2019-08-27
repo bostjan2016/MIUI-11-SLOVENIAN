@@ -206,6 +206,6 @@
 	<string-array name="debug_hw_overdraw_entries">
         <item>Izključeno</item>
         <item>Pokaži področja slojnih izrisov</item>
-        <item>Prikaži področja za deuteranomalijo</item>
+        <item>Pokaži področja za deuteranomalijo</item>
     </string-array>
 </resources>

@@ -501,7 +501,7 @@ s številko %s"</string>
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
-  <string name="hardware">Prikaži virtualno tipkovnico</string>
+  <string name="hardware">Pokaži virtualno tipkovnico</string>
     <string name="harmful_app_warning_open_anyway">VSEENO ODPRI</string>
     <string name="harmful_app_warning_title">Zaznana je bila škodljiva aplikacija</string>
     <string name="harmful_app_warning_uninstall">ODSTRANI</string>

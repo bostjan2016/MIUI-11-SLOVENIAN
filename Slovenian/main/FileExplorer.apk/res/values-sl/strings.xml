@@ -46,7 +46,7 @@
   <string name="backup_checkbox_msg">Samodejno napravi var. kopijo</string>
   <string name="backup_confirm">Napravi var. kopijo zdaj</string>
   <string name="backup_success_cancel">V redu</string>
-  <string name="backup_success_confirm">Prikaži</string>
+  <string name="backup_success_confirm">Pokaži</string>
   <string name="backup_success_message">Shranjeno na %1$s</string>
   <string name="backup_success_title">Var. kopija napravljena</string>
   <string name="backup_title">Napravim var. kopijo WeChat videoposnetkov?</string>
@@ -191,7 +191,7 @@
   <string name="decompress_title">Razširi</string>
   <string name="decompress_to">Razširi v...</string>
   <string name="decompress_to_here">Razširi sem</string>
-  <string name="decrypt">Prikaži</string>
+  <string name="decrypt">Pokaži</string>
   <string name="decrypt_error">"Ne morem dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj in shrani v…</string>
   <string name="decrypting">Dešifriranje…</string>
@@ -402,7 +402,7 @@
   <string name="like_toast_2">Poglejte videoposnetke katere želite na svojem profilu.</string>
   <string name="like_toast_3">Prijavite se da pogledate videoposnetke katere želite na svojem profilu.</string>
   <string name="load_err">Ni mogoče naložiti</string>
-  <string name="load_more">Prikaži več</string>
+  <string name="load_more">Pokaži več</string>
   <string name="load_sticker_fail">"Ne morem naložiti nalepke"</string>
   <string name="loading">Nalaganje...</string>
   <string name="local_image">Slike</string>
@@ -591,7 +591,7 @@
   <string name="notification_wechat_auto_backup_hint">Dotaknite se da boste zvedeli več.</string>
   <string name="notification_wechat_auto_backup_switch_title">Napravi var. kopijo Chats videoposnetkov</string>
   <string name="notification_wechat_expired_empty">WeChat je že izbrisal te videoposnetke.</string>
-  <string name="notification_wechat_sticker_hint">Prikaži obvestilo kadar bodo na voljo nove WeChat nalepke</string>
+  <string name="notification_wechat_sticker_hint">Pokaži obvestilo kadar bodo na voljo nove WeChat nalepke</string>
   <string name="notification_wechat_sticker_switch_title">Dnevna obvestila o novih nalepkah</string>
   <string name="notification_wechat_title">Obvesti kdaj bodo WeChat videoposnetki potekli</string>
   <string name="notify_private_folder_msg">Dotaknite se da boste zvedeli več.</string>
@@ -945,10 +945,10 @@
   <string name="sys_size_enable">na voljo</string>
   <string name="tab_app">Več</string>
   <string name="system_alert">Spletno povezovanje</string>
-  <string name="system_sticker_control">Prikaži popularne videoposnetke</string>
-  <string name="system_sticker_control_tip">Prikaži popularne nalepke v Raziskovalcu</string>
-  <string name="system_video_control">Prikaži popularne videoposnetke</string>
-  <string name="system_video_control_tip">Prikaži popularne videoposnetke v Raziskovalcu</string>
+  <string name="system_sticker_control">Pokaži popularne videoposnetke</string>
+  <string name="system_sticker_control_tip">Pokaži popularne nalepke v Raziskovalcu</string>
+  <string name="system_video_control">Pokaži popularne videoposnetke</string>
+  <string name="system_video_control_tip">Pokaži popularne videoposnetke v Raziskovalcu</string>
   <string name="tab_category">Kategorije</string>
   <string name="tab_claim">Zahteva</string>
   <string name="tab_common_app">Aplik. &amp; mape</string>
@@ -1178,10 +1178,10 @@
   <string name="video_upload_title">Izberite video</string>
   <string name="video_upload_wechat_hint">Naložite WeChat videoposnetke da dobite več oboževalcev.</string>
   <string name="video_uploaded">Naloženo</string>
-  <string name="view_master_rank">Prikaži Youliao top</string>
+  <string name="view_master_rank">Pokaži Youliao top</string>
   <string name="videos">Videoposnetki</string>
-  <string name="view_top_rank">Prikaži lestvico</string>
-  <string name="view_more_sticker">Prikaži več nalepk</string>
+  <string name="view_top_rank">Pokaži lestvico</string>
+  <string name="view_more_sticker">Pokaži več nalepk</string>
   <string name="wb_btn_bind">Weibo</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čakam na omrežje</string>

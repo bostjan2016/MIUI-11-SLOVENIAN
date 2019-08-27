@@ -36,7 +36,7 @@
   <string name="ac_pre_notification_contentTitle">Poskusite zakl. aplikacij</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
   <string name="ac_summaryOn">Vnesite geslo za odpiranje aplikacije</string>
-  <string name="ac_unmask_all_apps">Prikaži za vse aplikacije</string>
+  <string name="ac_unmask_all_apps">Pokaži za vse aplikacije</string>
   <string name="access_control_app_is_launching">Aplikacija se zaganja</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Narišite vzorec odklepanja da uporabite nov prstni odtis</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa."</string>
@@ -271,7 +271,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_notify_bar">Značke</string>
   <string name="app_manager_notify_floating">Lebdeča obvestila</string>
   <string name="app_manager_notify_keyguard">Zakl. zaslon</string>
-  <string name="app_manager_open_show_all_apps_immediate">Prikaži vse rezultate</string>
+  <string name="app_manager_open_show_all_apps_immediate">Pokaži vse rezultate</string>
   <string name="app_manager_perm">Dovoljenja</string>
   <string name="app_manager_perm_monitor_make_calls">Izvajanje telefonskih klicev</string>
   <string name="app_manager_perm_monitor_read_call_history">Branje zgodovine klicev</string>
@@ -314,9 +314,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
  Ne boste izgubili podatkov aplikacije."</string>
   <string name="app_manager_reset_app_preferences_title">Ponastavim nastavitve aplikacije?</string>
   <string name="app_manager_search_prompt">"Rezultatov ni mogoče najti? Poskusite prikazati rezultate vseh aplikacij."</string>
-  <string name="app_manager_show_all_apps">Prikaži vse aplikacije</string>
+  <string name="app_manager_show_all_apps">Pokaži vse aplikacije</string>
   <string name="app_manager_show_all_apps_opened">Prikaz rezultatov vseh aplikacij…</string>
-  <string name="app_manager_show_detail_infos">Prikaži vse</string>
+  <string name="app_manager_show_detail_infos">Pokaži vse</string>
   <string name="app_manager_sort">Razvrsti po</string>
   <string name="app_manager_start_by">Zagnano od %s</string>
   <string name="app_manager_start_count_over">100000 krat</string>
@@ -687,7 +687,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_hbassistant_title">Pohitri igre</string>
   <string name="card_main_hwtest_title">Test strojne opreme</string>
   <string name="card_main_monthreport_action">Pokaži</string>
-  <string name="card_main_monthreport_summary">Prikaži mesečna poročila</string>
+  <string name="card_main_monthreport_summary">Pokaži mesečna poročila</string>
   <string name="card_main_monthreport_title">Varnostna statistika</string>
   <string name="card_main_netcheck_action">Test</string>
   <string name="card_main_netcheck_summary">Test povezave za težave z omrežjem</string>
@@ -719,7 +719,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="chat_number">10 ur</string>
   <string name="chat_uint">" ur"</string>
   <string name="check_network_state">Preveri status omrežja</string>
-  <string name="checkout_traffic_saving_history">Prikaži zgodovino</string>
+  <string name="checkout_traffic_saving_history">Pokaži zgodovino</string>
   <string name="choose">Izberi</string>
   <string name="choose_gs_show_way">Izberite orientacijo začetne strani</string>
   <string name="clean_immediately">Očisti</string>
@@ -845,7 +845,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="datausage_purchase_title_confirm">Podrobnosti o nakupu</string>
   <string name="datausage_purchase_title_order">Doplačilo</string>
   <string name="datausage_purchase_title_pkglist">Doplačilo</string>
-  <string name="datausage_purchase_view_detail">Prikaži podrobnosti</string>
+  <string name="datausage_purchase_view_detail">Pokaži podrobnosti</string>
   <string name="declaration_dialog_msg">To opravilo vam pomaga spremljati vašo porabo, ne jamči pa da ne bo prišlo do dodatnih stroškov. Za najboljše rezultate nastavite strogo omejitev.</string>
   <string name="deep_clean_disconnect_data_title">Izključi mobilne podatke kadar je naprava zaklenjena</string>
   <string name="deep_clean_memory_clean_title">Izbriši predpomnilnik kadar je naprava zaklenjena</string>
@@ -1312,7 +1312,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_global_settings">Splošne nastavitve</string>
   <string name="gb_msg_completely_shielded">Skrij sporočila</string>
   <string name="gb_msg_completely_shielded_summary">Skrij</string>
-  <string name="gb_msg_not_shielded_summary">Prikaži</string>
+  <string name="gb_msg_not_shielded_summary">Pokaži</string>
   <string name="gb_msg_quickly_answer">Dovoli hitre odgovore</string>
   <string name="gb_msg_quickly_answer_summary">Hitri odgovori</string>
   <string name="gb_msg_transparent_dispaly">Obvestila z transparentnim ozadjem</string>
@@ -1519,8 +1519,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="lock_screen_traffic_purchase_textview">Doplačajte bon</string>
   <string name="lock_screen_traffic_warn_title">Obvestila zakl. zaslona</string>
   <string name="lock_screen_warning_category">Obvestila zakl. zaslona</string>
-  <string name="lock_screen_warning_switch_summary">Prikaži opozorilo na zakl. zaslonu ko poraba podatkov preseže določeno vrednost</string>
-  <string name="lock_screen_warning_switch_title">Prikaži opozorila na zakl. zaslonu</string>
+  <string name="lock_screen_warning_switch_summary">Pokaži opozorilo na zakl. zaslonu ko poraba podatkov preseže določeno vrednost</string>
+  <string name="lock_screen_warning_switch_title">Pokaži opozorila na zakl. zaslonu</string>
   <string name="lock_screen_warning_value">Opozorilo porabe podatkov</string>
   <string name="lock_settings_title">Zakl. zaslon in geslo</string>
   <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
@@ -1672,9 +1672,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="menu_add">Dodaj</string>
   <string name="menu_add_into_contact">Dodaj obstoječemu stiku</string>
   <string name="menu_add_new_contact">Nov stik</string>
-  <string name="menu_bl_call_log">Prikaži blokirane klice</string>
+  <string name="menu_bl_call_log">Pokaži blokirane klice</string>
   <string name="menu_bl_remove">Odblokiraj</string>
-  <string name="menu_bl_sms_log">Prikaži blokirana SMS sporočila</string>
+  <string name="menu_bl_sms_log">Pokaži blokirana SMS sporočila</string>
   <string name="menu_call">Kliči</string>
   <string name="menu_charge_bill">Stanje doplačil</string>
   <string name="menu_charge_traffic">Kupi podatke</string>
@@ -1760,7 +1760,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
   <string name="monitor_requests_from_pc">Urejanje namestitve aplikacij preko USB</string>
-  <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
+  <string name="month_report_month_report_switch">Pokaži mesečne prijave</string>
   <string name="more_game">Več iger</string>
   <string name="more_lock">Več</string>
   <string name="more_settings">Več</string>
@@ -1991,7 +1991,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optimize_result_button_open_now">Vključi</string>
   <string name="optimize_result_button_operators_diagnose">Diagnostika operaterja</string>
   <string name="optimize_result_button_purchase">Kupi</string>
-  <string name="optimize_result_button_purchase_flow">Prikaži vse</string>
+  <string name="optimize_result_button_purchase_flow">Pokaži vse</string>
   <string name="optimize_result_button_realname_now">Preveri</string>
   <string name="optimize_result_button_see_detaills">Podrobnosti</string>
   <string name="optimize_result_button_to_open">Vključi</string>
@@ -2444,7 +2444,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dnevna omejitev podatkov</string>
   <string name="pref_roaming_setting_gategory">Nastavitve</string>
   <string name="pref_setting_operators_message">Uredite obvestilo ki ga vaša naprava pošlje operaterju za sinhronizacijo statistike porabe podatkov</string>
-  <string name="pref_show_mobile_traffic">Prikaži statistiko porabe podatkov v času odklepanja po tem ko je naprava zaklenjena več kot 5 minut</string>
+  <string name="pref_show_mobile_traffic">Pokaži statistiko porabe podatkov v času odklepanja po tem ko je naprava zaklenjena več kot 5 minut</string>
   <string name="pref_special_package_setting">Prilagojeni plan podatkov</string>
   <string name="pref_special_package_setting_summary">Urejaj omejitve in določene podatke</string>
   <string name="pref_special_traffic_exceed_limit">Obvesti ko poraba podatkov doseže omejitev</string>
@@ -2458,12 +2458,12 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti pri zakl. zaslonu</string>
   <string name="pref_title_manual_check_virus_db_update">Preveri posodobitve</string>
-  <string name="pref_title_mobile_traffic">Prikaži podatke uporabe ko je bila naprava zaklenjena</string>
+  <string name="pref_title_mobile_traffic">Pokaži podatke uporabe ko je bila naprava zaklenjena</string>
   <string name="pref_title_network_diagnostics">Test omrežja</string>
   <string name="pref_title_over_traffic_limit_warning">Ko je prekoračeno</string>
   <string name="pref_title_traffic_limit_number">Velikost</string>
   <string name="pref_title_traffic_package_type">Vrsta plana podatkov</string>
-  <string name="pref_title_traffic_speed_state">Prikaži hitrost omrežja v obvestilni vrstici</string>
+  <string name="pref_title_traffic_speed_state">Pokaži hitrost omrežja v obvestilni vrstici</string>
   <string name="pref_title_update_notification">Obvestila porabe podatkov</string>
   <string name="pref_title_upload_data_usage">Prijavi podatke uporabe podatkov</string>
   <string name="pref_traffic_daily_package">Dnevni plan podatkov</string>
@@ -2486,8 +2486,8 @@ Vaši podatki bodo ostali zasebni in ne bodo deljeni drugim.
 &lt;br /&gt;&lt;br /&gt;
 Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega operaterja."</string>
   <string name="pref_traffic_saving_no_compress">Normalno</string>
-  <string name="pref_traffic_saving_notify_switch">Prikaži v plošči obvestil</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Prikaži statistiko porabe podatkov v plošči obvestil</string>
+  <string name="pref_traffic_saving_notify_switch">Pokaži v plošči obvestil</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Pokaži statistiko porabe podatkov v plošči obvestil</string>
   <string name="pref_traffic_saving_pic_compress_level">Kompresija</string>
   <string name="pref_traffic_saving_switch">Zmanjšajte porabo podatkov</string>
   <string name="pref_traffic_saving_switch_hint">Uporabi proxy za stiskanje podatkov</string>
@@ -2726,9 +2726,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih ponovno vključite</string>
   <string name="shield_keyboard_summary">Omejite tipke in gibe celega zaslona med igrami</string>
   <string name="shield_keyboard_title">Omeji tipke in gibe</string>
-  <string name="show_system_app">Prikaži sistemske aplikacije</string>
+  <string name="show_system_app">Pokaži sistemske aplikacije</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to opravilo kadar koli v Poraba podatkov &gt; Nastavitve</string>
-  <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
+  <string name="show_traffic_dialog_title">Pokaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
   <string name="shutdown_cancel_reminder">"Naprava se ni izključila"</string>
   <string name="shutdown_cancel_reminder_detail">"Naprava se ni izključila ker ste imeli pogovor"</string>
@@ -2837,7 +2837,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_antispam_mode_only_whitelist_sum">Dovoli samo klice in sporočila številk iz seznama izjem</string>
   <string name="st_antispam_mode_smart">Prijavljene številke</string>
   <string name="st_antispam_mode_smart_sum">"Blokirati številke ki ste jih dodali ročno in številke ki so jih prijavili drugi uporabniki"</string>
-  <string name="st_antispam_notification_sum">Prikaži obvestilo ko je klic/SMS blokiran</string>
+  <string name="st_antispam_notification_sum">Pokaži obvestilo ko je klic/SMS blokiran</string>
   <string name="st_antispam_title_anoy_incoming">Klici tujcev</string>
   <string name="st_antispam_title_anoy_sms">SMS tujca</string>
   <string name="st_antispam_title_contact_incoming">Klici stikov</string>
@@ -2886,7 +2886,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_other_setting_group">Ostale nastavitve</string>
   <string name="st_settings_name">Nastavitve seznama prepovedanih</string>
   <string name="st_share_settings">Uporabi nastavitve z SIM1</string>
-  <string name="st_show_block_notification">Prikaži blokirana obvestila</string>
+  <string name="st_show_block_notification">Pokaži blokirana obvestila</string>
   <string name="st_show_num_keyword">" ključne besede"</string>
   <string name="st_show_num_number">" stevilk"</string>
   <string name="st_sms_group">SMS</string>

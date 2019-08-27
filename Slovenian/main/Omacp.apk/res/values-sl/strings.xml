@@ -97,7 +97,7 @@
   <string name="unknown">Neznano</string>
   <string name="unlock_pin_dialog_title">Vnesite številko PIN</string>
   <string name="user_name_label">"Uporabniško ime: "</string>
-  <string name="view">Prikaži</string>
+  <string name="view">Pokaži</string>
   <string name="view_message_detail">Prikaz podrobnosti sporočila</string>
   <string name="yes">V redu</string>
 </resources>

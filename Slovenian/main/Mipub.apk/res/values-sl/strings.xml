@@ -96,7 +96,7 @@
   <string name="menu_more_service">Več</string>
   <string name="menu_new_contact">Nov stik</string>
   <string name="menu_unlock">Odznači</string>
-  <string name="menu_yellowpage">Prikaži %s</string>
+  <string name="menu_yellowpage">Pokaži %s</string>
   <string name="message_block_confirmation">Blokiram sporočila tega računa?</string>
   <string name="message_block_processing">Obdelava…</string>
   <string name="message_block_reminder">Opomnik</string>
@@ -158,8 +158,8 @@
   <string name="pref_summary_hide_festival">Skrij kartico Pozdravi za nekitajski jezik</string>
   <string name="pref_summary_manage_sim_messages">Urejaj sporočila na SIM kartici</string>
   <string name="pref_summary_mx_feedback">Prijavite napake in pošljite povratne informacije.</string>
-  <string name="pref_summary_notification_body_enabled">Prikaži sporočila na zakl. zaslonu in plošči obvestil</string>
-  <string name="pref_summary_show_recent_contacts">Prikaži seznam nedavnih stikov pri pisanju novega sporočila</string>
+  <string name="pref_summary_notification_body_enabled">Pokaži sporočila na zakl. zaslonu in plošči obvestil</string>
+  <string name="pref_summary_show_recent_contacts">Pokaži seznam nedavnih stikov pri pisanju novega sporočila</string>
   <string name="pref_system_title">Sistem</string>
   <string name="pref_time_auto_group_summary">Skupinska sporočila po času</string>
   <string name="pref_time_auto_group_title">Skupinska sporočila</string>
@@ -171,7 +171,7 @@
   <string name="pref_title_hide_festival">Skrij kartico Pozdravi</string>
   <string name="pref_title_manage_sim_messages">Urejanje sporočil SIM kartice</string>
   <string name="pref_title_miui_card">Pošlji preko kartice</string>
-  <string name="pref_title_notification_body_enabled">Prikaži obvestilo na zakl. zaslonu</string>
+  <string name="pref_title_notification_body_enabled">Pokaži obvestilo na zakl. zaslonu</string>
   <string name="pref_title_ringtone_repeat">Število ponavljanj tona obvestil</string>
   <string name="pref_title_show_recent_contacts">Nedavni stiki</string>
   <string name="pref_title_vcard">Pošlji preko vCard</string>
@@ -237,11 +237,11 @@
   <string name="unstick">Odznači</string>
   <string name="unsticked_conversation">Trenutni razgovor je že odznačen</string>
   <string name="unsupported_media_format">Nepodprt %1$s format</string>
-  <string name="view">Prikaži</string>
+  <string name="view">Pokaži</string>
   <string name="view_hms_attachment_fail">"Ne morem prevzeti slike."</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_hms_details_download">Prevzemanje</string>
-  <string name="view_message_details">Prikaži podrobnosti</string>
+  <string name="view_message_details">Pokaži podrobnosti</string>
   <string name="xiaomi_service_number">Številka storitve</string>
   <string name="yes">V redu</string>
 </resources>

@@ -263,7 +263,7 @@ Z vrha zaslona povlecite dol za uporabo."</string>
   <string name="setting_vibrate_desc">"Telefon bo vibriral ko bo opravilo končano"</string>
   <string name="setting_vibrate_text">Odziv vibracije</string>
   <string name="settings">Nastavitve</string>
-  <string name="showSlip">Prikaži v pojavnem oknu</string>
+  <string name="showSlip">Pokaži v pojavnem oknu</string>
   <string name="silent_mode_tip_main">Tihi način dela je omogočen</string>
   <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS poslan</string>

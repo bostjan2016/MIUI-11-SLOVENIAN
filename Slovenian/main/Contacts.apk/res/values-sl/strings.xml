@@ -39,7 +39,7 @@
   <string name="aggregation_suggestion_edit_dialog_title">Isto ime</string>
   <string name="aggregation_suggestion_join_dialog_message">Pridružim trenutni stik izbranemu stiku?</string>
   <string name="all_list_empty">Ni stikov</string>
-  <string name="antispam_mark_my_contribution">"Prikaži ostalim uporabnikom da sem prijavil to številko."</string>
+  <string name="antispam_mark_my_contribution">"Pokaži ostalim uporabnikom da sem prijavil to številko."</string>
   <string name="antispam_provider_format">Prijavljena kot nezaželjeno od %s</string>
   <string name="attach_photo_dialog_title">Slika stika</string>
   <string name="audio_chat">Glasovni klepet</string>
@@ -150,7 +150,7 @@
   <string name="callrecordview_menu_show_new">Novi stiki</string>
   <string name="callrecordview_menu_show_sim">%s klicev</string>
   <string name="callrecordview_menu_show_stranger">Klici neznanih številk</string>
-  <string name="callrecordview_menu_show_title">Prikaži zgodovino klicev</string>
+  <string name="callrecordview_menu_show_title">Pokaži zgodovino klicev</string>
   <string name="callrecordview_menu_voip">VoIP</string>
   <string name="calls_voip_prompt">VOIP</string>
   <string name="cancel_confirmation_dialog_message">Zavržem spremembe?</string>
@@ -249,7 +249,7 @@ Vizitke stikov so izključene"</string>
   <string name="contact_detail_profile_switch_off">Izključi vizitke</string>
   <string name="contact_detail_profile_switch_off_fail_toast">"Ne morem izključiti vizitke"</string>
   <string name="contact_detail_profile_switch_off_success_toast">Vizitke so izključene</string>
-  <string name="contact_detail_profile_switch_on">"Prikaži fotografije profila stikov"</string>
+  <string name="contact_detail_profile_switch_on">"Pokaži fotografije profila stikov"</string>
   <string name="contact_detail_profile_switch_on_fail_toast">"Ne morem izključiti vizitke</string>
   <string name="contact_detail_profile_switch_on_subtitle">Dotaknite se da vključite vizitke</string>
   <string name="contact_detail_profile_switch_on_success_toast">Vizitke so vključene</string>
@@ -415,7 +415,7 @@ Vizitke stikov so izključene"</string>
   <string name="dialer_empty_text_no_call_log">Ni nedavnih stikov</string>
   <string name="dialer_empty_text_no_search_result">Najdenih ni nobenih stikov</string>
   <string name="dialer_firewall_entry_name">Blokirani zapisniki klicev</string>
-  <string name="dialer_menu_description">Prikaži tipkovnice</string>
+  <string name="dialer_menu_description">Pokaži tipkovnice</string>
   <string name="dialer_menu_title">Možnosti izbiranja</string>
   <string name="dialer_returnToInCallScreen">Vrni se na klic v teku</string>
   <string name="dialer_useDtmfDialpad">Uporabi tonsko tipkovnico</string>
@@ -443,7 +443,7 @@ Vizitke stikov so izključene"</string>
   <string name="display_options_sort_list_by">Razvrsti po</string>
   <string name="display_options_view_family_name_first">Najprej priimek</string>
   <string name="display_options_view_given_name_first">Najprej ime</string>
-  <string name="display_options_view_names_as">Prikaži imena stikov kot</string>
+  <string name="display_options_view_names_as">Pokaži imena stikov kot</string>
   <string name="display_sim_contacts">Pokaži SIM stike</string>
   <string name="display_ungrouped">Vsi ostali stiki</string>
   <string name="display_warn_remove_ungrouped">Odstranjevanje skupine \"%s\" iz sinhronizacije bo prav tako izbrisalo vse nerazporejene stike iz sinhronizacije.</string>
@@ -745,7 +745,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="messageShortcutActivityTitle">Izberi številko za pošiljanje</string>
   <string name="miprofile_account_type">Mi Račun</string>
   <string name="miprofile_alertdialog_edit">Vnesite ime</string>
-  <string name="miprofile_alertdialog_message">Prikaži to ime stikom kadar zahtevajo menjavo vizitk.</string>
+  <string name="miprofile_alertdialog_message">Pokaži to ime stikom kadar zahtevajo menjavo vizitk.</string>
   <string name="miprofile_alertdialog_title">Vnesite ime</string>
   <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo tega opravila."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Dodaj številko</string>
@@ -937,7 +937,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="path_contacts_recovery">Aplikacije sistema/Stiki/Obnovi stike</string>
   <string name="path_contacts_setting">Aplikacije sistema/Stiki</string>
   <string name="path_display_only_phones">Aplikacije sistema/Stiki/Opcije prikaza/Skrij nepopolne številke</string>
-  <string name="path_display_sim_contacts">Aplikacije sistema/Stiki/Opcije prikaza/Prikaži SIM stike</string>
+  <string name="path_display_sim_contacts">Aplikacije sistema/Stiki/Opcije prikaza/Pokaži SIM stike</string>
   <string name="path_export_to_sdcard">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Izvoz iz pomnilnika</string>
   <string name="path_export_to_sim">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Izvoz iz SIM kartice</string>
   <string name="path_import_export">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov</string>
@@ -951,7 +951,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="path_remove_duplicate">Aplikacije sistema/Stiki/Organizraj stike/Združi podvojene stike</string>
   <string name="path_share_visible_contacts">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Deli stike</string>
   <string name="path_sim_capacity">Aplikacije sistema/Stiki/Pomnilnik SIM kartice</string>
-  <string name="path_simple_mode">Aplikacije sistema/Stiki/Prikaži slike in informacije</string>
+  <string name="path_simple_mode">Aplikacije sistema/Stiki/Pokaži slike in informacije</string>
   <string name="path_smart_group_title">Aplikacije sistema/Stiki/Opcije prikaza/Pametne skupine</string>
   <string name="path_wipe_data">Aplikacije sistema/Stiki/Organizraj stike/Izbriši podatke</string>
   <string name="payphone">Telefonska govorilnica</string>
@@ -995,9 +995,9 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pref_key_photo_word_title">Dodeli kontaktno sliko</string>
   <string name="pref_key_rebuild_t9_index_message">Obnovi indeks da se odstranijo problemi iskanja</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovi podatke indeksa</string>
-  <string name="pref_key_sdn_manage">Prikaži SDN</string>
-  <string name="pref_key_sdn_manage1">Prikaži SDN kartico 1</string>
-  <string name="pref_key_sdn_manage2">Prikaži SDN kartico 2</string>
+  <string name="pref_key_sdn_manage">Pokaži SDN</string>
+  <string name="pref_key_sdn_manage1">Pokaži SDN kartico 1</string>
+  <string name="pref_key_sdn_manage2">Pokaži SDN kartico 2</string>
   <string name="pref_key_sim_manage">SIM kartica</string>
   <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
   <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
@@ -1010,7 +1010,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_auto_ip_summary_on">Operaterjeva IP predpona: %s</string>
   <string name="preference_auto_ip_title">Samodejna IP predpona</string>
   <string name="preference_contacts">Stiki</string>
-  <string name="preference_contacts_display">Prikaži preference</string>
+  <string name="preference_contacts_display">Pokaži preference</string>
   <string name="preference_contacts_filter">Konfiguriraj seznam stikov</string>
   <string name="preference_contacts_more">Organiziraj stike</string>
   <string name="preference_contacts_moresetting">Več</string>
@@ -1035,7 +1035,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_remove_duplicate">Združi podvojene stike</string>
   <string name="preference_show_firewall_calllog">Pokaži blokirane klice v zgodovini klicev</string>
   <string name="preference_show_yellowpage_tab_description">Yellow Pages storitev ne bo delala pravilno če izključite to storitev</string>
-  <string name="preference_show_yellowpage_tab_title">Prikaži Yellow Pages</string>
+  <string name="preference_show_yellowpage_tab_title">Pokaži Yellow Pages</string>
   <string name="preference_simple_mode_description">Pokaži slike in ostale podatke v pogledu seznama</string>
   <string name="preference_simple_mode_title">Pokaži slike in podatke</string>
   <string name="preference_smart_group_company_summary">Združi po podjetju</string>
@@ -1048,7 +1048,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_telocation_summary_countrycode_off">Brez samodejnega dodajanja številke države</string>
   <string name="preference_telocation_summary_countrycode_on">Samodejno dodaj številko države</string>
   <string name="preference_telocation_summary_teloc_off">Skrij lokacijo stika</string>
-  <string name="preference_telocation_summary_teloc_on">Prikaži lokacijo stika</string>
+  <string name="preference_telocation_summary_teloc_on">Pokaži lokacijo stika</string>
   <string name="preference_telocation_title">Lokacija</string>
   <string name="preference_tone_title">Zvoki</string>
   <string name="prepare_import">"Uvozi stike"</string>
@@ -1149,7 +1149,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_contacts_display">Stiki;Prikaz</string>
   <string name="search_contacts_more">Organiziraj;Stiki</string>
   <string name="search_contacts_recovery">Stiki</string>
-  <string name="search_contacts_setting">Nastavitve stikov;Prikaži slike in informacije;Fotografija za vse;Uvoz in izvoz;Deli; Import from sdcard;Uvoz iz SD kartice;Uvoz iz SIM kartice;Uvoz iz drugega telefona;Izvoz iz SD kartice;Uvoz iz SD kartice;Deli vidljive stike;Prikaži stike;Skrij nepopolne številke;Prikaži SIM stike;Napravi seznam stikov;Pametne skupine;Organizraj stike; Združi podvojene stike;Brisanje serije;Izbriši serijo;Ponovno izgradi podatke indeksa;t9;SIM kartica;Pomnilnik SIM kartice;Obnovi stike</string>
+  <string name="search_contacts_setting">Nastavitve stikov;Pokaži slike in informacije;Fotografija za vse;Uvoz in izvoz;Deli; Import from sdcard;Uvoz iz SD kartice;Uvoz iz SIM kartice;Uvoz iz drugega telefona;Izvoz iz SD kartice;Uvoz iz SD kartice;Deli vidljive stike;Pokaži stike;Skrij nepopolne številke;Pokaži SIM stike;Napravi seznam stikov;Pametne skupine;Organizraj stike; Združi podvojene stike;Brisanje serije;Izbriši serijo;Ponovno izgradi podatke indeksa;t9;SIM kartica;Pomnilnik SIM kartice;Obnovi stike</string>
   <string name="search_display_only_phones">Stiki;Prikaz</string>
   <string name="search_display_sim_contacts">Stiki;Prikaz</string>
   <string name="search_export_to_sdcard">Stiki;Izvoz;SD kartica</string>
@@ -1201,13 +1201,13 @@ Napravite varnostno kopijo stikov."</string>
   <string name="shortcutMessageContact">Neposredno sporočilo</string>
   <string name="shortcut_new_contact_label">Nov stik</string>
   <string name="shortcut_scan_label">Skeniraj vizitko</string>
-  <string name="showAllContactsJoinItem">Prikaži vse stike</string>
+  <string name="showAllContactsJoinItem">Pokaži vse stike</string>
   <string name="simContacts_airplaneMode">"Za uvoz stikov iz SIM kartice izklopite letalski način"</string>
   <string name="simContacts_empty">Na SIM kartici ni stikov</string>
   <string name="simContacts_emptyLoading">Nalagam stike s SIM kartice…</string>
   <string name="simContacts_title">"Stiki SIM kartice"</string>
   <string name="sim_account_name">SIM</string>
-  <string name="sim_capacity">Prikaži prostor SIM kartice</string>
+  <string name="sim_capacity">Pokaži prostor SIM kartice</string>
   <string name="sim_capacity_content" formatted="false">Skupaj %d | Izkoriščeno %d</string>
   <string name="sim_card_no_free_space_message">Ni dovolj prostora</string>
   <string name="sim_card_no_free_space_title">SIM kartica je polna</string>
@@ -1320,7 +1320,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="type_outgoing">Odhodni klic</string>
   <string name="type_voicemail">Glasovna pošta</string>
   <string name="unable_get_device_id">"Ne morem dobiti IMEI"</string>
-  <string name="unfold_all">Prikaži vse</string>
+  <string name="unfold_all">Pokaži vse</string>
   <string name="unknow_phone_number_call_failed">"Ne morem klicati neznane številke"</string>
   <string name="unknow_phone_number_mms_failed">"Ne morem poslati SMS na neznano številko"</string>
   <string name="unknown">Neznano</string>

@@ -47,7 +47,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="Generic_Service_Disabled">Izključeno</string>
   <string name="Generic_Service_Enabled">Vključeno</string>
   <string name="Generic_Shortcut">Dodatni meni</string>
-  <string name="Generic_ShowSystemApp">Prikaži sistemske aplikacije</string>
+  <string name="Generic_ShowSystemApp">Pokaži sistemske aplikacije</string>
   <string name="Generic_Summary_Disabled">Izključi</string>
   <string name="Generic_Summary_Enabled">Vključi</string>
   <string name="Generic_SystemApp">Sistem (%d)</string>
@@ -144,7 +144,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_Network_Send">Pošlji podatke</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Neznan naslov</string>
   <string name="HIPS_Perm_Network_WIFIEvent">WiFi</string>
-  <string name="HIPS_Perm_Notification">Prikaži obvestila</string>
+  <string name="HIPS_Perm_Notification">Pokaži obvestila</string>
   <string name="HIPS_Perm_Notification_Desc">prikazati obvestila v obvestilni vrstici</string>
   <string name="HIPS_Perm_Notification_Hint">(%1$s) aplikacij lahko prikaže obvestila</string>
   <string name="HIPS_Perm_PhoneID">Branje identitete naprave</string>
@@ -242,7 +242,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Beri SMS storitev</string>
   <string name="HIPS_Perm_service_foreground">Storitev v prvem planu</string>
   <string name="HIPS_Perm_service_foreground_Desc">Storitev v prvem planu</string>
-  <string name="HIPS_Perm_show_when_locked">Prikaži na zaklenjenem zaslonu</string>
+  <string name="HIPS_Perm_show_when_locked">Pokaži na zaklenjenem zaslonu</string>
   <string name="HIPS_Perm_show_when_locked_Desc">bo prikazan na zaklenjenem zaslonu</string>
   <string name="HIPS_Perm_use_sip">Video storitve</string>
   <string name="HIPS_Perm_use_sip_Desc">Uporabi Session Initiation Protocol za streaming videoposnetkov</string>
@@ -272,8 +272,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="Privacy_App_Trust">Zaprosi za dovoljenja</string>
   <string name="Privacy_App_TrustDialog_Content">"Ne boste pozvani za dovoljenja ko ta aplikacija dostopa do drugih delov sistema."</string>
   <string name="Privacy_App_TrustDialog_Title">Dovoljenja aplikacij</string>
-  <string name="Privacy_App_Trust_Summary_Off">Prikaži obvestilo ko ta aplikacija poskuša dostopati do drugih delov sistema</string>
-  <string name="Privacy_App_Trust_Summary_On">Prikaži obvestilo ko ta aplikacija poskuša dostopati do drugih delov sistema</string>
+  <string name="Privacy_App_Trust_Summary_Off">Pokaži obvestilo ko ta aplikacija poskuša dostopati do drugih delov sistema</string>
+  <string name="Privacy_App_Trust_Summary_On">Pokaži obvestilo ko ta aplikacija poskuša dostopati do drugih delov sistema</string>
   <string name="Privacy_App_Uninstall">Odstrani</string>
   <string name="Privacy_Perm_Count">%1$d dovoljenih | %2$d zavrnjenih</string>
   <string name="Su_Enable_Dialog">%1$s zahteva ROOT dostop.</string>

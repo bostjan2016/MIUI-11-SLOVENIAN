@@ -109,7 +109,7 @@
   <string name="search_brand">Iskanje</string>
   <string name="select_to_add_printers">Izberite da boste dodali tiskalnik</string>
   <string name="start_print">Tiskanje</string>
-  <string name="show_cpu_usage">Prikaži porabo procesorja</string>
+  <string name="show_cpu_usage">Pokaži porabo procesorja</string>
   <string name="show_cpu_usage_summary">Nastav. element s trenitno porabo procesorja</string>
   <string name="summary_template">Povzetek, št. kopij %1$s, velikost papirja %2$s</string>
   <string name="template_all_pages">Vse strani (%1$s)</string>

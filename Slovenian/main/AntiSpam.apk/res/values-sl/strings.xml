@@ -180,10 +180,10 @@
   <string name="menu_add_new_contact">Nov stik</string>
   <string name="menu_bl_add_contact">Stiki</string>
   <string name="menu_bl_add_manual">Dodaj</string>
-  <string name="menu_bl_call_log">Prikaži blokirane klice</string>
+  <string name="menu_bl_call_log">Pokaži blokirane klice</string>
   <string name="menu_bl_clear">Očisti listo blokiranih</string>
   <string name="menu_bl_remove">Odblokiraj</string>
-  <string name="menu_bl_sms_log">Prikaži blokirane SMS</string>
+  <string name="menu_bl_sms_log">Pokaži blokirane SMS</string>
   <string name="menu_call">Klici</string>
   <string name="menu_clear_all_call">Izbriši blokirane klice</string>
   <string name="menu_clear_all_sms">Izbriši blokirana SMS sporočila</string>
@@ -293,7 +293,7 @@
   <string name="st_mute_title">Ne zvoni in ne vibriraj</string>
   <string name="st_other_setting_group">Ostale nastavitve</string>
   <string name="st_settings_name">Nastavitve seznama blokiranih</string>
-  <string name="st_show_block_notification">Prikaži blokirana obvestila</string>
+  <string name="st_show_block_notification">Pokaži blokirana obvestila</string>
   <string name="st_show_num_keyword">Ključne besede</string>
   <string name="st_show_num_number">številk</string>
   <string name="st_sms_group">Sporočila</string>

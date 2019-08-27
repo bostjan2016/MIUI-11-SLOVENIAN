@@ -104,7 +104,7 @@
   <string name="album_share_subtitle_quitting">Izhod…</string>
   <string name="album_share_subtitle_requesting">Prenašam podrobnosti o albumu…</string>
   <string name="album_share_title_new_album">Deli nov album</string>
-  <string name="album_show_local_only">Prikaži samo lokalne albume</string>
+  <string name="album_show_local_only">Pokaži samo lokalne albume</string>
   <string name="album_show_local_only_summary">Vključite samo za pregled in brisanje fotografij na vaši napravi</string>
   <string name="album_type_baby">Otroški album</string>
   <string name="album_type_share">Deljeni album</string>
@@ -126,7 +126,7 @@
   <string name="app_is_launching_common">Zagon aplikacije…</string>
   <string name="app_name">Galerija</string>
   <string name="app_name_edit_picture">Uredi sliko</string>
-  <string name="app_name_view_picture">Prikaži sliko</string>
+  <string name="app_name_view_picture">Pokaži sliko</string>
   <string name="app_name_view_video">Pregled videoposnetkov</string>
   <string name="apply">Uporabi</string>
   <string name="assistant_page_discovery">Odkrij</string>
@@ -278,8 +278,8 @@
   <string name="card_title_sports">Vadbe</string>
   <string name="cast_devices_unavailable_desc">Preverite ali sta obe napravi povezani na isto WiFi omrežje</string>
   <string name="cast_devices_unavailable_title">"Ne morem najti projektor"</string>
-  <string name="change_to_face_mode">Prikaži samo obraz</string>
-  <string name="change_to_photo_mode">Prikaži celoten pregled</string>
+  <string name="change_to_face_mode">Pokaži samo obraz</string>
+  <string name="change_to_photo_mode">Pokaži celoten pregled</string>
   <string name="change_to_visible">Vrnem osebo?</string>
   <string name="channel_default_name">Nove storitve</string>
   <string name="channel_low_name">Nova sporočila</string>
@@ -464,7 +464,7 @@
   <string name="do_not_remind_me">"Ne kaži več"</string>
   <string name="do_not_save">"Ne shranjuj"</string>
   <string name="document_provider_guide_step_1">1. Tapni tipko \"Več\".</string>
-  <string name="document_provider_guide_step_2">2. Tapni \"Prikaži notranji pomnilnik\".</string>
+  <string name="document_provider_guide_step_2">2. Tapni \"Pokaži notranji pomnilnik\".</string>
   <string name="document_provider_guide_step_3">3. Tapni tipko menija na strani.</string>
   <string name="document_provider_guide_step_4">4. Tapni \"SD kartica\".</string>
   <string name="document_provider_guide_step_5">5. Tapni \"Izberi\".</string>
@@ -554,7 +554,7 @@
   <string name="error_internal_sdcard_write_tip">Prišlo je do napake. Ponovno zaženite napravo in poskusite ponovno.</string>
   <string name="error_invalid_link">Povezava ni pravilna</string>
   <string name="error_link_has_expired">Povezava je potekla</string>
-  <string name="error_network_restrict_action">Prikaži detalje</string>
+  <string name="error_network_restrict_action">Pokaži detalje</string>
   <string name="error_network_restrict_msg">Aplikaciji Galerija dovolite da se poveže na omrežje.</string>
   <string name="error_network_restrict_tip">"Ne morem se povezati na omrežje."</string>
   <string name="error_no_account_action">Prijavi se</string>
@@ -601,7 +601,7 @@
   <string name="exit_share_successfully">Iztopil iz %1$s</string>
   <string name="exit_video_play">Izhod</string>
   <string name="expand_desc">Več</string>
-  <string name="expand_people">Prikaži več oseb</string>
+  <string name="expand_people">Pokaži več oseb</string>
   <string name="ext_sdcard_first_entrance_request_failed_text">Namesto tega bo Galerija shranila stvari na notranji pomnilnik. To lahko spremenite v Nastavitve &gt; Shramba &gt; Nastavitve shrambe.</string>
   <string name="ext_sdcard_first_entrance_request_failed_title">"Ne morem odobriti dovoljenja."</string>
   <string name="ext_sdcard_guide_first_page_button_text">Naprej</string>
@@ -833,7 +833,7 @@ za fotografije"</string>
   <string name="hybrid_pull_to_refresh_release_label">Pusti za osvežitev…</string>
   <string name="hybrid_service_unavailiable">Storitev ni na voljo</string>
   <string name="hybrid_try_again">Poskusi ponovno</string>
-  <string name="ignore_album">"Ne prikaži"</string>
+  <string name="ignore_album">"Ne pokaži"</string>
   <string name="ignore_alert_title">"Ne prikažem tega albuma?"</string>
   <string name="ignore_face">Ignoriraj to osebo</string>
   <string name="ignore_faces_title">Ignorirano</string>
@@ -847,7 +847,7 @@ za fotografije"</string>
   <string name="image_with_time">Fotografija je posneta %s</string>
   <string name="image_with_time_and_location">Fotografija je posneta %1$s. Lokacija: %2$s.</string>
   <string name="impunity_declaration_settings">Obvestila spletne povezave</string>
-  <string name="impunity_declaration_summary">Prikaži obvestila spletne povezave vedno ko odprete Galerijo.</string>
+  <string name="impunity_declaration_summary">Pokaži obvestila spletne povezave vedno ko odprete Galerijo.</string>
   <string name="initializing_cloud">Zaganjanje…</string>
   <string name="initializing_sdk">Zaganjanje…</string>
   <string name="input_a_name">Vnesite ime</string>
@@ -920,7 +920,7 @@ za fotografije"</string>
   <string name="menu_item_sort_date">Datum</string>
   <string name="menu_item_sort_name">Ime</string>
   <string name="menu_item_sort_size">Velikos</string>
-  <string name="menu_view_contact">Prikaži stik</string>
+  <string name="menu_view_contact">Pokaži stik</string>
   <string name="merge_album">Združi</string>
   <string name="merge_album_title">Združi z osebo</string>
   <string name="messagelist_sender_self">Jaz</string>
@@ -1097,13 +1097,13 @@ za fotografije"</string>
   <string name="operation_set_video_wallpaper">Nastavi video ozadje</string>
   <string name="operation_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="operation_share">Deli</string>
-  <string name="operation_show_in_photos_tab">Prikaži na začetni strani</string>
-  <string name="operation_show_on_map">Prikaži na mapi</string>
+  <string name="operation_show_in_photos_tab">Pokaži na začetni strani</string>
+  <string name="operation_show_on_map">Pokaži na mapi</string>
   <string name="operation_slide_show">Zaženi diaprojekcijo</string>
   <string name="operation_successful">Deljeno</string>
   <string name="operation_too_often">Preveč zahtev iz vašega IP naslova. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="operation_unforce_top">Odstrani z vrha</string>
-  <string name="operation_unhide">Prikaži</string>
+  <string name="operation_unhide">Pokaži</string>
   <string name="orientation_lock_tip">Vrtenje zaklenjeno</string>
   <string name="orientation_unlock_tip">Samod. vrtenje vključeno</string>
   <string name="origin_gif_name">izvorna datoteka</string>
@@ -1509,7 +1509,7 @@ za fotografije"</string>
   <string name="similar_keep_clear">Obdrži najboljše fotografije</string>
   <string name="slideshow_interval_dialog_title">Vnesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
-  <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
+  <string name="slideshow_interval_title">Pokaži vsak posnetek na</string>
   <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje na voljo na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
   <string name="slim_after_backuped_title">Optimiziraj lokalno shrambo po izdelavi var. kopije</string>
   <string name="slim_complete">Končano</string>
@@ -1807,10 +1807,10 @@ za fotografije"</string>
   <string name="video_not_exist">Videoposnetek ne obstaja</string>
   <string name="video_with_time">Videoposnetek posnet %s</string>
   <string name="video_with_time_and_location">Videoposnetek posnet %1$s. Lokacija: %2$s.</string>
-  <string name="view_baby_album">Prikaži otroški album</string>
+  <string name="view_baby_album">Pokaži otroški album</string>
   <string name="view_by_gallery_tip">MIUI Galerija</string>
-  <string name="view_face_album">Prikaži album</string>
-  <string name="view_more_face_desc">Prikaži več oseb</string>
+  <string name="view_face_album">Pokaži album</string>
+  <string name="view_more_face_desc">Pokaži več oseb</string>
   <string name="view_queuing_status">Preverite status</string>
   <string name="vignette">Vinjeta</string>
   <string name="voice_assistant">Glasovni vnos</string>

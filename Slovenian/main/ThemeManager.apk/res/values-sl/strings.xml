@@ -399,7 +399,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Menjava računa</string>
   <string name="resource_alarm_default">Alarm</string>
-  <string name="resource_app_name">Prikaži vire</string>
+  <string name="resource_app_name">Pokaži vire</string>
   <string name="resource_apply">Nastavi</string>
   <string name="resource_apply_trial">Nastavi</string>
   <string name="resource_back">Nazaj</string>
@@ -637,11 +637,11 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="shortcut_message">Dodajte bližnjico začetnega zaslona!</string>
   <string name="shortcut_show_tip">"Ne kaži več"</string>
   <string name="shortcut_title">So vam všeč slike za ozadje?</string>
-  <string name="show_free">Prikaži brezplačne %1$s</string>
+  <string name="show_free">Pokaži brezplačne %1$s</string>
   <string name="show_free_font">Pokaži brezplačne fonte</string>
   <string name="show_free_theme">Pokaži brezplačne teme</string>
   <string name="show_free_wallpaper">Pokaži brezplačna ozadja</string>
-  <string name="show_incompatible">Prikaži nezdružljive %1$s</string>
+  <string name="show_incompatible">Pokaži nezdružljive %1$s</string>
   <string name="show_mamual_hide_font">Pokaži brezplačne fonte</string>
   <string name="show_mamual_hide_theme">Pokaži brezplačne teme</string>
   <string name="show_mamual_hide_wallpaper">Pokaži brezplačna ozadja</string>
@@ -729,7 +729,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="theme_user_agreement_content4">Pravilnik o zasebnosti</string>
   <string name="theme_user_agreement_content5">Aplikacija potrebuje povezavo s spletom za normalno delovanje. "</string>
   <string name="theme_user_agreement_exit">Izhod</string>
-  <string name="theme_user_agreement_remind_again">Prikaži pogoje uporabe</string>
+  <string name="theme_user_agreement_remind_again">Pokaži pogoje uporabe</string>
   <string name="theme_user_agreement_remind_never">Ne kaži več</string>
   <string name="theme_user_agreement_remind_summary">Prikazuj Pogoje uporabe vsakič ko odprete Teme. Ta nastavitve bodo začele veljati ko boste ponovno zagnali napravo.</string>
   <string name="theme_user_agreement_title">Pogoji uporabe</string>

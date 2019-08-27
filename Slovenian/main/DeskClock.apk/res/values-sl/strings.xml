@@ -6,7 +6,7 @@
   <string name="abc_action_bar_up_description">Pojdi gor</string>
   <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
@@ -134,7 +134,7 @@
   <string name="life_post_setting_open_background_title">Pokaži sliko ozadja</string>
   <string name="life_post_setting_open_desc">Izključite ponavljanje alarma med 04:00 in 10:00 da boste poslušali informacije o vremenu</string>
   <string name="life_post_setting_open_summary">Vključi informacije o vremenu po prvem izključenem alarmu med 4:00 in 10:00</string>
-  <string name="life_post_setting_open_subtitle">Prikaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
+  <string name="life_post_setting_open_subtitle">Pokaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
   <string name="life_post_setting_open_title">Sprejmi jutranja poročila</string>
   <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
   <string name="life_post_wake_up_acumu_day_title">Število dni</string>

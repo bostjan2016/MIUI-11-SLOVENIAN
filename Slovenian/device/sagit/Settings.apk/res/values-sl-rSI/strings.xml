@@ -568,7 +568,7 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="lockscreen_remote_input">Če je naprava zaklenjena, prepreči vnašanje odgovorov ali drugega besedila v obvestilih</string>
     <string name="lockscreen_settings_title">Nastavitve zaklenjenega zaslona</string>
     <string name="lost_internet_access_cancel">Ostani v omrežju Wi‑Fi</string>
-    <string name="lost_internet_access_persist">Tega ne prikaži nikoli več</string>
+    <string name="lost_internet_access_persist">Tega ne pokaži nikoli več</string>
     <string name="lost_internet_access_switch">Preklopi na mobilno</string>
     <string name="lost_internet_access_text">Kadar je povezava  slaba, lahko preklopite na mobilno omrežje. Pri tem bodo morda nastali stroški prenosa podatkov v mobilnih omrežjih.</string>
     <string name="lost_internet_access_title">Omrežje  ni povezano z internetom</string>
@@ -623,7 +623,7 @@ Kabel starega telefona priključite v stari telefon. Priključite kabel v novi t
     <string name="notification_importance_blocked">Nikoli ne pokaži obvestil</string>
     <string name="notification_importance_default">Predvajaj zvok</string>
     <string name="notification_importance_default_title">Visoka pomembnost</string>
-    <string name="notification_importance_high">Predvajaj zvok in prikaži na zaslonu</string>
+    <string name="notification_importance_high">Predvajaj zvok in pokaži na zaslonu</string>
     <string name="notification_importance_high_title">Nujno</string>
     <string name="notification_importance_low">Brez zvoka</string>
     <string name="notification_importance_low_title">Srednja pomembnost</string>
@@ -848,7 +848,7 @@ Opomba: ta naprava ne podpira odklepa s prstnim odtisom. Več informacij lahko d
     <string name="show_ime_summary">Ohrani na zaslonu, dokler je aktivna fizična tipkovnica</string>
     <string name="show_notification_channel_warnings">Pokaži opoz. kan. za obv.</string>
     <string name="show_notification_channel_warnings_summary">Na zaslonu se pokaže opozorilo, ko aplikacija objavi obvestilo brez veljavnega kanala</string>
-    <string name="show_password_summary">Za trenutek prikaži znake med vnašanjem</string>
+    <string name="show_password_summary">Za trenutek pokaži znake med vnašanjem</string>
     <string name="show_silently_summary">Na trenutnem zaslonu ne predvajaj zvoka, vibriraj ali na hitro prikazuj teh obvestil.</string>
     <string name="sim_lock_settings_summary_off">Izklopljeno</string>
     <string name="sim_lock_settings_summary_on">Zaklenjeno</string>

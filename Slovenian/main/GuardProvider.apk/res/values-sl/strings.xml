@@ -12,7 +12,7 @@
   <string name="avast_dialog_cloudscan"/>
   <string name="avast_dialog_dbupdate"/>
   <string name="avast_dialog_header">"To opravilo šifrira in pošilja ID vaše naprave Avast strežnikom (%s)."</string>
-  <string name="avast_dialog_policy">Prikaži Pravila o zasebnosti</string>
+  <string name="avast_dialog_policy">Pokaži Pravila o zasebnosti</string>
   <string name="avast_dialog_title">"Avast Pravila o zasebnosti"</string>
   <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=en_US</string>
   <string name="avast_virus_type_adware_description">To je adware. On samodejno nalaga reklame.</string>

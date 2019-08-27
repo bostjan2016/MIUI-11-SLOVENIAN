@@ -255,7 +255,7 @@
   <string name="guide_virus_dialog_positive">Skeniraj</string>
   <string name="guide_virus_dialog_title">Antivirusno skeniranje</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
-  <string name="header_optimizer">Z uporabo tega opravila pristajate na %s.</string>
+  <string name="header_optimizer">Z uporabo tega opravila se strinjate z %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
   <string name="hint_clean_select_similar_image">Brisanje dvojnikov…</string>
   <string name="hints_ad_header_left">Stare datoteke</string>
@@ -356,7 +356,7 @@
   <string name="menu_clear">Očisti</string>
   <string name="menu_install">Namesti to aplikacijo</string>
   <string name="menu_open">Odpri</string>
-  <string name="menu_view">Prikaži v mapi</string>
+  <string name="menu_view">Pokaži v mapi</string>
   <string name="micloud_find_device_close_alert_content">"Če izključite to opravilo ne boste mogli najti napravo če jo izgubite."</string>
   <string name="micloud_find_device_close_alert_negtive">Izključi vseeno</string>
   <string name="micloud_find_device_close_alert_positive">Pusti vključeno</string>
@@ -383,7 +383,7 @@
   <string name="msg_update_error_code_unknown_error">Strežniki so zasedeni, poskusite kasneje</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Pravila o zasebnosti</string>
-  <string name="nb_clear_set">Počisti predpomnilnik, prikaži baterijo in listo blokiranih v plošči obvestil</string>
+  <string name="nb_clear_set">Počisti predpomnilnik, pokaži baterijo in listo blokiranih v plošči obvestil</string>
   <string name="net_assistant_detail">Izkoriščeno %1$s, prihranjeno %2$s</string>
   <string name="net_assistant_title">Izkoriščeno %s mob. pod. ta mesec</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
@@ -434,7 +434,7 @@
   <string name="pref_summary_auto_deepclean_and_alert">Obvestila neizkoriščenih aplikacij</string>
   <string name="pref_summary_auto_update_cleanup_db">Zadnja posodobitev %s</string>
   <string name="pref_summary_cleanup_white_list">Prepreči čiščenje izbranih datotek</string>
-  <string name="pref_summary_expand_cache_group">Prikaži podrobnosti predpomnilnika samodejno</string>
+  <string name="pref_summary_expand_cache_group">Pokaži podrobnosti predpomnilnika samodejno</string>
   <string name="pref_summary_garbage_auto_clean_content">Izberite stvari ki se čistijo samodejno</string>
   <string name="pref_summary_garbage_cleanup_check_size">Očisti samodejno kadar smeti dosežejo določeno velikost</string>
   <string name="pref_summary_garbage_cleanup_check_time">Razporedi rutinsko čiščenje</string>
@@ -451,7 +451,7 @@
   <string name="pref_title_clean_alert">Opozori za čiščenje</string>
   <string name="pref_title_cleanup_white_list">Izjeme</string>
   <string name="pref_title_create_onekeyclean_shortcut">Pokaži bližnjico na zač. zaslonu</string>
-  <string name="pref_title_expand_cache_group">Prikaži nastavitve predpomnilnika</string>
+  <string name="pref_title_expand_cache_group">Pokaži nastavitve predpomnilnika</string>
   <string name="pref_title_garbage_auto_clean_content">Predmeti za čiščenje</string>
   <string name="pref_title_garbage_cleanup_check_size">Omejitev velikosti smeti</string>
   <string name="pref_title_garbage_cleanup_check_time">Razpored</string>

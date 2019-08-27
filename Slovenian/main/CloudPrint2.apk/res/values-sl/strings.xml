@@ -6,7 +6,7 @@
   <string name="abc_action_bar_up_description">Pojdi gor</string>
   <string name="abc_action_menu_overflow_description">Dodatne možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_search_hint">Preišči…</string>
   <string name="abc_searchview_description_clear">Izbriši zahtevo</string>
@@ -134,7 +134,7 @@ Kadarkoli lahko lastnika prosite da ga ponovno da v skupno rabo z vami."</string
   <string name="delete_printer_title">Brisanje tiskalnika</string>
   <string name="desc_proximity_feature">Iskanje tiskalnikav bližini preko Bluetootha</string>
   <string name="desc_virtual_print_queue_feature">Shranite dokumente katere želite kasneje natisniti</string>
-  <string name="desc_virtual_print_queue_notifications">Prikaži obvestilo na tej napravi ko se dokument shrani za kasnejši izpis</string>
+  <string name="desc_virtual_print_queue_notifications">Pokaži obvestilo na tej napravi ko se dokument shrani za kasnejši izpis</string>
   <string name="document_sending">Pošiljanje naloga za izpis</string>
   <string name="document_sending_title">Pošiljanje naloga za izpis</string>
   <string name="document_submit_failed">Nalog za izpis ni poslan</string>

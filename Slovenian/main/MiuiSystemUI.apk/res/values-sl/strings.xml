@@ -28,7 +28,7 @@
   <string name="abc_slice_permission_text_1">– lahko bere informacije aplikacije %1$s</string>
   <string name="abc_slice_permission_text_2">– lahko vrši opravila v aplikaciji %1$s</string>
   <string name="abc_slice_permission_title">Želite dovoliti aplikaciji %1$s da prikazuje izsečke aplikacije %2$s?</string>
-  <string name="abc_slice_show_more">Prikaži več</string>
+  <string name="abc_slice_show_more">Pokaži več</string>
   <string name="abc_slice_updated">Posodobljeno %1$s</string>
   <string name="abc_slices_permission_request">%1$s želi prikazovati izsečke aplikacije %2$s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
@@ -472,7 +472,7 @@ hitrost vzorčenja"</string>
   <string name="bt_is_off">Bluetooth je izključen</string>
   <string name="btn_camera">Vnesite obraz</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
-  <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o napakah</string>
+  <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o napakah</string>
   <string name="button_convert_fbe">Izbriši in spremeni…</string>
   <string name="call_status_dialing">Klicanje</string>
   <string name="call_status_holding">Na čakanju</string>
@@ -610,7 +610,7 @@ hitrost vzorčenja"</string>
   <string name="development_settings_title">Opcije za razvojne programerje</string>
   <string name="digital_clock_dot">:</string>
   <string name="direct_boot_unaware_dialog_message">Opomba: Po ponovnem zagonu naprave se aplikacija ne more ponovno zagnati dokler ne odklenete telefon</string>
-  <string name="disable_notification_summary">"Ne prikaži obvestil izbranih aplikacij."</string>
+  <string name="disable_notification_summary">"Ne pokaži obvestil izbranih aplikacij."</string>
   <string name="disable_notification_title">Skrij obvestila</string>
   <string name="disable_overlays">Onemogoči prekrivne elemente</string>
   <string name="disable_overlays_summary">Zmeraj uporabi GPU za sestavljanje zaslona</string>
@@ -1225,7 +1225,7 @@ posnetka zaslona"</string>
     <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
     <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
     <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
-    <string name="monitoring_button_view_policies">Prikaži pravilnike</string>
+    <string name="monitoring_button_view_policies">Pokaži pravilnike</string>
     <string name="monitoring_description_app">Povezani ste z aplikacijo %1$s, ki lahko nadzira omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.</string>
     <string name="monitoring_description_app_personal">Povezani ste z aplikacijo %1$s, ki lahko nadzira vašo osebno omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.</string>
     <string name="monitoring_description_app_personal_work">"Delovni profil upravlja organizacija %1$s. Profil je povezan z aplikacijo %2$s, ki lahko nadzira vašo delovno omrežno dejavnost, vključno z e-pošto, aplikacijami in spletnimi mesti.
@@ -1747,7 +1747,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="share">Deli</string>
     <string name="show_all_anrs">Pokaži okna neodzivanj</string>
     <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
-    <string name="show_battery_percentage">Prikaži odstotek napolnjenosti vgraj. akumulatorja</string>
+    <string name="show_battery_percentage">Pokaži odstotek napolnjenosti vgraj. akumulatorja</string>
     <string name="show_battery_percentage_summary">Prikaz odstotka napolnjenosti akumulatorja znotraj ikone v vrstici stanja, ko se ne polni</string>
     <string name="show_brightness">Prikaz svetlosti v hitrih nastavitvah</string>
     <string name="show_demo_mode">Prikaz predstavitvenega načina</string>
@@ -1760,7 +1760,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="show_notification_channel_warnings_summary">Na zaslonu se pokaže opozorilo, ko aplikacija objavi obvestilo brez veljavnega kanala</string>
     <string name="show_screen_updates">Pokaži posodob. površine</string>
     <string name="show_screen_updates_summary">Ob posodobitvi osvetli celotne površine oken</string>
-    <string name="show_silently">Prikaži obvestila brez zvoka</string>
+    <string name="show_silently">Pokaži obvestila brez zvoka</string>
     <string name="show_touches">Prikaz dotikov</string>
     <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
     <string name="simulate_color_space">Simul. barvnega prostora</string>
@@ -1983,7 +1983,7 @@ Telefon lahko postane prevroč ob:
     <string name="tuner_full_importance_settings">Kontrolniki za pomembnost obvestil</string>
     <string name="tuner_full_importance_settings_off">Izklopljeno</string>
     <string name="tuner_full_importance_settings_on">Vklopljeno</string>
-    <string name="tuner_full_zen_title">Prikaži s kontrolniki glasnosti</string>
+    <string name="tuner_full_zen_title">Pokaži s kontrolniki glasnosti</string>
     <string name="tuner_launch_app">Zaženi aplikacijo %1$s</string>
     <string name="tuner_left">Levo</string>
     <string name="tuner_lock_screen">Zaklenjen zaslon</string>

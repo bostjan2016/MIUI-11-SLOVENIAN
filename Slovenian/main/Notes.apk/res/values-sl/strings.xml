@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_folder_description">Prikaži mape</string>
+  <string name="action_folder_description">Pokaži mape</string>
   <string name="action_mode_switcher_grid_description">Mreža</string>
   <string name="action_mode_switcher_list_description">Seznam</string>
   <string name="action_settings_description">Nastavitve</string>
@@ -172,7 +172,7 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Obnovi beležke</string>
-  <string name="pref_title_show_root_folder_in_homepage">Prikaži samo hitre beležke na začetnem zaslonu</string>
+  <string name="pref_title_show_root_folder_in_homepage">Pokaži samo hitre beležke na začetnem zaslonu</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hitro brisanje</string>
   <string name="pref_title_todo_float_mode">Uporabite orodje z nalogami</string>
   <string name="pref_title_todo_shorcut">Orodje z nalogami</string>

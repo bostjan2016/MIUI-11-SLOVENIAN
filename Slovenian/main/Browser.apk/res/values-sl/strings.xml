@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Višje</string>
   <string name="abc_action_mode_done">Končano</string>
   <string name="abc_action_mode_select_all">Izberi vse</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
   <string name="abc_capital_off">IZKLJUČENO</string>
   <string name="abc_capital_on">VKLJUČENO</string>
@@ -572,7 +572,7 @@ Zapustim to stran?"</string>
   <string name="miui_content_share">Deli</string>
   <string name="miui_content_translate">Prevedi</string>
   <string name="miui_content_web_search">Išči</string>
-  <string name="miui_quicksearch_enable_pref_summary">Vedno prikaži iskalno polje brskalnika v obvestilni vrstici</string>
+  <string name="miui_quicksearch_enable_pref_summary">Vedno pokaži iskalno polje brskalnika v obvestilni vrstici</string>
   <string name="miui_quicksearch_enable_pref_title">Iskalno polje v obvestilni vrstici</string>
   <string name="miui_search_notification_message">Tapni za iskalno polje.</string>
   <string name="miui_search_notification_title">Išči</string>
@@ -707,7 +707,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="mw_abc_action_bar_up_description">Gor</string>
   <string name="mw_abc_action_menu_overflow_description">Dodatne možnosti</string>
   <string name="mw_abc_action_mode_done">Končano</string>
-  <string name="mw_abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="mw_abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="mw_abc_activitychooserview_choose_application">Izberi aplikacijo</string>
   <string name="mw_abc_capital_off">IZKLJUČENO</string>
   <string name="mw_abc_capital_on">VKLJUČENO</string>
@@ -1314,7 +1314,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="quicklinks_group_default_subtitle">Prazno</string>
   <string name="quicklinks_management">Popularno</string>
   <string name="quicklinks_most_visited">Dodaj na domačo stran</string>
-  <string name="quicklinks_most_visited_subtitle">Prikaži nedavno obiskane strani v novem zavihku</string>
+  <string name="quicklinks_most_visited_subtitle">Pokaži nedavno obiskane strani v novem zavihku</string>
   <string name="quicklinks_most_visited_title">Dodaj na domačo stran</string>
   <string name="readmode_already_add_to_bookshelf">Dodano na polico</string>
   <string name="readmode_battery">Baterija</string>
@@ -1326,7 +1326,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="readmode_pay">Kupi poglavje</string>
   <string name="readmode_pay_message">Če želite prebrati naslednje poglavje ga morate kupiti.</string>
   <string name="readmode_reach_last_page">To je zadnja stran</string>
-  <string name="readmode_recommend">Prikaži priporočeno</string>
+  <string name="readmode_recommend">Pokaži priporočeno</string>
   <string name="readmode_recommend_message">To knjigo ste že prebrali. Izberite drugo</string>
   <string name="readmode_refresh">Osveži</string>
   <string name="readmodelist_bookmarks_to_show">Bralni seznam</string>
@@ -1473,7 +1473,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="suggest_access_btn_install">Namesti</string>
   <string name="suggest_access_btn_open">Odpri</string>
   <string name="suggest_access_btn_play">Zaženi</string>
-  <string name="suggest_access_btn_view">Prikaži</string>
+  <string name="suggest_access_btn_view">Pokaži</string>
   <string name="suggest_access_item_album_songs">Pesmi: %d</string>
   <string name="suggest_access_item_app_mark">APP</string>
   <string name="suggest_access_item_app_size">%.2fMB</string>
@@ -1640,8 +1640,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="video_subtitle_prefix_message">"Gledano: "</string>
   <string name="video_title_prefix_message">"Izvenmrežno: "</string>
   <string name="video_unknown_duration">Dolžina neznana</string>
-  <string name="view_certificate">Prikaži certifikat</string>
-  <string name="view_document_downloaded_files">Prikaži prenesene datoteke v Prenosi</string>
+  <string name="view_certificate">Pokaži certifikat</string>
+  <string name="view_document_downloaded_files">Pokaži prenesene datoteke v Prenosi</string>
   <string name="voice_check_network">Preverite omrežje in poskusite ponovo</string>
   <string name="voice_close_description">Zapri</string>
   <string name="voice_connect_network">Ne morem se povezati na omrežje</string>

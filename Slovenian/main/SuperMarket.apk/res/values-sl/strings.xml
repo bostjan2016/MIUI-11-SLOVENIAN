@@ -195,7 +195,7 @@
   <string name="megabytes_unit">%1$sMB</string>
   <string name="menu_account">Moj račun</string>
   <string name="menu_clear_update_history">Izbriši zgodovino posodobitev</string>
-  <string name="menu_detail">Prikaži podrobnosti</string>
+  <string name="menu_detail">Pokaži podrobnosti</string>
   <string name="menu_download_manager">Prenosi</string>
   <string name="menu_ignore">Ignoriraj</string>
   <string name="menu_login">Prijava</string>

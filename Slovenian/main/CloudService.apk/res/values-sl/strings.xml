@@ -338,7 +338,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_main_wait_wlan_charge_sleep">Povežite se na WiFi omrežje, izključite zaslon in popolnoma napolnite napravo da nadaljujete sinhronizacijo.</string>
   <string name="micloud_main_wlan_sync_data_count">Stvari (%d) čakajo na sinhr.</string>
   <string name="micloud_manage_space_data">Urejaj podatke Mi Clouda</string>
-  <string name="micloud_manaul_sync_success_button_text">Prikaži podrobnosti</string>
+  <string name="micloud_manaul_sync_success_button_text">Pokaži podrobnosti</string>
   <string name="micloud_manaul_sync_success_time_prefix">Zadnja sinhr.: %s</string>
   <string name="micloud_manaul_sync_success_title">Sinhronizirano</string>
   <string name="micloud_manual_activating">Aktiviranje…</string>
@@ -392,7 +392,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_notif_content_master_depend_wifi">Povežite se najprej na WiFi.</string>
   <string name="micloud_notif_content_memory_low">Ni dovolj prostora za shranjevanje.</string>
   <string name="micloud_notif_content_multi_user_error">Prijavili ste isti račun z originalnim prostorom.</string>
-  <string name="micloud_notif_content_privacy_reopen_failed">Prikaži podrobnosti</string>
+  <string name="micloud_notif_content_privacy_reopen_failed">Pokaži podrobnosti</string>
   <string name="micloud_notif_content_sync_finish">Račun</string>
   <string name="micloud_notif_content_sync_not_finish">Podrobnosti</string>
   <string name="micloud_notif_content_sync_with_off">Dotaknite se da zdaj sinhr. vašo napravo.</string>
@@ -518,7 +518,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_dspt_provision_privacy_no_sim">"To opravilo lahko zahteva vašo tel. številko. Ko je najdena SIM kartica bo mogoče potrebno odhodno SMS sporočilo za vklop tega opravila. Vaš operater vam bo zaračunal to sporočilo.
 
 To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
-  <string name="mx_dspt_provision_with_voip">"Kličite druge MIUI uporabnike brezplačno z uporabo spletne povezave. Lahko kadarkoli vključite/izključite v nastavitvah. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
+  <string name="mx_dspt_provision_with_voip">"Kličite druge MIUI uporabnike brezplačno z uporabo spletne povezave. Lahko kadarkoli vključite/izključite v nastavitvah. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>
   <string name="mx_dspt_provision_with_voip2">Pravila o zasebnosti</string>
   <string name="mx_sub_dspt_provision">Mi Sporočilo</string>
   <string name="mx_sub_dspt_provision_with_voip">Spletni klici</string>

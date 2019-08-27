@@ -195,7 +195,7 @@
   <string name="no_vm_number">Manjkajoča številka glasovne pošte</string>
   <string name="no_vm_number_msg">Na tej SIM kartici ni nobene številke glasovne pošte.</string>
   <string name="non_ivr_menu_collapse_menu">Zapri meni</string>
-  <string name="non_ivr_menu_view_menu">Prikaži meni</string>
+  <string name="non_ivr_menu_view_menu">Pokaži meni</string>
   <string name="not_activate_sim_card_content">Potrdite svojo tel. številko da začnete uporabljati doplačilni paket. Še vedno lahko uporabite navaden klic ki bo dodatno obračunan.</string>
   <string name="not_activate_sim_card_content_title">Telefonska številka ni potrjena</string>
   <string name="not_activate_sim_card_content_with_operator">Potrdite SIM %1$s (%2$s) za uporabo doplačilnega paketa. Še vedno lahko uporabite navaden klic ki bo dodatno obračunan.</string>

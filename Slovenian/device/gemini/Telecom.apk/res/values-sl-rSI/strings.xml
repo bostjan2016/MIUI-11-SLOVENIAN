@@ -270,7 +270,7 @@
   <string name="select_webview_provider_toast_text">Ta izbira ni več veljavna. Poskusite znova.</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
-  <string name="show_cpu_usage">Prikaži uporabo procesorja</string>
+  <string name="show_cpu_usage">Pokaži uporabo procesorja</string>
   <string name="show_cpu_usage_summary">Nastavi element z trenutno uporabo procesorja</string>
   <string name="show_hw_layers_updates">Pokaži pos. sl. str. opr.</string>
   <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi</string>

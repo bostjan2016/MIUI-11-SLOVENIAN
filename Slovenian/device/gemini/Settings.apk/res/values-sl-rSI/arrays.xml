@@ -601,17 +601,17 @@
         <item>2 sekundi</item>
     </string-array> 
 	 <string-array name="screen_key_press_action">
-        <item>Prikaži nedavne aplikacije</item>
-        <item>Prikaži Meni</item>
+        <item>Pokaži nedavne aplikacije</item>
+        <item>Pokaži Meni</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nič</item>
-        <item>Prikaži nedavne aplikacije</item>
+        <item>Pokaži nedavne aplikacije</item>
         <item>Zaženi upravitelje</item>
         <item>Zaženi Google now</item>
         <item>Zapri trenutno aplikacijo</item>
 	<item>Zaženi Hitro iskanje</item>
-        <item>Prikaži Meni</item>
+        <item>Pokaži Meni</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekunde</item>
@@ -760,7 +760,7 @@
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Skrij sistemske animacije</item>
-        <item>Prikaži sistemske animacije</item>
+        <item>Pokaži sistemske animacije</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>"Povečajte zmogljivosti naprave"</item>

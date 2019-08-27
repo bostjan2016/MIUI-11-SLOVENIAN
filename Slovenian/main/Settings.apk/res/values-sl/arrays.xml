@@ -340,7 +340,7 @@
         <item>Lokacija</item>
         <item>Dobivanje statistike o uporabi</item>
         <item>Izključi/vključi mikrofon</item>
-        <item>Prikaži sporočilo</item>
+        <item>Pokaži sporočilo</item>
         <item>Projektiraj medijske vsebine</item>
         <item>Aktiviraj VPN</item>
         <item>Ozadna slika za pisanje</item>
@@ -509,7 +509,7 @@
     <string-array name="debug_hw_overdraw_entries">
          <item>Izključeno</item>
         <item>Pokaži področja slojnih izrisov</item>
-        <item>Prikaži področja za deuteranomalijo</item>
+        <item>Pokaži področja za deuteranomalijo</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardna omejitev</item>
@@ -636,17 +636,17 @@
         <item>2 sekundi</item>
     </string-array> 
 	 <string-array name="screen_key_press_action">
-        <item>Prikaži nedavne aplikacije</item>
-        <item>Prikaži Meni</item>
+        <item>Pokaži nedavne aplikacije</item>
+        <item>Pokaži Meni</item>
     </string-array>
     <string-array name="screen_key_long_press_action">
          <item>Nič</item>
-        <item>Prikaži nedavne aplikacije</item>
+        <item>Pokaži nedavne aplikacije</item>
         <item>Zaženi upravitelja</item>
         <item>Zaženi Google now</item>
         <item>Zapri trenutno aplikacijo</item>
 		<item>Zaženi hitro iskanje</item>
-        <item>Prikaži Meni</item>
+        <item>Pokaži Meni</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 sekunde</item>
@@ -828,7 +828,7 @@
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Skrij sistemske animacije</item>
-        <item>Prikaži sistemske animacije</item>
+        <item>Pokaži sistemske animacije</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>"Pospešite zmogljivost naprave"</item>
@@ -874,9 +874,9 @@
         <item>Vedno vprašaj</item>     
 	</string-array>
 	<string-array name="status_bar_show_carrier_entries">
-        <item>Prikaži samo na zakl. zaslonu</item>
-        <item>Prikaži samo v vrstici obvestil</item>
-        <item>Nikoli ne prikaži ime operaterja</item>
+        <item>Pokaži samo na zakl. zaslonu</item>
+        <item>Pokaži samo v vrstici obvestil</item>
+        <item>Nikoli ne pokaži ime operaterja</item>
      </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>WiFi prednostno</item>

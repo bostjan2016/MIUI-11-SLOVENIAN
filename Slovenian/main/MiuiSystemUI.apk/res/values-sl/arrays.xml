@@ -178,6 +178,12 @@
         <item>4K (izboljšan prikaz, varno)</item>
         <item>720p, 1080p (dvojni zaslon)</item>
     </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Izklopljeno</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
     <string-array name="select_logd_size_summaries">
         <item>Izklopljeno</item>
         <item>64K na medpomnilnik dnevnika</item>

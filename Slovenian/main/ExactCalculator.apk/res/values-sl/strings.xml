@@ -46,8 +46,8 @@
   <string name="error_syntax">Napačen izraz</string>
   <string name="error_zero_divide">Ni mogoče deliti z 0</string>
   <string name="exact">(natančno)</string>
-  <string name="menu_fraction">Prikaži rezultat kot ulomek</string>
-  <string name="menu_leading">Prikaži rezultat z vodilnimi števkami</string>
+  <string name="menu_fraction">Pokaži rezultat kot ulomek</string>
+  <string name="menu_leading">Pokaži rezultat z vodilnimi števkami</string>
   <string name="menu_licenses">Odprtokodne licence</string>
   <string name="mode_deg">sto</string>
   <string name="mode_rad">rad</string>

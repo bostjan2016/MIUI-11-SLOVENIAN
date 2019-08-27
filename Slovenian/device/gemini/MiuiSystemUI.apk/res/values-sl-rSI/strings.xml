@@ -157,7 +157,7 @@
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Posnemi vse Bluetooth HCI pakete v datoteki</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
-  <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
+  <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
   <string name="call_status_dialing">"Biranje broja"</string>
   <string name="call_status_ringing">Zvonjenje</string>
@@ -214,7 +214,7 @@
   <string name="debug_hw_drawing_category">Strojno pospešeno renderiranje</string>
   <string name="debug_hw_overdraw">Rešitev GPU preklapljanja</string>
   <string name="debug_input_category">Vhod</string>
-  <string name="debug_layout">Prikaži okvir za prikaz</string>
+  <string name="debug_layout">Pokaži okvir za prikaz</string>
   <string name="debug_layout_summary">Prikazujejo se obrobe, meje itd. izsekov.</string>
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Mreženje</string>
@@ -302,7 +302,7 @@ Uporabite priloženi polnilnik."</string>
   <string name="keep_screen_on">Brez zaklepanja</string>
   <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>
   <string name="kilobyte_per_second">KB/s</string>
-  <string name="label_view">Prikaži</string>
+  <string name="label_view">Pokaži</string>
   <string name="legacy_dhcp_client_summary">Uporabljate DHCP klijent iz Lollipopa namesto novega Android DHCP klijenta.</string>
   <string name="lland">L Land</string>
   <string name="local_backup_password_summary_change">Dotaknite se, če želite spremeniti ali odstraniti geslo za popolno varnostno kopiranje namizja</string>
@@ -451,7 +451,7 @@ Uporabite priloženi polnilnik."</string>
   <string name="share">Deli</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
-  <string name="show_cpu_usage">Prikaži uporabo procesorja</string>
+  <string name="show_cpu_usage">Pokaži uporabo procesorja</string>
   <string name="show_cpu_usage_summary">Na zaslonu se prikazuje izkoristek procesorja.</string>
   <string name="show_hw_layers_updates">Pokaži pos. sl. str. opr</string>
   <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi.</string>

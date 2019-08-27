@@ -132,7 +132,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Izključeno</item>
         <item>Pokaži področja slojnih izrisov</item>
-        <item>Prikaži področja z deuteranomalijo</item>
+        <item>Pokaži področja z deuteranomalijo</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardne omejitve</item>

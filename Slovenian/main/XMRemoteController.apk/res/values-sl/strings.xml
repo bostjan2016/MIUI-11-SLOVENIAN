@@ -6,7 +6,7 @@
   <string name="abc_action_bar_up_description">Navigiraj gor</string>
   <string name="abc_action_menu_overflow_description">Več možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
-  <string name="abc_activity_chooser_view_see_all">Prikaži vse</string>
+  <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
   <string name="abc_activitychooserview_choose_application">Izberi aplikacijo</string>
   <string name="abc_capital_off">IZKLJ.</string>
   <string name="abc_capital_on">VKLJ.</string>
@@ -123,7 +123,7 @@
   <string name="brand_title_other">Ostalo</string>
   <string name="broadcast">Radio</string>
   <string name="btn_connected_stb">Set-top box</string>
-  <string name="bullet_hint">Prikaži to sporočilo na zaslonu</string>
+  <string name="bullet_hint">Pokaži to sporočilo na zaslonu</string>
   <string name="bulletin">Sporočila na zaslonu</string>
   <string name="by">"Podporo omogoča"</string>
   <string name="by_position">Po lokaciji</string>
@@ -137,7 +137,7 @@
   <string name="carrier_data">Operater</string>
   <string name="catalyst_debugjs">Debug v Chrome</string>
   <string name="catalyst_debugjs_off">Ustavi Chrome Debugging</string>
-  <string name="catalyst_element_inspector">Prikaži Inspector</string>
+  <string name="catalyst_element_inspector">Pokaži Inspector</string>
   <string name="catalyst_element_inspector_off">Skrij Inspector</string>
   <string name="catalyst_hot_module_replacement">Omogoči zamenjavo Hot Modula</string>
   <string name="catalyst_hot_module_replacement_off">Onemogoči zamenjavo Hot Modula</string>
@@ -266,7 +266,7 @@ Poskusite naslednje da  rešite problem:
   <string name="epg_change_channel">Zamenjaj kanale</string>
   <string name="epg_change_channel_casting">Zamenjaj kanal (oddaja se)</string>
   <string name="epg_change_channel_not_casting">Zamenjaj kanal (oddajano v %1$s)</string>
-  <string name="epg_channel_group_open">Prikaži vse</string>
+  <string name="epg_channel_group_open">Pokaži vse</string>
   <string name="epg_channel_operation_tip">Pritisnite kanal za urejanje ali dodajanje v priljubljene</string>
   <string name="epg_channel_search_hint">Dodajte številko kanala/Išči ime kanala</string>
   <string name="epg_comment_action_bar_title">Komentar: %1$s</string>
@@ -280,14 +280,14 @@ Poskusite naslednje da  rešite problem:
   <string name="epg_edit_channel_number">Številka kanala</string>
   <string name="epg_edit_channel_title">Naslov kanala</string>
   <string name="epg_edit_fav_channel_num">Uredi številko kanala</string>
-  <string name="epg_episode_open">Prikaži vse</string>
+  <string name="epg_episode_open">Pokaži vse</string>
   <string name="epg_fav_channels">Shrani kanal</string>
   <string name="epg_have_no_fav_channel">Nimate priljubljenih kanalov</string>
   <string name="epg_home_sliding_down">Povlecite navzdol</string>
   <string name="epg_home_sliding_up">Povlecite navzgor</string>
   <string name="epg_hot_channels">Kanali</string>
   <string name="epg_hot_comment_list_title">Pogosti komentarji</string>
-  <string name="epg_hot_programs">Prikaži</string>
+  <string name="epg_hot_programs">Pokaži</string>
   <string name="epg_latest_comment_list_title">Nedavni komentarji (%1$d)</string>
   <string name="epg_load_comment">Nalaganje najnovejših komentarjev</string>
   <string name="epg_load_more_latest_comment">Pridobivanje več komentarjev</string>
@@ -323,7 +323,7 @@ Poskusite naslednje da  rešite problem:
   <string name="error_input_dialogue_guide">Vnesite 4 mestno kodo</string>
   <string name="exit">Izhod</string>
   <string name="external_app">Namesti program</string>
-  <string name="external_photo">Prikaži fotografijo</string>
+  <string name="external_photo">Pokaži fotografijo</string>
   <string name="external_video">Predvajaj video</string>
   <string name="extra_keys">Dodatne tipke</string>
   <string name="fail_add_controller_photo">Dodaj fotografijo daljinca</string>
@@ -860,10 +860,10 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="screen_shot_button_title">Prestrezanje na zaslonu TV-a</string>
   <string name="screen_shot_delete">Izbriši</string>
   <string name="screen_shot_delete_warning">Resnično želite izbrisati?</string>
-  <string name="screen_shot_more">Prikaži več posnetkov zaslona </string>
-  <string name="screen_shot_screenshotshow">Prikaži Posnetke zaslona</string>
-  <string name="screen_shot_screenshotshow_comment_replies">Prikaži komentarje posnetkov zaslona</string>
-  <string name="screen_shot_screenshotshow_comments">Prikaži recenzije posnetkov zaslona</string>
+  <string name="screen_shot_more">Pokaži več posnetkov zaslona </string>
+  <string name="screen_shot_screenshotshow">Pokaži Posnetke zaslona</string>
+  <string name="screen_shot_screenshotshow_comment_replies">Pokaži komentarje posnetkov zaslona</string>
+  <string name="screen_shot_screenshotshow_comments">Pokaži recenzije posnetkov zaslona</string>
   <string name="screen_shot_select">Izberi</string>
   <string name="screen_shot_share">Deli posnetke zaslona</string>
   <string name="screen_shot_share2">Deli</string>
@@ -974,7 +974,7 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="shortcut_pop_desc">Videti je da zelo pogosto uporabljate Mi Remote. Naredim bližnjico na začetni zaslon?</string>
   <string name="shortcut_pop_title">Bližnjica</string>
   <string name="show_all_episodes">Vse epizode</string>
-  <string name="show_remote_when_lock_screen">Prikaži kontrole na zaklenjenem zaslonu</string>
+  <string name="show_remote_when_lock_screen">Pokaži kontrole na zaklenjenem zaslonu</string>
   <string name="similar">Povezano</string>
   <string name="skip">Preskoči</string>
   <string name="sleep">Spanje</string>
