@@ -2711,7 +2711,7 @@ Za več informacij se obrnite na skrbnika organizacije."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="fallback_home_title">Samo trenutek…</string>
   <string name="fcc_equipment_id">ID opreme</string>
-  <string name="feature_flags_dashboard_title">Lastnosti zastav</string>
+  <string name="feature_flags_dashboard_title">Zastavice za funkcije</string>
   <string name="feature_title_account">Račun</string>
   <string name="feature_title_antispam">Seznam blokiranih</string>
   <string name="feature_title_call_log">Zgodovina klicev</string>
@@ -2940,6 +2940,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="fsg_mistake_touch_title">Dvakrat preveri za gibe</string>
   <string name="full_screen_display">Cel zaslon</string>
   <string name="full_screen_keyboard_optimization">Izboljšajte tipkovnico</string>
+  <string name="full_screen_keyboard_settings">Nastavitve tipkovnice za prikaz na celotnem zaslonu</string>
   <string name="full_transparent_smarrcover_title">Prozorni prednji pokrov</string>
   <string name="fullbackup_data_summary">"Daljinsko zaženite samodejno izdelavo var. kopije podatkov naprave (npr. gesla WiFi, zgodovina klicev) in podatkov aplikacij (npr. nastavitve in datoteke ki jih aplikacije hranijo).
 
@@ -3180,7 +3181,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="information_dialog_button_text">Razumem</string>
   <string name="input_assistance">Pomoč pri vnosu</string>
   <string name="input_hint_prefix">Vnesi %1$s</string>
-    <string name="input_method">Vnosna metoda</string>
+  <string name="input_method">Vnosna metoda</string>
+  <string name="input_method_bottom_close">Vkl.</string>
+  <string name="input_method_bottom_open">Izk.</string>
   <string name="input_method_function_clipboard">Medpomnilnik in pogoste fraze</string>
   <string name="input_method_function_clipboard_des">Tapnite za pregled vsebine medpomnilnika in pogostih izrazov</string>
   <string name="input_method_function_no_function">Nič</string>
@@ -3191,12 +3194,14 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_method_function_voice_des">Tapnite za uporabo glasovnega vnosa</string>
   <string name="input_method_function_xiaoai">Mi AI Glasovni vnos</string>
   <string name="input_method_function_xiaoai_des">Tapnite za uporabo Mi AI glasovnega vnosa</string>
-    <string name="input_method_selector">Izbirnik načina vnosa</string>
+  <string name="input_method_manage">Urejaj tipkovnico</string>
+  <string name="input_method_selector">Izbirnik načina vnosa</string>
   <string name="input_method_selector_always_hide_title">Vedno skrij</string>
   <string name="input_method_selector_always_show_title">Vedno pokaži</string>
-    <string name="input_method_selector_show_automatically_title">Samodejno</string>
+  <string name="input_method_selector_show_automatically_title">Samodejno</string>
   <string name="input_method_settings">Nastavitve</string>
   <string name="input_method_settings_button">Nastavitve</string>
+  <string name="input_method_settings_text">Nastavitve</string>
   <string name="input_methods_and_subtype_enabler_title">Izbira aktivnih načinov vnosa</string>
   <string name="input_methods_settings_label_format">%1$s nastavitve</string>
   <string name="input_methods_settings_title">Vnos besedila</string>
@@ -3209,10 +3214,10 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="install_master_key_and_connect">Lahko se povežete v to omrežje z uporabo WiFi Master ključa. Namestim to orodje?</string>
   <string name="install_no_market_app_summary">Preveri aplikacije iz drugih virov za virusi pred namestitvijo</string>
   <string name="install_no_market_app_title">Preverjanje aplikacij iz drugih virov</string>
-    <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
+  <string name="install_other_apps">Nameščanje neznanih aplikacij</string>
   <string name="install_preinstall_app">Zamenjava regije…</string>
   <string name="install_text">"Namesti"</string>
-    <string name="install_type_instant">Nenamestljiva aplikacija</string>
+  <string name="install_type_instant">Nenamestljiva aplikacija</string>
   <string name="install_unknown_applications">Dovoli namestitev aplikacij iz neznanih virov</string>
   <string name="install_unknown_applications_title">Omogoča nameščanje aplikacij iz virov ki niso iz Google Play</string>
   <string name="install_whole_rom">Prenesi ROM</string>
@@ -3278,6 +3283,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyboard_layout_dialog_switch_hint">Preklopite s Ctrl in preslednico</string>
     <string name="keyboard_layout_dialog_title">Izbira razporeditve tipkovnice</string>
   <string name="keyboard_layout_picker_title">Izgled tipkovnice</string>
+  <string name="keyboard_mouse_touch">Tipkovnica, miška, in sledilna ploščica</string>
   <string name="keyboard_settings_category">Tipkovnica in načini vnosa</string>
   <string name="keyboard_settings_title">Tipkovnica Android</string>
   <string name="keyboard_shortcuts_helper">Pomočnik bližnjic tipkovnice</string>
@@ -4703,6 +4709,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="other">Ostalo</string>
   <string name="other_advanced_settings">Dodatne nastavitve</string>
   <string name="other_device_info">Ostalo</string>
+  <string name="other_input_settings">Dodatne nastavitve tipkovnice</string>
   <string name="other_personal_settings">Osebne nastavitve</string>
   <string name="other_relative">Pregledi so zamegljeni</string>
   <string name="other_settings_sync_settings">Sinhr.</string>

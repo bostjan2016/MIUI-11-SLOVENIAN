@@ -52,6 +52,7 @@
   <string name="default_device_name">Neznana naprava</string>
   <string name="default_name">Privzeto</string>
   <string name="description_title">Tihi način</string>
+  <string name="device_name_with_ellipsize">%1$s…</string>
   <string name="device_type_pc">Računalnik</string>
   <string name="eighthours">8 ur</string>
   <string name="enable_livetalk_summary">Prihranite 70% pri vaših klicih</string>
@@ -118,6 +119,8 @@
   <string name="miui_warning_button_ok">V redu</string>
   <string name="miui_warning_tip_info">Napaka %1$s. Zaprem aplikacijo?</string>
   <string name="onehour">30 minut</string>
+  <string name="oppo">OPPO</string>
+  <string name="oppo_phone">OPPO</string>
   <string name="package_delete_confirm_step_1">Odstranim %s?</string>
   <string name="package_delete_confirm_step_2">Odstranitev te aplikacije lahko povzroči nestabilnost sistema vaše naprave.</string>
   <string name="package_delete_confirm_step_3">"Ne boste mogli odpreti aplikacije ko jo odstranite."</string>
@@ -272,6 +275,7 @@
   <string name="user_switching_dialog_switch_out_kid_space">Izhod iz otroškega prostora…</string>
   <string name="user_switching_dialog_text">Sprememba…</string>
   <string name="voice_assistant_tips">Nadgrajeno na dolg pritisk tipke vklop za vklop glasovnega asistenta</string>
+  <string name="vivo_phone">vivo</string>
   <string name="voice_begin">Kaj iščete?</string>
   <string name="voice_button_action_down">Spusti za iskanje</string>
   <string name="voice_button_action_up">Pritisni za pogovor</string>
@@ -301,6 +305,7 @@
   <string name="xiaomi_mix_3">Mi MIX 3</string>
   <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
   <string name="xiaomi_note_3">Mi Note 3</string>
+  <string name="xiaomi_phone">Xiaomi</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="xspace_head">Dvojna aplikacija</string>
   <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
