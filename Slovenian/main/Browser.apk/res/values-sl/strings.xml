@@ -329,7 +329,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="dialog_insufficient_space_on_external">Ni dovolj prostora na zunanjem pomnilniku</string>
   <string name="dialog_media_not_found">"Ne morem prenesti, ni najdenega zunanjega pomnilnika"</string>
   <string name="dialog_queued_body">Ta datoteka je v vrsti čakanja na prenos.</string>
-  <string name="dialog_recovery_tabs_action">Tapni za vrnitev</string>
+  <string name="dialog_recovery_tabs_action">Tapni za vrnitev na to stran</string>
   <string name="dialog_recovery_tabs_disc">Odkrivanje neodkritih strani zahteva popolno obnovitev.</string>
   <string name="dialog_recovery_tabs_tip">Spletna stran zadnjič ni bila zaprta</string>
   <string name="dialog_recovery_tabs_title">Odpri stran pred obnovitvijo</string>
