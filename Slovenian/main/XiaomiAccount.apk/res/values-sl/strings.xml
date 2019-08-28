@@ -522,13 +522,10 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_use_generated_pwd_message">Poskrbite da si boste zapomnili svoje geslo. Lahko ga uporabite za prijavo na druge Mi storitve.</string>
   <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
   <string name="passport_user_agreement">Pogoji uporabe</string>
-  <string name="passport_user_agreement_p1">Strinjam se z</string>
-  <string name="passport_user_agreement_p2">Pogoji uporabe</string>
+  <string name="passport_user_agreement_link">&lt;Data&gt;"Prebral sem in se strinjam z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="passport_user_id_notice">Vaš ID Mi Računa je %s.</string>
   <string name="passport_user_reg_region">Država/Regija</string>
   <string name="passport_user_reg_region_warning">"Po zaprtju računa ne morete spremeniti državo/regijo"</string>
-  <string name="passport_user_agreement_p3">in</string>
-  <string name="passport_user_agreement_p4">Pravilnik o zasebnosti</string>
   <string name="passport_user_agreement_required">Pogoji uporabe (obvezno)</string>
   <string name="passport_vcode_notice">Koda</string>
   <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopoln</string>
@@ -626,6 +623,11 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="sim_changed_notification_title">Telefonska številka je spremenjena?</string>
   <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="system_ad">Oglasi v sist. aplikacijah</string>
+  <string name="system_ad_list">Pokaži podobne aplikacije.</string>
+  <string name="system_ad_summary">"Vklopite to storitev in tako omogočite prikazovanje majhnega števila oglasov v sistemskih aplikacijah. Ti oglasi nam pomagajo razvijati in izboljševati naše izdelke in storitve. To storitev lahko kadarkoli izklopite. Hvala za podporo!"</string>
+  <string name="system_ad_switch">Oglasi v sist. aplikacijah</string>
+  <string name="system_ad_switch_failed">neuspešno</string>
   <string name="sms_send_success">Poslano</string>
   <string name="sns_access_token_expired_warning">Potekel je čas prijave v račun. Prijavite se ponovno za ponovno povezovanje s tem računom.</string>
   <string name="talkback_scan_barcode">Skeniraj QR kodo</string>

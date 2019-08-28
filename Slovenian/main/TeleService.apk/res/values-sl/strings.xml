@@ -1818,6 +1818,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_network_type_title">Prednostni omrežni način</string>
   <string name="preferred_networks"/>
   <string name="preferred_phone_account">Prednostni račun klica</string>
+  <string name="preferred_wificall_roaming_title">Nastavitve gostovanja</string>
   <string name="preferred_wificall_title">Nastavitve omrežja</string>
   <string name="primary_account_summary_with">Primarni račun. %s</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
