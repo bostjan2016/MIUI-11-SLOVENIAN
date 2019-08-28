@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="cache_sort_type">
-        <item>Velikost</item>
-        <item>Ime</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Velikost</item>
-        <item>Ime</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Pogosto uporabljeno</item>
-        <item>Velikost</item>
-    </string-array>
     <string-array name="auto_clean_time">
         <item>Vsak dan</item>
         <item>Vsake 3 dni</item>
@@ -32,6 +20,18 @@
      <string-array name="cache_clean_menu">
         <item>Počisti to datoteko</item>
         <item>"Pokaži lokacijo datoteke"</item>
+    </string-array>
+     <string-array name="cache_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Pogosto uporabljano</item>
+        <item>Velikost</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
     </string-array>
     <string-array name="trash_clean_menu">
         <item>Počisti to datoteko</item>
@@ -60,7 +60,7 @@
 	<string-array name="long_add_app_menu">
          <item>Dodaj aplik. v izjeme</item>
      </string-array>
-	     <string-array name="app_clean_menu">
+	 <string-array name="app_clean_menu">
         <item>Odstrani</item>
      </string-array>
 	 <string-array name="scan_engine">
