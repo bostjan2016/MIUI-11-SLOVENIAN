@@ -163,9 +163,5 @@
         <item quantity="other">%1$d naprav povezano</item>
         <item quantity="one">%1$d naprava povezana</item>
     </plurals>
-        <plurals name="auto_disconnect_timer_tip">
-        <item quantity="other">Prekinitev čez %1$d sekund</item>
-        <item quantity="one">Prekinitev čez %1$d sekundo</item>
-    </plurals>
 
 </resources>
