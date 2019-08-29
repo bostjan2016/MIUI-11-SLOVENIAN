@@ -39,7 +39,6 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_05">Korak 1</string>
   <string name="help_page_text_06">"1. Uporabite mali ročni telefon za povezavo na televizor z majhnim zaslonom, lahko vzpostavite navpično povezavo z zaslonom brez omrežnoga okolja.
 2. Nekateri Xiaomi televizorji ali televizorji drugih znamk ne podpirajo pametno pregledovanje, lahko povežete televizor (ali napravo z velikim zaslonom) z mobilnim telefonom na isto brezžično omrežje."</string>
-  <string name="help_page_text_07">3. Nekateri Xiaomi televizori ali televizorji drugih znamk ne podpirajo pametno pregledovanje. Če ni brezžičnega omrežja ali če se televizor in mobilni telefon ne moreta povezati na isto omrežje morate vključiti TV (ali napravo z velikim zaslonom) [Miracast] Mirror projection screen]. To ime se lahko razlikuje za različne znamke televizorja. Naslednjo stran lahko pomaknete do dna te stran in zveste več.</string>
   <string name="help_page_text_08">Korak 2</string>
   <string name="help_page_text_09">"Tapnite bližnjico \"Predvajaj\" na vaši mobilni napravi v plošči obvestil. Vključite WiFi in Bluetooth za stabilnejšo povezavo."</string>
   <string name="help_page_text_10">Če želite predvajati stvari iz Galerije ali Mi Video, lahko uporabite v teh aplikacijah vgrajene storitve za predvajanje.</string>
@@ -48,8 +47,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_13">"Povezovanje z zunanjo napravo ni možno ?"</string>
   <string name="help_page_text_14">"1. Mi TV screencast, nadgradite aplikacijo Wireless Screening na seznamu aplikacij za televizijo na najnovejšo različico. 
 2. Če želite povečati stopnjo uspešnosti povezave, lahko poskusite telefon povezati s televizorjem v istem omrežju LAN. Vendar nekateri usmerjevalniki morda ne bodo mogli zagotoviti stabilnega povezavnega okolja za zaslon, kar povzroči da ni nobene povezave ali pogoste prekinitve. 
-3. Če uporabljate Mi TV, bi vklop Bluetootha lahko izboljšal povezavo. 
-4. Če ni na voljo nobenega omrežja WiFi, se prepričajte, da vaša zunanja naprava (npr. TV) podpira funkcijo Miracast. Imena storitev za predvajanje na zunanji napravi se lahko razlikujejo glede na blagovno znamko vaše naprave. Glejte spodnje informacije, če želite izvedeti več o storitvi Miracast na različnih napravah."</string>
+3. Če uporabljate Mi TV, bi vklop Bluetootha lahko izboljšal povezavo.
   <string name="help_page_text_15">Miracast funkcionalnost na različnih napravah</string>
   <string name="help_page_text_16">Mi TV/Mi Projektor</string>
   <string name="help_page_text_17">"Xiaomi mobilni telefon se lahko neposredno poveže z večino Xiaomi TV s funkcijo Bluetooth, namesto da ročno odpre storitev Miracast.
@@ -91,6 +89,8 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_51">LeTV</string>
   <string name="help_page_text_52">Preverite ali model večjega zaslona podpira Miracast protokol. Na nekaterih modelih izberite Nastavitve &gt; Omrežje &gt; Multi-zaslon &gt; Brezžični zaslon.</string>
   <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
+   <string name="help_page_text_55">"Če ni WiFi-ja na voljo preverite če zunanji zaslon (npr. TV) podpira storitev Miracast. Ime te storitve je različno na različnih napravah. Če želite izvedeti več glejte spodnje podatke o Miracastu na različnih napravah.
+4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>
