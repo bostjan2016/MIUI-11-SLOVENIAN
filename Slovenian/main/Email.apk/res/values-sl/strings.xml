@@ -1120,7 +1120,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
   <string name="translation_query_failure">"Ne morem najti rezultatov"</string>
-  <string name="translation_technology_support">Technical support by iciba.com</string>
+  <string name="translation_technology_support">Tehnična podpora iciba.com</string>
   <string name="trash_folder_selection_title">Izberite mapo za Koš vašega strežnika za %s</string>
   <string name="try_exchange_login">Prijavite se z EXCHANGE</string>
   <string name="tryrefreshing">Osvežujem...</string>
