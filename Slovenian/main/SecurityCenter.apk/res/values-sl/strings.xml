@@ -881,7 +881,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="descx_start_scan_memory">Začenjam preverjanje pomnilnika</string>
   <string name="descx_start_scan_system">Začenjam zaščiteno sistemsko preverjanje</string>
   <string name="detail_app_button">Podrobnosti aplikacije</string>
-  <string name="details_subtitle">Uporaba podrobnosti</string>
+  <string name="details_subtitle">Podrobnosti uporabe</string>
   <string name="device_manager_apply_step_1">Aktiviram administratorja naprave za to aplikacijo?</string>
   <string name="device_manager_apply_step_2">"Aktivacija administratorja naprave za to aplikacijo lahko povzroči prikaz vaših osebnih podatkov.
 Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</string>
