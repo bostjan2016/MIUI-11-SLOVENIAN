@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="activity_not_found">Ni aplikacije za izvedbo tega opravila</string>
+  <string name="activity_not_found">Ni aplikacije za izvedbo te storitve</string>
   <string name="allow_network_hint">Vključite dostop do omrežja</string>
   <string name="already_updated">Vse je posodobljeno</string>
   <string name="back_to_message_list">Nazaj na spisek sporočil</string>

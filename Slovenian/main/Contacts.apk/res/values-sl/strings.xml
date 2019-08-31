@@ -747,7 +747,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="miprofile_alertdialog_edit">Vnesite ime</string>
   <string name="miprofile_alertdialog_message">Pokaži to ime stikom kadar zahtevajo menjavo vizitk.</string>
   <string name="miprofile_alertdialog_title">Vnesite ime</string>
-  <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo tega opravila."</string>
+  <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo te storitve."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Dodaj številko</string>
   <string name="miprofile_bind_account_alertdialog_title">Dodaj številko telefona</string>
   <string name="miprofile_contact_add">Dodaj</string>
@@ -1309,7 +1309,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="toast_for_saving_nickname">Vzdevek shranjen</string>
   <string name="toast_join_with_empty_contact">Vnesite ime stika preden ga združite z drugim</string>
   <string name="toast_making_personal_copy">Ustvarjam osebno kopijo...</string>
-  <string name="toast_start_intent_failed">"Za obdelavo tega opravila ni najdena nobena aplikacija"</string>
+  <string name="toast_start_intent_failed">"Za obdelavo te storitve ni najdena nobena aplikacija"</string>
   <string name="toast_text_copied">Besedilo kopirano</string>
   <string name="today">Danes</string>
   <string name="tomorrow">Jutri</string>

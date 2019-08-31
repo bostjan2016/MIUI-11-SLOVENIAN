@@ -875,7 +875,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permdesc_sdcardRead">Aplikaciji omogoča branje vsebine shrambe USB.</string>
   <string name="permdesc_sdcardWrite">Aplikaciji omogoča zapisovanje v pomnilnik USB.</string>
   <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerne aplikacije lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
-  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo tega opravila.</string>
+  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te storitve.</string>
   <string name="permdesc_setInputCalibration">Aplikaciji dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setTimeZone">Aplikaciji omogoča spreminjanje časovnega pasu v telefonu.</string>
   <string name="permdesc_setWallpaper">Aplikaciji omogoča nastavitev ozadja sistema.</string>

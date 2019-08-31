@@ -1006,7 +1006,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="rotate_right">Obrni desno</string>
   <string name="save">Shrani</string>
   <string name="scan_qrcode">Skeniraj QR kodo</string>
-  <string name="screen_on_proximity_sensor_hint">Za izklop tega opravila istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
+  <string name="screen_on_proximity_sensor_hint">Za izklop te storitve istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>
   <string name="secure_access_web_url">Varen dostop</string>
   <string name="see_app_details">Poglejte podrobnosti aplikacije</string>

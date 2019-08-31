@@ -876,7 +876,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="clear_user_data_text">Počisti podatke</string>
   <string name="close_gesture">Zapri s kretnjo</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
-  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop tega opravila bo spremenil razpored in druge elemente UI.</string>
+  <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te storitve bo spremenil razpored in druge elemente UI.</string>
   <string name="collect_diagnostics_summary">Zberi dijagnostične podatke za reševanje problema</string>
   <string name="collect_diagnostics_title">Zberi dijagnostične podatke</string>
   <string name="color_black">Črna</string>
@@ -3604,7 +3604,7 @@ Uporaba pripenjanja:
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogočil skrbnik</string>
   <string name="security_enable_widgets_title">Omogoči pripomočke</string>
-  <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop tega opravila. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
+  <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop te storitve. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
   <string name="security_encryption_alert_dialog_title_first">Najprej nastavite geslo za zaklepanje zaslona</string>
   <string name="security_encryption_attention_1">"Ne morete uporabljati alarma če je naprava izključena."</string>
   <string name="security_encryption_attention_2">"Geslo boste morali vnesti po vsakem ponovnem zagonu. Ponovni zagon bo trajal dlje kot ponavadi."</string>
@@ -4786,7 +4786,7 @@ WiFi Assistant"</string>
   <string name="wifi_band_5ghz">5 GHz</string>
   <string name="wifi_calling_mode_dialog_title">Način klicanja prek WiFi-ja</string>
   <string name="wifi_calling_mode_title">Nastavitev klicanja</string>
-  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom tega opravila pri operaterju preverite cene in druge podrobnosti.</string>
+  <string name="wifi_calling_off_explanation">Ko je vklopljeno klicanje prek omrežja WiFi lahko telefon preusmeri klice prek omrežij WiFi ali omrežja operaterja na podlagi vaše nastavitve in moči signala. Pred vklopom te storitve pri operaterju preverite cene in druge podrobnosti.</string>
   <string name="wifi_calling_settings_title">Klicanje prek WiFi-ja</string>
   <string name="wifi_calling_suggestion_summary">Uporaba WiFi-ja namesto mobilnega omrežja</string>
   <string name="wifi_calling_suggestion_title">Vklop klicanja prek WiFi-ja</string>

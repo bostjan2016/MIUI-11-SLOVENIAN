@@ -34,6 +34,10 @@
         <item quantity="other">Lahko izbrišete nepomembne podatke za %d aplik.</item>
         <item quantity="one">Lahko izbrišete nepomembne podatke za %d aplik.</item>
     </plurals>
+	<plurals name="deepclean_app_summary">
+        <item quantity="other">%d aplikacij nameščenih, lahko izbrišete redko uporabljane</item>
+        <item quantity="one">%d aplikacija nameščena, lahko jo izbrišete</item>
+    </plurals>
     <plurals name="deepclean_large_summary">
         <item quantity="other">Najdeno %d velikih datotek, lahko izbrišete nepomembne</item>
         <item quantity="one">Najdena %d velika datoteka, to lahko izbrišete</item>

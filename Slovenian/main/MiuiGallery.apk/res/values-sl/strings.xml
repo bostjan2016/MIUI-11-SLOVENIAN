@@ -1042,7 +1042,7 @@ za fotografije"</string>
   <string name="next">Naprej</string>
   <string name="no">Ne</string>
   <string name="no_ignore_faces">Ni oseb</string>
-  <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo tega opravila</string>
+  <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo te storitve</string>
   <string name="no_network_connected">Ni dostopnih omrežij</string>
   <string name="not_ask_any_more">"Ne sprašuj ponovno za \"%s\" odgovore"</string>
   <string name="not_is">Ne</string>
@@ -1762,7 +1762,7 @@ za fotografije"</string>
   <string name="video_editor_res_download_failed_tips">"Ne morem prenesti, preverite omrežne nastavitve in poskusite znova"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Prenesem glasbene podloge z uporabo mobilnih podatkov?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Uporabi mobilne podatke</string>
-  <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo tega opravila (več od 20MB).</string>
+  <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te storitve (več od 20MB).</string>
   <string name="video_editor_return">Nazaj</string>
   <string name="video_editor_save">Shrani</string>
   <string name="video_editor_smart_effect_beat">Beats</string>

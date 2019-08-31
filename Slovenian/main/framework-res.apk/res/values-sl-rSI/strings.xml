@@ -1141,7 +1141,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_manageDeviceAdmins">Imetniku omogoča da doda ali odstrani aktivne skrbnike naprave. Normalne aplikacije tega načeloma ne potrebujejo.</string>
   <string name="permdesc_manageDocs">Aplikaciji omogoči urejanje shranjevanja dokumentov.</string>
   <string name="permdesc_manageFingerprint">Aplikaciji omogoča sprožanje načinov za dodajanje in brisanje predlog s prstnimi odtisi za uporabo.</string>
-  <string name="permdesc_manageMediaProjection">Aplikaciji omogoča urejanje z projekcijskimi sejami multimedije. Te seje dajejo aplikacijam možnost snemanja zaslona in avdio vsebine. Navadne aplikacije verjetno ne bodo potrebovali tega opravila.</string>
+  <string name="permdesc_manageMediaProjection">Aplikaciji omogoča urejanje z projekcijskimi sejami multimedije. Te seje dajejo aplikacijam možnost snemanja zaslona in avdio vsebine. Navadne aplikacije verjetno ne bodo potrebovali te storitve.</string>
   <string name="permdesc_manageNetworkPolicy">Aplikaciji omogoča urejanje pravilnikov o omrežju in določanje pravil za aplikacije.</string>
   <string name="permdesc_manageOwnCalls">Omogoča aplikaciji da preusmerja klice preko sistema.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Aplikaciji omogoča urejanje nastavitev lastnika profila in naprave.</string>
@@ -1217,7 +1217,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_sendRespondViaMessageRequest">Aplikaciji dovoli da pošilja zahteve drugim aplikacijam za sporočila za obravnavanje dogodkov z odgovori prek sporočil za dohodne klice.</string>
   <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerne aplikacije lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
   <string name="permdesc_serialPort">Imetniku omogoča da z API-jem za SerialManager dostopa do serijskih vrat.</string>
-  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo tega opravila.</string>
+  <string name="permdesc_setAlarm">Aplikaciji omogoča nastavitev alarma v nameščeni aplikaciji budilke. Nekatere aplikacije budilke morda nimajo te storitve.</string>
   <string name="permdesc_setAlwaysFinish">Aplikaciji omogoča da nadzoruje ali so dejavnosti zaključene takoj ko so premaknjene v ozadje. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_setAnimationScale">Aplikaciji omogoča da kadarkoli spremeni splošno hitrost animacije (hitrejše ali počasnejše animacije).</string>
   <string name="permdesc_setDebugApp">Aplikaciji omogoča vklop opravila za odpravljanje napak za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za zapiranje drugih aplikacij.</string>

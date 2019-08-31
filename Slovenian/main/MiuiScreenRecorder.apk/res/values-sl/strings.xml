@@ -22,7 +22,7 @@
   <string name="description_content">Snemanje zaslona ponuja možnost snemanja na sistemskem nivoju. To opravilo pomeni da boste odstranili opravilo snemanja zaslona. Potrdite za nadaljevanje.</string>
   <string name="description_title">O aplikaciji</string>
   <string name="deselect_all">Prekliči izbiro</string>
-  <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
+  <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo te storitve"</string>
   <string name="first_using_mic_dialog_message">Snemalec zaslona potrebuje dostop da mikrofona za snemanje zvoka. Dovolim?</string>
   <string name="first_using_mic_dialog_title">Potrebno je dovoljenje</string>
   <string name="fixed_frame_rate">Fiksno število slik</string>

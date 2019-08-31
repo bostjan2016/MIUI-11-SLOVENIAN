@@ -120,7 +120,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="dialog_title_require_wlan">Povežite se preko WiFi</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_calc_backup_data_size">Izračunavanje velikosti…</string>
-  <string name="doing_restore_home">Obnavljanje zač. zaslona in nastavitev sisitema…</string>
+  <string name="doing_restore_home">Obnavljanje zač. zaslona in nastavitev sistema…</string>
   <string name="done_remove">Uspešno odstranjeno</string>
   <string name="download_home_data">Prenos nastavitev zač. zaslona…</string>
   <string name="download_meta_again">"Ne morem naložiti var. kopijo, poskusite ponovno."</string>

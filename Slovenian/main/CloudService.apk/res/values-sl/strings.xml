@@ -102,7 +102,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_dspt_provision">"Če izgubite vašo napravo lahko greste na &lt;font color=#ff0000&gt;%s&lt;/font&gt; za iskanje, zaklepanje ali uničenje. 
   To lahko vključite/izključite v nastavitvah."</string>
   <string name="find_device_dspt_provision_3">Za lociranje, zaklep ali ponastavitev. Opravilo lahko vklopite/izklopite v nastavitvah.</string>
-  <string name="find_device_dspt_provision_4">Če zamenjate SIM kartico bo samodejno poslan SMS za ponovno aktiviranje tega opravila.</string>
+  <string name="find_device_dspt_provision_4">Če zamenjate SIM kartico bo samodejno poslan SMS za ponovno aktiviranje te storitve.</string>
   <string name="find_device_enabling">Vklapljam…</string>
   <string name="find_device_error_network">Preverite vašo povezavo in poskusite ponovno</string>
   <string name="find_device_error_password_changed">Geslo računa je spremenjeno.</string>
@@ -114,7 +114,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
   Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
   <string name="find_device_operation_failure_rpc">"Zaradi RPC napake opravila ni mogoče izvesti ."</string>
-  <string name="find_device_pref_alert_content">"Najdi napravo je povezana z vašim Mi Računom. Nastaviti morate geslo ali vnesti geslo, ki ste ga nastavili. Pazite da si zapomnite svoj ID Mi Računa in geslo. Za aktiviranje te storitve bo mogoče potrebno SMS sporočilo. Vaš ponudnik storitve vam bo to zaračunal. Če zamenjate SIM kartice bo samodejno poslano sporočilo za ponovno aktiviranje tega opravila."</string>
+  <string name="find_device_pref_alert_content">"Najdi napravo je povezana z vašim Mi Računom. Nastaviti morate geslo ali vnesti geslo, ki ste ga nastavili. Pazite da si zapomnite svoj ID Mi Računa in geslo. Za aktiviranje te storitve bo mogoče potrebno SMS sporočilo. Vaš ponudnik storitve vam bo to zaračunal. Če zamenjate SIM kartice bo samodejno poslano sporočilo za ponovno aktiviranje te storitve."</string>
   <string name="find_device_pref_alert_negtive">Ne hvala</string>
   <string name="find_device_pref_alert_positive">V redu</string>
   <string name="find_device_pref_alert_title">Zapomnite si svoj ID Mi Računa in geslo</string>
@@ -289,7 +289,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
   <string name="micloud_find_device_opened_content">Poiščite svojo napravo na %s</string>
-  <string name="micloud_find_device_sms_alert">Za aktiviranje te storitve bo mogoče potrebno odhodno SMS sporočilo. Vaš operater vam bo to zaračunal. Če zamenjate SIM kartico bo samodejno poslano sporočilo za vklop tega opravila.</string>
+  <string name="micloud_find_device_sms_alert">Za aktiviranje te storitve bo mogoče potrebno odhodno SMS sporočilo. Vaš operater vam bo to zaračunal. Če zamenjate SIM kartico bo samodejno poslano sporočilo za vklop te storitve.</string>
   <string name="micloud_find_device_verify_button">Ponovno aktiviraj Najdi napravo</string>
   <string name="micloud_find_device_verify_close">Izključi Najdi napravo</string>
   <string name="micloud_find_device_verify_fail">"Ne morem ponovno aktivirati Najdi napravo"</string>
@@ -507,15 +507,15 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   
   
    To opravilo lahko kadarkoli vklopite/izklopite v Nastavitvah."</string>
-  <string name="mx_dspt_provision_privacy">"To opravilo lahko zahteva vašo tel. številko. Mogoče bo potrebno odhodno SMS sporočilo za vklop tega opravila. Vaš operater vam bo zaračunal to sporočilo.
+  <string name="mx_dspt_provision_privacy">"To opravilo lahko zahteva vašo tel. številko. Mogoče bo potrebno odhodno SMS sporočilo za vklop te storitve. Vaš operater vam bo zaračunal to sporočilo.
   
   
   To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"To opravilo lahko zahteva vašo tel. številko. Mogoče bosta potrebna dve odhodni SMS sporočili za vklop tega opravila. Vaš operater vam bo zaračunal ta sporočila.
+  <string name="mx_dspt_provision_privacy_2_sim">"To opravilo lahko zahteva vašo tel. številko. Mogoče bosta potrebna dve odhodni SMS sporočili za vklop te storitve. Vaš operater vam bo zaračunal ta sporočila.
  
  
 To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"To opravilo lahko zahteva vašo tel. številko. Ko je najdena SIM kartica bo mogoče potrebno odhodno SMS sporočilo za vklop tega opravila. Vaš operater vam bo zaračunal to sporočilo.
+  <string name="mx_dspt_provision_privacy_no_sim">"To opravilo lahko zahteva vašo tel. številko. Ko je najdena SIM kartica bo mogoče potrebno odhodno SMS sporočilo za vklop te storitve. Vaš operater vam bo zaračunal to sporočilo.
 
 To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_dspt_provision_with_voip">"Kličite druge MIUI uporabnike brezplačno z uporabo spletne povezave. Lahko kadarkoli vključite/izključite v nastavitvah. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti."</string>

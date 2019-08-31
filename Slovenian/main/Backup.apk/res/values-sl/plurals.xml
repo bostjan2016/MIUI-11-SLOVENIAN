@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="backup_items_sysdata_tailer">
-         <item quantity="other">Podatkovne datoteke sitema: %d</item>
-         <item quantity="one">%d podatkovna datoteka sitema</item>
+         <item quantity="other">Podatkovne datoteke sistema: %d</item>
+         <item quantity="one">%d podatkovna datoteka sistema</item>
      </plurals>
      <plurals name="backup_items_app_tailer">
          <item quantity="other">Podatkovne datoteke aplikacij: %d</item>

@@ -308,7 +308,7 @@
   <string name="pref_keep_in_memory_title">Zakleni MIUI v spomin</string>
   <string name="pref_keep_layout_summary">Spreminjanje nastavitve začetnega zaslona ne bo vplivalo medsebojni položaj ikon</string>
   <string name="pref_keep_layout_title">Zaklepanje pozicij aplikacij</string>
-  <string name="pref_render_in_truecolor_summary">Izklop tega opravila izboljša delovanje</string>
+  <string name="pref_render_in_truecolor_summary">Izklop te storitve izboljša delovanje</string>
   <string name="pref_render_in_truecolor_title">Visoko kvalitetne grafike</string>
   <string name="pref_screen_transformation_type_title">Prehod zaslona</string>
   <string name="pref_wallpaper_scroll_type_title">Poravnava ozadja</string>
@@ -327,7 +327,7 @@
   <string name="recommend_apps_notice">Priporočene aplik.</string>
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>
-  <string name="recommend_apps_tips">"To opravilo za normalno delovanje potrebuje povezavo s spletom. Za izključitev tega opravila se dotaknite imena te mape."</string>
+  <string name="recommend_apps_tips">"To opravilo za normalno delovanje potrebuje povezavo s spletom. Za izključitev te storitve se dotaknite imena te mape."</string>
   <string name="recommend_loading">Samo trenutek</string>
   <string name="recommend_refresh">Osveži</string>
   <string name="recommend_xout">"Ne kaži"</string>

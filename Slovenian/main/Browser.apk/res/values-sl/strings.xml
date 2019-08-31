@@ -18,7 +18,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deli preko aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
-  <string name="accept_cookies_confirm_message">Izklop tega opravila lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
+  <string name="accept_cookies_confirm_message">Izklop te storitve lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
   <string name="accessibility_button_clear">Pobriši vnos</string>
   <string name="accessibility_date_picker_month">Mesec</string>
   <string name="accessibility_date_picker_week">Teden</string>
@@ -397,7 +397,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="empty_cloud_tab_logout_hint">"Prijavite se v svoj Mi Račun\nu da vidite odprte kartice na drugih napravah."</string>
   <string name="empty_history_hint">Prazno</string>
   <string name="empty_snapshot_hint">Prazno</string>
-  <string name="enable_geolocation_confirm_message">Izklop tega opravila lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
+  <string name="enable_geolocation_confirm_message">Izklop te storitve lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
   <string name="enter_developer_mode">Vstop v način za razvijalce</string>
   <string name="enter_incongnito_mode">Vstop v neviden način</string>
   <string name="enter_infoflow_guide">Podrsaje gor za novice</string>
@@ -1162,7 +1162,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="paused_waiting_to_retry">Ponovni poskus…</string>
   <string name="pay_failed_toast">Ne morem dokončati plačila</string>
   <string name="pay_success_toast">Plačilo uspešno</string>
-  <string name="permission_alert_window">Dovoli pojavna okna za uporabo tega opravila.</string>
+  <string name="permission_alert_window">Dovoli pojavna okna za uporabo te storitve.</string>
   <string name="permission_notification">poslati obvestila.</string>
   <string name="permission_unknown">Neznano opravilo</string>
   <string name="permissions_prompt_message">%s želi</string>
@@ -1306,7 +1306,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="quicklink_cannot_save_url">"Ta povezava se ne more dodati."</string>
   <string name="quicklink_folder_text">Najboljše</string>
   <string name="quicklink_not_saved">Ni mogoče dodati na domačo stran</string>
-  <string name="quicklink_push_confirm_message">Vaša potisna pošta ne bo posodabljana po izključitvi tega opravila. Vseeno izključim?</string>
+  <string name="quicklink_push_confirm_message">Vaša potisna pošta ne bo posodabljana po izključitvi te storitve. Vseeno izključim?</string>
   <string name="quicklink_saved">Dodano na domačo stran</string>
   <string name="quicklink_saved_before">Ta stran je že bila dodana</string>
   <string name="quicklink_user_define_webpage_title">Ime</string>
@@ -1334,7 +1334,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="refresh_description">Osveži</string>
   <string name="refresh_text">Osveži</string>
   <string name="refuse_permissions_request">Omeji</string>
-  <string name="remember_passwords_confirm_message">Izklop tega opravila lahko vpliva na porabo.</string>
+  <string name="remember_passwords_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
   <string name="remove_bookmark">Izbriši zaznamek</string>
   <string name="remove_bookmark_group">Izbriši skupino</string>
   <string name="remove_from_bookmarks">Odstrani iz zaznamkov</string>
@@ -1361,7 +1361,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="save_file_already_exist_alert_message">Datoteka z istim imenom že obstaja, želite da jo prepišem?</string>
   <string name="save_file_already_exist_alert_title">Prepišem datoteko?</string>
   <string name="save_file_suffix">" datoteko"</string>
-  <string name="save_form_data_confirm_message">Izklop tega opravila lahko vpliva na porabo.</string>
+  <string name="save_form_data_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
   <string name="save_image_failed">Slike ni bilo mogoče shraniti</string>
   <string name="save_image_success">Slika shranjena</string>
   <string name="save_page_capture_tip">Odpri ploščo obvestil za prikaz posnetka zaslona.</string>
@@ -1405,9 +1405,9 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="secure_download_in_xiaomi_market">Prevzemite v Xiaomi Marketu</string>
   <string name="secureaccess">Vključi varni način</string>
   <string name="secureaccess_cancel">Ignoriraj</string>
-  <string name="security_url_confirm_message">Izklop tega opravila lahko povzroči varnostne probleme.</string>
+  <string name="security_url_confirm_message">Izklop te storitve lahko povzroči varnostne probleme.</string>
   <string name="security_warning">Varnostno opozorilo</string>
-  <string name="security_warnings_confirm_message">Izklop tega opravila lahko povzroči varnostne probleme.</string>
+  <string name="security_warnings_confirm_message">Izklop te storitve lahko povzroči varnostne probleme.</string>
   <string name="select_dot">Izberi tekst</string>
   <string name="select_download_device">Izberi napravo</string>
   <string name="send_comment_button">Pošlji</string>
@@ -1662,7 +1662,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="voice_title_listening">Poslušam...</string>
   <string name="voice_title_please">Začnite govoriti...</string>
   <string name="voice_title_speech_again">Nisem vas razumel</string>
-  <string name="weather_location_confirm_message">Izklop tega opravila lahko vpliva na porabo.</string>
+  <string name="weather_location_confirm_message">Izklop te storitve lahko vpliva na porabo.</string>
   <string name="webpage_bookmark_title">Zaznamek</string>
   <string name="webpage_history_title">Zgodovina</string>
   <string name="webpage_title">Zaznamki &amp; Zgodovina</string>

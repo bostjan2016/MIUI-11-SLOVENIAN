@@ -66,7 +66,7 @@
   <string name="need_get_accounts_and_storage_permission">Aplikaciji Mi Drive je za normalno delo potrebno dovoljenje za dostop do računa in zunanjega pomnilnika.</string>
   <string name="need_get_accounts_permission">Aplikaciji Mi Drive je za normalno delo potreben dostop do računa.</string>
   <string name="never_notify">"Ne kaži več"</string>
-  <string name="no_app_found_to_open_file">Ni aplikacije za izvedbo tega opravila.</string>
+  <string name="no_app_found_to_open_file">Ni aplikacije za izvedbo te storitve.</string>
   <string name="no_more_space">Ni dovolj prostora.</string>
   <string name="no_network">"Ne morem se povezati na omrežje. Preverite omrežno povezavo in poskusite znova."</string>
   <string name="no_tasks">Ni naloge.</string>

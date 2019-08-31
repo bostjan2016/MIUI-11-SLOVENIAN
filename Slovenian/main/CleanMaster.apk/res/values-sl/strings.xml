@@ -292,7 +292,7 @@
   <string name="guide_virus_dialog_positive">Skeniraj</string>
   <string name="guide_virus_dialog_title">Antivirusno skeniranje</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
-  <string name="header_optimizer">Z uporabo tega opravila se strinjate z %s.</string>
+  <string name="header_optimizer">Z uporabo te storitve se strinjate z %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
   <string name="hint_clean_select_similar_image">Brisanje dvojnikov…</string>
   <string name="hints_ad_header_left">Stare datoteke</string>
@@ -592,7 +592,7 @@
   <string name="title_of_operators_set">Nastavitve operaterja</string>
   <string name="title_of_package_set">Nastavitve plana podatkov</string>
   <string name="title_of_traffic_notification">Vrstica obvestil podatkov</string>
-  <string name="title_optimizer">Pogoji in Predpisi</string>
+  <string name="title_optimizer">Pogoji in pravila</string>
   <string name="title_share_link">Deli povezavo</string>
   <string name="toast_add_white_list_success">Uspešno dodano v izjeme</string>
   <string name="toast_app_no_residual_on_sdcard">"Aplikacija nima shranjenih datotek na SD kartici"</string>

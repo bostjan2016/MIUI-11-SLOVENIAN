@@ -479,7 +479,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_mobile_data">Mobilni podatki</string>
   <string name="auto_task_operation_modify_string">Uredi %s</string>
   <string name="auto_task_operation_mute">Tiho</string>
-  <string name="auto_task_operation_no_op">"Ne izberite tega opravila"</string>
+  <string name="auto_task_operation_no_op">"Ne izberite te storitve"</string>
   <string name="auto_task_operation_open">Vključi</string>
   <string name="auto_task_operation_open_string">Vključi %s</string>
   <string name="auto_task_operation_string_comma">,</string>
@@ -737,7 +737,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_prompt_all_permission">Iščem dovoljenja za vse aplikacije?</string>
-  <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo tega opravila?</string>
+  <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te storitve?</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna povezava</string>
   <string name="connect_internet_by_usbshare">Splet preko USB-a</string>
   <string name="connect_internet_by_wifi">Splet preko WiFi-ja</string>
@@ -938,7 +938,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_import_blacklist">Dodajanje…</string>
   <string name="dlg_import_whitelist">Dodajanje…</string>
   <string name="dlg_keyword_ok">Shrani</string>
-  <string name="dlg_message_not_open_stranger_identify">Za vklop tega opravila, pojdite v Nastavitve &gt; Telefon.</string>
+  <string name="dlg_message_not_open_stranger_identify">Za vklop te storitve, pojdite v Nastavitve &gt; Telefon.</string>
   <string name="dlg_move_to_white">Dodaj v izjeme</string>
   <string name="dlg_no_block">Odblokiram to telefonsko številko?\nBo dodana v izjeme toda predhodno blokirani predmeti ne bodo vidni v zgodovini klicev.</string>
   <string name="dlg_no_block_ok">Odblokiraj</string>
@@ -2668,7 +2668,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="saving_conflict_dialog_title">Pozor</string>
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Omejili ste omrežno povezavo in dostop do lokacije za aplikacijo Varnost. Dajte aplikaciji potrebna dovoljenja za uporabo te storitve.</string>
-  <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati tega opravila"</string>
+  <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te storitve"</string>
   <string name="sc_system_risk_fix_info_xspace">To se ne može rešiti v Drugem prostoru. Poskusite ponovno v Prvem prostoru.</string>
   <string name="sc_warning_updater_not_found">"Aplikacija Posodobitev ni najdena."</string>
   <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
@@ -3547,7 +3547,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="xiaomi_traffic_pass_expiry_date">Aktivno do %s</string>
   <string name="xiaomi_traffic_pass_in_use">Uporablja</string>
   <string name="xiaomi_traffic_pass_not_current_simcard">Za uporabo Mi Data načrta prestavite na mobilne podatke kartice. Prestavim zdaj?</string>
-  <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira tega opravila"</string>
+  <string name="xiaomi_traffic_pass_not_support">"Vaš operater ne podpira te storitve"</string>
   <string name="xiaomi_traffic_pass_notify_content_using">Preostalo %s</string>
   <string name="xiaomi_traffic_pass_notify_title_using">Uporablja se Mi Data načrt</string>
   <string name="xiaomi_traffic_pass_pass_activate_msg">Najden je Mi Data Načrt. Vključim?</string>

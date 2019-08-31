@@ -835,8 +835,8 @@
         <item>"Lahko upočasni zmogljivost naprave"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
-      <item>Ponovno zaženem za uporabo tega opravila?</item>
-        <item>Ponovno zaženem napravo za uporabo tega opravila?</item>
+      <item>Ponovno zaženem za uporabo te storitve?</item>
+        <item>Ponovno zaženem napravo za uporabo te storitve?</item>
     </string-array>
 	<string-array name="ai_key_item_name">
         <item>Razgovor z Google pomočnikom</item>

@@ -318,7 +318,7 @@ Naslov: %2$s"</string>
   <string name="enable_broadcast">Vključi način dela odkrivanja</string>
   <string name="enable_id_broadcast_comments">Vključite vidljivost napravam v bližini in da se lahko poveže z njimi</string>
   <string name="enable_id_broadcast_query">Vključim način dela odkrivanja?</string>
-  <string name="enable_id_broadcast_query_msg">Izključitev tega opravila lahko malo zmanjša trajanje baterije</string>
+  <string name="enable_id_broadcast_query_msg">Izključitev te storitve lahko malo zmanjša trajanje baterije</string>
   <string name="enable_id_broadcast_tips">Vključite da bo viden napravam v bližini</string>
   <string name="enable_incoming_call_alert">Vključi obvestila za dohodne klice</string>
   <string name="enable_incoming_call_alert_tips">Mi Band bo vibriral ob dohodnih klicih</string>

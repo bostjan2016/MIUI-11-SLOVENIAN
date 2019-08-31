@@ -57,7 +57,7 @@
   <string name="authorize_button">Dovoli</string>
   <string name="authorize_fav_tip">Tu dodajte priljubljeno iz drugih aplikacij.</string>
   <string name="ball_dialog_confirm">Namesti</string>
-  <string name="ball_dialog_content">Namesti HuPu Sports za uporabo tega opravila. Namestim zdaj?</string>
+  <string name="ball_dialog_content">Namesti HuPu Sports za uporabo te storitve. Namestim zdaj?</string>
   <string name="ball_dialog_tip">Ne kaži več</string>
   <string name="ball_dialog_title">Najprej namestite aplikacijo.</string>
   <string name="ball_hupu">HuPu Sport</string>
@@ -314,7 +314,7 @@
   <string name="launch_change_order">Spremeni zaporedje</string>
   <string name="launch_else">Ostalo</string>
   <string name="launch_enable">Pokaži hitro dostopne kartice</string>
-  <string name="launch_function">Izberitega opravila</string>
+  <string name="launch_function">Izberite opravila</string>
   <string name="launch_label">Hitri dostop</string>
   <string name="launch_no_dapp_dialog_reset">Nastavitve Dvojnih aplikacij</string>
   <string name="launch_noapp_dialog_cancel">Prekini</string>
