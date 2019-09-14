@@ -79,6 +79,13 @@
   <string name="delete_timer_item_title">Izbriši izbrano opravilo</string>
   <string name="delete_timezone_title">Izbriši časovni pas</string>
   <string name="dialog_confirm_abort">Zavržem spremembe?</string>
+  <string name="dialog_legal_off_day">&lt;Data&gt;"Kaže da uporabljate praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"&lt;/Data&gt;</string>
+  <string name="dialog_legal_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o praznikih. Prazniki alarma se bodo izključili v soboto in nedeljo"</string>
+  <string name="dialog_legal_workday">&lt;Data&gt;"Kaže da uporabljate tedenske alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"&lt;/Data&gt;</string>
+  <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Kaže da uporabljate tedenske in praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"&lt;/Data&gt;</string>
+  <string name="dialog_legal_workday_and_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o  praznikih. Tedenski alarmi se bodo izključili od ponedeljka do petka. Praznični alarmi se bodo izključili v soboto in nedeljo."</string>
+  <string name="dialog_legal_workday_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o delovnikih. Tedenski alarmi se bodo izključili od ponedjeljka do petka."</string>
+  <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?&lt;/Data&gt;</string>
   <string name="dialog_message_agree">Strinjam se</string>
   <string name="dialog_message_for_contact_permission">Da bo alarm rojstnega dneva na voljo mora ura imeti dostop do stikov. Se strinjate?</string>
   <string name="dialog_message_negative">"Ne strinjam se"</string>
@@ -266,6 +273,7 @@
   <string name="system_permission_phone_desc">Za identificiranje različnih naprav</string>
   <string name="system_permission_purpose">Alarmi, štoparica, časovniki, svetovna ura</string>
   <string name="system_permission_storage_desc">Za dostop do melodij zvonenja alarma</string>
+  <string name="star_wy_alarm_speech">Spoznajte Boštjana</string>
   <string name="temperature_unit">℃</string>
   <string name="time">Čas</string>
   <string name="time_picker_colon">:</string>

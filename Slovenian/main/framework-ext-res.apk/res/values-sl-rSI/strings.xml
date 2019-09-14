@@ -36,8 +36,8 @@
   <string name="call_record_or">" Ali "</string>
   <string name="call_record_sample_prefix_miui">Klic</string>
   <string name="caller_info_name_delimiter">" ali "</string>
-  <string name="cancel_action">Prekliči</string>
   <string name="can_not_transfer_when_screening">"Ne morem prenesti med sejanjem"</string>
+  <string name="cancel_action">Prekliči</string>
   <string name="close">Izključi</string>
   <string name="configure_input_methods">Izberite tipkovnico</string>
   <string name="confirm_cancel_task_files">Odložim pošiljanje datotek na %1$s?</string>
@@ -52,7 +52,6 @@
   <string name="default_device_name">Neznana naprava</string>
   <string name="default_name">Privzeto</string>
   <string name="description_title">Tihi način</string>
-  <string name="device_name_with_ellipsize">%1$s…</string>
   <string name="device_type_pc">Računalnik</string>
   <string name="eighthours">8 ur</string>
   <string name="enable_livetalk_summary">Prihranite 70% pri vaših klicih</string>
@@ -64,6 +63,7 @@
   <string name="file_cannot_screen_throw">"Ne morem predvajati."</string>
   <string name="file_sending">Prenos datotek…</string>
   <string name="first_back_long_press_message">"Za nastavljanje prilagojenega pritisnite &amp; zadržite opravilo za Navigacijske tipke, pojdite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke</string>
+  <string name="flip_screen_camera_tip">Obrnite napravo da uporabite kamero</string>
   <string name="fm_record_smaple_prefix_miui">FM Snemanje</string>
   <string name="force_exit_message">Prisilno zaprta aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne morem izključiti %1$s ker jo uporablja sistem."</string>
@@ -119,8 +119,6 @@
   <string name="miui_warning_button_ok">V redu</string>
   <string name="miui_warning_tip_info">Napaka %1$s. Zaprem aplikacijo?</string>
   <string name="onehour">30 minut</string>
-  <string name="oppo">OPPO</string>
-  <string name="oppo_phone">OPPO</string>
   <string name="package_delete_confirm_step_1">Odstranim %s?</string>
   <string name="package_delete_confirm_step_2">Odstranitev te aplikacije lahko povzroči nestabilnost sistema vaše naprave.</string>
   <string name="package_delete_confirm_step_3">"Ne boste mogli odpreti aplikacije ko jo odstranite."</string>
@@ -194,7 +192,6 @@
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="send_files_to">Pošlji stvari na</string>
-  <string name="service_not_subscribed">BREZ PRIJAVE NA STORITEV -33-</string>
   <string name="set_password_action">Nastavite geslo</string>
   <string name="set_password_message">Nastavite geslo</string>
   <string name="set_password_title">Nastavite geslo</string>
@@ -272,12 +269,10 @@
   <string name="unknown_caller">Neznana številka</string>
   <string name="unrecognized_manufacture">Neznano</string>
   <string name="unrecognized_model">Neznana naprava</string>
-  <string name="user_authentication_failed">DOVOLJENJE NI USPELO -29-</string>
   <string name="user_switching_dialog_switch_into_kid_space">Menjava v otroški prostor…</string>
   <string name="user_switching_dialog_switch_out_kid_space">Izhod iz otroškega prostora…</string>
   <string name="user_switching_dialog_text">Sprememba…</string>
   <string name="voice_assistant_tips">Nadgrajeno na dolg pritisk tipke vklop za vklop glasovnega asistenta</string>
-  <string name="vivo_phone">vivo</string>
   <string name="voice_begin">Kaj iščete?</string>
   <string name="voice_button_action_down">Spusti za iskanje</string>
   <string name="voice_button_action_up">Pritisni za pogovor</string>
@@ -307,7 +302,6 @@
   <string name="xiaomi_mix_3">Mi MIX 3</string>
   <string name="xiaomi_mix_3_5g">Mi MIX 3 5G</string>
   <string name="xiaomi_note_3">Mi Note 3</string>
-  <string name="xiaomi_phone">Xiaomi</string>
   <string name="xiaomi_poco_f1">POCO F1</string>
   <string name="xspace_head">Dvojna aplikacija</string>
   <string name="xspace_resolver_activity_title">Izberite aplikacijo</string>
