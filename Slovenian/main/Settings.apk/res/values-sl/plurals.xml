@@ -667,4 +667,62 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
          <item quantity="other">"Število nedodanih iger: %d"</item>
          <item quantity="one">"Ni dodana %d igra"</item>
      </plurals>
+	      <plurals name="accessibility_usage_summary">
+        <item quantity="other">%1$d aplikacij ima popolni dostop do vaše naprave</item>
+        <item quantity="one">%1$d aplikacija ima popolni dostop do vaše naprave</item>
+        <item quantity="few">%1$d aplikacije imajo popolni dostop do vaše naprave</item>
+     </plurals>
+     <plurals name="location_app_permission_summary_location_on">
+        <item quantity="other">%1$d od %2$d aplikacij ima dostop do lokacije</item>
+        <item quantity="one">%1$d od %2$d aplikacija ima ima dostop do lokacije</item>
+        <item quantity="few">%1$d od %2$d aplikacija imajo ima dostop do lokacije</item>
+     </plurals>
+     <plurals name="location_settings_summary_location_on">
+        <item quantity="other">Uključeno – %1$d aplikacija ima ima dostop do lokacije</item>
+        <item quantity="one">Uključeno – %1$d aplikacija ima dostop do lokacije</item>
+        <item quantity="few">Uključeno – %1$d aplikacije imaj dostop do lokacije</item>
+     </plurals>
+     <plurals name="mobile_network_summary_count">
+        <item quantity="other">%1$d SIM-ov</item>
+        <item quantity="one">%1$d SIM</item>
+        <item quantity="few">%1$d SIM-ov</item>
+     </plurals>
+     <plurals name="notification_few_channel_count_summary">
+        <item quantity="other">%1$d kanalov obvestil.</item>
+        <item quantity="one">%1$d kanal obvestil.</item>
+        <item quantity="few">%1$d kanalov obvestil.</item>
+     </plurals>
+     <plurals name="notifications_sent_daily">
+        <item quantity="other">~%d obvestil dnevno</item>
+        <item quantity="one">~%d obvestilo dnevno</item>
+        <item quantity="few">~%d obvestila dnevno</item>
+     </plurals>
+     <plurals name="notifications_sent_weekly">
+        <item quantity="other">~%d obvestil tedensko</item>
+        <item quantity="one">~%d obvestilo tedensko</item>
+        <item quantity="few">~%d obvestil tedensko</item>
+     </plurals>
+     <plurals name="permission_bar_chart_label">
+        <item quantity="other">%s aplikacij</item>
+        <item quantity="one">%s aplikacija</item>
+        <item quantity="few">%s aplikacij</item>
+     </plurals>
+     <plurals name="show_bluetooth_devices">
+        <item quantity="other">%1$d naprav povezano</item>
+        <item quantity="one">%1$d naprava povezana</item>
+        <item quantity="few">%1$d naprav povezano</item>
+     </plurals>
+     <plurals name="wifi_saved_all_access_points_summary">
+        <item quantity="other">%d omrežij &amp; predplačilo</item>
+        <item quantity="one">1 omrežje &amp; predplačilo</item>
+     </plurals>
+     <plurals name="wifi_saved_passpoint_access_points_summary">
+        <item quantity="other">%d predplačil</item>
+        <item quantity="one">1 predplačilo</item>
+     </plurals>
+     <plurals name="zen_mode_bypassing_apps_subtext">
+        <item quantity="other">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
+        <item quantity="one">Obvestila %1$d aplikacije lahko preglasijo Ne moti</item>
+        <item quantity="few">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
+     </plurals>
 </resources> 
