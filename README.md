@@ -1,26 +1,20 @@
-<dl><dd><img src="https://i.imgur.com/PDpAAjL.png" border="0" alt="MIUI9_logo"></a></dd></dl>
+<dl><dd><img src="https://i.imgur.com/qHcGbnv.png" border="0" alt="MIUI11_logo"></a></dd></dl>
 
 
-MA-XML-10.0-SLOVENIAN
+MA-XML-11.0-SLOVENIAN
 ==========================
 
-SLOVENIAN Translation For Xiaomi MIUI V10 Android Based OS
+SLOVENIAN Translation For Xiaomi MIUI V11 Android Based OS
 
 
- MIUI Translation: **BOSTJAN, MARKO**
+ MIUI Translation: **BOŠTJAN**
 
  Based on a work at http://miui.com
 
 
  For more info visit:
  
- • MIUI Adria Fansite
-
- http://miui.website/community/categories/miui-forum-slovenija.64/
-   
- • Forum:
-
- http://miui.website/community/categories/miui-forum-slovenija.64/
+   http://xiaomi.eu
   
  • Multilang MIUI Support
  
