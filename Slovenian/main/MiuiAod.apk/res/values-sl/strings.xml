@@ -21,6 +21,7 @@
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_battery_level_charging">Polnjenje, baterija %d procentov.</string>
+  <string name="align_type">Poravnaj</string>
   <string name="always_style">Zmeraj</string>
   <string name="animation_clock_panel">Valovno izbiranje</string>
   <string name="aod_close_color_inversion">"To se ne more kombinirati z inverzijo barv. Najprej izključite inverzijo barv."</string>
@@ -49,20 +50,30 @@
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
   <string name="large_time">Velika ura</string>
   <string name="mini_time">Mala ura</string>
+  <string name="font_thickness">Odebljani font</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="only_show_bg_description">"Ne kaži časa, datuma in drugih stvari"</string>
   <string name="only_show_bg_title">Pokaži samo ozadje</string>
   <string name="paper_mode_end_time_title">Izključi</string>
   <string name="paper_mode_start_time_title">Vključi</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
+  <string name="please_input_signature">Vnesite podpis</string>
   <string name="search_menu_title">Išči</string>
+  <string name="select_notification_animation_style">Izberite posebni efekt</string>
+  <string name="scope_icon">Kalejdoskop stil</string>
+  <string name="scope_time">Kalejdoskop</string>
   <string name="show_battery_status">Pokaži status baterije</string>
   <string name="show_notification">Pokaži obvestila</string>
+  <string name="signature">Podpis</string>
+  <string name="signature_default_content">"Samo za vas;
+  od BOŠTJAN-a"</string>
   <string name="standard_style">Standard</string>
   <string name="scheduled_style">Razpored</string>
   <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
 1. Ko naprava dolgo stoji v mraku.
 2. Če je vključen DND način."</string>
-  <string name="temporary_style">Čez 10 sekund nakon po dotiku</string>
+  <string name="temporary_style">Čez 10 sekund po dotiku</string>
   <string name="text_color">Barva teksta</string>
+  <string name="text_length_exceed_limit_alert">*Vnešeni tekst je predolg</string>
+  <string name="text_size">Velikost teksta</string>
 </resources>

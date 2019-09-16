@@ -61,7 +61,7 @@
         <item quantity="one">%d sporočilo</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Sporočil (%d) ni sinhronizirano"</item>
+        <item quantity="other">"Sporočil ni sinhronizirano: %d"</item>
         <item quantity="one">"%d sporočilo ni sinhronizirano"</item>
     </plurals>
 	<plurals name="mark_number_dialog_subtitle">
@@ -76,5 +76,13 @@
          <item quantity="other">Izbrano %d</item>
          <item quantity="zero">Izberi predmete</item>
 	 <item quantity="one">Izbrano %d</item>
+     </plurals>
+	      <plurals name="notification_multiple">
+        <item quantity="other">"%s sporočil | "</item>
+        <item quantity="one">"%s sporočilo | "</item>
+     </plurals>
+     <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Dobili ste %d vabil za skupinski klepet</item>
+        <item quantity="one">Dobili ste %d vabilo za skupinski klepet</item>
      </plurals>
 </resources>
