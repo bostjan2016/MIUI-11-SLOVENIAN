@@ -104,7 +104,7 @@ can be set on the other device."</string>
   <string name="net_work_notice">By using this feature, you agree that Xiaomi will collect, process, and use your personal data, including MIUI &amp; Android versions, app versions, location info, as well as the list of available apps. This is necessary so that one device could locate and manage other devices. Your device ID, location info, and the list of available apps may be shared with third-party service providers. You can learn how we process your personal data in our Privacy Policy. You can agree to our Privacy Policy by tapping \"Agree\" below.</string>
   <string name="no_msg_yet">you have not received any message yet</string>
   <string name="not_set_time_fence_yet">"Haven't set Time Fence"</string>
-  <string name="notice_detail">Detalji sporočila</string>
+  <string name="notice_detail">Podrobnosti sporočila</string>
   <string name="notice_message">Check my notice</string>
   <string name="notification_deactivate">Managing device was removed</string>
   <string name="notification_deactivate_msg">You can use all apps on your device.</string>
@@ -141,16 +141,16 @@ can be set on the other device."</string>
   <string name="uninstall_app_delayed">【%s】will be uninstalled soon</string>
   <string name="verify_fingerprint">Verify your fingerprint</string>
   <string name="verify_fingerprint_retry">"Couldn't verify fingerprint. Try again."</string>
-  <string name="verify_password">Enter your password</string>
+  <string name="verify_password">Vnesite geslo</string>
   <string name="wes">Sre</string>
-  <string name="what_app_can_use">Available apps</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
-Size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
-Delta update size: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-  <string name="yesterday">Jučer</string>
+  <string name="what_app_can_use">Aplikacije na voljo</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije Prenosi ni uspelo, preverite stanje v Urejaj aplikacije.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s
+Velikost: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verzijo %1$s
+Velikost Delta posodobitve: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
+  <string name="yesterday">Včeraj</string>
   <string name="your_guardian">your guardian 【%1$s】 suggest your to uninstall 【%2$s】</string>
 </resources>
