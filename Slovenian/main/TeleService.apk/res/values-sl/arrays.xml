@@ -23,7 +23,7 @@
         <item>GSM samod. (PRL)</item>
         <item>WCDMA samo</item>
         <item>GSM samo</item>
-        <item>WCDMA preferirano</item>
+        <item>WCDMA prednostno</item>
     </string-array>
     <string-array name="ims_call_cap_types">
         <item>Zvok</item>

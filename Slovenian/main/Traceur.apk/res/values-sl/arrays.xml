@@ -77,7 +77,7 @@
         <item>Zvok Qualcomm® aptX™</item>
         <item>Zvok Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-	    <item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -263,4 +263,12 @@
         <item>Merilo animacije: 5 x</item>
         <item>Merilo animacije: 10 x</item>
     </string-array>
+	     <plurals name="num_categories_selected">
+        <item quantity="other">%d izbrano</item>
+        <item quantity="zero">%d izbrano</item>
+        <item quantity="one">%d izbrana</item>
+        <item quantity="two">%d izbrani</item>
+        <item quantity="few">%d izbrano</item>
+        <item quantity="many">%d izbrano</item>
+     </plurals>
 </resources>

@@ -197,13 +197,13 @@
   <string name="decrypting">Dešifriranje…</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne morem izbrisati datotek, poskusite ponovno"</string>
-  <string name="delete_failed">Ni mogoče izbrisati</string>
+  <string name="delete_failed">"Ni mogoče izbrisati"</string>
   <string name="delete_failed_retry">"Ne morem izbrisati, poskusite ponovno čez %1$s"</string>
   <string name="delete_file">Izbrišem to datoteko?</string>
   <string name="delete_file_error">"Ne morem izbrisati datotek"</string>
-  <string name="delete_files">Izbrišem %1$d datotek?</string>
-  <string name="delete_folder">Izbrišem to mapo?</string>
-  <string name="delete_folders">Izbrišem %1$d map?</string>
+  <string name="delete_files">Izbrišem datoteke: %1$d?</string>
+  <string name="delete_folder">Izbrišem to datoteko?</string>
+  <string name="delete_folders">Izbrišem mape: %1$d?</string>
   <string name="delete_selected_tasks">Izbrišem izbrano?</string>
   <string name="delete_success">Datoteka izbrisana</string>
   <string name="delete_video">Izbriši</string>
@@ -431,7 +431,7 @@
   <string name="make_private_msg_3">Vse datoteke u tej mapi bodo skrite.</string>
   <string name="male">Moški</string>
   <string name="megabyteShort">MB</string>
-  <string name="menu_item_cleanup">Očisti</string>
+  <string name="menu_item_cleanup">Čiščenje</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_midrop">Mi Drop</string>
   <string name="menu_item_router">Router</string>
@@ -528,7 +528,7 @@
   <string name="my_photo_desc"/>
   <string name="my_video">Videoposnetki</string>
   <string name="my_video_desc"/>
-  <string name="name_empty">Vnesite ime.</string>
+  <string name="name_empty">Vnesite ime</string>
   <string name="need_read_storage_permission">"Aplikacija Raziskovalec za normalno delovanje potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
   <string name="net_lose_connected">Povezava izgubljena.</string>
   <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>
@@ -942,7 +942,7 @@
   <string name="swap_tip_1">Podrsajte levo ali desno</string>
   <string name="swap_tip_2">da gledate druge videoposnetke</string>
   <string name="subtitle_report_video">Pošilja %1$s</string>
-  <string name="sys_size_enable">na voljo</string>
+  <string name="sys_size_enable">" na voljo"</string>
   <string name="tab_app">Več</string>
   <string name="system_alert">Spletno povezovanje</string>
   <string name="system_sticker_control">Pokaži popularne videoposnetke</string>
@@ -982,7 +982,7 @@
   <string name="title_expire_video">O poteku</string>
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>
-  <string name="title_select_volume">Izberite mape</string>
+  <string name="title_select_volume">Izberite mapo</string>
   <string name="title_upload_video">Delite male videoposnetke</string>
   <string name="toast_file_not_can_read">Najdene ni nobene aplikacije ki bi znala opraviti to nalogo.</string>
   <string name="tools">ORODJA</string>
@@ -1208,7 +1208,7 @@
   <string name="xiaomi_btn_bind">Mi Račun</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="xiaomi_login_btn_str">Mi Račun</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="year_month_day_format">dd.MM.yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Včeraj</string>
   <string name="you_liao_god_desc">Prenesite videoposnetke in povečajte število svojih oboževalcev da dobite status gospoda</string>

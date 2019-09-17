@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">Povezanih je %1$d naprav</item>
+        <item quantity="other">Povezano je %1$d naprav</item>
         <item quantity="one">Povezana je %1$d naprava</item>
-        <item quantity="few">Povezani sta %1$d napravi</item>
+        <item quantity="few">Povezano je %1$d naprav</item>
     </plurals>
 </resources>
