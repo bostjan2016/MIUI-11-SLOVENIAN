@@ -1006,7 +1006,7 @@ Znova poskusite čez %d s."</string>
     <string name="network_partial_connectivity">Povezljivost omrežja %1$s je omejena</string>
     <string name="network_partial_connectivity_detailed">Dotaknite se, da kljub temu vzpostavite povezavo</string>
     <string name="network_switch_metered">Preklopljeno na omrežje vrste %1$s</string>
-    <string name="network_switch_metered_detail">Naprava uporabi omrežje vrste %1$s, ko omrežje vrste %2$s nima dostopa do interneta. Prenos podatkov se lahko zaračuna.</string>
+    <string name="network_switch_metered_detail">Naprava uporabi omrežje vrste %1$s, ko omrežje vrste %2$s nima dostopa do spleta. Prenos podatkov se lahko zaračuna.</string>
     <string name="network_switch_metered_toast">Preklopljeno z omrežja vrste %1$s na omrežje vrste %2$s</string>
   <string name="network_switch_type_name_unknown">neznana vrsta omrežja</string>
   <string name="new_app_action">Zaženi %1$s</string>
@@ -2226,13 +2226,13 @@ Preostalo poskusov :"</string>
     <string name="wfcSpnFormat_spn_wifi">Wi-Fi operaterja %s</string>
     <string name="wfcSpnFormat_spn_wifi_calling">Klicanje prek Wi-Fi-ja operaterja %s</string>
     <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">Klicanje prek WiFi-ja pri operaterju %s</string>
-    <string name="wfcSpnFormat_spn_wlan_call">Klic prek omrežja WLAN operaterja %s</string>
+    <string name="wfcSpnFormat_spn_wlan_call">Klic prek omrežja WiFi operaterja %s</string>
     <string name="wfcSpnFormat_vowifi">Govor prek Wi-Fi-ja</string>
     <string name="wfcSpnFormat_wifi">Wi-Fi</string>
     <string name="wfcSpnFormat_wifi_calling">Klicanje prek Wi-Fi-ja</string>
     <string name="wfcSpnFormat_wifi_calling_bar_spn">Klicanje prek WiFi-ja | %s</string>
     <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Klicanje prek Wi-Fi-ja</string>
-    <string name="wfcSpnFormat_wlan_call">Klic prek omrežja WLAN</string>
+    <string name="wfcSpnFormat_wlan_call">Klic prek omrežja WiFi</string>
     <string name="wfc_mode_cellular_preferred_summary">Klic prek mobilnega omrežja</string>
     <string name="wfc_mode_wifi_only_summary">Samo Wi-Fi</string>
     <string name="wfc_mode_wifi_preferred_summary">Klic prek omrežja Wi-Fi</string>

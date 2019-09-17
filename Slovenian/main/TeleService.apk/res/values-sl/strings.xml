@@ -2558,7 +2558,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_call_notification_message">"Storitev ponuja Orange. Aktiviranje lahko traja več ur. Na koncu boste dobili SMS potrdilo."</string>
   <string name="wifi_call_setting">Nastavitve WiFi klica</string>
   <string name="wifi_call_setting_vodafone_de">WiFi klicanje</string>
-  <string name="wifi_call_setting_vodafone_uk">WLAN klic</string>
+  <string name="wifi_call_setting_vodafone_uk">WiFi klic</string>
   <string name="wifi_calling">WiFi klici</string>
   <string name="wifi_calling_call_assistant">Asistent klicev</string>
   <string name="wifi_calling_call_assistant_configure">Konfiguriraj</string>
@@ -2580,7 +2580,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
     <string name="wifi_cant_connect_to_ap">Povezava z aplikacijo \"%1$s\" ni mogoča</string>
   <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>
     <string name="wifi_connected_mac_randomization">Dodelitev naključnega naslova MAC ob vzpostavitvi povezave</string>
-    <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji Wi‑Fi</string>
+    <string name="wifi_connected_mac_randomization_summary">Dodelitev naključnega naslova MAC pri povezovanju z omrežji WiFi</string>
   <string name="wifi_connected_no_internet">Povezano, brez spleta</string>
   <string name="wifi_coverage_extend">Omogočite WiFi povečavo dosega</string>
   <string name="wifi_coverage_extend_summary">Omogočite WiFi povečavo dosega u uporabo hotspota</string>
@@ -2631,7 +2631,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_ssid_is_empty">SSID polje ne sme biti prazno</string>
   <string name="wifi_ssid_length_is_max">SSID ne sme biti večje od 32 znakov</string>
     <string name="wifi_status_mac_randomized">Naslov MAC je naključno izbran</string>
-    <string name="wifi_status_no_internet">Brez internetne povezave</string>
+    <string name="wifi_status_no_internet">Brez spletne povezave</string>
     <string name="wifi_status_sign_in_required">Zahtevana je prijava</string>
     <string name="wifi_unmetered_label">Z neomejenim prenosom podatkov</string>
   <string name="wifi_verbose_logging">Omogoči obširno prijavo na WiFi</string>

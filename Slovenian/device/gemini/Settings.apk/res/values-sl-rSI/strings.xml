@@ -2444,7 +2444,7 @@ Na tej napravi je več uporabnikov.
   <string name="network_reset_not_available">Ponastavitev omrežnih nastavitev ni na voljo za tega uporabnika</string>
   <string name="network_restrictions">Omejitve omrežja</string>
   <string name="network_scorer_change_active_dialog_text">Želite za urejanje omrežnih povezav namesto aplikacije %2$s uporabljati aplikacijo %1$s?</string>
-  <string name="network_scorer_change_active_dialog_title">Želite zamenjati Pomočnika za Wi‑Fi?</string>
+  <string name="network_scorer_change_active_dialog_title">Želite zamenjati Pomočnika za WiFi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Želite za urejanje omrežnih povezav uporabljati aplikacijo %s?</string>
   <string name="network_settings_title">Mobilna omrežja</string>
   <string name="network_state_label">Stanje omrežja:</string>

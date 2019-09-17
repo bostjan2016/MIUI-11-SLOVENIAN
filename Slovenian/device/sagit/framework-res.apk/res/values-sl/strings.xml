@@ -17,7 +17,7 @@
     <string name="CwMmi">Čakajoči klic</string>
     <string name="DndMmi">Ne moti</string>
     <string name="Midnight">Polnoč</string>
-    <string name="NetworkPreferenceSwitchSummary">Če želite izboljšati sprejem, poskusite zamenjati vrsto omrežja v možnostih »Sistem« > »Omrežje in internet« > »Mobilna omrežja« > »Prednostna vrsta omrežja«.</string>
+    <string name="NetworkPreferenceSwitchSummary">Če želite izboljšati sprejem, poskusite zamenjati vrsto omrežja v možnostih »Sistem« > »Omrežje in splet« > »Mobilna omrežja« > »Prednostna vrsta omrežja«.</string>
     <string name="NetworkPreferenceSwitchTitle">Povezave z omrežjem ni mogoče vzpostaviti</string>
     <string name="Noon">Opoldne</string>
     <string name="PinMmi">Sprememba kode PIN</string>
@@ -754,7 +754,7 @@ Znova poskusite čez %d s."</string>
     <string name="network_logging_notification_text">Vaša organizacija upravlja to napravo in lahko nadzira omrežni promet. Dotaknite se za podrobnosti.</string>
     <string name="network_logging_notification_title">Naprava je upravljana</string>
     <string name="network_switch_metered">Preklopljeno na omrežje vrste %1$s</string>
-    <string name="network_switch_metered_detail">Naprava uporabi omrežje vrste %1$s, ko omrežje vrste %2$s nima dostopa do interneta. Prenos podatkov se lahko zaračuna posebej.</string>
+    <string name="network_switch_metered_detail">Naprava uporabi omrežje vrste %1$s, ko omrežje vrste %2$s nima dostopa do spleta. Prenos podatkov se lahko zaračuna posebej.</string>
     <string name="network_switch_metered_toast">Preklopljeno z omrežja vrste %1$s na omrežje vrste %2$s</string>
     <string name="network_switch_type_name_unknown">neznana vrsta omrežja</string>
     <string name="new_app_action">Začni %1$s</string>
@@ -919,7 +919,7 @@ Znova poskusite čez %d s."</string>
     <string name="permdesc_control_incall_experience">Aplikaciji omogoča zagotavljanje uporabniške izkušnje med klicem.</string>
   <string name="permdesc_control_keyguard">Aplikaciji omogoča nadzor zaklepanja tipkovnice.</string>
   <string name="permdesc_copyProtectedData">Aplikaciji omogoča klicanje privzete storitve vsebnika da kopira vsebino. Ni za uporabo z navadnimi aplikacijami.</string>
-    <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in druge aplikacije omogočajo pošiljanje podatkov v internet, zato to dovoljenje ni potrebno za pošiljanje podatkov v internet.</string>
+    <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in druge aplikacije omogočajo pošiljanje podatkov v splet, zato to dovoljenje ni potrebno za pošiljanje podatkov v splet.</string>
   <string name="permdesc_deleteCacheFiles">Aplikaciji omogoča izbris datotek predpomnilnika.</string>
   <string name="permdesc_deletePackages">Aplikaciji omogoča brisanje paketov sistema Android. Zlonamerne aplikacije lahko to uporabijo za izbris pomembnih aplikacij.</string>
   <string name="permdesc_devicePower">Aplikaciji omogoča vklop ali izklop telefona.</string>

@@ -1898,7 +1898,7 @@ morda nadzira"</string>
     <string name="status_bar_settings_mute_label">TIHO</string>
     <string name="status_bar_settings_notifications">Obvestila</string>
     <string name="status_bar_settings_settings_button">Nastavitve</string>
-    <string name="status_bar_settings_signal_meter_disconnected">Ni internetne povez.</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Ni spletne povez.</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">WiFi povezan</string>
     <string name="status_bar_settings_wifi_button">WiFi</string>
   <string name="status_bar_style_settings">Obvestila</string>

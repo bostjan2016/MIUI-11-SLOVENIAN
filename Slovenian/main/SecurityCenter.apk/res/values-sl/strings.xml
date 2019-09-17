@@ -3327,10 +3327,10 @@ Spoštujemo in ščitimo vašo zasebnost."</string>
 
     Sprejmete to?"</string>
   <string name="traffic_config_alert_body_extra">"
-Kupili ste dodatni internet  %1$s ta mesec.
+Kupili ste dodatni splet %1$s ta mesec.
         To se razlikuje od %2$s kar ste dodali ročno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-     Kupili ste dodatni internet %s ta mesec. 
+     Kupili ste dodatni splet %s ta mesec. 
         To se ne nanaša na mesečne podatke omejitev kar ste nastavili ročno."</string>
   <string name="traffic_config_alert_body_leisure">"
    Vaša mesečna omejitev uporabe podatkov je %1$s. 

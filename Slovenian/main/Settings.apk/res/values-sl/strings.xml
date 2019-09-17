@@ -1369,7 +1369,7 @@ Izbor"</string>
     <string name="bluetooth_unpair_dialog_body">Telefon ne bo več seznanjen z napravo %1$s</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Pozabi napravo</string>
     <string name="bluetooth_unpair_dialog_title">Želite, da vaša naprava pozabi seznanjeno napravo?</string>
-    <string name="bluetooth_untether_blank">Internetna povezava z napravo %1$s bo prekinjena.</string>
+    <string name="bluetooth_untether_blank">Spletna povezava z napravo %1$s bo prekinjena.</string>
     <string name="bluetooth_untethered_unpair_dialog_body">Naprava %1$s ne bo več seznanjena z nobeno napravo, povezano s tem računom Google</string>
     <string name="bluetooth_visibility_timeout">Časovna omejitev vidnosti</string>
   <string name="bluetooth_wake">Zbudi z Bluetooth audio</string>
@@ -1631,7 +1631,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="cellular_data_usage">Poraba mobilnih podatkov</string>
   <string name="cellular_to_wlan_hint_summary">Dovoli nasvet pri ročnem izbiranju ali zmeraj vprašaj v Omrežja-&gt;WiFi</string>
   <string name="cellular_to_wlan_hint_title">Omrežja-&gt;WiFi nasvet</string>
-  <string name="cellular_to_wlan_hint_toast">Omrežja-&gt;WiFiN povezovanje je lahko zadeto</string>
+  <string name="cellular_to_wlan_hint_toast">Omrežja-&gt;WiFi povezovanje je lahko zadeto</string>
   <string name="cellular_to_wlan_title">Omrežja-&gt;WiFi</string>
   <string name="change">Sprememba</string>
   <string name="change_password">Zamenjajte zakl. zaslona</string>
@@ -1790,7 +1790,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji...</string>
   <string name="compute_delete_contact_info">Pridobivanje podrobnosti...</string>
     <string name="computing_size">Izračunavanje ...</string>
-  <string name="condition_airplane_summary">, Bluetooth in mobilno omrežje so izklopljeni. Ne morete opravljati klicev ali se povezati v internet.</string>
+  <string name="condition_airplane_summary">, Bluetooth in mobilno omrežje so izklopljeni. Ne morete opravljati klicev ali se povezati v splet.</string>
   <string name="condition_airplane_title">Način za letalo je vklopljen</string>
   <string name="condition_battery_summary">Delovanje je omejeno. Lokacijske storitve in prenos podatkov v ozadju so izklopljeni.</string>
   <string name="condition_battery_title">Varč. z energijo akum. je vkl.</string>
@@ -3627,7 +3627,7 @@ To lahko spremenite v Nastavitve > Aplikacije in obvestila."</string>
   <string name="keywords_gps">GPS;Lokacija;Storitev lokacije;Satelit</string>
   <string name="keywords_home">zaganjalnik</string>
   <string name="keywords_hotspot">Dostopna točka;Hotspot;Deljenje;Osebni hotspot;Premični hotspot</string>
-    <string name="keywords_hotspot_tethering">povezava s spletom prek mobilnega telefona prek kabla USB, povezava z internetom prek mobilnega telefona prek povezave Bluetooth, dostopna točka wifi</string>
+    <string name="keywords_hotspot_tethering">povezava s spletom prek mobilnega telefona prek kabla USB, povezava z spletom prek mobilnega telefona prek povezave Bluetooth, dostopna točka wifi</string>
     <string name="keywords_ignore_optimizations">prezrtje, optimizacije, dremanje, aplikacija v pripravljenosti</string>
     <string name="keywords_imei_info">imei, meid, min, različica seznama prednostnih omrežij za gostovanje, različica programske opreme za imei</string>
     <string name="keywords_install_other_apps">nameščanje aplikacij neznani viri</string>
@@ -7409,7 +7409,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="storage_detail_apps">Aplikacije</string>
   <string name="storage_detail_audio">Zvok</string>
   <string name="storage_detail_cached">Predpomnjeni podatki</string>
-    <string name="storage_detail_dialog_other">"Med druge datoteke spadajo datoteke v skupni rabi, ki jih shranijo aplikacije, datoteke, ki jih prenesete iz interneta ali prek Bluetootha, datoteke sistema Android in druge. 
+    <string name="storage_detail_dialog_other">"Med druge datoteke spadajo datoteke v skupni rabi, ki jih shranijo aplikacije, datoteke, ki jih prenesete iz spleta ali prek Bluetootha, datoteke sistema Android in druge. 
 
 Če si želite ogledati vidno vsebino te naprave za shranjevanje ^1, se dotaknite \"Razišči\"."</string>
     <string name="storage_detail_dialog_system">Sistem vključuje datoteke, ki se uporabljajo za izvajanje Androida različice %s</string>
@@ -7820,7 +7820,7 @@ Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov
     <string name="tether_settings_summary_hotspot_off_tether_on">Spletna povezava prek telefona</string>
     <string name="tether_settings_summary_hotspot_on_tether_off">Dostopna točka je vklopljena</string>
     <string name="tether_settings_summary_hotspot_on_tether_on">Dostopna točka je vklopljena, spletna povezava prek telefona</string>
-    <string name="tether_settings_title_all">Dostopna točka in skupna raba mobilnega interneta</string>
+    <string name="tether_settings_title_all">Dostopna točka in skupna raba mobilnega spleta</string>
   <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>
   <string name="tether_settings_title_usb">Splet prek USB-ja</string>
   <string name="tether_settings_title_usb_bluetooth">Deljenje povezave</string>
@@ -8825,7 +8825,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="vpn_password">Geslo</string>
   <string name="vpn_replace">Zamenjaj</string>
     <string name="vpn_replace_always_on_vpn_disable_message">S stalno vklopljenim omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano in stalno vklopljeni način se bo izklopil.</string>
-    <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli internetne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
+    <string name="vpn_replace_always_on_vpn_enable_message">Vaše obstoječe omrežje VPN bo zamenjano in ne boste imeli spletne povezave, dokler se ne vzpostavi povezava z omrežjem VPN.</string>
   <string name="vpn_replace_always_on_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
   <string name="vpn_replace_always_on_vpn_title">Želite zamenjati dosedanji VPN?</string>
   <string name="vpn_replace_vpn_message">Z omrežjem VPN ste že povezani. Če se povežete z drugim, bo obstoječe omrežje VPN zamenjano.</string>
@@ -9043,7 +9043,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
     <string name="wifi_cant_connect_to_ap">Povezava z aplikacijo »%1$s« ni mogoča</string>
     <string name="wifi_carrier_connect">Omrežje WiFi operaterja</string>
     <string name="wifi_carrier_content">Povezava prek omrežja %1$s</string>
-    <string name="wifi_cellular_data_fallback_summary">Uporaba prenosa podatkov v mobilnih omrežjih, če WiFi nima dostopa do interneta. Pri tem bodo morda nastali stroški prenosa podatkov v mobilnih omrežjih.</string>
+    <string name="wifi_cellular_data_fallback_summary">Uporaba prenosa podatkov v mobilnih omrežjih, če WiFi nima dostopa do spleta. Pri tem bodo morda nastali stroški prenosa podatkov v mobilnih omrežjih.</string>
     <string name="wifi_cellular_data_fallback_title">Samodejno preklopi na prenos podatkov v mobilnih omrežjih</string>
   <string name="wifi_certificate">Certifikat</string>
   <string name="wifi_check_password_try_again">Preverite geslo in poskusite ponovno</string>
@@ -9200,7 +9200,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_hotspot_configure_ap_text_summary">Android hotspot</string>
   <string name="wifi_hotspot_connect">POVEŽI</string>
     <string name="wifi_hotspot_footer_info_local_only">Aplikacije lahko ustvarijo dostopno točko za skupno rabo vsebin z napravami v bližini.</string>
-    <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje WiFi za svoje druge naprave. Dostopna točka omogoča uporabo interneta prek mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
+    <string name="wifi_hotspot_footer_info_regular">Uporabite dostopno točko, da ustvarite omrežje WiFi za svoje druge naprave. Dostopna točka omogoča uporabo spleta prek mobilne podatkovne povezave, zato lahko nastanejo dodatni stroški prenosa podatkov v mobilnih omrežjih.</string>
     <string name="wifi_hotspot_message">%1$s zahteva spletno prijavo pred povezavo v omrežje.</string>
     <string name="wifi_hotspot_name_summary_connected">Druge naprave se lahko povežejo z dostopno točko %1$s</string>
   <string name="wifi_hotspot_name_summary_connecting">Vklapljanje dostopne točke %1$s…</string>
@@ -9565,7 +9565,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
   <string name="wizard_back">Nazaj</string>
   <string name="wizard_finish">Dokončaj</string>
   <string name="wizard_next">Naprej</string>
-  <string name="wlan_to_cellular_hint_title">WLAN-&gt;Mobilni nasvet</string>
+  <string name="wlan_to_cellular_hint_title">WiFi-&gt;Mobilni nasvet</string>
   <string name="words_title">Besedilo</string>
     <string name="work_alarm_ringtone_title">Privzeti delovni zvok alarma</string>
     <string name="work_mode_label">Delovni profil</string>

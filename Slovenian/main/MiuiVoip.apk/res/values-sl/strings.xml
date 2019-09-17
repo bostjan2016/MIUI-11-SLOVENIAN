@@ -71,7 +71,7 @@ pojdite na %s"</string>
   <string name="mx_dspt_provision_2">MIUI Voip vam omogoča brezplačno klicanje drugih MIUI uporabnikov. Vaš operater vam lahko zaračuna omrežni promet. Mogoče bomo morali poslati SMS sporočilo da potrdite svojo številko telefona.</string>
   <string name="mx_dspt_provision_3">"MIUI Voip vam omogoča brezplačno klicanje drugih MIUI uporabnikov. Vaš operater vam lahko zaračuna omrežni promet. Mogoče bomo morali poslati SMS sporočilo da potrdite svojo številko telefona. VoIP je podprt s strani Weihui. Pokaži Weihui Pravila o zasebnosti"</string>
   <string name="mx_dspt_tips">Ta storitev zahteva vašo številko telefona</string>
-  <string name="net_connect_fails">"Nimate internetne zveze."</string>
+  <string name="net_connect_fails">"Nimate spletne povezave."</string>
   <string name="net_singal_tips">Voip klic signal omrežja %1$s</string>
   <string name="network_unavailable">"Ne morem se povezati na omrežje."</string>
   <string name="next">Naprej</string>
