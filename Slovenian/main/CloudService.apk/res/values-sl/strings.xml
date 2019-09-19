@@ -313,7 +313,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinhr.</string>
   <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo"</string>
   <string name="micloud_main_head_menu_cloud_backup">Var. kopija zač. zaslona</string>
-  <string name="micloud_main_head_menu_cloud_backup_summary">Videz začetnega zaslona, aplikacije in mastavitve sistema</string>
+  <string name="micloud_main_head_menu_cloud_backup_summary">Videz začetnega zaslona, aplikacije in nastavitve sistema</string>
   <string name="micloud_main_head_menu_finddevice_summary">"Najdite in zaklenite napravo če se izgubi"</string>
   <string name="micloud_last_sync_canceled">Sinhronizacija je odpovedana. Poskusite ponovno.</string>
   <string name="micloud_main_button_set_internet">Nastavitve</string>
