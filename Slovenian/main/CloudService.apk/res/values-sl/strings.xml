@@ -566,6 +566,53 @@ Za shranjevanje stvari v vašo napravo (npr. slike, videoposnetki, pesmi)
 Preberite in sprejmite naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Pogoji uporabe &lt;/a&gt;&lt;/u&gt;in &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Pravila o zasebnosti p&lt;/a&gt;&lt;/u&gt;"pred uporabo Xiaomi Cloud.
 "</string>
   <string name="priv_doc_finddevice_pad">"v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
+
+Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup informacijama o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Privacy Policy &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="priv_doc_finddevice_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup podacima o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o Privatnosti &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup podacima o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o Privatnosti &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za pronalaženje, zaključavanje ili brisanje podataka na uređaju ako ga izgubite. Možete ići na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" kako biste ga locirali, zaključali ili resetirali.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.
+
+Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater naplatit će vam ovu poruku. Kad zamijenite svoju SIM karticu, može se automatski poslati poruka da se ova značajka ponovno aktivira.Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.
+Da bi mogao normalno raditi, Pronađi uređaj se mora povezati na internet i tražiti sljedeća dopuštenja da bi se prikupili vaši osobni podaci:
+&amp;#8226; Pristup podacima o uređaju:
+Za identifikaciju vašeg uređaja
+&amp;#8226; Lokacija:
+Za lociranje uređaja i prebacivanje na izgubljeni način rada
+Ako se ne slažete davati takva dopuštenja ili dijeliti i prenositi vaše osobne podatke, nećete moći koristiti ove usluge. U takvim ćete slučajevima moći deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i pristanite na naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Korisnički sporazum &lt;/a&gt;&lt;/u&gt;i&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o Privatnosti &lt;/a&gt;&lt;/u&gt;"prije korištenja Pronađi uređaj.
+"</string>
   <string name="privacy_and_agreement">Zasebnost in Pogoji</string>
   <string name="pref_title_sync_video_on_wifi_only">Uporabi samo WiFi za sinhr. videoposnetkov.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
