@@ -335,6 +335,8 @@
   <string name="cloud_guide_slim_text">Samodejno izdelaj var. kopijo. Prihranite več od 90% prostora z zmanjševanjem.</string>
   <string name="cloud_guide_slim_title">Omogoči zmanjševanje albumov za prihranek %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
+  <string name="cloud_privacy_with_ai_album">Izjava o zasebnosti pri samodejnem varnostnem kopiranju in obdelavi slike</string>
+  <string name="cloud_privacy_with_face">Izjava o zasebnosti pri samodejnem varnostnem kopiranju in prepoznavanju obraza</string>
   <string name="cloud_screenshots_display_name">Posnetek zaslona</string>
   <string name="cloud_settings">Var. kopije Galerije</string>
   <string name="cloud_storage_extend">Razširi cloud prostor</string>

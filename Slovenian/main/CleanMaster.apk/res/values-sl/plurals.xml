@@ -110,8 +110,12 @@
         <item quantity="one">%1$d sek</item>
      </plurals>	
 	<plurals name="view_num">
-        <item quantity="other">%1$s ogledov</item>
-        <item quantity="one">%1$s ogled</item>
+        <item quantity="other">%1$d ogledov</item>
+        <item quantity="zero">%1$d ogledov</item>
+        <item quantity="one">%1$d ogled</item>
+        <item quantity="two">%1$d ogleda</item>
+        <item quantity="few">%1$d ogledi</item>
+        <item quantity="many">%1$d ogledov</item>
     </plurals>
     <plurals name="wechat_copy_video_failed_dialog_msg">
         <item quantity="other">"Ne morem izvoziti %d videov. Osvobodite prostor in poskusite ponovno"</item>

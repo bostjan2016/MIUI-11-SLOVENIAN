@@ -4,6 +4,7 @@
   <string name="auth_activity_label">Kontrolne kode</string>
   <string name="auth_fingerprint_content">Potrdite svoj prstni odtis da boste dostopili do shranjenih gesel</string>
   <string name="auth_fingerprint_content_message">"Ne morem potrditi prstnega odtisa, poskusite ponovno"</string>
+  <string name="auth_fingerprint_content_message_error">"Ne morem skenirati prstnega odtisa, poskusite ponovno"</string>
   <string name="auth_fingerprint_title">Potrdite svoj prstni odtis</string>
   <string name="autofill_description">"MIUI lahko šifrira in shrani vaša gesla tako da jih lahko kadarkoli samodejno vnesete. Xiaomi ne more brati vaših šifriranih gesel."</string>
   <string name="autofill_hint_email_address">E-pošta</string>

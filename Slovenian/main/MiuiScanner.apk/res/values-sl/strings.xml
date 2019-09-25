@@ -47,6 +47,7 @@
   <string name="camera_error_title">Napaka kamere</string>
   <string name="cancel">Prekliči</string>
   <string name="choose_picture">Izberite sliko QR kode</string>
+  <string name="close_hotspot_when_connecting_to_wifi">Hotspot je vključen. Vključite WiFi.</string>
   <string name="common_retake_picture">Posnemi ponovno</string>
   <string name="common_retry">Poskusi ponovno</string>
   <string name="common_save">Shrani</string>
@@ -206,6 +207,7 @@
   <string name="setting_use_last_choose">Zapomni si izbrano</string>
   <string name="setting_wechat">WeChat</string>
   <string name="settings">Nastavitve</string>
+  <string name="setting_function_sort">Razvrščanje funkcij</string>
   <string name="setting_title">Nastavitve</string>
   <string name="shopping_searching">Iskanje izdelka…</string>
   <string name="shopping_title">Posnemite fotografijo izdelka</string>

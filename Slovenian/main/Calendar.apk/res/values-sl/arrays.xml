@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string-array name="response_labels2">
+        <item>"Brez odgovora"</item>
+        <item>Sprejmem</item>
+        <item>Odločil se bom kasneje</item>
+        <item>Ne sprejmem</item>
+     </string-array>
     <string-array name="preferences_skip_reminders_labels">
         <item>Samo če je zavrnjeno</item>
         <item>Če je zavrnjeno ali ni odgovorjeno</item>

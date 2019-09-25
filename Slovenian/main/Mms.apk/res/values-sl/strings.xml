@@ -395,6 +395,7 @@
   <string name="message_type_label">Vrsta:</string>
   <string name="messagelist_sender_self">Jaz</string>
   <string name="messaging">Sporočila</string>
+  <string name="mi_message_title">Mi sporočilo</string>
   <string name="mipub_messaging_entry_title">Mi sporočilo</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">Vsa MMS sporočila razen poslanih od pooblaščenih pošiljateljev bodo blokirana. Pooblaščeni pošiljatelji vključujejo omrežne operaterje, državne sisteme za rezervacijo železnic itd.</string>
@@ -403,6 +404,8 @@
   <string name="mms_block_hint">"Ta pošiljatelj ni v vašim stikih.
 Sporočilo je nezaželjeno."</string>
   <string name="mms_block_hint_highlight">Blokiraj MMS</string>
+  <string name="mms_main_purpose">"Da izkoristite vse zmožnosti sporočil dovolite aplikaciji da se poveže na splet in vključite Mi sporočilo in Smart sporočilo."</string>
+  <string name="mms_title">Sporočila</string>
   <string name="more">Več</string>
   <string name="move_down">Potegni dol</string>
   <string name="move_up">Potegni gor</string>
@@ -470,6 +473,8 @@ Sporočilo je nezaželjeno."</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk. To lahko vključite/izključite kadarkoli v Sporočila &gt; Nastavitve."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokiraj Mi sporočila pred neznanimi številkami</string>
   <string name="mx_filter_message_from_stranger_summary">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk"</string>
+  <string name="mx_main_purpose">"Mi sporočilo vam omogoča pošiljanje sporočil drugim uporabnikom Mi sporočil preko interneta brez dodatnih stroškov.
+Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo bo računal."</string>
   <string name="mx_message">Mi sporočila</string>
   <string name="mx_msg">Mi Sporočila</string>
   <string name="mx_msg_pageview_setting_title">Nastavitve Mi sporočil</string>
@@ -477,6 +482,7 @@ Sporočilo je nezaželjeno."</string>
   <string name="mx_on_sim_1">Mi sporočila SIM reža 1</string>
   <string name="mx_on_sim_2">Mi sporočila SIM reža 2</string>
   <string name="mx_online">Aktivirano</string>
+  <string name="mx_privacy_policy">Mi sporočila Pravila o zasebnosti</string>
   <string name="mx_reactivate">Ponovno aktiviraj Mi sporočila</string>
   <string name="mx_recommend_msg">Dotakni se za vklop Mi sporočila.</string>
   <string name="mx_stranger_recommend_msg">Pritisni za blokiranje Mi Sporočil iz neznanih številk</string>
@@ -531,6 +537,11 @@ Sporočilo je nezaželjeno."</string>
   <string name="overwrite_edited_content">Vsebina ki ste jo vnesli bo prepisana, ali nadaljujem?</string>
   <string name="packages_select_sim_cards_title">Izberite SIM kartico</string>
   <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
+  <string name="perm_purpose_mms_account">Za dostop do podatkov o računu</string>
+  <string name="perm_purpose_mms_storage">Za shranjevanje MMS prilog</string>
+  <string name="perm_purpose_rcs_account">"Za prikazovanje začetnih nasvetov novim uporabnikom"</string>
+  <string name="perm_purpose_rcs_phone_state">Za dostop do IMEI zaradi identifikacije vaše naprave</string>
+  <string name="perm_purpose_rcs_storage">Za shranjevanje slik, videoposnetkov, datotek in ostalih RCS priponk</string>
   <string name="phrase_confirm_delete_message">Ta odgovor bo izbrisan</string>
   <string name="phrase_empty">Ni odgovorov</string>
   <string name="phrase_from">Od %1s</string>
@@ -581,7 +592,7 @@ Sporočilo je nezaželjeno."</string>
   <string name="pref_summary_send_delivery_reports">Pošlji pošiljatelju potrdilo o dostavi za prejet MMS</string>
   <string name="pref_summary_show_recent_contacts">Pokaži nedavne stike ko pišete novo besedilno sporočilo</string>
   <string name="pref_summary_wake_up_screen">Zbudi zaslon vsakič ko je prejeto novo sporočilo</string>
-  <string name="pref_switch_sdk_setting">Zamenjaj smart SMS uslugo operaterja</string>
+  <string name="pref_switch_sdk_setting">Zamenjaj smart SMS storitev operaterja</string>
   <string name="pref_system_title">Sistem</string>
   <string name="pref_time_auto_group_disabled_summary">"Ni podprto v trenutni velikosti fontov"</string>
   <string name="pref_time_auto_group_summary">Skupinska sporočila po času</string>
@@ -669,9 +680,11 @@ Sporočilo je nezaželjeno."</string>
   <string name="rcs_group_chat_closed">(Zaprto)</string>
   <string name="rcs_group_notification_invitation">Vabilo za skupinski klepet</string>
   <string name="rcs_hello_from_pc">Prijavite se na Fetion na računalniku da boste prenesli datoteke.</string>
+  <string name="rcs_main_purpose">Ta storitev omogoča pošiljanje in prejemanje RCS sporočil. RCS sporočila ponuja China Mobile.</string>
   <string name="rcs_message">China Mobile sporočila</string>
   <string name="rcs_message_disable">"Tega sporočila ni možno pregledati v Drugem prostoru"</string>
-  <string name="rcs_msg">China Mobile Messaging</string>
+  <string name="rcs_message_title">RCS sporočila</string>
+  <string name="rcs_msg">China Mobile sporočila</string>
   <string name="rcs_not_online">"Ne morem uporabiti China Mobile sporočila. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="rcs_offline">Niste prijavljeni na UC. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="rcs_offline_hint">"China Mobile sporočila so brez povezave. Ne morem posredovati sporočila."</string>
@@ -859,12 +872,15 @@ Sporočilo je nezaželjeno."</string>
   <string name="slide_show_part">Del %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Podrsajte navzgor za preklic</string>
   <string name="slideshow_activity">Diaprojekcija</string>
+  <string name="smart_message_title">Pametna sporočila</string>
   <string name="smart_messages_network_allow_message">Mi sporočila potrebuje povezavo na splet. Dovolim?</string>
   <string name="smart_messages_network_allow_title">Spletna povezava je obvezna</string>
+  <string name="smart_msg_main_purpose">Pametna sporočila ponuja prepoznavanje ID-a pošiljatelja in storitve pametnega menija.</string>
+  <string name="smart_msg_privacy_policy">Pametna sporočila Pravila o zasebnosti</string>
   <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Vsebina sporočila</string>
-  <string name="sms_full_body">Dohodna sporočila zavrnjena: Ni dovolj prostora na tej napravi.</string>
+  <string name="sms_full_body">"Dohodna sporočila zavrnjena: Ni dovolj prostora na tej napravi."</string>
   <string name="sms_full_title">Spomin za sporočila je poln</string>
   <string name="sms_rejected_body">Dohodno sporočilo je bilo zavrnjeno.</string>
   <string name="sms_rejected_title">Sporočilo je bilo zavrnjeno</string>
@@ -919,9 +935,24 @@ Sporočilo je nezaželjeno."</string>
   <string name="summary_pref_cm_smart_sms">Predloge kartic, številke SMS storitev in še več.</string>
   <string name="switch_to_editor">Urejanje</string>
   <string name="switch_to_menu">Meni</string>
-  <string name="text_in_popup_saved_to_clipboard">Kopirano v odlagališče</string>
+  <string name="system_permission_declare_agree">Strinjam se</string>
+  <string name="system_permission_declare_disagree">"Ne strinjam se"</string>
+  <string name="system_permission_declare_double_link" formatted="false">Preberite in sprejmite naše %1s in %2s pred uporabo.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! %2s</string>
+  <string name="system_permission_declare_no_say_no">"Če ne daste potrebnih dovoljenj ali nam ne dovolite zbiranje in uporabo vaših podatkov ta aplikacija ne bo mogla normalno delati."</string>
+  <string name="system_permission_declare_privacy_declare">"Spoštujemo in ščitimo vašo zasebnost.
+Vedite da %1s mora zbrati vaše podatke i zahteva naslednja dovoljenja za normalno delo:"</string>
+  <string name="system_permission_declare_revoke_path">Lahko prekličete avtorizacijo in izključite storitve v nastavitvah sporočil.</string>
+  <string name="system_permission_declare_single_link">Preberite in sprejmite naše %1s pred uporabo.</string>
+  <string name="system_permission_declare_triple_link" formatted="false">Preberite in sprejmite naše %1s, %2s, in %3s pred uporabo.</string>
+  <string name="system_permission_declare_use_network">Povežite se na omrežje</string>
+  <string name="system_permission_perm_answer_call">Klicanje</string>
+  <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
+  <string name="system_permission_perm_read_numbers">Branje številk telefona</string>
+  <string name="system_permission_perm_send_mms">Poslati MMS</string>
+  <string name="text_in_popup_saved_to_clipboard">Urejevan tekst v pojavnem oknu je shranjen v odložišče</string>
   <string name="text_message">Sporočilo</string>
-  <string name="timed_message_expired_title">%d časovnih sporočil ni bilo poslano</string>
+  <string name="timed_message_expired_title">"%d označenih sporočil ni bilo poslano"</string>
   <string name="timed_message_expired_title_2">Pošljem zdaj?</string>
   <string name="timed_message_in_total">… (%d skupaj)</string>
   <string name="timed_message_to">za</string>
@@ -939,9 +970,9 @@ Sporočilo je nezaželjeno."</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
   <string name="title_timed_message_dialog">Nastavi časovno sporočilo</string>
   <string name="title_use_gsm_alphabet">Uporabljaj GSM abecedo</string>
-  <string name="to_address_label">Za:</string>
+  <string name="to_address_label">"Za: "</string>
   <string name="to_count">%d prejemnikov</string>
-  <string name="to_label">Za</string>
+  <string name="to_label">"Za "</string>
   <string name="to_send_wrapper">Poslano bo ob %s</string>
   <string name="toast_failed_to_close_priv_auth">"Avtorizacija ne more biti preklicana. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="toast_pending_hangup_msg">Sporočilo bo poslano po koncu klica</string>

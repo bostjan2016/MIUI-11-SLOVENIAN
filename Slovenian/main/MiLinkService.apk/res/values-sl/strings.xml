@@ -107,6 +107,10 @@ Za dodatna vprašanja poglejte Pomoč."</string>
 　　•Po branju zvoka oddajte zvok napravi z velikim zaslonom.
 　　•Dovoljenja ciljanja. Poiščite in odkrivajte okoliške naprave."</string>
   <string name="private_protect">Varujte zasebnost</string>
+  <string name="san_wait_msg_1">Ciljna naprava mora vključiti brezžično predvajanje</string>
+  <string name="san_wait_msg_2">Iskanje naprav lahko traja nekaj časa…</string>
+  <string name="san_wait_msg_3">"Zunanje naprave lažje najdete če so povezane na isto omrežje kot vaš telefon"</string>
+  <string name="san_wait_msg_4">"Poglejte \"Pomoč\" če ne najdete naprav"</string>
   <string name="service_name">UniPlay storitev</string>
   <string name="small_window">Minimiziraj okno</string>
   <string name="status_bar_in_casting">Predvajanje</string>

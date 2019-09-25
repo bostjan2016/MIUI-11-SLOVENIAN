@@ -79,6 +79,17 @@
   <string name="appcleaner_qq_scanning_chat">Poslane datoteke</string>
   <string name="appcleaner_qq_scanning_trash">Smeti</string>
   <string name="appcleaner_result_dc_card_title">Osvobodite več prostora</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Očisti %s WeChat predpomnilnika da osvobodite prostor za shranjevanje</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Ne pozabite očistiti predpomnilnik"</string>
+  <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Opomni na čiščenje WeChat predpomnilnika</string>
+  <string name="appcleaner_wechat_pref_time_every_day">Vsak dan</string>
+  <string name="appcleaner_wechat_pref_time_fifteen_day">Vsakih 15 dni</string>
+  <string name="appcleaner_wechat_pref_time_seven_day">Vsakih 7 dni</string>
+  <string name="appcleaner_wechat_pref_time_three_day">Vsake 3 dni</string>
+  <string name="appcleaner_wechat_pref_title_clean_alert">Opomni na čiščenje WeChat predpomnilnika</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Velikost predpomnilnika</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Opomni</string>
+  <string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Velikost predpomnilnika</string>
   <string name="apps_sort_type_item_size">Velikost</string>
   <string name="apps_sort_type_item_time">Pogostost uporabe</string>
   <string name="apps_sort_type_title">Razvrsti po</string>

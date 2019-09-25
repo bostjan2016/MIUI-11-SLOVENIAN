@@ -80,4 +80,12 @@
         <item quantity="other">Alarm se bo izključil %2$s X (%1$s min. vsakič)</item>
         <item quantity="one">Alarm se bo izključil %2$s X (%1$s min.)</item>
     </plurals>
+	     <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+     </plurals>
+     <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+     </plurals>
 </resources>

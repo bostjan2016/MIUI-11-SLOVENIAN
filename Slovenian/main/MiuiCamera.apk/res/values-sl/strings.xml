@@ -200,7 +200,8 @@ in za trenutek zapustite pregled"</string>
   <string name="confirm_recording_fail_calling_alert">"Ne morem snemati med klicem."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija morda že uporablja mikrofon naprave za snemanje."</string>
   <string name="confirm_recording_fail_title">"Ne morem posneti"</string>
-  <string name="confirm_restore_message">Obnovitev privzetih nastavitev kamere?</string>
+  <string name="confirm_reset_manually_parameter_message">Vrnem vse parametre na njihove privzete vrednosti?</string>
+  <string name="confirm_restore_message">"Obnovitev privzetih nastavitev kamere?"</string>
   <string name="confirm_restore_title">Obnovi na privzete nastavitve</string>
   <string name="connect_wifi">Poveži se s tem omrežjem</string>
   <string name="contact_address">Naslov</string>
@@ -997,6 +998,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="raw_data_exit_button_text">Izhod iz RAW načina</string>
   <string name="recommend_soft_light_tip">Uporabite bliskavico v načinu mehke svetlobe</string>
   <string name="record_back_pressed_hint">Ponovno se dotakni za prenehanje snemanja</string>
+  <string name="reset_manually_parameter_confirmed">V redu</string>
+  <string name="reset_manually_parameter_hint">Vrni</string>
   <string name="resume_playing_message">Nadaljujem z predvajanjem od %s?</string>
   <string name="resume_playing_restart">Začni od začetka</string>
   <string name="resume_playing_resume">Nadaljuj predvajanje</string>
@@ -1027,8 +1030,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="show_images_only">Samo slike</string>
   <string name="show_on_map">Pokaži na mapi</string>
   <string name="show_videos_only">Samo videoposnetki</string>
-  <string name="simple_mode_button_asd_flash">Končaj zajem bliskavice</string>
-  <string name="simple_mode_button_asd_hdr">Končaj zajem HDR</string>
+  <string name="simple_mode_button_asd_flash">Izključi</string>
+  <string name="simple_mode_button_asd_hdr">Izključi HDR</string>
   <string name="simple_mode_button_text_audio_capture">Izključi zvok sprožilca</string>
   <string name="simple_mode_button_text_color_effect">Končaj filter</string>
   <string name="simple_mode_button_text_delay_capture">Izključi odštevanje</string>
@@ -1101,8 +1104,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
 Način širokega kota vam pomaga kadar se ne morete premakniti dalje od scene."</string>
   <string name="ultra_wide_mode_use_hint_text_sat">"Poskusite 0.6X Ultra široki kot da boste vključili več scen na fotografiji.
 Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</string>
-  <string name="ultra_wide_open_tip_sat">0.6X Ultra široki kot</string>
   <string name="ultra_wide_open_tip">Ultra široki kot</string>
+  <string name="ultra_wide_open_tip_sat">0.6X Ultra široki kot</string>
   <string name="ultra_wide_recommend_tip_hint">Poskusite Ultra široki kot</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Poskusite 0.6X ultra širokokotni način</string>
   <string name="undo">Prekliči</string>

@@ -10,6 +10,7 @@
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
   <string name="account_name_toast">Račun z istim imenom že obstaja</string>
+  <string name="account_options_actionbar_title">Splošne nastavitve</string>
   <string name="account_options_sync_title">Nastavitve sinhronizacije</string>
   <string name="account_password_spaces_error">To geslo se začne ali konča z enim ali več presledki. Številni strežniki ne podpirajo gesel s presledki.</string>
   <string name="account_security_dialog_content_fmt">%s zahteva da posodobite varnostne nastavitve.</string>
@@ -597,7 +598,10 @@
   <string name="mail_body_turncated">To E-poštno sporočilo je preveliko za prenos. Pokaži le del, ostalo pa si oglejte kasneje na računalniku.</string>
   <string name="mail_description_content">E-pošta je klient e-pošte ki lahko ureja več poštnih nabiralnikov, podpira pošiljanje in prejemanje ter označevanje e-pošte ter ponuja storitve kot npr. način sej, plačanje s pošto, razvrščanje pošte in ostale storitve. Po izbrisu aplikacije bodo podatki e-pošte izbrisani.</string>
   <string name="mail_description_title">O aplikaciji</string>
-  <string name="mail_header_network_not_available">Povezava ni vzpostavljena.</string>
+  <string name="mail_header_network_not_available">"Povezava ni vzpostavljena."</string>
+  <string name="mail_outlook_login_tips">Po Microsoftovih zahtevah morate vnesti geslo na Microsoftovi strani za avtorizacijo.</string>
+  <string name="mail_outlook_oauth_login">Prijavite se z OAuth</string>
+  <string name="mail_outlook_psw_login">Prijavite se z geslom</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
   <string name="mailbox_name_display_add_account">Dodaj račun</string>
@@ -712,8 +716,8 @@
   <string name="no_more_mail">Ni več sporočil</string>
   <string name="no_recognize_describe">"Ne morem najti e-pošt ki vsebujejo vstopnice ali rezervacije.
 Poskusite z ostalo pošto."</string>
+  <string name="no_remind">Ne opominjaj</string>
   <string name="no_search_results">"Ne morem najti rezultatov"</string>
-  <string name="no_remind">Ne opomni</string>
   <string name="not_subject">(Brez predmeta)</string>
   <string name="not_synced_title">Račun ni sinhroniziran</string>
   <string name="note_text">Mogoče skozi omrežje China Mobile ali kontrola preko SMS, lahko povzroči dodatne stroške.</string>
@@ -772,6 +776,7 @@ Poskusite z ostalo pošto."</string>
   <string name="outbox_alert_select_operation">Izberite opravilo</string>
   <string name="outbox_alert_title_sent_failed">E-pošte ni bilo mogoče poslati</string>
   <string name="outbox_no_mails">Izprazni</string>
+  <string name="outlook_login_failed_non_proxy_title">"Ni dostopa do OutLook strežnika"</string>
   <string name="output_all_log">Ispiši vsa poročila</string>
   <string name="output_db_summary">O izhodni bazi podatkov</string>
   <string name="output_db_title">Izhodna baza podatkov</string>
@@ -912,6 +917,7 @@ Poskusite z ostalo pošto."</string>
   <string name="quick_3">Prebral bom kasneje in vas obvestil.</string>
   <string name="quick_4">Dogovorimo se za sestanek, da se pogovorimo o tem.</string>
   <string name="quick_reply_dialog_title">Izberi za odgovor</string>
+  <string name="quick_reply_expend">Razširi</string>
   <string name="quick_reply_hint_bcc">(V Skp)</string>
   <string name="quick_reply_hint_cc">(V Kp)</string>
   <string name="quick_reply_hint_reply_only_from">Hitri odgovor (samo pošiljatelj)</string>
@@ -1064,6 +1070,9 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="str_select_none">Odznači vse</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Predmet</string>
+  <string name="sync_calendra_fail_per_content">Tapnite za omogočanje dostopa do kalendarja</string>
+  <string name="sync_calendra_fail_per_title">"Ne morem sinhronizirati koledar"</string>
+  <string name="sync_calendra_fail_permission">"Ne morem sinhronizirati koledar, dovolite E-pošti dostop do koledarja v nastavitvah"</string>
   <string name="sync_contacts_fail_per_content">Omogočite dovoljenje za stike</string>
   <string name="sync_contacts_fail_per_title">Sinhronizacija stikov ni uspela</string>
   <string name="sync_contacts_fail_permission">Sinhronizacija stikov ni uspela. V nastavitvah omogočite dovoljenje stikov.</string>

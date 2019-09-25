@@ -1517,6 +1517,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="cache_header_label">Predpomnilnik</string>
   <string name="cache_size_label">Predpomnilnik</string>
   <string name="cached">Predpomnjeni procesi v ozadju</string>
+  <string name="calendar_remind">Dogodki</string>
   <string name="calendar_sound_dialog_title">Izberite zvok koledarja</string>
   <string name="calendar_sound_title">Zvok koledarja</string>
   <string name="call_and_contact">Klici in  stiki</string>
@@ -1665,6 +1666,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="chip_text">Chip text</string>
   <string name="choose_a_card_to_reset">Izberite SIM kartico za ponastavitev</string>
   <string name="choose_assist_title">Izberite aplikacijo Pomočnik</string>
+  <string name="choose_lock_pattern_header_text">Nastavi vzorec</string>
   <string name="choose_keyguard_clock_style">Format ure na zakl. zaslonu</string>
   <string name="choose_keyguard_clock_summary">"Ta storitev ne deluje z temami tretjih oseb"</string>
   <string name="choose_network_title">Izberite omrežje</string>
@@ -1851,6 +1853,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="confirm_frp_credential_skip_txt">Namesto tega uporabite Google račun</string>
   <string name="confirm_frp_credential_title">Odkleni po povrnitvi na tovarniške nastavitve</string>
   <string name="confirm_install_and_connect">Namesti &amp; poveži</string>
+  <string name="confirm_lock_pattern_header_text">Narišite svoj vzorec</string>
   <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopijo</string>
   <string name="confirm_password_with_fingerprint">Uporabi prstni odtis</string>
   <string name="confirm_password_with_password">Vnesi geslo</string>
@@ -7742,6 +7745,7 @@ Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov
   <string name="system_backup_section_title">Varnostna kopija</string>
     <string name="system_dashboard_summary">Jeziki, čas, varnostna kopija, posodobitve</string>
     <string name="system_default_app">(Sistemsko privzeto)</string>
+  <string name="system_haptic_feedback">Haptična povratna informacija</string>
   <string name="system_navigation_title">Navigacija sistema</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
   <string name="system_print_service_help">O izpisu</string>
@@ -7881,6 +7885,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_jeejen">Jeejen začetni zaslon</string>
   <string name="title_layout_current">Velikost besedila</string>
   <string name="title_layout_current2">Velikost besedila</string>
+  <string name="title_layout_current2_weight">Velikost besedila &amp; font</string>
   <string name="title_layout_v2">Velikost besedila &amp; skaliranje</string>
   <string name="title_local_resource">Lokalni viri</string>
   <string name="title_of_auto_launch_manage">Samod. zagon</string>
@@ -8911,6 +8916,9 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
     <string name="webview_license_title">Licenca za WebView v sistemu</string>
     <string name="webview_uninstalled_for_user">(odstranjeno za uporabnika %s)</string>
   <string name="welcome">Dobrodošli</string>
+  <string name="weight_heavy">Krepko</string>
+  <string name="weight_light">Tenko</string>
+  <string name="weight_setting_toast">Debelino fontov lahko zamenjate samo za privzeti font sistema</string>
     <string name="wfc_disclaimer_agree_button_text">NADALJUJ</string>
     <string name="wfc_disclaimer_disagree_text">NE, HVALA</string>
     <string name="wfc_disclaimer_emergency_limitation_desc_text">"Vaš operater ne podpira klicev v sili, opravljenih s funkcijo Klicanje prek Wi-Fi-ja.

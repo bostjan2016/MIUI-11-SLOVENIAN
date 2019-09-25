@@ -577,6 +577,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="soundrecorder_sync_only_in_wifi">Uporabi samo WiFi za sinhr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snemalnik ne bo uporabljal mobilnih podatkov za prenos ali nalaganje posnetkov</string>
   <string name="soundrecorder_sync_records">Sinhr. z Mi Cloud</string>
+  <string name="storage_manage_title">Spremeni plan Mi Cloud shrambe</string>
   <string name="storage_manage_expansion">Nabavite več</string>
   <string name="storage_manage_list_title">Cloud podatki</string>
   <string name="storage_manage_list_title_action">Pokaži več</string>

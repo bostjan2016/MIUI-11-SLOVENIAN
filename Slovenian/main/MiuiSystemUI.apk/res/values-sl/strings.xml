@@ -718,6 +718,8 @@ hitrost vzorčenja"</string>
   <string name="ext_media_unmountable_notification_title">Poškodovan USB pomnilnik.</string>
   <string name="external_source_trusted">Dovoljeno</string>
   <string name="external_source_untrusted">Ni dovoljeno</string>
+  <string name="face_data_apply_for_category_title">Odkleni z obrazom</string>
+  <string name="face_data_apply_for_keyguard_title">Zakl. zaslon</string>
   <string name="face_data_input_camera_fail">"Ne morem odpreti kamere"</string>
   <string name="face_data_input_camera_ok">Odpiranje kamere…</string>
   <string name="face_data_input_cancel">Prekliči</string>
@@ -750,6 +752,7 @@ hitrost vzorčenja"</string>
   <string name="face_unlock_be_on_the_screen">Držite napravo pred obrazom</string>
   <string name="face_unlock_by_notification_screen_on_msg">Lahko odklenete napravo s pomočjo obraza ko se vključi zaslon za dohodna obvestila. To povečuje porabo baterije.</string>
   <string name="face_unlock_by_notification_screen_on_title">Dovoli Odklepanje z obrazom ko se zaslon vključi</string>
+  <string name="face_unlock_category_title">Možnosti zakl. zaslona</string>
   <string name="face_unlock_check_failed">"Ne morem vas prepoznati"</string>
   <string name="face_unlock_close_screen">Približajte se zaslonu</string>
   <string name="face_unlock_down">Dvignite glavo</string>

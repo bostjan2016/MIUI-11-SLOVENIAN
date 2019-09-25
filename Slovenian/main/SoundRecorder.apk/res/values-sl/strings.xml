@@ -172,7 +172,8 @@
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s lahko snemam za toliko %2$s</string>
-  <string name="toast_uninstall_fileexplorer">Aplikacija raziskovalec ni nameščena</string>
+  <string name="toast_uninstall_fileexplorer">"Aplikacija raziskovalec ni nameščena"</string>
+  <string name="usage_description">Prepisovanje zvoka in sinhroniziranje stvari z Mi Cloudom</string>
   <string name="webview_check_network">Omrežne nastavitve</string>
   <string name="webview_data_error">Prišlo je do napake</string>
   <string name="webview_locating_fail">"Ne morem najti vaše lokacije"</string>

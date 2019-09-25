@@ -273,6 +273,7 @@
   <string name="negDesc">Zamenjaj med temperaturami pod in nad ničlo</string>
   <string name="network_confirm_content">"Izračun valute, davka in hipotek uporabljajo spletno povezavo za normalno delo."</string>
   <string name="network_confirm_title">Potrebna spletna povezava</string>
+  <string name="network_purpose">Dobrodošli v Kalkulator! Kalkulator vam omogoča pretvorbo valut, izračunavanje odplačil kredita in še več.</string>
   <string name="nickname">Priimek</string>
   <string name="night">PM</string>
   <string name="no_network">"Ne morem se povezati v omrežje"</string>
