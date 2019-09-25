@@ -64,7 +64,7 @@
         <item>Pad</item>
     </string-array>
 	<string-array name="pref_navscreen_layoutstate_choices">
-	     <item>Ploščice</item>
+	<item>Ploščice</item>
         <item>Navpični prikaz</item>
         <item>Vodoravni prikaz</item>
      </string-array>
