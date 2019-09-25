@@ -541,6 +541,31 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="pref_summary_sync_video_on_wifi_only">"Sinhronizacija videoposnetka profila stikov samo kadar ste povezani preko WiFi"</string>
   <string name="pref_title_sync_contacts_title">Sinhroniziraj stike</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Uporabi le Wifi za sinhronizacijo fotografij</string>
+  <string name="priv_dialog_finddevice_all_purpose_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite."</string>
+  <string name="priv_dialog_finddevice_all_purpose_phone">"Dobrodošli v Najdi napravo!! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite."</string>
+  <string name="priv_dialog_sync_all_purpose">"Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodobine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah."</string>
+  <string name="priv_doc_cloudservice">"Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodobine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah. Dostopite do sinhroniziranih stvari iz kateregakoli brskalnika na i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
+
+Za aktiviranje storitve bo morda potreben odhodni SMS. Vaš mobilni operater vam to lahko računa. Ko zamenjate svojo SIM kartico se lahko samodejno pošlje sporočilo da se ta storitev spet aktivira.
+
+Zaščitili bomo vaše osebne podatke v skladu z ustreznimi zakoni, predpisi in pravili o zasebnosti.
+Za normalno delo se mora Xiaomi Cloud spovezati na splet in zahtevati naslednja dovoljenja da zbere vaše osebne podatke:
+&amp;#8226; Koledar:
+Za sinhronizacijo dogodkov
+&amp;#8226; Dostop do SMS sporočil:
+Za sinhronizacijo SMS sporočil
+&amp;#8226; Dostop do MMS sporočil:
+Za sinhronizacijo MMS sporočil
+&amp;#8226; Dostop do stikov:
+Za sinhronizacijo stikov
+&amp;#8226; Urejanje stikov:
+Za sinhronizacijo stikov
+&amp;#8226; Shramba:
+Za shranjevanje stvari v vašo napravo (npr. slike, videoposnetki, pesmi)
+Če ne daste teh dovoljenj ali nočete deliti in prenašati vaše osebne podatke ne boste mogli uporabljati te storitvee. V tem primeru lahko odstranite to aplikacijo, se odjavite ali omejite dovoljenja v nastavitvah.
+Preberite in sprejmite naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Pogoji uporabe &lt;/a&gt;&lt;/u&gt;in &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Pravila o zasebnosti p&lt;/a&gt;&lt;/u&gt;"pred uporabo Xiaomi Cloud.
+"</string>
+  <string name="priv_doc_finddevice_pad">"v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
   <string name="privacy_and_agreement">Zasebnost in Pogoji</string>
   <string name="pref_title_sync_video_on_wifi_only">Uporabi samo WiFi za sinhr. videoposnetkov.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
