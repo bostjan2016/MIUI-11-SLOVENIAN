@@ -517,8 +517,9 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_detail">Podrobnosti</string>
   <string name="app_disable_dlg_positive">Onemogočanje aplikacije</string>
   <string name="app_disable_dlg_title">Želite onemogočiti vgrajeno aplikacijo?</string>
-  <string name="app_disable_dlg_text">Če onemogočite to aplikacijo, Android in druge aplikacije morda ne bodo več delovale, kot bi morale.</string>
+  <string name="app_disable_dlg_text">Če onemogočite to aplikacijo, Android in druge aplikacije morda ne bodo več delovale, kot bi morale. Aplikacije ne morete izbrisati ker je prednameščena v napravi. Če jo onemogočite jo boste izključili in se ne bo več prikazovala.</string>
   <string name="app_disable_notifications_dlg_title">Želite izklopiti obvestila?</string>
+  <string name="app_disable_notifications_dlg_text">Če izključite obvestila za to aplikacijo boste morda zamudili kako pomembno obvestilo.</string>
   <string name="app_factory_reset">Odstrani posodobitve</string>
   <string name="app_factory_reset_dlg_text">Vse posodobitve aplikacije sistema Android bodo odstranjene.</string>
   <string name="app_factory_reset_dlg_title">Želite odstraniti posodobitve?</string>
@@ -3091,6 +3092,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
   <string name="font_size_summary">"Zamenjajte velikost fontov teksta začetnega zaslona, plošče obvestil, tipkovnice in sistemskega menija.    
 
 "</string>
+  <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
   <string name="font_size_summary2"/>
   <string name="forbidden_network">(prepovedano)</string>
   <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
@@ -5085,6 +5087,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="notifications_partly_blocked">%1$d od %2$d kategorij je izklopljenih</string>
     <string name="notifications_priority">Način »ne moti« je preglašen</string>
   <string name="notifications_redacted">Občutljiva vsebina ni na zaklenjenem zaslonu</string>
+  <string name="notification_remind">Obvestila</string>
   <string name="notifications_sensitive">Občutljiva vsebina skrita</string>
     <string name="notifications_sent_daily">~%1$s na dan</string>
     <string name="notifications_sent_never">Nikoli</string>
@@ -7241,6 +7244,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="sound_vibrate_settings">Zvok &amp; vibracija</string>
     <string name="sound_work_settings">Zvoki v delovnem profilu</string>
   <string name="speaker">Zvočnik</string>
+  <string name="speaker_clean">Očistite zvočnik</string>
     <string name="special_access">Posebni dostop za aplikacije</string>
     <string name="special_access_more">Prikaži več</string>
     <string name="speed_label_fast">Hitra</string>
@@ -8281,6 +8285,7 @@ Iz naprave bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
 
 Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, odobriti nakupov ali se prijaviti v aplikacije."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">Funkcije za zaščito profila ne bodo delovale brez kode PIN.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Funkcije za zaščito profila ne bodo delovale brez gesla."</string>
     <string name="unlock_disable_frp_warning_content_unknown">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
     <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.
 

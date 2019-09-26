@@ -3024,6 +3024,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="superpower_dialog_massage">"Ultra varčevanje baterije omejuje največje porabnike energije in zmanjšuje zmogljivost naprave da so osnovne storitve (npr. klici, SMS in povezovanje na omrežje) na voljo kolikor je mogoče. Vključim Ultra varčevanje baterije?"</string>
   <string name="superpower_dialog_title">Ultra varčevanje baterije</string>
   <string name="superpower_notification_hint_enter">Vključi</string>
+   <string name="superpower_notification_new_title">Ostalo je manj od %d%% baterije</string>
   <string name="superpower_notification_summary">Vključi Ultra varčevanje baterije</string>
   <string name="superpower_notification_time_12">EEEE, dd.MM</string>
   <string name="superpower_notification_time_24">EEEE, dd.MM</string>
@@ -3063,10 +3064,13 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_app">Sistemske aplikacije</string>
   <string name="system_application">Sistemske aplikacije</string>
   <string name="system_permission_declare_agree">Strinjam se</string>
+  <string name="system_permission_declare_analytics_declare">"Zahvaljujemo se vam za vključitev v program uporabniških izkušenj. Za normalno delo morate biti povezani na splet. Dati morate tudi naslednja dovoljenja da omogočite zbiranje podatkov ki nam bodo pomagali izboljšati naše izdelke in storitve. Ti podatki se zbirajo samo v statistične namene. Te podatov ne moremo uporabiti za osebno prepoznavo.
+"</string>
   <string name="system_permission_declare_disagree">Ne strinjam se</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Preberite in se strinjajte z našimi &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnost&amp;lt;/a&amp;gt; pred uporabo te storitve.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Preberite in se strinjajte z našimi &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo te storitve.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta aplikacija vam omogoča uporabo: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Če ne daste potrebnih dovoljenj ali nam ne dovolite zbiranje in uporabo podatkov ta aplikacija ne bo mogla normalno delati."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"Če ne daste potrebnih dovoljenj se lahko odjavite v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost &gt; Program uporabniških izkušenj."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Če ne date potrebnih dovoljenj ali ne dovolite zbiranja in uporabe vaših podatkov ta aplikacija ne bo mogla delovati."</string>
   <string name="system_permission_declare_privacy_declare">"Spoštujemo in ščitimo vašo zasebnost.
 Vedite da %1s mora zbrati vaše podatke in zahteva za normalno delo naslednja dovoljenja:"</string>
