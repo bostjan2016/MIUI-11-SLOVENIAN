@@ -80,6 +80,7 @@
   <string name="show_battery">Pokaži status baterije</string>
   <string name="show_battery_status">Pokaži status baterije</string>
   <string name="show_notification">Pokaži obvestila</string>
+  <string name="show_notificaton">Pokaži obvestila</string>
   <string name="signature">Podpis</string>
   <string name="signature_default_content">"Samo za vas;
   od BOŠTJAN-a"</string>
