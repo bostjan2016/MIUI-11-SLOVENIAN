@@ -1218,7 +1218,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="pref_enable_videos">Videoposnetki</string>
   <string name="pref_extras_reset_default">Ponastavi na privzeto</string>
   <string name="pref_extras_reset_default_dlg">Ponastavim na privzete nastavitve?</string>
-  <string name="pref_extras_reset_default_summary">Vrni na privzeto nastavitve</string>
+  <string name="pref_extras_reset_default_summary">Vrni na privzete nastavitve</string>
   <string name="pref_extras_reset_default_title">Ostalo</string>
   <string name="pref_extras_send_feedback">Pošlji Pov. informacije</string>
   <string name="pref_extras_title">Dodatne nastavitve</string>

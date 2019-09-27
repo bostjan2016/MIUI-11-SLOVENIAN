@@ -37,7 +37,7 @@
   <string name="alarm_notify_snooze_label">%s dremeža</string>
   <string name="alarm_notify_text">Dremež ali prekini budilko.</string>
   <string name="alarm_repeat">Ponovi</string>
-  <string name="alarm_ringtone">Melodije zvonenjaa alarma</string>
+  <string name="alarm_ringtone">Melodije zvonenja alarma</string>
   <string name="alarm_screen">Zaslon in melodije Alarma</string>
   <string name="alarm_settings">Nastavitve alarma</string>
   <string name="alarm_settings_category_title">Nastavitve Alarma</string>

@@ -349,7 +349,7 @@
   <string name="settings">Nastavitve</string>
   <string name="settings_shortcut">Nastavitve</string>
   <string name="shake_to_align_icons">Pretresite napravo da popolnite prazne celice z ikonami</string>
-  <string name="shake_to_align_icons_summary">Pretresite napravo v načinu urejanja da boste samodejno izpolnili prazne celice z ikonami</string>
+  <string name="shake_to_align_icons_summary">Pretresite napravo v načinu urejanja da boste samodejno napolnili prazne celice z ikonami</string>
   <string name="shake_to_align_icons_title">Pretresite da napolnite prazne celice</string>
   <string name="share">Deli</string>
   <string name="sharedUserId"/>

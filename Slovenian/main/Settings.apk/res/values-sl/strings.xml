@@ -6354,9 +6354,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_projection_characteristics_privacy_protect_title">Skrij zasebne stvari</string>
   <string name="screen_projection_characteristics_small_window_summary">"Zmanjšaj okno ki se predvaja da boste uporabili ostale storitve vašega telefona."</string>
   <string name="screen_projection_characteristics_small_window_title">Zmanjšaj okno</string>
-  <string name="screen_projection_example_document_summary">Pokaži prezentacije na zunanjem monitorju ko s telefonom prehajate iz diapozitivov in pregledujete beležke. Pojdite na raziskovalec &gt; Dokumenti da poskusite to storitev.</string>
+  <string name="screen_projection_example_document_summary">Pokaži prezentacije na zunanjem monitorju ko s telefonom gledate diapozitive in beležke. Pojdite na Raziskovalec &gt; Dokumenti da poskusite to storitev.</string>
   <string name="screen_projection_example_document_title">Dokumenti</string>
-  <string name="screen_projection_example_gallery_summary">Tapnite tipko Deli spodaj v aplikaciji galerija da jo boste prikazali na zunanjem monitorju.</string>
+  <string name="screen_projection_example_gallery_summary">Tapnite tipko Deli spodaj v aplikaciji Galerija da jo boste prikazali na zunanjem monitorju.</string>
   <string name="screen_projection_example_gallery_title">Fotografije &amp; videoposnetki</string>
   <string name="screen_projection_example_game_summary">Game Turbo vam omogoča da igre predvajate na zunanji monitor. Vključite z bližnjico v Game Turbo.</string>
   <string name="screen_projection_example_game_title">Igre</string>
@@ -6380,7 +6380,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_timeout">Stanje pripravljenosti</string>
     <string name="screen_timeout_summary">Po toliko nedejavnosti: %1$s</string>
     <string name="screen_timeout_title">Zaslon se izklopi</string>
-  <string name="screen_usage_summary">Količina časa dokler je zaslon bil vključen od zadnjega polnjenja</string>
+  <string name="screen_usage_summary">Čas ko je bil zaslon vključen od zadnjega polnjenja</string>
   <string name="screen_zoom_big">L</string>
   <string name="screen_zoom_conversation_icon_alex">A</string>
   <string name="screen_zoom_conversation_icon_pete">P</string>
@@ -7752,7 +7752,7 @@ Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov
   <string name="system_haptic_feedback">Haptična povratna informacija</string>
   <string name="system_navigation_title">Navigacija sistema</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
-  <string name="system_print_service_help">O izpisu</string>
+  <string name="system_print_service_help">O tiskanju</string>
   <string name="system_shortcut_wake">Zbudi z bližnjicami na tipkah</string>
   <string name="system_storage">Notranja shramba</string>
   <string name="system_ui_settings">Pokaži sprejemnik upor. vmes. sistema</string>

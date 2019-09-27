@@ -183,7 +183,7 @@ Poskusite ponovno čez %d sekund."</string>
   <string name="wifi_display_reconnect">Ponovni priklop</string>
   <string name="wifi_display_sound_path_reminder">V vašem naglavnem kompletu se ne predvaja multimedijski zvok .</string>
   <string name="wifi_display_unstable_connection">Nestabilna povezava</string>
-  <string name="wifi_display_unstable_suggestion">Trenutna povezava brezžičnega zaslona ni stabilna, poskusite se približiti vaši napravi za prikaz.</string>
+  <string name="wifi_display_unstable_suggestion">Trenutna povezava brezžičnega zaslona ni stabilna, poskusite se približati vaši napravi za prikaz.</string>
   <string name="wifi_display_wait_connection">Čakanje zahteve za povezovanje z drugimi napravami.</string>
   <string name="wifi_display_wfd_and_wifi_are_turned_on">Vključena sta brezžični zaslon in WiFi.</string>
   <string name="wifi_display_wfd_off_hdmi_on">Brezžični zaslon se bo izključil ko vključite HDMI. Želite nadaljevati?</string>

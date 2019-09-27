@@ -112,7 +112,8 @@
   <string name="show_cpu_usage">Pokaži porabo procesorja</string>
   <string name="show_cpu_usage_summary">Nastav. element s trenitno porabo procesorja</string>
   <string name="summary_template">Povzetek, št. kopij %1$s, velikost papirja %2$s</string>
-  <string name="template_all_pages">Vse strani (%1$s)</string>
+  <string name="system_print_service_help">O tiskanju</string>
+  <string name="template_all_pages">Vse %1$s</string>
   <string name="template_page_range">Obseg od %1$s</string>
   <string name="wifi_direct">Direkni WiFi</string>
 </resources>
