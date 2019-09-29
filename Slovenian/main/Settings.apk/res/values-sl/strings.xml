@@ -572,8 +572,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_notification_sensitive_title">Skrivanje občutljive vsebine</string>
   <string name="app_notification_visibility_override_title">Na zaklenjenem zaslonu</string>
   <string name="app_notifications_dialog_done">Končano</string>
-    <string name="app_notifications_off_desc">Na vašo zahtevo je prikazovanje obvestil te aplikacije blokirano v tej napravi Android</string>
-    <string name="app_notifications_switch_label">Pokaži obvestila</string>
+  <string name="app_notifications_off_desc">Na vašo zahtevo je prikazovanje obvestil te aplikacije blokirano v tej napravi Android</string>
+  <string name="app_notifications_switch_label">Obvestila</string>
   <string name="app_notifications_title">Obvestila aplikacij</string>
   <string name="app_ops_never_used">(Nikoli uporabljeno)</string>
   <string name="app_ops_permiss_name">Dostop omrežju aplikacije</string>
@@ -3742,7 +3742,7 @@ To lahko spremenite v Nastavitve > Aplikacije in obvestila."</string>
   <string name="layout_size_normal_text">Majhen</string>
   <string name="layout_size_small">XS</string>
   <string name="layout_size_small_text">Extra majhen</string>
-    <string name="learn_more">Več o tem</string>
+   <string name="learn_more">Več o tem</string>
   <string name="led_colors_summary">Obvestila</string>
   <string name="led_frequence_summary">Nastavite interval utripov</string>
   <string name="led_pulse_summary">LED obvestilo ko je prejeto novo obvestilo</string>
@@ -4973,7 +4973,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="notification_breathing_light_freq_title">Frekvenca barvnega LED obvestila</string>
     <string name="notification_bubbles_developer_setting_summary">Nekatera obvestila so lahko prikazana kot oblački na zaslonu</string>
     <string name="notification_bubbles_title">Oblački</string>
-  <string name="notification_center">Obvestila</string>
+    <string name="notification_center">Obvestila</string>
     <string name="notification_channel_badge_title">Pokaži obvestilno piko</string>
     <string name="notification_channel_sound_title">Zvok</string>
     <string name="notification_channel_summary_default">Visoka pomembnost</string>
@@ -6581,7 +6581,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
   <string name="search_nfc_se_route_title">Zavaruj lego elementa</string>
   <string name="search_notification_app_list_settings">Obvestila aplikacij;Obvetila</string>
-  <string name="search_notification_sound_title">Privzeti zvok obvestil;zvok obvetil;zvoki obvestil</string>
+  <string name="search_notification_sound_title">Privzeti zvok obvestil;zvok obvestil;zvoki obvestil</string>
   <string name="search_ntts_settings_title">TTS;TTS nastavitve</string>
   <string name="search_oldman_mode">Lite način;Oldman način;Litemode</string>
   <string name="search_oldman_mode_entry_name">Lite način;Oldman način;Litemode</string>
@@ -7234,8 +7234,8 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
     <string name="sound_dashboard_summary">Glasnost, vibriranje, ne moti</string>
   <string name="sound_effects_enable_title">Zvoki dotikov</string>
   <string name="sound_settings">Zvok</string>
-    <string name="sound_settings_example_summary">Glasnost zvonjenja: 80 %</string>
-    <string name="sound_settings_summary">Glasnost zvonjenja: %1$s</string>
+    <string name="sound_settings_example_summary">Glasnost zvonjenja 80 %</string>
+    <string name="sound_settings_summary">Glasnost zvonjenja %1$s</string>
     <string name="sound_settings_summary_silent">Zvonjenje je nastavljeno na tiho</string>
     <string name="sound_settings_summary_vibrate">Zvonjenje je nastavljeno na vibriranje</string>
   <string name="sound_stereo_mode_summary">Na voljo samo z zvočnikom</string>
@@ -7247,12 +7247,12 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="speaker_clean">Očistite zvočnik</string>
     <string name="special_access">Posebni dostop za aplikacije</string>
     <string name="special_access_more">Prikaži več</string>
-    <string name="speed_label_fast">Hitra</string>
-    <string name="speed_label_medium">Srednje hitra</string>
+    <string name="speed_label_fast">Hitro</string>
+    <string name="speed_label_medium">Srednje</string>
     <string name="speed_label_okay">V redu</string>
-    <string name="speed_label_slow">Počasna</string>
-    <string name="speed_label_very_fast">Zelo hitra</string>
-    <string name="speed_label_very_slow">Zelo počasna</string>
+    <string name="speed_label_slow">Počasi</string>
+    <string name="speed_label_very_fast">Zelo hitro</string>
+    <string name="speed_label_very_slow">Zelo počasi</string>
     <string name="spell_checker_master_switch_title">Uporaba črkovalnika</string>
     <string name="spell_checker_not_selected">Ni izbrano</string>
   <string name="spellchecker_language">Jezik</string>
@@ -9662,7 +9662,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
     <string name="zen_custom_settings_dialog_review_schedule">Preglej razpored</string>
     <string name="zen_custom_settings_dialog_title">Nastavitve po meri</string>
   <string name="zen_custom_settings_duration_header">Trajanje</string>
-    <string name="zen_custom_settings_notifications_header">Obvestila</string>
+  <string name="zen_custom_settings_notifications_header">Obvestila</string>
   <string name="zen_event_rule_enabled_toast">Samodejno pravilo nastavljeno tako da se med določenimi dogodki vklopi stanje Ne moti</string>
   <string name="zen_event_rule_type_name">Pravilo za dogodek</string>
   <string name="zen_interruption_level_priority">Samo prioritetno</string>

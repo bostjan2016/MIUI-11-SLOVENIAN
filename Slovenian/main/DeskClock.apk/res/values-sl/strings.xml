@@ -24,7 +24,7 @@
   <string name="add_clock">Dodaj uro</string>
   <string name="add_timezone_title">Dodaj časovni pas</string>
   <string name="alarm_alert">Privzeto zvonenje</string>
-  <string name="alarm_alert_alert_silenced">Alarm utišan po %d minutah.</string>
+  <string name="alarm_alert_alert_silenced">Alarm utišan po %1$s minutah.</string>
   <string name="alarm_alert_snooze_set">Dremež %d minut.</string>
   <string name="alarm_ascending_mode_summary">Glasnost alarma se stopnjuje</string>
   <string name="alarm_ascending_mode_title">Naraščajoča glasnost zvoka</string>
@@ -85,11 +85,11 @@
   <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Kaže da uporabljate tedenske in praznične alarme. Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?"&lt;/Data&gt;</string>
   <string name="dialog_legal_workday_and_off_day_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o  praznikih. Tedenski alarmi se bodo izključili od ponedeljka do petka. Praznični alarmi se bodo izključili v soboto in nedeljo."</string>
   <string name="dialog_legal_workday_desc">"Ura se ne sme povezati na splet zaradi posodabljanja podatkov o delovnikih. Tedenski alarmi se bodo izključili od ponedjeljka do petka."</string>
-  <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?&lt;/Data&gt;</string>
   <string name="dialog_message_agree">Strinjam se</string>
   <string name="dialog_message_for_contact_permission">Da bo alarm rojstnega dneva na voljo mora ura imeti dostop do stikov. Se strinjate?</string>
   <string name="dialog_message_negative">"Ne strinjam se"</string>
   <string name="dialog_message_not_remind">"Ne kaži več"</string>
+  <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Potrebna je povezava na splet. Pred uporabo se morate strinjati z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?&lt;/Data&gt;</string>
   <string name="dialog_privacy_content">Da boste dobili in sinhronizirali relevantne informacije o lokalnih praznikih in ponudili personalizirane usluge se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
   <string name="dialog_privacy_content_global">Da boste ponudili personalizirane storitve se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
   <string name="dialog_privacy_content_news">Da boste dobili personalizirane storitve in vključili jutranje novice v vaše alarme, se mora ura povezati na splet. Pred uporabo ure morate prebrati in se strinjati z %1$s in %2$s. Se strinjate?</string>
@@ -100,7 +100,7 @@
   <string name="edit_alarm">Uredi alarm</string>
   <string name="edit_systemtime">Uredi sistemski čas</string>
   <string name="edit_systemtime_setting_summary">Datum, čas in dvojna ura</string>
-  <string name="elapsed_time_format">+%s</string>
+  <string name="elapsed_time_format">+</string>
   <string name="every_day">Vsak dan</string>
   <string name="expired_timers_dismissed">Odštevanje je preklicano</string>
   <string name="force_touch_add_alarm">Dodaj alarm</string>
@@ -112,7 +112,7 @@
   <string name="holiday_update_fail">"Ne morem posodobiti"</string>
   <string name="holiday_update_loading">Posodabljanje…</string>
   <string name="holiday_update_success">Vse je posodobljeno</string>
-  <string name="hour_unit">h</string>
+  <string name="hour_unit">Hr +</string>
   <string name="install_weather_app_error">Ne morem naložiti aplikacije.</string>
   <string name="install_weather_app_loading">Samo trenutek…</string>
   <string name="invalid_time">Neveljaven čas: %3$s %1$d: %2$d</string>
@@ -136,7 +136,7 @@
   <string name="legal_workday_message">" (Alarm se ne bo izklopil med prazniki)"</string>
   <string name="life_post_setting">Jutranje poročilo</string>
   <string name="life_post_setting_FBE_remind">Zaradi omejitve sistema informacije o vremenu v jutranjem poročilu morda ne bodo prikazane pravilno po ponovnem zagonu</string>
-  <string name="life_post_setting_close_title">Zapri jutranja poročila</string>
+  <string name="life_post_setting_close_title">Izključi jutranja poročila</string>
   <string name="life_post_setting_open_background_subtitle">Pokaži sliko ozadja za povezane alarme</string>
   <string name="life_post_setting_open_background_title">Pokaži sliko ozadja</string>
   <string name="life_post_setting_open_desc">Izključite ponavljanje alarma med 04:00 in 10:00 da boste poslušali informacije o vremenu</string>
@@ -170,12 +170,12 @@
   <string name="module_download_data_msg_golbal">Ura mora prenesti avdio datoteke za MIUI 10 pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_data_msg_replace">Na voljo je posodobljen zvok za MIUI pametne alarme. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
   <string name="module_download_data_msg_timer">Ura mora prenesti avdio datoteke za časovnik hrupa okolice. ≈20MB mobilnih podatkov bo potrebno za ta prenos. Prenesem?</string>
-  <string name="module_download_msg_timer">Ura mora prenesti avdio datoteke za merjenje hrupa okolice. Prenesem?</string>
   <string name="module_download_fail">"Ne morem prenesti dodatni zvok"</string>
   <string name="module_download_failure">"Ne morem prenesti zvoka. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="module_download_msg">Ura mora prenesti avdio datoteke za MIUI pametne alarme. Pametni alarmi vsebujejo avdio storitve ki omogočajo vklop informacij o trenutnem vremenu v alarme. Prenesem?</string>
-  <string name="module_download_msg_golbal">Ura mora prenesti avdio datoteke za MIUI pametne alarme. Prenesem?</string>
+  <string name="module_download_msg_golbal">Da bodo MIUI pametni alarmi na voljo so potrebne avdio datoteke. Prenesem?</string>
   <string name="module_download_msg_replace">Na voljo je posodobljen zvok za pametne alarme. Se povežem na omrežje in prenesem?</string>
+  <string name="module_download_msg_timer">Ura mora prenesti avdio datoteke za merjenje hrupa okolice. Prenesem?</string>
   <string name="module_download_no_network">"Za prenos zvoka je potrebna povezava s spletom. Preverite nastavitve omrežja in poskusite ponovno."</string>
   <string name="module_download_ok">Dovoli</string>
   <string name="module_download_success">Uspešno prenešeno</string>
@@ -244,17 +244,18 @@
   <string name="shortcut_new_alarm">Nastavi alarm</string>
   <string name="shortcut_start_timer">Zaženi časovnik</string>
   <string name="shortcut_stop_watch">Zaženi štoparico</string>
-  <string name="shutdown_alarm_disable_summary">"Alarm se ne bo izključil po izklopu naprave"</string>
-  <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 5 minut potem ko izključite napravo"</string>
-  <string name="shutdown_alarm_title">Izklop alarma</string>
   <string name="shut_down_keep_screen">"Zaslon ne bo ostal vključen"</string>
-  <string name="shutdown_alarm_alert_enable_summary">Če je nastavljen najmanj 10 minut se bo alarm izključil ob izklopu naprave</string>
+  <string name="shutdown_alarm_alert_enable_summary">Alarm izklopa se bo izključil če je nastavljen najmanj 10 minut potem ko izključite napravo</string>
   <string name="shutdown_alarm_alert_title">Izključi alarm</string>
+  <string name="shutdown_alarm_disable_summary">"Alarm se ne bo izključil po izklopu naprave"</string>
+  <string name="shutdown_alarm_enable_summary">"Alarm se bo izključil če je nastavljen najmanj 10 minut potem ko izključite napravo"</string>
+  <string name="shutdown_alarm_title">Alarm izklopa </string>
   <string name="silent_alarm_summary">Tiho</string>
   <string name="skip_alarm_once_hint">Izključi enkrat na %s</string>
   <string name="slider_text">Podrsajte navzgor za preklic alarma</string>
   <string name="snooze_confirm_cancel">Zavrzi alarm</string>
   <string name="snooze_duration">Odloži</string>
+  <string name="snooze_duration_text">%1$s | %2$s</string>
   <string name="snooze_duration_title">Odloži</string>
   <string name="snooze_duration_value">Interval (min.)</string>
   <string name="start">Začni</string>
@@ -347,15 +348,4 @@
   <string name="worldcolock_timezone_date">dd/MM</string>
   <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Isto kot lokalni čas</string>
-  <string name="day">1 dan</string>
-  <string name="days">%d dni</string>
-  <string name="delete_alarm_confirm">Izbrišem ta alarm?</string>
-  <string name="hour">1 ura</string>
-  <string name="hours">%d ur</string>
-  <string name="life_post_wake_up_item_acumu_day">%1$s dni</string>
-  <string name="life_post_weather_description_secondary">%1$s | %2$s | %3$s</string>
-  <string name="minute">1 minuta</string>
-  <string name="minutes">%d min.</string>
-  <string name="timer_pause_hint">Premor</string>
-  <string name="timer_running_hint">Nadaljuj</string>
 </resources>

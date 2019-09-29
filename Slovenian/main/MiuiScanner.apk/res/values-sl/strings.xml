@@ -50,8 +50,10 @@
   <string name="call_anyone">Klic</string>
   <string name="camera_error_title">Napaka kamere</string>
   <string name="cancel">Prekliči</string>
-  <string name="choose_picture">Izberite sliko QR kode</string>
+  <string name="character_counter_content_description">Presežena je omejitev števila znakov %1$d od %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="choose_open_code_app">Izberite aplikacijo</string>
+  <string name="choose_picture">Izberite sliko QR kode</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je vključen. Vključite WiFi.</string>
   <string name="common_retake_picture">Posnemi ponovno</string>
   <string name="common_retry">Poskusi ponovno</string>
@@ -137,7 +139,7 @@
   <string name="language_entry_russian">Russian</string>
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
-  <string name="low_version_tip">MIUI verzija je prestara. Posodobite MIUI za uporabo skenerja.</string>
+  <string name="low_version_tip">Posodobite MIUI za uporabo skenerja.</string>
   <string name="miracast_connect">Predvajaj</string>
   <string name="miracast_connect_fail">"Ne morem predvajati, poskusite ponovno"</string>
   <string name="miracast_connecting">Predvajanje…</string>
