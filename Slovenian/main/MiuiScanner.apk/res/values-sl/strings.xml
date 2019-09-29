@@ -30,7 +30,7 @@
   <string name="agree_camera_permission">Za snemanje fotografij in videoposnetkov</string>
   <string name="agree_storage_permission">Za dostop do fotografij in datotek shranjenih v napravi</string>
   <string name="always">Vedno</string>
-  <string name="allow_check_website_security">Obavesti me o spletnih varnostnih pregledih</string>
+  <string name="allow_check_website_security">Obvesti me o spletnih varnostnih pregledih</string>
   <string name="amazon_assistant_shopping_title">Išči na Amazonu</string>
   <string name="app_description_content">Skener lahko skenira QR kode, dokumente, vizitke in še mnogo drugega.</string>
   <string name="app_description_title">O Skenerju</string>
@@ -46,7 +46,7 @@
   <string name="business_copy">Kopiraj</string>
   <string name="business_new_contacts">Napravi stik</string>
   <string name="business_no_result">"Ne morem prepoznati vizitke. Poskusite ponovno."</string>
-  <string name="calender">Kledar</string>
+  <string name="calender">Koledar</string>
   <string name="call_anyone">Klic</string>
   <string name="camera_error_title">Napaka kamere</string>
   <string name="cancel">Prekliči</string>

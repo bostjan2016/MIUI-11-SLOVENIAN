@@ -141,9 +141,9 @@
   <string name="cta_dialog_miot_text_all">Za normalno delovanje Mi Home morda potrebuje vaše omrežje, lokacijo, avtorizacijo za vklop Bluetooth povezave, uporabo mobilnega omrežja, mikrofona in branje stikov. Dovolim?</string>
   <string name="cta_dialog_negative">Izhod</string>
   <string name="cta_dialog_positive">Strinjam se</string>
-  <string name="cta_dialog_text_all">Za uporabo zakl. aplikacij morate prebrati in se strinjati z %1$s\"Pogoji uporabe\" %2$s in %3$s \"Pravila o zasebnosti\" %4$s. Potrebna je tudi spletna povezava in dostop do lokacije. Se strinjate?</string>
-  <string name="cta_dialog_text_new_user">"Pred uporabo se morati strinjati z %1$s\"Pogoji uporabe\"%2$s, %3$s\"Pravila o zasebnosti\"%4$s, in %5$s\"Asistent na dotik Pravila o zasebnosti\"%6$s. Aplikacija potrebuje povezavo s spletom in dostop do lokacije. Tapni \"Začni\" za strinjanje."</string>
-  <string name="cta_dialog_text_old_user">Pred uporabo se morati strinjati z %1$s\"Asistent na dotik Pravila o zasebnosti\"%2$s. Tapni \"Začni\" za strinjanje.</string>
+  <string name="cta_dialog_text_all">Za uporabo Asistenta na dotik morate prebrati in se strinjati z %1$s\"Pogoji uporabe\" %2$s in %3$s \"Pravila o zasebnosti\" %4$s. Potrebna je tudi spletna povezava in dostop do lokacije. Se strinjate?</string>
+  <string name="cta_dialog_text_new_user">"Preberite in se strinjajte z %1$sPogoji uporabe%2$s and %3$sPravila o zasebnosti%4$s</string>
+  <string name="cta_dialog_text_old_user">Pred uporabo se morate strinjati z %1$s\"Pravila o zasebnosti\"%2$s. Tapnite \"Začni\" za strinjanje.</string>
   <string name="cta_dialog_title">Pogoji in Pravila</string>
   <string name="cta_negative">Izhod</string>
   <string name="cta_positive">Podrobnosti</string>

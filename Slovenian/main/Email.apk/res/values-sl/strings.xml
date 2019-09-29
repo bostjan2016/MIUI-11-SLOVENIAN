@@ -178,6 +178,7 @@
   <string name="add_pre_message_attachments_no">Ne</string>
   <string name="add_pre_message_attachments_yes">Dodaj</string>
   <string name="add_star">Priljubljeno</string>
+  <string name="all_purpose">Dobrodošli v E-pošti! Ta odjemalaec pošte je narejen pri Kingsoftu za Xiaomi. Aplikacijo uporabite za pošiljanje in sprejemanje e-pošte.</string>
   <string name="allread">Preberi vse</string>
   <string name="always_bcc_myself">Zmeraj pošlji sebi skrito kopijo</string>
   <string name="always_show_images">Vedno pokaži slike tega pošiljatelja</string>
@@ -813,6 +814,8 @@ Poskusite z ostalo pošto."</string>
   <string name="perference_setup_send_tag">Strežnik za pošto v pošiljanju</string>
   <string name="permission_access_provider_desc">Dovoli aplikacijam da dostopajo do tvoje E-pošte, uporabniških imen in gesel</string>
   <string name="permission_access_provider_label">Dostop do uporabnikovih podatkov</string>
+  <string name="permission_des_phone_status">Uporablja se za pridobivanje IMEI za razlikovanje različnih naprav</string>
+  <string name="permission_des_storage">Za ustvarjanje novih e-poštnih sporočil, pa tudi za shranjevanje in dodajanje prilog</string>
   <string name="permission_read_attachment_desc">Dovoli aplikacijam, da preberejo priponke</string>
   <string name="permission_read_attachment_label">Branje priponk e-pošte</string>
   <string name="permission_tip">Ne morem nastaviti, odobrite dovoljenje za klice in SMS sporočila med nastavitvijo</string>
@@ -1035,7 +1038,7 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="ser_resp_err_map_pserr">Napačno uporabniško ime ali geslo</string>
   <string name="ser_resp_err_map_serclosed">Strežnik %s je ugasnjen</string>
   <string name="ser_resp_err_map_ssl">Izberite SSL/TLS (Sprejmi vse certifikate) v Varnostnih tipih</string>
-  <string name="service_protocol_discribe">&lt;u&gt;"Prebral sem in se strinjam z Pogodbo o storitvi za WPS Mail"&lt;/u&gt;</string>
+  <string name="service_protocol_discribe">Prebral sem in se strinjam z WPS Mail Pogoji uporabe"&lt;/u&gt;</string>
   <string name="service_protocol_title">Pogodba o storitvi</string>
   <string name="set_network">Nastavi omrežje</string>
   <string name="settings_activity_title">Nastavitve</string>

@@ -7223,7 +7223,7 @@ Obvestila za te aplikacije bodo morda zakasnjena."</string>
   <string name="sos_privacy_and_content_policy">Pogoji uporabe in Pravila o zasebnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Prekliči</string>
   <string name="sos_privacy_dialog_button_ok">Strinjam se</string>
-  <string name="sos_privacy_dialog_message">"Preberite in se strinjajte z našimm %s pred uporabo. 
+  <string name="sos_privacy_dialog_message">"Preberite in se strinjajte z našimi %s pred uporabo. 
  Za zagotovitev normalnega delovanja storitve bo potrebno dobiti vašo lokacijo, uporabiti mobilno omrežje in prebrati stike. Se strinjate?"</string>
   <string name="sos_privacy_dialog_title">Pogoji in Pravila</string>
   <string name="sound_category_call_ringtone_vibrate_title">"Melodija zvonenja &amp; zvok obvestil"</string>

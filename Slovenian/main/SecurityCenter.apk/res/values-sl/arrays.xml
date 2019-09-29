@@ -129,7 +129,6 @@
         <item>Razvrsti po pogostosti uporabe</item>
         <item>Razvrsti po izkor. pros. za shranjevanje</item>
         <item>Razvrsti po času namestitve</item>
-        <item>Najprej pokaži aplikacije ki se lahko odstranijo</item>
      </string-array>
      <string-array name="sort_type">
         <item>Status</item>

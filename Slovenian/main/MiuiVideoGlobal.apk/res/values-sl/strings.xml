@@ -139,7 +139,7 @@
   <string name="common_signin_button_text_long">Prijava s storitvijo Google</string>
   <string name="data_empty">Tu ni nič</string>
   <string name="day">dan</string>
-  <string name="dialog_privacy_info_new2">"Da boste lahko uporabili te storitve morate sprejeti %1$s ker zbiramo, obdelujemo in uporabljamo vaše osebne podatke. Verjamemo da ste prebrali in sprejeli naše &lt;a href=%2$s&gt;Pravila o zasebnosti&lt;/a&gt; ko tapnete \"Strinjam se\"."</string>
+  <string name="dialog_privacy_info_new2">"Da boste lahko uporabili te storitve morate sprejeti da %1$s zbira, obdeluje in uporablja vaše osebne podatke. Preberite in sprejmite &lt;a href=%2$s&gt;Pravila o zasebnosti&lt;/a&gt; preden tapnete \"Strinjam se\" spodaj."</string>
   <string name="dialog_privacy_title">Avtorizacija</string>
   <string name="dialog_revoke_privacy_info_new2">Po preklicu avtorizacije bo aplikacija nehala zbirati podatke, zbrani podatki pa bodo zbrisani. To lahko napravi aplikacijo skoraj neuporabno. Prekličem avtorizacijo?</string>
   <string name="dialog_revoke_privacy_title">Preklic avtorizacije</string>
