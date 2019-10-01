@@ -37,8 +37,8 @@
         <item quantity="one">Alarm je odložen za %d minuto</item>
     </plurals>
 	<plurals name="snooze_duration_count">
-        <item quantity="other">Izkl. %2$s krat</item>
-        <item quantity="one">Izkl. %2$s krat</item>
+        <item quantity="other">Izkl. %1$s krat</item>
+        <item quantity="one">Izkl. %1$s krat</item>
     </plurals>
 	<plurals name="snooze_duration_desc">
         <item quantity="other">Vsakih %1$s min, izkl. %2$s krat</item>
