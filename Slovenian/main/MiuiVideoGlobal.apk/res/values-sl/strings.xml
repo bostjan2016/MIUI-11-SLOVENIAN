@@ -75,7 +75,6 @@
     <string name="cast_forward">Previj naprej</string>
     <string name="cast_forward_10">Previj za 10 sekund naprej</string>
     <string name="cast_forward_30">Previj za 30 sekund naprej</string>
-  <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_mute">Izklop zvoka</string>
     <string name="cast_notification_connected_message">Vzpostavljena povezava z zaslonom %1$s</string>
     <string name="cast_notification_connecting_message">Povezovanje z zaslonom %1$s</string>
@@ -473,7 +472,6 @@ za videoposnetke"</string>
     <string name="notify_apk_installed">Uspešno preneseno</string>
   <string name="off">[izk]</string>
     <string name="ok">V redu</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">Nedavne naročnine</string>
     <string name="order_recently_updated">Nedavno posodobljeno</string>
     <string name="ovp_alert_dialog_download_install_task">Prenašanje HD vtičnika…</string>
@@ -777,7 +775,6 @@ Izboljša varnost vašega računa."</string>
   <string name="srl_header_release">Spustite za osvežitev</string>
   <string name="srl_header_secondary">Sprostite za drugo nadstropje</string>
   <string name="srl_header_update">"'Zadnja posodobitev' M-d HH:mm"</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD kartica</string>
     <string name="storage_internal_sdcard">Notranji pomnilnik</string>
   <string name="storage_permission_denied">Dovoljenje za dostop do shrambe je zavrnjeno</string>
