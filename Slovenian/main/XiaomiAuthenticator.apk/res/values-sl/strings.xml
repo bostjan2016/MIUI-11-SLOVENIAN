@@ -56,7 +56,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="how_it_works_menu_item">Kako to deluje</string>
   <string name="howitworks_page_enter_code_details">Ta aplikacija bo generirala kodo potrebno za nadaljevanje prijave.</string>
   <string name="howitworks_page_enter_code_title">"Če ste na novi napravi vnesite kodo iz svojega telefona."</string>
-  <string name="howitworks_page_enter_password_details">"Če ste na novi napravi bo Xiaomi vprašal za posebno kodo da bi bil siguren da ste to res vi."</string>
+  <string name="howitworks_page_enter_password_details">"Če ste na novi napravi bo Xiaomi vprašal za posebno kodo da bo siguren da ste to res vi."</string>
   <string name="howitworks_page_enter_password_title">"Da se prijavite vnesite svoje geslo."</string>
   <string name="howitworks_page_verify_device_details">"Lahko izberete shranjevanje potrdila in Xiaomi vas ne bo ponovno spraševal za kodo."</string>
   <string name="howitworks_page_verify_device_title">"Potem ste prijavljeni."</string>

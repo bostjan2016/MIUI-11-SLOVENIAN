@@ -253,7 +253,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="account_autostar_label">Samodejni zagon</string>
   <string name="account_contact_backup_info">Google račun, Mi račun in stiki</string>
     <string name="account_dashboard_default_summary">Dodan ni bil noben račun</string>
-    <string name="account_dashboard_title">Uporabniki in računi</string>
+  <string name="account_dashboard_title">Računi</string>
     <string name="account_for_section_header">Računi uporabnika %1$s</string>
   <string name="account_list">Ostali računi</string>
   <string name="account_login">Vpis</string>
@@ -339,7 +339,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="admin_profile_owner_message">Skrbnik lahko nadzira in upravlja aplikacije ter podatke, povezane s tem delovnim profilom, vključno z nastavitvami, dovoljenji, dostopom za podjetje, omrežno dejavnostjo in podatki o lokaciji naprave.</string>
   <string name="admin_profile_owner_user_message">Skrbnik lahko nadzira in upravlja aplikacije ter podatke, povezane s tem uporabnikom, vključno z nastavitvami, dovoljenji, dostopom za podjetje, omrežno dejavnostjo in podatki o lokaciji naprave.</string>
   <string name="admin_support_more_info">Več podrobnosti</string>
-  <string name="advanced_apps">Dodatno</string>
+  <string name="advanced_apps">Napredno</string>
     <string name="advanced_battery_graph_subtext">Ocena preostalega časa delovanja akumulatorja temelji na načinu uporabe naprave</string>
     <string name="advanced_battery_title">Poraba akumulatorja</string>
   <string name="advanced_section_header">Dodatno</string>
@@ -408,7 +408,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="allow_usage_access_message">Če dovolite dostop ta aplikacija lahko vidi splošne informacije o aplikacijah na vaši napravi, na primer kako pogosto jih uporabljate.</string>
   <string name="allow_usage_access_title">Ali dovolite dostop?</string>
   <string name="allow_vibrate_title">Dovoli vibracijo</string>
-  <string name="alpha_build">" | Alpha"</string>
+  <string name="alpha_build">Alpha</string>
   <string name="already_enable_encrypt">Šifriranje je že vključeno</string>
   <string name="always">Zmeraj</string>
   <string name="always_allow_bind_appwidgets_text">Aplikaciji dovolite da ustvari pripomočke in dostopa do njihovih podatkov.</string>
@@ -464,6 +464,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="aod_mode_title">Zmeraj vključen delovni način</string>
   <string name="aod_mode_turn_off">Izključi</string>
   <string name="aod_mode_turn_on">Vključi</string>
+  <string name="aod_name_wanxiang">Ambientalni zaslon</string>
   <string name="aod_notification_style_animation">Pokaži animacijo</string>
   <string name="aod_notification_style_none">Nič</string>
   <string name="aod_notification_style_screen_on">Vključi zaslon</string>
@@ -585,7 +586,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="app_permission_summary_not_allowed">Ni dovoljeno</string>
     <string name="app_permissions">Dovoljenja za aplikacije</string>
   <string name="app_permissions_group_summary" formatted="false">Št. aplikacij z dovoljenjem: %d od %d</string>
-  <string name="app_permissions_summary" formatted="false">Dod. dostop dovoljen toliko aplikacijam: %d od %d</string>
+  <string name="app_permissions_summary">Dod. dostop dovoljen toliko aplikacijam: %1$s</string>
   <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
   <string name="app_restrictions_custom_label">Nastavitev omejitev za aplikacijo</string>
   <string name="app_sees_restricted_accounts">Ta aplikacija lahko dostopa do vaših računov</string>
@@ -962,8 +963,8 @@ nastavitev in aplikacij"</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Samodejni vklop pri toliko odstotkih akumulatorja: %1$d%%</string>
   <string name="battery_saver_master_switch_title">Uporaba varčevanja baterije</string>
     <string name="battery_saver_off_scheduled_summary">Vklop pri %1$s</string>
-  <string name="battery_saver_off_summary">Izklopljeno/%1$s</string>
-  <string name="battery_saver_on_summary">Vklopljeno/%1$s</string>
+  <string name="battery_saver_off_summary">Izključeno</string>
+  <string name="battery_saver_on_summary">Vključeno</string>
   <string name="battery_saver_schedule_settings_title">Nastavite urnik</string>
     <string name="battery_saver_seekbar_title">Pri %1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Vklop</string>
@@ -1203,7 +1204,7 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_map_request">Zahteva za dostop do sporočil</string>
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Izberite največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_string">Največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
-    <string name="bluetooth_menu_advanced">Dodatno</string>
+  <string name="bluetooth_menu_advanced">Napredno</string>
   <string name="bluetooth_middle_name">Futrola</string>
     <string name="bluetooth_name_not_set">Ime ni nastavljeno, uporablja se ime računa</string>
     <string name="bluetooth_no_devices_found">V bližini ni naprav Bluetooth.</string>
@@ -3093,7 +3094,7 @@ Ni bilo videti konjev ali živali drugih vrst; ljudje so prenašali stvari naokr
 
 "</string>
   <string name="font_size_summary1">"Če je besedilo vašega sistema še vedno premajhno poskusite "</string>
-  <string name="font_size_summary2"/>
+  <string name="font_size_summary2">Lite način.</string>
   <string name="forbidden_network">(prepovedano)</string>
   <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
     <string name="force_allow_on_external">Vsili omogočanje aplikacij v zunanji shrambi</string>
@@ -7994,7 +7995,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_intro_desc_5">Prostor za shranjevanje se na starih napravah uporablja za izdelavo paketov prenosa. Pred prenosom preverite ali imate na voljo najmanj 500 MB - 1 GB d prostora na svojem starem telefonu.</string>
   <string name="trans_intro_desc_6">Obstaja nekaj razlogov za to: težave s kompatibilnostjo sistema in aplikacij, težave z omrežjem, težave s kompatibilnostjo za določeno napravo, itd.</string>
   <string name="trans_intro_desc_7">Zaradi varnostnih razlogov, so nekateri profili aplikacij (e-bančništvo, finance itd.) povezani z določeno napravo. Poskusite zbrisati podatke aplikacije ali pa ponovno namestite aplikacijo na novo napravo.</string>
-  <string name="trans_intro_desc_8">"Podatki WeChat aplikacije in zgodovina pogovorov se mogoče ne bodo v popolnosti prenesli s pomočjo programa Mi Mover. pojdite v nastavitve storitve WeChat in se odjaviteda bi imeli več možnosti za uspešen prenos."</string>
+  <string name="trans_intro_desc_8">"Podatki WeChat aplikacije in zgodovina pogovorov se mogoče ne bodo v popolnosti prenesli s pomočjo programa Mi Mover. pojdite v nastavitve storitve WeChat in se odjavite da boste imeli več možnosti za uspešen prenos."</string>
   <string name="trans_intro_desc_9_method_1_dec">Pojdite na Začetni zaslon &gt; Orodja &gt; Povratna inf.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Delite nam povratne informacije s pomočjo aplikacije \"Povratne inf.\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Pošljite povratne informacije na miui-mover@xiaomi.com.</string>
@@ -8996,7 +8997,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_assistant_data_prompt_summary">Pokaži opozorilo porabe podatkov ko WiFi Asistent preklopi na mobilne podatke</string>
   <string name="wifi_assistant_description">"Kako deluje WiFi Asistent:
 1. Ko je WiFi povezava slaba bo WiFi Asistent poskusil povezati napravo z drugimi dostopnimi WiFi omrežji.
-2. Če bodo vsa WiFi omrežja slaba bo WiFi Asistent zamenjal na mobilne podatke."</string>
+2. Če bodo vsa WiFi omrežja slaba bo WiFi Asistent preklopil na mobilne podatke."</string>
   <string name="wifi_assistant_dialog_message">"WiFi Asistent želi nastaviti VPN povezavo katera omogoča spremljanje omrežnega prometa. Sprejmite samo če zaupate viru."</string>
   <string name="wifi_assistant_disconnect">Prekini povezavo</string>
   <string name="wifi_assistant_explanation_message">Google WiFi Asistent odkriva omrežja ki so vam na voljo in poveže napravo s tisto ki ima največjo hitrost in varnost.</string>

@@ -579,6 +579,7 @@
   <string name="setting_place_next">Naprej</string>
   <string name="setting_pref_confirm">Dokončaj</string>
   <string name="setting_school_label">Dodaj naslov v službi/šoli</string>
+  <string name="setting_sticky">Pripni na vrh</string>
   <string name="setting_stock">Zaloge</string>
   <string name="setting_stock_brief">Poglejte dnevni napredek podjetij katerim sledite.</string>
   <string name="setting_stock_brief_list">Dnevno poročanje</string>
@@ -652,6 +653,7 @@
   <string name="taxi_open">Pokaži kartico za taksi</string>
   <string name="taxi_setting_brief">Dobite taksi z enim samim pritiskom.</string>
   <string name="time_just_now">Pravkar</string>
+  <string name="timeline_headline">Prihajajoče</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
   <string name="toast_function_add_limit">Dodate lahko do %d bližnjic</string> 

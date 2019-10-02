@@ -492,7 +492,7 @@ da prenesete in namestite Mi Mover."</string>
   <string name="trans_intro_desc_5">Prostor za shranjevanje se na starih napravah uporablja za izdelavo paketov prenosa. Pred prenosom preverite ali imate na voljo najmanj 500 MB - 1 GB d prostora na svojem starem telefonu.</string>
   <string name="trans_intro_desc_6">Obstaja nekaj razlogov za to: težave s kompatibilnostjo sistema in aplikacij, težave z omrežjem, težave s kompatibilnostjo za določeno napravo, itd.</string>
   <string name="trans_intro_desc_7">Zaradi varnostnih razlogov, so nekateri profili aplikacij (e-bančništvo, finance itd.) povezani z določeno napravo. Poskusite zbrisati podatke aplikacije ali pa ponovno namestite aplikacijo na novo napravo.</string>
-  <string name="trans_intro_desc_8">"Podatki WeChat aplikacije in zgodovina pogovorov se mogoče ne bodo v popolnosti prenesli s pomočjo programa Mi Mover. pojdite v nastavitve storitve WeChat in se odjaviteda bi imeli več možnosti za uspešen prenos."</string>
+  <string name="trans_intro_desc_8">"Podatki WeChat aplikacije in zgodovina pogovorov se mogoče ne bodo v popolnosti prenesli s pomočjo programa Mi Mover. pojdite v nastavitve storitve WeChat in se odjavite da boste imeli več možnosti za uspešen prenos."</string>
   <string name="trans_intro_desc_9_method_1_dec">Pojdite na Začetni zaslon &gt; Orodja &gt; Povratna inf.</string>
   <string name="trans_intro_desc_9_method_1_title">1. Delite nam povratne informacije s pomočjo aplikacije \"Povratne inf.\".</string>
   <string name="trans_intro_desc_9_method_2_dec">Pošljite povratne informacije na miui-mover@xiaomi.com.</string>
