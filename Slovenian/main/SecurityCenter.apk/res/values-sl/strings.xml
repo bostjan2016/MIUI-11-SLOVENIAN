@@ -802,7 +802,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="data_usage_mobile_limit_title">Dosežena omejitev podatkov</string>
   <string name="data_usage_no_total_package_body">Tapnite za nastavitev omejitve porabe podatkov</string>
   <string name="data_usage_no_total_package_body_dual">Omejitev porabe podatkov za %s ni nastavljena</string>
-  <string name="data_usage_no_total_package_title">Nastavi omejitev porabe podatkov</string>
+  <string name="data_usage_no_total_package_title">Poraba podatkov</string>
   <string name="data_usage_protected_dialog_message">"MIUI bo izključil mobilne podatke da prepreči dodatne stroške.
 
 Vaš mobilni operater vam lahko dodatno zaračuna če ponovno vključite mobilne podatke."</string>

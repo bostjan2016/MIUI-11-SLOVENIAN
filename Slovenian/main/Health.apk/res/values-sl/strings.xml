@@ -180,7 +180,7 @@ Vaši osebni podatki se bodo zbirali, obdelovali in uporabljali v skladu z zakon
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="permission_check_result">Uspešno nastavljeno</string>
   <string name="permission_manage">Urejanje dovoljenj</string>
-  <string name="permission_tip">Dajte Mi Healthu naslednja dovoljenja kar mu bo omogočilo da točno spremljanje vašega spanja</string>
+  <string name="permission_tip">Dajte Mi Healthu naslednja dovoljenja kar mu bo omogočilo točno spremljanje vašega spanja</string>
   <string name="predict_menstruation">Pričakovana menstruacija</string>
   <string name="preference_about">O</string>
   <string name="preference_basic_info">Osnovne informacije</string>
@@ -271,7 +271,7 @@ na osnovi vaših osebnih podatkov."</string>
   <string name="subtitle_keep_warm">Bodite zagreti in držite se svoje prehrane</string>
   <string name="subtitle_mi_health_predict_menstruation">Zabeležite in ocenite bodoče menstruacije s pomočjo Mi Health</string>
   <string name="subtitle_record_and_start_predict">Zabeležite obdobje da ocenite začetek naslednje</string>
-  <string name="subtitle_run_in_background">Odaberite \"Zmeraj\" da dobite natančnejšo statistiko</string>
+  <string name="subtitle_run_in_background">Izberite \"Zmeraj\" da dobite natančnejšo statistiko</string>
   <string name="subtitle_stick_record">Zabeležite svoje menstruacije da dobite natančnejša predvidevanja</string>
   <string name="suggestion_drink_content">Bodite pozorni na napetost v vašem telesu in se poskusite sprostiti.</string>
   <string name="suggestion_drink_title">Popijte malo vode, sprostite se</string>

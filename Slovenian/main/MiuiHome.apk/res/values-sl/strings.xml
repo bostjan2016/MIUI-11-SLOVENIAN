@@ -353,6 +353,9 @@
   <string name="shake_to_align_icons_title">Pretresite da napolnite prazne celice</string>
   <string name="share">Deli</string>
   <string name="sharedUserId"/>
+  <string name="shortcut_share_dialog_content">"Datoteke, ki jih pošljete iz telefona, pa tudi njihove prejemnike izberete in določite vi. Bodite pozorni, ko izbirate datoteke za skupno rabo in izbiro prejemnikov. Svojega telefona ne smete uporabljati za pošiljanje virusov, zlonamerne programske opreme, trojancev, časovnih bomb in drugih škodljivih predmetov drugim ljudem. Ne uporabljajte telefona za prenos programske opreme, ki bi lahko vplivala na redno uporabo prejemnikove naprave ali drugih elementov, ki lahko poškodujejo, motijo, prestrežejo ali odstranijo kakršne koli sistemske podatke ali osebne podatke na mobilnih terminalskih napravah. Odgovorni boste za kakršno koli škodo, povzročeno drugim uporabnikom ali mobilnim terminalom. Xiaomi se bo po svojih najboljših močeh trudil, da bodo funkcionalnost deljenja ter vključena tehnologija in informacije varni, učinkoviti, natančni in zanesljivi. Vendar pa zaradi trenutnih tehnoloških omejitev Xiaomi ne zagotavlja, da je funkcija skupne rabe brezhibna in bo zadovoljila vse vaše potrebe."</string>
+  <string name="shortcut_share_dialog_positive_button">Razumem</string>
+  <string name="shortcut_share_dialog_title">Izjava o omejitvi odgovornosti</string>
   <string name="show_all">Pokaži vse</string>
   <string name="show_mem_info_title">Pokaži status pomnilnika</string>
   <string name="show_recents_recommend_title">Pokaži predloge</string>
@@ -395,7 +398,6 @@
   <string name="uninstall_xspace_dialog_title_format">Odstranim dvojno \"%s\" ?</string>
   <string name="unknown_artist_name">Neznan izvajalec</string>
   <string name="unnamed_folder_name">Mapa</string>
-  <string name="unstable_dialog_content">"To je testna verzija sistema Androidin je podvržena spremembam. Uporaba te verzije je urejena z licenčnim dogovorom za pregled SDK za Android. Testna verzija Androida ni stabilna izdaja in lahko vsebuje napake in pomanjkljivosti ki lahko poškodujejo sistem, napravo ali podatke. Ne testira se kot tovarniški OS in lahko povzroči prenehanje delovanja naprave, nameščenih storitev ali aplikacij."</string>
   <string name="use_theme_screen_cells_title">Dovoli temi da spremeni videz zaslona</string>
   <string name="wallpaper">Slika za ozadje</string>
   <string name="wallpaper_auto_change_title">Zaklenjeni zaslon</string>
