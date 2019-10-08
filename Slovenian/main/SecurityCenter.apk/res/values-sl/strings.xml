@@ -509,7 +509,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napolnjeno</string>
   <string name="battery_charging_prompt">Polnjenje</string>
-  <string name="battery_desc_ambient_display">Baterija porabljena z ambientalnim zaslonom</string>
+  <string name="battery_desc_ambient_display">Baterija porabljena od vedno vključenega zaslona</string>
   <string name="battery_desc_apps">Baterija porabljena od aplikacij</string>
   <string name="battery_desc_bluetooth">Baterija porabljena od Bluetootha</string>
   <string name="battery_desc_display">Baterija porabljena od zaslona in osvetlitev</string>
@@ -2148,15 +2148,20 @@ To skrajšuje trajanje baterije."</string>
   <string name="pm_root_success_notification_infomation">Prepričajte se da razumete tveganja okoli ROOT dostopa</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
-  <string name="power_ambient_display">Ambientalni zaslon</string>
+  <string name="power_ambient_display">Zmeraj vključen zaslon</string>
   <string name="power_analysis_consume_title">Poraba baterije</string>
-  <string name="power_analysis_suggestion_need_optimize">Najdene težave pri uporabi baterije.</string>
+  <string name="power_analysis_suggestion_need_optimize">Najdene težave pri porabi baterije.</string>
   <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
+  <string name="power_center_5g_save_close_detail">5G Varčevanje baterije poveča dobo trajanja baterije ne glede na 5G povezanost. Izključim?</string>
+  <string name="power_center_5g_save_close_later">"Ne izključi"</string>
+  <string name="power_center_5g_save_close_title">Izklop 5G varčevanja baterije</string>
+  <string name="power_center_5g_save_summary_text">Uporabite 5G povezanost za manjšo porabo energije v določenih situacijah</string>
+  <string name="power_center_5g_save_title_text">5G Varčevanje baterije</string>
   <string name="power_center_auto_shutdown">Načrtovan čas vklop/izklop</string>
-  <string name="power_center_back">Nazaj v Baterija</string>
+  <string name="power_center_back">Nazaj</string>
   <string name="power_center_battery_last">%s ostalo</string>
   <string name="power_center_battery_full">"Baterija je napolnjena "</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
@@ -2168,7 +2173,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Napredne nastavitve</string>
   <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
-  <string name="power_center_consume_rank">Uporaba baterije</string>
+  <string name="power_center_consume_rank">Poraba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
   <string name="power_center_main_percent_formatted">%s%%</string>
@@ -2186,7 +2191,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_scan_item_title_battery_details">Podrobnosti o porabi baterije</string>
   <string name="power_center_scan_item_title_brightness">Nastavi svetlost zaslona</string>
   <string name="power_center_scan_item_title_clean_memory">Očisti pomnilnik</string>
-  <string name="power_center_scan_item_title_hide">Urejaj uporabo baterije</string>
+  <string name="power_center_scan_item_title_hide">Urejaj porabo baterije</string>
   <string name="power_center_scan_item_title_power_saver">Vključi varčevanje baterije</string>
   <string name="power_center_scan_item_title_running_app">Aplikacije zagnane v ozadju</string>
   <string name="power_center_scan_result_safe">Ni najdenih problemov baterije</string>
@@ -2544,6 +2549,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da boste dobili več informacij o možnosti nakupa podatkov."</string>
   <string name="privacy_prompt_upload">Pošlji</string>
   <string name="process_mediaserver_label">Medijski strežnik</string>
+  <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Oglas</string>
   <string name="prompt_all">Vprašaj za vse</string>
   <string name="prompt_input_time_illegal">"Ne morem nastaviti na ta čas, zamenjajte ga in poskusite ponovno"</string>
@@ -3038,7 +3044,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="superpower_progress_turnoff_process">Omejevanje aktivnosti v ozadju</string>
   <string name="superpower_savemode_limit1">Temna tema</string>
   <string name="superpower_savemode_limit2">Omejevanje aktivnosti v ozadju</string>
-  <string name="superpower_savemode_limit3">Omejevanje aktivnosti ki porabljajo energijo (sinhr., GPS, vibracija, Ambientalni zaslon, itd.)</string>
+  <string name="superpower_savemode_limit3">Omejevanje aktivnosti ki porabljajo energijo (sinhr., GPS, vibracija, zmeraj vključen zaslon, itd.)</string>
   <string name="superpower_savemode_limit4">Dovoli izbranim aplikacijam normalno delovanje</string>
   <string name="superpower_settings">Ultra varčevanje baterije</string>
   <string name="superpower_settins_autoenter_summary">Vključi Ultra varčevanje baterije samodejno ko je baterija samo še 10%</string>

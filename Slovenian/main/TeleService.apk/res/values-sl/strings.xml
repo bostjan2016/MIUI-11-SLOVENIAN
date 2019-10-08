@@ -1098,6 +1098,7 @@ Izbor"</string>
   <string name="fiveg_network_config_type2">Vrsta omrežne konfiguracije[Reža2] :</string>
   <string name="fiveg_plmn_info_list1">PLMN seznam podatkov[Reža1] :</string>
   <string name="fiveg_plmn_info_list2">PLMN seznam podatkov[Reža2] :</string>
+  <string name="fiveg_power_secret_code_tip">Urejajte v Varnost - Baterija - 5G Varčevanje baterije</string>
   <string name="fiveg_restrict_dcnr1">Omeji DCNR[Reža1] :</string>
   <string name="fiveg_restrict_dcnr2">Omeji DCNR[Reža2] :</string>
   <string name="fiveg_signal_strength1">5G Moč signala[Reža1] :</string>

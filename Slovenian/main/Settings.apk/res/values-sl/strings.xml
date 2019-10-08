@@ -44,7 +44,7 @@
     <string name="abc_slice_permission_text_2">– lahko izvaja dejanja v aplikaciji %1$s</string>
     <string name="abc_slice_permission_title">Ali aplikaciji %1$s dovolite prikazovanje izrezov iz aplikacije %2$s?</string>
     <string name="abc_slice_show_more">Pokaži več</string>
-    <string name="abc_slice_updated">Posodobljeno: %1$s</string>
+    <string name="abc_slice_updated">Posodobljeno %1$s</string>
     <string name="abc_slices_permission_request">Aplikacija %1$s želi prikazati izreze iz aplikacije %2$s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="abort_backup_confirm">"Izdelava var. kopije ni končana. Vseeno prekinem?"</string>
@@ -4380,8 +4380,8 @@ Na tej napravi je več uporabnikov.
   <string name="miui_lab_ai_cloud_closed">"AI pred-branje še ni na voljo."</string>
   <string name="miui_lab_ai_preload_desc">AI pred-branje povečuje hirost zagona aplikacije</string>
   <string name="miui_lab_ai_preload_title">AI pred-branje</string>
-  <string name="miui_lab_aiasst_call_screen_desc">Poveži se z Tips</string>
-  <string name="miui_lab_aiasst_call_screen_title">Tips klic</string>
+  <string name="miui_lab_aiasst_call_screen_desc">Pretvori glas in tekst da boste tiho odgovarjali na klice</string>
+  <string name="miui_lab_aiasst_call_screen_title">AI Pomočnik za klice</string>
   <string name="miui_lab_drive_mode_desc">Uporabite glasovne kontrole &amp; poslušajte WeChat sporočila</string>
   <string name="miui_lab_drive_mode_title">Način Avto</string>
   <string name="miui_lab_feature_applied">Nastavljeno</string>

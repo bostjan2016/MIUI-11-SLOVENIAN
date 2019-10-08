@@ -52,6 +52,7 @@
   <string name="fast_connect_device_connect_retry">Poskusi ponovno</string>
   <string name="fast_connect_device_connect_setup">Nastavitve</string>
   <string name="fast_connect_device_connect_success">Končano</string>
+  <string name="fast_connect_device_headset">Baterija</string>
   <string name="fast_connect_device_headset_l">Levo</string>
   <string name="fast_connect_device_headset_r">Desno</string>
   <string name="fast_connect_device_headset_reset">Pritisnite in držite tipko na boxu</string>

@@ -39,6 +39,7 @@
   <string name="accessibility_filter_open_panel">Meni filtrov je odprt</string>
   <string name="accessibility_filter_pad_close">Meni filtrov je skrit</string>
   <string name="accessibility_flash_auto">Samod. bliskavica je vključena</string>
+  <string name="accessibility_flash_back_soft_light">Bliskavica dela v načinu mehke svetlobe</string>
   <string name="accessibility_flash_mode_button">Bliskavica</string>
   <string name="accessibility_flash_off">Bliskavica je izključena</string>
   <string name="accessibility_flash_on">Bliskavica je vključena</string>
@@ -234,6 +235,7 @@ in za trenutek zapustite pregled"</string>
   <string name="dialog_google_lens_option_0">Google Leće (priporočeno)</string>
   <string name="dialog_ok">V redu</string>
   <string name="dialog_ok_time">V redu (%ds)</string>
+  <string name="dirty_tip_toast">Leča je umazana. Očistite jo.</string>
   <string name="disable_video_snapshot_hint">Snemanje videa je onemogočeno kadar so vključeni posebni efekti.</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
   <string name="download_by_browser">Prenesi z brskalnikom</string>
@@ -429,6 +431,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="live_sticker_fragment_tab_name">Nalepke</string>
   <string name="live_sticker_network_error_hint">Napaka omrežja</string>
   <string name="live_sticker_updating">Posodabljanje…</string>
+  <string name="location_permission_des">Zapomni si lokacije za fotografije in videoposnetke</string>
+  <string name="location_permission_not_ask_again">Dovolite Kameri dostop do lokacije v nastavitvah.</string>
+  <string name="location_permission_not_ask_again_go_to_settings">Dovoli</string>
   <string name="loading">Nalaganje…</string>
   <string name="loading_video">Nalaganje videoposnetka…</string>
   <string name="location">Lokacija</string>
@@ -519,6 +524,10 @@ izgledali večji na fotografijah"</string>
   <string name="module_name_square">Kvadrat</string>
   <string name="module_name_video">Video</string>
   <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
+  <string name="network_access_user_notice_agree">Strinjam se</string>
+  <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z  &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
   <string name="no_save">"Ne shrani"</string>
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
@@ -544,6 +553,7 @@ pritisnite sprožilec"</string>
   <string name="pano_too_fast_prompt">Prehitro</string>
   <string name="path">Pot</string>
   <string name="people">Osebe</string>
+  <string name="photo_assistance_tips_title">Nasveti v živo</string>
   <string name="photos_portrait_type_description">Fotografije portreta imajo globinski efekt ki zadrži objekt v fokusu in zamegli ozadje.</string>
   <string name="photos_portrait_type_name">Portret</string>
   <string name="popup_tip_3d_beauty_intro_text">3D olepšanje</string>
@@ -895,6 +905,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_whitebalance_entry_measure">Mera</string>
   <string name="pref_camera_whitebalance_title">Ravnovesje beline</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
+  <string name="pref_camera_zoom_mode_entry_tele_standalone">Tele 5X</string>
   <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
   <string name="pref_camera_zoom_mode_entry_ultra">ULTRA WIDE</string>
   <string name="pref_camera_zoom_mode_entry_wide">WIDE</string>
@@ -917,6 +928,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_google_lens_summary">Usmerite kamero na kontaktne informacije, URL-je in QR kode da boste videli možne opcije</string>
   <string name="pref_google_lens_title">Pametni predlogi</string>
   <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
+  <string name="pref_lens_dirty_detect_summary">Prejmite obvestilo ko je leča umazana</string>
+  <string name="pref_lens_dirty_detect_title">Obvestila o umazani leči</string>
   <string name="pref_grp_advanced_settings">Napredne nastavitve</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
@@ -928,6 +941,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Lahko snemate samo 720P videoposnetke z 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Lahko snemate samo 720P videoposnetke z 960FPS</string>
+  <string name="pref_photo_assistance_tips_off">Izklj.</string>
+  <string name="pref_photo_assistance_tips_on">Vklj.</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
   <string name="pref_privacy_title">Pravila o zasebnosti</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
@@ -993,6 +1008,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_watermark_style_entry_timestamp">Oznaka časa</string>
   <string name="pref_watermark_style_title">Dodaj oznako časa na fotografijo</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
+  <string name="recommend_macro_mode">Poskusite Macro način</string>
+  <string name="recommend_portrait">Poskusite Portretni način</string>
+  <string name="recommend_super_night">Poskusite Nočni način</string>
   <string name="qq_details">QQ podrobnosti:</string>
   <string name="qr_code_details">Podrobnosti QQ kode:</string>
   <string name="raw_data_exit_button_text">Izhod iz RAW načina</string>
@@ -1068,6 +1086,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="sticker_tab1">Sladko</string>
   <string name="sticker_tab2">Smešno</string>
   <string name="success_message_import_from_account">Uvoženo</string>
+  <string name="super_eis">Super stabilizacija</string>
+  <string name="super_eis_disabled_hint">Super stabilizacija je izključena</string>
+  <string name="super_night_hint">Optimiziranje slike… Držite napravo mirno.</string>
   <string name="super_night_toast">Držite telefon mirno</string>
   <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>
@@ -1088,6 +1109,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="toast_start_audio_capture">Ko se sproži zaklep predvajaj zvok </string>
   <string name="ubi_focus_capture_fail">"Slike ni bilo mogoče zajeti"</string>
   <string name="ubifocus_capture_warning_message">Za najboljše rezultate bi morala vaša slika vsebovati predmete tako v bližini (manj kot 1 meter od leč) kot tudi daleč</string>
+  <string name="ultra_pixel_108mp">108MP</string>
   <string name="ultra_pixel_32mp">32MP</string>
   <string name="ultra_pixel_48mp">48MP</string>
   <string name="ultra_pixel_64mp">64MP</string>
@@ -1096,6 +1118,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="ultra_pixel_photography_open_tip">%s Ultra HD je vklj.</string>
   <string name="ultra_pixel_portrait_hint">Ultra-clear portret</string>
   <string name="ultra_pixel_zoom_no_support_tip">"Zoomiranje ne deluje v %s Ultra HD načinu"</string>
+  <string name="ultra_tele_use_hint_text_body">"Uporabite 50X zoom za podrobno 
+snemanje oddaljenih objektov"</string>
+  <string name="ultra_tele_use_hint_text_title">50X zoom</string>
   <string name="ultra_wide_bokeh_close_tip">Način celega telesa je izklj.</string>
   <string name="ultra_wide_bokeh_open_tip">Način celega telesa</string>
   <string name="ultra_wide_close_tip">Ultra široki kot je izklj.</string>
@@ -1130,6 +1155,13 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="video_snapshot_hint">Posnemite fotografijo med snemanjem videoposnetka z dotikom zaslona za pregled.</string>
   <string name="videocamera_settings_label">Nastavitve Video kamere</string>
   <string name="view_privacy_policy">Pokaži Pravila o zasebnosti</string>
+  <string name="vv_duartion_hint">%1$s | Segment %2$d | %3$ss</string>
+  <string name="vv_hint">VLOG lahko posnamete samo načinu pokrajina</string>
+  <string name="vv_stability_hint">Držite napravo mirno</string>
+  <string name="vv_start">Posnemi VLOG</string>
+  <string name="vv_use_hint_text_body">"VLOG način vam omogoča
+snemanje in urejanje videoposnetkov v gibanju"</string>
+  <string name="vv_use_hint_text_title">VLOG</string>
   <string name="visit_cloud_album">Obiščite Cloud album</string>
   <string name="wait">Počakaj…</string>
    <string name="web_url_apk_warning">Ta aplikacija prihaja iz neznanih virov in lahko predstavlja varnostno tveganje. Nameščajte samo aplikacije iz znanih virov ki jim zaupate.</string>

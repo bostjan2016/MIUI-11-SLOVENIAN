@@ -45,11 +45,17 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_10">Če želite predvajati stvari iz Galerije ali Mi Video, lahko uporabite v teh aplikacijah vgrajene storitve za predvajanje.</string>
   <string name="help_page_text_11">Korak 3</string>
   <string name="help_page_text_12">Izberite zunanjo napravo s spiska naprav na voljo da boste začeli predvajanje.</string>
-  <string name="help_page_text_13">"Povezovanje z zunanjo napravo ni možno ?"</string>
-  <string name="help_page_text_14">"1. Mi TV screencast, nadgradite aplikacijo Wireless Screening na seznamu aplikacij za televizijo na najnovejšo različico. 
-2. Če želite povečati stopnjo uspešnosti povezave, lahko poskusite telefon povezati s televizorjem v istem omrežju LAN. Vendar nekateri usmerjevalniki morda ne bodo mogli zagotoviti stabilnega povezavnega okolja za zaslon, kar povzroči da ni nobene povezave ali pogoste prekinitve. 
+  <string name="help_page_text_13">"Povezovanje z zunanjo napravo ni možno?"</string>
+  <string name="help_page_text_14">"1. Millet TV screencast, nadgradite aplikacijo Wireless Screening na seznamu aplikacij za televizijo na najnovejšo različico. 
+2. Če želite povečati stopnjo uspešnosti povezave, lahko poskusite telefon povezati s televizorjem v istem omrežju WiFi. Vendar nekateri usmerjevalniki morda ne bodo mogli zagotoviti stabilnega povezavnega okolja za zaslon, kar povzroči da ni nobene povezave ali pogoste prekinitve. 
 3. Če uporabljate Mi TV, bi vklop Bluetootha lahko izboljšal povezavo. 
-4. Če ni WiFi omrežij se prepričajte ali naprava (npr.. TV) podpira storitev Miracast. To ime je različno na različnih napravah. Glejte spodnje informacije, če želite izvedeti več o funkciji Miracast na različnih napravah."</string>
+4. Če ni WiFi omrežij se prepričajte ali naprava (npr.. TV) podpira storitev Miracast. To ime je različno na različnih napravah. Glejte spodnje informacije, če želite izvedeti več o funkciji Miracast na različnih napravah
+."</string>
+  <string name="help_page_text_14_global">"1. Če želite uporabiti Xiaomi napravo, a je ne najdete na spisku naprav poskusite:
+Povežite svoj telefon in zunanji monitor (npr. vaš TV) s z istim WiFi omrežjem ali povežite zunanji monitor z hotspotom telefona. Če ni brezžičnega omrežja ali če se televizor in mobilni telefon ne moreta povezati na isto omrežje, preverite ali so storitve predvajanja v zunanjem monitorju posodobljene, vključite Bluetooth v vašem telefonu in v zunanjem monitorju in vključite Miracast na televizorju.
+2. Če prvič predvajate na Xiaomi napravo morate dokončati preverjanje.
+3. Če uporabljate napravo, ki ni Xiaomi, ali je ne najdete na spisku naprav poskusite:
+Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem ali povežite zunanji monitor z hotspotom telefona."</string>
   <string name="help_page_text_15">Miracast funkcionalnost na različnih napravah</string>
   <string name="help_page_text_16">Mi TV/Mi Projektor</string>
   <string name="help_page_text_17">"Xiaomi mobilni telefon se lahko neposredno poveže z večino Xiaomi TV s funkcijo Bluetooth, namesto da ročno odpre storitev Miracast.
@@ -93,6 +99,7 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
    <string name="help_page_text_55">"Če ni WiFi-ja na voljo preverite če zunanji zaslon (npr. TV) podpira storitev Miracast. Ime te storitve je različno na različnih napravah. Če želite izvedeti več glejte spodnje podatke o Miracastu na različnih napravah.
 4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
+  <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večktatni zaslon.</string> 
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>

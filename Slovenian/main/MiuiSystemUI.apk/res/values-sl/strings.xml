@@ -852,6 +852,7 @@ hitrost vzorčenja"</string>
   <string name="gxzw_area">Čitalec prstnih odtisov</string>
   <string name="gxzw_long_press_tip">Pritisnite in podržite da boste preverili nove storitve</string>
   <string name="gxzw_press_harder">Pritisnite malo močneje</string>
+  <string name="gxzw_quick_close">Zapri</string>
   <string name="gxzw_quick_open_add_event">Dodajte dogodek</string>
   <string name="gxzw_quick_open_add_event_sub">koledar</string>
   <string name="gxzw_quick_open_alipay_pay">Šifra plačila</string>
@@ -863,6 +864,7 @@ hitrost vzorčenja"</string>
   <string name="gxzw_quick_open_search">Išči</string>
   <string name="gxzw_quick_open_search_sub">Brskalnik</string>
   <string name="gxzw_quick_open_skip_teach">Preskoči navodila</string>
+  <string name="gxzw_quick_open_title">Meni bližnjic je odprt</string>
   <string name="gxzw_quick_open_wechat_pay">Šifra plačila</string>
   <string name="gxzw_quick_open_wechat_pay_sub">WeChat</string>
   <string name="gxzw_quick_open_wechat_scan">Skener</string>
