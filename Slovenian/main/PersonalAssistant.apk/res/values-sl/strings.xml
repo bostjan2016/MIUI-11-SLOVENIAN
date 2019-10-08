@@ -36,6 +36,7 @@
   <string name="agenda_settings_loan">Pokaži plačila kreditov</string>
   <string name="alipay_init">Zagon Alipay storitve…</string>
   <string name="alipay_init_success">Alipay storitev je zagnana​</string>
+  <string name="all_function_title">Vse bližnjice</string>
   <string name="announce_for_drag">Poteg ene stvari</string>
   <string name="app_label">Asistent</string>
   <string name="app_setting">Nastavitve</string>
@@ -518,6 +519,7 @@
   <string name="search_setting_description">Naslovi v priljubljenih</string>
   <string name="search_tip">Iskanje…</string>
   <string name="security">Varnost</string>
+  <string name="selected_shortcuts_title">Funkcije</string>
   <string name="send_action_title">Dodaj med priljubljene</string>
   <string name="service_unavailiable">Povežite se na omrežje in poskusite ponovno.</string>
   <string name="setting_address">Dodaj pogosta mesta</string>

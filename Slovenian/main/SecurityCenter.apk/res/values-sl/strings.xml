@@ -2385,7 +2385,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pref_adjust_data_usage_summary">Ko spremenite predlogo za kalibracijo jo bo MIUI uporabljal da dobi statistične podatke o uporabi podatkov od vašega mobilnega operaterja</string>
   <string name="pref_adjust_data_usage_value">Zamenjano</string>
   <string name="pref_adjust_traffic_data">Nastavite porabo podatkov</string>
-  <string name="pref_allow_connect_network_title">Gostovanje podatkov</string>
+  <string name="pref_allow_connect_network_title">Mednarodno gostovanje podatkov</string>
   <string name="pref_allow_connect_network_whitelist_title">Dovoli izjemam uporabo mob. podatkov v gostovanju</string>
   <string name="pref_app_traffic_managent">Omejite porabo podatkov z aplikacijo</string>
   <string name="pref_auto_adjust_settings">Samodejno prilagodi nastavitve statistike uporabe podatkov</string>

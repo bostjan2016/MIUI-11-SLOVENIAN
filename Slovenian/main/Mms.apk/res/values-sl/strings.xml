@@ -611,8 +611,8 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="pref_title_mms_auto_retrieval">Samodejno pridobi MMS</string>
   <string name="pref_title_mms_delete">Meja večpredstavnostnega sporočila</string>
   <string name="pref_title_mms_read_reports">Preberi sporočila</string>
-  <string name="pref_title_mms_retrieval_during_international_roaming">Prenesi vsebino MMS-a v gostovanju</string>
-  <string name="pref_title_mms_retrieval_during_national_roaming">Prenesi vsebino MMS-a v gostovanju</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Prenesi vsebino MMS-a v mednarodnem gostovanju</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Prenesi vsebino MMS-a v domačem gostovanju</string>
   <string name="pref_title_mms_retrieval_during_roaming">Samodejno pridobi MMS med gostovanjem</string>
   <string name="pref_title_mms_validity_period">Veljavnost MMS-a</string>
   <string name="pref_title_msg_blocked">Seznam blokiranih</string>
