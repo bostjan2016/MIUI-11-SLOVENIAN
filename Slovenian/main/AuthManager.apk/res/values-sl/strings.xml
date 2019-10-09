@@ -343,13 +343,9 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="permission_group_title_privacy_related">Zasebnost</string>
   <string name="permission_group_title_settings_related">Nastavitve</string>
   <string name="permission_reminders">Opomniki dovoljenj</string>
-  <string name="permdesc_read_storage">Dostop do fotografij in datotek v napravi</string>
-  <string name="permdesc_recognition">Dostop do zdravja &amp; podatkov aktivnosti</string>
   <string name="permission_request_title">Zahtevek dovoljenja</string>
-  <string name="permdesc_sensors">Dostop do podatkov senzorjev telesa</string>
   <string name="permission_warning_template">Dovolim %1$s  %2$s ?</string>
   <string name="permission_warning_template_ask">Dovolim %1$s naslednja dovoljenja?</string>
-  <string name="permdesc_write_calendar">Dostop in dodajanje dogodkov koledarja</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nima dovoljenja za %2$s. Dovoljenja aplikacij lahko spreminjate v Aplikacije &gt; Dovoljenja."</string>
   <string name="permisson_reject_notice_toast_text2">"nima dovoljenja za %1$s."</string>
   <string name="screen_overlay_button">Odpri nastavitve</string>
