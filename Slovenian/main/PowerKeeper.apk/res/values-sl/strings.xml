@@ -124,6 +124,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
   <string name="performance_category">Zmogljivost</string>
+  <string name="permstep_description">"Dovolite aplikaciji branje informacij o korakih vašega telefona"</string>
+  <string name="permstep_label">Preberi korake</string>
   <string name="power_center">Optimizacija baterije</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se zaganja nenormalno</string>
   <string name="power_checker_background_cpu_title">%1$s se zaganja nenormalno</string>
