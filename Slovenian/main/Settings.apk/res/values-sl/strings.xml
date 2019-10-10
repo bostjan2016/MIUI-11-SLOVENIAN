@@ -6284,6 +6284,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_dark_mode_smart_dark_title">Global temni način</string>
   <string name="screen_dark_mode_time_title">Razpored</string>
   <string name="screen_effect">Kontrast &amp; barve</string>
+  <string name="screen_fps_summary">Večja hitrost osveževanja naredi sliko bolj gladko, nižja hitrost pa varčuje baterijo</string>
+  <string name="screen_fps_title">Hitrost osveževanja</string>
+  <string name="screen_fps_unit">%d Hz</string>
   <string name="screen_key_long_press">Daljši pritisk na navigacijske tipke</string>
   <string name="screen_key_long_press_action">Zaženi storitev</string>
   <string name="screen_key_long_press_timeout">Določite dolžino dolgega pritiska</string>
@@ -6300,7 +6303,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_monochrome_mode_local_summary">Uporabi monokromatski način dela za izbrane aplikacije</string>
   <string name="screen_monochrome_mode_local_title">Izbrane aplikacije</string>
   <string name="screen_monochrome_mode_off_apps_title">"Ne uporabljaj monokromatski način dela"</string>
-  <string name="screen_monochrome_mode_range_title">Range</string>
+  <string name="screen_monochrome_mode_range_title">Razpon</string>
   <string name="screen_monochrome_mode_set_apps_title">Aplik. v monokromatskem načinu dela</string>
   <string name="screen_monochrome_mode_summary">Prestavi na monokromatski način dela da podaljšate življensko dobo baterije</string>
   <string name="screen_monochrome_mode_title">Monokromatski način dela</string>

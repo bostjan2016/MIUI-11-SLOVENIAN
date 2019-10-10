@@ -35,7 +35,7 @@
   <string name="usage_app_set_limit_time">Nastavi omejitev</string>
   <string name="usage_app_system_app_summary">"Ne morem omejiti čas zaslona za sistemske aplikacije"</string>
   <string name="usage_app_weekday_limit">Delovniki</string>
-  <string name="usage_app_weekend_limit">Delovniki</string>
+  <string name="usage_app_weekend_limit">Vikendi</string>
   <string name="usage_state_app">Aplikacije</string>
   <string name="usage_state_app_remain_time">Preostali čas: %s</string>
   <string name="usage_state_app_timer">Čas zaslona</string>
