@@ -686,43 +686,54 @@ Za več informacij o tem certifikatu se obrnite na administratorja."</item>
         <item quantity="other">%1$d SIM-ov</item>
         <item quantity="one">%1$d SIM</item>
         <item quantity="few">%1$d SIM-ov</item>
+	<item quantity="many">%1$d SIM-ov</item>
      </plurals>
      <plurals name="notification_few_channel_count_summary">
         <item quantity="other">%1$d kanalov obvestil.</item>
         <item quantity="one">%1$d kanal obvestil.</item>
         <item quantity="few">%1$d kanalov obvestil.</item>
+	<item quantity="many">%1$d kanalov obvestil.</item>
      </plurals>
      <plurals name="notifications_sent_daily">
         <item quantity="other">~%d obvestil dnevno</item>
         <item quantity="one">~%d obvestilo dnevno</item>
         <item quantity="few">~%d obvestila dnevno</item>
+	<item quantity="many">~%d obvestil dnevno</item>
      </plurals>
      <plurals name="notifications_sent_weekly">
         <item quantity="other">~%d obvestil tedensko</item>
         <item quantity="one">~%d obvestilo tedensko</item>
         <item quantity="few">~%d obvestil tedensko</item>
+	<item quantity="many">~%d obvestil tedensko</item>
      </plurals>
      <plurals name="permission_bar_chart_label">
         <item quantity="other">%s aplikacij</item>
-        <item quantity="one">%s aplikacija</item>
+        <item quantity="one">1 aplikacija</item>
         <item quantity="few">%s aplikacij</item>
+	<item quantity="many">%s aplikacij</item>
      </plurals>
      <plurals name="show_bluetooth_devices">
         <item quantity="other">%1$d naprav povezano</item>
         <item quantity="one">%1$d naprava povezana</item>
         <item quantity="few">%1$d naprav povezano</item>
+	<item quantity="many">%1$d naprav povezano</item>
      </plurals>
      <plurals name="wifi_saved_all_access_points_summary">
         <item quantity="other">%d omrežij &amp; predplačilo</item>
         <item quantity="one">1 omrežje &amp; predplačilo</item>
+	<item quantity="few">%d omrežij &amp; predplačilo</item>
+        <item quantity="many">%d omrežij &amp; predplačilo</item>
      </plurals>
      <plurals name="wifi_saved_passpoint_access_points_summary">
         <item quantity="other">%d predplačil</item>
         <item quantity="one">1 predplačilo</item>
+	<item quantity="few">%d predplačil</item>
+        <item quantity="many">%d predplačil</item>
      </plurals>
      <plurals name="zen_mode_bypassing_apps_subtext">
         <item quantity="other">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
         <item quantity="one">Obvestila %1$d aplikacije lahko preglasijo Ne moti</item>
         <item quantity="few">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
+	<item quantity="many">Obvestila %1$d aplikacij lahko preglasijo Ne moti</item>
      </plurals>
 </resources> 
