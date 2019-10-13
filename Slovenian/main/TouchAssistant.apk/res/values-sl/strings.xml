@@ -34,13 +34,13 @@
   <string name="name_quick_search">Preišči</string>
   <string name="name_scan_to_pay">Skeniraj za plačilo</string>
   <string name="name_screenshot">Posnetek zaslona</string>
-  <string name="name_trans_cards">Transportna kartica</string>
+  <string name="name_trans_cards">Vozovnica</string>
   <string name="name_wechat_payment_code">Wechat hitro plačilo</string>
 	<string name="open">Vključi</string>
 	<string name="open_panel">Vključi Meni bližnjic</string>
   <string name="name_wechat_scan">Wechat skener</string>
   <string name="nfc_all_mipay_card_not_in_use">"Mi Pay ni aktiviran"</string>
-  <string name="nfc_trans_card_not_in_use">"Transportna kartica ni aktivirana"</string>
+  <string name="nfc_trans_card_not_in_use">"Vozovnica ni aktivirana"</string>
   <string name="not_working">%s (Ne dela)</string>
   <string name="pay_entry_dialog_title_select">Izberite aplikacijo za odpiranje</string>
   <string name="pay_entry_dialog_title_setting">Nastavi aplikacijo da preverja omogočenje</string>

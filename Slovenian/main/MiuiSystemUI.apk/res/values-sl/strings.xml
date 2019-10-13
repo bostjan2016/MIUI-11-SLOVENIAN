@@ -1068,7 +1068,7 @@ Uporabite priloženi polnilnik."</string>
   <string name="keyguard_sim_error_message_short">Neveljavna kartica.</string>
     <string name="keyguard_sim_locked_message">Kartica SIM je zaklenjena.</string>
     <string name="keyguard_sim_puk_locked_message">Kartica SIM je zaklenjena s kodo PUK.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Odklepanje kartica SIM …</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Odklepanje kartice SIM …</string>
   <string name="keyguard_torch_cover_text">Da bo svetiljka ostala vključena, držite tipko za vklop</string>
     <string name="keyguard_unlock">Povlecite, da odklenete</string>
   <string name="keyguard_widget_12_hours_format">hmm</string>
@@ -1092,7 +1092,7 @@ Poskusite znova čez %3$d s."</string>
     <string name="kg_password_instructions">Vnesite geslo</string>
     <string name="kg_password_pin_failed">"Postopek za odklepanje s kodo PIN kartice SIM ni uspel"</string>
     <string name="kg_password_puk_failed">"Postopek za odklepanje s kodo PUK kartice SIM ni uspel"</string>
-    <string name="kg_password_wrong_pin_code_pukked">Napačna koda PIN kartica SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
+    <string name="kg_password_wrong_pin_code_pukked">Napačna koda PIN kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
     <string name="kg_password_wrong_puk_code_dead">Kartica SIM ni več uporabna. Obrnite se na operaterja.</string>
     <string name="kg_pattern_instructions">Narišite vzorec</string>
     <string name="kg_pin_accepted">Koda je sprejeta.</string>

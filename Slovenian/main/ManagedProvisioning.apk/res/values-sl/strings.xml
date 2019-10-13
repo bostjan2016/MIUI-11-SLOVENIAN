@@ -99,7 +99,7 @@
     <string name="error_hash_mismatch">Skrbniške aplikacije ni bilo mogoče uporabiti zaradi napake kontrolne vsote. Za pomoč se obrnite na skrbnika za IT.</string>
     <string name="error_installation_failed">Skrbniške aplikacije ni bilo mogoče namestiti</string>
     <string name="error_package_invalid">Skrbniške aplikacije ni mogoče uporabljati. Manjkajo ji komponente ali pa je poškodovana. Za pomoč se obrnite na skrbnika za IT.</string>
-    <string name="error_wifi">Ni bilo mogoče vzpostaviti povezave z omrežjem Wi-Fi</string>
+    <string name="error_wifi">Ni bilo mogoče vzpostaviti povezave z omrežjem WiFi</string>
     <string name="expand">Razširi</string>
     <string name="expand_button_title">Dodatno</string>
   <string name="for_help_contact_admin">Če potrebujete pomoč se obrnite na administratorja</string>

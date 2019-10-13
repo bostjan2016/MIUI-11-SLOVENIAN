@@ -652,16 +652,16 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_profile_pan_nap">Skupna raba spletne povezave</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
-  <string name="bluetooth_profile_sap">Dostop do kartica SIM</string>
+  <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
   <string name="bluetooth_quick_toggle_summary">Vklopi Bluetooth</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_remember_choice">Ne vprašaj me več</string>
   <string name="bluetooth_rename_button">Preimenuj</string>
   <string name="bluetooth_rename_device">Preimenuj to napravo</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše kartica SIM. Z omogočanjem dostopa do kartica SIM bodo v napravi v času povezave onemogočene podatkovne povezave. Omogočim dostop za %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostopati do vaše kartice SIM. Z omogočanjem dostopa do kartice SIM bodo v napravi v času povezave onemogočene podatkovne povezave. Omogočim dostop za %2$s?</string>
   <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartica SIM</string>
-  <string name="bluetooth_sap_request">Zahteva za dostop do kartica SIM</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
+  <string name="bluetooth_sap_request">Zahteva za dostop do kartice SIM</string>
   <string name="bluetooth_scan_for_devices">Išči naprave</string>
   <string name="bluetooth_search_for_devices">Osveži</string>
   <string name="bluetooth_searching_for_devices">Iskanje ...</string>
@@ -1036,7 +1036,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="data_saver_title">Varčevanje s podatki</string>
   <string name="data_size_label">Podatki</string>
   <string name="data_summary_format">Porabljeno %1$s od %2$s</string>
-  <string name="data_switch_started">Preklop podatkovne kartica SIM. Lahko traja kakšno minuto …</string>
+  <string name="data_switch_started">Preklop podatkovne kartice SIM. Lahko traja kakšno minuto …</string>
   <string name="data_usage_accounting">Operaterjeve meritve porabe podatkov so morda drugačne kot v napravi.</string>
   <string name="data_usage_app">Uporaba aplikacije</string>
   <string name="data_usage_app_info_label">PODATKI O APLIKACIJI</string>
@@ -1875,8 +1875,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keywords_users">omejitev, omeji, omejeno</string>
   <string name="keywords_voice_input">prepoznavalnik, vnos, govor, govori, jezik, prostoročno, prostoročno, prepoznavanje, žaljivka, zvok, zgodovina, slušalka bluetooth</string>
   <string name="keywords_vr_listener">nr navidezna resničnost poslušalec stereo storitev za pomoč</string>
-  <string name="keywords_wifi">wifi, wi-fi, omrežna povezava</string>
-  <string name="keywords_wifi_calling">wifi, wi-fi, klic, klicanje</string>
+  <string name="keywords_wifi">wifi, WiFi, omrežna povezava</string>
+  <string name="keywords_wifi_calling">wifi, WiFi, klic, klicanje</string>
   <string name="keywords_write_settings">zapisovanje spreminjanje sistemske nastavitve</string>
   <string name="label_global_roaming_settings">Nastavitve gostovanja</string>
   <string name="language_keyboard_settings_title">Jezik in vnos</string>
@@ -2318,7 +2318,7 @@ Na tej napravi je več uporabnikov.
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mobile_insert_sim_card">Vstavite SIM in znova zaženite</string>
   <string name="mobile_no_provisioning_url">%1$s nima znanega spletnega mesta za omogočanje uporabe</string>
-  <string name="mobile_unknown_sim_operator">Neznan ponudnik kartica SIM</string>
+  <string name="mobile_unknown_sim_operator">Neznan ponudnik kartice SIM</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
@@ -3674,7 +3674,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="select_logd_size_title">Velikosti medpomn. zapisov. dnevnika</string>
   <string name="select_sim_card">Izberite SIM kartico</string>
   <string name="select_sim_for_calls">Klic z uporabo</string>
-  <string name="select_sim_for_data">Izbira kartica SIM za prenos podatkov</string>
+  <string name="select_sim_for_data">Izbira kartice SIM za prenos podatkov</string>
   <string name="select_ssid_type_title">Izberi SSID</string>
   <string name="select_usb_configuration_dialog_title">Izbira konfiguracije USB</string>
   <string name="select_usb_configuration_title">Izbira konfiguracije USB</string>
@@ -3775,12 +3775,12 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="silent_mode_title">Tihi način</string>
   <string name="sim_absent">Ni SIM/RUIM</string>
   <string name="sim_bad_pin">Napačen PIN</string>
-  <string name="sim_call_back_title">Povratni klic s privzete kartica SIM</string>
+  <string name="sim_call_back_title">Povratni klic s privzete kartice SIM</string>
   <string name="sim_calls_always_use">Vedno uporabi to možnost za klice</string>
   <string name="sim_calls_ask_first_prefs_title">Vedno vprašaj</string>
   <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Izberite kartico SIM</string>
-  <string name="sim_cards_changed_message">kartica SIM so spremenjene</string>
+  <string name="sim_cards_changed_message">kartice SIM so spremenjene</string>
   <string name="sim_cards_changed_message_summary">Dotaknite se za nastavitev dejavnosti</string>
   <string name="sim_cellular_data_unavailable">Prenos podat. v mob. omrež. ni na voljo</string>
   <string name="sim_cellular_data_unavailable_summary">Dotaknite se da izberete SIM za prenos podatkov</string>
@@ -3793,8 +3793,8 @@ Mogoče je napačen PIN.</string>
   <string name="sim_change_succeeded">Sprememba kode PIN za kartico SIM je uspela</string>
   <string name="sim_disable_sim_lock">Odkleni kartico SIM</string>
   <string name="sim_editor_carrier">Operater</string>
-  <string name="sim_editor_color">Barva kartica SIM</string>
-  <string name="sim_editor_name">Ime kartica SIM</string>
+  <string name="sim_editor_color">Barva kartice SIM</string>
+  <string name="sim_editor_name">Ime kartice SIM</string>
   <string name="sim_editor_number">Številka</string>
   <string name="sim_editor_title">Reža za SIM %1$d</string>
   <string name="sim_enable_sim_lock">Zakleni kartico SIM</string>
@@ -3804,11 +3804,11 @@ Mogoče je napačen PIN.</string>
   <string name="sim_enter_old">Stara koda PIN za kartico SIM</string>
   <string name="sim_enter_pin">SIM PIN</string>
   <string name="sim_lock_change_not_supported">Ne morem spremeniti zaklepanja SIM.</string>
-  <string name="sim_lock_failed">"Zaklepanja kartica SIM ni mogoče spremeniti.
+  <string name="sim_lock_failed">"Zaklepanja kartice SIM ni mogoče spremeniti.
 Morda je koda PIN napačna."</string>
   <string name="sim_lock_off">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_on">Zahtevaj kodo PIN za uporabo telefona</string>
-  <string name="sim_lock_settings">Nastavitve zaklepanja kartica SIM</string>
+  <string name="sim_lock_settings">Nastavitve zaklepanja kartice SIM</string>
   <string name="sim_lock_settings_category">Nastavi zaklepanje kartic SIM</string>
   <string name="sim_lock_settings_title">Zaklepanje kartic SIM</string>
   <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
@@ -5182,7 +5182,7 @@ WiFi Assistant"</string>
   <string name="write_settings_title">Lahko spreminjajo sistemske nastavitve</string>
   <string name="write_system_settings">Spreminjanje sist. nastavitev</string>
   <string name="write_tag">Zapiši</string>
-  <string name="wrong_pin_code_pukked">Napačna PIN koda kartica SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
+  <string name="wrong_pin_code_pukked">Napačna PIN koda kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_money_service">Mi Krediti</string>

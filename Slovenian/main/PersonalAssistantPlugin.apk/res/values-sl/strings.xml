@@ -193,7 +193,7 @@
   <string name="map_loading_desc">Ne morem naložiti podatke, poskusite ponovno.</string>
   <string name="map_office_didi">Pojdi v službo</string>
   <string name="map_office_way">Pot do službe</string>
-  <string name="map_subway_card">Transportna kartica</string>
+  <string name="map_subway_card">Vozovnica</string>
   <string name="map_suggestion_desc">Dodajte pogosta mesta da boste dobili predloge o prometu pred potovanjem.</string>
   <string name="map_suggestion_negative">Ne zdaj</string>
   <string name="map_suggestion_positive">Dodaj</string>
@@ -294,7 +294,7 @@
   <string name="train_T">T vlak</string>
   <string name="train_Z">Z vlak</string>
   <string name="train_normal">Redni vlak</string>
-  <string name="trans_card">Transportna kartica</string>
+  <string name="trans_card">Vozovnica</string>
   <string name="trip_assistant_all_btn">Vsa potovanja</string>
   <string name="uber_company">Delo</string>
   <string name="uber_current_local">Trenutna lokacija</string>

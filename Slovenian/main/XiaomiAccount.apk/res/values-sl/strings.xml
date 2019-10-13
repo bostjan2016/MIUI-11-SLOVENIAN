@@ -373,7 +373,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_error_no_sms_service">Ne morem poslati sporočila. Mobilno omrežje ni na voljo.</string>
   <string name="passport_error_phone_error">Neveljavna telefonska številka</string>
   <string name="passport_error_server">Napaka na strežniku</string>
-  <string name="passport_error_sim_not_ready">Ne najdem kartica SIM</string>
+  <string name="passport_error_sim_not_ready">Ne najdem kartice SIM</string>
   <string name="passport_error_ssl_hand_shake">"Ne morem se povezati na strežnik"</string>
   <string name="passport_error_unknown">Ne morem se vpisati v</string>
   <string name="passport_error_user_name">Neveljavno uporabniško ime</string>

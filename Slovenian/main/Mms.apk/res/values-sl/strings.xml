@@ -473,7 +473,7 @@ Sporočilo je nezaželjeno."</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk. To lahko vključite/izključite kadarkoli v Sporočila &gt; Nastavitve."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokiraj Mi sporočila pred neznanimi številkami</string>
   <string name="mx_filter_message_from_stranger_summary">"Tudi naprej boste lahko prejemali redna SMS sporočila od neznanih številk"</string>
-  <string name="mx_main_purpose">"Mi sporočilo vam omogoča pošiljanje sporočil drugim uporabnikom Mi sporočil preko interneta brez dodatnih stroškov.
+  <string name="mx_main_purpose">"Mi sporočilo vam omogoča pošiljanje sporočil drugim uporabnikom Mi sporočil preko spleta brez dodatnih stroškov.
 Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo bo računal."</string>
   <string name="mx_message">Mi sporočila</string>
   <string name="mx_msg">Mi Sporočila</string>

@@ -707,7 +707,7 @@ Izbor"</string>
     <string name="clh_callFailed_semantically_incorrect_message_txt">Semantično nepravilno sporočilo</string>
     <string name="clh_callFailed_service_or_option_not_available_unspecified_txt">Storitev ali možnost ni na voljo, neopredeljeno</string>
     <string name="clh_callFailed_service_or_option_not_implemented_unspecified_txt">Storitev ali možnost ni uveljavljena, neopredeljeno</string>
-    <string name="clh_callFailed_simError_txt">Ni kartica SIM ali napaka kartica SIM</string>
+    <string name="clh_callFailed_simError_txt">Ni kartice SIM ali napaka kartice SIM</string>
     <string name="clh_callFailed_switching_equipment_congestion_txt">Preobremenjenost komutacijske opreme</string>
     <string name="clh_callFailed_temporary_failure_txt">Začasna napaka</string>
     <string name="clh_callFailed_unassigned_number_txt">Nedodeljena (nerazporejena) številka</string>
@@ -1925,7 +1925,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="proximity_off_summary">Ko odgovorite na klic bo zaslon vedno vključen.</string>
   <string name="proximity_on_summary">Ko odgovorite na klic bo zaslon izključen zaradi varčevanja z energijo.</string>
   <string name="proxy_address_title">Naslov strežnika proxy za odhodne klice</string>
-  <string name="pstn_connection_service_label">Vgrajene kartica SIM</string>
+  <string name="pstn_connection_service_label">Vgrajene kartice SIM</string>
   <string name="pstn_phone">Mobilni telefonski klic</string>
   <string name="psw_enter_new">Novo geslo</string>
   <string name="psw_enter_old">Staro geslo</string>
@@ -2572,7 +2572,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_calling_preference_title">Nastavitev WiFi klica</string>
   <string name="wifi_calling_select_call_assistant">Izberite Asistenta klicev</string>
   <string name="wifi_calling_select_call_assistant_summary">Izberite aplikacijo ali storitev za urejanje z omrežji uporabljenimi za klice</string>
-    <string name="wifi_calling_settings_title">Klicanje prek Wi-Fi-ja</string>
+    <string name="wifi_calling_settings_title">Klicanje prek WiFi-ja</string>
   <string name="wifi_calling_summary">Omogoči WiFi Klicanje in izberite nastavitve za WiFi klic</string>
   <string name="wifi_calling_title">Wifi klicanje</string>
   <string name="wifi_calling_use_call_assistant">Uporabi Asistenta klicev</string>
@@ -2605,7 +2605,7 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="wifi_pref_none">Ni izbranih preferenc</string>
   <string name="wifi_preferred">WiFi prednostno</string>
   <string name="wifi_remembered">Shranjeno</string>
-    <string name="wifi_scan_throttling">Omejevanje iskanja omrežij Wi-Fi</string>
+    <string name="wifi_scan_throttling">Omejevanje iskanja omrežij WiFi</string>
     <string name="wifi_scan_throttling_summary">Zmanjša porabo energije akumulatorja in izboljša delovanje omrežja</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>

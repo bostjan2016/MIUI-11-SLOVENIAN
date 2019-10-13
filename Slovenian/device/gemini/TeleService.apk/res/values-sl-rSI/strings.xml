@@ -244,9 +244,9 @@
   <string name="bluetooth_profile_pan_nap">Skupna raba spletne povezave</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
-  <string name="bluetooth_profile_sap">Dostop do kartica SIM</string>
+  <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Vzpostavljena povezava s profilom SAP</string>
-  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartica SIM</string>
+  <string name="bluetooth_sap_profile_summary_use_for">Uporablja se za dostop do kartice SIM</string>
   <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Zajemi vse pakete Bluetooth HCI v datoteko</string>
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
@@ -317,7 +317,7 @@
   <string name="callFailed_server_unreachable">Strežnik ni dosegljiv</string>
   <string name="callFailed_service_option_not_available">Service or option not available, unspecified</string>
   <string name="callFailed_service_or_option_not_implemented">Service or option not implemented, unspecified</string>
-  <string name="callFailed_simError">Ni kartica SIM ali napaka kartica SIM</string>
+  <string name="callFailed_simError">Ni kartice SIM ali napaka kartice SIM</string>
   <string name="callFailed_switching_equipment_congestion">Switching equipment congestion</string>
   <string name="callFailed_tempopary_failure">Temporary failure</string>
   <string name="callFailed_timedOut">Ni odziva, časovna omejitev je potekla</string>
@@ -1358,7 +1358,7 @@ Poskusite znova ali se obrnite na podporo za stranke za več možnosti."</string
   <string name="pin2_attempts">"
 Imate še toliko poskusov: %d."</string>
   <string name="pin2_changed">Koda PIN 2 je posodobljena</string>
-  <string name="pin2_error_exception">Napaka omrežja ali kartica SIM</string>
+  <string name="pin2_error_exception">Napaka omrežja ali kartice SIM</string>
   <string name="pin2_invalid">FDN ni bil posodobljen ker ste vnesli napačen PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">Vnesli ste neveljavni PIN ali pa je ime ki ste ga vnesli predolgo.</string>
   <string name="pin2_lock_warning">"
@@ -1478,7 +1478,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="provision_content">To opravilo potrebuje splet za normalno delovanje.</string>
   <string name="provision_title">Povezovanje z spletom</string>
   <string name="proxy_address_title">Naslov strežnika proxy za odhodne klice</string>
-  <string name="pstn_connection_service_label">Vgrajene kartica SIM</string>
+  <string name="pstn_connection_service_label">Vgrajene kartice SIM</string>
   <string name="pstn_phone">Mobilni telefonski klic</string>
   <string name="psw_enter_new">Novo geslo</string>
   <string name="psw_enter_old">Staro geslo</string>

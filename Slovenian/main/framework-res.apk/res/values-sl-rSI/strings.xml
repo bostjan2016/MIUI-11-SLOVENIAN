@@ -668,8 +668,8 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_pattern_area">Območje vzorca.</string>
   <string name="keyguard_accessibility_pattern_unlock">Odklepanje z vzorcem.</string>
   <string name="keyguard_accessibility_pin_unlock">Odklepanje s kodo PIN.</string>
-    <string name="keyguard_accessibility_sim_pin_unlock">Odklepanje kartica SIM s kodo PIN</string>
-    <string name="keyguard_accessibility_sim_puk_unlock">Odklepanje kartica SIM s kodo PUK</string>
+    <string name="keyguard_accessibility_sim_pin_unlock">Odklepanje kartice SIM s kodo PIN</string>
+    <string name="keyguard_accessibility_sim_puk_unlock">Odklepanje kartice SIM s kodo PUK</string>
   <string name="keyguard_accessibility_slide_area">Območje podrsanja.</string>
   <string name="keyguard_accessibility_slide_unlock">Odklepanje s podrsanjem.</string>
   <string name="keyguard_accessibility_status">Stanje</string>
@@ -720,7 +720,7 @@ Obiščite "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_puk_enter_puk_hint">Kartica SIM je onemogočena. Če želite nadaljevati vnesite kodo PUK. Za dodatne informacije se obrnite na operaterja.</string>
   <string name="kg_reordering_delete_drop_target_text">Odstrani</string>
   <string name="kg_sim_pin_instructions">Vnesite PIN za kartico SIM</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartica SIM ...</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
@@ -797,9 +797,9 @@ Obiščite "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_instructions_when_pattern_enabled">Če želite odkleniti napravo ali opraviti klic v sili pritisnite meni.</string>
   <string name="lockscreen_low_battery">Priključite napajalnik.</string>
   <string name="lockscreen_missing_sim_instructions">Vstavite kartico SIM.</string>
-  <string name="lockscreen_missing_sim_instructions_long">Ni kartica SIM ali je ni mogoče prebrati. Vstavite veljavno kartico SIM.</string>
-  <string name="lockscreen_missing_sim_message">V telefonu ni kartica SIM.</string>
-  <string name="lockscreen_missing_sim_message_short">Ni kartica SIM</string>
+  <string name="lockscreen_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite veljavno kartico SIM.</string>
+  <string name="lockscreen_missing_sim_message">V telefonu ni kartice SIM.</string>
+  <string name="lockscreen_missing_sim_message_short">Ni kartice SIM</string>
   <string name="lockscreen_network_locked_message">Omrežje je zaklenjeno</string>
   <string name="lockscreen_password_wrong">Poskusite znova</string>
   <string name="lockscreen_pattern_correct">Pravilno.</string>
@@ -815,7 +815,7 @@ Obiščite "<b>google.com/accounts/recovery</b>.</string>
   <string name="lockscreen_sim_locked_message">Kartica SIM je zaklenjena.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Preberite uporabniški priročnik ali se obrnite na oddelek za pomoč uporabnikom.</string>
   <string name="lockscreen_sim_puk_locked_message">Kartica SIM je zaklenjena s kodo PUK.</string>
-  <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartica SIM ...</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
   <string name="lockscreen_storage_locked">Odklenite za vsa opravila in podatke</string>
@@ -999,7 +999,7 @@ Znova poskusite čez %d s."</string>
   <string name="move_button_text">Zamenjaj</string>
     <string name="muted_by">%1$s izklaplja nekatere zvoke</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
-  <string name="needPuk2">Če želite odstraniti blokiranje kartica SIM vnesite PUK2.</string>
+  <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>
   <string name="network_available_sign_in">Prijava v omrežje</string>
   <string name="network_logging_notification_text">Vaša organizacija upravlja to napravo in lahko nadzira omrežni promet. Tapnite za podrobnosti.</string>
   <string name="network_logging_notification_title">Naprava je upravljana</string>
@@ -1047,7 +1047,7 @@ Znova poskusite čez %d s."</string>
   <string name="notification_channel_physical_keyboard">Fizična tipkovnica</string>
     <string name="notification_channel_retail_mode">Predstavitev za maloprodajo</string>
   <string name="notification_channel_security">Varnost</string>
-    <string name="notification_channel_sim">Stanje kartica SIM</string>
+    <string name="notification_channel_sim">Stanje kartice SIM</string>
     <string name="notification_channel_sms">Sporočila SMS</string>
     <string name="notification_channel_system_changes">Sistemske spremembe</string>
     <string name="notification_channel_updates">Posodobitve</string>
@@ -2222,20 +2222,20 @@ Preostalo poskusov :"</string>
   <string name="wfcDataSpnFormat">%s</string>
     <string name="wfcRegErrorTitle">Klicanja prek WiFi-ja ni bilo mogoče nastaviti</string>
   <string name="wfcSpnFormat">%s</string>
-    <string name="wfcSpnFormat_spn_vowifi">Govor prek Wi-Fi-ja operaterja %s</string>
-    <string name="wfcSpnFormat_spn_wifi">Wi-Fi operaterja %s</string>
-    <string name="wfcSpnFormat_spn_wifi_calling">Klicanje prek Wi-Fi-ja operaterja %s</string>
+    <string name="wfcSpnFormat_spn_vowifi">Govor prek WiFi-ja operaterja %s</string>
+    <string name="wfcSpnFormat_spn_wifi">WiFi operaterja %s</string>
+    <string name="wfcSpnFormat_spn_wifi_calling">Klicanje prek WiFi-ja operaterja %s</string>
     <string name="wfcSpnFormat_spn_wifi_calling_vo_hyphen">Klicanje prek WiFi-ja pri operaterju %s</string>
     <string name="wfcSpnFormat_spn_wlan_call">Klic prek omrežja WiFi operaterja %s</string>
-    <string name="wfcSpnFormat_vowifi">Govor prek Wi-Fi-ja</string>
-    <string name="wfcSpnFormat_wifi">Wi-Fi</string>
-    <string name="wfcSpnFormat_wifi_calling">Klicanje prek Wi-Fi-ja</string>
+    <string name="wfcSpnFormat_vowifi">Govor prek WiFi-ja</string>
+    <string name="wfcSpnFormat_wifi">WiFi</string>
+    <string name="wfcSpnFormat_wifi_calling">Klicanje prek WiFi-ja</string>
     <string name="wfcSpnFormat_wifi_calling_bar_spn">Klicanje prek WiFi-ja | %s</string>
-    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Klicanje prek Wi-Fi-ja</string>
+    <string name="wfcSpnFormat_wifi_calling_wo_hyphen">Klicanje prek WiFi-ja</string>
     <string name="wfcSpnFormat_wlan_call">Klic prek omrežja WiFi</string>
     <string name="wfc_mode_cellular_preferred_summary">Klic prek mobilnega omrežja</string>
-    <string name="wfc_mode_wifi_only_summary">Samo Wi-Fi</string>
-    <string name="wfc_mode_wifi_preferred_summary">Klic prek omrežja Wi-Fi</string>
+    <string name="wfc_mode_wifi_only_summary">Samo WiFi</string>
+    <string name="wfc_mode_wifi_preferred_summary">Klic prek omrežja WiFi</string>
     <string name="whichApplication">Dokončanje dejanja z</string>
   <string name="whichApplicationLabel">Izvedba dejanja</string>
   <string name="whichApplicationNamed">Dokončanje dejanja z aplikacijo %1$s</string>
@@ -2303,7 +2303,7 @@ Preostalo poskusov :"</string>
   <string name="wifi_suggestion_action_allow_app">Da</string>
   <string name="wifi_suggestion_action_disallow_app">Ne</string>
     <string name="wifi_suggestion_content">Predlagala aplikacija %s</string>
-    <string name="wifi_suggestion_title">Želite vzpostaviti povezavo z omrežji Wi-Fi?</string>
+    <string name="wifi_suggestion_title">Želite vzpostaviti povezavo z omrežji WiFi?</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_wakeup_enabled_content">Ste v bližini shranjenega omrežja: %1$s</string>
     <string name="wifi_wakeup_enabled_title">WiFi je bil vklopljen samodejno</string>

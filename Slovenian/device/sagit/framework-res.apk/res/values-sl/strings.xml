@@ -586,7 +586,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
     <string name="kg_puk_enter_puk_hint">Kartica SIM je onemogočena. Če želite nadaljevati, vnesite kodo PUK. Za dodatne informacije se obrnite na operaterja.</string>
     <string name="kg_reordering_delete_drop_target_text">Odstrani</string>
     <string name="kg_sim_pin_instructions">Vnesite PIN za kartico SIM</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartica SIM ...</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
     <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
@@ -661,9 +661,9 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
     <string name="lockscreen_instructions_when_pattern_enabled">Če želite odkleniti napravo ali opraviti klic v sili, pritisnite meni.</string>
   <string name="lockscreen_low_battery">Priključite polnilec.</string>
     <string name="lockscreen_missing_sim_instructions">Vstavite kartico SIM.</string>
-    <string name="lockscreen_missing_sim_instructions_long">Ni kartica SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
-    <string name="lockscreen_missing_sim_message">V telefonu ni kartica SIM.</string>
-    <string name="lockscreen_missing_sim_message_short">Ni kartica SIM</string>
+    <string name="lockscreen_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
+    <string name="lockscreen_missing_sim_message">V telefonu ni kartice SIM.</string>
+    <string name="lockscreen_missing_sim_message_short">Ni kartice SIM</string>
     <string name="lockscreen_network_locked_message">Omrežje je zaklenjeno</string>
     <string name="lockscreen_password_wrong">Poskusite znova</string>
     <string name="lockscreen_pattern_correct">Pravilno.</string>
@@ -678,7 +678,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
     <string name="lockscreen_sim_locked_message">Kartica SIM je zaklenjena.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Preberite uporabniški priročnik ali se obrnite na oddelek za skrb za stranke.</string>
     <string name="lockscreen_sim_puk_locked_message">Kartica SIM je zaklenjena s kodo PUK.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartica SIM ...</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
     <string name="lockscreen_sound_off_label">Izklopi zvok</string>
     <string name="lockscreen_sound_on_label">Vklopi zvok</string>
     <string name="lockscreen_storage_locked">Odklenite za dostop do vseh opravil in podatkov</string>
@@ -748,7 +748,7 @@ Znova poskusite čez %d s."</string>
     <string name="more_item_label">Več</string>
     <string name="muted_by">Izklop zvoka: %1$s</string>
     <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti, vnesite kodo PUK.</string>
-    <string name="needPuk2">Če želite odstraniti blokiranje kartica SIM, vnesite PUK2.</string>
+    <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM, vnesite PUK2.</string>
   <string name="negative_duration">-%1$s</string>
     <string name="network_available_sign_in">Prijava v omrežje</string>
     <string name="network_logging_notification_text">Vaša organizacija upravlja to napravo in lahko nadzira omrežni promet. Dotaknite se za podrobnosti.</string>
