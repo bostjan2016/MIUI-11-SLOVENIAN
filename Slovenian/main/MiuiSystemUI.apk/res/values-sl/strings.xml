@@ -2241,6 +2241,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="wifi_not_in_range">Ni v obsegu</string>
     <string name="wifi_remembered">Shranjeno</string>
   <string name="wifi_scan_throttling">WiFi skeniranje dušenja</string>
+  <string name="wifi_scan_throttling_summary">Zmanjšuje praznjenje baterije &amp; izboljšuje zmogljivost omrežja</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Brez</string>

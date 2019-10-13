@@ -189,6 +189,9 @@
   <string name="setup_work_profile">Nastavitev profila</string>
   <string name="speed_bump_lockout_message">Osredotočite se na cesto</string>
   <string name="stop_setup_reset_device_question">Ali želite ustaviti nastavitev in vrniti napravo na privzeto?</string>
+  <string name="sud_back_button_label">Nazaj</string>
+  <string name="sud_more_button_label">Več</string>
+  <string name="sud_next_button_label">Naprej</string>
   <string name="sure_you_want_to_delete_profile">Če nadaljujete bodo izbrisane vse aplikacije in podatki v tem profilu.</string>
   <string name="suw_back_button_label">Nazaj</string>
   <string name="suw_more_button_label">Več</string>

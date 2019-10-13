@@ -35,7 +35,9 @@
   <string name="enable_accessibility_dialog_message">Vključili ste TalkBack s pritiskom na zaslon z 2 prstoma dlje od 10 sekund. TalkBack ponuja govorne povratne informacije osebam z poškodbo vida. Če ste ga vključili slučajno tapnite tipko Prekliči, potem pa dvakrat tapnite zaslon.</string>
   <string name="enable_accessibility_dialog_negative_btn">Prekliči</string>
   <string name="enable_accessibility_dialog_positive_btn">V redu</string>
-  <string name="fail_to_generate_qr_code">Ne morem generirati QR kodo. Ponovno naložite to stran.</string>
+  <string name="fail_to_generate_qr_code">"Ne morem generirati QR kodo. Ponovno naložite to stran."</string>
+  <string name="font_hint_large">Privzeta velikost teksta</string>
+  <string name="font_hint_normal">Povečaj velikost teksta</string>
   <string name="ime_privacy_policy">Pravila o zasebnosti za izbrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Ni omrežja. Poglejte Pravila o zasebnosti za to tipkovnico na %s.</string>
   <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
@@ -95,6 +97,10 @@ Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="sim_dectection_next">Nadaljuj</string>
   <string name="sim_redetection">Preveri ponovno</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Vaša SIM kartica se ni mogla povezati na omrežje. Preverite ali imate dovolj sredstev na svojem računu in poskusite ponovno."</string>
+  <string name="skip_gesture_guide_dialog_message">Preden izberete gibe celega zaslona se jih naučite uporabljati.</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">Prekliči</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">V redu</string>
+  <string name="skip_gesture_guide_dialog_title">Gibi celega zaslona</string>
   <string name="skip_underline">Preskoči ta korak</string>
   <string name="start_up_slogan">Obiščite MIUI Adria</string>
   <string name="summary_not_set">Ni nastavljeno</string>
@@ -110,6 +116,7 @@ Morate se strinjati z Facemoji Pravila o zasebnosti pred uporabo te storitve."</
 
 Morate se strinjati z Kika Pravila o zasebnosti pred uporabo te storitve."</string>
   <string name="terms_of_use_lable_gms">, Storitve Google Playa</string>
+   <string name="terms_of_use_label_updater">, Posodabljanje</string>
   <string name="terms_of_use_lable_smart_cards">, Pametne kartice</string>
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Pravila o zasebnosti</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Pravila o zasebnosti</string>

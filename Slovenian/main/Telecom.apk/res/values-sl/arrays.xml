@@ -237,6 +237,7 @@
         <item>Qualcomm® aptX™ avdio</item>
         <item>Qualcomm® aptX™ HD avdio</item>
         <item>LDAC</item>
+	<item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Omogočanje izbirnih kodekov</item>
         <item>Onemogočanje izbirnih kodekov</item>
      </string-array>

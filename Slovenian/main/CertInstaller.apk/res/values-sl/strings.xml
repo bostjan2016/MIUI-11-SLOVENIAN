@@ -1,9 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_missing_private_key">Za nameščanje certifikata je potreben zasebni ključ</string>
+  <string name="action_missing_user_cert">Za nameščanje zasebnega ključa je potreben certifikat</string>
   <string name="app_name">Namestitvena aplikacija za potrdilo</string>
   <string name="cert_is_added">%s je nameščen.</string>
   <string name="cert_missing_error">Namestitev ni uspela ker ni bilo mogoče najti datoteke s potrdilom.</string>
-  <string name="cert_not_saved">Potrdilo ni nameščeno.</string>
+  <string name="cert_not_saved">"Potrdilo ni nameščeno."</string>
   <string name="cert_read_error">Namestitev ni uspela ker ni bilo mogoče prebrati datoteke s potrdilom.</string>
   <string name="cert_too_large_error">Namestitev ni uspela ker je potrdilo preveliko.</string>
   <string name="certificate_capabilities_warning">Pozor: izdajatelj tega certifikata lahko pregleduje ves promet iz naprave in vanjo.</string>
@@ -34,9 +36,10 @@
   <string name="pick_file_title">Izberite potrdilo</string>
   <string name="pkcs12_file_password_dialog_title">Ekstrahiraj iz %s</string>
   <string name="pkcs12_password_dialog_title">Izvozi potrdilo</string>
-  <string name="sdcard_not_present">Zunanji pomnilnik ni na voljo.</string>
-  <string name="storage_error">Potrdila ni bilo mogoče shraniti. Če želite poskusiti znova se dotaknite možnosti »V redu«.</string>
-  <string name="unable_to_save_cert">Potrdila ni bilo mogoče shraniti. Shramba poverilnic ni omogočena ali pravilno inicializirana.</string>
+  <string name="sdcard_not_present">"Zunanji pomnilnik ni na voljo."</string>
+  <string name="storage_error">"Potrdila ni bilo mogoče shraniti. Če želite poskusiti znova se dotaknite možnosti V redu."</string>
+  <string name="unable_to_save_cert">"Potrdila ni bilo mogoče shraniti. Shramba poverilnic ni omogočena ali pravilno inicializirana."</string>
+  <string name="userkey_type">Algoritem:</string>
   <string name="wifi_cancel_label">Prekliči</string>
   <string name="wifi_config_text">"Ime: %1$s
 FQDN: %2$s

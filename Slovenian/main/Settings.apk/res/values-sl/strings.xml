@@ -5102,6 +5102,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="notification_reboot_summary_hm">Tapni za ponovni zagon naprave.</string>
   <string name="notification_reboot_title">Ponovno zaženi za uporabo posodobitev</string>
   <string name="notification_reboot_title_hm">Ponovno zaženi za uporabo posodobitev</string>
+  <string name="notification_remind">Obvestila</string>
   <string name="notification_ringtone_title">Privzeti ton zvonenja za obvestila</string>
   <string name="notification_section_header">Obvestilo</string>
   <string name="notification_settings">Zvok in obvestilo</string>
@@ -5137,7 +5138,6 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
     <string name="notifications_partly_blocked">%1$d od %2$d kategorij je izklopljenih</string>
     <string name="notifications_priority">Način »ne moti« je preglašen</string>
   <string name="notifications_redacted">Občutljiva vsebina ni na zaklenjenem zaslonu</string>
-  <string name="notification_remind">Obvestila</string>
   <string name="notifications_sensitive">Občutljiva vsebina skrita</string>
     <string name="notifications_sent_daily">~%1$s na dan</string>
     <string name="notifications_sent_never">Nikoli</string>
@@ -6145,9 +6145,11 @@ Vmesnik UT: %5$s"</string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
     <string name="reset_dashboard_summary">Ponastavite lahko omrežje, aplikacije ali napravo</string>
     <string name="reset_dashboard_title">Ponastavi možnosti</string>
-  <string name="reset_default_apn_failed">Ponastavitev privzete apn ni uspela</string>
+  <string name="reset_default_apn_failed">Ponastavitev privzete APN ni uspela</string>
     <string name="reset_esim_desc">Iz telefona boste izbrisali vse digitalne kartice e-SIM. Za vnovičen prenos digitalnih kartic e-SIM se boste morali obrniti na operaterja. Z izbrisom ne boste prekinili naročniškega paketa za mobilno telefonijo.</string>
-    <string name="reset_esim_error_msg">Kartic e-SIM ni mogoče ponastaviti zaradi napake.</string>
+    <string name="reset_esim_error_msg">Kartic e-SIM ni mogoče ponastaviti zaradi napake.
+
+Ponovno zaženite napravo is spet poskusite."</string>
     <string name="reset_esim_error_title">Kartic e-SIM ni mogoče ponastaviti</string>
     <string name="reset_esim_title">Ponastavi tudi kartico e-SIM</string>
   <string name="reset_legacy_password_settings_preface_text">Obnoviti morate vaše geslo za zaklepanje zaslona.</string>
@@ -6816,7 +6818,13 @@ To velja za vse uporabnike telefona."</string>
     <string name="security_settings_face_enroll_error_timeout_dialog_message">Dosežena časovna omejitev za včlanitev obraza. Poskusite znova.</string>
     <string name="security_settings_face_enroll_finish_title">Vse je pravilno nastavljeno.</string>
     <string name="security_settings_face_enroll_introduction_accessibility">Uporabi nastavitev dostopnosti</string>
+  <string name="security_settings_face_enroll_introduction_accessibility_diversity"/>
+  <string name="security_settings_face_enroll_introduction_accessibility_expanded"/>
+  <string name="security_settings_face_enroll_introduction_accessibility_vision"/>
   <string name="security_settings_face_enroll_introduction_cancel">Prekliči</string>
+  <string name="security_settings_face_enroll_introduction_footer_part_1"/>
+  <string name="security_settings_face_enroll_introduction_footer_part_2"/>
+  <string name="security_settings_face_enroll_introduction_footer_part_3"/>
     <string name="security_settings_face_enroll_introduction_message">Uporabljajte obraz za odklepanje telefona, odobritev nakupov ali prijavo v aplikacije.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">Uporabljajte obraz za odklepanje telefona, odobritev nakupov ali prijavo v aplikacije</string>
     <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"Z obrazom odklenite telefon ali odobrite nakupe.
@@ -6852,7 +6860,9 @@ Prav tako lahko telefon odklene nekdo, ki vam je zelo podoben, na primer vaš ot
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ime</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">V redu</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">Funkcijo Pixel Imprint lahko razen za odklepanje telefona uporabljate tudi za odobritev nakupov in dostop do aplikacij. <annotation id="url">Več o tem</annotation></string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika organizacije. "<annotation id="admin_details">Več podrobnosti</annotation>"Prstni odtis lahko še naprej uporabljate za potrjevanje nakupov in dostop do aplikacij. "<annotation id="url">Več o tem</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" Možnost zaklepanja zaslona je onemogočena. Če želite izvedeti več, se obrnite na skrbnika organizacije. "<annotation id="admin_details">Več podrobnosti</annotation>"
+
+Prstni odtis lahko še naprej uporabljate za potrjevanje nakupov in dostop do aplikacij. "<annotation id="url">Več o tem</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Končano</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">Pozneje</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registracija ni dokončana</string>
@@ -8218,7 +8228,7 @@ Vam je všeč Mi Mover?"</string>
   <string name="tts_engine_security_warning">Ta mehanizem za sintezo govora bo morda lahko zbiral izgovorjeno besedilo, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga mehanizem %s. Ali želite omogočiti uporabo tega mehanizma za sintezo govora?</string>
   <string name="tts_engine_settings_button">Zagon nastavitev mehanizma</string>
   <string name="tts_engine_settings_section">Nastavitve mehanizma</string>
-  <string name="tts_engine_settings_title">Nastavitve za %s</string>
+  <string name="tts_engine_settings_title">Nastavitve orodja</string>
   <string name="tts_engines_section">Mehanizmi</string>
   <string name="tts_general_section_title">Splošno</string>
   <string name="tts_install_data_summary">Namestite govorne datoteke ki jih potrebujete za sintezo govora</string>
@@ -8973,10 +8983,10 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
     <string name="webview_disabled_for_user">(onemogočeno za uporabnika %s)</string>
     <string name="webview_license_title">Licenca za WebView v sistemu</string>
     <string name="webview_uninstalled_for_user">(odstranjeno za uporabnika %s)</string>
-  <string name="welcome">Dobrodošli</string>
   <string name="weight_heavy">Krepko</string>
   <string name="weight_light">Tenko</string>
   <string name="weight_setting_toast">Debelino fontov lahko zamenjate samo za privzeti font sistema</string>
+  <string name="welcome">"Dobrodošli!"</string>
     <string name="wfc_disclaimer_agree_button_text">NADALJUJ</string>
     <string name="wfc_disclaimer_disagree_text">NE, HVALA</string>
     <string name="wfc_disclaimer_emergency_limitation_desc_text">"Vaš operater ne podpira klicev v sili, opravljenih s funkcijo Klicanje prek Wi-Fi-ja.
@@ -9249,6 +9259,11 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_frequency">Frekvenca</string>
   <string name="wifi_gateway">Prehod</string>
   <string name="wifi_gateway_hint">192.168.1.1</string>
+  <string name="wifi_generation">Uporabite generične in določene ikone</string>
+  <string name="wifi_generation_icon_display">Ikone</string>
+  <string name="wifi_generation_status">WiFi %1$d</string>
+  <string name="wifi_generation_summary">Najprej dodajte številko generacije brezžične tehnologije na ikono WiFi</string>
+  <string name="wifi_generation_title">Tehnologija</string>
   <string name="wifi_hand_sel_wapi_cert">WAPI certifikat</string>
     <string name="wifi_hidden_network">Skrito omrežje</string>
     <string name="wifi_hidden_network_warning">"Če vaš usmerjevalnik ne oddaja omrežnega ID-ja, vendar se želite povezati z njim v prihodnosti, lahko omrežje nastavite kot skrito.

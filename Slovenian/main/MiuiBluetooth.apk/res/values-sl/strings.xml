@@ -42,6 +42,7 @@
   <string name="bluetooth_preference_found_devices">Naprave na voljo</string>
   <string name="bluetooth_preference_scan_title">Najdi naprave</string>
   <string name="bluetooth_search_for_devices">najdi naprave</string>
+  <string name="copy">Kopiraj</string>
   <string name="device_picker">Nastavitve Bluetooth naprave</string>
   <string name="disconnect">Prekini povezavo</string>
   <string name="expand_button_title">Napredno</string>
@@ -78,10 +79,12 @@
   <string name="mi_key_summary_open_camera">2x klikni Mi Key za aktiviranje Kamere</string>
   <string name="mi_key_summary_take_photo">1x klikni Mi Key za fotografiranje</string>
   <string name="mi_key_take_photo">Posnemi fotografijo</string>
+  <string name="not_set">Ni nastavljeno</string>
   <string name="notify_device_lose_connection_text">pritisnite za prekinitev povezave z %1$s.</string>
   <string name="notify_device_lose_connection_title">Povezava z %1$s je izgubljena</string>
   <string name="ok_button">"V redu"</string>
   <string name="progress_scanning">Iskanje…</string>
+  <string name="preference_copied">\"%1$s\" kopirano v odložišče.</string>
   <string name="reset_function_msg">Ponastavitev te storitve lahko prepreči %1$s normalno delo.</string>
   <string name="search_menu_title">Išči</string>
   <string name="some_app_taking">(%1$s že uporablja to opravilo…)</string>
