@@ -49,7 +49,7 @@
   <string name="accept">Sprejmem</string>
   <string name="accessibility_binding_label">Dostopnost</string>
   <string name="accessibility_button_instructional_text">Za spreminjanje tapnite in držite gumb Dostopnost.</string>
-  <string name="accessibility_button_prompt_text">Izberite značajku kaj boste uporabljali ko tapnete gumb Dostopnost:</string>
+  <string name="accessibility_button_prompt_text">Izberite storitev, ki jo želite uporabljati ko tapnete gumb Dostopnost:</string>
   <string name="accessibility_enabled">Dostopnost je omogočena.</string>
     <string name="accessibility_gesture_3finger_instructional_text">Če želite preklopiti med storitvami, s tremi prsti povlecite navzgor in pridržite.</string>
     <string name="accessibility_gesture_3finger_prompt_text">Izberite storitev, ki jo želite zagnati s potezo za ljudi s posebnimi potrebami (vlečenje s tremi prsti z dna zaslona navzgor):</string>

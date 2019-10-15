@@ -9,16 +9,16 @@
          <item quantity="one">%1$s slika za ozadje</item>
      </plurals>
 	 <plurals name="llks_tools_remote_control_data">
-        <item quantity="other">Stvari: %d</item>
-        <item quantity="one">%d stvar</item>
+        <item quantity="other">Stvari: %s</item>
+        <item quantity="one">%s stvar</item>
     </plurals>
     <plurals name="llks_tools_smart_devices_data">
-        <item quantity="other">%d naprav</item>
-        <item quantity="one">%d naprava</item>
+        <item quantity="other">%s naprav</item>
+        <item quantity="one">%s naprava</item>
     </plurals>
 	<plurals name="feed_article_entrance_title">
-        <item quantity="other">%d člankov na tej temi</item>
-        <item quantity="one">%d članek na tej temi</item>
+        <item quantity="other">%s člankov na tej temi/item>
+        <item quantity="one">%s članek na tej temi/item>
      </plurals>
      <plurals name="time_day_ago">
         <item quantity="other">pred %d dni</item>
@@ -32,4 +32,7 @@
         <item quantity="other">pred %d min</item>
         <item quantity="one">pred %d min</item>
      </plurals>
+	 <plurals name="wm_cw_count">
+        <item quantity="other">%d slik</item>
+        <item quantity="one">%d slika</item>
 </resources>
