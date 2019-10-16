@@ -351,7 +351,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_manual_buy_vip">Dobite več prostora za shranjevanje</string>
   <string name="micloud_manual_cloud_storage_full_button_text">Dobite več prostora za shranjevanje</string>
   <string name="micloud_manual_cloud_storage_full_summary">"Ne morem sinhronizirati fotografije, stike in druge stvari. Nadgradite svoj plan ali osvobodite prostor za shranjevanje."</string>
-  <string name="micloud_manual_cloud_storage_full_title">"Ne morem sinkronizirati. Ni dovolj prostora v Mi Cloudu."</string>
+  <string name="micloud_manual_cloud_storage_full_title">"Ne morem sinhronizirati. Ni dovolj prostora v Mi Cloudu."</string>
   <string name="micloud_manual_cloud_storage_low_button_text">Dobite več prostora za shranjevanje</string>
   <string name="micloud_manual_cloud_storage_low_summary">Zmanjkuje prostora v Mi Cloudu</string>
   <string name="micloud_manual_cloud_storage_low_title">Sinhronizirano</string>

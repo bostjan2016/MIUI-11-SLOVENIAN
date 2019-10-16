@@ -185,6 +185,7 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hitro brisanje</string>
   <string name="pref_title_todo_float_mode">Uporabite orodje z nalogami</string>
   <string name="pref_title_todo_shorcut">Orodje z nalogami</string>
+  <string name="privacy_note_content_empty">Tu še ni ničesar.</string>
   <string name="privacy_hint">Zasebnost</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>
   <string name="recover_notes_hint">Prišlo je do napake, pojdite na i.mi.com da vrnete beležke.</string>

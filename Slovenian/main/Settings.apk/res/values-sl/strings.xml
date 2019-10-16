@@ -423,7 +423,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="ambient_display_pickup_title">Preverjanje telefona z dvigom</string>
     <string name="ambient_display_screen_summary_always_on">Vedno vključeno/višja poraba energije akumulatorja</string>
     <string name="ambient_display_screen_summary_notifications">Nova obvestila</string>
-    <string name="ambient_display_screen_title">Prikaz na podlagi okolja</string>
+  <string name="ambient_display_screen_title">Always-on zaslon</string>
     <string name="ambient_display_summary">Če želite preveriti uro, obvestila in druge informacije, se dvakrat dotaknite zaslona.</string>
     <string name="ambient_display_tap_screen_summary">Če želite preveriti uro, obvestila in druge informacije, se dotaknite zaslona.</string>
     <string name="ambient_display_tap_screen_title">Dotik za preverjanje telefona</string>
@@ -451,7 +451,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
     <string name="another_migration_already_in_progress">Poteka že druga selitev.</string>
   <string name="anr_record_interval_title">Posnemi ANR intervale</string>
   <string name="anti_spam">Seznam blokiranih</string>
-  <string name="aod_and_lock_screen_settings_title">Ambientalni zaslon &amp; Zakl. zaslon</string>
+  <string name="aod_and_lock_screen_settings_title">Always-on zaslon &amp; Zakl. zaslon</string>
   <string name="aod_clock_style_title">Stil ure</string>
   <string name="aod_close_color_inversion">"To opravilo se ne more kombinirati z inverzijo barv. Izključite jo."</string>
   <string name="aod_dual_togother">HH:MM</string>
@@ -468,7 +468,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="aod_mode_title">Zmeraj vključen delovni način</string>
   <string name="aod_mode_turn_off">Izključi</string>
   <string name="aod_mode_turn_on">Vključi</string>
-  <string name="aod_name_wanxiang">Ambientalni zaslon</string>
+  <string name="aod_name_wanxiang">Always-on zaslon</string>
   <string name="aod_notification_style_animation">Pokaži animacijo</string>
   <string name="aod_notification_style_none">Nič</string>
   <string name="aod_notification_style_screen_on">Vključi zaslon</string>
@@ -477,8 +477,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="aod_sample_hour_vertical">02</string>
   <string name="aod_sample_minute">38</string>
   <string name="aod_sample_time">2:38</string>
-  <string name="aod_settings_category_name">Ambientalni zaslon</string>
-  <string name="aod_settings_title">Ambientalni zaslon</string>
+  <string name="aod_settings_category_name">Always-on zaslon</string>
+  <string name="aod_settings_title">Always-on zaslon</string>
   <string name="aod_show_mode_title">Prikaži stvari</string>
   <string name="aod_style_description">Prikaži uro, datum, čas, obvestila in druge stvari ko je zaslon izključen</string>
   <string name="aod_style_title">Stil</string>
@@ -3629,7 +3629,7 @@ Nastavitev lahko pozneje spremenite v »Nastavitve > Aplikacije in obvestila«."
   <string name="keywords_airplane">Letalo;Letalski način;Letalo;Letalski način;Let;Način letenja</string>
     <string name="keywords_all_apps">aplikacije, prenos, aplikacije, sistem</string>
     <string name="keywords_ambient_display">dohodno obvestilo</string>
-    <string name="keywords_ambient_display_screen">prikaz na podlagi okolja, prikaz na zaklenjenem zaslonu</string>
+    <string name="keywords_ambient_display_screen">Always-on zaslon, prikaz na zaklenjenem zaslonu</string>
     <string name="keywords_android_version">raven varnostnih popravkov za android, različica radijske programske opreme, različica jedra</string>
     <string name="keywords_app">RAM</string>
     <string name="keywords_app_default">Za odpiranje uporabi</string>
@@ -6534,7 +6534,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_airplane">Letalski način;Letalski način;Letalski način;Letalo;Letalo;Let</string>
   <string name="search_airplane_mode">Letalski način;Letalski način;Način letenja;Letalo;avion;Let</string>
   <string name="search_alarm_sound_title">Zvok Alarma;Zvok alarma;Alarm</string>
-  <string name="search_ambient_display_screen_title">Ambientalni zaslon</string>
+  <string name="search_ambient_display_screen_title">Always-on zaslon</string>
   <string name="search_android_beam_settings_title">NFC;Android Beam;Beam</string>
   <string name="search_apn_settings">APN;Imena dostopnih točk</string>
   <string name="search_app_invisible">Aplik. skrita;Skrite aplikacije</string>

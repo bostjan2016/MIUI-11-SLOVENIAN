@@ -156,7 +156,7 @@
   <string name="date_today">" (danes) "</string>
   <string name="day_picker_description">Mesečni izbirnik dni</string>
   <string name="day_view">Dan</string>
-  <string name="day_view_new_event_hint">+ Nov dogodek</string>
+  <string name="day_view_new_event_hint">Nov dogodek</string>
   <string name="default_reminder_later_time">Privzeti interval za \"Opomni kasneje\"</string>
   <string name="default_reminder_mode">Opomniki</string>
   <string name="delete_calendar">Izbriši</string>
@@ -233,7 +233,7 @@
   <string name="event_info_reminders_label">Opomniki</string>
   <string name="event_info_reminders_label_1">Opomnik</string>
   <string name="event_info_repeat">Ponovi</string>
-  <string name="event_info_title">Pokaži dogodek</string>
+  <string name="event_info_title">Podrobnosti o dogodku</string>
   <string name="event_info_title_anniversary">Obletnica</string>
   <string name="event_info_title_birthday">Rojstni dan</string>
   <string name="event_info_title_countdown">Odštevanje</string>
@@ -336,7 +336,7 @@
   <string name="month_medium_september">Sep</string>
   <string name="month_view">Mesec</string>
   <string name="monthly">Mesečno</string>
-  <string name="monthly_on_day">Mesečno (na isti dan vsak mesec)</string>
+  <string name="monthly_on_day">Mesečno (isti datum)</string>
   <string name="monthly_on_day_count">Mesečno (%1$s)</string>
   <string name="more_string">+%1$d</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
@@ -504,6 +504,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="setting_holiday_reminder">Opomnik praznikov</string>
   <string name="setting_others">Ostalo</string>
   <string name="setting_title_about">O aplikaciji</string>
+  <string name="setting_show_reject_agenda">Pokaži zavrnjene dogodke</string>
   <string name="setting_title_holiday_display">Pokaži praznike</string>
   <string name="setting_title_import_todo">Uvozi naloge</string>
   <string name="shortcut_new_event">Dodaj dogodek</string>

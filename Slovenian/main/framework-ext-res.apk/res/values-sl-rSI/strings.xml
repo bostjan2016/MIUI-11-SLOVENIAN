@@ -84,8 +84,9 @@
   <string name="handy_mode_summary">Da zaprete se dotaknite temnega področja zaslona</string>
   <string name="handy_mode_title">Delo z eno roko</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Postavite vaš prst na gumb Domov</string>
+  <string name="input_method_clipboard_tips">Kopirane stvari bodo izbrisane iz odložišča po 48 urah</string>
   <string name="input_method_edit_phrase_text">Uredite pogoste izraze</string>
-  <string name="input_method_no_content_text">Nič še ni tu</string>
+  <string name="input_method_no_content_text">Tu še ni ničesar</string>
   <string name="input_method_switch_settings_text">Nastavitve tipkovnice</string>
   <string name="input_method_tab_clipboard_text">Medpomnilnik</string>
   <string name="input_method_tab_phrase_text">Pogosti izrazi</string>

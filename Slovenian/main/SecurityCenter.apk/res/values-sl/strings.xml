@@ -764,10 +764,14 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cta_button_text_cancel">Prekliči</string>
   <string name="cta_checkbox_title">Ne kaži več</string>
   <string name="cta_dialog_negative">Izhod</string>
+  <string name="cta_HIPS_Perm_Location_Desc">dobiti točn0 lokacijo (GPS in omrežje)</string>
+  <string name="cta_close_dialog_cancel">Prekliči</string>
+  <string name="cta_close_dialog_content">"Če omejiteaplikaciji varnost dostop do spleta in vaše lokacije ne boste dobili opozoril o potresih, posodobili definicije virusov in informacij seznama blokiranih. Vaša naprava bo postala manj varna. Vseeno omejim?"</string>
+  <string name="cta_close_dialog_ok">Omeji</string>
+  <string name="cta_close_dialog_title">Omejitev dostopa</string>
   <string name="cta_dialog_positive">Strinjam se</string>
-  <string name="cta_dialog_title">Pogoji in storitve</string>
-  <string name="cta_HIPS_Perm_Location_Desc">dobi natančno lokacijo (bazirano na GPS in omrežju)</string>
-  <string name="cta_settings">Dovoli spletno povezavo</string>
+  <string name="cta_dialog_title">Pogoji in pravila</string>
+  <string name="cta_settings">Dovoli povezovanje na splet in dostop do lokacije</string>
   <string name="cta_main_purpose">Dobrodošli v varnost! Z njo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost za igre, prihranite baterijo, urejate aplikacije in še veliko več.</string>
   <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
   <string name="customize_limit_pkg">%s (prilagojeno)</string>
@@ -1752,7 +1756,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="mixed_password_confirmed_header_confirm">Uspešno nastavljeno. Pritisnite za potrditev.</string>
   <string name="mixed_password_confirmed_header_continue">Uspešno nastavljeno. Pritisnite \"Naprej\".</string>
   <string name="mixed_pattern_entered_header">Geslo uspešno nastavljeno</string>
-  <string name="mixed_recording_intro_header">Vnesite vsaj 4 znake</string>
+  <string name="mixed_recording_intro_header">Vnesite od %1$s-%2$s znakov</string>
   <string name="mixed_retry_button_text">Prekini</string>
   <string name="mixed_settings_help_how_to_record">Kako nastaviti geslo</string>
   <string name="modify_password_mode">Spremeni vrsto gesla</string>
