@@ -17,8 +17,8 @@
         <item quantity="one">%s naprava</item>
     </plurals>
 	<plurals name="feed_article_entrance_title">
-        <item quantity="other">%s člankov na tej temi/item>
-        <item quantity="one">%s članek na tej temi/item>
+        <item quantity="other">%s člankov na tej temi</item>
+        <item quantity="one">%s članek na tej temi</item>
      </plurals>
      <plurals name="time_day_ago">
         <item quantity="other">pred %d dni</item>
@@ -35,4 +35,5 @@
 	 <plurals name="wm_cw_count">
         <item quantity="other">%d slik</item>
         <item quantity="one">%d slika</item>
+     </plurals>		 
 </resources>
