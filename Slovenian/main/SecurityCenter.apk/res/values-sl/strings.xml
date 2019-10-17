@@ -2747,6 +2747,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih ponovno vključite</string>
   <string name="shield_keyboard_summary">Omejite tipke in gibe celega zaslona med igrami</string>
   <string name="shield_keyboard_title">Omeji tipke in gibe</string>
+  <string name="shortcut_title_scan">Skeniraj</string>
+  <string name="shortcut_title_whatsapp_clean">WhatsApp čistilec</string>
   <string name="show_system_app">Pokaži sistemske aplikacije</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to opravilo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Pokaži porabo v plošči obvestil</string>

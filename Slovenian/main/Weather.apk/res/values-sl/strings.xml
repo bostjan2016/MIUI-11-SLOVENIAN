@@ -165,6 +165,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="international_details_wind_title">Veter</string>
   <string name="international_version_first_start_network_msg">Z uporabo te aplikacije se strinjate z %1$s in %2$s. Ta aplikacija rabi spletno povezavo.</string>
   <string name="it_is_going_to_rain">Deževalo bo</string>
+  <string name="life_index_title">Vremenski indeks</string>
   <string name="locate_fail_detail_err">"Ne morem locirati naprave
 Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="location_management">Lokacije</string>
@@ -227,6 +228,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="privacy_settings">Pravila o zasebnosti</string>
   <string name="pull_fresh_updated">Uspešno posodobljeno</string>
   <string name="pull_fresh_updating">Posodabljanje…</string>
+  <string name="q_version_location_provider_btn_text">Vključite dostop do lokacije in izboljšajte natančnost lokacije</string>
   <string name="radar_cloud_image_title">Mapa Radarja</string>
   <string name="radar_cloud_update_time">Pred %1$s</string>
   <string name="rainfall_settings_summary">Nastavitve padavin</string>
@@ -237,8 +239,9 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="realtime_humidity_title">Vlaga</string>
   <string name="realtime_temperature_no_data">N/A</string>
   <string name="realtime_wind_default_title">Veter</string>
+  <string name="refresh_empty_data">"Ne morem naložiti podatkov. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="refresh_fail">"Ne morem se povezati na omrežje"</string>
-  <string name="reminder_from_xiaomi_weather_app">Opozorila Mi Vreme aplikacije</string>
+  <string name="reminder_from_xiaomi_weather_app">Opozorila aplikacije Vreme</string>
   <string name="request_permission_location_dialog_content">Za prikaz informacij o vremenu ustreznih za vašo trenutno lokacijo</string>
   <string name="request_permission_main_purpose">Prikaz informacij o vremenu</string>
   <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vaše naprave</string>
@@ -283,6 +286,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="updating">Posodabljanje…</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="view_forecast_item_yesterday">Včeraj</string>
+  <string name="view_indexes_item_day_after_tommorrow">Čez 2 dni</string>
   <string name="view_indexes_item_today">Danes</string>
   <string name="view_indexes_item_tommorrow">Jutri</string>
   <string name="warning_weather_day_and_night_settings_summary">Prejemanje dnevnih povzetkov, ki vsebujejo podatke o vremenu ob 7:00 in 19:00</string>
