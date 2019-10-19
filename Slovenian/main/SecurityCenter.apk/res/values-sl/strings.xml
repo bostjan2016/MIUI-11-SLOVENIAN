@@ -3079,21 +3079,19 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo se vam za vključitev v program uporabniških izkušenj. Za normalno delo morate biti povezani na splet. Dati morate tudi naslednja dovoljenja da omogočite zbiranje podatkov ki nam bodo pomagali izboljšati naše izdelke in storitve. Ti podatki se zbirajo samo v statistične namene. Te podatov ne moremo uporabiti za osebno prepoznavo.
 "</string>
   <string name="system_permission_declare_disagree">Ne strinjam se</string>
-  <string name="system_permission_declare_double_link">Preberite in se strinjate z našimi Pogoji uporabe in Pravila o zasebnosti pred uporabo te storitve.</string>
+  <string name="system_permission_declare_double_link">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta aplikacija vam omogoča uporabo: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Ta aplikacija brez dovoljenj ne bo delovala pravilno"</string>
   <string name="system_permission_declare_no_say_no_analytics">"Če ne daste potrebnih dovoljenj se lahko odjavite v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost &gt; Program uporabniških izkušenj."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Ta aplikacija ne bo delovala pravilno brez potrebnih dovoljenj"</string>
-  <string name="system_permission_declare_privacy_declare">"Spoštujemo in ščitimo vašo zasebnost.
-Vedite da  %1s zahteva za normalno delo naslednja dovoljenja:"</string>
-  <string name="system_permission_declare_privacy_no_permission">"Vedite da mora %1s zbrati vaše podatke za normalno delo.
-Spoštujemo in ščitimo vašo zasebnost."</string>
-  <string name="system_permission_declare_privacy_policy">Prrberite in se strinjajte z našimi &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo.</string>
+  <string name="system_permission_declare_privacy_declare">Spoštujemo in ščitimo vašo zasebnost. Vedite da %1s zahteva za normalno delo naslednja dovoljenja:</string>
+  <string name="system_permission_declare_privacy_no_permission">Vedite da mora %1s zbrati vaše podatke za normalno delo. Spoštujemo in ščitimo vašo zasebnost.</string>
+  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
   <string name="system_permission_declare_revoke_system">Lahko zapustite aplikacijo.</string>
   <string name="system_permission_declare_revoke_uninstallable">Lahko se odjavite, odstranite to aplikacijo ali urejate dovoljenja v Varnost &gt; Aplikacije &gt; Dovoljenja &gt; Dovoljenja.</string>
-  <string name="system_permission_declare_use_network">Povezovanje z omrežjem</string>
-  <string name="system_permission_declare_use_network_no_permission">Poveži se na omrežje</string>
-  <string name="system_permission_declare_user_agreement">Preberite in se strinjajte z našimi &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo.</string>
+  <string name="system_permission_declare_use_network">povezovanje z omrežjem</string>
+  <string name="system_permission_declare_use_network_no_permission">povezovanje z omrežjem</string>
+  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
   <string name="system_permission_perm_answer_call">Klicanje</string>
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje telefonskih številk</string>

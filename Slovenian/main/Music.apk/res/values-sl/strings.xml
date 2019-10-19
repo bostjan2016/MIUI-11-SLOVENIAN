@@ -275,6 +275,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="current_lyric">Trenutni tekst</string>
   <string name="current_services">Trenutno</string>
   <string name="current_version">Trenutna verzija</string>
+  <string name="dark_mode">Temni način</string>
   <string name="data_usage_warning">Uporaba podatkov</string>
   <string name="data_usage_warning_summary">Uporaba mobilne podatkovne povezave za predvajanje visoko kakovostne glasbe lahko poveča stroške.</string>
   <string name="date_format_str">dd-MM-yyyy</string>
@@ -1046,7 +1047,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="save_changes">Shrani spremembe</string>
   <string name="save_to_playlist">Shrani kot seznam pesmi.</string>
   <string name="search_album_and_lyric">Išči ovitke albuma in tekst</string>
-  <string name="search_empty">"Ni zadetka"</string>
+  <string name="search_empty">Nič ne najdem</string>
   <string name="search_empty_subtitle_online_music">Tapnite gumb spodaj za odpiranje %s.</string>
   <string name="search_empty_title_online_music">Tu ni ničesar.</string>
   <string name="search_for_album">Album</string>

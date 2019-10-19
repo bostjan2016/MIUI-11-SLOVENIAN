@@ -82,6 +82,7 @@
 - Statistika aktivnosti in stanja spanja, vključno vrste vaše aktivnosti, trajanje aktivnosti, število korakov, cilje, čas in trajanje spanja kar bo uporabljeno za shranjevanje, prezentacijo in generiranje statistik."</string>
   <string name="dialog_data_collect_title">Osebni podatki</string>
   <string name="dialog_delete">Izbriši</string>
+  <string name="dialog_exercise_purpose">Dobrodošli v aplikaciji Mi zdravje! \"Števec korakov\" omogoča sledenje, koliko korakov ste storili čez dan, ter določanje in upravljanje ciljev. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi za lažje upravljanje.</string>
   <string name="dialog_exit">Izhod</string>
   <string name="dialog_juveniles_details">Po naših Pravilih o zasebnosti, je minimalna starost za uporabo te storitve 18 let.</string>
   <string name="dialog_known">Razumem</string>
