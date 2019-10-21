@@ -104,7 +104,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_status_desc_wait_for_sms">Čakam na aktivacijski SMS s strežnika</string>
   <string name="activate_status_desc_wait_for_sms_fail">"Ni bilo mogoče sprejeti aktivacijskega SMS s strežnika"</string>
   <string name="activate_status_desc_wait_for_sms_success">Sprejet aktivacijski SMS s strežnika</string>
-  <string name="activate_status_title_activating">Aktivacija SIM kartica…</string>
+  <string name="activate_status_title_activating">aktivacija SIM kartice…</string>
   <string name="activate_status_title_activating_msim">Aktivacija SIM kartice %d…</string>
   <string name="agree">Strinjam se</string>
   <string name="app_name">Aktivacija SIM kartice</string>

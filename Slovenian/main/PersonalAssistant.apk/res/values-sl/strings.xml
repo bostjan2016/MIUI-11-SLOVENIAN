@@ -146,8 +146,8 @@
   <string name="cta_dialog_miot_text_all">Za normalno delovanje Mi Home morda potrebuje vaše omrežje, lokacijo, avtorizacijo za vklop Bluetooth povezave, uporabo mobilnega omrežja, mikrofona in branje stikov. Dovolim?</string>
   <string name="cta_dialog_negative">Izhod</string>
   <string name="cta_dialog_positive">Strinjam se</string>
-  <string name="cta_dialog_text_all">Za uporabo Asistenta na dotik morate prebrati in se strinjati z %1$s\"Pogoji uporabe\" %2$s in %3$s \"Pravila o zasebnosti\" %4$s. Potrebna je tudi spletna povezava in dostop do lokacije. Se strinjate?</string>
-  <string name="cta_dialog_text_new_user">"Preberite in se strinjajte z %1$sPogoji uporabe%2$s and %3$sPravila o zasebnosti%4$s</string>
+  <string name="cta_dialog_text_all">Za uporabo morate prebrati in se strinjati z %1$s\"Pogoji uporabe\" %2$s in %3$s \"Pravila o zasebnosti\" %4$s. Potrebna je tudi spletna povezava in dostop do lokacije. Se strinjate?</string>
+  <string name="cta_dialog_text_new_user">"Preberite in se strinjajte z %1$sPogoji uporabe%2$s in %3$sPravila o zasebnosti%4$s</string>
   <string name="cta_dialog_text_old_user">Pred uporabo se morate strinjati z %1$s\"Pravila o zasebnosti\"%2$s. Tapnite \"Začni\" za strinjanje.</string>
   <string name="cta_dialog_title">Pogoji in Pravila</string>
   <string name="cta_negative">Izhod</string>
@@ -268,8 +268,8 @@
   <string name="function_mistore_title">Mi Store</string>
   <string name="function_music_recognize">Prepoznaj pesmi</string>
   <string name="function_music_title">Glasba</string>
-  <string name="function_not_support">"To opravilo ni podprta na tej napravi."</string>
-  <string name="function_open_error_content">"Aplikacija za to bližnjico ni nameščena na napravi. Namestite to aplikacijo ali pa uporabite drugo bližnjico."</string>
+  <string name="function_not_support">"To opravilo ni podprto na tej napravi."</string>
+  <string name="function_open_error_content">"Bližnjica za to aplikacijo ni nameščena na napravi. Namestite to aplikacijo ali pa uporabite drugo bližnjico."</string>
   <string name="function_open_error_content_app">"Ta aplikacija ni nameščena na vaši napravi. Namestite to aplikacijo ali uporabite drugo bližnjico."</string>
   <string name="function_open_error_content_app_xspace">"Ta dvojna aplikacija ni izdelana na vaši napravi. Izdelajte dvojno aplikacijo ali uporabite drugo bližnjico."</string>
   <string name="function_open_error_content_xspace">"Dvojna aplikacija za to bližnjico ni izdelana na vaši napravi. Izdelajte dvojno aplikacijo ali uporabite drugo bližnjico."</string>
