@@ -129,10 +129,17 @@
         <item>5</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minuti</item>
+        <item>2 minute</item>
         <item>5 minut</item>
         <item>1 ura</item>
-        <item>Neomejeno</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Onemogočeno</item>
+        <item>Omogočeno filtrirano</item>
+        <item>Omogočeno filtrirana poglavlja</item>
+        <item>Omogočeno filtrirani paketi predstavnosti</item>
+        <item>Omogočeno</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Slab</item>
@@ -522,6 +529,11 @@
         <item>Največ 2 procesa</item>
         <item>Največ 3 procesi</item>
         <item>Največ 4 procesi</item>
+    </string-array>
+    <string-array name="autofill_logging_level_entries">
+        <item>Izključeno</item>
+        <item>Debug</item>
+        <item>Verbose</item>
     </string-array>
     <string-array name="vpn_types_long">
          <item>PPTP VPN</item>

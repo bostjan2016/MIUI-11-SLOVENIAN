@@ -466,6 +466,8 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_default_setting_label">Privzeta aplik.</string>
   <string name="xspace_description">Dvojne aplikacije so kopije aplikacij ki se lahko uporabijo zasebno z drugim računom.\n\nNekatere dvojne aplikacije zahtevajo podporo Google Services Framework. V teh primerih se ustvari dvojni Google Services Framework.</string>
   <string name="xspace_facebook_title">Facebook</string>
+  <string name="xspace_disable">Ni napravljeno</string>
+  <string name="xspace_enable">Napravljeno</string>
   <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
   <string name="xspace_guide_title">Izdelaj dvojno aplikacijo</string>
   <string name="xspace_header">Dvojne aplikacije</string>
@@ -477,9 +479,12 @@ za vstop v Drugi prostor iz zakl. zaslona"</string>
   <string name="xspace_introduce">Priporočeno</string>
   <string name="xspace_label">Dvojne aplikacije</string>
   <string name="xspace_loading_msg">Nalaganje aplikacij…</string>
+  <string name="xspace_notification">Obvestila dvojnih aplikacij</string>
+  <string name="xspace_notification_error">Prijavite se v dvojni WeChat in poskusite ponovno</string>
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">"Izbriši račune dvojnih aplikacij"</string>
   <string name="xspace_setting_label">Nastavitve dvojne aplikacije</string>
+  <string name="xspace_settins">Nastavi</string>
   <string name="xspace_uninstall_completed">Dvojna aplikacija uspešno odstranjena</string>
   <string name="xspace_uninstall_dialog_content">Odstranitev dvojne aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Odstrani dvojno aplikacijo</string>

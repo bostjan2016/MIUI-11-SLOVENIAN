@@ -17,6 +17,8 @@
   <string name="collapse_handle">Ročica za strnitev</string>
   <string name="connectio_delay_content">Morda boste morali potrditi povezavo na tiskalniku.</string>
   <string name="connectio_help_title">Povezovanje z tiskalnikom</string>
+  <string name="copies_decrease">Minus en izvod</string>
+  <string name="copies_increase">Plus en izvod</string>
   <string name="could_not_create_file">Izdelava datoteke ni uspela</string>
   <string name="delete_saved_printer_content">Izbrišem tiskalnike?</string>
   <string name="destination_default_text">Izberite tiskalnik</string>

@@ -4784,6 +4784,10 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>
   <string name="network_4G">4G (priporočeno)</string>
+  <string name="network_alarm">"Ne utišal spletne klice"</string>
+  <string name="network_alarm_summary">"Opomba: Nekateree aplikacije niso kompatibilne z.%1$s"</string>
+  <string name="network_alarm_summary_reg">Poglejte podprte aplikacije</string>
+  <string name="network_alarm_support_apps">Podprte aplikacije</string>
   <string name="network_assistant">Uporaba podatkov</string>
   <string name="network_changed_noti_summary">Uporaba mobilnih podatkov</string>
   <string name="network_changed_noti_title">Prekinjena WiFi povezava</string>
@@ -8983,6 +8987,7 @@ Ne zapirajte stran pred vzpostavljanjem povezave."</string>
     <string name="webview_disabled_for_user">(onemogočeno za uporabnika %s)</string>
     <string name="webview_license_title">Licenca za WebView v sistemu</string>
     <string name="webview_uninstalled_for_user">(odstranjeno za uporabnika %s)</string>
+  <string name="wechat">WeChat</string>
   <string name="weight_heavy">Krepko</string>
   <string name="weight_light">Tenko</string>
   <string name="weight_setting_toast">Debelino fontov lahko zamenjate samo za privzeti font sistema</string>
