@@ -726,9 +726,19 @@
         <item>Izvirna barva</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>Optimiziranje kontrasta z dostopno svetlobo</item>
-        <item>"Povečanje kontrasta zaslona"</item>
-        <item>Vrni izvorno barvo vsebine zaslona z kalibracijo barv</item>
+        <item>Prilagodi barve na osnovi trenutne osvetlitve</item>
+        <item>Zmeraj pojačaj barve</item>
+        <item>Kontrast bo nespremenjen</item>
+    </string-array>
+	<string-array name="true_color_screen_optimize_summary">
+        <item>Prilagodi barve na osnovi trenutne osvetlitve</item>
+        <item>Zmeraj pojačaj barve</item>
+        <item>Povrni standardno barvo</item>
+    </string-array>
+    <string-array name="true_color_screen_optimize_title">
+        <item>Samodejno (priporočeno)</item>
+        <item>Nasičeno</item>
+        <item>Originalna barva</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Dovoli</item>

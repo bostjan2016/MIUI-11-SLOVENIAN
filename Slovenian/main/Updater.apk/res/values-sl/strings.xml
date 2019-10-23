@@ -37,6 +37,7 @@
      <string name="download_title_full_download">Pridobivanje informacij…</string>
   <string name="downloading">Prenos:</string>
      <string name="downloading_desc">Poteka prenos, preverite status v področju obvestil.</string>
+  <string name="fetching_data">Sprejem povezave za prenos…</string>
      <string name="install_desc">"Naprava se bo ponovno zagnala v TWRP in namestila izbrano datoteko: %1$s
 Podatki ne bodo izbrisani."</string>
      <string name="install_title">Ste prepričani da želite nadaljevati?</string>
@@ -50,6 +51,7 @@ Podatki ne bodo izbrisani."</string>
   <string name="next">Naprej</string>
   <string name="no_log">Ni dostopnih povzetkov</string>
   <string name="no_info">Informacije niso na voljo</string>
+  <string name="no_mirror">Vse dodatne povezave su trenutno offline, poskusite kasneje…</string>
      <string name="no_network">Ni omrežnega dostopa.</string>
   <string name="no_update">Trenutna MIUI verzija je posodobljena!</string>
   <string name="no_xioamieu">"Ne uporabljate MIUI ROM napravljen s strani Xiaomi.eu tima!

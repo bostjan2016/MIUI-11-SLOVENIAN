@@ -302,6 +302,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="add_account_label">Dodaj račun</string>
   <string name="add_auto_startup_application">Dodaj aplikacijo</string>
   <string name="add_back_fingerprint_instruction_msg">Položite prst na čitalec</string>
+  <string name="add_broadsize_fingerprint_instruction_msg">Senzor prstnih odtisov se nahaja na desnem robu naprave</string>
   <string name="add_device_admin">Vklopi</string>
   <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
   <string name="add_facerecoginition_text">Dodaj obraz</string>
@@ -1239,6 +1240,12 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_hid_profile_summary_connected">Povezava z vnosno napravo je vzpostavljena</string>
   <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vnos</string>
     <string name="bluetooth_incoming_pairing_msg">Od:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ali se želite povezati s to napravo?</string>
+  <string name="bluetooth_inform_messgae">"Povezava z ni možna %1$s.
+Možne napake:
+1. Bluetooth je izključen ali izven dosega.
+2. Ta naprava ni vidna drugim napravam.
+3. Naprava je povezana z drugimi napravami. Prekinite povezavo in poskusite ponovno."</string>
+  <string name="bluetooth_inform_messgae_title">"Ne morem povezati"</string>
     <string name="bluetooth_is_disconnect_question">Ali želite prekiniti povezavo z napravo %1$s?</string>
     <string name="bluetooth_is_discoverable">Vidno vsem napravam Bluetooth v bližini (%1$s)</string>
     <string name="bluetooth_is_discoverable_always">Vidno vsem napravam Bluetooth v bližini</string>

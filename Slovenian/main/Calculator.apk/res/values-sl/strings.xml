@@ -313,6 +313,9 @@
   <string name="preference_settings">Nastavitve</string>
   <string name="preference_use_degress_summary">Spremenljivi radijani s koti v trigonometrijskih opravilih</string>
   <string name="preference_use_degress_title">Uporabljaj kote</string>
+  <string name="preference_use_voice_summary">Vključite za uporabo govorjenega izhoda med izračunom</string>
+  <string name="preference_use_voice_title">Govorjeni izhod</string>
+  <string name="preference_user_feedback_title">Povratna inf.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="rate_data_provider">Obresti so zagotovljene od hexun.com</string>
   <string name="reciprocalDesc">Recipročno</string>
@@ -585,6 +588,7 @@
   <string name="view_float_window_move">Preakni zmanjšani kalkulator</string>
   <string name="user_manual">Navodila</string>
   <string name="voiceDesc">Glasovne kontrole</string>
+  <string name="voice_guide_text">Tu lahko vključite govorjeni izhod</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>
   <string name="website">Spletna stran</string>

@@ -674,6 +674,7 @@ hitrost vzorčenja"</string>
   <string name="drive_mode_tip_notch">Način avto vključen</string>
   <string name="emergency_call_string">Nujno</string>
   <string name="empty_shade_text">Ni obvestil</string>
+  <string name="empty_title">" "</string>
   <string name="enable_adb">Odpravljanje napak preko USB</string>
   <string name="enable_adb_summary">Odpravljanje napak z priključenim USB</string>
   <string name="enable_bluetooth_confirmation_ok">Vključi</string>

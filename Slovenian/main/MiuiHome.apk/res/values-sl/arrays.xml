@@ -51,12 +51,12 @@
         <item>Pripomočki</item>
 	<item>Nastavitve</item>
     </string-array>
-	<string-array name="cell_icon_size_entries">
-        <item>Zelo majhno</item>
-        <item>Majhno</item>
-        <item>Srednje</item>
-        <item>Veliko</item>
-        <item>Ogromno</item>
+   <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
     </string-array>
     <string-array name="minus_screen_entries">
         <item>Nič</item>

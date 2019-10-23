@@ -2549,17 +2549,30 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
     <string name="wifi_ap_unable_to_handle_new_sta">Dostopna točka je trenutno zasedena</string>
   <string name="wifi_auth_password_wrong">Geslo mogoče ni pravilno</string>
   <string name="wifi_auto_sel_wapi_cert">Izberi samodejno</string>
-  <string name="wifi_call_accept">V redu</string>
+  <string name="wifi_call_accept">Preskoči</string>
   <string name="wifi_call_available_message">"Zdaj lahko kličete preko WiFi-ja. Če ni mobilnega omrežja, WiFi pa je uporabite to možnost."</string>
   <string name="wifi_call_available_title">Vklop WiFi klicev</string>
-  <string name="wifi_call_cancel">Prekliči</string>
+  <string name="wifi_call_cancel">Več informacij</string>
   <string name="wifi_call_help">Pomoč</string>
-  <string name="wifi_call_help_message">"Če izberete prednostna mobilna omrežja se bodo uporabila za klicanje po privzetih nastavitvah. Če ni signala mobilnega ali je zelo slab bo uporabljeno WiFi omrežje."</string>
+  <string name="wifi_call_help_message_1">"WiFi Klici je storitev od Orange in omogoča klicanje preko WiFi. Lahko se uporabi kjer je slaba omrežna pokritost.
+
+Za uporabo WiFI klcev pojdite v Nastavitve &gt; WiFi klici.
+
+Za vklop storitve vam bo Orange poslal sporočilo ko bo storitev na voljo. Potem se boste povezali na WiFi in klicali....
+
+Klici se zaračunajo glede na vaše nastavitve.
+
+Če bo storitev na voljo bo prikazana ikona na vrhu zaslona."</string>
+  <string name="wifi_call_help_message_2">"Če izberete prednostno WiFi omrežje se bo privzeto uporabilo za telefonske klice. Če bo WiFi slab se bo uporabilo mobilno omrežje.
+
+Če izberete prednostno mobilno omrežje se bo privzeto uporabilo za telefonske klice. Če bo omrežje slabo se bo uporabilo WiFi omrežje."</string>
   <string name="wifi_call_help_title">WiFi klic v sili</string>
   <string name="wifi_call_notification_message">"Storitev ponuja Orange. Aktiviranje lahko traja več ur. Na koncu boste dobili SMS potrdilo."</string>
   <string name="wifi_call_setting">Nastavitve WiFi klica</string>
+  <string name="wifi_call_preferred_summary">"Će izberete mobilno omrežje se bo privzeto uporabilo za telefonske klice. Če bo omrežje slabo se bo uporabilo WiFi omrežje."</string>
   <string name="wifi_call_setting_vodafone_de">WiFi klicanje</string>
   <string name="wifi_call_setting_vodafone_uk">WiFi klic</string>
+  <string name="wifi_call_welcome_settings">WiFi klici<</string>
   <string name="wifi_calling">WiFi klici</string>
   <string name="wifi_calling_call_assistant">Asistent klicev</string>
   <string name="wifi_calling_call_assistant_configure">Konfiguriraj</string>

@@ -15,6 +15,9 @@
   <string name="all_apps_setting_drawer_tips_desc">Predal aplikacij lahko odprete s potegom gor na zač. zaslonu. Zamenjava zač. zaslona z predalom bo onemogočila iskanje. Vseeno zamenjam?</string>
   <string name="all_apps_setting_drawer_tips_title">Z uporabo predala aplikacij</string>
   <string name="all_apps_setting_drawer_title">Z predalom aplikacij</string>
+  <string name="all_apps_setting_letter_scrollbar">A-Z</string>
+  <string name="all_apps_setting_original_scrollbar">Originalni razpored</string>
+  <string name="all_apps_setting_scroll_bar">Trak za premikanje</string>
   <string name="all_apps_setting_title">Zač. zaslon</string>
   <string name="all_apps_slide_up_tips">Poteg gor je rezerviran za odpiranje predala aplikacij. Preklopite na navadni zač. zaslon in poskusite ponovno.</string>
   <string name="all_apps_suggestions">Predlogi aplikacij</string>
@@ -95,7 +98,6 @@
   <string name="cant_remove_folder">"Ni možno izbrisati mape"</string>
   <string name="cant_remove_retained_app">Ni možno odstraniti te aplikacije</string>
   <string name="cant_remove_system_app">"Ni možno odstraniti sistemske aplikacije"</string>
-  <string name="cell_icon_size_title">Velikost ikon</string>
   <string name="change_wallpaper">Zamenjaj</string>
   <string name="children_folder_title">Otroški način</string>
   <string name="children_mode_exit">Izhod</string>
@@ -229,6 +231,7 @@
   <string name="home_screen_settings">Zač. zaslon</string>
   <string name="home_slide_up_action">Podrsajte gor na zač. zaslonu</string>
   <string name="icon_reorganize_channel">Razpored ikon</string>
+  <string name="icon_size">Velikost ikon</string>
   <string name="image_too_small_message">"Izbrana slika ni dovolj velika"</string>
   <string name="install">Namesti</string>
   <string name="invalid_contact_shortcut">Napačen stik</string>

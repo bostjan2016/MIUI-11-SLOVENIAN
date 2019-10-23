@@ -12,6 +12,10 @@
         <item quantity="other">%d stvari</item>
         <item quantity="one">%d stvar</item>
     </plurals>
+	<plurals name="search_result">
+        <item quantity="other">Najdeno posnetkov: %d</item>
+        <item quantity="one">Najden %d posnetek</item>
+    </plurals>
     <plurals name="unsynced_records_count">
         <item quantity="other">%d ni sinhr.</item>
         <item quantity="one">%d ni sinhr.</item>
