@@ -2572,7 +2572,7 @@ Klici se zaračunajo glede na vaše nastavitve.
   <string name="wifi_call_preferred_summary">"Će izberete mobilno omrežje se bo privzeto uporabilo za telefonske klice. Če bo omrežje slabo se bo uporabilo WiFi omrežje."</string>
   <string name="wifi_call_setting_vodafone_de">WiFi klicanje</string>
   <string name="wifi_call_setting_vodafone_uk">WiFi klic</string>
-  <string name="wifi_call_welcome_settings">WiFi klici<</string>
+  <string name="wifi_call_welcome_settings">WiFi klici</string>
   <string name="wifi_calling">WiFi klici</string>
   <string name="wifi_calling_call_assistant">Asistent klicev</string>
   <string name="wifi_calling_call_assistant_configure">Konfiguriraj</string>
