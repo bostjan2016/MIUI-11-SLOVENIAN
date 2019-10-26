@@ -1240,7 +1240,7 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_hid_profile_summary_connected">Povezava z vnosno napravo je vzpostavljena</string>
   <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vnos</string>
     <string name="bluetooth_incoming_pairing_msg">Od:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Ali se želite povezati s to napravo?</string>
-  <string name="bluetooth_inform_messgae">"Povezava z ni možna %1$s.
+  <string name="bluetooth_inform_messgae">"Ni možna povezava z %1$s.
 Možne napake:
 1. Bluetooth je izključen ali izven dosega.
 2. Ta naprava ni vidna drugim napravam.

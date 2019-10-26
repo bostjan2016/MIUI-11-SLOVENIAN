@@ -141,18 +141,6 @@
   <string name="downloading_empty">Prazno</string>
   <string name="downloads_operating">Delam…</string>
   <string name="dredge_xunlei_account">Ustvari Xunlei račun</string>
-  <string name="durationDayHour">%1$d dan %2$d ur</string>
-  <string name="durationDayHours">%1$d dan %2$d ur</string>
-  <string name="durationDays">%1$d dni</string>
-  <string name="durationHourMinute">%1$d ur %2$d min</string>
-  <string name="durationHourMinutes">%1$d ur %2$d min</string>
-  <string name="durationHours">%1$d ur</string>
-  <string name="durationMinute">%1$d min</string>
-  <string name="durationMinuteSecond">%1$d min %2$d sek</string>
-  <string name="durationMinuteSeconds">%1$d min %2$d sek</string>
-  <string name="durationMinutes">%1$d min</string>
-  <string name="durationSecond">%1$d sek</string>
-  <string name="durationSeconds">%1$d sek</string>
   <string name="edit_hint"> Vnesite http, torrent, ali eMule naslov</string>
   <string name="editmode_menu_delete">Izbriši</string>
   <string name="editmode_menu_share">Deli</string>
@@ -169,7 +157,7 @@
   <string name="file_exist_hint">Ta datoteka že obstaja</string>
   <string name="file_picker">Izberite lokacijo</string>
   <string name="file_size">Velikost:</string>
-  <string name="flow_consume">Traffic</string>
+  <string name="flow_consume">Promet</string>
   <string name="force_touch_newdownload">Novi prenosi</string>
   <string name="force_touch_rank">Vrstni red</string>
   <string name="force_touch_search">Preišči splet</string>
@@ -217,7 +205,7 @@
   <string name="menu_title_settings">Nastavitve</string>
   <string name="mi_money">Mi krediti</string>
   <string name="mi_money_">Mi krediti</string>
-  <string name="missing_title">&lt;Neznano&gt;</string>
+  <string name="missing_title">Neznano</string>
   <string name="net_error">"Ne morem se povezati na omrežje, poskusite ponovno"</string>
   <string name="network_error">"Ne morem se povezati na omrežje"</string>
   <string name="new_add">Novo</string>

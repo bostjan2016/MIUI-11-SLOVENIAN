@@ -214,6 +214,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="restore_unfinished">Obnovitev, poskusite ponovno kasneje</string>
   <string name="restoring_data">Obnovitev podatkov…</string>
   <string name="restoring_file_title_no_progress">Vračanje datotek…</string>
+  <string name="restoring_home_screen_apps">Vračanje iz Mi Clouda…</string>
   <string name="restoring_settings">Vračanje nastavitev…</string>
   <string name="restoreing_file_tile">Obnovitev datotek: %d</string>
   <string name="retry">Poskusi ponovno</string>
