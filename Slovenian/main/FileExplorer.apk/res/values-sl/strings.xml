@@ -254,7 +254,7 @@
   <string name="encrypt_error">"Ne morem skriti datotek, poskusite ponovno"</string>
   <string name="encrypt_prefix">SKRITO</string>
   <string name="encrypt_success">Uspešno skrito</string>
-  <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrtite datoteke lahko vidite s potegom dol na začetni strani aplik. Raziskovalec."</string>
+  <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrite datoteke lahko vidite s potegom dol na začetni strani aplik. Raziskovalec."</string>
   <string name="encrypting">Šifriranje…</string>
   <string name="error_contains_sharer_path">"Ne morem dešifrirati datotek v mapi /MIUI/Gallery/cloud/sharer. Premestite datoteke na drugo mesto in poskusite ponovno.."</string>
   <string name="error_create_dir">"Ne morem napraviti mapo"</string>
