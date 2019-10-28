@@ -391,10 +391,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="applock_face_unlock_title">Odklep z obrazom</string>
   <string name="applock_function_base_settings">Zakj. aplikacia</string>
   <string name="applock_function_pwd_settings">Geslo</string>
+  <string name="applock_go_to">Nastavitve</string>
   <string name="applock_header_text_less_than_half">Premalo prostora. Povlecite separator malo naprej.</string>
   <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
   <string name="applock_not_add_account">Ne zdaj</string>
   <string name="applock_not_login_account">"Niste prijavljeni"</string>
+  <string name="applock_settings_unlock_all_toast">Odklenjene so vse aplikacije</string>
   <string name="applock_toast_tip">Zakl. aplikacij uspešno potrjeno</string>
   <string name="apps_item_sign_dialog_content">\"%s\" podpis se razlikuje od verzije v App Store. Izbrišem to aplikacijo in namestim uradno verzijo? Opomba: namestitev aplikacije z konfliktnim podpisom lahko privede do izgube podatkov aplikacij.</string>
   <string name="apps_item_sign_dialog_title">Namesti uradno verzijo aplikacije</string>
@@ -1516,6 +1518,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="load_only_under_wlan">Prenesi samo pri WiFi povezavi</string>
   <string name="loading">Samo trenutek…</string>
   <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Pov. informacije in pošljite poročilo s svoje naprave."</string>
+  <string name="lock_all_title">Zakleni vse aplikacije</string>
   <string name="lock_mode_title">Nastavitve zaklepanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Izkoriščeno %s pri zakl. zaslonu</string>
   <string name="lock_screen_traffic_guide_notification_title">Tapnite za urejanje porab. podatkov</string>
@@ -2177,6 +2180,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Napredne nastavitve</string>
   <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
+  <string name="power_center_list_item_set_lockscreen_time_holder">Zakleni napravo po %d sek. neaktivnosti</string>
   <string name="power_center_consume_rank">Poraba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
@@ -3079,19 +3083,19 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo se vam za vključitev v program uporabniških izkušenj. Za normalno delo morate biti povezani na splet. Dati morate tudi naslednja dovoljenja da omogočite zbiranje podatkov ki nam bodo pomagali izboljšati naše izdelke in storitve. Ti podatki se zbirajo samo v statistične namene. Te podatov ne moremo uporabiti za osebno prepoznavo.
 "</string>
   <string name="system_permission_declare_disagree">Ne strinjam se</string>
-  <string name="system_permission_declare_double_link">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
-  <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta aplikacija vam omogoča uporabo: %2s.</string>
-  <string name="system_permission_declare_no_say_no">"Ta aplikacija brez dovoljenj ne bo delovala pravilno"</string>
-  <string name="system_permission_declare_no_say_no_analytics">"Če ne daste potrebnih dovoljenj se lahko odjavite v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost &gt; Program uporabniških izkušenj."</string>
-  <string name="system_permission_declare_no_say_no_non_mandatory">"Ta aplikacija ne bo delovala pravilno brez potrebnih dovoljenj"</string>
-  <string name="system_permission_declare_privacy_declare">Spoštujemo in ščitimo vašo zasebnost. Vedite da %1s zahteva za normalno delo naslednja dovoljenja:</string>
-  <string name="system_permission_declare_privacy_no_permission">Vedite da mora %1s zbrati vaše podatke za normalno delo. Spoštujemo in ščitimo vašo zasebnost.</string>
-  <string name="system_permission_declare_privacy_policy">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_double_link">Prreberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti pred uporabo.</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta storitev vam omogoča uporabo naslednjega: %2s.</string>
+  <string name="system_permission_declare_no_say_no">"Aplikacija ne bo delovala brez potrebnih dovoljenj."</string>
+  <string name="system_permission_declare_no_say_no_analytics">"Če ne želite odobriti dovoljenj se lahko odjavite v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost &gt; Program uporabniških izkušenj."</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">"Aplikacija ne bo delovala brez potrebnih dovoljenj."</string>
+  <string name="system_permission_declare_privacy_declare">"Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti. Aplikacija rabi spletno povezavo in zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov:"</string>
+  <string name="system_permission_declare_privacy_no_permission">"Aplikacija rabi spletno povezavo in zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov da deluje normalno. Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti."</string>
+  <string name="system_permission_declare_privacy_policy">Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; pred uporabo storitve.</string>
   <string name="system_permission_declare_revoke_system">Lahko zapustite aplikacijo.</string>
   <string name="system_permission_declare_revoke_uninstallable">Lahko se odjavite, odstranite to aplikacijo ali urejate dovoljenja v Varnost &gt; Aplikacije &gt; Dovoljenja &gt; Dovoljenja.</string>
   <string name="system_permission_declare_use_network">povezovanje z omrežjem</string>
   <string name="system_permission_declare_use_network_no_permission">povezovanje z omrežjem</string>
-  <string name="system_permission_declare_user_agreement">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo storitve.&lt;/Data&gt;</string>
+  <string name="system_permission_declare_user_agreement">Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo storitve.</string>
   <string name="system_permission_perm_answer_call">Klicanje</string>
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje telefonskih številk</string>

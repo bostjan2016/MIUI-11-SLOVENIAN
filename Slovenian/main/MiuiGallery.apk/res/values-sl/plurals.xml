@@ -208,7 +208,7 @@
         <item quantity="other">Čez pol ure</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Takoj</item>
+        <item quantity="other">Kmalu</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">čez %d min.</item>
@@ -219,7 +219,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">pred %d min.</item>
-        <item quantity="one">pred 1 min.</item>
+        <item quantity="one">pred %d min.</item>
     </plurals>
 	 <plurals name="add_secret_ensure_message">
          <item quantity="other">Skrijem te datoteke?</item>
@@ -234,12 +234,12 @@
          <item quantity="one">1 videoposnetek</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">Fotografij čaka izdelavo var. kopije: %1$d</item>
-        <item quantity="one">1 fotografija čaka izdelavo var. kopije</item>
+        <item quantity="other">Fotografije čakajo sinhronizacijo: %1$d</item>
+        <item quantity="one">%1$d fotografija čaka sinhronizacijo</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">Videoposnetkov čaka izdelavo var. kopije: %1$d</item>
-        <item quantity="one">1 videoposnetek čaka izdelavo var. kopije</item>
+        <item quantity="other">Videoposnetki čakajo sinhronizacijo: %1$d</item>
+        <item quantity="one">%1$d videoposnetek čaka sinhronizacijo</item>
     </plurals>
 	<plurals name="half_hour_ago">
         <item quantity="other">Pred pol ure</item>
@@ -265,20 +265,20 @@
         <item quantity="one">pred 1 min.</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">Stvari ki čakajo izdelavo var. kopije: %1$d</item>
-        <item quantity="one">1 stvar čaka izdelavo var. kopije</item>
+        <item quantity="other">Stvari za sinhroniziranje: %1$d</item>
+        <item quantity="one">%1$d stvar za sinhroniziranje</item>
     </plurals>
     <plurals name="number_of_uploading_images">
-        <item quantity="other">Izdelava var. kopije %1$d fotografij…</item>
-        <item quantity="one">Izdelava var. kopije 1 fotografije…</item>
+        <item quantity="other">Sinhroniziranje %1$d fotografij…</item>
+        <item quantity="one">Sinhroniziranje %1$d fotografije…</item>
     </plurals>
     <plurals name="number_of_uploading_videos">
-        <item quantity="other">Izdelava var. kopije %1$d videoposnetkov…</item>
-        <item quantity="one">Izdelava var. kopije 1 videoposnetka…</item>
+        <item quantity="other">Sinhroniziranje %1$d videoposnetkov…</item>
+        <item quantity="one">Sinhroniziranje %1$d videoposnetka…</item>
     </plurals>
     <plurals name="number_of_uploading_images_and_videos">
-        <item quantity="other">Izdelava var. kopije %1$d stvari</item>
-        <item quantity="one">Izdelava var. kopije 1 stvari</item>
+        <item quantity="other">Sinhroniziranje %1$d stvari…</item>
+        <item quantity="one">Sinhroniziranje %1$d stvari…</item>
     </plurals>
 	<plurals name="download_error">
         <item quantity="other">"Ne morem prenesti datotek: %1$d"</item>
@@ -333,9 +333,13 @@
          <item quantity="one">%d stvar je prevelika za shranjevanje</item>
      </plurals>
      <plurals name="backup_pause_desc">
-         <item quantity="other">%d fotografij ali videoposnetkov | Zaustavljeno</item>
-         <item quantity="one">%d fotografija ali videoposnetek | Zaustavljen</item>
-     </plurals>
+         <item quantity="other">Nadaljevanje čez %d min.</item>
+      <item quantity="one">Nadaljevanje čez %d min</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Pavziraj sinhronizacijo fotografij, videoposnetkov, stikov, beležk in drugih stvari z Mi Cloudom za %d minut.</item>
+        <item quantity="one">Pavziraj sinhronizacijo fotografij, videoposnetkov, stikov, beležk in drugih stvari z Mi Cloudom za %d minuto.</item>    
+	</plurals>
 	 <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d sek.</item>
         <item quantity="one">%1$d sek.</item>
