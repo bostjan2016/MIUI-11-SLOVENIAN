@@ -1024,6 +1024,12 @@ za fotografije"</string>
   <string name="movie_audio_dream">Sanje</string>
   <string name="movie_audio_electronics">Elektro</string>
   <string name="movie_audio_none">Nič</string>
+  <string name="movie_audio_point1">Neon</string>
+  <string name="movie_audio_point2">Zahod sonca</string>
+  <string name="movie_audio_point3">Spomini</string>
+  <string name="movie_audio_point4">Kresna noč</string>
+  <string name="movie_audio_point5">Valovi</string>
+  <string name="movie_audio_point6">Festival</string>
   <string name="movie_audio_quiet">Zen</string>
   <string name="movie_audio_soft">Ukulele</string>
   <string name="movie_audio_sport">Techno</string>
@@ -1057,7 +1063,12 @@ za fotografije"</string>
   <string name="movie_tab_edit">Uredi</string>
   <string name="movie_tab_music">Glasba</string>
   <string name="movie_tab_template">Template</string>
-  <string name="movie_template_baby">Otrok</string>
+  <string name="movie_template_cool">Svetloba</string>
+  <string name="movie_template_cool2">Ritem</string>
+  <string name="movie_template_cool3">Valovi</string>
+  <string name="movie_template_dull">Zgodba</string>
+  <string name="movie_template_dull2">Čas</string>
+  <string name="movie_template_dull3">Lepota</string>
   <string name="movie_template_food">Njami</string>
   <string name="movie_template_new_year">Novo leto</string>
   <string name="movie_template_normal">Melodija</string>

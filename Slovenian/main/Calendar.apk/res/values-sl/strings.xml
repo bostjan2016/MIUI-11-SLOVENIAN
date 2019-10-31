@@ -176,7 +176,7 @@
   <string name="edit_date_calculate_days_backward_error_hint">"Ne morem izračunati naprej"</string>
   <string name="edit_date_calculate_days_empty_hint">Vnesite število dni</string>
   <string name="edit_date_calculate_days_forward_error_hint">"Ne morem izračunati nazaj"</string>
-  <string name="edit_event_all_day_label">Cel dan</string>
+  <string name="edit_event_all_day_label">Cel dan </string>
   <string name="edit_event_anniversary_name_empty_hint">Vnesi ime dogodka</string>
   <string name="edit_event_anniversary_name_hint">Dogodek</string>
   <string name="edit_event_birthday_import_from_contact">Uvozi rojstni dan iz stikov</string>
@@ -220,7 +220,7 @@
   <string name="event_account">Račun</string>
   <string name="event_action_delete">Izbriši</string>
   <string name="event_action_edit">Uredi</string>
-  <string name="event_all_day_label">Ves dan</string>
+  <string name="event_all_day_label">Ves dan </string>
   <string name="event_color_picker_dialog_title">Barva dogodka</string>
   <string name="event_color_set_to_default">Nastavi na privzeto barvo koledarja</string>
   <string name="event_create">Nov dogodek</string>

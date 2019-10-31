@@ -5,7 +5,7 @@
   <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o zasebnosti"</string>
   <string name="agree_terms_input_method_facemoji">"Prebral sem in se strinjam z Facemoji Pravila o zasebnosti."</string>
   <string name="agree_terms_input_method_kika">"Prebral sem in se strinjam z Kika Pravila o zasebnosti."</string>
-  <string name="ai_button_desc">S pomočjo tipke zaženite Mi AI in opravite naloge na vašem telefonu samo z uporabo vašega glasu</string>
+  <string name="ai_button_desc">AI tipka vam omogoča zagon Mi AI in uporabo Mi AI bližnjic.</string>
   <string name="ai_button_double_press">Dvakrat pritisnite</string>
   <string name="ai_button_double_press_desc">Nastavite opravila Mi AI</string>
   <string name="ai_button_long_press">Pritisnite in držite</string>
@@ -85,6 +85,34 @@
   <string name="provision_inputmethod_policy_description">"
 Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
+  <string name="require_authority_statement">Da vam lahko ponudimo osnovne storitve morate odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
+  <string name="require_network_authority_statement">a vam lahko ponudimo osnovne storitve se morate povezati na splet in odobriti naslednja dovoljenja za zbiranje vaših osebnih podatkov:</string>
+  <string name="screen_recording_introduction">"Ta aplikacija vam omogoča snemanje tistega, kar se dogaja na vašem zaslonu."</string>
+  <string name="security_introduction">S to aplikacijo lahko očistite smeti iz naprave, najdete in onemogočite viruse, optimizirate zmogljivost iger, varčujete z baterijo, urejate aplikacije, dovoljenja in še več.</string>
+  <string name="security_mobile_account_introduction">Za prijavo in upravljanje sistemskih računov</string>
+  <string name="service_agreement">"Prebral sem in se strinjam."</string>
+  <string name="service_name_album">Galerija</string>
+  <string name="service_name_application_package">Orodje za namestitev paketa</string>
+  <string name="service_name_calculator">Kalkulator</string>
+  <string name="service_name_camera">Kamera</string>
+  <string name="service_name_carrier">Izjava o storitvah operaterja</string>
+  <string name="service_name_clock">Ura</string>
+  <string name="service_name_compass">Kompas</string>
+  <string name="service_name_content_center">Center vsebine</string>
+  <string name="service_name_download">Prenosi</string>
+  <string name="service_name_fast_application">Hitre aplikacije Framework</string>
+  <string name="service_name_game">Dodatek za igre</string>
+  <string name="service_name_google_service">Izjava o Googleovih storitvah</string>
+  <string name="service_name_location">Storitve ki temeljijo na lokaciji</string>
+  <string name="service_name_lockscreen">Wallpaper Carousel</string>
+  <string name="service_name_note">Beležke</string>
+  <string name="service_name_recorder">Snemalnik</string>
+  <string name="service_name_screen_recording">Snemalnik zaslona</string>
+  <string name="service_name_security">Varnost</string>
+  <string name="service_name_service_framework">Mi Services Framework</string>
+  <string name="service_policy">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Pravila o zasebnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+  <string name="service_privacy_index">Pravila o zasebnosti</string>
+  <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>
   <string name="shut_down">Izklop</string>
   <string name="sim_card_detecting">Preverjam SIM kartico…</string>
@@ -123,6 +151,7 @@ Morate se strinjati z Kika Pravila o zasebnosti pred uporabo te storitve."</stri
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
   <string name="two_dimensional_code_scan">Skeniraj QR kodo</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="user_agreement_declare">Pred uporabo MIUI-ja morate prebrati in se strinjati z Pogoji uporabe in Pravila o zasebnosti. Ob aktivaciji se bodo storitve omrežne aktivacije Mi SIM, Najdi napravo, Začetni zaslon, Pogosti izrazi, Prevajalska služba, MIUI Daemon, HTML brskalnik in Posodabljanje povezale s spletom. Pametne storitve rabijo splet in lokacijo.</string>
   <string name="voice_assist_advice">Mi AI vam omogoča uporabo glasovnih kontrol, porabi pa več energije (+1% vsako uro).</string>
   <string name="voice_assist_condition">"V teh primreih na boste mogli uporabljati Mi AI:
 1. Ko je zaslon vključen.
