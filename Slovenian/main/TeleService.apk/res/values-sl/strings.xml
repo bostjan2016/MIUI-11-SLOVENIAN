@@ -1292,6 +1292,8 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="lable_network_not_supported">"Omrežje ni podprto"</string>
   <string name="lafs_disable">Lokalni urniki letov so izklopljeni</string>
   <string name="lafs_enable">Lokalni urniki letov so vklopljeni</string>
+  <string name="last_sim_callback_summary">Pri klicanju iz zgodovine klicev uporabi SIM kartico ki je bila uporabljena prej</string>
+  <string name="last_sim_callback_title">Zapomni si nastavitve SIM kartice</string>
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="legacy_dhcp_client_summary">Uporabi DHCP klient iz Lollipopa namesto novega Android DHCP klienta.</string>
