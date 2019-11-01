@@ -298,11 +298,14 @@ Izbor"</string>
     <string name="enable_alert_message_title">Sporočila opozoril</string>
     <string name="enable_alert_speech_summary">Za izgovorjavo nujnih opozoril uporabi pretvorbo besedila v govor</string>
     <string name="enable_alert_speech_title">Izgovori opozorilno sporočilo</string>
+	<string name="enable_alert_vibrate_summary">Vibriraj ob opozorilu</string>
     <string name="enable_alert_vibrate_title">Vibriranje</string>
     <string name="enable_alerts_master_toggle_summary">Prejemanje obvestil v sili</string>
     <string name="enable_alerts_master_toggle_title">Dovoli opozorila</string>
     <string name="enable_area_update_info_alerts_summary">Prikaz najnovejših informacij pri stanju kartice SIM</string>
     <string name="enable_area_update_info_alerts_title">Oddaje z najnovejšimi območnimi informacijami</string>
+	<string name="enable_channel_50_alerts_summary">Kanal 50 se uporablja v Braziliji za lokalne informacije</string>
+	<string name="enable_channel_50_alerts_title">Pokaži oddajanje kanala 50</string>
     <string name="enable_cmas_amber_alerts_summary">Nujno o ugrabitvah otrok</string>
     <string name="enable_cmas_amber_alerts_title">AMBER opozorila</string>
     <string name="enable_cmas_extreme_threat_alerts_summary">Ekstremna opozorila za življenje in posest</string>

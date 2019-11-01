@@ -586,8 +586,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_ops_running">Se izvaja</string>
   <string name="app_ops_settings">Delovanje aplikacij</string>
   <string name="app_ops_settings_summary">Prikaz ali sprememba dovoljenj za aplikacije</string>
-  <string name="app_overlay_permission_preference">Dovoljenje aplikacije za risanje čez druge</string>
-    <string name="app_permission_summary_allowed">Dovoljene</string>
+  <string name="app_overlay_permission_preference">Aplikacije z dovoljenjem za risanje čez druge</string>
+    <string name="app_permission_summary_allowed">Dovoljeno</string>
     <string name="app_permission_summary_not_allowed">Ni dovoljeno</string>
     <string name="app_permissions">Upravitelj dovoljenj</string>
   <string name="app_permissions_group_summary" formatted="false">Št. aplikacij z dovoljenjem: %d od %d</string>
@@ -6713,7 +6713,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_sms_delivered_sound_title">Sporočilo dostavljeno;Sporočilo dostavljeno;Melodija sporočila;Poročilo o dostavi</string>
   <string name="search_sms_received">Prejeto sporočilo;Melodija sporočila;Sprejeto sporočilo;Melodija sporočila</string>
   <string name="search_sms_received_sound_title">Sporočilo prejeto;melodija sporočila;sporočilo prejeto;melodija sporočila</string>
-  <string name="search_sound_effects_enable_title">Zvoki dotikaVključi zvoke dotikov</string>
+  <string name="search_sound_effects_enable_title">Zvoki dotika;Vključi zvoke dotikov</string>
   <string name="search_sound_settings">Zvok;Glasnost;Glasnost;Tiho;Tiho;Tišina;Alarm;Glasba;Vibracija;vibriraj;melodija zvonenja;Melodija zvonenja;Privzeti zvok obvestil;zvok obvestil;zvoki obvestil;Prejeto sporočilo;Prejeto sporočilo;Sporočilo dostavljeno;Sporočilo dostavljeno;Dotik;Zvoki dotika;Zvoki;Zvok Zakl. zaslona;Nastavitve zvoka;Zvok;Omejitev hrupa okolice;hrup;Utišanje;Utišanje hrupa</string>
   <string name="search_status_bar">Obvestila &amp;Statusna vrstica;Obvestila;Statusna vrstica;status;Obvestila aplikacij;Položaji bližnjic;Bližnjica;Bližnjice;Hitrost povezave;Ime operaterja;Operater;Obvestilo posnetka zaslona;posnetek zaslona;Zakl. zaslona</string>
   <string name="search_status_bar_settings">Obvestila &amp; vrstica obvestil;Obvestila;vrstica obvestil</string>
@@ -8423,7 +8423,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
   <string name="unlogin_account_summary">Vse Mi storitve. En Mi Račun</string>
   <string name="unlogin_account_title">Prijavite se v Mi Račun</string>
   <string name="unmount_inform_text">Pomnilnik USB bo izpet.</string>
-  <string name="unmute_sound_title">Vključi zvok</string>
+  <string name="unmute_sound_title">Zvok izklopa utišanja</string>
   <string name="unrestrict_max_aspect_ratio_title">Te aplikacije so optimizirane za cel zaslon</string>
     <string name="unrestricted_app_summary">Dovoli neomejen podatkovni dostop, ko je vklopljeno varčevanje s podatki</string>
     <string name="unrestricted_app_title">Neomejen podatkovni prenos</string>

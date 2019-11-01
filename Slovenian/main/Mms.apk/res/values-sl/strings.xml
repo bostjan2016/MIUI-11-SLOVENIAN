@@ -402,7 +402,7 @@
   <string name="mms_block_alert_message">Vsa MMS sporočila razen poslanih od pooblaščenih pošiljateljev bodo blokirana. Pooblaščeni pošiljatelji vključujejo omrežne operaterje, državne sisteme za rezervacijo železnic itd.</string>
   <string name="mms_block_alert_ok">Blokiraj</string>
   <string name="mms_block_alert_title">Blokiraj MMS</string>
-  <string name="mms_block_hint">"Ta pošiljatelj ni v vašim stikih.
+  <string name="mms_block_hint">"Ta pošiljatelj ni v vaših stikih.
 Sporočilo je nezaželjeno."</string>
   <string name="mms_block_hint_highlight">Blokiraj MMS</string>
   <string name="mms_main_purpose">"Da izkoristite vse zmožnosti sporočil dovolite aplikaciji da se poveže na splet in vključite Mi sporočilo in Smart sporočilo."</string>

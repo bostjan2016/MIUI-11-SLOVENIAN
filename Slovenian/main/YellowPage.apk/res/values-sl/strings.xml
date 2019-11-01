@@ -28,7 +28,7 @@
   <string name="antispam_local_newest">Trenutna verzija je posodobljena.</string>
   <string name="antispam_network_remind_summary">Prenesem posodobitev preko mobilnih podatkov?</string>
   <string name="antispam_network_remind_title">Opozorilo uporabe podatkov</string>
-  <string name="antispam_pull_newest">Uspešno posodobljeno na %d verziju</string>
+  <string name="antispam_pull_newest">Uspešno posodobljeno na %d verzijo</string>
   <string name="antispam_update_version">Preveri posodobitve</string>
   <string name="app_label">Mapa</string>
   <string name="app_recommendation_install">Namestitev</string>

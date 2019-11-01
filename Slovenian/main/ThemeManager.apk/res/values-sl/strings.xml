@@ -840,7 +840,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="wallpaper_online_no_more">"To je za zdaj vse"</string>
   <string name="wallpaper_online_tip">Povežite se na omrežje da vidite več stvari</string>
   <string name="wallpaper_personal_dialog_agree">Prilagodi</string>
-  <string name="wallpaper_personal_dialog_content">Uporabite to storitev da boste videli izbor ozadij prilagojenih vašim interesom. To lahko vključite i izključite v nastavitvah. Prilagodim ozadje zdaj?</string>
+  <string name="wallpaper_personal_dialog_content">Uporabite to storitev da boste videli izbor ozadij prilagojenih vašim interesom. To lahko vključite in izključite v nastavitvah. Prilagodim ozadje zdaj?</string>
   <string name="wallpaper_personal_dialog_disagree">Ne, hvala</string>
   <string name="wallpaper_personal_dialog_title">Prilagodite svoja ozadja</string>
   <string name="wallpaper_scroll_type_tips">Premikanje slika ozadja</string>
@@ -869,7 +869,7 @@ Za izklop pojdite v Nastavitve &gt; Zvok &amp; vibracija &gt; Profilni videoposn
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezovanje aplikacije prenos ni uspelo, preverite stanje v upravitelji aplikacij.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verzijo %1$s
 Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>

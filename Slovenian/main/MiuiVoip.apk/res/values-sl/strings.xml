@@ -203,7 +203,7 @@ Prestavi na GSM za %1$d sek…"</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni na voljo, preverite SD kartico.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$sVelikost: %2$s"</string>
-  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s Velikost Delta posodobitve: %2$s"</string>
+  <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$sVelikost: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s posodobitev!</string>
 </resources>
