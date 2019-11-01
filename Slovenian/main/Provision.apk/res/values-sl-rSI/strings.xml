@@ -110,7 +110,7 @@ Pokaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="service_name_screen_recording">Snemalnik zaslona</string>
   <string name="service_name_security">Varnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
-  <string name="service_policy">&lt;Data&gt;Preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Pravila o zasebnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+  <string name="service_policy">&lt;Data>Preberite in se strinjajte z &lt;a href=%1$s>Pravila o zasebnosti&lt;/a >.&lt;/Data</string>
   <string name="service_privacy_index">Pravila o zasebnosti</string>
   <string name="servicestate_title">Izjava o osnovnih storitvah</string>
   <string name="setting_locale">Nastavljanje regije…</string>
