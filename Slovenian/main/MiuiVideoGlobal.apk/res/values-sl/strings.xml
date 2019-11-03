@@ -46,8 +46,11 @@
     <string name="account_no_set">Nič</string>
   <string name="account_none">Nič</string>
   <string name="account_none_binded_info">Nič</string>
+  <string name="account_none_bind_info">Nič</string>
+  <string name="account_none_user_name">Nič</string>
   <string name="account_secure_info_pref_title">Info o računu</string>
   <string name="account_security">Varnost računa</string>
+  <string name="account_security_info_pref_title">Podatki o varnosti</string>
     <string name="account_user_avatar">Profilna slika</string>
   <string name="account_user_avatar_from_album">Galerija</string>
   <string name="account_user_avatar_from_camera">Kamera</string>
@@ -716,6 +719,7 @@ Najprej posodobite Mi Video na najnovejšo različico."</string>
     <string name="passport_wrong_phone_number_format">Oblika telefonske številke, ki ste jo vnesli ni veljavna</string>
     <string name="passport_wrong_vcode">Koda, ki ste jo vnesli je nepravilna</string>
     <string name="passport_wrong_voice">Vnešena koda je napačna</string>
+  <string name="password_toggle_content_description">Pokaži geslo</string>
     <string name="permission_continue">Nadaljuj</string>
     <string name="permission_info">"Mi Video potrebuje dostop do IMEI številke vaše naprave, da lahko stori sledeče:
  

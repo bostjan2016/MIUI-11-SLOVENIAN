@@ -8559,6 +8559,10 @@ Prenesite samo važne stvari."</string>
   <string name="usb_eject_summary">Izključite USB pomnilnik da ga lahko varno odstranite</string>
   <string name="usb_format">Izbriši USB pomnilnik</string>
   <string name="usb_format_summary">Izbriše vse podatke iz USB pomnilnika kot npr. glasba in fotografije</string>
+  <string name="usb_headset_not_support_cancel">Razumem</string>
+  <string name="usb_headset_not_support_message">"USB analogne slušalke niso podprte. Zamenjajte jih z digitalnimi,
+ ali uporabite 3,5 mm vhod za slušalke"</string>
+  <string name="usb_headset_not_support_tile">Prepoznavanje slušalk</string>
   <string name="usb_host_mode_subtext">Z uporabo igralnih konzol preko USB vhoda se lahko izrazito poveča poraba baterije</string>
   <string name="usb_host_mode_text">Omogoči način gostitelja USB</string>
   <string name="usb_insert_summary">Vstavite USB pomnilnik za vklop</string>

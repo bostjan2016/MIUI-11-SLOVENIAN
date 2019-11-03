@@ -19,6 +19,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z: %s</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="above_image">Gor</string>
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_battery_level_charging">Polnjenje, baterija %d procentov.</string>
   <string name="align_type">Poravnaj</string>
@@ -33,7 +34,8 @@
   <string name="aod_mode_summary">Ta storitev povečuje porabo baterije. Izključila se bo ko naprava dlje časa ostane v mraku ali pa se uporabi način za varčevanje baterije.</string>
   <string name="aod_mode_time_summary">Razpored časa za vklop/izklop načina zmeraj vključeno</string>
   <string name="aod_mode_time_title">Razpored</string>
-  <string name="aod_mode_title">Zmeraj vključeno</string>
+  <string name="aod_mode_title">Always-on zaslon</string>
+  <string name="aod_show_date_and_time">Pokaži datum in čas</string>
   <string name="aod_show_style_title">Pokaži stvari</string>
   <string name="aod_style">Teme</string>
   <string name="aod_to_close">Izključi</string>
@@ -41,6 +43,7 @@
   <string name="apply_succeed">Uspešno nastavljeno</string>
   <string name="background_icon">Ozadje</string>
   <string name="black_white_clock_panel">Ura</string>
+  <string name="below_image">Dol</string>
   <string name="cancel">Prekliči</string>
   <string name="character_counter_content_description">Prekoračena omejitev števila znakov %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -49,6 +52,7 @@
   <string name="clock_panel_icon">Videz ure</string>
   <string name="color_change_with_time_description">Časovno samodejno zamenjaj barvo teksta</string>
   <string name="color_change_with_time_title">Samodejno zamenjaj barvo</string>
+  <string name="custom_image">Slika po meri</string>
   <string name="deep_space_planet">Doba dneva</string>
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
   <string name="digital_clock">Digitalna</string>
@@ -81,6 +85,7 @@
   <string name="show_battery_status">Pokaži status baterije</string>
   <string name="show_notification">Pokaži obvestila</string>
   <string name="show_notificaton">Pokaži obvestila</string>
+  <string name="shownone_arround_image">Nič</string>
   <string name="signature">Podpis</string>
   <string name="signature_default_content">"Samo za vas;
   od BOŠTJAN-a"</string>
@@ -93,6 +98,7 @@
   <string name="text_color">Barva teksta</string>
   <string name="text_length_exceed_limit_alert">*Vnešeni tekst je predolg</string>
   <string name="text_size">Velikost teksta</string>
+  <string name="time_location">Položaj ure</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Razpored</string>
 </resources>

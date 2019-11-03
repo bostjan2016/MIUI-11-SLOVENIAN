@@ -1684,6 +1684,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_wifi_off_label">WiFi izklopljen</string>
     <string name="quick_settings_wifi_on_label">WiFi je vklopljen.</string>
   <string name="quick_settings_wifi_secondary_label_transient">Vklop…</string>
+  <string name="quick_settings_wireless_label">Obrnjeno brezžično polnjenje</string>
     <string name="quick_settings_work_mode_label">Način za delo</string>
   <string name="quick_step_accessibility_toggle_overview">Vklop/izklop pregleda</string>
   <string name="rapid_charge_mode_tip">Hitro polnjenje</string>
@@ -2273,6 +2274,15 @@ Shramba certifikatov mogoče ni omogočena"</string>
   <string name="wireless_charge_reset_device">Polnjenje je počasno. Zamenjajte položaj telefona.</string>
   <string name="wireless_charge_reset_device_detail">Preverite ali je položaj vaše naprave na bazi za polnjenje pravilen</string>
   <string name="wireless_charge_stop">Brezžično polnjenje je ustavljeno</string>
+  <string name="wireless_charging_connected_message">"Ne morem uporabiti obrnjeno brezžično polnjenje ko se vaša naprava polni."</string>
+  <string name="wireless_charging_low_battery_level_message">"Ne morem uporabiti obrnjeno brezžično polnjenje ko je baterija napolnjena manj od 30%."</string>
+  <string name="wireless_charging_ok">Razumem</string>
+  <string name="wireless_charging_saver_cancel">Izključi</string>
+  <string name="wireless_charging_saver_message">Varčevanje baterije je vključeno. Obdržim obrnjeno brezžično polnjenje na razpolago?</string>
+  <string name="wireless_charging_saver_ok">Obdrži</string>
+  <string name="wireless_charging_tips_disable">"Ne kaži več"</string>
+  <string name="wireless_charging_tips_message">Nastavite naprave ki podpirajo Qi brezžično polnjenje (telefoni, dodatki itd.) Na zadnji strani naprave.</string>
+  <string name="wireless_charging_tips_title">Obrnjeno brezžično polnjenje</string>
   <string name="wrong_password">Napačno geslo</string>
     <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
     <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej te nastavitve ne izklopite</string>

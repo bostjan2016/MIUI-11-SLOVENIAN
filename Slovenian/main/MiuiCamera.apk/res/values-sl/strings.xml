@@ -155,6 +155,8 @@ in za trenutek zapustite pregled"</string>
   <string name="cannot_connect_camera_volte_call">Videoklic poteka, poskusite kasneje.</string>
   <string name="cannot_move_warning_message">Zajemam sliko, napravo držite pri miru.</string>
   <string name="capture_back_pressed_hint">Tapnite ponovno za izhod</string>
+  <string name="ccc_temperature_warning_msg">Naprava je prevroča. Kamera se bo zaprla čez %d sek. Vaše fotografije ali videoposnetki bodo samodejno shranjeni.</string>
+  <string name="ccc_temperature_warning_title">Naprava je prevroča</string>
   <string name="clear_effects">Počisti efekte</string>
   <string name="close">Zapri</string>
   <string name="close_back_flash_toast">"Naprava je prevroča. Ne morem uporabiti bliskavice."</string>
@@ -377,6 +379,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   nato pa izdelala posnetek na katerem vsi zgledajo najboljše."</string>
   <string name="hint_groupshot_beauty">Ne morem uporabiti olepšanje pri skupinskih fotografijah</string>
   <string name="hint_mimovie">Snemajte v načinu pokrajina za najboljši učinek</string>
+  <string name="hint_subtitle">"Diktirajte podnapise med snemanjem videoposnetkov"</string>
+  <string name="hint_subtitle_prompt">Zdaj lahko diktirate podnapise</string>
   <string name="hint_slow_motion">Videoposnetek ki ga snemate se bo predvajal počasneje.</string>
   <string name="hunt_dual_water_mark">Oznaka Dvojna kamera bo dodana samodejno.</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -946,6 +950,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Lahko snemate samo 720P videoposnetke z 240FPS</string>
   <string name="pref_new_slow_motion_video_quality_960_720only">Lahko snemate samo 720P videoposnetke z 960FPS</string>
+  <string name="pref_popup_camera_title">Pop-up kamera</string>
   <string name="pref_photo_assistance_tips_off">Izklj.</string>
   <string name="pref_photo_assistance_tips_on">Vklj.</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
@@ -991,6 +996,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_video_speed_fast_title">Hitro-gibanje</string>
   <string name="pref_video_speed_slow_title">Počasno-gibanje</string>
   <string name="pref_video_speed_title">Zajemanje hitrosti videa</string>
+  <string name="pref_video_subtitle">Podnapisi</string>
   <string name="pref_video_time_lapse_frame_interval_entry_10">Interval 0.3 sekunde (10 krat)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_120">Interval 4 sekunde (120 krat)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_150">Interval 5 sekund (150 krat)</string>
@@ -1090,6 +1096,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="start_capture">V redu</string>
   <string name="sticker_tab1">Sladko</string>
   <string name="sticker_tab2">Smešno</string>
+  <string name="subtitle_network_exception_tips">"Ne morem se povezati na omrežje zato ne morete iskati podnapise."</string>
   <string name="success_message_import_from_account">Uvoženo</string>
   <string name="super_eis">Super stabilizacija</string>
   <string name="super_eis_disabled_hint">Super stabilizacija je izključena</string>

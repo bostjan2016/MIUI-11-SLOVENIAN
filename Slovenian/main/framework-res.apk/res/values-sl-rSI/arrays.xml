@@ -115,7 +115,13 @@
         <item>Prst držite malo dlje na čitalcu</item>
         <item></item>
         <item></item>
-		<item>Premaknite prst počasi</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+	<item>Premaknite prst počasi</item>
         <item>Prstni odtis je dodan, uporabite drugi prst</item>
     </string-array>	
     <string-array name="wfcOperatorErrorAlertMessages">
