@@ -237,13 +237,14 @@
   <string name="invalid_contact_shortcut">Napačen stik</string>
   <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
+  <string name="launcher_global_search_mode_title">Globalno iskanje</string>
+  <string name="launcher_global_search_provider_title">Globalna usluga iskanja</string>
   <string name="launcher_minus_screen_title">Minus en zaslon</string>
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
   <string name="launcher_pull_down_title">Podrsajte dol na zač. zaslonu</string>
   <string name="launcher_slide_up_title">Podrsajte gor na zač. zaslonu</string>
   <string name="launcher_sliding_up_gesture">Podrsajte gor na zač. zaslonu da odprete iskanje</string>
-  <string name="launcher_search_bar_title">Polje za iskanje na zač. zaslonu</string>
   <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="like">Dodaj v priljubljeno</string>
   <string name="liked">Dodano v priljubljeno</string>

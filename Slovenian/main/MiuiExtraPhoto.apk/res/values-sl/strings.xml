@@ -2,8 +2,17 @@
 <resources>
   <string name="extra_photo_common_permission_name">Bokeh</string>
   <string name="extra_photo_common_saving">Shranjevanje…</string>
-  <string name="motion_photo_re_pick_title">Izberite najboljšo fotografijo</string>
+  <string name="motion_photo_cancel">Pekliči</string>
+  <string name="motion_photo_re_pick_title">Fotografija v živo</string>
+  <string name="motion_photo_save_fail">"Ne morem shraniti"</string>
+  <string name="motion_photo_save_gif">Shrani kot GIF</string>
+  <string name="motion_photo_save_gif_ing">Shranjevanje GIF…</string>
+  <string name="motion_photo_save_image">Shrani najboljšo sliko</string>
+  <string name="motion_photo_save_image_ing">Shranjevanje najboljše slike…</string>
+  <string name="motion_photo_save_video">Shrani kot videoposnetek</string>
+  <string name="motion_photo_save_video_ing">Shranjevanje videoposnetka…</string>
   <string name="motion_photo_toast_default">Privzeto</string>
+  <string name="motion_photo_toast_long_press_play">Pritisnite in držite fotografijo za predvajanje</string>
   <string name="motion_photo_toast_suggest">Priporočeno</string>
   <string name="refocus_discard_confirm_message">Shranim spremembe?</string>
   <string name="refocus_discard_negative_btn">Zavrzi</string>
@@ -13,7 +22,7 @@
   <string name="refocus_save_cancel">Prekliči</string>
   <string name="refocus_save_title">Izberite format</string>
   <string name="refocus_save_to_photo">Shrani kot sliko</string>
-  <string name="refocus_save_to_video">Shrani kot video</string>
+  <string name="refocus_save_to_video">Shrani kot videoposnetek</string>
   <string name="refocus_saving">Shranjujem</string>
   <string name="refocus_title">Zamegli</string>
   <string name="refocus_type_relighting">Studio osvetlitev</string>

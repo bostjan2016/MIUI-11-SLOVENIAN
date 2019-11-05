@@ -26,9 +26,9 @@
   <string name="find_device_error_server">Napaka strežnika (%s).</string>
   <string name="find_device_error_unknown">Neznana napaka (%s).</string>
   <string name="find_device_noise_title">Alarm Najdi napravo</string>
-  <string name="find_device_notice">Pojdite na&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;da najdete, zaklenete, ali izbrišete svojo napravo.</string>
+  <string name="find_device_notice">Pojdite na&lt;br /&gt;&lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;da najdete, zaklenete, ali izbrišete svojo napravo.</string>
   <string name="find_device_notice_p1">Pojdite na</string>
-  <string name="find_device_notice_p3">" da najdete, zaklenite ali zbrišete svojo napravo</string>
+  <string name="find_device_notice_p3">" da najdete, zaklenite ali ponastavite svojo napravo</string>
   <string name="find_device_notice_sms_alert">Če zamenjate SIM kartico bo samodejno poslano še eno SMS sporočilo za ponovno aktiviranje te storitve."</string>
   <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
   <string name="find_device_storage_corrupted">Prostor za shranjevanje Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>

@@ -22,9 +22,11 @@
   <string name="all_folder_name">Vse beležke</string>
   <string name="all_terms">%1$s in %2$s</string>
   <string name="app_name">Beležka</string>
-  <string name="app_notification_info">Beležk so zagnane v ozadju</string>
+  <string name="app_notification_info">Beležke so zagnane v ozadju</string>
   <string name="app_widget">Beležka</string>
   <string name="application_icon">Ikona aplikacije</string>
+  <string name="audio_create_normal_state">Spusti za izdelavo. Podrsaj gor za preklic.</string>
+  <string name="audio_create_will_cancel_state">Spusti za preklic</string>
   <string name="attachment_camera">Posnemi fotografijo</string>
   <string name="attachment_contact">"Stiki"</string>
   <string name="attachment_gallery">Izberi iz Galerije</string>
@@ -145,6 +147,10 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_unhide">Odkrij</string>
   <string name="menu_unmark_privacy">Odkrij</string>
   <string name="menu_unstick">Odpni</string>
+  <string name="new_audio_create_cancel_talkback_des">Odpovedano</string>
+  <string name="new_audio_create_done_talkback_des">Napravljeno</string>
+  <string name="new_audio_create_guide_tip">Pritisnite in držite za ustvarjanje zvočne beležke</string>
+  <string name="new_audio_create_talkback_des">Pritisnite za ustvaranje tekstne beležke. Pritisnite in držite za ustvarjanje zvočne beležke. Spustite tipko da ustavite snemanje in napravite beležko ali podrajte gor da prekličete.</string>
   <string name="not_now">Ne zdaj</string>
   <string name="note_alert_expired">Pretečeno</string>
   <string name="note_description_content">Aplikacija beležke je izvrstno orodje za snemanje vaših idej. Ima vgrajene opmnike in sinhronizira vaše stvari v Mi Cloud tako da lahko dostopite do njih kadarkoli in kjerkoli.</string>

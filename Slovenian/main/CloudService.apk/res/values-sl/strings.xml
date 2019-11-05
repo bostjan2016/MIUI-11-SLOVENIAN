@@ -102,7 +102,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_disabled_title">"Najdi napravo" je izključeno</string>
   <string name="find_device_disabling">Izklapljam…</string>
   <string name="find_device_dspt">Lociraj, zakleni ali ponastavi vašo napravo na daljavo</string>
-  <string name="find_device_dspt_provision">"Če izgubite vašo napravo lahko greste na &lt;font color=#ff0000&gt;%s&lt;/font&gt; za iskanje, zaklepanje ali uničenje. 
+  <string name="find_device_dspt_provision">"Če izgubite vašo napravo lahko greste na &lt;font color=#0097FF&gt;%s&lt;/font&gt; za iskanje, zaklepanje ali uničenje. 
   To lahko vključite/izključite v nastavitvah."</string>
   <string name="find_device_dspt_provision_3">Za lociranje, zaklep ali ponastavitev. Opravilo lahko vklopite/izklopite v nastavitvah.</string>
   <string name="find_device_dspt_provision_4">Če zamenjate SIM kartico bo samodejno poslan SMS za ponovno aktiviranje te storitve.</string>
@@ -198,6 +198,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="member_menu_vipname_mega">Mega</string>
   <string name="member_menu_vipname_premium">Premium</string>
   <string name="member_menu_vipname_ultra">Ultra</string>
+  <string name="menu_add_feedback">Povratna inf.</string>
+  <string name="menu_add_short_cut">Napravi bližnjico na začetnem zaslonu</string>
   <string name="member_due_date">Velja do %s</string>
   <string name="micloud_alert_dialog_negative">Prekini</string>
   <string name="micloud_alert_dialog_positive">V redu</string>
@@ -288,7 +290,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_progress">Izklop Najdi napravo…</string>
-  <string name="micloud_find_device_guide_title">"Prijavite se v &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da najdete, zaklenete ali izbrišete svojo napravo. To vam lahko pomaga da najdete napravo če jo izgubite. &lt;br /&gt;Če izgubite napravo, se lahko obrnete na varnostno službo aplikacij katere pogosto uporabljate (npr. Alipay, WeChat, QQ) da zaščitite svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
+  <string name="micloud_find_device_guide_title">"Prijavite se v &lt;font color=#0097FF&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; da najdete, zaklenete ali izbrišete svojo napravo. To vam lahko pomaga da najdete napravo če jo izgubite. &lt;br /&gt;Če izgubite napravo, se lahko obrnete na varnostno službo aplikacij katere pogosto uporabljate (npr. Alipay, WeChat, QQ) da zaščitite svoje račune na &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;.""</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
   <string name="micloud_find_device_opened_content">Poiščite svojo napravo na %s</string>
@@ -547,7 +549,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="priv_dialog_finddevice_all_purpose_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite."</string>
   <string name="priv_dialog_finddevice_all_purpose_phone">"Dobrodošli v Najdi napravo!! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite."</string>
   <string name="priv_dialog_sync_all_purpose">"Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah."</string>
-  <string name="priv_doc_cloudservice">"Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah. Dostopite do sinhroniziranih stvari iz kateregakoli brskalnika na i&lt;b&gt;&lt;font color="#FF0000"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
+  <string name="priv_doc_cloudservice">"Dobrodošli v storitve Xiaomi Cloud! Xiaomi Cloud lahko uporabite za sinhronizacijo sporočil, zgodovine klicev, stikov, beležk, nastavitev brskalnika, pesmi, fotografij in videoposnetkov, nastavitev WiFi-ja, posnetkov, videza začetnega zaslona, aplikacij, koledarskih dogodkov, seznama blokiranih in zakl. aplikacij na vseh povezanih napravah. Dostopite do sinhroniziranih stvari iz kateregakoli brskalnika na i&lt;b&gt;&lt;font color="#0097FF"&gt;.mi.com.&lt;/font&gt;&lt;/b&gt;"
 
 Za aktiviranje storitve bo morda potreben odhodni SMS. Vaš mobilni operater vam to lahko računa. Ko zamenjate svojo SIM kartico se lahko samodejno pošlje sporočilo da se ta storitev spet aktivira.
 
@@ -568,7 +570,7 @@ Za shranjevanje stvari v vašo napravo (npr. slike, videoposnetki, pesmi)
 Če ne daste teh dovoljenj ali nočete deliti in prenašati vaše osebne podatke ne boste mogli uporabljati te storitve. V tem primeru lahko odstranite to aplikacijo, se odjavite ali omejite dovoljenja v nastavitvah.
 Preberite in sprejmite naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Pogoji uporabe &lt;/a&gt;&lt;/u&gt;in &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt;Pravila o zasebnosti p&lt;/a&gt;&lt;/u&gt;"pred uporabo Xiaomi Cloud.
 "</string>
-  <string name="priv_doc_finddevice_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
+  <string name="priv_doc_finddevice_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#0097FF"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
 
 Zaščitili bomo vaše osebne podatke v skladu z ustreznimi zakoni, predpisi in pravili o zasebnosti.
 Za normalno delo se mora Najdi napravo povezati na splet in zahtevati naslednja dovoljenja da zbere vaše osebne podatke:
@@ -590,7 +592,7 @@ Za lociranje naprave in preklop na izgubljeni način dela
 Če ne daste teh dovoljenj ali nočete deliti in prenašati vaše osebne podatke ne boste mogli uporabljati te storitve. V tem primeru lahko odstranite to aplikacijo, se odjavite ali omejite dovoljenja v nastavitvah.
 Preberite in sprejmite naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Pogoji uporabe &lt;/a&gt;&lt;/u&gt;in &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o zasebnosti &lt;/a&gt;&lt;/u&gt;" pred uporabo Najdi napravo.
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
+  <string name="priv_doc_finddevice_with_telephony_feature_pad">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#0097FF"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
 
 Za aktiviranje storitve bo morda potreben odhodni SMS. Vaš mobilni operater vam to lahko računa. Ko zamenjate svojo SIM kartico se lahko samodejno pošlje sporočilo da se ta storitev spet aktivira.
 
@@ -603,7 +605,7 @@ Za lociranje naprave in preklop na izgubljeni način dela
 Če ne daste teh dovoljenj ali nočete deliti in prenašati vaše osebne podatke ne boste mogli uporabljati te storitve. V tem primeru lahko odstranite to aplikacijo, se odjavite ali omejite dovoljenja v nastavitvah.
 Preberite in sprejmite naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Pogoji uporabe &lt;/a&gt;&lt;/u&gt;in &lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Pravila o zasebnosti &lt;/a&gt;&lt;/u&gt;" pred uporabo Najdi napravo.
 "</string>
-  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#FF0000"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
+  <string name="priv_doc_finddevice_with_telephony_feature_phone">"Dobrodošli v Najdi napravo! Uporabite jo lahko za iskanje, zaklepanje ali brisanje podatkov iz naprave če jo izgubite. Pojdite na "&lt;b&gt;&lt;font color="#0097FF"&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;" da jo locirate, zaklenete ali ponastavite.
 
 Za aktiviranje storitve bo morda potreben odhodni SMS. Vaš mobilni operater vam to lahko računa. Ko zamenjate svojo SIM kartico se lahko samodejno pošlje sporočilo da se ta storitev spet aktivira.
 
@@ -700,9 +702,11 @@ Preberite in sprejmite naše "&lt;u&gt;&lt;a href="app://com.miui.cloudservice.u
   <string name="sync_sub_1_intl_sms">Mednarodni in domač SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater vam bo to zaračunal.</string>
   <string name="sync_sub_1_sms">Vaš operater vam bo zaračunal SMS ki je uporabljen za aktivacijo te storitve.</string>
   <string name="sync_sub_1_sms_1_intl_sms">Vaš operater vam bo zaračunal 1 domač in 1 mednarodni SMS uporabljena za aktivacijo te storitve.</string>
-  <string name="sync_sub_2_intl_sms">Za vklop te storitve bosta lahko potrebna 2 mednarodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
-  <string name="sync_sub_2_sms">Za vklop te storitve bosta mogoče potrebna dva odhodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
+  <string name="sync_sub_2_intl_sms">Za vklop te storitve bosta morda potrebni 2 mednarodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
+  <string name="sync_sub_2_sms">Za vklop te storitve bosta mogoče potrebna dve odhodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
   <string name="system_busy_or_network_error">Prišlo je do napake. Počakajte minuto ali dve in poskusite ponovno.</string>
+  <string name="tip_short_cut_added_success">Bližnjica napravljena</string>
+  <string name="tip_short_cut_already_added">Narejeno</string>
   <string name="sync_sub_dspt">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktivacijo te storitve.</string>
   <string name="sync_sub_dspt_provision">Sinhronizacija slik, stikov, glasbe, aplikacij in ostalega na vse vaše naprave</string>
   <string name="sync_sub_int_dspt">Vaš operater vam bo zaračunal mednarodni SMS ki bo mogoče potreben za vklop te storitve.</string>

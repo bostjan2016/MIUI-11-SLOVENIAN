@@ -2198,6 +2198,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="smart_divert_title">Smart-Divert</string>
     <string name="smart_forwarding_settings_menu">Pametno posredovanje</string>
     <string name="smart_forwarding_settings_menu_summary">Če številka ni dosegljiva, vedno posredujte klice na svojo drugo številko.</string>
+  <string name="sms_messages_title">SMS</string>
   <string name="smsc_dialog_message">"Preverite pravilnost vnešene številke, drugače ne boste mogli prejemati in pošiljati SMS. Za potrditev vaše SMSC številke kontaktirajte svojega operaterja."</string>
   <string name="sp_unlock_failed">SIM zahtevek odklepa ponudnika storitev neuspešen.</string>
   <string name="sp_unlock_success">SIM odklep ponudnika storitev uspešen.</string>
