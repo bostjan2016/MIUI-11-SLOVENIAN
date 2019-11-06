@@ -2487,8 +2487,8 @@ Naprava nima slušalk. Za klicanje lahko uporabite prostoročni način ali pa sl
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibriranje</string>
   <string name="voicemail_notification_vibrate_when_title">Vibriranje</string>
   <string name="voicemail_notifications_preference_title">Obvestila</string>
-  <string name="voicemail_number_not_set">&lt;Ni nastavljeno&gt;</string>
-  <string name="voicemail_provider">Storitev glasovne pošte</string>
+  <string name="voicemail_number_not_set">Ni nastavljeno</string>
+  <string name="voicemail_provider">Storitev</string>
   <string name="voicemail_provider_summary">Izberite storitev glasovne pošte</string>
   <string name="voicemail_set_pin_dialog_title">Nastavitev PIN-a</string>
   <string name="voicemail_settings">Nastavitve gov. pošte</string>

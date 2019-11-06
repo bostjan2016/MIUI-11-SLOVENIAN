@@ -558,6 +558,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun iz neznane naprave</string>
   <string name="push_notify_dialog_message">"Neznana naprava se poskuša prijaviti na vaš Mi Račun. Vnesite kontrolno kodo v napravi. Če to niste bili vi, takoj zamenjajte geslo Mi Računa. Kontrolno kodo ne zaupajte nikomur."</string>
   <string name="push_notify_dialog_title">Kontrola računa</string>
+  <string name="pwd_width_phone_number_or_mail_num">"Geslo ne sme vsebovati vaše številke telefona, e-pošte ali ID Mi Računa"</string>
   <string name="qq">QQ</string>
   <string name="recycle_phone_notification_msg">Kaže da je vaša številka reciklirana. Pritisnite za posodobitev.</string>
   <string name="recycle_phone_notification_title">SigurVarnostno tveganje Mi Računa</string>
@@ -577,7 +578,8 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="restart_action">Začni znova</string>
   <string name="restart_phone_bind_message">Potrebno je nekaj časa za prejem SMS sporočila. Vseeno začnem znova?</string>
   <string name="restart_phone_bind_title">Spremeni telefon za obnovitev</string>
-  <string name="same_new_and_old_pwd">"Ne more biti enako kot trenutno geslo"</string>
+  <string name="risky_pwd_not_allow">"Novo geslo ni varno. Nastavite drugega."</string>
+  <string name="same_new_and_old_pwd">Novo geslo se mora razlikovati od starega</string>
   <string name="scan_barcode">Skeniraj QR kodo</string>
   <string name="scan_barcode_title">Če se želite prijaviti v svoj Mi račun skenirajte QR kodo</string>
   <string name="search_account_protection">Zaščita računa</string>

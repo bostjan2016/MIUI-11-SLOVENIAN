@@ -207,6 +207,14 @@
   <string name="edit_event_tab_birthday">Rojstni dan</string>
   <string name="edit_event_tab_countdown">Odštevanje</string>
   <string name="edit_event_tab_event">Dogodek</string>
+  <string name="edit_event_title_create_agenda">Dodaj dogodek</string>
+  <string name="edit_event_title_create_anniversary">Dodaj obletnico</string>
+  <string name="edit_event_title_create_birthday">Dodaj rojstni dan</string>
+  <string name="edit_event_title_create_countdown">Dodaj odštevanje</string>
+  <string name="edit_event_title_edit_agenda">Uredi dogodek</string>
+  <string name="edit_event_title_edit_anniversary">Uredi obletnico</string>
+  <string name="edit_event_title_edit_birthday">Uredi rojstni dan</string>
+  <string name="edit_event_title_edit_countdown">Uredi odštevanje</string>
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">"Uredi"</string>
   <string name="email_guests_label">Pošlji e-pošto gostom</string>

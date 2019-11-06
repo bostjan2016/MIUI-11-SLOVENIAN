@@ -134,13 +134,13 @@
   <string name="account_setup_incoming_username_label_default_hint">Lahko vključite domeno</string>
   <string name="account_setup_need_password_verification">Vaš račun ima odprto srednjo preverbo avtentičnosti gesla. Potrebna je preverba avtentičnosti</string>
   <string name="account_setup_options_actionbar_title">Hitre nastavitve</string>
-  <string name="account_setup_options_mail_check_frequency_10min">Vsakih 10 minut</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Vsakih 12 ur</string>
+  <string name="account_setup_options_mail_check_frequency_15min">Vsakih 15 minut</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Vsako uro</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Vsake 4 ure</string>
-  <string name="account_setup_options_mail_check_frequency_imap_push">Samodejno (Potisna, če strežnik podpira)</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Samodejno (Potisno, če strežnik to podpira)</string>
   <string name="account_setup_options_mail_check_frequency_never">Nikoli</string>
-  <string name="account_setup_options_mail_check_frequency_push">Samodejno (Potisna)</string>
+  <string name="account_setup_options_mail_check_frequency_push">Samodejno (Potisno)</string>
   <string name="account_setup_options_mail_window_1day">Včeraj</string>
   <string name="account_setup_options_mail_window_1month">Zadnji mesec</string>
   <string name="account_setup_options_mail_window_1quarter">Zadnje četrtletje</string>
@@ -587,7 +587,8 @@
   <string name="log_save_path">Pot zapisa</string>
   <string name="login">Prijavite se</string>
   <string name="login139">CMCC prijava z eno tipko</string>
-  <string name="login_err_message">Vnešeno geslo ni pravilno. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate uničiti geslo zaporku, obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
+  <string name="login_err_message">Vnešeno geslo ni pravilno. Morda boste potrebovali tudi kontrolno kodo za prijavo. Če morate uničiti geslo obiščite https://email.163.com/ da boste videli katere opcije so vam na voljo.</string>
+  <string name="login_err_sina_message">%1$s Za prijavo boste morda potrebovali tudi kontrolno kodo. Če morate ponastaviti geslo obiščite https://mail.sina.com.cn/ da boste videli katere opcije so vam na voljo.</string>
   <string name="login_failed_ticker">Prijava računa %s neuspešna.</string>
   <string name="login_failed_title">"Neuspešna prijava"</string>
   <string name="login_mail">Prijavi se</string>

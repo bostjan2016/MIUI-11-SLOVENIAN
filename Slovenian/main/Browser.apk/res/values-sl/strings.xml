@@ -1469,6 +1469,8 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="storage_permission_request_toast">"Prenos potrebuje dovoljenje za dostop do pomnilnika, dovolite to"</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">Zunanji pomnilnik</string>
+  <string name="sug_search_history_delete_text">Odstrani</string>
+  <string name="sug_search_history_empty_text">Očisti</string>
   <string name="suggest_access_appstore">Mi App Store</string>
   <string name="suggest_access_btn_install">Namesti</string>
   <string name="suggest_access_btn_open">Odpri</string>
