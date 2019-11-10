@@ -239,7 +239,7 @@
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
   <string name="launcher_global_search_mode_title">Globalno iskanje</string>
   <string name="launcher_global_search_provider_title">Globalna usluga iskanja</string>
-  <string name="launcher_minus_screen_title">Minus en zaslon</string>
+  <string name="launcher_minus_screen_title">Minus zaslon</string>
   <string name="launcher_auto_fill_empty_title">Samod. izpolni prazna mesta</string>
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na začetni zaslon in poskusite ponovno.</string>
   <string name="launcher_pull_down_title">Podrsajte dol na zač. zaslonu</string>
@@ -281,7 +281,7 @@
   <string name="menu_wallpaper">Ozadje</string>
   <string name="menu_workspace_preview">Predogled začetnih zaslonov</string>
   <string name="mi_wallpaper">MIUI Teme</string>
-  <string name="minus_one_screen">Zakl. aplikacij</string>
+  <string name="minus_one_screen">Osebni asistent</string>
   <string name="minus_one_screen_none">Nič</string>
   <string name="miui_screen_config_title">Nastavitve zač. zaslona</string>
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
@@ -298,10 +298,10 @@
   <string name="online_wallpaper">Mrežno</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
-  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati zakl. aplikacij in prejemati posodobitve. Izključim?"</string>
-  <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati zakl. aplikacij (delnice, bližnjice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
-  <string name="open_personal_assistant_dialog_title">Izključi zakl. aplikacij</string>
-  <string name="open_personal_assistant_title">Vključi zakl. aplikacij</string>
+  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati os. asistenta in prejemati posodobitve. Izključim?"</string>
+  <string name="open_personal_assistant_dialog_desc_international">"Ne boste mogli uporabljati os. asistenta (delnice, bližnjice ipd.) in prejemati posodobitve če izklopite to storitev."</string>
+  <string name="open_personal_assistant_dialog_title">Izključi os. asistenta</string>
+  <string name="open_personal_assistant_title">Vključi os. asistenta</string>
   <string name="out_of_space">Ni več prostora na tem zaslonu</string>
   <string name="permdesc_install_shortcut">Dovoli aplikaciji da doda bližnjice brez uporabnikovega posredovanja.</string>
   <string name="permdesc_install_widget">Programu omogoča dodajanje pripomočkov brez posredovanja uporabnika.</string>
