@@ -27,7 +27,7 @@
   <string name="ac_enter_applock">Vstopi v zakl. aplikacij</string>
   <string name="ac_firstUseApplock_subTitle">Uporabite boljša varnostna orodja na nivoju sistema</string>
   <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
-  <string name="ac_mask_all_apps">Skrij za vse aplikacije</string>
+  <string name="ac_mask_all_apps">Skrij za vse</string>
   <string name="ac_notification_contentText">Tapnite za vklop</string>
   <string name="ac_notification_contentTitle">Zaščitite aplikacije z zakl. aplikacij</string>
   <string name="ac_post_notification_contentText">Nabavite zaščito na nivoju sistema</string>
@@ -36,7 +36,7 @@
   <string name="ac_pre_notification_contentTitle">Poskusite zakl. aplikacij</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
   <string name="ac_summaryOn">Vnesite geslo za odpiranje aplikacije</string>
-  <string name="ac_unmask_all_apps">Pokaži za vse aplikacije</string>
+  <string name="ac_unmask_all_apps">Pokaži za vse</string>
   <string name="access_control_app_is_launching">Aplikacija se zaganja</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Narišite vzorec odklepanja da uporabite nov prstni odtis</string>
   <string name="access_control_fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa."</string>
@@ -1872,8 +1872,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
   <string name="notification_mask_summary">"Ne kaži vsebine obvestil za zaščitene aplikacije"</string>
   <string name="notification_mask_title">Skrij vsebino obvestil</string>
-  <string name="notification_masked_item">Skrij obvestila</string>
-  <string name="notification_masked_subtitle">Skrij obvestila iz aplikacij zaščitenih z zakl. aplikacij</string>
+  <string name="notification_masked_item">Kako skriti vsebino obvestil?</string>
+  <string name="notification_masked_subtitle">Uporabite Zakl. aplikacij da skrijete vsebino obvestil za izbrane aplikacije</string>
   <string name="notification_open_extreme_mode_text">Ekstremno varčevanje baterije je vključeno</string>
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
@@ -2041,7 +2041,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="password_promotion_postbutton_text">Dodaj</string>
   <string name="password_promotion_title">Dodaj Mi Račun</string>
   <string name="password_type">Spremeni geslo</string>
-  <string name="password_type_underline">&lt;u&gt;Spremeni geslo&lt;/u&gt;</string>
+  <string name="password_type_underline">Spremeni geslo</string>
   <string name="password_xspace_forget_pattern_message">Za spremembo gesla drugega prostora, morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
   <string name="pc_abnormal_scan_button_text">Zapri aplikacije</string>
   <string name="pc_abnormal_scan_reason_prevent_standby">Preprečuje sistemu vstop v stanje pripravljenosti</string>
@@ -2191,6 +2191,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_power_save_summary_text">Povečaj preostali čas do %1$dh %2$dm</string>
   <string name="power_center_power_save_title_text">Varčevanje baterije</string>
   <string name="power_center_repeat">Ponovi</string>
+  <string name="power_center_scan_item_title_5g">5G povezava</string>
   <string name="power_center_scan_item_title_GPS">Uredite natančnost GPS-a</string>
   <string name="power_center_scan_item_title_abnormal">Problemi z baterijo</string>
   <string name="power_center_scan_item_title_abnormal_apps">Nenavadna poraba energije aplikacije</string>
@@ -2254,7 +2255,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_dialog_delete_dialog_delete">Izbriši ta profil baterije?</string>
   <string name="power_dialog_delete_dialog_title">Izbriši profil</string>
   <string name="power_dialog_ok">V redu</string>
-  <string name="power_dialog_super_save_msg">"Ultra varčevanje baterije omejuje stvari ki porabljajo največ energije in zmanjšuje znogljivost naprave da bi osnovne storitve (npr. klici, SMS sporočila in povezava z omrežjem bile na voljo čim dlje. Vključim Ultra varčevanje baterije?"</string>
+  <string name="power_dialog_super_save_msg">"Ultra varčevanje baterije omejuje stvari ki porabljajo največ energije in zmanjšujejo zmogljivost naprave da bi osnovne storitve (npr. klici, SMS sporočila in povezava z omrežjem bile na voljo čim dlje. Vključim Ultra varčevanje baterije?"</string>
+  <string name="power_dialog_super_save_msg_5g">"Ultra varčevanje baterije omejuje večino stari, ki porabljajo energijo (npr. 5G povezava) in zmanjšujejo zmogljivost naprave. Ne vpliva na klice, sporočila in omrežno povezavo. Vključim Ultra varčevanje baterije?"</string>
   <string name="power_dialog_super_save_title">Ultra varčevanje baterije</string>
   <string name="power_dialog_screen_brightness_automatic">Samodejno prilagodi osvetlitev</string>
   <string name="power_dialog_screen_brightness_automatic_off">Osvetlitev zaslona bo ostala nespremenjena v vseh pogojih</string>
@@ -2309,6 +2311,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_optimize_btn_text_fixed">Optimizirano</string>
   <string name="power_optimize_catagory_fixed_title">Optimizirano</string>
   <string name="power_optimize_close_app">Zapri aplikacije ki porabijo preveč energije</string>
+  <string name="power_optimize_disable_5g">Omeji 5G povezavo</string>
   <string name="power_optimize_disable_app_autostart">Prepreči aplikacijam samodejni zagon</string>
   <string name="power_optimize_disable_gps">Izključi GPS</string>
   <string name="power_optimize_disable_start_other_app">Prepreči aplikacijam odpiranje drugih aplikacij</string>
@@ -2354,6 +2357,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_on_time_start_time_summary_na">Od</string>
   <string name="power_save_ps_clean">Očisti predspomin ko se naprava zaklene</string>
   <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da privarčujete baterijo</string>
+  <string name="power_save_ps_close_setting_5g">Izključi storitve ki porabljajo energijo (sinhronizacija, 5G povezava, GPS)</string>
   <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
   <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
   <string name="power_save_settings">Nastavitve baterije</string>
@@ -2563,6 +2567,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="privacy_prompt_traffic_adjust_message">"To opravilo mora poslati IMEI vaše naprave, številko telefona in podatke vašega mobilnega operaterja na Mi strežnike da boste dobili statistiko o porabi podatkov vašega mobilnega operaterja.</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti mobilnega operaterja bodo šifrirani in naloženi na Mi strežnike da boste dobili več informacij o možnosti nakupa podatkov."</string>
   <string name="privacy_prompt_upload">Pošlji</string>
+  <string name="privacyapp_number_masked_text">Vsebina obvestil je skrita</string>
+  <string name="privacyapp_number_unmasked_text">Vsebina obvestil ni skrita</string>
   <string name="process_mediaserver_label">Medijski strežnik</string>
   <string name="process_vpnsdkmanager_label">Game Turbo</string>
   <string name="promotion">Oglas</string>

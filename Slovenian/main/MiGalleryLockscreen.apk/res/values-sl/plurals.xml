@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="article_num">
+        <item quantity="other">%d člankov</item>
+        <item quantity="one">%d članek</item>
+    </plurals>
  <plurals name="lockscreen_magazine_subscribe">
          <item quantity="other">Sledilcev: %1$s</item>
          <item quantity="one">%1$s sledilec</item>

@@ -1998,6 +1998,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="remove_ims_account">Odstrani račun</string>
   <string name="remove_sip_account">Odstrani račun</string>
   <string name="removing_account">Odstranjujem...</string>
+  <string name="replace_4g_template">4G</string>
   <string name="requesting_corporate_unlock">Prošnja za odklep SIM...</string>
   <string name="requesting_nw_subset_unlock">Prošnja za odklep SIM omrežja</string>
   <string name="requesting_puk_unlock">Zahtevam odklep PUK...</string>

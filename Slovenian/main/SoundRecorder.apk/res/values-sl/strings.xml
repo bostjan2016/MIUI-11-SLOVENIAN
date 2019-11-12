@@ -12,6 +12,7 @@
   <string name="call_record_list_group_all">Vsi</string>
   <string name="call_record_list_group_connected">Povezano</string>
   <string name="call_record_list_group_unconnected">Ni povezano</string>
+  <string name="cancel_rename">Prekliči</string>
   <string name="clear_records">Izbriši sinhronizirane zapise</string>
   <string name="cloud_record">Sinhronizirano %d</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
@@ -54,6 +55,8 @@
   <string name="korea_permission_record_resc">Za snemanje zvoka</string>
   <string name="korea_permission_storage">Shramba</string>
   <string name="korea_permission_storage_desc">Za shranjevanje posnetkov</string>
+  <string name="loading_more">Samo trenutek…</string>
+  <string name="loading_order_list">Samo trenutek…</string>
   <string name="low_battery_error">"Preostalo je manj kot 5% baterije. Zaustavite snemanje in shranite posnetek da ga ne izgubite."</string>
   <string name="low_battery_error_confirm">V redu</string>
   <string name="low_battery_error_title">Prazna baterija</string>

@@ -11,7 +11,9 @@
   <string name="intelligent_recognition_item_title">Identificiraj storitve</string>
   <string name="mms">Sporočila</string>
   <string name="more_ringtone">Vsa zvonenja</string>
+  <string name="network_error">Omrežna napaka, poskusite ponovno</string>
   <string name="notification_sound">Zvoki obvestil</string>
+  <string name="retry">Poskusite ponovno</string>
   <string name="ringtone_slot_setting_title">Dual SIM melodije zvonenja</string>
   <string name="ringtone_sound">Melodije zvonenja</string>
   <string name="ringtone_title">Melodije zvonenja</string>
@@ -23,6 +25,10 @@
   <string name="sim_slot_2">" (SIM 2)"</string>
   <string name="sms_delivered_sound_title">Dostavljena sporočila</string>
   <string name="sms_received_sound_title">Dohodna sporočila</string>
+  <string name="stop_app_timer">Onemogoči čas zaslona</string>
+  <string name="stop_app_timer_fail">Čas zaslona ne more biti onemogočen</string>
+  <string name="stop_app_timer_success">Čas zaslona je onemogočen</string>
+  <string name="stop_app_timer_tip">Čas zaslona, povezani podatki in dovoljenja bodo izbrisani po onemogočitvi, vključno nastavitve, lokalne in oblačne podatke itd.</string>
   <string name="thememanager_not_found">"Ne morem odpreti Teme. Preverite ali je ta aplikacija nameščena."</string>
   <string name="usage_app_get_it">Razumem</string>
   <string name="usage_app_limit_alter_summary">"Kaže da je ta časovna omejitev krajša od časa današnje uporabe aplikacije. Vseeno nastavim omejitev?"</string>
@@ -176,4 +182,5 @@
   <string name="usagestats_device_timeout_negative">Opomni čez 1 uro</string>
   <string name="usagestats_device_timeout_positive">Razumem</string>
   <string name="usagestats_device_timeout_title">Opozorila o času zaslona</string>
+  <string name="wait_tip">Samo trenutek…</string>
 </resources>

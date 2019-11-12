@@ -49,6 +49,7 @@
   <string name="content_description_web_url">Preglej</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
+  <string name="data_usage_context">Če WiFi ni vključen se bo naprava povezala na mobilno omrežje kar vam morda lahko povzroči dodatne stroške</string>
   <string name="default_device_name">Neznana naprava</string>
   <string name="default_name">Privzeto</string>
   <string name="description_title">Tihi način</string>

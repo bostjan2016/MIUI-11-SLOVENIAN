@@ -894,6 +894,8 @@ nastavitev in aplikacij"</string>
   <string name="backup_summary_state_on">Vključi</string>
   <string name="backup_update">Posodobi</string>
   <string name="badge_title">Pokaži značko ikone aplikacije</string>
+  <string name="band_24G">(2.4G)</string>
+  <string name="band_5G">(5G)</string>
   <string name="band_mode_failed">Ni uspelo</string>
   <string name="band_mode_loading">Nalaganje seznama omrežnih nastavitev…</string>
   <string name="band_mode_set">Nastavi</string>
@@ -2685,6 +2687,20 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dual_clock_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dual_wifi">Dvojna pohitritev WiFi omrežja</string>
+  <string name="dual_wifi_acceleration">Slave WiFi pohitritev</string>
+  <string name="dual_wifi_avaliable_slave_wifi">Slave WiFi na voljo</string>
+  <string name="dual_wifi_avaliable_slave_wifi_24G">Na voljo slave WiFi(2.4G)</string>
+  <string name="dual_wifi_avaliable_slave_wifi_5G">Na voljo slave WiFi(5G)</string>
+  <string name="dual_wifi_enabler_summary">Istočasno uporabi dve WiFi omrežji za pohitritev</string>
+  <string name="dual_wifi_off">Izključi</string>
+  <string name="dual_wifi_on">Vključi</string>
+  <string name="dual_wifi_primary_wifi_connected">Povezan primarni WiFi</string>
+  <string name="dual_wifi_slave_wifi_connected">Povezan slave WiFi</string>
+  <string name="dual_wifi_summary">Povezano na primarni WiFi, vključite slave WiFi in povečajte hitrost omrežja.</string>
+  <string name="dual_wifi_switching_not_remind">Ne kaži več</string>
+  <string name="dual_wifi_switching_prompt">Zahteva zamenjave WiFi</string>
+  <string name="dual_wifi_switching_summary">Dvojni WiFi zahteva različne frekvence, če pa želite zamenjati frekvenčni pas primarnega WiFi-ja, bo slave WiFi izključen.</string>
   <string name="dump_log">Pridobivanje zapisov povezanih z problemi</string>
   <string name="dump_log_summary">"Ta storitev je dizajnirana za generiranje 284 zapisov v alfa in beta različicah MIUI. Uporabljajte jo previdno.
 Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
@@ -4669,12 +4685,13 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="mtrl_picker_header_selected">%1$s</string>
   <string name="mtrl_picker_range_header_prompt">Izberite časovno obdobje</string>
   <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+  <string name="multi_network_acceleration_app_settings">Urejanje aplikacij z več omrežji</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
-  <string name="multi_user_mode_backup_message">"Ne morem uporabiti Si. kopijo v Multi-uporabniškem načinu. Izključite Multi-uporabniški način za nadaljevanje."</string>
-  <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje."</string>
-  <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
+  <string name="multi_user_mode_backup_message">"Ne morem uporabiti var. kopijo v Več-uporabniškem načinu. Izključite Več-uporabniški način za nadaljevanje."</string>
+  <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Več-uporabniški način za nadaljevanje."</string>
+  <string name="multi_user_mode_dialog_title">"Vi ste v načinu dela Več uporabnikov"</string>
   <string name="music_HiFi_title">HiFi avdio</string>
   <string name="music_app_unavailable">Preverite ali je aplikacija Mi Glasba na voljo.</string>
   <string name="music_audio_effect_optimize">Avdio nastavitve</string>
@@ -6254,7 +6271,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="ringtone_mute">Tiho</string>
   <string name="ringtone_slot_setting_title">Nastavitve za eno SIM kartico</string>
   <string name="ringtone_summary"/>
-    <string name="ringtone_title">Melodija zvonjenja telefona</string>
+    <string name="ringtone_title">Melodija zvonjenja</string>
   <string name="ringtone_uniform_setting_title">Nastavitve za dve SIM kartici</string>
     <string name="ringtones_category_preference_title">Melodije zvonjenja</string>
   <string name="ringtones_install_custom_sound_content">Ta datoteka bo kopirana v mapo %s</string>
@@ -6338,8 +6355,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_cancel">Prekliči</string>
   <string name="screen_cells_config_title">Razpored začet. zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
-  <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
-  <string name="screen_color_temperature">Barve</string>
+  <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti temperaturo barve v načinu za branje"</string>
+  <string name="screen_color_temperature">Temperatura barve</string>
   <string name="screen_color_temperature_and_saturation">Barve &amp; osvetlitev</string>
   <string name="screen_compatibility_label">Združljivost zaslona</string>
   <string name="screen_compatibility_text">Ta aplikacija morda ni namenjena za vaš zaslon. Tu lahko nastavite način prilagajanja zaslonu.</string>
@@ -9362,6 +9379,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
     <string name="wifi_metered_title">Uporaba omrežja</string>
     <string name="wifi_modify">Spremeni</string>
     <string name="wifi_more">Več</string>
+  <string name="wifi_multi_network_acceleration">Inteligentna pohitritev več omrežij</string>
     <string name="wifi_multiple_cert_added">(Dodanih je bilo več potrdil)</string>
   <string name="wifi_network_optimization">Optimizirana povezava</string>
     <string name="wifi_network_prefix_length">Dolžina predpone omrežja</string>

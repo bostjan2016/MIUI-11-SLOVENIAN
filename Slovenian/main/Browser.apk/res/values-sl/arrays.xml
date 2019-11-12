@@ -141,4 +141,8 @@
         <item>Odpri</item>
         <item>Zapri</item>
     </string-array>
+	<string-array name="quick_link_tabs">
+       <item>Oznake</item>
+       <item>Zgodovina</item>
+    </string-array>	   
 </resources>
