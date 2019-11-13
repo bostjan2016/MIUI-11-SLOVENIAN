@@ -48,7 +48,7 @@
   <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
   <string name="fmt_date_numeric_month_day">dd.MM</string>
   <string name="fmt_date_numeric_year">yyyy</string>
-  <string name="fmt_date_numeric_year_month">M-yyyy</string>
+  <string name="fmt_date_numeric_year_month">MM.yyyy</string>
   <string name="fmt_date_numeric_year_month_day">dd.MM.yyyy</string>
   <string name="fmt_date_short_month">MMM</string>
   <string name="fmt_date_short_month_day">d MMM</string>
@@ -57,7 +57,7 @@
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="hybrid_provider">Ponuja %1$s .</string>
+  <string name="hybrid_provider">Ponuja %1$s</string>
   <string name="im">IM</string>
   <string name="immersion_button_close_description">Zapri</string>
   <string name="instruction">Navodila</string>

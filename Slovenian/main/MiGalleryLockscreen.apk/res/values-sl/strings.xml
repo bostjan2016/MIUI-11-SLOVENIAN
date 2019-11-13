@@ -623,7 +623,7 @@
   <string name="sst_cover_chg_enable_title">Pokaži med polnjenjem</string>
   <string name="sst_custom_wallpaper_desc">Izberite slike iz Galerije in priporočila</string>
   <string name="sst_custom_wallpaper_title">Lastna diaprojekcija</string>
-  <string name="sst_custom_wallpaper_title2">Diaprojekcijo</string>
+  <string name="sst_custom_wallpaper_title2">diaprojekcija</string>
   <string name="sst_disable_unopen">Beta storitev</string>
   <string name="sst_effect_next_wallpaper">Nastavite novo ozadje za uporabo sprememb</string>
   <string name="sst_favor_desc">Pokaži priljubljene slike ozadja</string>

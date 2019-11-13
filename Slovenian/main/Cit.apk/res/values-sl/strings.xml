@@ -361,6 +361,9 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_sim_state_unkown">Neznano</string>
   <string name="cit_start_calibration">Kalibriraj</string>
   <string name="cit_stop_calibration">Ustavi kalibracijo</string>
+  <string name="cit_tele_camera_check_title">Tele Kamera</string>
+  <string name="cit_tfcard_no_support">TF Kartica ni podprta v tej napravi.</string>
+  <string name="cit_tfcard_support">TF Kartica je podprta v tej napravi.</string>
   <string name="cit_tfcard_support_summary">Preverite ali naprava podpira TF Kartico</string>
   <string name="cit_tfcard_support_title">Naprava podpira TF Kartico</string>
   <string name="cit_thermal_history_summary">Počakajte … Branje temperaturnih podatkov na tej napravi.</string>

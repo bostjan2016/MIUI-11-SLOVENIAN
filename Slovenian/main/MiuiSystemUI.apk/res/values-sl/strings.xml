@@ -336,8 +336,8 @@
   <string name="available_via_carrier">Na voljo preko %1$s</string>
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="back">Nazaj</string>
-  <string name="band_24G">(2.4G)</string>
-  <string name="band_5G">(5G)</string>
+  <string name="band_24G">" (2.4 GHz)"</string>
+  <string name="band_5G">" (5 GHz)"</string>
   <string name="battery">Baterija</string>
   <string name="battery_can_use_time">Ostalo še %s</string>
   <string name="battery_detail_charging_summary">Varčevanje baterije ni na voljo med polnjenjem</string>
