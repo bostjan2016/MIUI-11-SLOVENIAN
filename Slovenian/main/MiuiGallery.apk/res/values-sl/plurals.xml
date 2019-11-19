@@ -56,6 +56,10 @@
         <item quantity="other">Skupaj: %1$d</item>
         <item quantity="one">Skupaj: %1$d</item>
     </plurals>
+	<plurals name="photo_remain_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+    </plurals>
 	  <plurals name="picker_all_image_need_download">
          <item quantity="other">"Izbrane fotografije niso v napravi, prenesem z mobilnimi podatki?"</item>
          <item quantity="one">"Izbrana fotografija ni v napravi, prenesem z mobilnimi podatki?"</item>
@@ -420,4 +424,24 @@
         <item quantity="other">%1$d datotek</item>
         <item quantity="one">%1$d datoteka</item>
      </plurals>
+	 <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>
+        <item quantity="one">"Ne boste mogli vrniti %d izbrano stvar če jo izbrišete. Izbrišem vseeno?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>
+        <item quantity="one">"Ne boste mogli vrniti %d izbrano stvar če jo izbrišete. Izbrišem vseeno?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Ne boste mogli vrniti izbrane stvari (%d) če jih izbrišete. Izbrišem vseeno?"</item>
+        <item quantity="one">"Ne boste mogli vrniti %d izbrano stvar če jo izbrišete. Izbrišem vseeno?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Stvari so lahko shranjene do %1$d dni (%2$s)</item>
+        <item quantity="one">Stvar je lahko shranjena %1$d dan (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Stvari so lahko shranjene do %1$d dni. Nadgradite svoj plan za podaljšanje obdobja.</item>
+        <item quantity="one">Stvari so lahko shranjene %1$d dan. Nadgradite svoj plan za podaljšanje obdobja.</item>
+    </plurals>
 </resources>

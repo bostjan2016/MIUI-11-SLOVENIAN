@@ -145,6 +145,7 @@ in za trenutek zapustite pregled"</string>
   <string name="camera_liveshot_on_tip">Dinamični posnetki</string>
   <string name="camera_mode_options">Načini</string>
   <string name="camera_setting">Kamera</string>
+  <string name="camera_settings_category_development">Poskusne storitve</string>
   <string name="camera_settings_label">Kamera</string>
   <string name="camera_snap_mode_title">Quick snap način</string>
   <string name="camera_snap_mode_title_detail">Dotaknite se za prikaz podrobnosti</string>
@@ -594,7 +595,6 @@ na svojih fotografijah"</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Poskusite portretni način.
 Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="portrait_with_facebeauty_hint">Na voljo je opravilo olepševanja v portretnem načinu dela.</string>
-  <string name="pref_advance_settings">Dodatne nastavitve</string>
   <string name="pref_advanced_functions">Napredne nastavitve</string>
   <string name="pref_advanced_settings">Napredno</string>
   <string name="pref_ai_detect">AI detekcija</string>
@@ -665,6 +665,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Lani</string>
   <string name="pref_camera_coloreffect_title">Filtri</string>
+  <string name="pref_camera_common_settings">Dodatne nastavitve</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
   <string name="pref_camera_default_suffix">(Privzeto)</string>
   <string name="pref_camera_delay_capture_entry_10s">Počakaj 10s</string>
@@ -827,6 +828,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Olepšanje v portretnem načinu dela</string>
   <string name="pref_camera_proximity_lock_summary">Zakleni dejanja dotika kadar se pospravi v žep</string>
   <string name="pref_camera_proximity_lock_title">Žepni način dela</string>
+  <string name="pref_camera_quick_settings">Hitre nastavitve</string>
   <string name="pref_camera_quick_shot_anim_enable_title">Vključi animacijo hitrega snemanja</string>
   <string name="pref_camera_quick_shot_enable_title">Vključi hitro snemanje</string>
   <string name="pref_camera_recordlocation_entry_off">Izklop</string>

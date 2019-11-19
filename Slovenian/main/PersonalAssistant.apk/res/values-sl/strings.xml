@@ -36,10 +36,12 @@
   <string name="agenda_settings_loan">Pokaži plačila kreditov</string>
   <string name="alipay_init">Zagon Alipay storitve…</string>
   <string name="alipay_init_success">Alipay storitev je zagnana​</string>
-  <string name="all_function_title">Vse bližnjice</string>
   <string name="announce_for_drag">Poteg ene stvari</string>
   <string name="app_label">Asistent</string>
   <string name="app_setting">Nastavitve</string>
+  <string name="app_setting_account">Računi</string>
+  <string name="app_setting_account_binding">Dodaj</string>
+  <string name="app_setting_account_unbinding">Odstrani</string>
   <string name="app_setting_add_header_bg">Slika za ozadje</string>
   <string name="app_setting_datetime">Pokaži datum</string>
   <string name="app_setting_dialog_cancel">Prekliči</string>

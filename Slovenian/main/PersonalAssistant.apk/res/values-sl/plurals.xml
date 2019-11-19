@@ -53,4 +53,8 @@
          <item quantity="other">Izbrano stvari: %s</item>
          <item quantity="one">Izbrana %s stvar</item>
      </plurals>
+	 <plurals name="express_setting_phone_binded_info">
+        <item quantity="other">Dodano %d številk telefona</item>
+        <item quantity="one">Dodana %d številka telefona</item>
+    </plurals>
 </resources>

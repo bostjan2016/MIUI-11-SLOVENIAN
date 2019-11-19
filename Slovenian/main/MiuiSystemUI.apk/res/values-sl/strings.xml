@@ -1670,7 +1670,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="quick_settings_screenshot_label">Posnetek zaslona</string>
   <string name="quick_settings_secondary_label_until">Do %s</string>
     <string name="quick_settings_settings_label">Nastavitve</string>
-  <string name="quick_settings_sim_disabled">(Onemogočeno)</string>
+  <string name="quick_settings_sim_disabled">" (Onemogočeno)"</string>
   <string name="quick_settings_sync_label">Sinhr.</string>
   <string name="quick_settings_tethering_label">Deljenje povezave</string>
     <string name="quick_settings_time_label">Čas</string>
@@ -1782,7 +1782,9 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_title">"Ne morem napraviti posnetek zaslona."</string>
     <string name="screenshot_failed_to_capture_text">"Aplikacija ali vaša organizacija ne dovoljuje posnetkov zaslona"</string>
+  <string name="screenshot_failed_to_capture_title">"Ta aplikacija ne dovoljuje posnetkov zaslona"</string>
     <string name="screenshot_failed_to_save_text">Shranjevanje posnetka zaslona ni mogoče zaradi omejenega prostora za shranjevanje.</string>
+  <string name="screenshot_failed_to_save_title">Ni dovolj prostora za nove posnetke zaslona</string>
     <string name="screenshot_failed_to_save_unknown_text">Pri shranjevanju posnetka zaslona je prišlo do težave.</string>
   <string name="screenshot_feedback_txt">Povratna inf.</string>
   <string name="screenshot_insert_failed">Ne morem prenesti posnetka zaslona. naredite ponovno ali preglejte sliko v Galeriji.</string>
