@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Approval">Odobritev</string>
+  <string name="Xiaomi_account_pending_approval">Pregled prijave</string>
   <string name="abc_action_bar_home_description">Pojdi na začetno</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -52,6 +54,7 @@
   <string name="cancel">Prekliči</string>
   <string name="character_counter_content_description">Presežena je omejitev števila znakov %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="check_for_updates">Preveri za Beta posodobitve</string>
   <string name="choose_open_code_app">Izberite aplikacijo</string>
   <string name="choose_picture">Izberite sliko QR kode</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot je vključen. Vključite WiFi.</string>
@@ -64,6 +67,7 @@
   <string name="contact_details">QR koda:</string>
   <string name="continue_access_web_url">Pojdi na spletno stran</string>
   <string name="continue_to_website">Pojdi na spletno stran</string>
+  <string name="continue_waiting">Čakaj</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_text">Kopiraj besedilo</string>
   <string name="copy_text_success">Besedilo kopirano</string>
@@ -93,6 +97,8 @@
   <string name="document_title">Posnemite fotografijo dokumenta</string>
   <string name="document_top_panel_title">Fotografija dokumenta</string>
   <string name="done">Končano</string>
+  <string name="download_stable_version">Uporabi stabilno verzijo</string>
+  <string name="download_use_stable_version">Prenesi stabilno verzijo</string>
   <string name="drag_barcode_into_frame">Poravnajte kodo znotraj okvirja</string>
   <string name="drag_crop_to_business_card">Premesti</string>
   <string name="email">Email:</string>
@@ -108,10 +114,27 @@
   <string name="error_minute_limit">Preveč poskusov v 1 minuti</string>
   <string name="error_permissions">"Skener nima potrebnih dovoljenj za normalno delo. Pojdite v Nastavitve in preverite dovoljenja za nadaljevanje."</string>
   <string name="error_server_error">Napaka strežnika</string>
+  <string name="experience_new_feature_tips">"Prijavite se v svoj Mi Račun da se boste prijavili za dovoljenje za uporabo Beta verzije. Beta verzijo boste lahko uporabili ko pregledamo vašo prijavo. Beta verzija lahko vsebuje napake."</string>
+  <string name="experience_new_features">Beta verzija</string>
+  <string name="experiential_version_of_the_prompt_content">Prijavite se v svoj Mi Račun za dostop do Beta Skenerja. Prijava zdaj?</string>
+  <string name="failed_to_get_xiaomi_account">"Ne morem se prijaviti"</string>
   <string name="feed_search_fail">Ni rezultatov, poskusite ponovno</string>
+  <string name="feedback">Povratne inf.</string>
   <string name="feedback_description_camera_access">"Skener se ne more povezati s kamero"</string>
   <string name="feedback_description_save_photo">"Ne morem shraniti fotografije ali videa"</string>
+  <string name="feedback_title">Povratne inf.</string>
   <string name="flight_mode_connecting_to_wifi">Ročno vključite WiFi ko je način Letalo vključen</string>
+  <string name="food_identification_fail_tips">Skenirajte sadje, zelenjavo in drugo hrano. Storitev deluje tudi s slikami.</string>
+  <string name="food_identification_tip_msg">Prepoznavanje hrane…</string>
+  <string name="food_make_complaints_hint">Tu vnesite povratne informacije</string>
+  <string name="food_module_feedback_str">Povratne inf.</string>
+  <string name="food_module_get_more_info">Več informacij</string>
+  <string name="food_module_identification_failure">"Ne morem prepoznati tega"</string>
+  <string name="food_module_send_feedback">Pošlji</string>
+  <string name="food_module_step_on">"Ni mi všeč"</string>
+  <string name="food_module_thumbs_up">Všeč mi je</string>
+  <string name="food_module_tip">Postavite hrano znotraj okvirja</string>
+  <string name="food_module_title_food">Kalorije</string>
   <string name="flash_lable">Bliskavica</string>
   <string name="got_it">Razumem</string>
   <string name="gps">Navigacija</string>
@@ -163,6 +186,8 @@
   <string name="namecard_vendor_info">Ponuja CamCard</string>
   <string name="new_schedule">Napravi dogodek</string>
   <string name="nickname">Vzdevek:</string>
+  <string name="no_has_experience_version_permission">"Nimate dovoljenj za uporabo Beta verzije. Prijavite se za dovoljenje ali prenesite stabilno verzijo."</string>
+  <string name="no_inner_version">"Beta verzija ni na voljo "</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
   <string name="no_storage">Vstavite zunanji pomnilnik pred uporabo kamere</string>
   <string name="no_support_to_translate_type">"Ta jezik ni podprt"</string>
@@ -190,6 +215,7 @@
   <string name="plant_title">Skenirajte rastlino ki jo želite identificirati</string>
   <string name="preparing_sd">Pripravljanje SD kartice…</string>
   <string name="previous">Nazaj</string>
+  <string name="prompt">Pozor</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
   <string name="recognition_error_download_data_msg">Skeniranje kartic zahteva da prenesete orodje za prepoznavanje velikosti okoli 15M, bodite pozorni na uporabo podatkov</string>
@@ -202,6 +228,7 @@
   <string name="recognition_error_downloading">Prenos orodja za prepoznavanje…</string>
   <string name="recognize">Skeniraj</string>
   <string name="recognize_fail">"Ne morem prebrati kode"</string>
+  <string name="request_server_failed">"Povezava s strežnikom ni uspela"</string>
   <string name="scan_fail">"Ne morem skenirati kode"</string>
   <string name="scan_result">Rezultat</string>
   <string name="scan_support_type">WeChat, Alipay, QR kode, bar kode</string>
@@ -230,6 +257,7 @@
   <string name="study_searching">Iskanje rezultata…</string>
   <string name="study_title">Posnemite fotografijo problema</string>
   <string name="study_vendor_info">Ponuja Zuoyebang</string>
+  <string name="suggested_submission_success">Vaše povratne informacije so poslane</string>
   <string name="switch_open">Vključi</string>
   <string name="tel">Telefon</string>
   <string name="tips_message">"Povežite se se na splet da boste preverili ali je spletna lokacija varna."</string>
@@ -269,6 +297,7 @@
   <string name="translation_see_more">Pokaži opredelitev</string>
   <string name="translation_type_sentence">Izraz</string>
   <string name="translation_type_word">Beseda</string>
+  <string name="uninstall_prompt">Če se med namestitvijo pojavijo problemi, pojdite na Nastavitve&gt; Aplikacije &gt; Informacije o aplikaciji &gt; Skener, tapnite \"Odstrani\", in poskusite ponovno namestiti aplikacijo.</string>
   <string name="url_is_phish">To je morda phishing spletna stran</string>
   <string name="url_is_safety">Ta spletna stran je varna</string>
   <string name="url_is_unknown">"Ne morem preveriti ali je spletna stran varna"</string>
@@ -278,6 +307,7 @@
   <string name="web">Spletna stran:</string>
   <string name="website_details">Spletna stran:</string>
   <string name="weixin_code_tip">Uporabite WeChat za skeniranje te QR kode</string>
+  <string name="welcome_to_thesweepversion">Dobrodošli v Skener Beta!</string>
   <string name="wifi_details">WiFi:</string>
   <string name="wifi_exist_fail">WiFi hotspot \"%1$s\" že obstaja. Izbrišite ga in poskusite ponovno.</string>
   <string name="wifi_psd_toolong">Geslo je predolgo. Vnesite ga ročno.</string>
@@ -285,5 +315,9 @@
   <string name="wifi_pwd">Geslo:</string>
   <string name="wifi_security">Varnost:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="will_be_sent_tothe_background_review">" (Vaša prijava bo kmalu poslana v pregled.)"</string>
   <string name="wx_not_installed_toast">Ta storitev uporablja WeChat. Najprej namestite WeChat.</string>
+  <string name="you_have_permission_to_download">Tapnite za prenos beta verzije</string>
+  <string name="you_id">"Vaša ID: "</string>
+  <string name="your_application_is_under_review">" (Vaša prijava se pregleduje.)"</string>
 </resources>

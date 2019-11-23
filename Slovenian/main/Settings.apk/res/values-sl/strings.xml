@@ -7761,7 +7761,9 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="super_resolution_no_app_tips">Najprej prenesite WeChat in Toutiao.</string>
   <string name="super_resolution_reboot_tips">Omogoča snemanje zamegljenih slik v WeChat in Toutiao. Po vklopu te storitve ponovno zaženite aplikacijo.</string>
   <string name="super_resolution_title">Super resolucija</string>
-  <string name="supl_not_set">&lt;Ni nastavljeno&gt;</string>
+  <string name="sunlight_mode">Način sončne svetlobe</string>
+  <string name="sunlight_mode_summary">Prilagodite svetlost močni ambientalni svetlobi ko je samodejna svetlost izključena</string>
+  <string name="supl_not_set">Ni nastavljeno</string>
   <string name="supplicant_state_label">Stanje prosilca:</string>
   <string name="support_account_picker_add_account">Dodaj račun</string>
   <string name="support_account_request_prefix">Zahteva kot</string>
@@ -8539,7 +8541,7 @@ Iz profila bodo prav tako odstranjeni shranjeni prstni odtisi, tako da z njimi n
   <string name="usage_type_phone">Naprava</string>
   <string name="usage_type_radio_active">Mobilna radijska enota aktivna</string>
   <string name="usage_type_total_battery_capacity">Skupna zmogljivost akumulatorja</string>
-    <string name="usage_type_video">Video</string>
+  <string name="usage_type_video">"Video"</string>
   <string name="usage_type_wake_lock">Ohrani odklenjen zaslon</string>
   <string name="usage_type_wifi_running">WiFi vklopljen</string>
   <string name="usagestats_app_category_miui_financial">Finance</string>
@@ -8580,9 +8582,9 @@ Prenesite samo važne stvari."</string>
   <string name="usb_format">Izbriši USB pomnilnik</string>
   <string name="usb_format_summary">Izbriše vse podatke iz USB pomnilnika kot npr. glasba in fotografije</string>
   <string name="usb_headset_not_support_cancel">Razumem</string>
-  <string name="usb_headset_not_support_message">"USB analogne slušalke niso podprte. Zamenjajte jih z digitalnimi,
- ali uporabite 3,5 mm vhod za slušalke"</string>
-  <string name="usb_headset_not_support_tile">Prepoznavanje slušalk</string>
+  <string name="usb_headset_not_support_message">"Zvok se ne more predvajati preko adapterja. Uporabite digitalne slušalke,
+ ali slušalke z 3,5 mm vtičnico"</string>
+  <string name="usb_headset_not_support_tile">"Ne morem predvajati zvoka"</string>
   <string name="usb_host_mode_subtext">Z uporabo igralnih konzol preko USB vhoda se lahko izrazito poveča poraba baterije</string>
   <string name="usb_host_mode_text">Omogoči način gostitelja USB</string>
   <string name="usb_insert_summary">Vstavite USB pomnilnik za vklop</string>

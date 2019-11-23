@@ -730,7 +730,9 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Izključeno</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_hdr_type_entry_live">Live</string>
+  <string name="pref_camera_heic_image_format_description">Posnemite fotografije v visoko učinkovitem HEIC formatu</string>
+  <string name="pref_camera_heic_image_format_title">HEIC Format</string>
+  <string name="pref_camera_hdr_type_entry_live">V živo</string>
   <string name="pref_camera_hdr_type_entry_normal">Normalno</string>
   <string name="pref_camera_hdr_type_title">HDR vrsta</string>
   <string name="pref_camera_hfr_entry_2x">60</string>

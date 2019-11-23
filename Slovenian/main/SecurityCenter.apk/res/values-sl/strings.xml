@@ -3096,7 +3096,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_permission_declare_analytics_declare">"Zahvaljujemo se vam za vključitev v program uporabniških izkušenj. Za normalno delo morate biti povezani na splet. Dati morate tudi naslednja dovoljenja da omogočite zbiranje podatkov ki nam bodo pomagali izboljšati naše izdelke in storitve. Ti podatki se zbirajo samo v statistične namene. Te podatov ne moremo uporabiti za osebno prepoznavo.
 "</string>
   <string name="system_permission_declare_disagree">Ne strinjam se</string>
-  <string name="system_permission_declare_double_link">Prreberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti pred uporabo.</string>
+  <string name="system_permission_declare_double_link">Preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti pred uporabo.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli v %1s! Ta storitev vam omogoča uporabo naslednjega: %2s.</string>
   <string name="system_permission_declare_no_say_no">"Aplikacija ne bo delovala brez potrebnih dovoljenj."</string>
   <string name="system_permission_declare_no_say_no_analytics">"Če ne želite odobriti dovoljenj se lahko odjavite v Nastavitve &gt; Dodatne nastavitve &gt; Zasebnost &gt; Program uporabniških izkušenj."</string>

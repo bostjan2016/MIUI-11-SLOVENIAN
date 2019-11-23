@@ -163,4 +163,24 @@
     <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
     </plurals>
+	<plurals name="global_wa_clean_finish_audio">
+        <item quantity="other">&lt;Data>Osvobojeno &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (dovolj za &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> pesmi)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Osvobojeno &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (dovolj za &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> pesem)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_clean_finish_picture">
+        <item quantity="other">&lt;Data>Osvobojeno &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (dovolj za &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotografij)&lt;/Data></item>
+        <item quantity="one">&lt;Data>Osvobojeno &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (dovolj za &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> fotografijo)&lt;/Data></item>
+    </plurals>
+    <plurals name="global_wa_image">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+    </plurals>
+    <plurals name="global_wa_video">
+        <item quantity="other">%1$d stvari</item>
+        <item quantity="one">%1$d stvar</item>
+    </plurals>
+    <plurals name="global_wa_voice">
+        <item quantity="other">&lt;Data>Najdeno &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovnih sporočil&lt;/Data></item>
+        <item quantity="one">&lt;Data>Najdeno &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovno sporočilo&lt;/Data></item>
+    </plurals>
 </resources>
