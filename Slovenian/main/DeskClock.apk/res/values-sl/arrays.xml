@@ -34,6 +34,33 @@
         <item>Pon - Pet</item>
         <item>Po meri</item>
     </string-array>
+	<string-array name="bedtime_guide_repeat_type">
+        <item>Pon - Pet</item>
+        <item>Vsak dan</item>
+        <item>Delovnik</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entries">
+        <item>Vsak dan</item>
+        <item>Pon - Pet</item>
+        <item>Delovnik</item>
+        <item>Po meri</item>
+    </string-array>
+	<string-array name="days_of_week">
+        <item>Ned</item>
+        <item>Pon </item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="notification_adv_time_entries">
+        <item>Ob določenem času</item>
+        <item>15 minut prej</item>
+        <item>30 minut prej</item>
+        <item>1 uro prej</item>
+        <item>Nič</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>"Zvonenje budilke nastavljeno čez manj kot 1 minuto."</item>
         <item>"Zvonenje budilke nastavljeno čez %1$s."</item>

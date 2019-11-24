@@ -50,7 +50,7 @@
         <item>Izračunavanje cilja spanja…</item>
         <item>Cilj spanja: %1$d hr</item>
         <item>Za zdaj ni podatkov o spanju</item>
-        <item>Odpiranje Mi Health</item>
+        <item>Odpiranje Mi Zdravje</item>
     </string-array>
     <string-array name="temperature_unit">
         <item>℃</item>

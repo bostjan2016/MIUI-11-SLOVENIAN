@@ -29,8 +29,8 @@
          <item quantity="one">%d min.</item>
      </plurals>
 	<plurals name="second">
-        <item quantity="other">%d sek</item>
-        <item quantity="one">%d sek</item>
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
      </plurals>
 	<plurals name="snooze_duration_changed_info">
         <item quantity="other">Alarm je odložen za %d min.</item>
@@ -65,7 +65,23 @@
         <item quantity="one">"%1$d min "</item>
      </plurals>
     <plurals name="timer_message_second">
-        <item quantity="other">%1$d sek</item>
-        <item quantity="one">%1$d sek</item>
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
      </plurals>
+	 <plurals name="sleep_duration_hour">
+        <item quantity="other">%1s ur</item>
+        <item quantity="one">%1$s ura</item>
+    </plurals>
+    <plurals name="sleep_duration_hour_avg">
+        <item quantity="other">%1s ur</item>
+        <item quantity="one">%1$s ura</item>
+    </plurals>
+    <plurals name="sleep_duration_min">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+    </plurals>
+    <plurals name="sleep_duration_min_avg">
+        <item quantity="other">%1$s min.</item>
+        <item quantity="one">%1$s min.</item>
+    </plurals>
 </resources>
