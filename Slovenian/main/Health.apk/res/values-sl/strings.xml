@@ -262,8 +262,8 @@ Mi Zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="need_auto_start_permission">Da dobite točnejšo statistiko, dovolite Me Zdravje samodejni zagon.</string>
   <string name="need_unrestricted_permission">Da dobite točnejšo statistiko, dovolite Mi Zdravje izvajanje v ozadju.</string>
   <string name="next_step">Naprej</string>
+  <string name="no_body_weight_record">Še ni zapisov</string>
   <string name="no_records">Ni zapisov</string>
-  <string name="non_steps">0</string>
   <string name="not_support_step">"Vaša naprava ne more šteti korake"</string>
   <string name="open_unrestricted_permissions">Za natančnejšo spremljavo spanja dovolite Mi Zdravje izvajanje v ozadju.</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
