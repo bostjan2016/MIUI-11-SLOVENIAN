@@ -136,11 +136,12 @@
   <string name="app_no_restricted_accounts">Ta aplikacija ne podpira računov za profile z omejitvami</string>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
+  <string name="app_running_notification_tip_text">To lahko upočasni napravo in izprazni baterijo. Tapnite za zapiranje aplikacije</string>
   <string name="app_running_notification_title">%1$s se izvaja</string>
-    <string name="app_suspended_default_message">Aplikacija %1$s trenutno ni na voljo. To upravlja aplikacija %2$s.</string>
+    <string name="app_suspended_default_message">Aplikacija %1$s trenutno ni na voljo. To ureja aplikacija %2$s.</string>
     <string name="app_suspended_more_details">Več o tem</string>
     <string name="app_suspended_title">Aplikacija ni na voljo</string>
-    <string name="app_upgrading_toast">%1$s se nadgrajuje …</string>
+  <string name="app_upgrading_toast">Nadgradnja aplikacije %1$s…</string>
   <string name="audit_safemode_notification">Ponastavitev naprave na tovarniške nastavitve za uporabo brez omejitev</string>
   <string name="audit_safemode_notification_details">Dotaknite se, če želite izvedeti več.</string>
   <string name="autofill">Samodejno izpolnjevanje</string>

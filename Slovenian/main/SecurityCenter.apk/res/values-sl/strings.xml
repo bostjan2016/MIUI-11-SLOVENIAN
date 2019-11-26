@@ -374,6 +374,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_permission_use_neccesary">Potrebna dovoljenja</string>
   <string name="app_permission_use_no_neccesary">Izbirna dovoljenja</string>
   <string name="app_permission_use_title">Dovoljenja</string>
+  <string name="app_running_tip_dialog_negative">Prekliči</string>
+  <string name="app_running_tip_dialog_positive">V redu</string>
+  <string name="app_running_tip_dialog_text">Zapri %1$s da se prepreči zagon v ozadju. To bo pohitrilo napravo in zmanjšalo porabo energije.</string>
+  <string name="app_running_tip_dialog_title">Zapri aplikacijo</string>
+  <string name="app_running_tip_uninstall">Odstrani aplikacijo</string>
   <string name="app_usage_never">Ni uporabljeno</string>
   <string name="app_usage_recently">Nedavno uporabljeno</string>
   <string name="app_version">"Različica "</string>
@@ -506,7 +511,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="banner_optimizemanage_summary">Osvobodite spomin</string>
   <string name="banner_red_money_assist_button">Vključi</string>
   <string name="banner_red_money_assist_summary">Hitreje odprite rdeče ovojnice</string>
-  <string name="battery_and_property">Baterija &amp; zmogljivost</string>
+  <string name="battery_and_property">Baterija</string>
+  <string name="battery_can_use_time">%s ostalo</string>
   <string name="battery_capacity_title">Kapaciteta baterije</string>
   <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napolnjeno</string>
@@ -538,6 +544,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$dm</string>
   <string name="battery_history_seconds">%1$ds</string>
+  <string name="battery_low_button_not_open_power_save">Ne zdaj</string>
+  <string name="battery_low_button_open_power_save">Vključi</string>
+  <string name="battery_low_percent_format_save_mode_closed">"Ostalo je manj od %1$s baterije. Ne pozabite napolniti napravo."</string>
+  <string name="battery_low_percent_format_save_mode_open">"Ostalo je manj od %1$s baterije. Vključite varčevanje baterije da dodate %2$s dodatnega časa."</string>
+  <string name="battery_low_title">Baterija je prazna</string>
+  <string name="battery_low_title_power_save">Varčevanje baterije</string>
   <string name="battery_statistics_activity_title">Statistika uporabe baterije</string>
   <string name="battery_stats_charging_label">Polnjenje</string>
   <string name="battery_stats_gps_on_label">GPS</string>
@@ -932,13 +944,15 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_antispam_using_mode_international_delete_message">"Izbrišem pravilo ki ga trenutno uporabljate in vrnem nazaj na nastavljena pravila seznama blokiranih?"</string>
   <string name="dlg_black_address_antispam_message">Dodam to lokacijo na seznam blokiranih?</string>
   <string name="dlg_black_antispam_hint">Seznam blokiranih</string>
-  <string name="dlg_black_antispam_message">Didan to številko na seznam blokiranih?</string>
+  <string name="dlg_black_antispam_message">Dodam to številko na seznam blokiranih?</string>
+  <string name="dlg_cancel">Prekliči</string>
   <string name="dlg_clear_all_call">Izbrišem blokirane klice?</string>
   <string name="dlg_clear_all_ok">Izbriši vse</string>
   <string name="dlg_clear_all_sms">Izbrišem blokirana SMS sporočila?</string>
   <string name="dlg_clear_current_call">Izbrišem vse blokirane klice s te številke?</string>
   <string name="dlg_clear_current_ok">Izbriši</string>
   <string name="dlg_clear_current_sms">Izbrišem vsa blokirana SMS sporočila poslana s te številke?</string>
+   <string name="dlg_confirm">Vključi</string>
   <string name="dlg_delete_keyword">Izbrišem izbrane ključne besede?</string>
   <string name="dlg_edit_keyword">Urejanje ključnih besed</string>
   <string name="dlg_import_blacklist">Dodajanje…</string>
@@ -962,6 +976,11 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_retore">Vrnem SMS sporočila v aplikacijo?</string>
   <string name="dlg_retore_ok">Vrni</string>
   <string name="dlg_sec_network_unavailable">"Aplikacija varnost se ne more pododobiti ker ste ji omejili spletno povezavo. Dovolim aplikaciji varnost da se poveže na splet?"</string>
+  <string name="dlg_summary_close_app">"Aplikacije se ne bodo zagnale v ozadju. Obvestila bodo omejena."</string>
+  <string name="dlg_summary_close_theme">"Dinamične teme ne bodo delovale."</string>
+  <string name="dlg_summary_close_wifi">WiFi, Bluetooth, in prenosni hotspot bodo izključeni.</string>
+  <string name="dlg_summary_nfc">NFC bo izključen.</string>
+  <string name="dlg_summary_title">Aktivnost v ozadju bo omejena ko zapustite aplikacijo ali se vrnete na začetni zaslon. Dodajte aplikacije v izjeme varčevanja baterije da jim omogočite zagon v ozadju.</string>
   <string name="dlg_title_not_open_stranger_identify">ID klicatelja</string>
   <string name="dlg_update_btn_contiue">Nadaljuj</string>
   <string name="dlg_update_btn_open">Dovoli</string>
@@ -994,6 +1013,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
   <string name="empty_title_risk_list">Ni nevarnih aplikacij</string>
   <string name="empty_title_root_apps">Aplikacije nimajo dostopa do jedra</string>
+  <string name="enable_extreme_power_save_mode">Ekstremno varčevanje baterije</string>
   <string name="empty_title_system_cache_list">Sistemski predpomnilnik je prazen</string>
   <string name="empty_title_system_process_list">Ni sistemskih procesov</string>
   <string name="empty_title_virus_list">Ni virusov</string>
@@ -1472,6 +1492,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="installing">Nameščanje…</string>
   <string name="international_Ad">Reklama</string>
   <string name="international_roaming_setting">Mednarodno gostovanje</string>
+  <string name="invalid_charger">"Ni morem polniti preko USB. Uporabite polnilec."</string>
   <string name="international_roaming_whitelist_count">%d aplik. se lahko poveže na podatkovne storitve v gostovanju</string>
   <string name="ip_address_exception_summary">"Ni bilo mogoče dobiti IP naslova. Če ponovno naletite na to težavo poskusite uporabiti statični IP naslov."</string>
   <string name="item_app_permission">Dovoljenje aplikacije</string>
@@ -1482,17 +1503,18 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="item_usb_debug">USB odpravljanje napak</string>
   <string name="item_virus">Virus</string>
   <string name="item_virus_lib">Samodejno posodabljanje virusnih informacij</string>
-  <string name="keywords_antispam">Blocklist;Block;Black list;Smart blocklist;Fraud;Sales;Agents</string>
+  <string name="keyguard_charging_info_drained_time_format">%1$s %2$s</string>
+  <string name="keywords_antispam">Seznam blokiranih;Blokiraj;Črni seznam;Pametni seznam blokiranih;Prevarant;Prodaja;Agenti</string>
   <string name="keywords_antivirus">Virus;Tveganje;Antivirus;Preveri</string>
   <string name="keywords_applicationlock">Geslo;Zasebnost;Zakl. aplik;Dostop;Zaščita</string>
   <string name="keywords_cleanmaster">Smeti;Izbriši;Hitrost;Shramba;Cache</string>
-  <string name="keywords_monthreport">Report;Monthly report;Annual report;Security report</string>
+  <string name="keywords_monthreport">Prijavi;Mesečno poročilo;Letno poročilo;Poročilo o varnosti</string>
   <string name="keywords_networkassistant_1">Podatki;Promet</string>
   <string name="keywords_networkassistant_2">Podatki;Kalibriraj</string>
   <string name="keywords_networkassistant_3">Podatki;Shrani</string>
   <string name="keywords_networkassistant_4">Povezava;Splet;Test</string>
-  <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
-  <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
+  <string name="keywords_permcenter">Zamod. zagon;Dovoljenja;ROOT;Lokacija;Dostop do stikov</string>
+  <string name="keywords_powercenter">Varčevanje baterije;Pregrevanje;Vključi;Izključi;Baterija;Praznjenje</string>
   <string name="keywords_powercenter_powerrank">Uporaba baterije</string>
   <string name="keywords_securitycenter">Varnost;Preveri;Skeniraj</string>
   <string name="keywords_securitycenter_settings">Poraba baterije;Dovoljenja;Seznam blokiranih;Uporaba podatkov:Kalibriraj plan podatkov;Test omrežja;Zakl. aplikacij;Varčevanje baterije;Gretje;Vključi;Izključi;Baterija;Poraba;Samod. zagon;ROOT;Lokacija;Dostop do stikov;Blokiraj;Seznam blokiranih;Seznam dovoljenih;Prevarant;Trgovec;Agenti;Podatki;Promet;Kalibriraj;Povezanost;Splet;Test;Geslo;Zasebnost;Dostop;Zaščita</string>
@@ -1569,6 +1591,9 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="low_memory_warning_dialog_msg">Osvobodite nekaj prostora na vaši napravi za nadaljevanje</string>
   <string name="low_memory_warning_dialog_ok_button">Očisti</string>
   <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
+  <string name="low_temperature_button_ok">Razumem</string>
+  <string name="low_temperature_warning_message">"Kaže da je prehladno zato se telefon lahko izključi preden vi to pričakujete. Shranite važne spremembe."</string>
+  <string name="low_temperature_warning_title">Temperatura zraka je nizka</string>
   <string name="main_activity_content_summary_root">ROOT dostop</string>
   <string name="main_activity_content_summary_update">Posodobitev sistema</string>
   <string name="main_activity_content_title_scanning">Preverjanje</string>
@@ -1862,6 +1887,7 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_battery_scan_consume_abnormal_summary">Tapnite da rešite problem</string>
   <string name="notification_battery_scan_consume_abnormal_title_set">%s porablja baterijo</string>
+  <string name="notification_channel_battery">Baterija</string>
   <string name="notification_exit_extreme_mode_text">Baterija je napolnjena več od %s</string>
   <string name="notification_exit_extreme_mode_title">Ekstremno varčevanje baterije je izključeno</string>
   <string name="notification_battery_over_heat_summary">Najdite tisto kar povzroča gretje in ohladite napravo.</string>
@@ -1869,6 +1895,10 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_charging_title">Polnjenje</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
+  <string name="notification_low_battery_action_btn">Vključi</string>
+  <string name="notification_low_battery_need_charge">Napolnite svojo napravo</string>
+  <string name="notification_low_battery_open_save_mode">Vključi varčevanje baterije</string>
+  <string name="notification_low_battery_title">Preostalo je manj kot %s baterije</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
   <string name="notification_mask_summary">"Ne kaži vsebine obvestil za zaščitene aplikacije"</string>
   <string name="notification_mask_title">Skrij vsebino obvestil</string>
@@ -1974,6 +2004,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="open_app">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_callwait">Vključeno</string>
+  <string name="open_extreme_power_save_mode_title">Vključi Ekstremno varčevanje baterije</string>
   <string name="open_game">Odpri</string>
   <string name="open_now">Dovoli aplikaciji uporabo mobilnih podatkov</string>
   <string name="operator_diagnostic">Diagnostika operaterja</string>
@@ -2698,6 +2729,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safe_result_item_info_wifi_fake">Ni nepravo</string>
   <string name="safepay_alert_dialog_button_continue">Nadaljuj</string>
   <string name="safepay_alert_dialog_button_fix">Popravi</string>
+  <string name="save_mode_btn_ok">Razumem</string>
   <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>

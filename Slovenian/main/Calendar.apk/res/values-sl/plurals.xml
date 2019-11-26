@@ -159,6 +159,10 @@
         <item quantity="other">Vsakih %1$d tednov na %2$s</item>
         <item quantity="one">Tedensko na %2$s</item>
      </plurals>
+	 <plurals name="other_all_day_events">
+        <item quantity="other">še %d dogodkov</item>
+        <item quantity="one">še %d dogodek</item>
+    </plurals>
 	 <plurals name="reminder_custom_unit_day">
         <item quantity="other">" dni"</item>
         <item quantity="one">" dan"</item>

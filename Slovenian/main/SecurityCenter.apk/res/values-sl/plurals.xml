@@ -383,13 +383,21 @@
         <item quantity="other">Geslo mora vsebovati najmanj %d znakov poleg črk.</item>
         <item quantity="one">Geslo mora vsebovati najmanj 1 znak poleg črk.</item>
     </plurals>
+	<plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
 	<plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Povežite vsaj %d točk</item>
         <item quantity="one">Povežite vsaj %d točko</item>
     </plurals>
     <plurals name="numeric_recording_incorrect_too_short">
         <item quantity="other">Vnesite vsaj %d številk</item>
-        <item quantity="one">Vnesite vsaj %d številkoo</item>
+        <item quantity="one">Vnesite vsaj %d številko</item>
     </plurals>
     <plurals name="mixed_recording_incorrect_too_short">
         <item quantity="other">Vnesite vsaj %d znakov</item>
