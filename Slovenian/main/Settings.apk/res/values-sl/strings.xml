@@ -467,8 +467,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="aod_mode_time_summary">Nastavite čas ko naj se naprava poveže na Vedno vključeno</string>
   <string name="aod_mode_time_title">Razpored</string>
   <string name="aod_mode_title">Zmeraj vključeno delovni način</string>
-  <string name="aod_mode_turn_off">Izključi</string>
-  <string name="aod_mode_turn_on">Vključi</string>
+  <string name="aod_mode_turn_off">Izključeno</string>
+  <string name="aod_mode_turn_on">Vključeno</string>
   <string name="aod_name_wanxiang">Zmeraj vključeno zaslon</string>
   <string name="aod_notification_style_animation">Pokaži animacijo</string>
   <string name="aod_notification_style_none">Nič</string>
@@ -796,7 +796,7 @@ Nazadnje zagnano: %2$s"</string>
     <string name="aware_category_display" />
     <string name="aware_category_gesture" />
     <string name="aware_category_security" />
-    <string name="aware_disabled_preference_action">Vklopi</string>
+  <string name="aware_disabled_preference_action">Vključeno</string>
     <string name="aware_disabled_preference_dialog_content" />
     <string name="aware_disabled_preference_dialog_title" />
     <string name="aware_disabled_preference_neutral">Ne zdaj</string>
@@ -891,8 +891,8 @@ nastavitev in aplikacij"</string>
   <string name="backup_set_new_pw_title">Vnesi novo geslo</string>
   <string name="backup_set_null_pw">Najprej vnesi geslo</string>
   <string name="backup_set_pw_confirm_title">Potrdi novo geslo</string>
-  <string name="backup_summary_state_off">Izključi</string>
-  <string name="backup_summary_state_on">Vključi</string>
+  <string name="backup_summary_state_off">Izključeno</string>
+  <string name="backup_summary_state_on">Vključeno</string>
   <string name="backup_update">Posodobi</string>
   <string name="badge_title">Pokaži značko ikone aplikacije</string>
   <string name="band_24G">" (2.4 GHz)"</string>
@@ -2482,8 +2482,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="disable_service_message">Če se dotaknete možnosti »%1$s«, se bo storitev »%2$s« ustavila.</string>
     <string name="disable_service_title">Želite izklopiti »%1$s«?</string>
   <string name="disable_text">Onemogoči</string>
-  <string name="disable_wifi_master_key_service">Izključi</string>
-  <string name="disable_wifi_master_key_service_first">Vključi</string>
+  <string name="disable_wifi_master_key_service">Izključeno</string>
+  <string name="disable_wifi_master_key_service_first">Vključeno</string>
   <string name="disabled">Onemogočeno</string>
   <string name="disabled_authorised_apps_title">Preklicana avtorizacija</string>
   <string name="disabled_because_no_backup_security">Če želite uporabljati najprej nastavite zaklepanje zaslona</string>
@@ -2694,8 +2694,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dual_wifi_avaliable_slave_wifi_24G">Pomožna omrežja so na voljo (2.4 GHz)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Pomožna omrežja so na voljo (5 GHz)</string>
   <string name="dual_wifi_enabler_summary">Istočasno uporabi dve WiFi omrežji za pohitritev</string>
-  <string name="dual_wifi_off">Izključi</string>
-  <string name="dual_wifi_on">Vključi</string>
+  <string name="dual_wifi_off">Izključeno</string>
+  <string name="dual_wifi_on">Vključeno</string>
   <string name="dual_wifi_primary_wifi_connected">Glavno WiFi omrežje</string>
   <string name="dual_wifi_slave_wifi_connected">Pomožno WiFi omrežje</string>
   <string name="dual_wifi_summary">Povećajte hitrost WiFi z povezavo na pomožna omrežja.</string>
@@ -5225,9 +5225,9 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="oldman_mode_summary_cta">Lite način potrebuje povezavo s spletom da lahko prebere vaše stike, sporočila in podrobnosti o lokaciji za normalno delovanje.</string>
   <string name="oldman_uninstalled_btn">Namesti</string>
   <string name="oldman_uninstalled_des">Lite način vas osvobaja vizualnega nereda in ohranja vaš začetni zaslon enostaven in minimalističen.</string>
-  <string name="on">Vključi</string>
+  <string name="on">Vključeno</string>
   <string name="one_cacrt">en CA certifikat</string>
-    <string name="one_usercrt">eno uporabniško potrdilo</string>
+  <string name="one_usercrt">eno uporabniško potrdilo</string>
   <string name="one_userkey">en uporabniški ključ</string>
   <string name="onehour">30 minut</string>
   <string name="onekey_migrate">Mi Mover</string>
@@ -9443,7 +9443,7 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
     <string name="wifi_privacy_settings">Zasebnost</string>
     <string name="wifi_privacy_settings_ephemeral_summary">Naključno izbran MAC</string>
   <string name="wifi_property">WiFi lastnosti</string>
-  <string name="wifi_protection_on">Vključi</string>
+  <string name="wifi_protection_on">Vključeno</string>
   <string name="wifi_protection_settings_title">Zaščita pred WiFi poskusom zahteve</string>
   <string name="wifi_protection_tip">MIUI bo zaščitil vaše osebne podatke pred WiFi poskusom zahteve ki pride iz naključnih MAC naslovov in WiFi poskusom sniffers-ov ko vaša naprava išče WiFi omrežja.</string>
   <string name="wifi_quick_toggle_summary">Vklopi WiFi</string>
