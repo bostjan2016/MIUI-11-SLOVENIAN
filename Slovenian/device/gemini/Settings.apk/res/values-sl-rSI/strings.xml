@@ -3702,8 +3702,8 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="setting_privacy_password">Nastavite Geslo za zaščito zasebnosti</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
   <string name="settings_ad_loading_unavailable">"Ne morem prenesti."</string>
-  <string name="settings_backup">Varnostno kopiranje nastavitev</string>
-  <string name="settings_backup_summary">Varnostno kopiranje nastavitev</string>
+  <string name="settings_backup">Nastavitve</string>
+  <string name="settings_backup_summary">Nastavitve</string>
   <string name="settings_button">Nastavitve</string>
   <string name="settings_forbidden_message">Ta nastavitev je onemogočena</string>
   <string name="settings_label">Nastavitve</string>

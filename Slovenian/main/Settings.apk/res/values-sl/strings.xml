@@ -3869,7 +3869,7 @@ Nastavitev lahko pozneje spremenite v »Nastavitve > Aplikacije in obvestila«."
   <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata.</string>
   <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
     <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
-  <string name="local_backup_section_summary">Varnostno kopiranje nastavitev sistema, informacij računa in aplikacij</string>
+  <string name="local_backup_section_summary">Nastavitve sistema, informacij računa in aplikacij</string>
   <string name="local_backup_section_title">Lokalna shramba</string>
   <string name="local_backup_window_title">Lokalna var. kopija</string>
   <string name="local_home_title">Lokalne var. kopije</string>
@@ -5047,7 +5047,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="notifi_importance_high">Predvajaj zvok in pokaži na zaslonu.</string>
   <string name="notifi_importance_low">Pokaži tiho</string>
   <string name="notifi_importance_min">Pokaži tiho in minimiraj</string>
-  <string name="notifi_importance_none">Nikada ne kaži obvestil</string>
+  <string name="notifi_importance_none">Nioli ne kaži obvestil</string>
   <string name="notifi_importance_unspecified">Dovoli zvok</string>
   <string name="notifi_no_channels">"Ta aplikacija ni dobila nobenega obvestila"</string>
   <string name="notification_alert_title">Z opozorilom</string>
@@ -7025,8 +7025,8 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
   <string name="settings_ad_loading_unavailable">"Informacije ne morem prenesti."</string>
-    <string name="settings_backup">Varnostno kopiranje nastavitev</string>
-    <string name="settings_backup_summary">Varnostno kopiranje nastavitev</string>
+    <string name="settings_backup">Nastavitve</string>
+    <string name="settings_backup_summary">Nastavitve</string>
   <string name="settings_button">Nastavitve</string>
   <string name="settings_forbidden_message">Ta nastavitev je omejena</string>
   <string name="settings_label">Nastavitve</string>
