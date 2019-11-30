@@ -975,7 +975,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="dlg_remove_whitelist_title">Odstrani</string>
   <string name="dlg_retore">Vrnem SMS sporočila v aplikacijo?</string>
   <string name="dlg_retore_ok">Vrni</string>
-  <string name="dlg_sec_network_unavailable">"Aplikacija varnost se ne more pododobiti ker ste ji omejili spletno povezavo. Dovolim aplikaciji varnost da se poveže na splet?"</string>
+  <string name="dlg_sec_network_unavailable">"Aplikacija varnost se ne more posodobiti ker ste ji omejili spletno povezavo. Dovolim aplikaciji varnost da se poveže na splet?"</string>
   <string name="dlg_summary_close_app">"Aplikacije se ne bodo zagnale v ozadju. Obvestila bodo omejena."</string>
   <string name="dlg_summary_close_theme">"Dinamične teme ne bodo delovale."</string>
   <string name="dlg_summary_close_wifi">WiFi, Bluetooth, in prenosni hotspot bodo izključeni.</string>

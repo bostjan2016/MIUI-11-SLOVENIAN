@@ -5047,7 +5047,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="notifi_importance_high">Predvajaj zvok in pokaži na zaslonu.</string>
   <string name="notifi_importance_low">Pokaži tiho</string>
   <string name="notifi_importance_min">Pokaži tiho in minimiraj</string>
-  <string name="notifi_importance_none">Nioli ne kaži obvestil</string>
+  <string name="notifi_importance_none">Nikoli ne kaži obvestil</string>
   <string name="notifi_importance_unspecified">Dovoli zvok</string>
   <string name="notifi_no_channels">"Ta aplikacija ni dobila nobenega obvestila"</string>
   <string name="notification_alert_title">Z opozorilom</string>

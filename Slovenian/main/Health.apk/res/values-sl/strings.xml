@@ -100,7 +100,7 @@
   <string name="date_format_y_m_d_h_m_2">dd MMM, yyyy HH:mm</string>
   <string name="date_format_y_m_d_h_m_s">dd.MM.yyyy HH:mm:ss</string>
   <string name="date_format_y_m_d_notranslate">dd-MM-yyyy</string>
-  <string name="date_week_index">"'W'ww yyyy"</string>
+  <string name="date_week_index">"'T'ww yyyy"</string>
   <string name="day">Dan</string>
   <string name="deep_sleep">Globoko spanje</string>
   <string name="delete_menstruation_record_confirm">Izbrišem ta zapis?</string>
@@ -185,7 +185,7 @@ Mi Zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="health_score_tips">Zdravstveni rezultat se izračunava na osnovi BMI (indeksa telesne mase) ter spanja in aktivnosti. Bližje ko boste dosegli svoje cilje, boljši bo vaš zdravstveni rezultat.</string>
   <string name="history_statistics">Zgodovina</string>
   <string name="home_page_card_setting">Kartice začetne strani</string>
-  <string name="hour">H</string>
+  <string name="hour">U</string>
   <string name="icon_content_description">Ikona dialoga</string>
   <string name="improve_step_target">Prepogosto dosežete svoj cilj. Nastavite višjega.</string>
   <string name="improve_your_health_default_tips">Vadite in dovolj spite da boste ostali zdravi.</string>
@@ -272,7 +272,7 @@ Mi Zdravje vas bo obvestil samo o pomembnih stvareh."</string>
   <string name="permission_manage">Urejanje dovoljenj</string>
   <string name="permission_tip">Dajte Mi Zdravje naslednja dovoljenja kar mu bo omogočilo točno spremljanje vašega spanja</string>
   <string name="predict_menstruation">Pričakovana menstruacija</string>
-  <string name="preference_about">O</string>
+  <string name="preference_about">O aplikaciji</string>
   <string name="preference_basic_info">Osnovne informacije</string>
   <string name="preference_feedback">Povratna inf.</string>
   <string name="preference_health_info_proposal_title">Pridobite točne statistike in koristne nasvete</string>

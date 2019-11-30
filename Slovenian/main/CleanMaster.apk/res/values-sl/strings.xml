@@ -645,7 +645,7 @@
   <string name="summary_delete_cache">Očistim predpomnilnik izbranih aplikacij?</string>
   <string name="summary_delete_large_file">Trajno izbrišem izbrane datoteke?</string>
   <string name="summary_delete_video">Trajno izbrišem izbrane videoposnetke?</string>
-  <string name="summary_optimizer">"To opravilo bere imena nepoznanih datotek za pododobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
+  <string name="summary_optimizer">"To opravilo bere imena nepoznanih datotek za posodobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Preberi imena map</string>
   <string name="there_is_no">Vse izgleda dobro, vrnite se kasneje</string>

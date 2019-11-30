@@ -310,7 +310,8 @@
   <string name="sleep_record_desc">Vključite za začetek snemanja podatkov o stanju spanja</string>
   <string name="sleep_record_desc_detailed">Ponuja Mi Zdravje. Po vklopu Mi Zdravje samodejno beleži vaše spanje na osnovi uporabe telefona, statistike aktivnosti in časa ki ste ga nastavili (kdaj ste zaspali/se zbudili), z orikazom statistike v obliki lestvice. Za točne podatke dovolite aplikaciji samodejni zagon. Vsi povezani podatki bodo shranjeni lokalno v vaši napravi.
 </string>
-  <string name="sleep_record_no_data">Vaša statistika bo prikazana tu ko bo Mi Zdravje analiziral dovolj podatkov</string>
+  <string name="sleep_record_no_data">Vaša statistika bo prikazana tu
+ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="sleep_remind">Opomnik za spanje</string>
   <string name="sleep_time">Zaspal/a</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
