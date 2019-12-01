@@ -276,7 +276,7 @@
   <string name="set_alarm_choose_ringtone">Izberite melodijo zvonenja</string>
   <string name="set_alarm_done">Končano</string>
   <string name="set_alarm_other">Ostalo</string>
-  <string name="setting_alarm_arriving_subtitle">Pokaži obvestila predn se alarmi izključijo</string>
+  <string name="setting_alarm_arriving_subtitle">Pokaži obvestila preden se alarmi izključijo</string>
   <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonenjem</string>
   <string name="setting_alarm_arriving_title">Obvesti pred zvonenjem</string>
   <string name="setting_complete">Končano</string>
