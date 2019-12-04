@@ -326,6 +326,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_bad_authentication">Neveljavno uporabniško ime ali geslo</string>
   <string name="passport_barcode_add_account_prompt">Da povežete račun, po prijavi ponovno skenirajte QR kodo.</string>
   <string name="passport_btn_change_account">Menjava računa</string>
+  <string name="passport_can_not_receive_verification_code">"Ne morete prejeti kode za preverjanje?"</string>
   <string name="passport_btn_return">Nazaj</string>
   <string name="passport_button_cancel">Prekliči</string>
   <string name="passport_change_account">Sprememba računa</string>

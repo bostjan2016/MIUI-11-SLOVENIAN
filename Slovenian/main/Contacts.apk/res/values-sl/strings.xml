@@ -191,6 +191,7 @@
   <string name="cloud_state_loading">Samo trenutek…</string>
   <string name="cloud_state_sync_finished">Sinhronizirano z Mi Cloud</string>
   <string name="cloud_state_syncing">Sinhronizirano z Mi Cloud</string>
+  <string name="cloud_upgrade_recommend">"Ne morem sinhronizirati stike zaradi premalo prostora v Mi Cloudu."</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>

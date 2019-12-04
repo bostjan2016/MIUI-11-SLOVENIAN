@@ -174,6 +174,7 @@
   <string name="additional_gsm_call_settings_with_label">Dodatne nastavitve (%s)</string>
   <string name="administrative_disable">Administrativni način je izklopljen</string>
   <string name="administrative_enable">Administrativni način je vklopljen</string>
+  <string name="advanced_mobile_settings">Napredne nastavitve</string>
   <string name="advanced_options_title">Napredno</string>
   <string name="advanced_settings">Izbirne nastavitve</string>
   <string name="advanced_settings_hide">▽ Dotaknite se da skrijete vse</string>
@@ -1384,6 +1385,7 @@ za uporabo doplačila"</string>
   <string name="lte_set">Nastavi</string>
   <string name="lte_setting">Privzeta 4G/3G SIM kartica je nastavljena</string>
   <string name="lte_switch_unavailable">Menjava 4G/3G SIM kartica je nedostopna</string>
+  <string name="main_netcheck_summary">Poskusna povezava zaradi problemov z omreženjem</string>
   <string name="maintenance_disable">Vzdrževanje je izklopljeno</string>
   <string name="maintenance_enable">Vzdrževanje je vklopljeno</string>
     <string name="make_and_receive_calls">Opravljanje in sprejemanje klicev</string>
@@ -1434,7 +1436,10 @@ za uporabo doplačila"</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: ni storitve</string>
   <string name="mmiCancelled">Koda MMI preklicana</string>
   <string name="mmiStarted">Koda MMI zagnana</string>
-  <string name="mo_call_type_title">Vrsta MO Klica</string>
+  <string name="mobile_advanced_dns_server_title">Naslov DNS strežnika</string>
+  <string name="mobile_advanced_ip_address_title">IP naslov</string>
+  <string name="mobile_connection_management">Urejanje mobilne omrežne povezave</string>
+  <string name="mo_call_type_title">MO Vrsta klica</string>
   <string name="mobile_data">"Mobilni podatki: "</string>
   <string name="mobile_data_activate_button">DODAJ PODATKE</string>
   <string name="mobile_data_activate_cancel_button">PREKLIČI</string>
@@ -1459,8 +1464,8 @@ za uporabo doplačila"</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Gostovanje poteka, potreben je podatkovni paket</string>
   <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
-  <string name="mobile_network_settings_package">com.android.phone</string>
   <string name="mobile_networks">Nastavitve mob. omrežja</string>
+  <string name="mobile_property">Lastnosti mob. omrežja</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo nio nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
@@ -1530,6 +1535,7 @@ za uporabo doplačila"</string>
   <string name="name_hint_text">Ime</string>
   <string name="national_disable">Državne novice so izključene</string>
   <string name="national_enable">Državne novice so vključene</string>
+  <string name="netcheck_title">Diagnostika mobilnega omrežja</string>
   <string name="network_1x">1x</string>
   <string name="network_2G">2G</string>
   <string name="network_3G">3G</string>

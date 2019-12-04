@@ -1326,6 +1326,19 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="monitoring_title_device_owned">Urejanje naprav</string>
     <string name="monitoring_title_profile_owned">Nadzor nad profilom</string>
   <string name="mount_storage">"Da"</string>
+  <string name="multi_face_delete_message">Pozor</string>
+  <string name="multi_face_delete_show_message">Želite izbrisati podatke obraza?</string>
+  <string name="multi_face_input">Dodajte obraz</string>
+  <string name="multi_face_input_enroll">Dodajte obraz</string>
+  <string name="multi_face_input_enrolling">Dodajanje obraza…</string>
+  <string name="multi_face_input_reach_upper_limit">"Ne morem dodati obraza. Počakajte minuto ali dve in poskusite ponovno."</string>
+  <string name="multi_face_input_success_msg_lift">Podrsajte gor na zakl. zaslonu za uporabo odklepa z obrazom</string>
+  <string name="multi_face_input_success_msg_normal">Uporabi odklep z obrazom ko se osvetli zakl. zaslon</string>
+  <string name="multi_face_input_success_msg_slide">Podrsajte gor na zakl. zaslonu za uporabo odklepa z obrazom</string>
+  <string name="multi_face_input_success_name_title">Ime</string>
+  <string name="multi_face_list">Obraz</string>
+  <string name="multi_face_name_prefix">"Obraz "</string>
+  <string name="multi_face_number_reach_limit">"Ne morete dodati več kot 2 obraza"</string>
     <string name="mr_button_content_description">Gumb za predvajanje</string>
     <string name="mr_cast_button_connected">Gumb za predvajanje. Povezava je vzpostavljena.</string>
     <string name="mr_cast_button_connecting">Gumb za predvajanje. Vzpostavljanje povezave.</string>
@@ -1602,6 +1615,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
     <string name="quick_settings_cellular_detail_over_limit">Omejitev prekoračena</string>
     <string name="quick_settings_cellular_detail_remaining_data">Preostala količina podatkov</string>
     <string name="quick_settings_cellular_detail_title">Prenos podatkov v mobilnem omrežju</string>
+  <string name="quick_settings_cellular_detail_unable_change">"Ne morem nastaviti med klicem"</string>
     <string name="quick_settings_color_space_label">Način popravljanja barv</string>
   <string name="quick_settings_connect_success">Povezano</string>
   <string name="quick_settings_connected">Povezano</string>

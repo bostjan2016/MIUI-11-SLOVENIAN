@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_CallLog_Desc">zabeležiti in brisati zgodovino klicev</string>
+  <string name="HIPS_Perm_Call_Desc">neposredno klicati telefonske številke</string>
+  <string name="HIPS_Perm_Contact_Desc">menjati in brisati vaše stike</string>
+  <string name="HIPS_Perm_PhoneID_Desc">"dostop do številke telefona, IMEI in IMSI vaše naprave"</string>
+  <string name="HIPS_Perm_PhoneID_Desc_Q">Dostop do številke telefona in IMSI</string>
+  <string name="HIPS_Perm_Read_Call_Log_Desc">brati zgodovino klicev</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">brati vaše stike</string>
+  <string name="HIPS_Perm_Read_SMS_Desc">brati vaša SMS sporočila</string>
+  <string name="HIPS_Perm_SendMMS_Desc">neposredno pošiljati MMS sporočila</string>
+  <string name="HIPS_Perm_add_voicemail_Desc">dodati glasovna sporočila sistema</string>
+  <string name="HIPS_Perm_get_accounts_Desc">dostop do vseh računov v napravi</string>
+  <string name="HIPS_Perm_use_sip_Desc">uporabiti Session Initiation Protocol za stream videoposnetkov</string>
   <string name="Call_ADRESS">Lokalni seznam blokiranih</string>
   <string name="Call_BLACKLIST">Seznam blokiranih klicev</string>
   <string name="Call_PRIVATE_CALL">Zasebni klici</string>
@@ -2134,6 +2146,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="percentage">%d%%</string>
   <string name="perfermance_optimization_summary">Izogibajte se pregrevanja in probleme povezane s strojno opremo</string>
   <string name="perfermance_optimization_title">Optimizacija performansa</string>
+  <string name="permdesc_in_calls">Nadzirati dohodne klice</string>
+  <string name="permdesc_out_calls">Nadzirati odhodne klice</string>
   <string name="permission_action_accept">Sprejmi</string>
   <string name="permission_action_always">Zmeraj dovoli</string>
   <string name="permission_action_foreground">Dokler uporabljate aplikacijo</string>
@@ -2210,8 +2224,10 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
   <string name="power_center_list_item_deep_save_title">Napredne nastavitve</string>
+  <string name="power_center_list_item_haptic_feedback">Izključi haptično povratno informacijo</string>
   <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Zakleni napravo po %d sek. neaktivnosti</string>
+  <string name="power_center_list_item_wake_notification">"Ne zbudi zaslona za obvestila"</string>
   <string name="power_center_consume_rank">Poraba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
@@ -2345,6 +2361,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_optimize_disable_5g">Omeji 5G povezavo</string>
   <string name="power_optimize_disable_app_autostart">Prepreči aplikacijam samodejni zagon</string>
   <string name="power_optimize_disable_gps">Izključi GPS</string>
+  <string name="power_optimize_disable_gps_high_accuracy">Izključi način dela lokacije visoke natančnosti</string>
   <string name="power_optimize_disable_start_other_app">Prepreči aplikacijam odpiranje drugih aplikacij</string>
   <string name="power_optimize_loading">Samo trenutek…</string>
   <string name="power_optimize_manual_catagory_title">Ročno</string>
@@ -3142,6 +3159,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="system_permission_declare_use_network_no_permission">povezovanje z omrežjem</string>
   <string name="system_permission_declare_user_agreement">Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; pred uporabo storitve.</string>
   <string name="system_permission_perm_answer_call">Klicanje</string>
+  <string name="system_permission_perm_optional">" (opcija)"</string>
   <string name="system_permission_perm_read_mms">Branje MMS-ov</string>
   <string name="system_permission_perm_read_numbers">Branje telefonskih številk</string>
   <string name="system_permission_perm_send_mms">Pošiljanje MMS-ov</string>

@@ -1805,6 +1805,13 @@ Storitev lahko izključite v nastavitvah"</string>
     <string name="color_cyan">Cijan</string>
   <string name="color_gray">Siva</string>
   <string name="color_green">Zelena</string>
+  <string name="color_lamp_applications_title">Urejanje obvestil</string>
+  <string name="color_lamp_applications_title_summary">Dovolite ali omejite uporabo LED lučke v \"Kategorije obvestil\"</string>
+  <string name="color_lamp_battery_title">Naj bo vključeno med polnjenjem</string>
+  <string name="color_lamp_charging_summary">LED lučka bo ugasnila ko bo vaša naprava napolnjena</string>
+  <string name="color_lamp_incall_pulse_title">Sveti za dohodne klice</string>
+  <string name="color_lamp_notification_pulse_title">Sveti za obvestila ko je zaslon izključen</string>
+  <string name="color_lamp_title">LED lučka</string>
   <string name="color_led_applications_title">Izberi aplikacije</string>
   <string name="color_led_applications_title_summary">Lahko omejite uporabo LED lučk za posamezne aplikacije</string>
   <string name="color_led_battery_title">Obdrži med polnjenjem</string>
@@ -2309,6 +2316,7 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
   <string name="delete_failed_backup_confirm">Ta varnostna kopija ima napake.</string>
   <string name="delete_fingerprint_confirm_msg">Odstranim prstni odtis?</string>
+  <string name="delete_fingerprint_confirm_title">Pozor</string>
   <string name="delete_fingerprint_text">Odstrani</string>
   <string name="delete_legacy_fingerprint">Izbriši</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Izbrišem podatke o prstnem odtisu?</string>
@@ -2690,6 +2698,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dual_wifi">Povečanje hitrosti dvopasovnega WiFi-ja</string>
   <string name="dual_wifi_acceleration">Povečanje hitrosti</string>
+  <string name="dual_wifi_auto_disable">Ustavi samodejno povečevanje hitrosti</string>
+  <string name="dual_wifi_auto_disable_summary">Prekini povezavo z pomožnimi WiFi omrežji ko je zaslon izključen zaradi varčevanja energije</string>
   <string name="dual_wifi_avaliable_slave_wifi">Pomožna omrežja so na voljo</string>
   <string name="dual_wifi_avaliable_slave_wifi_24G">Pomožna omrežja so na voljo (2.4 GHz)</string>
   <string name="dual_wifi_avaliable_slave_wifi_5G">Pomožna omrežja so na voljo (5 GHz)</string>
@@ -4180,6 +4190,7 @@ kot PIN za Prvi prostor"</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
   <string name="lockscreen_label">Zakl. zaslon</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
+  <string name="lockscreen_magazine_india">Pogled za Mi</string>
   <string name="lockscreen_magazine_summary">Wallpaper carousel visoka kvaliteta</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
     <string name="lockscreen_remote_input">Če je naprava zaklenjena, prepreči vnašanje odgovorov ali drugega besedila v obvestilih</string>
@@ -5647,6 +5658,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="popup_gesture_title">Dvignite telefon za odpiranje sprednje kamere</string>
   <string name="popup_led_summary">Pokaži animacijo ko se sprednja kamera pojavi in izgine</string>
   <string name="popup_led_title">Vizualni efekt</string>
+  <string name="popup_led_try_later">Počakajte minuto ali dve in poskusite ponovno</string>
   <string name="popup_title">Efekti sprednje kamere</string>
   <string name="popup_title_cangmen">Cabin door</string>
   <string name="popup_title_chilun">Gearwheel</string>
