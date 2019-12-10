@@ -56,6 +56,7 @@
   <string name="deep_space_planet">Doba dneva</string>
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
   <string name="digital_clock">Digitalna</string>
+  <string name="disable_aod_in_power_save_mode">Izključi če je vključeno varčevanje baterije</string>
   <string name="font_thickness">Odebeljeni font</string>
   <string name="large_time">Velika ura</string>
   <string name="letter_space">Razmak med črkami</string>
@@ -94,7 +95,7 @@
   <string name="summary">"Da boste zmanjšali porabo energije, stvari ne bodo prikazane v naslednjih situacijah:
 1. Ko naprava dolgo stoji v mraku.
 2. Če je vključen DND način."</string>
-  <string name="temporary_style">Čez 10 sekund po dotiku</string>
+  <string name="temporary_style">10 sekund</string>
   <string name="text_color">Barva teksta</string>
   <string name="text_length_exceed_limit_alert">*Vnešeni tekst je predolg</string>
   <string name="text_size">Velikost teksta</string>
