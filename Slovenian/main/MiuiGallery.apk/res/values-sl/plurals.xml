@@ -60,17 +60,21 @@
         <item quantity="other">%d dni</item>
         <item quantity="one">%d dan</item>
     </plurals>
+	<plurals name="photo_remain_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
 	  <plurals name="picker_all_image_need_download">
          <item quantity="other">"Izbrane fotografije niso v napravi, prenesem z mobilnimi podatki?"</item>
          <item quantity="one">"Izbrana fotografija ni v napravi, prenesem z mobilnimi podatki?"</item>
      </plurals>
      <plurals name="picker_all_origin_need_download">
-         <item quantity="other">"Izbrane fotografije niso v napravi (%dMB), prenesem z mobilnimi podatki?"</item>
-         <item quantity="one">"Izbrana fotografija ni v napravi (%dMB), prenesem z mobilnimi podatki?"</item>
+         <item quantity="other">"Izbrane fotografije (%dMB) niso v napravi, prenesem z mobilnimi podatki?"</item>
+         <item quantity="one">"Izbrana fotografija (%dMB) ni v napravi, prenesem z mobilnimi podatki?"</item>
      </plurals>
      <plurals name="picker_all_image_will_download">
-         <item quantity="other">"Izbrane fotografije niso na napravi. Fotografije bodo prenešene."</item>
-         <item quantity="one">"Izbrana fotografija ni na napravi. Fotografija bo prenešena."</item>
+         <item quantity="other">"Izbrane fotografije niso v napravi. Fotografije bodo prenešene."</item>
+         <item quantity="one">"Izbrana fotografija ni v napravi. Fotografija bo prenešena."</item>
      </plurals>
 	  <plurals name="picker_skip_unavailable_images">
          <item quantity="other">"Preskočeno %d fotografij ki niso v napravi."</item>

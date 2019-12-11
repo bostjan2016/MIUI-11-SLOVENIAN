@@ -48,6 +48,11 @@
   <string name="back_description">Nazaj</string>
   <string name="back_view_description">Dotaknite se za povratek</string>
   <string name="batch_delete">Izbriši serijo</string>
+  <string name="bind_simcard_default">Privzeta SIM kartica za klice</string>
+  <string name="bind_simcard_menu">Nastavi privzeto SIM kartico za klice</string>
+  <string name="bind_simcard_no_dual">"Ne najdem dvojne SIM kartice"</string>
+  <string name="bind_simcard_not_set">Ni nastavljeno</string>
+  <string name="bind_simcard_title">Privzeta SIM kartica za klice</string>
   <string name="blacklist">Blokiraj</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth povezava prekinjena</string>
   <string name="blurbJoinContactDataWith">Izberite stik ki ga želite združiti z %s:</string>

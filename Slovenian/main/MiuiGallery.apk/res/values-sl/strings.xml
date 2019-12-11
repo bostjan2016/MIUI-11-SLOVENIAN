@@ -272,6 +272,7 @@
   <string name="camera_black_white">Črno &amp; Belo</string>
   <string name="camera_needs_auto_backup_tip">Album kamere se mora sinhronizirati</string>
   <string name="can_authorize_owner_albums_share_to_tv">Avtorizirajte gledanje albumov na TV-ju</string>
+  <string name="can_not_transfer_when_screening">"Ne morem predvajati med prenosom"</string>
   <string name="cancel">Prekini</string>
   <string name="cancel_authorize_to_device_failed">"Ne morem preklicati avtorizacije"</string>
   <string name="cancel_authorize_watch_on_tv_failed">"Ne morem preklicati avtorizacije za gledanje albumov na TV-ju"</string>
@@ -539,6 +540,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Lahko izberete kvaliteto prenešene slike ali izključite samodejni prenos v nastavitvah.</string>
   <string name="downloading_title">Prenos fotografij iz Mi Clouda…</string>
+  <string name="dump_db_info">Informacije iz baze podatkov</string>
   <string name="duotone">Dvobarvno</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit_baby_info">Pregled informacij o otroku</string>
@@ -746,6 +748,7 @@ za fotografije"</string>
   <string name="filter_people_sepia">Sepia</string>
   <string name="filter_people_story">Story</string>
   <string name="filter_people_tea">Čaj</string>
+  <string name="filter_portrait_hint">Color pop</string>
   <string name="filter_scene_city">Mesto</string>
   <string name="filter_scene_df">Mist</string>
   <string name="filter_scene_koizora">Amour</string>
@@ -1299,6 +1302,11 @@ za fotografije"</string>
   <string name="photo_movie_select_image_range">Izsečki lahko vsebujejo 3-20 fotografij</string>
   <string name="photo_page_save_uri_image_fail">"Ne morem shraniti v Galerijo"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija shranjena v Galerijo</string>
+  <string name="photo_portrait_color_download_fail">"Prenos dodatka ni uspel. Povežite se na omrežje in poskusite ponovno."</string>
+  <string name="photo_portrait_color_download_success">Filtri prenešeni</string>
+  <string name="photo_portrait_color_no_face">Color barva deluje samo na fotografijah z ljudmi</string>
+  <string name="photo_portrait_download_sdk_without_wifi_msg">"Kaže da vaša naprava ni povezana na WiFi. Filtre lahko prenesete z uporabo mobilnih podatov (%1$dMB)."</string>
+  <string name="photo_portrait_download_sdk_without_wifi_title">Prenesi filtre</string>
   <string name="photo_print_menu_loading">Nalaganje dodatka…</string>
   <string name="photo_print_package_finish">Uspešno prenešeno</string>
   <string name="photo_print_package_installing">Nalagam dodatek…</string>
@@ -1555,6 +1563,8 @@ za fotografije"</string>
   <string name="select_origin_tip">Izvirna datoteka (%s)</string>
   <string name="send_file_beautify_failed">"Ne morem poslati"</string>
   <string name="send_files_to">Pošlji stvari v</string>
+  <string name="send_heif_summary">Pretvorite slike pred pošiljanjem da boste zagotovili kompatibilnost</string>
+  <string name="send_heif_title">Pretvorite HEIF v JPG pred pošiljanjem</string>
   <string name="send_invitation_fail">"Ne morem poslati vabila"</string>
   <string name="send_multiple_files_hint_format">Pošlji (%s)</string>
   <string name="send_public_url">Pošlji povezavo albuma</string>
@@ -1565,10 +1575,10 @@ za fotografije"</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
   <string name="set_as_slide_wallpaper_description">Ta slika je miniatura, prenesem original?</string>
-  <string name="set_as_slide_wallpaper_title">Nastavi za slideshow sliko ozadja</string>
+  <string name="set_as_slide_wallpaper_title">Nastavi za diaprojekcijo slike ozadja</string>
   <string name="set_as_video_wallpaper_description">Prenesem in uporabim kot video ozadje?</string>
   <string name="set_as_video_wallpaper_title">Nastavi video ozadje</string>
-  <string name="set_as_wallpaper_description">Ta slika je miniatura, prenesem najprej original?</string>
+  <string name="set_as_wallpaper_description">Ta slika je miniatura, prenesem original?</string>
   <string name="set_as_wallpaper_title">Nastavi za sliko ozadja</string>
   <string name="set_face_group_toast_msg_new_user">Nastavite obraz osebe za združevanje ali ignoriranje te osebe</string>
   <string name="set_face_group_toast_msg_old_user">"Nastavite fotografijo osebe za izdelavo skupine (družina, prijatelji, sodelavci itd.)</string>
@@ -1802,6 +1812,10 @@ za fotografije"</string>
   <string name="unsupport_raw">"%s ne deluje z RAW slikami"</string>
   <string name="unsupport_raw_and_video">"%s ne deluje z videoposnetki in RAW slikami"</string>
   <string name="unsupport_video">"%s ne deluje z videoposnetki"</string>
+  <string name="unsupported_media_downloading_tip_common">"Gledanje originalnih slik v tem formatu ni podprto v tej verziji Androida. Vseeno prenesem?"</string>
+  <string name="unsupported_media_downloading_tip_format">"Gledanje originalnih %s slik ni podprto v tej verziji Androida. Vseeno prenesem?"</string>
+  <string name="unsupported_media_scanned_tip">"Najdeno je %1$s slik. Gledanje %2$s slik ni podprto v tej verziji Androida."</string>
+  <string name="unsupported_media_view_tip">"Gledanje originalnih %s slik ni podprto v tej verziji Androidaa"</string>
   <string name="user_agree">Strinjam se</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>

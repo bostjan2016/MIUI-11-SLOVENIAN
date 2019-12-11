@@ -756,6 +756,7 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="wipe_data_dialog_msg_and_on">, in nekatere druge predmete</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Stvari niso sinhronizirane"</string>
+  <string name="wipe_data_query_progress_title">Preverjanje…</string>
   <string name="wipe_secret_photo_dialog_title">"Skrite fotografije niso sinhronizirane"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
    <string name="xiaomi_cloud_service_subtitle">Vse pomembne stvari na enem mestu</string>

@@ -245,6 +245,10 @@ in za trenutek zapustite pregled"</string>
   <string name="dirty_tip_toast">Leča je umazana. Očistite jo.</string>
   <string name="disable_video_snapshot_hint">Snemanje videa je onemogočeno kadar so vključeni posebni efekti.</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
+  <string name="document_blackwhite">Č&amp;B</string>
+  <string name="document_blur_warn">Zamegljeno</string>
+  <string name="document_origin">Original</string>
+  <string name="document_strengthen">Izboljšano</string>
   <string name="download_by_browser">Prenesi z brskalnikom</string>
   <string name="download_qq">Prenesi QQ</string>
   <string name="download_wechat">Prenesi WeChat</string>
@@ -352,6 +356,7 @@ in za trenutek zapustite pregled"</string>
   <string name="folder_imported">Uvoženo</string>
   <string name="folder_screenshot">Posnetek zaslona</string>
   <string name="fps960_toast">Počasno snemanje se začne ko merilec časa doseže belo piko</string>
+  <string name="fragment_tab_name_bokeh">Bokeh</string>
   <string name="front_camera_hint_text_place">Snemanje selfijev bo lažje če obrnete telefon</string>
   <string name="front_camera_hint_text_rotate">Obrnite telefon</string>
   <string name="group_by">Razvrsti po</string>
@@ -384,6 +389,11 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="hint_subtitle_prompt">Zdaj lahko diktirate podnapise</string>
   <string name="hint_slow_motion">Videoposnetek ki ga snemate se bo predvajal počasneje.</string>
   <string name="hunt_dual_water_mark">Oznaka Dvojna kamera bo dodana samodejno.</string>
+  <string name="id_card_mode_hint_back">Skenirajte zadnjo stran izkaznice</string>
+  <string name="id_card_mode_hint_front">Skenirajte sprednjo stran izkaznice</string>
+  <string name="id_card_mode_use_hint_text_body">"Kombinirajte obe strani svoje iskaznice v eno sliko.
+Natisnite kopijo brezžično na papir A4."</string>
+  <string name="id_card_mode_use_hint_text_title">Skenirajte izkaznico</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">Uvoz končan</string>
   <string name="import_contact">Uvozi stik</string>
@@ -541,17 +551,18 @@ izgledali večji na fotografijah"</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
   <string name="no_save">"Ne shrani"</string>
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>
-  <string name="no_thumbnail">Ni ploščic</string>
+  <string name="no_thumbnail">Ni miniatur</string>
   <string name="not_enough_space">Notranji pomnilnik je poln</string>
   <string name="not_selectable_in_scene_mode">Ni mogoče izbrati v načinu Scene</string>
   <string name="object_track_enable_toast">Tapnite na obeh koncih predmeta z dvema prstoma če ga hočete izbrati.</string>
   <string name="ok">V redu</string>
-  <string name="orientation">Orijentacija</string>
-  <string name="pano_dialog_panorama_failed">Panorame ni bilo možno shraniti</string>
+  <string name="orientation">Orientacija</string>
+  <string name="pano_dialog_panorama_failed">"Panorame ni bilo možno shraniti"</string>
   <string name="pano_dialog_prepare_preview">Priprava…</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Čakanje na zaključek prejšnje panorame</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
+  <string name="pano_file_name_prefix">PANO_</string>
   <string name="pano_how_to_use_prompt">"Za snemanje panoramske fotografije,
 pritisnite sprožilec"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Poravnajte puščico z referenčno črto</string>
@@ -587,6 +598,17 @@ pritisnite sprožilec"</string>
 na svojih fotografijah"</string>
   <string name="portrait_bokeh_text">Portretni način</string>
   <string name="portrait_bokeh_tips">Postavite predmet znotraj 1.5 m</string>
+  <string name="portrait_india_effect_entry_memory">Spomin</string>
+  <string name="portrait_india_effect_entry_mono">Mono</string>
+  <string name="portrait_india_effect_entry_pink">Pink</string>
+  <string name="portrait_india_effect_entry_portrait">Portret</string>
+  <string name="portrait_india_effect_entry_retro">Retro</string>
+  <string name="portrait_india_effect_entry_romantic">Romantika</string>
+  <string name="portrait_india_effect_entry_strong">Moč</string>
+  <string name="portrait_india_effect_entry_sunny">Sončno</string>
+  <string name="portrait_india_effect_entry_sweet">Sladko</string>
+  <string name="portrait_india_effect_entry_warm">Toplo</string>
+  <string name="portrait_india_effect_entry_young">Mladost</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
   <string name="portrait_mode_lowlight_hint">"Zdaj je preveč mračno"</string>
   <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
@@ -701,6 +723,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_facedetection_entry_off">Izklj.</string>
   <string name="pref_camera_facedetection_entry_on">Vklj.</string>
   <string name="pref_camera_facedetection_title">Prepoznavanje obraza</string>
+  <string name="pref_camera_first_tag_tips">Uspešno označeno</string>
   <string name="pref_camera_fisheye_title">Ribje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Samodejno</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Mehka svetloba</string>
@@ -709,7 +732,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_flashmode_entry_torch">Svetilka</string>
   <string name="pref_camera_flashmode_title">Način bliskavice</string>
   <string name="pref_camera_focus_shoot_summary">Tapnite za fokusiranje in ponovno tapnite za snemanje.</string>
-  <string name="pref_camera_focus_shoot_title">Ostrina &amp; posnemi</string>
+  <string name="pref_camera_focus_shoot_title">Fokus &amp; posnemi</string>
   <string name="pref_camera_focusmode_entry_auto">Samodejno</string>
   <string name="pref_camera_focusmode_entry_continuous">CAF</string>
   <string name="pref_camera_focusmode_entry_infinity">Neskončno</string>
@@ -908,6 +931,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_volumekey_function_entry_volume">Zvok</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Povečava</string>
   <string name="pref_camera_volumekey_function_title">Opravilo tipk za glasnost</string>
+  <string name="pref_camera_video_tag">Dovoli označevanje videoposnetkov</string>
+  <string name="pref_camera_video_tag_description">Tapnite \"Označi\" med snemanjem videoposnetkov da se boste lahko vrnili v označene trenutke med predvajanjem</string>
   <string name="pref_camera_watermark_title">Dodaj oznako časa na fotografijo</string>
   <string name="pref_camera_whitebalance_entry_auto">Samodejno</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Oblačno</string>
@@ -928,6 +953,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_zsl_entry_off">Izklop</string>
   <string name="pref_camera_zsl_entry_on">Vklop</string>
   <string name="pref_capture_settings">Kamera</string>
+  <string name="pref_document_mode">Dokumenti</string>
   <string name="pref_dualcamera_watermark_title">Oznaka dvojne kamere</string>
   <string name="pref_exposure_title">Ekspozicija</string>
   <string name="pref_face_beauty_title">Olepševanje</string>
@@ -1161,13 +1187,23 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="video_beauty_tip">Olepšanje za videoposnetke</string>
   <string name="video_camera_label">Videokamera</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
+  <string name="video_effect_entry_central">Central</string>
+  <string name="video_effect_entry_color_retention">Color pop</string>
+  <string name="video_effect_entry_fantasy">Fantazija</string>
   <string name="video_effect_entry_film">Film</string>
-  <string name="video_effect_entry_forest">Grove</string>
+  <string name="video_effect_entry_forest">Gozd</string>
   <string name="video_effect_entry_holiday">Razmišljanja</string>
+  <string name="video_effect_entry_lost">Izgubljen</string>
+  <string name="video_effect_entry_meet">Srečanje</string>
+  <string name="video_effect_entry_northern_europe">Nordic</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
+  <string name="video_effect_entry_rome">Rim</string>
+  <string name="video_effect_entry_summer_day">Poletje</string>
+  <string name="video_effect_entry_wind_sing">Veter</string>
   <string name="video_err">"Ne morem predvajati videoposnetek"</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Limit velikosti dosežen.</string>
+  <string name="video_tag_flag_title">Označi</string>
   <string name="video_snapshot_hint">Posnemite fotografijo med snemanjem videoposnetka z dotikom zaslona za pregled.</string>
   <string name="videocamera_settings_label">Nastavitve Video kamere</string>
   <string name="view_privacy_policy">Pokaži Pravila o zasebnosti</string>

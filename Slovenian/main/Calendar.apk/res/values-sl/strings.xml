@@ -494,9 +494,10 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="select_visible_calendars_title">Koledarji za prikaz</string>
   <string name="select_year">Izberi leto</string>
   <string name="setting">Nastavitve</string>
-  <string name="setting_about_calendar_version">Verzija koledarja:</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">MIUI Verzija:</string>
+  <string name="setting_about_calendar_version">Verzija koledarja:%1$s-%2$s</string>
+  <string name="setting_about_imei">IMEI:%1$s</string>
+  <string name="setting_about_miui_version">MIUI Verzija:%1$s-%2$s</string>
+  <string name="setting_about_oaid">OAID:%1$s</string>
   <string name="setting_about_summary">Verzija:</string>
   <string name="setting_accounts">Računi koledarja</string>
   <string name="setting_chinese_calendar">Kitajski koledar</string>
