@@ -251,6 +251,13 @@
   <string name="shopping_title">Posnemite fotografijo izdelka</string>
   <string name="shopping_vendor_info">Ponuja Taobao</string>
   <string name="spaceIsLow_content">Ni dovolj prostora. Osvobodite nekaj prostora.</string>
+  <string name="store_feedback_prompt">Najprej vnesite povratne informacije</string>
+  <string name="store_location_dialog">Storitev ponuja Dianping. Vse fotografije uporabljene v tej storitvi kot tudi z njimi povezane informacije o lokaciji, bodo deljene Dianpingu da dobite informacije o trgovinah.</string>
+  <string name="store_location_fail">"Ne morem dobiti informacije o lokaciji"</string>
+  <string name="store_location_prompt">Dovoli Skenerju dostop do lokaciei da bo lahko našel trgovine</string>
+  <string name="store_module_title">Trgovina</string>
+  <string name="store_no_date">"Ne morem prepoznati trgovino"</string>
+  <string name="store_title">Skeniraj znak trgovine</string>
   <string name="study_report_title">Poročilo</string>
   <string name="study_rotate_picture">Obdelava slike…</string>
   <string name="study_scan_result">Rezultat</string>

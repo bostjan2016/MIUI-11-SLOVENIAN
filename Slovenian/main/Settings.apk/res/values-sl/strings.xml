@@ -2514,6 +2514,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="disallow_lock_screen_summary">Najprej dovolite obvestila v \"Obvestila aplikacij\"</string>
   <string name="disconnect">Prekini povezavo</string>
   <string name="disconnected">Ni povezano</string>
+  <string name="display_advanced_mode_summary">Opcije razpona barv</string>
+  <string name="display_advanced_mode_title">Napredne nastavitve</string>
   <string name="display_auto_rotate_rotate">Vključeno</string>
   <string name="display_auto_rotate_stay_in_current">Izključeno</string>
   <string name="display_auto_rotate_stay_in_landscape">Zakleni vodoravno</string>
@@ -3396,6 +3398,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="handy_mode_tips_full_screen">"Kadar uporabljate gibe na celem zaslonu, lahko vključite Delo z eno roko s pomočjo menija bližnjic. Lahko uporabite tudi tipke namesto gibov celega zaslona."</string>
   <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
   <string name="haptic_feedback_level">Nivo vibracije</string>
+  <string name="haptic_feedback_progress">Nivo hap. pov. informacije</string>
+  <string name="haptic_feedback_summary">Prejmi taktilni odgovor na gibe i kontrole sistema</string>
+  <string name="haptic_feedback_title">Haptična povratna informacija</string>
   <string name="hardkeyboard_category">Nastavitve fizične tipkovnice</string>
     <string name="hardware_info">Model in strojna oprema</string>
     <string name="hardware_revision">Različica strojne opreme</string>
@@ -3496,9 +3501,11 @@ Nastavitev lahko pozneje spremenite v »Nastavitve > Aplikacije in obvestila«."
   <string name="ignore_optimizations_off">Optimizacija</string>
   <string name="ignore_optimizations_off_desc">Priporočljivo za daljši čas delovanja akumulatorja</string>
   <string name="ignore_optimizations_on">Brez optimizacije</string>
-    <string name="ignore_optimizations_on_desc">Akumulator se lahko hitreje izprazni. Aplikaciji ne bo več preprečena poraba energije akumulatorja v ozadju.</string>
+  <string name="ignore_optimizations_on_desc">Baterija se lahko hitreje izprazni</string>
   <string name="ignore_optimizations_title">Naj bo aplikaciji %s dovoljeno prezreti optimizacije akumulatorja?</string>
-    <string name="ime_security_warning">Ta način vnosa lahko morda zbere besedilo, ki ga vtipkate, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga aplikacija %1$s. Ali želite uporabiti ta način vnosa?</string>
+  <string name="ime_security_warning">%1$s lahko morda zbere besedilo, ki ga vtipkate, vključno z osebnimi podatki.</string>
+  <string name="ime_security_warning_global">Načini vnosa lahko morda zbere besedilo, ki ga vtipkate, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga aplikacija %1$s. Ali želite uporabiti %1$s?</string>
+  <string name="ime_security_warning_title_global">Vklop tipkovnice</string>
   <string name="imei_information_summary">Relativni podatki o IMEI</string>
   <string name="imei_information_title">Podatki o IMEI</string>
     <string name="imei_multi_sim">IMEI (reža za kartico SIM %1$d)</string>
@@ -5252,6 +5259,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="open_demo_mode">Vključi</string>
   <string name="open_demo_mode_warning_message">Ko je Demo način vključen se bo ura v vrstici stanja ustavila, baterija in ikone signala bodo prikazane kot polne. Lahko izključite Demo način ali ponovno zaženete napravo da spremenite.</string>
   <string name="open_game_accelerate">Vključi Game Turbo</string>
+  <string name="open_haptic_feedback">Haptična povratna informacija</string>
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
   <string name="open_optimization_message">Vključi optimizacijo da boste uživali v uglajenem in hitrem UI.</string>
   <string name="open_optimization_option">Vključi</string>

@@ -2030,7 +2030,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optimize_manage_title">Povečaj hitrost</string>
   <string name="optimize_result_ads_close_text">Oglas</string>
   <string name="optimize_result_available_memory_info">Dostopno spomina</string>
-  <string name="optimize_result_button_cloudspace">Dodaj cloud shrambo</string>
+  <string name="optimize_result_button_cloudspace">Dobite več prostora za shranjevanje</string>
   <string name="optimize_result_button_consume_power_analysis">Preveri baterijo</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
   <string name="optimize_result_button_correct_now">Nastavi</string>
@@ -2406,6 +2406,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_ps_clean">Očisti predspomin ko se naprava zaklene</string>
   <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da privarčujete baterijo</string>
   <string name="power_save_ps_close_setting_5g">Izključi storitve ki porabljajo energijo (sinhronizacija, 5G povezava, GPS)</string>
+  <string name="power_save_ps_close_setting_5g_q">Izključi storitve ki porabljajo energijo (sinhronizacija, 5G povezava, haptične povratne informacije, \"Dvignite napravo da jo vključite\", \"Dvakrat tapnite za bujenje ali izklop zaslona\", \"Pokaži ikono prstnega odtisa ko je zaslon izključen\")</string>
+  <string name="power_save_ps_close_setting_q">Izključi storitve ki porabljajo energijo (sinhronizacija, haptične povratne informacije, \"Dvignite napravo da jo vključite\", \"Dvakrat tapnite za bujenje ali izklop zaslona\", \"Pokaži ikono prstnega odtisa ko je zaslon izključen\")</string>
   <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
   <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
   <string name="power_save_settings">Nastavitve baterije</string>

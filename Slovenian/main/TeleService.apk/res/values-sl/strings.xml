@@ -354,20 +354,20 @@
   <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bitov na vzorec za zvok prek Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Sproži zvočni kodek za Bluetooth
-Izbor: število bitov na vzorec"</string>
+Avdio: število bitov na vzorec"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">Način zvočnega kanala prek Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Sproži zvočni kodek za Bluetooth
-Izbor: način kanala"</string>
+Avdio: način kanala"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Zvočni kodek LDAC za Bluetooth: kakovost predvajanja</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Sproži kodek LDAC za zvok prek Bluetootha
-Izbira kodeka: kakovost predvajanja"</string>
+LDAC: kakovost predvajanja"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">Hitrost vzorčenja zvoka prek Bluetootha</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Sproži zvočni kodek za Bluetooth
-Izbor: hitrost vzorčenja"</string>
+Avdio: hitrost vzorčenja"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">Pretočno predvajanje: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">Zvočni kodek za Bluetooth</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"Sproži zvočni kodek za Bluetooth
-Izbor"</string>
+Avdio"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Izberite različico profila AVRCP za Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_string">Različica profila AVRCP za Bluetooth</string>
   <string name="bluetooth_show_devices_without_names">Pokaži Bluetooth naprave brez imena</string>
@@ -380,7 +380,7 @@ Izbor"</string>
     <string name="bluetooth_talkback_input_peripheral">Zunanja dodatna oprema</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
   <string name="bt_hci_snoop_log">Dnevniki za Bluetooth HCI</string>
-  <string name="bt_hci_snoop_log_summary">Posnemi sve Bluetooth HCI pakete v datoteki</string>
+  <string name="bt_hci_snoop_log_summary">Posnemi Bluetooth pakete. (Vključi Bluetooth po tej spremembi)</string>
   <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Pokaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
@@ -545,7 +545,7 @@ Izbor"</string>
   <string name="call_recording_notification_toggle_title">Obvestilo o snemanju klica</string>
   <string name="call_recording_setting">Snemanje klica</string>
   <string name="call_remove_exception_numbers_confirm">%d številk bo izbrisanih</string>
-  <string name="call_settings">Telefon</string>
+  <string name="call_settings">Nastavitve klicanja</string>
   <string name="call_settings_admin_user_only">Nastavitve klicanja lahko spremeni samo administrator.</string>
   <string name="call_settings_primary_user_only">Nastavitve klicanja lahko spremeni samo primarni uporabnik.</string>
   <string name="call_settings_with_label">Nastavitve klicanja (%s)</string>
@@ -566,7 +566,7 @@ Izbor"</string>
   <string name="card_title_MOcall_forwarding">Odhodni klic je posredovan</string>
   <string name="card_title_MTcall_forwarding">Dohodni klic je posredovan</string>
   <string name="card_title_call_deflected">Zavrnjen klic</string>
-  <string name="card_title_call_ended">"Klic je bil končan "</string>
+  <string name="card_title_call_ended">Klic je bil končan</string>
   <string name="card_title_callconnectedect">Klic povezan z ECT</string>
   <string name="card_title_callconnectingect">Klic se povezuje na ECT</string>
   <string name="card_title_calliswaiting">Klic na čakanju</string>
@@ -587,7 +587,7 @@ Izbor"</string>
   <string name="card_title_incoming_call">Dohodni klic</string>
   <string name="card_title_multipartycall">Konferenčni klic</string>
   <string name="card_title_my_phone_number">Moja številka je %s</string>
-  <string name="card_title_on_hold">"Na čakanju "</string>
+  <string name="card_title_on_hold">Na čakanju</string>
   <string name="card_title_outgoing_barred">Omejeni odhodni klici</string>
   <string name="card_title_redialing">Vnovično klicanje</string>
   <string name="card_title_unconditionalCF">Preusmeritev vseh klicev je vklopljena</string>
@@ -1197,7 +1197,7 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="incall_error_sim_deactive">Neaktivna SIM kartica</string>
   <string name="incall_error_supp_service_conference">Konferenčni klici onemogočeni.</string>
   <string name="incall_error_supp_service_hangup">Klicanje ni mogoče.</string>
-  <string name="incall_error_supp_service_hold">"Ne morem zadržati klic."</string>
+  <string name="incall_error_supp_service_hold">Ne morem zadržati klica.</string>
   <string name="incall_error_supp_service_reject">Zavrnitev klica ni mogoča.</string>
     <string name="incall_error_supp_service_resume">Klica ni mogoče nadaljevati.</string>
   <string name="incall_error_supp_service_separate">Ločitev klica ni mogoča.</string>
@@ -1206,9 +1206,9 @@ Kljub temu preklopim na novega ponudnika?"</string>
   <string name="incall_error_supp_service_unknown">Storitev ni podprta</string>
   <string name="incall_error_turn_off_airplane_mode">Izključite Letalski način</string>
   <string name="incall_error_wfc_only_no_wireless_network">Povežite se v omrežje WiFi če želite opraviti klic.</string>
-  <string name="incall_status_dialed_mmi">Začetek zaporedja MMI ...</string>
-  <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te storitve vključite vizitko stika.</string>
-  <string name="incoming_video_show_pref_title">"Pokaži Video klicatelja"</string>
+  <string name="incall_status_dialed_mmi">Začetek MMI zaporedja…</string>
+  <string name="incoming_video_show_pref_summary">Pokaži video profil klicatelja. Za uporabo te storitve vključite vizitko stika.</string>
+  <string name="incoming_video_show_pref_title">"Pokaži video profil klicatelja"</string>
   <string name="input_password">Vnesite geslo</string>
   <string name="install_other_apps">Namestitev neznanih aplikacij</string>
   <string name="internation_remain_minutes">（ali %1$s %2$s mednarodnega časa razgovora）</string>
@@ -1462,7 +1462,6 @@ za uporabo doplačila"</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Podatkovno gostovanje je vključeno</string>
   <string name="mobile_data_status_roaming_with_plan_subtext">Gostovanje poteka, podatkovni paket je aktiven</string>
   <string name="mobile_data_status_roaming_without_plan_subtext">Gostovanje poteka, potreben je podatkovni paket</string>
-  <string name="mobile_network_settings_class">com.android.phone.MobileNetworkSettings</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
   <string name="mobile_networks">Nastavitve mob. omrežja</string>
   <string name="mobile_property">Lastnosti mob. omrežja</string>
@@ -1917,7 +1916,11 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="proceed">Nadaljuj</string>
   <string name="product_reflash_button">Osveži…</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content">"Ne morem klicati in sprejemati klice. VoLTE storitev je izključena za vašo SIM kartico (China Telecom)."</string>
+  <string name="prompt_to_suggest_no_call_service_notification_content2">"Ne morem klicati in sprejemati klice. VoLTE storitev je izključena za %d SIM kartico (China Telecom)."</string>
+  <string name="prompt_to_suggest_no_call_service_notification_title">"Ne morem klicati in sprejemati klice"</string>
   <string name="prompt_to_suggest_to_open_volte_from_operator">"Ne morem klicati. Kontaktirajte China Telecom za vklop VoLTE."</string>
+  <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM %d ne more klicati. Kontaktirajte China Telecom za vklop VoLTE."</string>
   <string name="prompt_to_turnoff_volte_when_failed">"VoLTE storitve niso dosegljive. Izključite VoLTE za klicanje."</string>
   <string name="prompt_to_turnoff_volte_when_supp_service">"Storitev ni dosegljiva. Izključite VoLTE v nastavitvah."</string>
   <string name="prompt_when_turnon_volte_on_3g_prefered">Preden vključite VoLTE, izberite LTE kot prednostno omrežje.</string>
@@ -2124,7 +2127,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="show_cpu_usage_summary">Povzetek porabe procesorja</string>
   <string name="show_hw_layers_updates">Pokaži posodobitev slojev str. opreme</string>
   <string name="show_hw_layers_updates_summary">Sloji strojne opreme utripajo zeleno pri posodabljanju</string>
-  <string name="show_hw_screen_updates">Pokaži posodobitev GPU pogleda</string>
+  <string name="show_hw_screen_updates">Pokaži posodobitev prikaza</string>
   <string name="show_hw_screen_updates_summary">Utripanje pogleda v oknih pri risanju z GPU-jem</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
   <string name="show_notification_channel_warnings">Pokaži opozorila kanala obvestil</string>
@@ -2632,7 +2635,7 @@ Klici se zaračunajo glede na vaše nastavitve.
     <string name="wifi_scan_throttling_summary">Zmanjša porabo energije akumulatorja in izboljša delovanje omrežja</string>
   <string name="wifi_security_dpp">DPP</string>
   <string name="wifi_security_eap">802.1x EAP</string>
-  <string name="wifi_security_none">Ni</string>
+  <string name="wifi_security_none">Nič</string>
   <string name="wifi_security_owe">OWE</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="wifi_security_sae">SAE</string>

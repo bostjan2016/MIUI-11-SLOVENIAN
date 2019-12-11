@@ -903,7 +903,9 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="how_to_use_drawer">Kako uporabiti meni</string>
   <string name="how_to_use_drawer_summary">Podrsajte s prstom desno v zgornjem delu zaslona</string>
   <string name="how_to_use_fsg">To lahko naredite s pomočjo kretenj:</string>
-  <string name="ime_security_warning">Ta način vnosa mogoče lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. To omogoča aplikacija %1$s. Uporabim ta način vnosa?</string>
+  <string name="ime_security_warning">%1$s način vnosa mogoče lahko zbira tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic.</string>
+  <string name="ime_security_warning_global">Načini vnosa mogoče lahko zbirajo tekst ki ga vnašate vključno z osebnimi podatki kot so gesla in številke kreditnih kartic. Uporabim %1$s?</string>
+  <string name="ime_security_warning_title_global">Vključi tipkovnico</string>
   <string name="immediately_destroy_activities">Odstranjevanje aktivnosti</string>
   <string name="immediately_destroy_activities_summary">Aktivnost se prekine ko jo uporabnik zapusti.</string>
   <string name="important_desc">Vsa pomembna obvestila bodo prikazana v plošči obvestil.</string>
@@ -1457,7 +1459,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="open_camera_hint_text">Povlecite ikono za Kamera</string>
   <string name="open_extreme_power_save_mode_title">Vključi ekstremno varčevanje baterije</string>
   <string name="open_lock_screen_magazine_hint_text">Povlecite desno za odpiranje bližnjic</string>
-  <string name="open_remote_center_hint_text">Povlecite desno za več možnosti</string>
+  <string name="open_remote_center_hint_text">Povlecite desno za prikaz bližnjic</string>
   <string name="open_saver_setting_action">Nastavitve</string>
     <string name="orb_search_action">Dejanje iskanja</string>
   <string name="osu_completing_sign_up">Zaključevanje prijave…</string>

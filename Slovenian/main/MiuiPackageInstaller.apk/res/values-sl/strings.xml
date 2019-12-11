@@ -300,7 +300,7 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="uninstalling">Odstranjevanje…</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_apps_admin_dlg_text">Vaš skrbnik ne dovoli nameščanje aplikacij iz neznanih virov.</string>
-  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
+  <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov.</string>
   <string name="unknown_installer">Neidentificirana PC orodja</string>
   <string name="unlike">Ne, hvala</string>
   <string name="untrusted_external_source_always_click">Zmeraj dovoli</string>

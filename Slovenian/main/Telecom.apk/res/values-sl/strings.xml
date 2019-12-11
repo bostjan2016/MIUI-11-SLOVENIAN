@@ -538,7 +538,7 @@ Izbor"</string>
   <string name="test_account_2_short_description">Govorite z vsemi v vašem Circles!</string>
   <string name="test_account_3_label">Bay Voice Chat Pro</string>
   <string name="test_account_3_short_description">Govorite z uporabniki omrežja</string>
-  <string name="tether_settings_title_all">Deljenje povezave</string>
+  <string name="tether_settings_title_all">Deljenje povezave in hotspot</string>
     <string name="tether_settings_title_bluetooth">Splet prek Bluetootha</string>
     <string name="tether_settings_title_usb">Splet prek USB-ja</string>
     <string name="tether_settings_title_usb_bluetooth">Splet prek mob. napr.</string>
@@ -651,7 +651,7 @@ Izbor"</string>
     <string name="wifi_remembered">Shranjeno</string>
     <string name="wifi_scan_throttling">Omejevanje iskanja omrežij WiFi</string>
     <string name="wifi_scan_throttling_summary">Zmanjša porabo energije akumulatorja in izboljša delovanje omrežja</string>
-    <string name="wifi_security_none">Brez</string>
+    <string name="wifi_security_none">Nič</string>
   <string name="wifi_ssid_is_empty">Polje SSID ne sme ostati prazno</string>
   <string name="wifi_ssid_length_is_max">SSID ne sme presegati 32 znakov v dolžino</string>
     <string name="wifi_status_mac_randomized">Naslov MAC je naključno izbran</string>
@@ -673,7 +673,6 @@ Shramba poverilnic mogoče ni omogočena"</string>
     <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
     <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej izklopite to nastavitev</string>
     <string name="zen_interruption_level_priority">Samo prednostno</string>
-    <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="zen_mode_duration_always_prompt_title">Vedno vprašaj</string>
     <string name="zen_mode_duration_settings_title">Trajanje</string>
     <string name="zen_mode_enable_dialog_turn_on">Vklopi</string>
