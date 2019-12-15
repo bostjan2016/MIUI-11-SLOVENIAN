@@ -1102,6 +1102,10 @@ Avdio"</string>
   <string name="fiveg_power_secret_code_tip">Urejajte v Varnost - Baterija - 5G Varčevanje baterije</string>
   <string name="fiveg_restrict_dcnr1">Omeji DCNR[Reža1] :</string>
   <string name="fiveg_restrict_dcnr2">Omeji DCNR[Reža2] :</string>
+  <string name="fiveg_sa_switch_open_dialog_content">5G povezava je lahko nestabilna v samostojnem načinu dela, kar lahko vpliva na storitve telefonije. Vključim SA način dela?</string>
+  <string name="fiveg_sa_switch_open_dialog_title">Pozor</string>
+  <string name="fiveg_sa_switch_summary">Dovoli povezovanje z 5G omrežji v samostojnem načinu dela</string>
+  <string name="fiveg_sa_switch_title">SA način</string>
   <string name="fiveg_signal_strength1">5G Moč signala[Reža1] :</string>
   <string name="fiveg_signal_strength2">5G Moč signala[Reža2] :</string>
   <string name="fiveg_switch_status1">5G stanje stikala[Reža1] :</string>

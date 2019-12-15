@@ -74,10 +74,11 @@
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Zvok Qualcomm® aptX™</item>
-        <item>Zvok Qualcomm® aptX™ HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>Qualcomm® aptX™ Adaptivni audio</item>
+	<item>LHDC</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -85,10 +86,11 @@
         <item>Uporabi sistemsko izbiro (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>Zvok Qualcomm® aptX™</item>
-        <item>Zvok Qualcomm® aptX™ HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
 	<item>Qualcomm® aptX™ Adaptive audio</item>
+	<item>LHDC</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -129,7 +131,7 @@
         <item>Brez</item>
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
-        <item>Pri napaki glGetError kliči sklad</item>
+        <item>Klicni snop za storitev glGetError</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nikoli ne uporabi preverjanja HDCP</item>
@@ -138,7 +140,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nikoli ne preveri</item>
-        <item>Preveri samo glede vsebine DRM</item>
+        <item>Preveri samo vsebino DRM</item>
         <item>Vedno preveri</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
@@ -201,12 +203,12 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animacija je izključena</item>
-        <item>"Merilo animacije:  0,5 x"</item>
-        <item>Merilo animacije: 1 x</item>
-        <item>Merilo animacije: 1,5 x</item>
-        <item>Merilo animacije: 2 x</item>
-        <item>Merilo animacije: 5 x</item>
-        <item>Merilo animacije: 10 x</item>
+        <item>Hitrost animacije 0,5 x</item>
+        <item>Hitrost animacije 1 x</item>
+        <item>Hitrost animacije 1,5 x</item>
+        <item>Hitrost animacije 2 x</item>
+        <item>Hitrost animacije 5 x</item>
+        <item>Hitrost animacije 10 x</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Zelo počasi</item>
@@ -257,12 +259,12 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animacija je izključena</item>
-        <item>Merilo animacije: 0,5 x</item>
-        <item>Merilo animacije: 1 x</item>
-        <item>Merilo animacije: 1,5 x</item>
-        <item>Merilo animacije: 2 x</item>
-        <item>Merilo animacije: 5 x</item>
-        <item>Merilo animacije: 10 x</item>
+        <item>Hitrost animacije 0,5 x</item>
+        <item>Hitrost animacije 1 x</item>
+        <item>Hitrost animacije 1,5 x</item>
+        <item>Hitrost animacije 2 x</item>
+        <item>Hitrost animacije 5 x</item>
+        <item>Hitrost animacije 10 x</item>
     </string-array>
 	     <plurals name="num_categories_selected">
         <item quantity="other">%d izbrano</item>

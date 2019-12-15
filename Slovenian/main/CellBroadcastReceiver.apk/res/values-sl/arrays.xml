@@ -77,28 +77,6 @@
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Uporabi sistemsko izbiro (privzeto)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>Zvok Qualcomm® aptX™</item>
-        <item>Zvok Qualcomm® aptX™ HD</item>
-        <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Omogoči izbirne kodeke</item>
-        <item>Onemogoči izbirne kodeke</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_titles">
-        <item>Uporabi sistemsko izbiro (privzeto)</item>
-        <item>SBC</item>
-        <item>AAC</item>
-        <item>Zvok Qualcomm® aptX™</item>
-        <item>Zvok Qualcomm® aptX™ HD</item>
-        <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptive audio</item>
-        <item>Omogoči izbirne kodeke</item>
-        <item>Onemogoči izbirne kodeke</item>
-    </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
         <item>, aktivno</item>
