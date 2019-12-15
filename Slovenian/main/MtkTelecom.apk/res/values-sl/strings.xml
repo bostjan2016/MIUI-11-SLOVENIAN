@@ -386,7 +386,7 @@ bezuvjetno aktivirano"</string>
     <string name="oem_unlock_enable_summary">Dovoli odklepanje zagonskega nalagalnika</string>
     <string name="okay">V redu</string>
     <string name="outgoing_call_error_no_phone_number_supplied">Če želite opraviti klic, vnesite veljavno številko.</string>
-  <string name="outgoing_call_not_allowed">Ta uporabnik lahko kliče samo v sili</string>
+  <string name="outgoing_call_failed">Klic ni uspel.</string>
     <string name="outgoing_call_not_allowed_no_permission">Ta aplikacija lahko opravlja odhodne klice brez dovoljenja za telefon.</string>
     <string name="outgoing_call_not_allowed_user_restriction">Dovoljeno je samo opravljanje klicev v sili.</string>
     <string name="overlay_display_devices_title">Simul. sekund. prikazov.</string>
@@ -555,7 +555,7 @@ Gostovanje lahko spreminjate v \"Nastavitve gostovanja\"."</string>
     <string name="v7_preference_on">VKLOPLJENO</string>
     <string name="verify_apps_over_usb_summary">Preveri, ali so aplikacije, nameščene prek ADB/ADT, škodljive.</string>
     <string name="verify_apps_over_usb_title">Preveri aplikacije prek USB-ja</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Onemogočite TTY Način dela da omogočite videoklice.</string>
+  <string name="video_over_wifi_not_available">Video preko Wi-Fi trenutno ni na voljo.</string>
   <string name="voice_dial_out">Govorni klic</string>
   <string name="voice_report_incoming_call">Klicanje</string>
   <string name="voice_report_unknown_num">Neznana številka</string>
