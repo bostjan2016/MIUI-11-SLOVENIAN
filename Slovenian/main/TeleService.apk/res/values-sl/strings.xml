@@ -311,12 +311,12 @@
   <string name="bluetooth_enable_inband_ringing_summary">Omogoči predvajanje melodije zvonenja telefona preko Bluetooth slušalk</string>
   <string name="bluetooth_headset_profile_summary_connected">Povezano s telefonskim zvokom</string>
   <string name="bluetooth_headset_profile_summary_use_for">Uporabi za zvok telefona</string>
-    <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnim pripomočkom je vzpostavljena</string>
-    <string name="bluetooth_hearing_aid_profile_summary_use_for">Uporaba za slušni pripomoček</string>
-    <string name="bluetooth_hearingaid_left_battery_level">Levi – akumulator na %1$s</string>
-    <string name="bluetooth_hearingaid_left_pairing_message">Seznanjanje z levim slušnim pripomočkom …</string>
-    <string name="bluetooth_hearingaid_right_battery_level">Desni – akumulator na %1$s</string>
-    <string name="bluetooth_hearingaid_right_pairing_message">Seznanjanje z desnim slušnim pripomočkom …</string>
+  <string name="bluetooth_hearing_aid_profile_summary_connected">Povezava s slušnim pripomočkom je vzpostavljena</string>
+  <string name="bluetooth_hearing_aid_profile_summary_use_for">Uporaba za slušni pripomoček</string>
+  <string name="bluetooth_hearingaid_left_battery_level">Levi – akumulator na %1$s</string>
+  <string name="bluetooth_hearingaid_left_pairing_message">Seznanjanje z levim slušnim pripomočkom …</string>
+  <string name="bluetooth_hearingaid_right_battery_level">Desni – akumulator na %1$s</string>
+  <string name="bluetooth_hearingaid_right_pairing_message">Seznanjanje z desnim slušnim pripomočkom …</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano z vhodno napravo</string>
   <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vhod</string>
   <string name="bluetooth_map_profile_summary_connected">Povezano s kartico</string>
@@ -407,13 +407,13 @@ Avdio"</string>
   <string name="callFailed_data_limit_reached_description">Klic je končan ker je dosežena omejitev prenosa mobilnih podatkov.</string>
   <string name="callFailed_destination_out_of_order">Destinacija izven vrste</string>
   <string name="callFailed_dialToDial">Spremenjeno v drugo barvo</string>
-    <string name="callFailed_dialToDialVideo">Spremenjeno v videoklic</string>
-    <string name="callFailed_dialToSs">Spremenjeno v zahtevo SS</string>
-    <string name="callFailed_dialToUssd">Klic je spremenjen v zahtevo USSD</string>
-    <string name="callFailed_dialVideoToDial">Spremenjeno v navaden klic</string>
-    <string name="callFailed_dialVideoToDialVideo">Spremenjeno v drugo številko</string>
-    <string name="callFailed_dialVideoToSs">Videoklic je spremenjen v zahtevo SS</string>
-    <string name="callFailed_dialVideoToUssd">Videoklic je spremenjen v zahtevo USSD</string>
+  <string name="callFailed_dialToDialVideo">Spremenjeno v videoklic</string>
+  <string name="callFailed_dialToSs">Spremenjeno v zahtevo SS</string>
+  <string name="callFailed_dialToUssd">Klic je spremenjen v zahtevo USSD</string>
+  <string name="callFailed_dialVideoToDial">Spremenjeno v navaden klic</string>
+  <string name="callFailed_dialVideoToDialVideo">Spremenjeno v drugo številko</string>
+  <string name="callFailed_dialVideoToSs">Videoklic je spremenjen v zahtevo SS</string>
+  <string name="callFailed_dialVideoToUssd">Videoklic je spremenjen v zahtevo USSD</string>
   <string name="callFailed_dsac_restricted">Klice omejuje nadzor dostopa.</string>
   <string name="callFailed_dsac_restricted_emergency">Klice v sili omejuje nadzor dostopa.</string>
   <string name="callFailed_dsac_restricted_normal">Običajne klice omejuje nadzor dostopa.</string>
@@ -506,10 +506,10 @@ Avdio"</string>
     <string name="call_barring_deactivate_all_description">Deaktivirajte vse nastavitve za zaporo klicev</string>
     <string name="call_barring_deactivate_all_no_password">Želite deaktivirati vse nastavitve za zaporo klicev?</string>
     <string name="call_barring_deactivate_success">Zapora klicev je deaktivirana</string>
-  <string name="call_barring_incoming">Prepoved dohodnih klicev</string>
+    <string name="call_barring_incoming">Prepoved dohodnih klicev</string>
     <string name="call_barring_new_pwd">Novo geslo</string>
     <string name="call_barring_old_pwd">Staro geslo</string>
-  <string name="call_barring_outgoing">Prepoved odhodnih klicev</string>
+    <string name="call_barring_outgoing">Prepoved odhodnih klicev</string>
     <string name="call_barring_pwd_not_match">Gesli se ne ujemata</string>
     <string name="call_barring_right_pwd_number">Vnesite geslo s 4 številkami</string>
   <string name="call_barring_settings">Nastavitve prepovedi klicev</string>
@@ -2065,11 +2065,11 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="roaming_warning">Dovolim podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
   <string name="rsp_unlock_failed">RUIM zahtevek odklepa ponudnika storitev neuspešen.</string>
   <string name="rsp_unlock_success">RUIM odklep ponudnika storitev uspešen.</string>
-    <string name="rtt_mode_more_information">"Opravilo RTT pomaga klicateljem, ki so gluhi, naglušni, imajo govorno motnjo ali potrebujejo več kot samo glas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Več o tem&lt;/a&gt;
-     &lt;br&gt;&lt;br&gt; – Klici RTT se shranijo kot prepis sporočila
-     &lt;br&gt; – RTT ni na voljo pri videoklicih"</string>
-    <string name="rtt_mode_summary">Dovoli izmenjavo sporočil v glasovnem klicu</string>
-    <string name="rtt_mode_title">Klic s sprotnim besedilom (RTT)</string>
+  <string name="rtt_mode_more_information">"Opravilo RTT pomaga klicateljem, ki so gluhi, naglušni, imajo govorno motnjo ali potrebujejo več kot samo glas.&lt;br> &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;Več o tem&lt;/a&gt;
+  &lt;br&gt;&lt;br&gt; – Klici RTT se shranijo kot prepis sporočila
+  &lt;br&gt; – RTT ni na voljo pri videoklicih"</string>
+  <string name="rtt_mode_summary">Dovoli izmenjavo sporočil v glasovnem klicu</string>
+  <string name="rtt_mode_title">Klic s sprotnim besedilom (RTT)</string>
   <string name="ruim_unlock_failed">RUIM zahtevek odklepa neuspešen.</string>
   <string name="ruim_unlock_success">RUIM odklep uspešen.</string>
   <string name="running_process_item_user_label">Uporabnik: %1$s</string>
@@ -2148,7 +2148,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="simContacts_empty">Na kartici SIM ni stikov.</string>
   <string name="simContacts_emptyLoading">Branje iz SIM kartice…</string>
   <string name="simContacts_title">Urejaj stike iz SIM kartice</string>
-  <string name="simFdnContacts_empty">Ni stikov za fiksno izbiranje.</string>
+  <string name="simFdnContacts_empty">Ni stikov za fiksno klicanje.</string>
   <string name="sim_absent">Ni</string>
   <string name="sim_accounts">SIM računi</string>
   <string name="sim_activated">Preverjeno</string>
@@ -2446,7 +2446,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="username_title">Uporabniško ime</string>
   <string name="ussdRunning">USSD koda teče...</string>
   <string name="ussd_dialog_sep">----------</string>
-  <string name="ut_not_support">UT ni dostopen</string>
+  <string name="ut_not_support">UT ni na voljo</string>
   <string name="ut_unavailable_to_set_video_cf_toast">UT ni na voljo za nastavljanje posredovanja klica za video, zaprite to stran.</string>
   <string name="v7_preference_off">IZKLJUČENO</string>
   <string name="v7_preference_on">VKLJUČENO</string>

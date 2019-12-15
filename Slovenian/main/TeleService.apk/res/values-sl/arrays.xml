@@ -244,7 +244,7 @@
         <item>Normalno</item>
         <item>Dolgo</item>
     </string-array>
-	     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Izbira sistema (privzeto)</item>
         <item>16 bitov po vzorcu</item>
         <item>24 bitov po vzorcu</item>

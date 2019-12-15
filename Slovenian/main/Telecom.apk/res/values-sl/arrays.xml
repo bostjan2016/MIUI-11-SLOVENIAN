@@ -171,7 +171,7 @@
         <item>Naravno doživetje barv doživljaj boje</item>
         <item>Barve optimizirane za digitalno vsebino</item>
     </string-array>
-	     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>Izbira sistema (privzeto)</item>
         <item>16 bitov po vzorcu</item>
         <item>24 bitov po vzorcu</item>
@@ -196,7 +196,7 @@
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
         <item>Optimizirano za kakovost avdio predvajanja</item>
         <item>Uravnotežena kakovost avdio predvajanja in povezave</item>
-        <item>Optimizirano za kakovost veze</item>
+        <item>Optimizirano za kakovost povezave</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
