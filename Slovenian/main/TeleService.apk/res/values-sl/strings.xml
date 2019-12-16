@@ -174,7 +174,7 @@
   <string name="additional_gsm_call_settings_with_label">Dodatne nastavitve (%s)</string>
   <string name="administrative_disable">Administrativni način je izklopljen</string>
   <string name="administrative_enable">Administrativni način je vklopljen</string>
-  <string name="advanced_mobile_settings">Napredne nastavitve</string>
+  <string name="advanced_mobile_settings">Dodatne nastavitve</string>
   <string name="advanced_options_title">Napredno</string>
   <string name="advanced_settings">Izbirne nastavitve</string>
   <string name="advanced_settings_hide">▽ Dotaknite se da skrijete vse</string>
@@ -477,7 +477,7 @@ Avdio"</string>
   <string name="callFailed_video_call_tty_enabled">Videoklici niso možni kadar je TTY omogočen.</string>
   <string name="callFailed_wifi_lost">WiFi povezava je prekinjena. Klic je končan.</string>
   <string name="callUnanswered_forwarded">Klic neodgovorjen in preusmerjen</string>
-  <string name="call_advanced_setting_title">Napredne nastavitve</string>
+  <string name="call_advanced_setting_title">Dodatne nastavitve</string>
   <string name="call_background_default">Privzeto</string>
   <string name="call_background_lock_wallpaper">Ozadje zakl. zaslona</string>
   <string name="call_background_setting">Ozadje dohodnega klica</string>

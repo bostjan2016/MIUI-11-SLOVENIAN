@@ -538,7 +538,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="select_music">Zvočne datoteke</string>
     <string name="select_video">Video datoteke</string>
     <string name="select_volume">Izberite glasnost</string>
-    <string name="server_control_advanced_settings">Napredne nastavitve</string>
+    <string name="server_control_advanced_settings">Dodatne nastavitve</string>
     <string name="server_control_charset">Kodiranje prenosa</string>
     <string name="server_control_settings">Nastavitve</string>
     <string name="set_pattern">Geslo je bilo nadgrajeno</string>

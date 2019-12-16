@@ -276,7 +276,7 @@
   <string name="mark_number_remove">Odstrani oznako</string>
   <string name="mark_title_null_hint">Polje ne sme biti prazno</string>
   <string name="menu_about_yellow_page">O tej strani</string>
-  <string name="menu_add_black_list">Dodaj na listo blokad</string>
+  <string name="menu_add_black_list">Dodaj na seznam blokad</string>
   <string name="menu_add_to_favorite">Dodaj med priljubljene</string>
   <string name="menu_call_ip_number">Pokliči IP klic</string>
   <string name="menu_copy_text">Kopirano v odložišče</string>
@@ -285,7 +285,7 @@
   <string name="menu_delete_one">Odstrani iz dnevnika klicev</string>
   <string name="menu_enroll_in_yellow_page">Vpiši se v Yellow Pages</string>
   <string name="menu_follow_yellow_page">Sledi</string>
-  <string name="menu_remove_black_list">Odstrani iz črne liste</string>
+  <string name="menu_remove_black_list">Odstrani iz črnega seznama</string>
   <string name="menu_remove_from_favorite">Odstrani iz priljubljenih</string>
   <string name="menu_save_contact">Shranite številko k stikom</string>
   <string name="menu_unfollow_yellow_page">Ne spremljaj</string>

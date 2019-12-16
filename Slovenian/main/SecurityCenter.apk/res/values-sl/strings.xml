@@ -197,7 +197,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_install_tips_go_to">Odpri</string>
   <string name="app_install_tips_install_success">%1$s uspešno nameščen</string>
   <string name="app_maanger_app_uninstalled_toast">Ta aplikacija je odstranjena</string>
-  <string name="app_manager_advanced_setting">Napredne nastavitve</string>
+  <string name="app_manager_advanced_setting">Dodatne nastavitve</string>
   <string name="app_manager_allow">Da</string>
   <string name="app_manager_app_ifno_version">Verzija aplikacije</string>
   <string name="app_manager_app_info_label">Informacije o aplikaciji</string>
@@ -2223,7 +2223,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
   <string name="power_center_list_item_battery_status_time">h</string>
   <string name="power_center_list_item_close_bluetooth">Izključi Bluetooth</string>
-  <string name="power_center_list_item_deep_save_title">Napredne nastavitve</string>
+  <string name="power_center_list_item_deep_save_title">Dodatne nastavitve</string>
   <string name="power_center_list_item_haptic_feedback">Izključi haptično povratno informacijo</string>
   <string name="power_center_list_item_set_lockscreen_time">Postavite zaslon v stanje mirovanja čez 30 sek. neaktivnosti</string>
   <string name="power_center_list_item_set_lockscreen_time_holder">Zakleni napravo po %d sek. neaktivnosti</string>

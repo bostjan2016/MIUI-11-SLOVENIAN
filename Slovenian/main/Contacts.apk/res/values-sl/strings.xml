@@ -957,7 +957,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="path_key_rebuild_t9_index_title">Aplikacije sistema/Stiki/Organizraj stike/Ponovno izgradi podatke indeksa</string>
   <string name="path_key_sim_manage">Aplikacije sistema/Stiki/Organizraj stike/SIM kartice</string>
   <string name="path_preference_contacts_filter">Aplikacije sistema/Stiki/Opcije prikaza/Konfigururaj seznam stikov</string>
-  <string name="path_quick_dial_setting">Aplikacije sistema/Telefon/Napredne nastavitve/Hitro klicanje</string>
+  <string name="path_quick_dial_setting">Aplikacije sistema/Telefon/Dodatne nastavitve/Hitro klicanje</string>
   <string name="path_remove_duplicate">Aplikacije sistema/Stiki/Organizraj stike/Združi podvojene stike</string>
   <string name="path_share_visible_contacts">Aplikacije sistema/Stiki/Uvoz/Izvoz stikov/Deli stike</string>
   <string name="path_sim_capacity">Aplikacije sistema/Stiki/Pomnilnik SIM kartice</string>

@@ -125,7 +125,7 @@
   <string name="answer_state_setting_summary">Dodatne možnosti za dohodne klice</string>
   <string name="answer_state_setting_title">Nastavitve dohodnih klicev</string>
   <string name="antispam_notification_title">Neznana številka</string>
-  <string name="antispam_setting">Lista blokiranih</string>
+  <string name="antispam_setting">Seznam blokiranih</string>
   <string name="apn_settings">Imena dostopnih točk</string>
   <string name="apn_settings_not_available">Nastavitve imena dostopne točke niso na voljo za tega uporabnika</string>
   <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
@@ -326,7 +326,7 @@
   <string name="callFailed_user_not_member_of_CUG">User not member of CUG</string>
   <string name="callFailed_video_call_tty_enabled">Cannot make video calls when TTY is enabled.</string>
   <string name="callUnanswered_forwarded">Klic neodgovorjen in preusmerjen</string>
-  <string name="call_advanced_setting_title">Napredne nastavitve</string>
+  <string name="call_advanced_setting_title">Dodatne nastavitve</string>
   <string name="call_background_lock_wallpaper">Ozadje zakl. zaslona</string>
   <string name="call_background_setting">Ozadje klicev</string>
   <string name="call_barring">Prepoved klicev</string>

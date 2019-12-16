@@ -53,8 +53,8 @@
          <item quantity="one">%d nastavitev koledarja</item>
      </plurals>
      <plurals name="dirty_blocklist_count">
-         <item quantity="other">%d vnosov liste blokiranja</item>
-         <item quantity="one">%d vnos liste blokiranja</item>
+         <item quantity="other">%d vnosov seznama blokiranja</item>
+         <item quantity="one">%d vnos seznama blokiranja</item>
     </plurals>
 	<plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d vnosov v zakl. aplikacij</item>

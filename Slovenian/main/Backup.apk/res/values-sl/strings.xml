@@ -166,7 +166,7 @@ nastavitev in aplikacij"</string>
   <string name="fail">Ni uspelo</string>
   <string name="failed_description">Ni uspelo</string>
   <string name="feature_title_account">Račun</string>
-  <string name="feature_title_antispam">Lista blokiranih</string>
+  <string name="feature_title_antispam">Seznam blokiranih</string>
   <string name="feature_title_call_log">Zgodovina klicev</string>
   <string name="feature_title_contacts">Stiki</string>
   <string name="feature_title_mms">MMS</string>

@@ -306,7 +306,7 @@
   <string name="contact_edit_set_black_list_from">Premesti vsa sporočila tega pošiljatelja v Smeti</string>
   <string name="contact_edit_set_black_list_receive">Premesti vsa sporočila tega pošiljatelja v Smeti (samo nova sporočila)</string>
   <string name="contact_edit_set_black_list_receive_summary">Izbriši pošto ki vsebuje tega prejemnika v polju Prejemnik ali Kopija</string>
-  <string name="contact_edit_set_black_list_title">Dodaj na listo blokiranih</string>
+  <string name="contact_edit_set_black_list_title">Dodaj na seznam blokiranih</string>
   <string name="contact_edit_set_phone_contact">Uredi stike telefona</string>
   <string name="contact_edit_title_phone_contact">Seznam stikov na telefonu</string>
   <string name="contact_in_filter_call_phone_str">Klic od %s</string>

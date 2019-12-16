@@ -181,7 +181,7 @@
   <string name="menu_bl_add_contact">Stiki</string>
   <string name="menu_bl_add_manual">Dodaj</string>
   <string name="menu_bl_call_log">Pokaži blokirane klice</string>
-  <string name="menu_bl_clear">Očisti listo blokiranih</string>
+  <string name="menu_bl_clear">Očisti seznam blokiranih</string>
   <string name="menu_bl_remove">Odblokiraj</string>
   <string name="menu_bl_sms_log">Pokaži blokirane SMS</string>
   <string name="menu_call">Klici</string>

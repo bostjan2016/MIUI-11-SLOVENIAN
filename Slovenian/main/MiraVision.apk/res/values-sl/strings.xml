@@ -2,7 +2,7 @@
 <resources>
   <string name="aal_header">Osvetlitev ozadja</string>
   <string name="aal_item">Luma adaptivna ambientalna svetloba</string>
-  <string name="advance_color_header">Napredne nastavitve</string>
+  <string name="advance_color_header">Dodatne nastavitve</string>
   <string name="advance_color_item_sharpness">Ostrina</string>
   <string name="advance_color_item_temperature">Temperatura barve</string>
   <string name="after_text">Potem</string>

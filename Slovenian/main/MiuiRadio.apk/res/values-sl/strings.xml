@@ -43,7 +43,7 @@
   <string name="get_channel_failed">"Ne morem dobiti informacij o kanalu"</string>
   <string name="has_no_program_now">"Ta kanal ne oddaja"</string>
   <string name="high_quality">Več (48 bps)</string>
-  <string name="hotlist_name">Xiaomi vroča lista</string>
+  <string name="hotlist_name">Xiaomi vroči seznam</string>
   <string name="impunity_declaration">Radio potrebuje povezavo s spletom in dostop do lokacije za normalno obratovanje.</string>
   <string name="impunity_declaration_ignore">"Ne kaži več"</string>
   <string name="impunity_declaration_negative_text">Prekini</string>

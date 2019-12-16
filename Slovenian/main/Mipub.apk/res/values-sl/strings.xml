@@ -142,7 +142,7 @@
   <string name="permdesc_writeHmsCommon">Omogoča aplikaciji pisanje podatkov Mi Pub aplikacije.</string>
   <string name="play">Predvajaj</string>
   <string name="prefDefault_ringtone_repeat">1</string>
-  <string name="pref_advanced_settings_title">Napredne nastavitve</string>
+  <string name="pref_advanced_settings_title">Dodatne nastavitve</string>
   <string name="pref_collapse_sp_messages_summary">Kombinirano sporočilo ponudnika storitev v istem vhodu</string>
   <string name="pref_edit_smsc_address">Številka SMS centra</string>
   <string name="pref_forward_title">Posreduj</string>

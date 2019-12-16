@@ -617,7 +617,7 @@ na svojih fotografijah"</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Poskusite portretni način.
 Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="portrait_with_facebeauty_hint">Na voljo je opravilo olepševanja v portretnem načinu dela.</string>
-  <string name="pref_advanced_functions">Napredne nastavitve</string>
+  <string name="pref_advanced_functions">Dodatne nastavitve</string>
   <string name="pref_advanced_settings">Napredno</string>
   <string name="pref_ai_detect">AI detekcija</string>
   <string name="pref_audio_focus_entry_front">Spredaj</string>
@@ -969,7 +969,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
   <string name="pref_lens_dirty_detect_summary">Prejmite obvestilo ko je leča umazana</string>
   <string name="pref_lens_dirty_detect_title">Obvestila o umazani leči</string>
-  <string name="pref_grp_advanced_settings">Napredne nastavitve</string>
+  <string name="pref_grp_advanced_settings">Dodatne nastavitve</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
   <string name="pref_grp_restore_settings">Obnovi nastavitve</string>

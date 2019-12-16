@@ -510,7 +510,7 @@
   <string name="msg_update_error_code_unknown_error">Strežniki so zasedeni, poskusite kasneje</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="name_optimizer">Pravila o zasebnosti</string>
-  <string name="nb_clear_set">Počisti predpomnilnik, pokaži baterijo in listo blokiranih v plošči obvestil</string>
+  <string name="nb_clear_set">Počisti predpomnilnik, pokaži baterijo in seznam blokiranih v plošči obvestil</string>
   <string name="net_assistant_detail">Izkoriščeno %1$s, prihranjeno %2$s</string>
   <string name="net_assistant_title">Izkoriščeno %s mob. pod. ta mesec</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
