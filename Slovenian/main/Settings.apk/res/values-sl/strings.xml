@@ -1761,11 +1761,13 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="close_fod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
   <string name="close_fod_aod">"Kadar je zaslon izključen ne morete odkleniti naprave s pomočjo prstnega odtisa. \"Vedno vključeno\" tudi ne bo na voljo. Odklepanje s prstnim odtisom deluje samo kadar je zaslon vključen."</string>
   <string name="close_gesture">Premik za zapiranje</string>
-  <string name="close_install_and_connect">Ne hvala</string>
+  <string name="close_install_and_connect">Ne, hvala</string>
+  <string name="close_hotspot_hint">Izključi hotspot pred predvajanjem</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
   <string name="close_optimization_message">Morda bo vplivalo na videz besedila, račune in ostale dele MIUI-ja po izklopu te storitve.</string>
   <string name="close_optimization_option">Izključi</string>  
   <string name="close_privacy_thumbnail_blur_title">"Pregledi niso zamegljeni"</string>
+  <string name="close_slave_wifi_hint">Prekini povezavo s pomožnimi WiFi omrežji pred predvajanjem</string>
   <string name="close_sdcard_optimization_title">Izključi optimizacijo SD kartice</string>
   <string name="close_sdcard_optimization_warning_message">Vaša naprava se bo ponovno zagnala.</string>
   <string name="close_twice_auth_btn">Izključite Apple ID autorizacijo z dvema faktorjema</string>
@@ -8832,6 +8834,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
   <string name="vibrate_title">Vibracija</string>
     <string name="vibrate_when_ringing_title">Vibriranje za klice</string>
     <string name="video_calling_settings_title">Videoklicanje prek operaterja</string>
+  <string name="video_tool_box_title">Orodje za videoposnetke</string>
   <string name="view_install_log">Pokaži poročilo</string>
   <string name="view_password_description">Pokaži geslo</string>
   <string name="vip_list">Dovoli dohodne klice</string>

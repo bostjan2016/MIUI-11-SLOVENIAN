@@ -160,4 +160,9 @@
         <item>Da</item>
         <item>Ne</item>
     </string-array>
+	 <string-array name="applock_password_types">
+        <item>Vzorec</item>
+        <item>PIN</item>
+        <item>Geslo</item>
+    </string-array>
 </resources>

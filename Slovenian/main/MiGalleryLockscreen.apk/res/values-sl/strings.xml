@@ -71,7 +71,7 @@
   <string name="cancel_lockscreen">Prekini</string>
   <string name="cancel_network">Izhod</string>
   <string name="carousel_declaration_btn_text">Vključi Wallpaper Carousel</string>
-  <string name="carousel_declaration_cta">"zahteva spletno povezavo da dela normalno. Da dobite dostop do omrežne vsebine se morate strinjati z našimi &lt;a href='%s'&gt;Pravila o zasebnosti&lt;/a&gt;. Se strinjate?"</string>
+  <string name="carousel_declaration_cta">"Wallpaper Carousel zahteva spletno povezavo da dela normalno. Da dobite dostop do omrežne vsebine se morate strinjati z našimi &lt;a href='%s'&gt;Pravila o zasebnosti&lt;/a&gt;. Se strinjate?"</string>
   <string name="carousel_declaration_cta_btn_text">Strinjam se in vključi</string>
   <string name="carousel_declaration_des">Poglejte prekrasna mesta in doživite vzburljiva presenečenja z Wallpaper Carousel</string>
   <string name="carousel_declaration_des2">Dodajte svoje slike ozadja v Wallpaper Carousel</string>
@@ -139,6 +139,7 @@
   <string name="declaration">Vsak dan brezplačno dobite nove slike ozadja naravnost na vaš zaklenjen zaslon.</string>
   <string name="declaration_lockscreen_title">Vključi Wallpaper Carousel</string>
   <string name="declaration_title">Predpisi in pogoji</string>
+  <string name="delete_pic">Izbriši sliko</string>
   <string name="deny_des">Wallpaper Carousel potrbuje dostop do Galerije za normalno delovanje.</string>
   <string name="detail_ad_type_ad">OGLAS</string>
   <string name="detail_ad_type_video">Popularni videoposnetki</string>
@@ -262,6 +263,7 @@
   <string name="main_fragment_title_user">Nastavitve</string>
   <string name="manage">Urejaj</string>
   <string name="minutes_15">Vsakih 15 min.</string>
+  <string name="minutes_5">Vsakih 5 min.</string>
   <string name="mode_auto_desc">Vključite Wallpaper Carousel za samodejno prejemanje novih slik</string>
   <string name="mode_auto_desc_open">Samodejno prejemanje novih slik</string>
   <string name="mode_auto_desc_selected">Samodejno prejemanje novih slik</string>
@@ -581,6 +583,7 @@
   <string name="see_more">Pokaži več</string>
   <string name="see_more_content">Pokaži več</string>
   <string name="select_package">Izberi verzijo</string>
+  <string name="select_photo_album">Izberi album</string>
   <string name="select_picture">Izberi slike</string>
   <string name="select_picture_des">Dodajte svoje fotografije in omrežne slike v miks da se bodo samodejno prikazale v predstavitvi.</string>
   <string name="setting_about_item_des">Verzija</string>
@@ -606,7 +609,7 @@
   <string name="shortcut_created">Bližnjica izdelana</string>
   <string name="shortcut_exist">Bližnjica že obstaja</string>
   <string name="shortcut_failed">"Ne morem napraviti bližnjice"</string>
-  <string name="show_wallpaper_loop_entry_title">Diaprojekcija zač. zaslona</string>
+  <string name="show_wallpaper_loop_entry_title">Nastavitve diaprojekcije</string>
   <string name="sign_in_title">Prijavite se z svojim Mi Računom</string>
   <string name="sliding_on_unlock">Potegni gor za odklep</string>
   <string name="sns_sign_in">Drugi načini prijave</string>
@@ -683,6 +686,7 @@
   <string name="subscribe_free">Naročite se</string>
   <string name="subscribe_item_checked">Naročeno</string>
   <string name="subscribe_item_unchecked">Odpovej naročilo</string>
+  <string name="subscribe_success_content_per_5_minutes">Zamenjaj sliko za ozadje vsakih 5 minut</string>
   <string name="subscribe_success_content_per_day">Zamenjaj sliko za ozadje vsak dan</string>
   <string name="subscribe_success_content_per_hour">Zamenjaj sliko za ozadje vsako uro</string>
   <string name="subscribe_success_content_per_quarter">Zamenjaj sliko za ozadje vsakih 15 minut</string>
@@ -716,6 +720,8 @@
   <string name="toast_ad_down_tip">Prenos aplikacije…</string>
   <string name="toast_ad_down_tip2">Prenos %s</string>
   <string name="toast_connect_failed_tip">"Povezovanje ni uspelo. Počakajte minuto ali dve in poskusite ponovno."</string>
+  <string name="toast_has_close_gallery">Wallpaper Carousel izključen</string>
+  <string name="toast_has_open_gallery">Wallpaper Carousel vključen</string>
   <string name="toast_load_failed_tip">"Ne morem naložiti"</string>
   <string name="toast_load_hd_fail">Nalaganje originalnega dokumenta ni uspelo</string>
   <string name="toast_neterror_tip">Omrežna napaka</string>

@@ -540,6 +540,10 @@
          <item quantity="other">"Ni uporabljano %d let"</item>
          <item quantity="one">"Ni uporabljano %d leto"</item>
      </plurals>
+	 <plurals name="applock_guide_app_count_tips">
+        <item quantity="other">Lahko zaščitite najmanj %s aplikacij</item>
+        <item quantity="one">Lahko zaščitite najmanj %s aplikacijo</item>
+    </plurals>
 	 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
 	    <item quantity="other">"Počakajte %d sek. in poskusite ponovno. "</item>
         <item quantity="one">"Počakajte %d sek. in poskusite ponovno. "</item>
@@ -564,6 +568,10 @@
         <item quantity="other">%d mAh</item>
         <item quantity="one">%d mAh</item>
      </plurals>
+	 <plurals name="gb_record_time_title">
+        <item quantity="other">%d sek.</item>
+        <item quantity="one">%d sek.</item>
+    </plurals>
 	 <plurals name="function_shield_num">
         <item quantity="other">%d storitev</item>
         <item quantity="one">%d storitev</item>
@@ -587,5 +595,9 @@
 	<plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemov zahteva optimizacijo</item>
         <item quantity="one">%1$d problem zahteva optimizacijo</item>
+    </plurals>
+	<plurals name="videobox_settings_manager_apps_count">
+        <item quantity="other">%d aplik.</item>
+        <item quantity="one">%d aplikacija</item>
     </plurals>
 </resources>

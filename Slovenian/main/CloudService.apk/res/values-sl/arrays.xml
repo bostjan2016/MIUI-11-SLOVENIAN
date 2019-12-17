@@ -18,7 +18,7 @@
         <item>Koledar</item>
         <item>Shramba</item>
     </string-array>
-	<string-array name="priv_dialog_sync_runtime_perm_desc">
+	<string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>Za sinhronizacijo dogodkov</item>
         <item>Za sinhronizacijo sporočil</item>
         <item>Za sinhronizacijo sporočil</item>
@@ -26,7 +26,7 @@
         <item>Za sinhronizacijo stikov</item>
         <item>Za shranjevanje stvari v vašo napravo (npr. slike, videoposnetki, pesmi)</item>
     </string-array>
-    <string-array name="priv_dialog_finddevice_runtime_perm_desc">
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>Za identifikacijo vaše naprave</item>
         <item>Za lociranje naprave im premik na izgubljeni način dela</item>
     </string-array>

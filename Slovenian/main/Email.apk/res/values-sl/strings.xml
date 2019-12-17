@@ -160,6 +160,11 @@
   <string name="account_setup_security_required_title">Oddaljeno  urejanje</string>
   <string name="account_setup_server_acc_manager_title">Računi</string>
   <string name="account_setup_username_password_toast">Vpišite veljaven E-poštni naslov in geslo</string>
+  <string name="account_smime">S/MIME</string>
+  <string name="account_smime_cert_title">Certifikat</string>
+  <string name="account_smime_encrypt">S/MIME šifriranje</string>
+  <string name="account_smime_install_cert">Namestitev certifikata</string>
+  <string name="account_smime_sign">S/MIME podpis</string>
   <string name="account_sync_off">Sinhronizacija računa je izklopljena.</string>
   <string name="account_sync_settings_settings">Sinhr. stike in koledar</string>
   <string name="account_sync_settingstip_description">Sinhr.</string>
@@ -256,7 +261,16 @@
   <string name="cancel_action">Prekliči</string>
   <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni na voljo za POP3 račun.</string>
   <string name="cant_move_or_change_labels">Ni mogoče premakniti, ker izbor vsebuje več računov.</string>
-  <string name="cc_heading">Kp:</string>
+  <string name="cc_heading">"Kopija: "</string>
+  <string name="certificate_add_failed">\"%s\" certifikat se ne more namestiti.</string>
+  <string name="certificate_added">\"%s\" certifikat dodan.</string>
+  <string name="certificate_alias_prompt_certificate_name">Ime certifikata</string>
+  <string name="certificate_alias_prompt_title">Ime certifikata</string>
+  <string name="certificate_alias_prompt_w">Dvojno ime certifikata, ponovno preimenujte certifikat</string>
+  <string name="certificate_password_hit">Vnesite geslo</string>
+  <string name="certificate_password_prompt_title">Izdvoji certifikat</string>
+  <string name="certificate_password_tips">Vnesite geslo za izdvajanje certifikata</string>
+  <string name="certificate_password_tips_w">Vnesite točno geslo</string>
   <string name="change_folders_selection_dialog_title">Spremeni mape</string>
   <string name="change_sync_settings">Spremeni nastavitve sinhronizacije</string>
   <string name="changepw_dialog_tips">Ponovno vnesite geslo za %s</string>
@@ -336,11 +350,16 @@
   <string name="contextmenu_send_mail">Pošlji E-pošto</string>
   <string name="contextmenu_sharelink">Deli povezavo</string>
   <string name="contextmenu_sms_dot">SMS...</string>
+  <string name="conversation_cert_distrust">Odpovej</string>
+  <string name="conversation_cert_info_tips">Pošiljatelj je sporočilo podpisal z varnim certifikatom</string>
+  <string name="conversation_cert_info_title">Podpisano</string>
+  <string name="conversation_cert_trust">Verjemi podpisu</string>
   <string name="conversation_detail_hide">Skrij</string>
   <string name="conversation_detail_show">Podrobnosti</string>
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
   <string name="conversation_item_mark_read">Prebrano</string>
   <string name="conversation_item_mark_unread">Neprebrano</string>
+  <string name="conversation_message_encrypt_tips">Sporočilo je šifrirano. Namestite datoteko certifikata ki vsebuje vašo identiteto šifriranja za dešifriranje sporočila.</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Pošlji "</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
   <string name="conversation_pull_ad_content">Urejajte svoja sporočila e-pošte brez napora</string>
@@ -716,6 +735,7 @@
   <string name="no_mails">Ni E-pošte.</string>
   <string name="no_matched_attachment">Ni zadetkov.</string>
   <string name="no_more_mail">Ni več sporočil</string>
+  <string name="no_open_smime_toast">Najprej namestite S/MIME certifikat</string>
   <string name="no_recognize_describe">"Ne morem najti e-pošt ki vsebujejo vstopnice ali rezervacije.
 Poskusite z ostalo pošto."</string>
   <string name="no_remind">Ne opominjaj</string>
@@ -1016,6 +1036,8 @@ Počakajte do konca sinhronizacije ali poglejte sporočilo na računalniku."</st
   <string name="select_path">Izberi pot</string>
   <string name="selected_lable">Izbrano</string>
   <string name="send">Pošlji</string>
+  <string name="send_encrypt_dialog_fail_content">Ta e-pošta se ne da šifrirati ker prejemnik nima varnega certifikata. Pošljem nekodirano?</string>
+  <string name="send_encrypt_dialog_fail_title">Ne morem poslati šifrirano pošto</string>
   <string name="send_att_title">Opozorilo</string>
   <string name="send_failed">Sporočilo ni bilo poslano</string>
   <string name="send_feed_back">Pošlji povratne informacije</string>
