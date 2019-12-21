@@ -1165,7 +1165,7 @@ za fotografije"</string>
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_set_contact_photo">Nastavi za sliko stika</string>
-  <string name="operation_set_slide_wallpaper">Nastavi kot slideshow ozadje</string>
+  <string name="operation_set_slide_wallpaper">Nastavi kot projekcijo ozadja</string>
   <string name="operation_set_video_wallpaper">Nastavi video ozadje</string>
   <string name="operation_set_wallpaper">Nastavi za sliko ozadja</string>
   <string name="operation_share">Deli</string>

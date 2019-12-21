@@ -127,8 +127,17 @@
   <string name="usage_focus_title_level3">Dvignite se nad zemljo</string>
   <string name="usage_focus_title_level4">Najdite veselje v doslednosti</string>
   <string name="usage_focus_title_level5">Ostanite fokusirani</string>
+  <string name="usage_home_permission_account_title">Dostop do informacij o računu</string>
+  <string name="usage_home_permission_phone_title">Dostop do informacij o napravi</string>
   <string name="usage_home_premission_main_summary">"Dobrodošli v Čas zaslona! Aplikacijo lahko uporabite za nastavljanje časovnih omejitev, prikaz statistik in prehod na način fokusiranja. Aplikacija potrebuje podatke o času zaslona (npr. kolikokrat odklenete telefon in vključite zaslon in kako dolgo uporabljate aplikacije) za normalno delovanje."</string>
+  <string name="usage_home_premission_main_summary_new">"Dobrodošli v Čas zaslona!
+Za normalno delovanje aplikacija potrebuje dovoljenja za zbiranje podatkov: kolikokrat ste odklenili telefon, imena aplikacij in trajanje uporabe aplikacij da pripravi podatke o času zaslona; Nastavitve načina ostrenja so potrebne za ustvarjanje statističnih podatkov o načinu ostrenja.
+Aplikacija potrebuje povezavo s spletom in dostop do osebnih podatkov:"</string>
+  <string name="usage_home_premission_main_summary_new_o">"Dobrodošli v Čas zaslona!
+Za normalno delovanje aplikacija potrebuje dovoljenja za zbiranje podatkov: kolikokrat ste odklenili telefon, imena aplikacij in trajanje uporabe aplikacij da pripravi podatke o času zaslona.
+Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podatkov:"</string>
   <string name="usage_home_premission_second_summary">Za normalno delovanje mora aplikacija zbrati vaše osebne podatke. Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
+  <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona. Za več podrobnosti smo na voljo na privacy@xiaomi.com."</string>
   <string name="usage_state_accurate_date">dd.MM.yyyy</string>
   <string name="usage_state_add_up_count">Seje</string>
   <string name="usage_state_add_up_days">Dnevi</string>

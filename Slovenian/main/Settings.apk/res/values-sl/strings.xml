@@ -2789,7 +2789,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="enable_quickboot_summary">Zaženite napravo v QuickBoot način namesto normalnega izklopa</string>
   <string name="enable_quickboot_title">Omogoči QuickBoot način</string>
     <string name="enable_receiving_mms_notification_title">Dohodno sporočilo MMS</string>
-  <string name="enable_screen_projection_summary">Premestite vsebino zaslona na zunanji monitor</string>
+  <string name="enable_screen_projection_summary">Predvajajte vsebino zaslona na zunanjem monitorju</string>
     <string name="enable_sending_mms_notification_title">Sporočila MMS ni mogoče poslati</string>
   <string name="enable_service_encryption_warning">Če vklopite storitev %1$s vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov.</string>
   <string name="enable_service_password_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi geslo.</string>

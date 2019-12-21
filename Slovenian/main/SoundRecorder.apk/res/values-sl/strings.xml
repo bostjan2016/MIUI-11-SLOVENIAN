@@ -83,6 +83,8 @@
   <string name="preference_enable_earpiece_title">Uporabi zvočnik za predvajanje avdia</string>
   <string name="preference_led_indicator">Obvestila na zaklenjem zaslonu</string>
   <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko.</string>
+  <string name="preference_record_desktop_indicator_summary">Na zaslonu začetnega zaslona pokaži modri indikator če snemalec deluje v ozadju</string>
+  <string name="preference_record_desktop_indicator_title">Indikator začetnega zaslona</string>
   <string name="preference_record_scenes_dialog_title">Izberi tip snemanja</string>
   <string name="preference_scenes">Vrsta snemanja</string>
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
