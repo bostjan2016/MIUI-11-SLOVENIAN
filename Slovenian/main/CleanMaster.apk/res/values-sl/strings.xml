@@ -618,9 +618,9 @@
   <string name="recommend_news">Priporočeni viri</string>
   <string name="recommend_the_following">Sledite tem korakom da dobite največ iz vaše naprave</string>
   <string name="recommended">Priporočeno</string>
-  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se še nekaj datotek lahko izbriše. Sprostite več prostora.&lt;/Data&gt;" "</string>
-  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;Lahko očistite &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predpomnilnika ki ga generira QQ&lt;/Data&gt;" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predpomnilnika. Sprostite več prostora.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_deep_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se lahko izbriše še nekaj datotek. Sprostite več prostora.&lt;/Data&gt;"</string>
+  <string name="resutl_function_qq_clean_summary">"&lt;Data&gt;Lahko očistite &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; predpomnilnika ki ga generira QQ&lt;/Data&gt;"</string>
+  <string name="resutl_function_wechat_clean_summary">"&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChat predpomnilnika. Sprostite več prostora.&lt;/Data&gt;"</string>
   <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
   <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="sc_allow_network_dialog_button">Dovoli</string>

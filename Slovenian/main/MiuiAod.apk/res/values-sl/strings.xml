@@ -57,6 +57,7 @@
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
   <string name="digital_clock">Digitalna</string>
   <string name="disable_aod_in_power_save_mode">Izključi če je vključeno varčevanje baterije</string>
+  <string name="disable_aod_in_power_save_mode_summary">"Ne kaži za prihranek baterije"</string>
   <string name="font_thickness">Odebeljeni font</string>
   <string name="large_time">Velika ura</string>
   <string name="letter_space">Razmak med črkami</string>

@@ -577,6 +577,9 @@ pritisnite sprožilec"</string>
   <string name="path">Pot</string>
   <string name="people">Osebe</string>
   <string name="photo_assistance_tips_title">Nasveti v živo</string>
+  <string name="pic_flaw_blink_more">Kaže da je nekdo v kadru zaprl oči</string>
+  <string name="pic_flaw_blink_one">Kaže da je oseba v kadru zaprla oči</string>
+  <string name="pic_flaw_cover">Kaže da je leča delno prekrita</string>
   <string name="photos_portrait_type_description">Fotografije portreta imajo globinski efekt ki zadrži objekt v fokusu in zamegli ozadje.</string>
   <string name="photos_portrait_type_name">Portret</string>
   <string name="popup_tip_3d_beauty_intro_text">3D olepšanje</string>
@@ -606,9 +609,9 @@ na svojih fotografijah"</string>
   <string name="portrait_india_effect_entry_portrait">Portret</string>
   <string name="portrait_india_effect_entry_retro">Retro</string>
   <string name="portrait_india_effect_entry_romantic">Romantika</string>
-  <string name="portrait_india_effect_entry_strong">Moč</string>
+  <string name="portrait_india_effect_entry_strong">Intenzivno</string>
   <string name="portrait_india_effect_entry_sunny">Sončno</string>
-  <string name="portrait_india_effect_entry_sweet">Sladko</string>
+  <string name="portrait_india_effect_entry_sweet">Karamela</string>
   <string name="portrait_india_effect_entry_warm">Toplo</string>
   <string name="portrait_india_effect_entry_young">Mladost</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
@@ -755,8 +758,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_hdr_entry_normal">Pro</string>
   <string name="pref_camera_hdr_entry_off">Izključeno</string>
   <string name="pref_camera_hdr_title">HDR</string>
-  <string name="pref_camera_heic_image_format_description">Posnemite fotografije v visoko učinkovitem HEIC formatu</string>
-  <string name="pref_camera_heic_image_format_title">HEIC Format</string>
+  <string name="pref_camera_heic_image_format_description">"Fotografije v formatu slikovnih datotek visoke učinkovitosti zavzemajo manj prostora za shranjevanje, a nekatere aplikacije jih ne podpirajo"</string>
+  <string name="pref_camera_heic_image_format_title">HEIF Format</string>
   <string name="pref_camera_hdr_type_entry_live">V živo</string>
   <string name="pref_camera_hdr_type_entry_normal">Normalno</string>
   <string name="pref_camera_hdr_type_title">HDR vrsta</string>
@@ -985,6 +988,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_popup_camera_title">Pop-up kamera</string>
   <string name="pref_photo_assistance_tips_off">Izklj.</string>
   <string name="pref_photo_assistance_tips_on">Vklj.</string>
+  <string name="pref_pic_flaw_tip_summary">Dobite obvestila v realnem času če osebe v kadru zaprejo oči ali pa je objektiv delno prekrit</string>
+  <string name="pref_pic_flaw_tip_title">Obvestila o pomanjkljivostih</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
   <string name="pref_privacy_title">Pravila o zasebnosti</string>
   <string name="pref_qc_focus_position_title">Fokus</string>

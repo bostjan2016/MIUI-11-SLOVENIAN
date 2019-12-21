@@ -396,6 +396,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_usage_recently">Nedavno uporabljeno</string>
   <string name="app_version">"Različica "</string>
   <string name="app_wifi">WiFi</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Očisti %s WeChat predpomnilnika za več prostora za shranjevanje</string>
+  <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Ne pozabite očistiti predpomnilnik"</string>
   <string name="application_item_already_permission">Dovoljeno</string>
   <string name="application_item_disable">Omejeno</string>
   <string name="applock_add_account">Dodaj</string>
@@ -1391,6 +1393,8 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gdpr_msg">"Da boste uporabili osnovne funkcije aplikacije Varnost, se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načih uporabe zaščite (npr. Statistiko uporabe mobilnih podatkov, informacije o zlonamerni opremi) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_wa_setting_alert_dialog_content">Lahko osvobodite %s</string>
+  <string name="global_wa_setting_alert_dialog_title">WhatsApp Čistilec</string>
   <string name="gmscore_support_remind">Vključite to opravilo če imate težave z uporabo storitve Gmail, Google Mape in ostalih Googlevih aplikacij. To bo malo skrajšalo delovanje baterije.</string>
   <string name="gmscore_support_service">Osnovne Google storitve</string>
   <string name="go_to">Nadaljuj</string>
@@ -1848,6 +1852,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="net_booster_overdue_notification_tip">Seja povečanja hitrosti omrežja bo kmalu končana. Obnovim sejo?</string>
   <string name="net_booster_tip">Vključite povečanje hitrosti omrežja da napravite WiFi povezavo stabilnejšo in zmanjšate zamude omrežja.</string>
   <string name="net_booster_title">Povečaj hitrost omrežja</string>
+  <string name="net_boostering">Povečanje hitrosti omrežja</string>
   <string name="net_boosting">Povečanje hitrosti…</string>
   <string name="net_delay_title">Odloži</string>
   <string name="net_overdue">Seja se je končala</string>
@@ -1937,6 +1942,8 @@ Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z 
   <string name="notification_charging_title">Polnjenje</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
+  <string name="notification_garbage_cleanup_summary">Očistite smeti (%s) da pohitrite napravo</string>
+  <string name="notification_garbage_cleanup_title">Očistite datoteke smeti</string>
   <string name="notification_low_battery_action_btn">Vključi</string>
   <string name="notification_low_battery_need_charge">Napolnite svojo napravo</string>
   <string name="notification_low_battery_open_save_mode">Vključi varčevanje baterije</string>
