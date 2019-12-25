@@ -28,4 +28,12 @@
          <item quantity="other">%d stvari</item>
          <item quantity="one">%d stvar</item>
      </plurals>
+	 <plurals name="confirm_delete_cloud_records">
+        <item quantity="other">Izbrišem %d posnetkov iz Mi Clouda?</item>
+        <item quantity="one">Izbrišem %d posnetek iz Mi Clouda?</item>
+    </plurals>
+    <plurals name="confirm_delete_records">
+        <item quantity="other">Izbrišem posnetke: %d?</item>
+        <item quantity="one">Izbrišem %d posnetek?</item>
+    </plurals>
 </resources> 

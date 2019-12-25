@@ -66,13 +66,14 @@
   <string name="description_title">O Kalkulatorju</string>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
-  <string name="dialog_privacy_content">Razen osnovnih storitev kalkulatorja naša aplikacija vsebuje tudi znanstveni kalkulator in večnamenski pretvornik. Nekatere storitve se morajo povezati na splet da delajo normalno. Morate prebrati in se strinjati z %1$s in %2$s pred uporabo Kalkulatorja.</string>
+  <string name="dialog_privacy_content">Razen osnovnih storitev kalkulatorja naša aplikacija vsebuje tudi znanstveni kalkulator in večnamenski pretvornik. Nekatere storitve se morajo povezati na splet da delajo normalno. &lt;Data&gt;Pred uporabo aplikacije preberite in se strinjajte z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="dialog_privacy_title">Pogoji in Pravila</string>
   <string name="dialog_rating_desc_ask">Kaj mislite o Kalkulatorju?</string>
   <string name="dialog_rating_desc_less">Nam daste povratne informacije?</string>
   <string name="dialog_rating_desc_perfect">Boste ocenili Kalkulator v App trgovini?</string>
   <string name="dialog_rating_title">Ocenite našo aplikacijo</string>
-  <string name="eDesc">"Eulerovo število"</string>
+  <string name="disallow">"Ne sprejemam"</string>
+  <string name="eDesc">"Eulerjevo število"</string>
   <string name="email">E-pošta</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Napaka formata</string>
@@ -272,7 +273,8 @@
   <string name="name">Ime</string>
   <string name="negDesc">Zamenjaj med temperaturami pod in nad ničlo</string>
   <string name="network_confirm_content">"Izračun valute, davka in hipotek uporabljajo spletno povezavo za normalno delo."</string>
-  <string name="network_confirm_title">Potrebna spletna povezava</string>
+  <string name="network_confirm_title">Potrebno je dovoljenje</string>
+  <string name="network_privacy">Vedite da se aplikacija mora povezati s spletom in zbrati potrebne osebne podatke za popolno delovanje. Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti.</string>
   <string name="network_purpose">Dobrodošli v Kalkulator! Kalkulator vam omogoča pretvorbo valut, izračunavanje odplačil kredita in še več.</string>
   <string name="nickname">Priimek</string>
   <string name="night">PM</string>
@@ -289,6 +291,14 @@
   <string name="perm_payment_lab">Mi Plačilne storitve</string>
   <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS sporočila brez vašega dovoljenja. To lahko pripelje do nepričakovanih stroškov.</string>
   <string name="permlab_sendSmsNoConfirmation">Pošiljanje SMS sporočil brez dovoljenja</string>
+  <string name="permission_location">Dostop do lokacije</string>
+  <string name="permission_location_desc">Za nudenje storitev baziranih na lokaciji</string>
+  <string name="permission_phone">Dostop do statusa in ID naprave</string>
+  <string name="permission_phone_desc">Za prepoznavanje različnih naprav</string>
+  <string name="permission_privacy_link">&lt;Data&gt;Pred uporabo morate prebrati in se strinjati z &amp;lt;a href=%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_purpose">"Dobrodošli v Kalkulator! Razen osnovne funkcionalnosti vam Kalkulator omogoča pretvarjanje valut in merskih enot, izračunavanje plačil kredita in še več. Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti.
+Vedite da se aplikacija mora povezati s spletom in zahteva naslednja dovoljenja za zbiranje vaših osebnih podatkov:"</string>
+  <string name="permission_remove_desc">Lahko odstranite aplikacijo ali ji omejite dovoljenja in odvzamete avtorizacijo v nastavitvah.</string>
   <string name="phone">Telefon</string>
   <string name="preference_about_calculator">O Kalkulatorju</string>
   <string name="preference_alert_follow_qq_group">Kopiraj in prilepi v QQ za spremljanje</string>

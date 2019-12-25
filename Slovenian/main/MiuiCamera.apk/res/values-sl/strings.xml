@@ -28,6 +28,7 @@
   <string name="accessibility_camera_record_start">Snemanje se začenja</string>
   <string name="accessibility_camera_record_stop">Snemanje ustavljeno</string>
   <string name="accessibility_camera_shutter_finish">Fotografija uspešno izdelana</string>
+  <string name="accessibility_camera_switch_capture_recording">Menjava med foto in video načinom</string>
   <string name="accessibility_camera_ultra_wide_bokeh_off">Način celega telesa je izključen</string>
   <string name="accessibility_camera_ultra_wide_bokeh_on">Način celega telesa je vključen</string>
   <string name="accessibility_close_more_ptions">Onemogoči več možnosti</string>
@@ -107,6 +108,9 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="autozoom_disabled_hint">Spremljanje objekta v gibanju ustavljeno</string>
   <string name="autozoom_hint">Spremljaj objekt v gibanju</string>
   <string name="autozoom_landscape_hint">Priporoča se snemanje v načinu pokrajina</string>
+  <string name="auxiliary_close_status">Dodatni efekti so izključeni</string>
+  <string name="auxiliary_exposure_feedback_status">Preverjanje ekspozicije je vključeno</string>
+  <string name="auxiliary_focus_peak_status">Vrh fokusiranja je vključen</string>
   <string name="back_bokeh_use_hint">"Pazite da objekt ne bo oddaljen več od 1.5 metra."</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Vitko</string>
@@ -545,6 +549,7 @@ izgledali večji na fotografijah"</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Kvadrat</string>
   <string name="module_name_video">Video</string>
+  <string name="moive_frame">Okvir filma</string>
   <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
   <string name="network_access_user_notice_agree">Strinjam se</string>
   <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
@@ -565,13 +570,53 @@ izgledali večji na fotografijah"</string>
   <string name="pano_dialog_waiting_previous">Čakanje na zaključek prejšnje panorame</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_file_name_prefix">PANO_</string>
-  <string name="pano_how_to_use_prompt">"Za snemanje panoramske fotografije,
+  <string name="pano_how_to_use_prompt">"Za snemanje panoramske fotografije
 pritisnite sprožilec"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Poravnajte puščico z referenčno črto</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Nadaljuj...</string>
   <string name="pano_how_to_use_prompt_slow_down">Počasneje…</string>
   <string name="pano_how_to_use_prompt_start">Pritisnite puščico da spremenite smer in se začnite počasi premikati.</string>
   <string name="pano_how_to_use_prompt_to_move">Začni počasi premikati</string>
+  <string name="parameter_description_pro_capture_title">Pro storitve za snemanje fotografij</string>
+  <string name="parameter_description_pro_video_title">Pro storitve za snemanje videoposnetkov</string>
+  <string name="parameter_description_sub_title">Prevzmite kreativnijšo kontrolo nad svojimi fotografijami in videoposnetki</string>
+  <string name="parameter_ef_split_description">Prstan ekspozicije lahko potegnete od prstana za fokus in ločeno nastaviti dva parametra.</string>
+  <string name="parameter_ef_split_title">Ločeno fokusiranje in merjenje ekspozicije</string>
+  <string name="parameter_et_description">"Samodejna hitrost sprožilca se določa s svetlobnim merilcem kamere. Ko ročno izberete hitrost vedite da čimdaljši je časovni rok sprožilca, več svetlobe prihaja na senzor, zato bo slika svetlejša."</string>
+  <string name="parameter_et_title">Hitrost sprožilca</string>
+  <string name="parameter_exposure_description">Ta storitev vam omogoča kompenzacijo ekspozicije če želite da bo vaša slika svetlejša ali temnejša kot predlaga merilec.</string>
+  <string name="parameter_exposure_feecback_description">Poudarite neeksponirana področja v modri in prekomerno rdeča področja da boste lahko pravilno prilagodili ekspozicijo.</string>
+  <string name="parameter_exposure_feecback_title">Preverjanje ekspozicije</string>
+  <string name="parameter_exposure_title">Kompenzacija ekspozicije</string>
+  <string name="parameter_focus_description">Ne morete fokusirati ročno in samodejno. Večjo vrednost ostrenja, ki jo izberete na drsniku, dlje od leče bo območje ostrenja.</string>
+  <string name="parameter_focus_title">Fokus</string>
+  <string name="parameter_histogram_description">Histogram je prikaz izpostavljenosti v realnem času ki prikazuje najmračnejše dele scene z leve strani i prehod na najsvjetlejše dele z desne strani. Navpični del lestvice kaže koliko je scena svetla ali mračna
+.</string>
+  <string name="parameter_histogram_title">Histogram</string>
+  <string name="parameter_iso_description">ISO vrednosti se lahko samodejno določi s pomočjo merilca. Vrednost lahko zamenjate tudi ročno. Večji ISO napravi kamero bolj občutljivo na svetlobo, prinaša pa več digitalnega šuma u vašo sliko.</string>
+  <string name="parameter_iso_title">ISO občutljivost</string>
+  <string name="parameter_lens_description">"Lahko menjate med več lečami: "</string>
+  <string name="parameter_lens_marco">, MACRO (macro)</string>
+  <string name="parameter_lens_st">, S-TELE (zoom)</string>
+  <string name="parameter_lens_t">, TELE (telephoto)</string>
+  <string name="parameter_lens_tele_2x">, TELE-2X (telephoto)</string>
+  <string name="parameter_lens_tele_5x">, TELE-5X (telephoto)</string>
+  <string name="parameter_lens_title">Leče</string>
+  <string name="parameter_lens_uw">, UW (ultra široki kot)</string>
+  <string name="parameter_lens_w">WIDE (široki kot)</string>
+  <string name="parameter_log_format_description">Ta format beleži videoposnetek z logaritemsko funkcijo uporabljeno na krivulji ekspozicije da se zabeleži več podrobnosti v svetlobi in sencah.</string>
+  <string name="parameter_log_format_title">LOG format</string>
+  <string name="parameter_metering_description">Povprečno merjenje se ozira na vsa področja vaše slike, s ciljem enakomerno osvetljenih prizorov. Merjenje v sredinskem območju se osredotoča večinoma na sredinski del okvira in upošteva svetlost okolice, ki je primerna za zajem predmetov v središču okvirja. Točkovno merjenje pokriva območje samo na enem mestu, kar vam omogoča natančen nadzor izpostavljenosti
+.</string>
+  <string name="parameter_metering_title">Načini Merjenja</string>
+  <string name="parameter_peak_focus_description">"Ko ročno izostrite, uporabite žarišče, če želite rdeče poudariti območje ostrenja."</string>
+  <string name="parameter_peak_focus_title">Vrh fokusa</string>
+  <string name="parameter_peak_raw_description">Ta oblika slike zajame vse slikovne podatke, ki jih zajame senzor, ko fotografirate. Nestisnjeni podatki nudijo več možnosti za naknadno obdelavo.</string>
+  <string name="parameter_peak_raw_title">RAW format</string>
+  <string name="parameter_wb_description">S prednastavljenimi nastavitvami beline (žarnica, dnevna svetloba, fluorescenca, oblačno) lahko nastavite tudi belo barvo na vrednost po meri v območju 2000–8000 Kelvinov.</string>
+  <string name="parameter_wb_title">Ravnotežje bele barve</string>
+  <string name="parameter_zoom_slider_description">Povlecite drsnik Zoom-a gor in dol da gladko spremenite posnetek iz dolgega v od blizu.</string>
+  <string name="parameter_zoom_slider_title">Zoom</string>
   <string name="pano_review_saving_indication_str">Shranjujem…</string>
   <string name="pano_too_fast_prompt">Prehitro</string>
   <string name="path">Pot</string>
@@ -649,6 +694,10 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma bliskavica</string>
   <string name="pref_camera_auto_focus_title_entry_off">Izklj.</string>
   <string name="pref_camera_auto_focus_title_entry_on">Vklj.</string>
+  <string name="pref_camera_auxiliary_close">Izklj.</string>
+  <string name="pref_camera_auxiliary_exposure_feedback">Kontrola ekspozicije</string>
+  <string name="pref_camera_auxiliary_focus_peak">Vrh fokusa</string>
+  <string name="pref_camera_auxiliary_title">Pomočnik</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Središče ponderiranja</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Povprečen okvir</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Merjenje mesta</string>
@@ -800,6 +849,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_lying_summary">Obvesti o trenutni orientaciji ko je telefon vzporeden s tlemi</string>
   <string name="pref_camera_lying_title">Obvesti o orientaciji</string>
   <string name="pref_camera_magic_mirror_title">Magično ogledalo</string>
+  <string name="pref_camera_manual_description_title">O Pro storitvah</string>
   <string name="pref_camera_manual_mode_title">Ročno</string>
   <string name="pref_camera_mfnr_sat_enable_title">Vključi MFNR</string>
   <string name="pref_camera_mono_mode_title">Mono</string>

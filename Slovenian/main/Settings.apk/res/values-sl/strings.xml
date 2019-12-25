@@ -3351,6 +3351,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="google_title">Google</string>
   <string name="google_wallet">Google denarnica</string>
   <string name="got_it">V redu</string>
+  <string name="gps_description">Podprtih je ve훾 satelitskih navigacijskih sistemov (GPS, BeiDou, GLONASS, Galileo)</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
   <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v na훾inu dela Gost.</string>
   <string name="guarded_mode_dialog_title">Ste v na훾inu Gosta</string>

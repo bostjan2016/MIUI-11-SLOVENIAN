@@ -40,6 +40,10 @@
         <item quantity="other">%1$d fotografij iz %2$s bo dodano</item>
         <item quantity="one">%1$d fotografija iz %2$s bo dodana</item>
     </plurals>
+	<plurals name="album_item_msg_format_new">
+        <item quantity="other">%d albumov</item>
+        <item quantity="one">%d album</item>
+    </plurals>
 	<plurals name="album_photo_count_text">
         <item quantity="other">%1$d stvari</item>
         <item quantity="one">%1$d stvar</item>

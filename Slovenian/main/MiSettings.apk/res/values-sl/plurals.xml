@@ -41,8 +41,8 @@
         <item quantity="one">%d min,</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
-        <item quantity="other">" min,"</item>
-        <item quantity="one">" min,"</item>
+        <item quantity="other">" min."</item>
+        <item quantity="one">" min."</item>
     </plurals>
     <plurals name="usage_state_noti_count">
         <item quantity="other">%d obvestil</item>

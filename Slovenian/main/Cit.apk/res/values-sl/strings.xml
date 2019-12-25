@@ -218,6 +218,10 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
 3. Kliknite ikono Preveri. Sistem samodejno shranil fotografijo.
 4. Fotografija ki ste jo posneli bi morala biti prikazana v nadaljevanju. Pritisnite Izbriši za zaključek testiranja."</string>
   <string name="cit_front_camera_check_title">Prednja kamera</string>
+  <string name="cit_front_dual_camera_check_summary_no_zoom">"Koraki preizkusa so naslednji:
+
+1.Samodejno odpri kamero za vstop v vmesnik za pregled
+2.Počakaj konec pregleda in se samodejno vrni"</string>
   <string name="cit_get_signature_failed">Dobivanje podpisa NEUSPEŠNO</string>
   <string name="cit_goodix_sensor_check_summary">Testiranje Goodix senzorja, pritisnite tipko in počakajte da bodo podatki označeni zeleno pravilni.</string>
   <string name="cit_goodix_sensor_check_title">Senzor prstnega odtisa Goodix</string>

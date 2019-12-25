@@ -36,6 +36,11 @@
   <string name="category_other">Ostalo</string>
   <string name="color_gamut">Razpon barv</string>
   <string name="contrast_ratio">Kontrast</string>
+  <string name="create">Izdelaj</string>
+  <string name="create_failed">"Ne morem narediti"</string>
+  <string name="create_shortcut">Bližnjica zač. zaslona</string>
+  <string name="created">Narejeno</string>
+  <string name="created_successfully">Uspešno narejeno</string>
   <string name="first_unlock_time">"Prvo odklepanje: "</string>
   <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
   <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
@@ -47,10 +52,13 @@
   <string name="hsv_space_color_value">Vrednost</string>
   <string name="intelligent_recognition_item_summary">Uporabite označeno melodijo zvonenja za klice iz dostavnih in taxi storitev. Delovalo bo samo če bo %s privzeta melodija zvonjenja.</string>
   <string name="intelligent_recognition_item_title">Identificiraj storitve</string>
+  <string name="lock_summary">Zaščitite svoje osebne podatke</string>
   <string name="mms">Sporočila</string>
   <string name="more_ringtone">Vsa zvonenja</string>
+  <string name="more_settings">Nastavitve</string>
   <string name="most_unlock_week_day">"Največ odklepov: "</string>
   <string name="network_error">Omrežna napaka, poskusite ponovno</string>
+  <string name="no_matching">"Ne najdem aplikacije za to"</string>
   <string name="notification_sound">Zvoki obvestil</string>
   <string name="other_parameter">Ostalo</string>
   <string name="p3_color_region">P3</string>
@@ -58,6 +66,7 @@
   <string name="preview">Pregled</string>
   <string name="primary_color_region">Original</string>
   <string name="primary_color_region_summary">Prepozna razpon barv samodejno preko kalibracije barv</string>
+  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="reset_edit">Zavrzi spremembe</string>
   <string name="restore_default">Vrni na privzeto</string>
   <string name="retry">Poskusite ponovno</string>
@@ -74,7 +83,10 @@
   <string name="screen_original_gamut">Izboljšano</string>
   <string name="screen_original_gamut_summary">Prikaži vso vsebino zaslona v najširšem razponu barv</string>
   <string name="screen_paper_mode_apps_loading">Samo trenutek…</string>
+  <string name="screen_time_lock">Zakl. čas zaslona</string>
    <string name="search_app_name">Išči aplikacije</string>
+  <string name="several_days_use_time">Čas zaslona: %2$s</string>
+  <string name="shortcut_created">Ta bližnjica že obstaja</string>
   <string name="search_empty">Nič ne najdem</string>
   <string name="sim_slot_1">" (SIM 1)"</string>
   <string name="sim_slot_2">" (SIM 2)"</string>
@@ -86,6 +98,8 @@
   <string name="stop_app_timer_fail">"Čas zaslona ne more biti onemogočen"</string>
   <string name="stop_app_timer_success">Čas zaslona je onemogočen</string>
   <string name="stop_app_timer_tip">Čas zaslona, povezani podatki in dovoljenja bodo izbrisani po onemogočitvi, vključno nastavitve, lokalne in oblačne podatke itd.</string>
+  <string name="stop_summary">Če to izključite bo izbrisana vsa statistika in podatki časa zaslona</string>
+  <string name="suggestion">Povratna inf.</string>
   <string name="thememanager_not_found">"Ne morem odpreti Teme. Preverite ali je ta aplikacija nameščena."</string>
   <string name="today_usage_title">Danes</string>
   <string name="today_use_time">Čas zaslona: %1$s</string>
@@ -96,6 +110,7 @@
   <string name="trend_from_yesterday_more_simple">%1$s več kot včeraj</string>
   <string name="unlock_times_per_day">"Dnevno povprečje: "</string>
   <string name="unlock_times_per_hour">"Odklepanj na uro: "</string>
+  <string name="usage_agree">Strinjam se</string>
   <string name="usage_app_get_it">Razumem</string>
   <string name="usage_app_limit_alter_summary">"Kaže da je ta časovna omejitev krajša od časa današnje uporabe aplikacije. Vseeno nastavim omejitev?"</string>
   <string name="usage_app_limit_alter_title">Preverite časovno omejitev zaslona</string>
@@ -113,6 +128,7 @@
   <string name="usage_app_weekend_limit">Vikendi</string>
   <string name="usage_beat_fans">Boljše od %s Mi Fanov</string>
   <string name="usage_continuous_days">Niz</string>
+  <string name="usage_exit">Izhod</string>
   <string name="usage_focus_focus_premission_main_summary">Ta aplikacija mora dostopiti do podatkov vašega računa da bo zabeležila statistiko uporabe vašega načina fokusiranja.</string>
   <string name="usage_focus_focus_premission_second_summary">"Če ne daste dovoljenj ne boste mogli uporabiti vsah storitev te aplikacije; njena osnovna funkcionalnost vam pa bo na voljo. Lahko omejite dovoljenja ali prekličete avtorizacijo v nastavitvah.
 "</string>
@@ -127,7 +143,9 @@
   <string name="usage_focus_title_level3">Dvignite se nad zemljo</string>
   <string name="usage_focus_title_level4">Najdite veselje v doslednosti</string>
   <string name="usage_focus_title_level5">Ostanite fokusirani</string>
+  <string name="usage_home_permission_account_summary">Za prijavo v Mi račun in sinhronizacijo statistike časa zaslona</string>
   <string name="usage_home_permission_account_title">Dostop do informacij o računu</string>
+  <string name="usage_home_permission_phone_summary">Za prepoznavanje  pomočjonaprave s VAID</string>
   <string name="usage_home_permission_phone_title">Dostop do informacij o napravi</string>
   <string name="usage_home_premission_main_summary">"Dobrodošli v Čas zaslona! Aplikacijo lahko uporabite za nastavljanje časovnih omejitev, prikaz statistik in prehod na način fokusiranja. Aplikacija potrebuje podatke o času zaslona (npr. kolikokrat odklenete telefon in vključite zaslon in kako dolgo uporabljate aplikacije) za normalno delovanje."</string>
   <string name="usage_home_premission_main_summary_new">"Dobrodošli v Čas zaslona!

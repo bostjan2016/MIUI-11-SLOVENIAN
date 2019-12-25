@@ -474,6 +474,8 @@
   <string name="delete">Izbriši</string>
   <string name="delete_album_failed">"Ne morem izbrisati."</string>
   <string name="delete_album_msg_format">Izbrišem album \"%2$s\" %1$s %3$s?</string>
+  <string name="delete_album_msg_format_cloud">Izbrišem %1$s %2$s iz Mi Clouda in vseh sinhroniziranih naprav?</string>
+  <string name="delete_album_msg_format_local">Izbrišem %1$s %2$s?</string>
   <string name="delete_album_success">Album izbrisan</string>
   <string name="delete_from_all_devices_and_cloud">iz vseh naprav in Mi Clouda</string>
   <string name="delete_from_cloud">Izbriši predmete iz Mi Clouda</string>
@@ -758,8 +760,12 @@ za fotografije"</string>
   <string name="filter_scene_vivid">Vivid</string>
   <string name="filter_scene_warm">Sonce</string>
   <string name="filter_single_sky">Magic Sky</string>
+  <string name="filter_sky_clear_sky">Vedro nebo</string>
   <string name="filter_sky_cloudy">Oblačno</string>
+  <string name="filter_sky_cumulus">Cumulus</string>
+  <string name="filter_sky_dawn">Zora</string>
   <string name="filter_sky_detect_forbidden_tips">"Ne najdem neba"</string>
+  <string name="filter_sky_double_rainbow">Dvojna mavrica</string>
   <string name="filter_sky_download_failed">"Ne morem prenesti dodatek. Preverite nastavitve omrežja in poskusite ponovno."</string>
   <string name="filter_sky_download_finish">Dodatek uspešno prenešen</string>
   <string name="filter_sky_download_sdk_without_wifi_msg">"Če niste povezani na WiFi omrežje lahko z uporabo mobilnih podatakov prenesete dodatek (%1$dMB) ki vam omogoča menjavo neba na fotografijah."</string>
@@ -767,9 +773,13 @@ za fotografije"</string>
   <string name="filter_sky_dusk">Zora</string>
   <string name="filter_sky_glow">Sijaj</string>
   <string name="filter_sky_hint">Skyscaping</string>
+  <string name="filter_sky_nimbus">Nimbus</string>
   <string name="filter_sky_rainbow">Mavrica</string>
+  <string name="filter_sky_snowy">Snežno</string>
+  <string name="filter_sky_stratus">Stratus</string>
   <string name="filter_sky_sunny">Sončno</string>
   <string name="filter_sky_sunset">Sončni zahod</string>
+  <string name="filter_sky_twilight">Somrak</string>
   <string name="finish_create_baby_album_toast">Izdelan je \"%s\" album v Mi Cloudu</string>
   <string name="finish_fill_baby">Izdelaj</string>
   <string name="first_time_add_video_to_secret_tips">Posodobite galerijo da boste lahko skrili videoposnetke</string>
@@ -1446,6 +1456,10 @@ za fotografije"</string>
   <string name="reset">Resetiraj</string>
   <string name="retry_to_create_album">Poskusi ponovno</string>
   <string name="retry_to_request_qr_code">Poskusi ponovno</string>
+  <string name="risk_control_deleted_date">dd/MM</string>
+  <string name="risk_control_deleted_message">Nekdo je izbrisal vaše nastavitve Galerije iz Mi Clouda z uporabo %3$s %1$s ob %2$s. Ste to bili vi?</string>
+  <string name="risk_control_deleted_time">HH:mm</string>
+  <string name="risk_control_deleted_title">Varnostno opozorilo</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimizirane fotografije so shranjene na napravi. Dotaknite se fotografije da prenesete original z Mi Clouda.</string>
   <string name="revert">Vrni</string>
   <string name="rise">Toplo</string>
@@ -1660,8 +1674,10 @@ za fotografije"</string>
   <string name="solar_term_white_dews">Bela rosa</string>
   <string name="solar_term_winter_begins">Začetek zime</string>
   <string name="solar_term_winter_solstice">Zimski solsticij</string>
+  <string name="special_type_8k">AI 8K</string>
   <string name="special_type_eye_repair">Popravljene zaprte oči s pomočjo AI</string>
   <string name="special_type_hdr">HDR</string>
+  <string name="special_type_log">LOG</string>
   <string name="special_type_night_beauty">AI portret slabe osvetlitve</string>
   <string name="special_type_night_mode">AI nočni način</string>
   <string name="special_type_portrait">AI barvanje portreta</string>
@@ -1786,6 +1802,7 @@ za fotografije"</string>
   <string name="trash_bin">Koš za smeti</string>
   <string name="trash_bin_key_word">Izbrisane fotografije</string>
   <string name="trash_bin_summary">Preglejte shranjene fotografije ki so bile nedavno izbrisane</string>
+  <string name="trash_bin_summary_local">Poglejte nedavno izbrisane fotografije in videoposnetke</string>
   <string name="trash_empty">Tu ni ničesar.</string>
   <string name="trash_menu_delete">Izbriši</string>
   <string name="trash_menu_recovery">Vrni</string>
@@ -1820,7 +1837,7 @@ za fotografije"</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>
   <string name="user_alias_self">Sam</string>
-  <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z &amp;lt;a href=\"%1$s\"&amp;gt;\"Pogoji uporabe\"&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o zasebnosti\"</string>
   <string name="user_notice_title">Pozor</string>
   <string name="video_edit_file_not_exits_tip">Najprej prenesite videoposnetek</string>
   <string name="video_editor_abandon_changes_tip_message">Zavržem vse spremembe?</string>

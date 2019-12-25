@@ -30,7 +30,7 @@
   <string name="app_store_installing_message">Nameščanje…</string>
   <string name="app_store_missing_message">"Kaže da niste namestili naše službene App Store. Jo namestim zdaj?"</string>
   <string name="app_store_missing_title">"Mi App Store ni nameščena"</string>
-  <string name="application_detail_tips">Informacije o aplikaciji in nastavitve dovoljenj</string>
+  <string name="application_detail_tips">Podrobnosti o aplikaciji in potrebna dovoljenja</string>
   <string name="auto_startup_dialog_msg">Aplikacija se lahko zažene brez vašega dovoljenja.</string>
   <string name="btn_text_full_scan">Popolno preverjanje</string>
   <string name="btn_text_install_new_version">Zadnja verzija</string>
@@ -102,9 +102,9 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
     <string name="install_failed_incompatible">Aplikacija ni bila nameščena, ker ni združljiva s telefonom.</string>
     <string name="install_failed_invalid_apk">Aplikacija ni bila nameščena, ker je paket poškodovan.</string>
     <string name="install_failed_msg">Aplikacije %1$s ni bilo mogoče namestiti v telefon.</string>
-  <string name="install_failed_system_incompatible">Ta aplikacija ni kompatibilna z MIUI</string>
-  <string name="install_finished_notification_summary">Kliknite da očistite zdaj</string>
-  <string name="install_finished_notification_title">%1$s je uspešno nameščena, očisti %2$s zdaj</string>
+  <string name="install_failed_system_incompatible">"Ta aplikacija ni kompatibilna z MIUI"</string>
+  <string name="install_finished_notification_summary">Tapnite da osvobodite prostor</string>
+  <string name="install_finished_notification_title">%1$s je uspešno nameščena, lahko očistite %2$s prostora</string>
   <string name="install_from_appstore_hint">Priporočamo vam da namestite aplikacijo iz &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
     <string name="installing">Nameščanje …</string>
   <string name="intercept_install">Namesti</string>
@@ -169,11 +169,11 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="miui_install_fail">"Ne morem namestiti (%d)"</string>
   <string name="miui_install_fail_notify">"Ne morem namestiti"</string>
   <string name="miui_install_fail_reason">Razlog</string>
-  <string name="miui_install_source">Vir:%s</string>
+  <string name="miui_install_source">Vir \"%s\"</string>
   <string name="miui_install_source_unkown">Neznano</string>
   <string name="miui_install_success">Uspešno nameščeno</string>
-  <string name="miui_install_version">Verzija:%s</string>
-  <string name="miui_install_version_3">Verzija: %1$s -&gt; %2$s | Velikost: %3$s</string>
+  <string name="miui_install_version">Verzija: %1$s | Velikost: %2$s</string>
+  <string name="miui_install_version_3">Verzija %1$s -&gt; %2$s | Velikost %3$s</string>
   <string name="miui_installing">Namestitev…</string>
   <string name="miui_installing2">Namestitev…</string>
   <string name="miui_message_staging_0">Izvajanje aplikacije   </string>
@@ -257,7 +257,7 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="privacyPerms">Zasebnost</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="reboot_time">Pripravlja se ponovni zagon…(%1$s)</string>
-  <string name="replace_app_des_text">Želite posodobiti to aplikacijo?</string>
+  <string name="replace_app_des_text">Želite zamenjati aplikacijo s to verzijo?</string>
   <string name="review_button_cancel">Prekini</string>
   <string name="review_button_continue">Nadaljuj</string>
   <string name="risk_warning_bottom_button">Namesti iz GetApps</string>
@@ -305,8 +305,8 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="unlike">Ne, hvala</string>
   <string name="untrusted_external_source_always_click">Zmeraj dovoli</string>
   <string name="untrusted_external_source_title">Dovolim \"%1$s\" namestitev aplikacije?</string>
-    <string name="untrusted_external_source_warning">Vaš telefon zaradi varnosti nima dovoljenja za nameščanje neznanih aplikacij iz tega vira.</string>
-  <string name="untrusted_external_source_warning_summary">Vaš telefon in osebni podatki so občutljivi na napade iz neznanih virov. Z namestitvijo aplikacij iz teh virov prevzemate odgovornost za škodo ali izgubo podatkov.</string>
+  <string name="untrusted_external_source_warning">Vaš telefon zaradi varnosti nima dovoljenja za nameščanje neznanih aplikacij iz tega vira.</string>
+  <string name="untrusted_external_source_warning_summary">"Vaš telefon in osebni podatki so občutljivi na napade aplikacij nameščenih iz neznanih virov. Z namestitvijo aplikacij iz teh virov prevzemate odgovornost za škodo ali izgubo podatkov."</string>
   <string name="user_is_not_allowed_dlg_text">Trenutni uporabnik nima dovoljenja za to odstranitev.</string>
   <string name="user_is_not_allowed_dlg_title">Ni dovoljeno</string>
   <string name="virus_scan_caller_unknown">Neznano</string>

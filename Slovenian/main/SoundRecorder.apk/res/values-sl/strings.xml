@@ -26,6 +26,7 @@
   <string name="data_connection_button_text">V redu</string>
   <string name="data_connection_title">Opozorilo uporabe podatkov</string>
   <string name="delete">Izbriši</string>
+  <string name="delete_cloud_data_at_same_time">Izbriši tudi iz Mi Clouda</string>
   <string name="delete_dialog_message">Brisanje posnetka?</string>
   <string name="deleting_message">Brisanje…</string>
   <string name="details">Podrobnosti</string>
@@ -83,13 +84,14 @@
   <string name="preference_enable_earpiece_title">Uporabi zvočnik za predvajanje avdia</string>
   <string name="preference_led_indicator">Obvestila na zaklenjem zaslonu</string>
   <string name="preference_led_indicator_prompt">Med snemanjem kaži bližnjico v obvestilni vrstici stanja ter utripajočo lučko.</string>
-  <string name="preference_record_desktop_indicator_summary">Na zaslonu začetnega zaslona pokaži modri indikator če snemalec deluje v ozadju</string>
-  <string name="preference_record_desktop_indicator_title">Indikator začetnega zaslona</string>
-  <string name="preference_record_scenes_dialog_title">Izberi tip snemanja</string>
+  <string name="preference_record_scenes_dialog_title">Izberite vrsto snemanja</string>
   <string name="preference_scenes">Vrsta snemanja</string>
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
   <string name="preference_status_bar_indicator_prompt">Pokaži bližnjico v obvestilni vrstici med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
+  <string name="preference_recog_terms">Pogoji uporabe</string>
+  <string name="preference_record_desktop_indicator_summary">Pokaži modri indikator na zač. zaslonu ko snemalec dela v ozadju</string>
+  <string name="preference_record_desktop_indicator_title">Indikator zač. zaslona</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
   <string name="recognition_error_cancel">Odpovedano</string>
   <string name="recognition_error_download_cancel">Kasneje</string>

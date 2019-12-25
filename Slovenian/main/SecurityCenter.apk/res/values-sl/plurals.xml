@@ -61,7 +61,7 @@
         <item quantity="one">%d min. od zadnjega polnjenja</item>
     </plurals>
     <plurals name="pc_statistics_battery_use_second">
-        <item quantity="other">%d sek.  od zadnjega polnjenja</item>
+        <item quantity="other">%d sek. od zadnjega polnjenja</item>
         <item quantity="one">%d sek. od zadnjega polnjenja</item>
     </plurals>
     <plurals name="pc_statistics_battery_last_minute">

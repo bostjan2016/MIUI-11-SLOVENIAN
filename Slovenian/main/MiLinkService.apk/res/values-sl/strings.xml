@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">UniPlay storitve</string>
+  <string name="actionbar_button_up_description">Nazaj</string>  
   <string name="casting_tips">Predvajanje…</string>
   <string name="console_guide_btn_got_it">Razumem</string>
   <string name="console_guide_subtitle_hang_up">"Ne prekinjajte predvajanja ko se zaslon telefona izključi. Lahko povzroči večjo porabo energije."</string>
@@ -17,14 +17,13 @@
   <string name="dialog_ok">V redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videoposnetke ali glasbo</string>
   <string name="dialog_open_wifi_bt">Vključi</string>
-  <string name="dialog_please_make_sure_tv_ok">Ciljna naprava mora vključiti brezžično predvajanje zaslona.</string>
   <string name="dialog_please_make_sure_tv_ok_or_help">"Preverite ali ima ciljna naprava omogočeno brezžično predvajanje zaslona.
 Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="dialog_recent_connected">Nedavno</string>
   <string name="dialog_retry">Poskusi ponovno</string>
   <string name="dialog_scanning_device">Iskanje naprav v bližini…</string>
   <string name="dialog_scanning_precondition">Vključite WiFi in Bluetooth na svojemm telefonu za uporabo brezžičnega zaslona.</string>
-  <string name="dialog_select_tv">Izberite napravo za povezovanje</string>
+  <string name="dialog_select_tv">Izberite napravo (%d)</string>
   <string name="dialog_show_help">Pomoč</string>
   <string name="disconnect">Ustavi predvajanje</string>
   <string name="hang_up">Predvajaj ko je ekran izključen</string>
@@ -80,7 +79,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="help_page_text_34">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Predvajanje &gt; Android naprava &gt; Miracast.</string>
   <string name="help_page_text_35">Skyworth pomoč uporabnikom: 95105555</string>
   <string name="help_page_text_36">Sony</string>
-  <string name="help_page_text_37">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\",pri nekateri modelih Omrežje &gt; WIFIDirekt nastavitve; To je standardno vključeno na različnih modelih.</string>
+  <string name="help_page_text_37">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko pritisnete tipko [SOURCE] na daljincu in potem izberite \"Screen Mirroring\";pri nekateri modelih lahko vključite v Omrežje &gt; WIFIDirekt; To je standardno vključeno na različnih modelih.</string>
   <string name="help_page_text_38">Sony pomoč uporabnikom: 400-810-9000</string>
   <string name="help_page_text_39">Panasonic</string>
   <string name="help_page_text_40">Najprej preverite ali vaša naprava podpira Miracast funkcionalnost. Na nekaterih modelih lahko izberete Aplikacije &gt; Screen Mirroring.</string>
