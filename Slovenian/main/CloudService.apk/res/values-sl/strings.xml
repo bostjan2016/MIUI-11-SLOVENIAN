@@ -122,7 +122,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_error_password_changed">Geslo računa je spremenjeno.</string>
   <string name="find_device_error_server">Prišlo je do napake na naših strežnikih.</string>
   <string name="find_device_error_unknown">Neznana napaka.</string>
-  <string name="find_device_gdpr_prompt">Z vklopom Najdi napravo se strinjate z <a href="app://com.miui.cloudservice.gdpr.license">Privacy Policy</a>. Če morate preklicati avtorizacijo o zasebnosti izključite to storitev.</string>
+  <string name="find_device_gdpr_prompt">Z vklopom Najdi napravo se strinjate z <a href="app://com.miui.cloudservice.gdpr.license">Pravila o zasebnosti</a>. Če morate preklicati avtorizacijo o zasebnosti izključite to storitev.</string>
   <string name="find_device_gdpr_prompt_policy_doc_name">Pravila o zasebnosti</string>
   <string name="find_device_notice_p1">Pojdi na</string>
   <string name="find_device_notice_p3">" da najdete, zaklenete ali uničite svojo napravo na daljavo.
