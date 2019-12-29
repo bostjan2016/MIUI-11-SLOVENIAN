@@ -688,7 +688,7 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="warning_bar_action_close">Zapri</string>
   <string name="warning_bar_action_turn_on_master_sync">Vključi</string>
   <string name="warning_bar_action_turn_on_sync">Vključi</string>
-  <string name="warning_bar_action_upgrade_vip">Nadgradi Mi Cloud plan</string>
+  <string name="warning_bar_action_upgrade_vip">Nadgradi</string>
   <string name="warning_bar_add_short_cut_success">Uspešno dodano</string>
   <string name="warning_bar_title_cloud_space_already_full">Mi Cloud shrambi zmanjkuje prostora. Vaše fotografije morda ne bodo sinhronizirane.</string>
   <string name="warning_bar_title_cloud_space_full">"Mi Cloud shramba je polna. Ne morem sinhr. fotografij, zgodovine klicev in drugega."</string>

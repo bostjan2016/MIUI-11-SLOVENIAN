@@ -37,8 +37,8 @@
         <item quantity="one">" ura"</item>
     </plurals>
     <plurals name="usage_state_minute">
-        <item quantity="other">%d min,</item>
-        <item quantity="one">%d min,</item>
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
     </plurals>
     <plurals name="usage_state_miunte_text">
         <item quantity="other">" min."</item>

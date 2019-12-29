@@ -68,7 +68,7 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="done">Končano</string>
     <string name="external_sources_settings">Nastavitve</string>
   <string name="external_sources_settings_negative">Omeji</string>
-  <string name="external_sources_settings_positive">Dopoli enkratusti jednom</string>
+  <string name="external_sources_settings_positive">Dovoli enkrat</string>
   <string name="game_center_install">Namesti iz Mi Games</string>
   <string name="game_center_install_tips">Prenesite in namestite Mi Games da boste dobili več možnosti</string>
   <string name="game_center_intercept_trust_app">Verjamem tej aplikaciji in prevzemam tveganje.</string>

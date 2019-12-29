@@ -204,6 +204,7 @@
   <string name="sim_added_reboot_title">SIM kartica bo aktivirana po ponovnem zagonu naprave.</string>
   <string name="sim_lock_non_ais_msg">"Vaša SIM kartica ni popolnoma uporabna v tem telefonu ker ni v skladu z pravili in pogoji vaše naročnine. Za vprašanja in informacije se obrnite na Xiaomi servisne centre ali trgovino kjer ste kupili napravo."</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
+  <string name="slatoast">Uporaba mobilnih podatkov za povečanje hitrosti bo povzročila večjo porabo le-teh</string>
   <string name="slavewifi">Dvopasovni WiFi</string>
   <string name="slavewifi_disconnect">Prekini povezavo</string>
   <string name="slavewifi_notification_title">Uporaba dvopasovnega WiFi omrežja</string>
