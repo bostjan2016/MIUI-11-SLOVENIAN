@@ -149,6 +149,9 @@
   <string name="category_cannot_empty">Najprej vnesite kategorijo</string>
   <string name="category_choose_no_app_select_tip">Vsaka kategorija mora vsebovati najmanj 1 aplikacijo.</string>
   <string name="category_drawer_name_hint">Vnesite ime kategorije</string>
+  <string name="category_edit_back_confirm_dialog_content">Shranim spremembe?</string>
+  <string name="category_edit_back_confirm_dialog_negative_button">"Ne shrani"</string>
+  <string name="category_edit_back_confirm_dialog_positive_button">Shrani</string>
   <string name="category_group">Razvrsti aplikacije</string>
   <string name="category_group_summary">Razvrsti aplikacije v predalu aplikacij</string>
   <string name="category_not_selected">Aplikacije na voljo</string>

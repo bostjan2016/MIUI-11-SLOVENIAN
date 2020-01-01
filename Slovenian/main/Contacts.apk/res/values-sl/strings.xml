@@ -323,6 +323,8 @@ Vizitke stikov so izključene"</string>
   <string name="delete_call_log_message">Izbrišem zgodovino klicev?</string>
   <string name="delete_call_log_selected_title">Izbrišem izbrano zgodovino klicev?</string>
   <string name="delete_call_log_title">Izbriši zgodovino klicev</string>
+  <string name="delete_conference_call_log_message">Želite izbrisati vse zapise o konferenčnih klicih povezane s tem stikom?</string>
+  <string name="delete_conference_call_log_title">Izbriši zapise konferenčnih klicev</string>
   <string name="delete_contact_calllog_title">Izbrišem zgodovino klicev?</string>
   <string name="delete_dial_input">Izbriši</string>
   <string name="delete_duplicate">Združi</string>

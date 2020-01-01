@@ -124,6 +124,6 @@
      </string-array>
 	 <string-array name="prefEntries_contact_add">
         <item>Vsi</item>
-        <item>Samo prejemniki</item>
+        <item>Samo pošiljatelji</item>
      </string-array>
 </resources>

@@ -267,6 +267,10 @@
   <string name="fake_cell_timeout_hint">"Ne morem preveriti varnosti"</string>
   <string name="favorite_at_time">Dodano v priljubljeno: %1s</string>
   <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
+  <string name="feature_mx">Mi Sporočila</string>
+  <string name="feature_mx_summary">&lt;b&gt;Mi Sporočila vam omogoča pošiljanje sporočil drugim uporabnikom Mi Sporočil preko spleta brez stroškov&lt;/b&gt;. Potrebno je odhodno SMS sporočilo za aktiviranje. Vaš mobilni operater vam to lahko računa. Preberite in sprejmite naše &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Pogoji uporabe&lt;/a&gt;&lt;/font&gt; in &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o zasebnosti&lt;/a&gt;&lt;/font&gt; pred uporabo.</string>
+  <string name="feature_smart_sms">Pametna sporočila</string>
+  <string name="feature_smart_sms_summary">&lt;b&gt;Pametna sporočila ponuja prepoznavanje ID-ja pošiljatelja in pametne menije&lt;/b&gt;". Delno ponuja Yulore. Preberite in sprejmite Yulore-ove "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Pravila o zasebnosti&lt;/a&gt;&lt;/font&gt; pred uporabo.</string>
   <string name="festival">Hitri odgovori</string>
   <string name="festival_continue">V redu</string>
   <string name="festival_networking_desc">To opravilo potrebuje povezavo s spletom za normalno delovanje.</string>
@@ -332,6 +336,7 @@
   <string name="hybrid_service_unavailiable">"Storitev ni na voljo"</string>
   <string name="hybrid_try_again">Poskusite ponovno</string>
   <string name="i_know">Razumem</string>
+  <string name="ignore">Ne zdaj</string>
   <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvažam...</string>
   <string name="in_sms">Sporočilo</string>
@@ -652,6 +657,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="privacy_password_title3">Posodobite vaše geslo</string>
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+  <string name="privacy_term">Pravila o zasebnosti</string>
   <string name="private_message">Privatna sporočila</string>
   <string name="private_new_notification">Obvestilo o sporočilu</string>
   <string name="private_protect">Zaščita zasebnosti</string>
@@ -742,6 +748,12 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="recommend_bar_ok">Vključi</string>
   <string name="recommend_bar_title_mx_rcs">Mi sporočilo</string>
   <string name="recommend_bar_title_smart_message">Pametna sporočila</string>
+  <string name="recommend_both_dialog_title">Dobrodošli v sporočila!</string>
+  <string name="recommend_dialog_message">Lahko vključite Mi sporočila in Pametna sporočila za dostop do dodatnih funkcij.</string>
+  <string name="recommend_mx_dialog_title">Dobrodošli v Mi sporočila!</string>
+  <string name="recommend_mx_setting_summary">Mi sporočila vam omogoča pošiljanje sporočil drugim uporabnikom Mi sporočila preko spleta brez stroškov.</string>
+  <string name="recommend_smart_sms_dialog_title">Dobrodošli v Pametna sporočila!</string>
+  <string name="recommend_smart_sms_setting_summary">Pametna sporočila ponujajo prepoznavanje ID-ja pošiljatelja in pametne menije.</string>
   <string name="recording_failed">"Ne morem posneti"</string>
   <string name="red_package_btn">Odpri</string>
   <string name="refill_now">Napolni zdaj</string>
@@ -986,8 +998,9 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="too_many_unsent_mms">"Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil."</string>
   <string name="train_edit_destination">Dodaj</string>
   <string name="try_to_send">Poskusi poslati</string>
+  <string name="turn_on">Vključi</string>
   <string name="type_attachment">priponka</string>
-  <string name="type_audio">avdio</string>
+  <string name="type_audio">zvok</string>
   <string name="type_picture">fotografija</string>
   <string name="type_to_compose_text_enter_to_send">Vnesi sporočilo</string>
   <string name="type_to_compose_text_or_leave_blank">Vnesi sporočilo ali pusti prazno</string>
@@ -1016,11 +1029,12 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="url_scan_again">Preveri ponovno</string>
   <string name="url_scanning">Preverjanje povezave…</string>
   <string name="user_agreement">Pogoji uporabe</string>
+  <string name="user_term">Pogoji uporabe</string>
   <string name="user_agreement1">Previdno preberite veljavne pogoje preden naložite dodatno programsko opremo ali pa uporabite ta izdelek.</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement3">" in "</string>
   <string name="user_agreement4">Pravilnik o zasebnosti</string>
-  <string name="user_agreement5">Z dotikom V redu se strinjate s Pogoji uporabe in Pravilnikom o zasebnosti.</string>
+  <string name="user_agreement5">Z dotikom "V redu" se strinjate s Pogoji uporabe in Pravilnikom o zasebnosti.</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Kode za preverjanje</string>
   <string name="view">Pokaži</string>
@@ -1040,6 +1054,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="yes">V redu</string>
   <string name="yesterday">Včeraj</string>
   <string name="you_have_new_message">Imate nova sporočila</string>
+  <string name="yulore_term">Pravila o zasebnosti</string>
   <string name="zero_sms_feedback_message">Prijavljena sporočila se naložijo na naše strežnike skupaj z št. telefona njihovih pošiljateljev. Ta sporočila se uporabljajo samo za izboljšanje funkcionalnosti seznama blokiranih.</string>
   <string name="zero_sms_feedback_success">Uspešno prijavljeno</string>
   <string name="zero_sms_feedback_title">Prijavi</string>

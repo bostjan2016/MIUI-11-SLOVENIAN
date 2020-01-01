@@ -72,6 +72,7 @@ nastavitev in aplikacij"</string>
   <string name="button_send">Pošlji</string>
   <string name="call_title">Dnevnik klicev</string>
   <string name="camera_summary">Nastavitve kamere (ne vključuje fotografij)</string>
+  <string name="camera_summary_for_cta">Nastavitve kamere</string>
   <string name="cancel">Prekliči</string>
   <string name="cancel_backup">Ustavi</string>
   <string name="cancel_moving_dialog_message">Ste prepričani da želite ustaviti uvoz?</string>

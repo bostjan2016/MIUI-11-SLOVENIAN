@@ -228,6 +228,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="size_unknown">Neznana velikost</string>
   <string name="start_backup_to_micloud">Varnostno kopiraj aplikacije na Mi Cloud</string>
   <string name="start_recover">Obnavljanje %s</string>
+  <string name="storage_unit_gb">%s GB</string>
+  <string name="storage_unit_mb">%s MB</string>
   <string name="storage_manage_title">Sprememba plana Mi Cloud shrambe</string>
   <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
   <string name="title_alert_cancel_restore">Ustavi povrnitev</string>

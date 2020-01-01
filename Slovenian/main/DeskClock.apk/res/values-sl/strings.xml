@@ -50,10 +50,14 @@
   <string name="alarmclock_empty_text">Ni alarmov</string>
   <string name="alarmclock_silent_hint">Alarm je utišan</string>
   <string name="alert">Zvonenje</string>
+  <string name="alert_ringtone">Melodija zvonenja alarma</string>
+  <string name="alert_volume">Glasnost alarma</string>
+  <string name="alert_volume_summary">Nastavite glasnost zvonenja za alarme in odštevanja</string>
   <string name="analog_gadget">Analogna ura</string>
   <string name="app_label">Ura</string>
   <string name="auto_silence_never">Nikoli</string>
   <string name="auto_silence_title">Samodejno utišaj</string>
+  <string name="auto_silence_summary">Nastavite čas po katerem se bodo alarmi in odštevanja izključili</string>
   <string name="back">Izhod</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="bedtime">Čas za spanje</string>
@@ -133,6 +137,7 @@
   <string name="done">Končano</string>
   <string name="dynamic_alarm_speech">Pametni alarm</string>
   <string name="edit_alarm">Uredi alarm</string>
+  <string name="edit_label">Uredi ime alarma</string>
   <string name="edit_systemtime">Uredi sistemski čas</string>
   <string name="edit_systemtime_setting_summary">Datum, čas in dvojna ura</string>
   <string name="elapsed_time_format">+</string>
@@ -147,6 +152,7 @@
   <string name="holiday_update_fail">"Ne morem posodobiti"</string>
   <string name="holiday_update_loading">Posodabljanje…</string>
   <string name="holiday_update_success">Vse je posodobljeno</string>
+  <string name="holiday_update_title">Posodobi informacije o državnih praznikih</string>
   <string name="hour_unit">Hr +</string>
   <string name="install_weather_app_error">Ne morem naložiti aplikacije.</string>
   <string name="install_weather_app_loading">Samo trenutek…</string>
@@ -160,6 +166,8 @@
   <string name="korea_permission_storage">Shramba</string>
   <string name="korea_permission_storage_desc">Za shranjevanje alarma</string>
   <string name="label">Nastavi oznako</string>
+  <string name="label_input_desc">Ta tekst bo prikazan na zaslonu ko se alarm izključi</string>
+  <string name="label_input_hint">Vnesi tekst</string>
   <string name="label_pref_summary">Besedilo tega alarma</string>
   <string name="lap">Krog</string>
   <string name="lap_num">Krog</string>
@@ -240,18 +248,24 @@
   <string name="module_white_noise_download_wifi">Ura mora prenesti avdio datoteke za časovnike hrupa okolice. Prenesem?</string>
   <string name="module_white_noise_download_wifi_privacy">Da boste prenesli avdio datoteke za časovnike hrupa okolice in nudenje prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt; Se strinjate?</string>
   <string name="monday_to_friday">Pon - Pet</string>
+  <string name="more_alert_setting">Dodatne nastavitve alarma</string>
   <string name="more_settings">Več nastavitev</string>
   <string name="more_setting">Več nastavitev</string>
+  <string name="net_permission_cancel">"Ne strinjam se"</string>
+  <string name="net_permission_ok">Strinjam se</string>
   <string name="network_privacy">S ciljem ponujanja relevantnih informacij o lokalnih praznikih, prilagajanju alarma in nudenju prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
   <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
   <string name="never">Enkrat</string>
+  <string name="new_label">Dodaj tekst alarma</string>
   <string name="no_alarm_setting">Ni alarmov</string>
   <string name="no_worldclock">Ni ur</string>
+  <string name="normal_settings">Splošne nastavitve</string>
   <string name="not_update">Ne zdaj</string>
   <string name="oneshot_alarm">Izbriši po izklopu alarma</string>
   <string name="open_keep_screen">Zaslon bo ostal vključen</string>
   <string name="open_sleep_record">Vključi</string>
   <string name="other_category_title">Ostalo</string>
+  <string name="other_settings">Dodatne nastavitve</string>
   <string name="pause">Odmor</string>
   <string name="personal_recommend">Priporočila osebne narave</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
@@ -262,6 +276,7 @@
   <string name="revert">Povrni</string>
   <string name="ringtone_all">Vse melodije zvonenja</string>
   <string name="ringtone_dew">Jutranja rosa</string>
+  <string name="ringtone_digital_timer">Kronometer</string>
   <string name="ringtone_dream">Sanjarenje</string>
   <string name="ringtone_firefly">Kresnice</string>
   <string name="ringtone_other">Več melodij zvonenja</string>
@@ -344,6 +359,7 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_picker_label_second">S</string>
+  <string name="time_settings">Nastavitve ure</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotaknite se zaslona za zaustavitev zvonca</string>
   <string name="timer_alarm_dot_matrix_label">ODŠTEVANJE</string>
@@ -379,8 +395,9 @@ ko bo Mi Zdravje analiziral dovolj podatkov</string>
   <string name="timer_new_item">Dodaj časovnik</string>
   <string name="timer_notify_text">Dremež ali zavrzi časovnik.</string>
   <string name="timer_pause_timer">Pavziraj časovnik</string>
+  <string name="timer_ringtone">Melodija odštevanja</string>
   <string name="timer_running">Časovnik zagnan</string>
-  <string name="timer_start_alarm">Čas je potekel!</string>
+  <string name="timer_start_alarm">"Čas je potekel!"</string>
   <string name="timer_start_timer">Zaženi časovnik</string>
   <string name="timer_title">Časovnik</string>
   <string name="timezone_exist_error_message">"Ta časovni pas je že prikazan"</string>

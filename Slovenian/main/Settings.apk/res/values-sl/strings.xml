@@ -1798,6 +1798,8 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="cmcc_dm_settings_enable_summary">Omogoči samod. zagon</string>
   <string name="cmcc_dm_settings_title">Prijava naprave</string>
   <string name="cmcc_hardware_version">Verzija HW</string>
+  <string name="codec_low_latency_summary">Ponuja izkušnjo z nizko latenco za avdio/video sinkronizaciju</string>
+  <string name="codec_low_latency_title">Nizka latenca</string>
   <string name="collect_diagnostics_summary">Zberi diagnostične podatke za rešitev problema</string>
   <string name="collect_diagnostics_title">Zberi diagnostiko</string>
   <string name="color_black">Črna</string>
@@ -2310,11 +2312,12 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
   <string name="default_rule_name">Časovnik 1</string>
   <string name="default_sound">Privzeti zvok</string>
     <string name="default_spell_checker">Privzeti črkovalnik</string>
+  <string name="default_suppression_title">Privzeto (priporočeno)</string>
     <string name="default_theme">Privzeto</string>
   <string name="default_usb_mode">USB povezava</string>
   <string name="default_vol_stream_title">Privzeta kontrola glasnosti</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_backup_process">Odstranjujem...</string>
+  <string name="delete_backup_process">Odstranjujem…</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
   <string name="delete_failed_backup_confirm">Ta varnostna kopija ima napake.</string>
   <string name="delete_fingerprint_confirm_msg">Odstranim prstni odtis?</string>
@@ -2544,6 +2547,8 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
     <string name="display_vr_pref_off">Zmanjšanje utripanja</string>
     <string name="display_vr_pref_title">Ko je naprava v načinu VR</string>
     <string name="display_white_balance_title">Prikaz ravnovesja beline</string>
+  <string name="diy_suppression_summary">Prilagodite velikost področja blizu robov kjer se bo ignoriral slučajni dotik</string>
+  <string name="diy_suppression_title">Lastno</string>
   <string name="dlg_cancel">Prekliči</string>
   <string name="dlg_close">Zapri</string>
   <string name="dlg_confirm_uicc_unmount_text">Če izključite UICC pomnilnik se bodo nekatere aplikacije ki jih uporabljate ustavile in morda ne bodo na voljo dokler spet ne vključite UICC pomnilnika.</string>
@@ -2733,6 +2738,8 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="edge_mode_photo_summary">Dokler ste v vmesniku kamere se dotaknite dvakrat roba telefona da posnamete fotografijo</string>
   <string name="edge_mode_screenshot">Posnetek zaslona</string>
   <string name="edge_mode_screenshot_summary">Dvakrat se dotaknite obeh robov telefona da napravite posnetek zaslona</string>
+  <string name="edge_mode_state_summary">"Področje okoli zakrivljenih robov ne bo odgovarjalo na dotik"</string>
+  <string name="edge_mode_state_title">Zanemari slučajni dotik po robovih</string>
     <string name="edge_to_edge_navigation_summary">Za vrnitev na začetni zaslon povlecite z dna zaslona navzgor. Za preklop med aplikacijami povlecite z dna zaslona navzgor, pridržite in spustite. Za vrnitev povlecite z levega ali desnega roba.</string>
     <string name="edge_to_edge_navigation_title">Krmarjenje s potezami</string>
   <string name="edge_touch_volume">Prilagodi glasnost na robovih</string>
@@ -3434,7 +3441,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
     <string name="header_data_and_synchronization">Podatki in sinhronizacija</string>
   <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
   <string name="headset_calibrate">Nastavljanje tipk</string>
-  <string name="headset_settings_title">Slušalke</string>
+  <string name="headset_settings_title">Zvočni efekti</string>
   <string name="heavy_weight_stop_description">Aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
     <string name="help_feedback_label">Pomoč in povratne informacije</string>
   <string name="help_label">Pomoč in povr. inf.</string>
@@ -5906,6 +5913,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="privacy_factory_reset_dlg_button_text">Ponastavi</string>
   <string name="privacy_factory_reset_dlg_message">"Če pozabite geslo boste morali vrniti na tovarniške nastavitve in nastaviti na novo."</string>
   <string name="privacy_factory_reset_dlg_title">Napravite var. kopijo podatkov</string>
+  <string name="privacy_failed_need_to_unlock_nofingerprint">Vnesite geslo pred uporabo novega prstnega odtisa</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
   <string name="privacy_header_text_less_than_half">Premalo prostora. Povlecite omejevalec naprej.</string>
@@ -6945,10 +6953,10 @@ Prstni odtis lahko še naprej uporabljate za potrjevanje nakupov in dostop do ap
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Preskoči</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Naprej</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Naprej</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">Preprosto se dotaknite tipala prstnega odtisa da odklenete telefon, dovolite nakupe ali se prijavite v aplikacije. Ta dejanja bo mogoče izvesti z vsemi dodanimi prstnimi odtisi, zato pazite čigave prstne odtise boste dodali.</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint uporablja prstni odtis za preklop telefona iz stanja pripravljenosti in njegovo odklepanje, odobritev nakupov ali prijavo v aplikacije.
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Odklenite telefon ali odobrite nakup s prstnik odtisom.
 
-To lahko naredijo vsi dodani prstni odtisi, zato pazljivo.
+Opomba: prstni odtis ni tako varen kot močno geslo ali PIN."</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Odklenite telefon ali odobrite nakup s prstnik odtisom.
 
 Opomba: prstni odtis ni tako varen kot močno geslo ali PIN."</string>
     <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Funkcija Pixel Imprint omogoča uporabo prstnega odtisa za odobritev nakupov ali prijavo v aplikacije.
@@ -6985,6 +6993,7 @@ Opomba: prstnega odtisa ne morete uporabiti za odklepanje naprave. Za več infor
   <string name="see_backup_files_on_router">Pregled var. kopij na Mi Routerju %s</string>
   <string name="see_less">Pokaži manj</string>
   <string name="see_more">Pokaži več</string>
+  <string name="seek_bar_info">Prilagodite velikost</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_application">Izberite aplikacijo</string>
     <string name="select_automatically">Samodejno izberi omrežje</string>
@@ -7743,6 +7752,8 @@ Poskusite uporabiti hitrejši nosilec ^3 ali pa nosilec ^4 uporabite kot prenosn
   <string name="storageuse_settings_title">Uporaba pomnilnika</string>
   <string name="strict_mode">Strog način je omogočen</string>
     <string name="strict_mode_summary">Osveži zaslon pri dolgih postopkih v glavni niti</string>
+  <string name="strong_suppression_summary">"Vaša naprava ne bo reagirala na slučajni dotik, nekateree kontrole gibov morda ne bodo delale blizu robov"</string>
+  <string name="strong_suppression_title">Veliko področje</string>
   <string name="structure_add_facerecoginition_text">Dodajte 3D obraz</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">"Ta storitev se ne more uporabiti zaradi slabe baterije"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Baterija mora biti napolnjena najmanj 5% za začetek snemanja.</string>
@@ -9007,6 +9018,8 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="vt_provisioned_switch_string">Videoklicanje je pripravljeno</string>
     <string name="wait_for_debugger">Počakaj na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija v kateri iščete napako pred izvajanjem čaka na povezavo z iskalnikom napak</string>
+  <string name="wake_suppression_summary">Vaša naprava bo morda reagirala na slučajni dotik, prav tako tudi na kontrole gibov blizu robov</string>
+  <string name="wake_suppression_title">Majhno področje</string>
   <string name="wait_link">"Odprite Mi Mover v starom uređaju,
 Ne zapuščjte strani dokler se povezava ne vzpostavi. "
 Tapnite \"Sem pošiljatelj\" in izberite hotspot za povezovanje.
@@ -9235,6 +9248,8 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
     <string name="wifi_details_subnet_mask">Maska podomrežja</string>
     <string name="wifi_details_title">O omrežju</string>
   <string name="wifi_dialog_remind_type_title">Mobilni podatki</string>
+  <string name="wifi_direct_close_hotspot_hint">Pred uporabo Direktnega WiFi-ja izključite prenosni hotspot</string>
+  <string name="wifi_direct_close_slave_wifi_hint">Pred uporabo Direktnega WiFi-ja prekinite povezavo z pomožnim WiFi omrežjem</string>
     <string name="wifi_disabled_by_recommendation_provider">Ni povezano zaradi slabe kakovosti omrežja</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_help">WiFi povezava je bila prekinjena zaradi slabe povezave</string>
