@@ -651,7 +651,7 @@ Za aktiviranje je potrebno odhodno SMS sporočilo. Vaš mobilni operater vam jo 
   <string name="privacy_password_title2">Uporabi Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_title3">Posodobite vaše geslo</string>
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
-  <string name="privacy_policy">Privila o zasebnosti</string>
+  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="private_message">Privatna sporočila</string>
   <string name="private_new_notification">Obvestilo o sporočilu</string>
   <string name="private_protect">Zaščita zasebnosti</string>
