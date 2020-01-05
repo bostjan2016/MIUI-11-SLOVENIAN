@@ -32,9 +32,15 @@
        <item quantity="other">Blokirano stvari: %d</item>
        <item quantity="one">%d stvar blokirana</item>
     </plurals>    
+	<plurals name="video_playback_error">
+        <item quantity="other">"Ne morem naložiti videoposnetkov.
+Čez %d sek. bo predvajan naslednji"</item>
+        <item quantity="one">"Ne morem naložiti videoposnetka.
+Čez %d sek. bo predvajan naslednji"</item>
+    </plurals>
    <plurals name="video_subtitle_last_message">
-         <item quantity="other">Preostalo je %d min.</item>
-         <item quantity="one">Preostala je %d minuta</item>
+         <item quantity="other">Ostalo je %d min.</item>
+         <item quantity="one">Ostala je %d minuta</item>
      </plurals>	
 	<plurals name="video_download_clear_prompt">
         <item quantity="other">Izbrišem videoposnetke: %1$d ?</item>

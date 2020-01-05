@@ -2472,7 +2472,11 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_mode_close_warn_title">Varčevanje baterije</string>
   <string name="power_save_mode_enable">Varčevanje z baterijo</string>
   <string name="power_save_mode_end_time">Konec</string>
+ <string name="power_save_mode_close_notification_screenon_summary">Deluje če je vključeno varčevanje baterije</string> 
+  <string name="power_save_mode_close_notification_screenon_title">"Ne budi zaslona za obvestila"</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Deluje če je vključeno varčevanje baterije</string>
   <string name="power_save_mode_ontime_enabled">Razpored časa za spremembo načina dela</string>
+  <string name="power_save_mode_other_optimization">Izbirna optimizacija</string>
   <string name="power_save_mode_start_time">Začetek</string>
   <string name="power_save_mode_summary">Nadziraj procese v ozadju in izključi sinhronizacijo.</string>  
   <string name="power_save_on_time_auto_save_title">Razpored profilov za preklop</string>

@@ -133,6 +133,7 @@
   <string name="aqi_quality_index_light_pollution">Previdno</string>
   <string name="aqi_quality_index_moderate">Zmerno</string>
   <string name="aqi_quality_index_unhealthy">Nezdravo</string>
+  <string name="auto_add_app_shortcut">Dodaj novonameščene aplikacije na zač. zaslon</string>
   <string name="auto_delete_category_dialog_content">Trenutne aplikacije bodo odstranjene iz te kategorije, kategorija pa bo izbrisana. Izbrišem kategorijo?</string>
   <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>
   <string name="backup_fail">Ne norem napraviti var. kopijo zaganjalnika.</string>

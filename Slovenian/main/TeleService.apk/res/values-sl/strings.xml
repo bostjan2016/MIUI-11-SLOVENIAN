@@ -1615,6 +1615,8 @@ Kontaktirajte vašega operaterja."</string>
   <string name="not_supported_number_content">"Paket doplačila ne podpira številke storitev. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
   <string name="not_supported_number_content_title">Ni podprto</string>
   <string name="not_voice_capable">Glasovno klicanje ni podprto</string>
+  <string name="notification_demo_version_text">"Ne morem klicati niti uporabljati mobilne podatke"</string>
+  <string name="notification_demo_version_title">To je demo naprava</string>
   <string name="notification_action_end_call">Prekini povezavo</string>
   <string name="notification_dialing">Izbiranje številke</string>
   <string name="notification_incoming_call">Dohodni klic</string>

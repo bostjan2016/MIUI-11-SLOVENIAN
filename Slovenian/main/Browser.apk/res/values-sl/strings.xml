@@ -202,6 +202,13 @@
   <string name="cancle_sync_cloud_tabs">Prekliči sinhronizacijo</string>
   <string name="cannot_download">Lahko prenesem samo \"http\" ali \"https\" povezave.</string>
   <string name="cast_video">Predvajaj video</string>
+  <string name="channel_header_title">Moji kanali</string>
+  <string name="channel_more_description">Tapnite za dodajanje</string>
+  <string name="channel_more_title">Več kanalov</string>
+  <string name="channel_network_error">Omrežna napaka. Preverite omrežne nastavitve in poskusite ponovno.</string>
+  <string name="channel_no_data">"To je vse za zdaj. Poglejte ostale kanale!"</string>
+  <string name="character_counter_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_permission_of_current_location">Trenutni podatki o lokaciji</string>
   <string name="check_permission_of_current_url">Povezave obiskanih spletnih strani</string>
   <string name="check_security_tip_privacy_policy">Pravila o zasebnosti</string>
@@ -246,11 +253,13 @@
   <string name="color_picker_saturation">Saturacija</string>
   <string name="comment_app_menu">Komentar</string>
   <string name="comment_description">Komentar</string>
+  <string name="comment_fail">"Ni možno dodati komentarja. Poskusite ponovno."</string>
   <string name="comment_hint">Komentar</string>
   <string name="comment_max_length">Vhodna pošta je polna.</string>
   <string name="comment_menu">Komentar</string>
   <string name="comment_num_description">Število kometarjev</string>
-  <string name="comment_publish_to_topic">Komentarji sinhr. na</string>
+  <string name="comment_publish_to_topic">Komentarji so sinhr. na</string>
+  <string name="comment_success">Uspešno dodano</string>
   <string name="common_use_phrase_bottom_bar_text_next">Naprej</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Prejšnja</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
@@ -418,6 +427,7 @@ Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="exit_fullscreen">Izhod iz celega zaslona</string>
   <string name="expand_button_title">Napredno</string>
   <string name="favorite">Dodaj v priljubljene</string>
+  <string name="feedback_not_interested_response">"Videli boste manj stvari te vrste"</string>
   <string name="file_dir">Spremeni mapo</string>
   <string name="file_name">"Ime: "</string>
   <string name="file_picker">Izberi pot</string>
@@ -1428,6 +1438,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
   <string name="share_video">Deli videoposnetek</string>
   <string name="short_video_description">Video kanal</string>
+  <string name="short_video_network_error">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="short_video_tip">Poglej! Zabavni videoposnetek</string>
   <string name="show_check_security_url_check_tip_dialog_description">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Za izboljšanje varnosti in prejem relevantnih priporočil, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>
   <string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Da boste prejeli relevantna priporočila, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>

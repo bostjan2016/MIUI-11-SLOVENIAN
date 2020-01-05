@@ -10,9 +10,9 @@
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
   <string name="account_failure">Napaka računa</string>
   <string name="account_name_toast">Račun z istim imenom že obstaja</string>
-  <string name="account_options_actionbar_title">Splošne nastavitve</string>
+  <string name="account_options_actionbar_title">Nastavitve računa</string>
   <string name="account_options_sync_title">Nastavitve sinhronizacije</string>
-  <string name="account_password_spaces_error">To geslo se začne ali konča z enim ali več presledki. Številni strežniki ne podpirajo gesel s presledki.</string>
+  <string name="account_password_spaces_error">"To geslo se začne ali konča z enim ali več presledki. Številni strežniki ne podpirajo gesel s presledki."</string>
   <string name="account_security_dialog_content_fmt">%s zahteva da posodobite varnostne nastavitve.</string>
   <string name="account_security_dialog_title">Varnostna posodobitev</string>
   <string name="account_security_policy_explanation_fmt">Strežnik %s zahteva da mu dovolite nastavitev nekaterih varnostnih opravil vaše Android naprave.</string>
@@ -39,8 +39,8 @@
   <string name="account_settings_exit_server_settings">Zavržem neshranjene spremembe?</string>
   <string name="account_settings_incoming_summary">Uporabniško ime, geslo in druge nastavitve</string>
   <string name="account_settings_login_dialog_content_fmt">Ime ali geslo za %s je napačno. Ali jih želite posodobiti zdaj?</string>
-  <string name="account_settings_login_dialog_reason_fmt" formatted="false">Ni bilo mogoče prijaviti se na %s. Strežnik obvešča: %s</string>
-  <string name="account_settings_login_dialog_title">Ni bilo mogoče prijaviti se</string>
+  <string name="account_settings_login_dialog_reason_fmt">"Ne morem se prijaviti v %1$s. Odgovor strežnika: %2$s. Želite posodobiti uporabniško ime ali geslo?"</string>  
+  <string name="account_settings_login_dialog_title">"Ni bilo mogoče prijaviti se"</string>
   <string name="account_settings_mail_check_frequency_dialog_title">Da boste sinhronizirali e-pošto morate ročno osvežiti pošto</string>
   <string name="account_settings_mail_check_frequency_dialog_title_eas">"Morali boste ročno sinhronizirati pošto da boste lahko sinhronizirali sporočila in dogodke koledarja."</string>
   <string name="account_settings_mail_check_frequency_label">Pogostost sinhronizacije</string>
@@ -163,7 +163,7 @@
   <string name="account_smime">S/MIME</string>
   <string name="account_smime_cert_title">Certifikat</string>
   <string name="account_smime_encrypt">S/MIME šifriranje</string>
-  <string name="account_smime_install_cert">Namestitev certifikata</string>
+  <string name="account_smime_install_cert">Dodaj certifikat</string>
   <string name="account_smime_sign">S/MIME podpis</string>
   <string name="account_sync_off">Sinhronizacija računa je izklopljena.</string>
   <string name="account_sync_settings_settings">Sinhr. stike in koledar</string>
@@ -262,7 +262,7 @@
   <string name="cancel_pop3_attchemt_downloading">Odpoved prevzemanja priponk ni na voljo za POP3 račun.</string>
   <string name="cant_move_or_change_labels">Ni mogoče premakniti, ker izbor vsebuje več računov.</string>
   <string name="cc_heading">"Kopija: "</string>
-  <string name="certificate_add_failed">\"%s\" certifikat se ne more namestiti.</string>
+  <string name="certificate_add_failed">Ne morem dodati \"%s\" certifikat.</string>
   <string name="certificate_added">\"%s\" certifikat dodan.</string>
   <string name="certificate_alias_prompt_certificate_name">Ime certifikata</string>
   <string name="certificate_alias_prompt_title">Ime certifikata</string>
@@ -359,7 +359,7 @@
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
   <string name="conversation_item_mark_read">Prebrano</string>
   <string name="conversation_item_mark_unread">Neprebrano</string>
-  <string name="conversation_message_encrypt_tips">Sporočilo je šifrirano. Namestite datoteko certifikata ki vsebuje vašo identiteto šifriranja za dešifriranje sporočila.</string>
+  <string name="conversation_message_encrypt_tips">Sporočilo je šifrirano. Namestite certifikat za dešifriranje.</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Pošlji "</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
   <string name="conversation_pull_ad_content">Urejajte svoja sporočila e-pošte brez napora</string>
@@ -620,7 +620,12 @@
   <string name="mail_description_content">E-pošta je klient e-pošte ki lahko ureja več poštnih nabiralnikov, podpira pošiljanje in prejemanje ter označevanje e-pošte ter ponuja storitve kot npr. način sej, plačanje s pošto, razvrščanje pošte in ostale storitve. Po izbrisu aplikacije bodo podatki e-pošte izbrisani.</string>
   <string name="mail_description_title">O aplikaciji</string>
   <string name="mail_header_network_not_available">"Povezava ni vzpostavljena."</string>
-  <string name="mail_outlook_login_tips">Po Microsoftovih zahtevah morate vnesti geslo na Microsoftovi strani za avtorizacijo.</string>
+  <string name="mail_login_help">Kako se prijaviti</string>
+  <string name="mail_login_help_bottom_tip">"Če ste pozabili geslo ali morate preveriti status računa, uporabite web verzijo NetEase Mail. Pomoč lahko dobite tudi v WeChat: "</string>
+  <string name="mail_login_help_details1">1. Geslo e-pošte se lahko uporabi če ni nastavljena avtorizacijska koda v odjemalcu e-pošte in če so omogočene POP3/IMAP/SMTP usluge.</string>
+  <string name="mail_login_help_details2">2. Avtorizacijska koda tretjih oseb se lahko uporabi za prijavo odjemalca e-pošte tretjih oseb če so omogočene POP3/IMAP/SMTP usluge.</string>
+  <string name="mail_login_help_title">Geslo e-pošte/odjemalec tretjih oseb:</string>
+  <string name="mail_outlook_login_tips">"Preusmerjeni boste v Microsoft da vnesetw geslo"</string>
   <string name="mail_outlook_oauth_login">Prijavite se z OAuth</string>
   <string name="mail_outlook_psw_login">Prijavite se z geslom</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
@@ -735,7 +740,7 @@
   <string name="no_mails">Ni E-pošte.</string>
   <string name="no_matched_attachment">Ni zadetkov.</string>
   <string name="no_more_mail">Ni več sporočil</string>
-  <string name="no_open_smime_toast">Najprej namestite S/MIME certifikat</string>
+  <string name="no_open_smime_toast">Najprej dodajte S/MIME certifikat</string>
   <string name="no_recognize_describe">"Ne morem najti e-pošt ki vsebujejo vstopnice ali rezervacije.
 Poskusite z ostalo pošto."</string>
   <string name="no_remind">Ne opominjaj</string>
@@ -763,6 +768,7 @@ Poskusite z ostalo pošto."</string>
   <string name="oauth_login_continue">Nadaljuj</string>
   <string name="oauth_login_continue_qq">Pridobitev kode za preverjanje za prijavo &gt;</string>
   <string name="oauth_login_usr_proxy">Proxy prijava</string>
+  <string name="obtain_new_auth_code">Pridobi novo kodo</string>
   <string name="ok">V redu</string>
   <string name="okay_action">V redu</string>
   <string name="one_day">1 dan</string>
@@ -803,6 +809,9 @@ Poskusite z ostalo pošto."</string>
   <string name="output_db_summary">O izhodni bazi podatkov</string>
   <string name="output_db_title">Izhodna baza podatkov</string>
   <string name="output_to_disk">Shrani zapise v datoteko</string>
+  <string name="over_16_content">"Potrdite da ste že dopolnili 16 let?"</string>
+  <string name="over_due">Prezadolžen</string>
+  <string name="over_sixteen">"Imam 16 ali več let."</string>
   <string name="overlays_fail_tip">Žal nam je ker vaš poštni nabiralnik ni uspešno nastavljen, odprite pojavno okno dovoljenj in poskusite ponovno</string>
   <string name="overlays_ok">Odpri dovoljenja</string>
   <string name="overlays_tip">Odpri pojavno okno dovoljenj in takoj uživajte v samod. nastavitvi 139 pošt. nabiralnika.</string>
@@ -835,14 +844,21 @@ Poskusite z ostalo pošto."</string>
   <string name="perference_setup_send_tag">Strežnik za pošto v pošiljanju</string>
   <string name="permission_access_provider_desc">Dovoli aplikacijam da dostopajo do tvoje E-pošte, uporabniških imen in gesel</string>
   <string name="permission_access_provider_label">Dostop do uporabnikovih podatkov</string>
+  <string name="permission_des_calendar">Za sinhronizacijo dogodkov v koledarju</string>
+  <string name="permission_des_contact">Za dostop do e-pošte vaših stikov da boste samodejno dokončali prejemnike</string>
+  <string name="permission_des_detail">"Če ne daste dovoljenj ali nočete deliti vaše osebne podatke ne boste mogli uporabljati aplikacije. Lahko odstranite aplikacijo, se odjavite ali omejite dovoljenja v nastavitvah."</string>
+  <string name="permission_des_external_storage">Za ustvarjanje novih sporočil e-pošte, kot tudi za shranjevanje in dodajanje priponk</string>
   <string name="permission_des_phone_status">Uporablja se za pridobivanje IMEI za razlikovanje različnih naprav</string>
   <string name="permission_des_storage">Za ustvarjanje novih e-poštnih sporočil, pa tudi za shranjevanje in dodajanje prilog</string>
   <string name="permission_read_attachment_desc">Dovoli aplikacijam, da preberejo priponke</string>
   <string name="permission_read_attachment_label">Branje priponk e-pošte</string>
+  <string name="personal_data_collection_summary">Ko je vključeno, se sstrinjate da lahko zbiramo vaše osebne podatke. Lahko izključite aplikacijo, prekličete avtorizacijo in izbrišete svoje podatke iz naših strežnikov kadarkoli.</string>
+  <string name="personal_data_collection_title">Dovolite zbiranje osebnih podatkov</string>
   <string name="permission_tip">Ne morem nastaviti, odobrite dovoljenje za klice in SMS sporočila med nastavitvijo</string>
   <string name="phone">telefon</string>
-  <string name="photo_load_failed">Slike ni mogoče naložiti</string>
-  <string name="photo_view_count" formatted="false">%d od %d</string>
+  <string name="photo_load_failed">"Slike ni mogoče naložiti"</string>
+  <string name="photo_view_count">%1$d/%2$d</string>
+  <string name="pl_select_age">Izberite starost</string>
   <string name="please_fill_in_your_mailbox_information2">Vnesite vaše podatke za račun e-pošte:</string>
   <string name="policy_app_blacklist">Onemogoči določene aplikacije</string>
   <string name="policy_app_whitelist">Omogoči samo določene aplikacije</string>
@@ -904,7 +920,7 @@ Poskusite z ostalo pošto."</string>
   <string name="push_wps_better_confirm_title">Poskusite WPS Office</string>
   <string name="push_wps_confirm_cancel">Ne zdaj</string>
   <string name="push_wps_confirm_download">Prenesi</string>
-  <string name="push_wps_confirm_message">Poskusite uporabiti WPS Office za odpiranje te priponke</string>
+  <string name="push_wps_confirm_message">"Poskusite uporabiti WPS Office za odpiranje te priponke"</string>
   <string name="push_wps_confirm_title">Poskusite WPS Office</string>
   <string name="push_wps_no_response_app">Ne najdem aplikacije za izvedbo tega dela</string>
   <string name="qq_authorization_help_get">Dobi kodo</string>
