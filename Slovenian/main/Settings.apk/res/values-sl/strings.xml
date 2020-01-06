@@ -6445,7 +6445,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_paper_mode_global_summary">Uporabi Način branja za vse aplikacije</string>
   <string name="screen_paper_mode_global_title">Vse aplikacije</string>
   <string name="screen_paper_mode_hdr_toast">"Način branja bo izključen dokler predvajate HDR videoposnetke. Po koncu predvajanja se bo samodejno vključil."</string>
-  <string name="screen_paper_mode_hdr_toast_new">Način branja bo izključen dokler predvajate HDR videoposnetke im med preverjanjem prstnega odtisa.</string>
+  <string name="screen_paper_mode_hdr_toast_new">Način branja bo izključen dokler predvajate HDR videoposnetke in med preverjanjem prstnega odtisa.</string>
   <string name="screen_paper_mode_local_summary">Uporabi Način branja za izbrane aplikacije</string>
   <string name="screen_paper_mode_local_title">Izbrane aplikacije</string>
   <string name="screen_paper_mode_off_apps_title">"Ne uporabi Način branja"</string>

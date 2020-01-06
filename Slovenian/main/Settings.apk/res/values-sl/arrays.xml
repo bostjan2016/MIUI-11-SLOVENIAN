@@ -1352,7 +1352,7 @@
     <string-array name="select_logpersist_summaries">
         <item>Izključeno</item>
         <item>Vsi medpomnilniki zapisov</item>
-        <item>Vse razen osim medpomnilnika zapisnika radija</item>
+        <item>Vse razen medpomnilnika zapisnika radija</item>
         <item>samo medpomnilniki zapisnika jedra</item>
     </string-array>
     <string-array name="select_logpersist_titles">
