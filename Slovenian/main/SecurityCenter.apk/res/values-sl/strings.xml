@@ -1408,11 +1408,15 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_sound_audition">Poslušaj</string>
   <string name="gb_voice_change_settinged">Menjava glasu je vključena</string>
   <string name="gb_voice_changer_cartoon">Risanka</string>
+  <string name="gb_voice_changer_dlg_button_agree">Dovoli</string>
+  <string name="gb_voice_changer_dlg_button_refuse">Zavrni</string>
   <string name="gb_voice_changer_dlg_title">Menjava glasu</string>
   <string name="gb_voice_changer_lady">Ženskaa</string>
   <string name="gb_voice_changer_loli">Dekle</string>
   <string name="gb_voice_changer_men">Moški</string>
   <string name="gb_voice_changer_normal">Original</string>
+  <string name="gb_voice_changer_permission_dlg_msg">Zamenjava glasu mora biti sposobna snemati zvok za normalno delovanje.</string>
+  <string name="gb_voice_changer_permission_dlg_title">Potrebno je dovoljenje</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="gb_wonderful_video_cancel">Prekliči</string>
   <string name="gb_wonderful_video_checkall">Izberi vse</string>
@@ -1474,6 +1478,8 @@ Videoposnetki bodo shranjeni v Game Turbo &gt; Ključni trenutki."</string>
   <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
   <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="gtb_exit_game_to_gtb">Odpri gamebox</string>
+  <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Uporabljajte aplikacijo Varnost za urejanje z mobilnimi podatki"</string>
   <string name="guide_quck_open">Vključi</string>

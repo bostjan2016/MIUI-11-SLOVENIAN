@@ -299,6 +299,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="fw_loading">Samo trenutek…</string>
     <string name="fw_reload_sub_title">Tapnite za ponoven poskus</string>
     <string name="fw_reload_title">Povezava z omrežjem ni uspela.</string>
+  <string name="gallery_fold_tags">Skrij oznake</string>
     <string name="gallery_folder_alias_TAOBAO">Taobao</string>
     <string name="gallery_folder_alias_camera">Kamera</string>
     <string name="gallery_folder_alias_download">Prenosi</string>
@@ -331,6 +332,7 @@ Pošljite to kodo nadzorniku."</string>
     <string name="gallery_video_operate_text">Prilagajanje počasnega gibanja</string>
     <string name="gallery_video_save_video">Ustvaranje videoposnetka…</string>
     <string name="gallery_video_slow_edit">Počasno gibanje</string>
+  <string name="gallery_view_tags">Pokaži oznake</string>
   <string name="get_back_pwd">Ponastavitev gesla</string>
     <string name="get_ph_ticket">Pridobite kodo</string>
     <string name="get_phone_bind_exceed_limit">Povežete lahko do 3 Mi Račune s to telefonsko številko. Ne morete dodati novih računov.</string>
@@ -366,6 +368,7 @@ za videoposnetke"</string>
   <string name="lbl_url_alert">Info</string>
   <string name="library_roundedimageview_libraryDescription">Hitri ImageView ki podpira zaobljene kote (in ovale ali kroge) na osnovi originalnega primera Romaina Guya.</string>
     <string name="loading">Samo trenutek…</string>
+  <string name="local_push_title">Popularno danes</string>
   <string name="logging_normal">Normalno</string>
   <string name="logging_verbose">Verbose</string>
     <string name="login">Prijava</string>
@@ -374,6 +377,10 @@ za videoposnetke"</string>
     <string name="logout">Odjava</string>
   <string name="logout_account">Odjavi se</string>
     <string name="lp_base_folder">SD kartica</string>
+  <string name="lp_play_mode_list_loop">Zankaj vse</string>
+  <string name="lp_play_mode_pause">Predvajaj enega</string>
+  <string name="lp_play_mode_single_loop">Zankaj enega</string>
+  <string name="lp_play_mode_title">Način predvajanja</string>
     <string name="lp_speed_title">Hitrost predvajanja</string>
   <string name="lp_speed_toast">Predvajanje pri hitrosti %sX…</string>
     <string name="lp_videoView_error_button">Razumem</string>
@@ -394,6 +401,7 @@ za videoposnetke"</string>
     <string name="lv_audio_track">Avdio posnetek</string>
     <string name="lv_auto_update">Posodobi kasneje</string>
     <string name="lv_brightness">Svetlost</string>
+    <string name="lv_cast">Predvajaj</string>
     <string name="lv_check_delete_file">Izberite predmete za izbris</string>
     <string name="lv_check_send_file">Naenkrat lahko pošljete le 1 datoteko</string>
     <string name="lv_confirm_delete_history">Želite izbrisati izbrane predmete?</string>
@@ -532,6 +540,7 @@ za videoposnetke"</string>
     <string name="next">Naprej</string>
     <string name="nick_name">Ime</string>
   <string name="no_account">Niste prijavljeni</string>
+  <string name="no_more_content">"To je za zdaj vse"</string>
     <string name="no_network_tips">Trenutno ni mogoče uporabiti to funkcijo. Dostop do omrežja je omejen.</string>
   <string name="no_phone">Ni številke telefona</string>
     <string name="no_recommend_data">Trenutno ni priporočenih videoposnetkov</string>

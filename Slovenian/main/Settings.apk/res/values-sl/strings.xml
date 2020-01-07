@@ -1580,6 +1580,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="calendar_remind">Dogodki</string>
   <string name="calendar_sound_dialog_title">Izberite zvok koledarja</string>
   <string name="calendar_sound_title">Zvok koledarja</string>
+  <string name="call_example_name">Ime</string>
   <string name="call_and_contact">Klici in  stiki</string>
   <string name="call_category">Klicanje</string>
   <string name="call_manager_enable_summary">Omogoči tej storitvi urejanje načina izvajanja klicev.</string>

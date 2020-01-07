@@ -27,7 +27,7 @@
   <string name="accessibility_shutter_button">Sprožilec</string>
   <string name="action_search">Išči</string>
   <string name="address">Naslov:</string>
-  <string name="agree_app_use">Skeniranje QR kod in prepoznavanje istih na drugih slikah</string>
+  <string name="agree_app_use">Skeniranje QR kod in drugih slik (nekatere storitve bodo morda zahtevale dostop do lokacije)</string>
   <string name="agree_btn">Strinjam se</string>
   <string name="agree_camera_permission">Za snemanje fotografij in videoposnetkov</string>
   <string name="agree_storage_permission">Za dostop do fotografij in datotek shranjenih v napravi</string>

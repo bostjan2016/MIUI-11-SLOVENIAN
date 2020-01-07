@@ -128,10 +128,12 @@
   <string name="usage_app_weekend_limit">Vikendi</string>
   <string name="usage_beat_fans">Boljše od %s Mi Fanov</string>
   <string name="usage_continuous_days">Niz</string>
+  <string name="usage_creating_weekly_report">Pripravljanje tedenskega poročila…</string>
   <string name="usage_exit">Izhod</string>
   <string name="usage_focus_focus_premission_main_summary">Ta aplikacija mora dostopiti do podatkov vašega računa da bo zabeležila statistiko uporabe vašega načina fokusiranja.</string>
   <string name="usage_focus_focus_premission_second_summary">"Če ne daste dovoljenj ne boste mogli uporabiti vsah storitev te aplikacije; njena osnovna funkcionalnost vam pa bo na voljo. Lahko omejite dovoljenja ali prekličete avtorizacijo v nastavitvah.
 "</string>
+  <string name="usage_focus_new_summary">Postanite bolj pazljivi in osredotočeni</string>
   <string name="usage_focus_save_success">Shranjeno v Galerijo</string>
   <string name="usage_focus_summary_level1">Posvetiti nekoliko minut obdrževanju osredotočenosti je enostavno.</string>
   <string name="usage_focus_summary_level2">Fokusiranje lahko postane rutina.</string>
@@ -156,6 +158,11 @@ Za normalno delovanje aplikacija potrebuje dovoljenja za zbiranje podatkov: koli
 Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podatkov:"</string>
   <string name="usage_home_premission_second_summary">Za normalno delovanje mora aplikacija zbrati vaše osebne podatke. Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
   <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona. Za več podrobnosti smo na voljo na privacy@xiaomi.com."</string>
+  <string name="usage_no_net_summary">Preverite omrežne nastavitve in poskusite ponovno</string>
+  <string name="usage_refresh">poskusite ponovno</string>
+  <string name="usage_request_error_summary">Neznana napaka</string>
+  <string name="usage_request_timeout_summary">Zahteva je potekla</string>
+  <string name="usage_special_feature">Posebne funkcije</string>
   <string name="usage_state_accurate_date">dd.MM.yyyy</string>
   <string name="usage_state_add_up_count">Seje</string>
   <string name="usage_state_add_up_days">Dnevi</string>
@@ -202,7 +209,7 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_state_friday">Pet</string>
   <string name="usage_state_go_more">Več aplikacij</string>
   <string name="usage_state_hour_minute">%1$dh %2$dm</string>
-  <string name="usage_state_less_one_minute">Manj od 1 minute</string>
+  <string name="usage_state_less_one_minute">&lt; 1 minuae</string>
   <string name="usage_state_monday">Pon</string>
   <string name="usage_state_mourth_day">Čas vklj. zaslona %s</string>
   <string name="usage_state_noti_mourth_day">Obvesti ob %s</string>
@@ -250,6 +257,8 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_stats_week_day">Vikendi</string>
   <string name="usage_total_days">Skupaj dni</string>
   <string name="usage_total_times">Skupaj sej</string>
+  <string name="usage_weekly_report_summary">Izvedite kako prebijete čas s svojo napravo</string>
+  <string name="usage_weekly_report_title">Tedensko poročilo</string>
   <string name="usagestats_app_category_miui_education">Učenje</string>
   <string name="usagestats_app_category_miui_entainment">Zabava</string>
   <string name="usagestats_app_category_miui_financial">Finance</string>

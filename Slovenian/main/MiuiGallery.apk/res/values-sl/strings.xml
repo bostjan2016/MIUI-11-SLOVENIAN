@@ -1896,6 +1896,7 @@ za fotografije"</string>
   <string name="video_editor_loading_warning_msg">"Zaradi napake kodiranja so lahko nekatera opravila in pregledi nedostopni. To vseeno ne bo vplivalo na končni videoposnetek."</string>
   <string name="video_editor_loading_warning_title">Napaka kodiranja</string>
   <string name="video_editor_more">Napredno</string>
+  <string name="video_editor_not_support_8k_tips">"Ne morem urejati 8K videoposnetke"</string>
   <string name="video_editor_not_support_tips">"Takšne video datoteke niso podprte"</string>
   <string name="video_editor_ok">V redu</string>
   <string name="video_editor_regulator">Prilagodi</string>
