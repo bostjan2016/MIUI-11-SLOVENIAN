@@ -98,6 +98,9 @@
 in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="ai_scene_top_moon_off">Način dela slaba osvetlitev</string>
   <string name="ai_scene_top_tip">Mesec</string>
+  <string name="ai_watermark_title">AI oznaka</string>
+  <string name="ai_watermark_toast_off">AI je izklj.</string>
+  <string name="ai_watermark_toast_on">AI je vklj.</string>
   <string name="albums">Albumi</string>
   <string name="aperture">Zaslonka</string>
   <string name="app_details">Podrobnosti:</string>
@@ -251,6 +254,9 @@ in za trenutek zapustite pregled"</string>
   <string name="do_not_remind_me">"Ne kaži več"</string>
   <string name="document_blackwhite">Č&amp;B</string>
   <string name="document_blur_warn">Zamegljeno</string>
+  <string name="document_mode_use_hint_text_body">"Poravnaj in izboljšaj
+skenirane dokumente samodejno"</string>
+  <string name="document_mode_use_hint_text_title">Skeniraj dokumente</string>
   <string name="document_origin">Original</string>
   <string name="document_strengthen">Izboljšano</string>
   <string name="download_by_browser">Prenesi z brskalnikom</string>

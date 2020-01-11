@@ -209,7 +209,7 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_state_friday">Pet</string>
   <string name="usage_state_go_more">Več aplikacij</string>
   <string name="usage_state_hour_minute">%1$dh %2$dm</string>
-  <string name="usage_state_less_one_minute">&lt; 1 minuae</string>
+  <string name="usage_state_less_one_minute">&lt; 1 minute</string>
   <string name="usage_state_monday">Pon</string>
   <string name="usage_state_mourth_day">Čas vklj. zaslona %s</string>
   <string name="usage_state_noti_mourth_day">Obvesti ob %s</string>

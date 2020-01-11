@@ -5664,6 +5664,8 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="play_pause_description">Tipka premor/predvajanje</string>
   <string name="please_select_phase2">Preverjanje pristnosti v fazi 2</string>
   <string name="please_type_passphrase">Geslo</string>
+  <string name="poco_launcher_privacy_policy">POCO zaganjalnik Pravila o zasebnosti</string>
+  <string name="poco_launcher_user_agreement">POCO zaganjalnik Pogoji uporabe</string>
   <string name="pm_auto_start_by_other">Aktivirani zagon</string>
   <string name="pm_auto_start_by_other_app">Dovoli aplikaciji da bo zagnana s strani druge aplikacije</string>
   <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
@@ -8709,6 +8711,11 @@ Osvobodite prostor ali prenesite samo važne stvari."</string>
     <string name="use_open_wifi_automatically_summary_scorer_unsupported_disabled">Za uporabo te storitve morate izbrati združljivega ponudnika ocenjevanja omrežij</string>
     <string name="use_open_wifi_automatically_summary_scoring_disabled">Za uporabo te storitve morate izbrati ponudnika ocenjevanja omrežij</string>
     <string name="use_open_wifi_automatically_title">Povezovanje z odprtimi omrežji</string>
+  <string name="use_otg_charge_only">Obratno polnjenje</string>
+  <string name="use_otg_charge_only_summary">Hitrejše 1.8A polnjenje</string>
+  <string name="use_otg_file_transfers">Obratno polnjenje &amp; prenos datotek</string>
+  <string name="use_otg_file_transfers_summary">Počasnejše 500mA polnjenje in prenos datotek</string>
+  <string name="use_otg_title">USB On-The-Go</string>
   <string name="use_personalized_ad_service">Osebna priporočila oglasov</string>
   <string name="use_personalized_ad_service_summary">Ko je priporočilo izključeno boste še naprej videli enako količino oglasov kot ko je vključeno ampak ne bodo sloneli na vaših podatkih o obnašanju ali na osebnih podatkih.</string>
   <string name="use_privacy_password_immediate">Uporabi</string>

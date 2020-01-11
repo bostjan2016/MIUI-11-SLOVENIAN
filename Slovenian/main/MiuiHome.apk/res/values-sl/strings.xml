@@ -133,7 +133,7 @@
   <string name="aqi_quality_index_light_pollution">Previdno</string>
   <string name="aqi_quality_index_moderate">Zmerno</string>
   <string name="aqi_quality_index_unhealthy">Nezdravo</string>
-  <string name="auto_add_app_shortcut">Dodaj novonameščene aplikacije na zač. zaslon</string>
+  <string name="auto_add_app_shortcut">Dodaj nove aplikacije na zač. zaslon</string>
   <string name="auto_delete_category_dialog_content">Trenutne aplikacije bodo odstranjene iz te kategorije, kategorija pa bo izbrisana. Izbrišem kategorijo?</string>
   <string name="auto_delete_category_dialog_title">Brisanje kategorije</string>
   <string name="backup_fail">Ne norem napraviti var. kopijo zaganjalnika.</string>
@@ -359,6 +359,7 @@
   <string name="notification_reset_description">%1$s%1$s Ne morem resetirati zaganjalnik na %2$s</string>
   <string name="notification_reset_duration">Čez 2 ure,</string>
   <string name="notification_reset_title">Samod. čiščenje je končano</string>
+  <string name="one_key_call_title">Tapni za klicanje</string>
   <string name="online_wallpaper">Mrežno</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Izključi</string>
