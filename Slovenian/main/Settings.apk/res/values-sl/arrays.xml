@@ -159,9 +159,8 @@
         <item>Nikoli</item>
     </string-array>
 	<string-array name="dark_ui_mode_entries">
-        <item>Samodejno (glede na čas dneva)</item>
-        <item>Vedno vključeno</item>
-        <item>Vedno izključeno</item>
+       <item>Temno</item>
+       <item>Svetlo</item>
     </string-array>
 	<string-array name="data_usage_data_range">
         <item>Zadnjih 30 dni</item>
@@ -1218,7 +1217,7 @@
         <item>Nizka latenca</item>
      </string-array>
      <string-array name="bluetooth_a2dp_codec_aptxadaptive_mode_titles">
-        <item>Visoka kvaliteta (zadano)</item>
+        <item>Visoka kvaliteta (privzeto)</item>
         <item>Nizka latenca</item>
      </string-array>
      <string-array name="entries_font_size">
@@ -1307,35 +1306,39 @@
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>Izbira sistema (Privzeto)</item>
+     <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Izbira sistema (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
-	<item>Qualcomm® aptX™ TWS+ audio</item>
-	<item>LHDC</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
-         <item>Izbira sistema (Privzeto)</item>
+        <item>Izbira sistema (privzeto)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-	<item>Qualcomm® aptX™ Adaptivni audio</item>
-	<item>Qualcomm® aptX™ TWS+ audio</item>
-	<item>LHDC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC_V3</item>
+        <item>LHDC_V2</item>
+        <item>LHDC_V1</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (privzeto)</item>
-	<item>AVRCP 1.3</item>
+	    <item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
@@ -1437,5 +1440,30 @@
         <item>Grafika</item>
         <item>Odstotek (v ikoni)</item>
         <item>Odstotek (zraven ikone v plošči obvestil)</item>
+    </string-array>
+	<string-array name="preferred_network_mode_choices">
+        <item>GSM/WCDMA prednostno</item>
+        <item>GSM samo</item>
+        <item>WCDMA samo</item>
+        <item>GSM/WCDMA samodejno</item>
+        <item>CDMA/EvDo samodejno</item>
+        <item>CDMA w/o EvDo</item>
+        <item>EvDo samo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>TDSCDMA samo</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
     </string-array>
 </resources>

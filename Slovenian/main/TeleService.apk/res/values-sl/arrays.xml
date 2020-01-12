@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="preferred_network_mode_choices">
-        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM/WCDMA, CDMA in EvDo</item>
-        <item>TD-SCDMA, GSM/WCDMA in LTE</item>
-        <item>TD-SCDMA, WCDMA in LTE</item>
-        <item>TD-SCDMA, GSM/WCDMA</item>
-        <item>TD-SCDMA, GSM in LTE</item>
-        <item>TD-SCDMA in GSM</item>
-        <item>TD-SCDMA in LTE</item>
-        <item>TD-SCDMA in WCDMA</item>
-        <item>TD-SCDMA samo</item>
-        <item>LTE/WCDMA</item>
-        <item>LTE samo</item>
-        <item>LTE/GSM/CDMA samod (PRL)</item>
-        <item>LTE/GSM samod. (PRL)</item>
-        <item>LTE/CDMA samod. (PRL)</item>
-        <item>GSM/CDMA samod. (PRL)</item>
-        <item>EvDo samo</item>
-        <item>CDMA samo</item>
-        <item>CDMA samod. (PRL)</item>
-        <item>GSM samod. (PRL)</item>
-        <item>WCDMA samo</item>
+         <item>GSM/WCDMA prednostno</item>
         <item>GSM samo</item>
-        <item>WCDMA prednostno</item>
+        <item>WCDMA samo</item>
+        <item>GSM/WCDMA samodejno</item>
+        <item>CDMA/EvDo samodejno</item>
+        <item>CDMA w/o EvDo</item>
+        <item>EvDo samo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>TDSCDMA samo</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
     </string-array>
     <string-array name="ims_call_cap_types">
         <item>Zvok</item>
