@@ -400,7 +400,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_running_tip_uninstall">Odstrani aplikacijo</string>
   <string name="app_usage_never">Ni uporabljeno</string>
   <string name="app_usage_recently">Nedavno uporabljeno</string>
-  <string name="app_version">"Različica "</string>
+  <string name="app_version">"Verzija: "</string>
   <string name="app_wifi">WiFi</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Očisti %s WeChat predpomnilnika za več prostora za shranjevanje</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Ne pozabite očistiti predpomnilnik"</string>
@@ -516,7 +516,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_auto_brightness">Samod. osvetlitev</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Nivo osvetlitve</string>
-  <string name="auto_task_operation_close">Izključi</string>
+  <string name="auto_task_operation_close">Izključeno</string>
   <string name="auto_task_operation_close_string">Izključi %s</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Zaklep. zaslona</string>
@@ -525,7 +525,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_modify_string">Uredi %s</string>
   <string name="auto_task_operation_mute">Tiho</string>
   <string name="auto_task_operation_no_op">"Ne izberite te storitve"</string>
-  <string name="auto_task_operation_open">Vključi</string>
+  <string name="auto_task_operation_open">Vključeno</string>
   <string name="auto_task_operation_open_string">Vključi %s</string>
   <string name="auto_task_operation_string_comma">,</string>
   <string name="auto_task_operation_string_etc">, itd.</string>
@@ -1477,9 +1477,9 @@ Videoposnetki bodo shranjeni v Game Turbo &gt; Ključni trenutki."</string>
   <string name="gs_show_way_vertical">Navpično</string>
   <string name="gs_sign_notification">Opomni me se da prijavim vsak dan ob 20 uri</string>
   <string name="gs_slip_gamebox_detail">Uporabite drsnik ali podrsajte s prstom od zgornjega roba da se pokaže plošča bližnjic.</string>
-  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="gtb_exit_game_to_gtb">Odpri gamebox</string>
   <string name="gtb_exit_game_to_home">Nazaj na zač. zaslon</string>
+  <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Uporabljajte aplikacijo Varnost za urejanje z mobilnimi podatki"</string>
   <string name="guide_quck_open">Vključi</string>
@@ -2474,15 +2474,14 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_low_battery_title">Varčevanje z baterijo</string>
   <string name="power_save_mode_auto_exit_summary">Izključite ko je baterija 60% ali popolnoma napolnjena​</string>
   <string name="power_save_mode_auto_exit_title">Izključite ko je napolnjena​</string>
+  <string name="power_save_mode_close_notification_screenon_summary">Deluje ko je Varčevanje baterije vključeno</string>
+  <string name="power_save_mode_close_notification_screenon_title">"Ne budi zaslon za obvestila"</string>
   <string name="power_save_mode_close_warn_text">Varčevanje baterije omejuje aktivnost v ozadju in sinhronizacijo. Če jo uporabljate med polnjenjem nekatere stvari morda ne bodo prav delale. Ali želite da je varčevanje baterije vključeno med polnjenjem ?</string>
   <string name="power_save_mode_close_warn_title">Varčevanje baterije</string>
   <string name="power_save_mode_enable">Varčevanje z baterijo</string>
   <string name="power_save_mode_end_time">Konec</string>
- <string name="power_save_mode_close_notification_screenon_summary">Deluje če je vključeno varčevanje baterije</string> 
-  <string name="power_save_mode_close_notification_screenon_title">"Ne budi zaslona za obvestila"</string>
-  <string name="power_save_mode_close_xiaoai_wakeup_summary">Deluje če je vključeno varčevanje baterije</string>
   <string name="power_save_mode_ontime_enabled">Razpored časa za spremembo načina dela</string>
-  <string name="power_save_mode_other_optimization">Izbirna optimizacija</string>
+  <string name="power_save_mode_other_optimization">Dodatna optimizacija</string>
   <string name="power_save_mode_start_time">Začetek</string>
   <string name="power_save_mode_summary">Nadziraj procese v ozadju in izključi sinhronizacijo.</string>  
   <string name="power_save_on_time_auto_save_title">Razpored profilov za preklop</string>
@@ -2496,10 +2495,18 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_save_on_time_start_time_summary">Začni</string>
   <string name="power_save_on_time_start_time_summary_na">Od</string>
   <string name="power_save_ps_clean">Očisti predspomin ko se naprava zaklene</string>
-  <string name="power_save_ps_close_setting">Izključi storitve v ozadju (sinhronizacija, GPS) da privarčujete baterijo</string>
-  <string name="power_save_ps_close_setting_5g">Izključi storitve ki porabljajo energijo (sinhronizacija, 5G povezava, GPS)</string>
-  <string name="power_save_ps_close_setting_5g_q">Izključi storitve ki porabljajo energijo (sinhronizacija, 5G povezava, haptične povratne informacije, \"Dvignite napravo da jo vključite\", \"Dvakrat tapnite za bujenje ali izklop zaslona\", \"Pokaži ikono prstnega odtisa ko je zaslon izključen\")</string>
-  <string name="power_save_ps_close_setting_q">Izključi storitve ki porabljajo energijo (sinhronizacija, haptične povratne informacije, \"Dvignite napravo da jo vključite\", \"Dvakrat tapnite za bujenje ali izklop zaslona\", \"Pokaži ikono prstnega odtisa ko je zaslon izključen\")</string>
+  <string name="power_save_ps_close_setting_3">Izključi storitve z veliko porabo energije (%1$s, %2$s, %3$s)</string>
+  <string name="power_save_ps_close_setting_4">Izključi storitve z veliko porabo energije (%1$s, %2$s, %3$s, %4$s)</string>
+  <string name="power_save_ps_close_setting_5">Izključi storitve z veliko porabo energije (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+  <string name="power_save_ps_close_setting_5gnet">5G omrežna povezljivost</string>
+  <string name="power_save_ps_close_setting_6">Izključi storitve z veliko porabo energije (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+  <string name="power_save_ps_close_setting_7">Izključi storitve z veliko porabo energije (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+  <string name="power_save_ps_close_setting_dclickwakeup">\"Dvakrat tapni za bujenje ali izklop zaslona\"</string>
+  <string name="power_save_ps_close_setting_fingeraod">\"Pokaži ikono prstnega odtisa ko je zaslon izključen\"</string>
+  <string name="power_save_ps_close_setting_gps">GPS</string>
+  <string name="power_save_ps_close_setting_haptic">haptične povratne informacije</string>
+  <string name="power_save_ps_close_setting_pickupwakeup">\"Dvignite napravo da jo vključite\"</string>
+  <string name="power_save_ps_close_setting_sync">sinhronizacija</string>
   <string name="power_save_ps_freeze">Zamrzni aplikacije v ozadju</string>
   <string name="power_save_ps_limit">Omeji aktivnost aplikacij sistema</string>
   <string name="power_save_settings">Nastavitve baterije</string>

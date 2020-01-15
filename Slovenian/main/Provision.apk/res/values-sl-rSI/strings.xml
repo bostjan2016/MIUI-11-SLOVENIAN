@@ -36,6 +36,7 @@
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Center vsebine poenoti vsebino in storitve z več kanali. Tu lahko berete članke, gledate videoposnetke, pregledujete vsakodnevno predstavljene stvari in prejemate priporočila za vsebino.</string>
   <string name="continue_to_enable_accessibility">Pridržite z dvema prstoma da omogočite dostopnost.</string>
+  <string name="data_traffic_enable_dialog_title">"Če niste povezani z WiFi bo naprava uporabila mobilne podatke. To lahko povzroči stroške."</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in storitve.</string>
@@ -98,6 +99,7 @@ Vseeno izključim?"</string>
   <string name="other_settings_auto_update">Namesti samodejno</string>
   <string name="other_settings_auto_update_summary">MIUI bo izbral najboljši trenutek za namestitev posodobitve.</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Pogled za Mi</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o zasebnosti</string>
   <string name="other_settings_enhanced_lockscreen_summary">Pridobite slike in zgodbe ki se dnevno dostavljajo na vaš zakl. zaslon. Veljajo Pravila in pogoji.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Pogoji in pravila</string>

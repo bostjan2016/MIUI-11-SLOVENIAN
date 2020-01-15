@@ -84,4 +84,8 @@
         <item quantity="other">%s storitev bo sinhonizirano z Mi Cloudom</item>
         <item quantity="one">%s storitev bo sinhonizirana z Mi Cloudom</item>
     </plurals>
+	<plurals name="select_no_more_than">
+        <item quantity="other">"Ne morete izbrati več kot %d stvari"</item>
+        <item quantity="one">"Ne morete izbrati več kot %d stvar"</item>
+    </plurals>
 </resources>

@@ -35,6 +35,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="buy_space_sulotion_renew_title">Obnovi naročnino</string>
   <string name="buy_space_sulotion_title">Kupi prostor za shranjevanje</string>
   <string name="calendar_sync">Koledar</string>
+  <string name="check_contact">Dodaj</string>
+  <string name="choose_contact_title">Stiki</string>
   <string name="click_to_enabled">Dotakni se za sinhr.</string>
   <string name="close_shortcut">Zapri</string>
   <string name="cloud_back_up_button_ok">Prisilno ustavi</string>
@@ -553,6 +555,9 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="password">Vpišite geslo</string>
   <string name="phone_number_may_required_dspt_provision">"Ta storitev lahko zahteva vašo telefonsko številko."</string>
   <string name="phone_number_required_dspt_provision">"Ta storitev zahteva vašo telefonsko številko."</string>
+  <string name="picker_list_empty">Tu ni stikov</string>
+  <string name="picker_search_empty">"Ne najdem stikov"</string>
+  <string name="picker_search_hint">Išči</string>
   <string name="pre_privacy_policy">Pravila o zasebnosti</string>
   <string name="pre_user_agreement">Pogoji uporabe</string>
   <string name="photo">Fotografije</string>
@@ -604,6 +609,7 @@ To opravilo šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="soundrecorder_sync_only_in_wifi">Uporabi samo WiFi za sinhr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snemalnik ne bo uporabljal mobilnih podatkov za prenos ali nalaganje posnetkov</string>
   <string name="soundrecorder_sync_records">Sinhr. z Mi Cloud</string>
+  <string name="starred_contact">Priljubljeno</string>
   <string name="storage_manage_title">Spremeni plan Mi Cloud shrambe</string>
   <string name="storage_manage_expansion">Nabavite več</string>
   <string name="storage_manage_list_title">Cloud podatki</string>

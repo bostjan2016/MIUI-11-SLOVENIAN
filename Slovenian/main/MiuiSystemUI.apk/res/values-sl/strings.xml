@@ -905,6 +905,9 @@ Ko se telefon ohladi, bo zopet deloval kot običajno."</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="how_to_back_home">Pojdi na začetni zaslon</string>
   <string name="how_to_switch_recents">Odpri Nedavno</string>
+  <string name="how_to_use_app_quick">Kako menjati med aplikacijami</string>
+  <string name="how_to_use_app_quick_hide_line_summary">Podrsajte gor iz spodnje strani zaslona, potem pa levo ali desno</string>
+  <string name="how_to_use_app_quick_summary">Podrsajte levo ali desno iz indikatorja celega zaslona ali dna zaslona</string>
   <string name="how_to_use_drawer">Kako uporabiti meni</string>
   <string name="how_to_use_drawer_summary">Podrsajte s prstom desno v zgornjem delu zaslona</string>
   <string name="how_to_use_fsg">To lahko naredite s pomočjo kretenj:</string>

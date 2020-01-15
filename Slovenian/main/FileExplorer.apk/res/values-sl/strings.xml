@@ -263,6 +263,7 @@
   <string name="error_file_already_exists">Ta datoteka že obstaja</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="error_folder_already_exists">Ta datoteka že obstaja</string>
+  <string name="error_hint_copy_folder_to_self_or_sub">"Ne morem premestiti ali kopirati mape v obstoječe ali njihove podmape"</string>
   <string name="error_info_cant_send_folder">"Ne morem poslati to vrsto datoteke."</string>
   <string name="error_invalid_path">Napačna pot</string>
   <string name="error_not_support">Ni podprto</string>
