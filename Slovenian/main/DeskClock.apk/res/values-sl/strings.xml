@@ -254,7 +254,7 @@
   <string name="net_permission_cancel">"Ne strinjam se"</string>
   <string name="net_permission_ok">Strinjam se</string>
   <string name="network_privacy">S ciljem ponujanja relevantnih informacij o lokalnih praznikih, prilagajanju alarma in nudenju prilagojenih storitev se mora ura povezati s spletom. Pred uporabo preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
-  <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Preberite in se strinjajte z &amp;lt;a href=\"%1$s\"&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;. Se strinjate?</string>
+  <string name="network_privacy_global">Za delovanje ura potrebuje povezavo s spletom. Pred uporabo preberite in se strinjajte z Pogoji uporabe in Pravila o zasebnosti. Se strinjate?</string>
   <string name="never">Enkrat</string>
   <string name="new_label">Dodaj tekst alarma</string>
   <string name="no_alarm_setting">Ni alarmov</string>

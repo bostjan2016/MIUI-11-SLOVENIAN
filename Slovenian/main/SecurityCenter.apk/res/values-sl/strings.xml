@@ -1424,7 +1424,7 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gb_wonderful_video_delete">Izbriši</string>
   <string name="gb_wonderful_video_header_title">Danes</string>
   <string name="gb_wonderful_video_save_suc">Uspešno shranjeno</string>
-  <string name="gdpr_msg">"Da boste uporabili osnovne funkcije aplikacije Varnost, se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načih uporabe zaščite (npr. Statistiko uporabe mobilnih podatkov, informacije o zlonamerni opremi) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="gdpr_msg">"Da boste uporabili osnovne funkcije aplikacije Varnost, se morate strinjati da bo Xiaomi zbiral, obdeloval in uporabljal vaše osebne podatke, vključno podatke o načih uporabe zaščite (npr. Statistiko uporabe mobilnih podatkov, informacije o zlonamerni opremi) kot tudi osnovne informacije o vaši napravi) in ostale vrste podatkov navedenih v Pravila o zasebnosti.</string>
   <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_wa_setting_alert_dialog_content">Lahko osvobodite %s</string>
