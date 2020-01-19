@@ -1453,7 +1453,7 @@ za fotografije"</string>
   <string name="request_sms_url_failed">"Ne morem pridobiti podrobnosti"</string>
   <string name="request_sms_url_msg">Iskanje informacij…</string>
   <string name="request_sms_url_title">Namig</string>
-  <string name="reset">Resetiraj</string>
+  <string name="reset">Ponastavi</string>
   <string name="retry_to_create_album">Poskusi ponovno</string>
   <string name="retry_to_request_qr_code">Poskusi ponovno</string>
   <string name="risk_control_deleted_date">dd/MM</string>

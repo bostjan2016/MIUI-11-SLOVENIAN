@@ -82,7 +82,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="lockpattern_recording_inprogress">Odmaknite prst ko končate.</string>
   <string name="lockpattern_recording_intro_header">Narišite vzorec za odklepanje:</string>
   <string name="lockpattern_redraw_button_text">Narišite ponovno</string>
-  <string name="lockpattern_retry_text">Resetirajte vzorec</string>
+  <string name="lockpattern_retry_text">Ponastavi vzorec</string>
   <string name="lockpattern_settings_help_how_to_record">Kako narisati vzorec za odklepanje</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Poskusite spet čez %d sek.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Preveč napačnih poskusov!&lt;/font&gt;</string>
@@ -118,7 +118,7 @@ Pred odstranitvijo:
   <string name="remove_account_dialog_title">Odstranim račun?</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_message">Preimenuj %1$s</string>
-  <string name="resetbtn_patternforgotten">Resetiraj</string>
+  <string name="resetbtn_patternforgotten">Ponastavi</string>
   <string name="save_key_message">Shrani ključ za</string>
   <string name="scan_barcode">Skeniraj MiID</string>
   <string name="scan_barcode_info">Nastavite in skenirajte MiID črtno kodo znotraj tega iskala.</string>

@@ -144,7 +144,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_resend_active_email">Pošlji ponovo e-pošto za aktivacijo</string>
   <string name="passport_reset_fail_title">"Ne morem resetirati"</string>
   <string name="passport_reset_password_prompt">Napačno geslo</string>
-  <string name="passport_reset_password_title">Resetiraj geslo</string>
+  <string name="passport_reset_password_title">Ponastavi geslo</string>
   <string name="passport_restart">Začni znova</string>
   <string name="passport_restart_register_prompt">Mogoče bo potrebno še eno potrditveno sporočilo da izdelate svoj račun.</string>
   <string name="passport_restart_register_title">Izdelaj Mi Račun</string>

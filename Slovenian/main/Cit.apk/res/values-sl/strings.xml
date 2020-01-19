@@ -652,7 +652,7 @@ Kliknite tipko Push kamere da boste ugotovili ali se je kamera vključila"</stri
   <string name="pop_push_camera_test_title">Test Skočne in Push kamere</string>
   <string name="push_camera">Push kamera</string>
   <string name="remove_headset_and_starttest">Odstranite slušalke in pritisnite start za testiranje</string>
-  <string name="resetpixel_test">RESETIRAJ TEST PIXLOV</string>
+  <string name="resetpixel_test">PONASTAVI TEST PIXLOV</string>
   <string name="run">Zaženi</string>
   <string name="sample_data">Vzorec podatkov</string>
   <string name="sample_hint">Izloči %1$s vzorcev za en prst</string>

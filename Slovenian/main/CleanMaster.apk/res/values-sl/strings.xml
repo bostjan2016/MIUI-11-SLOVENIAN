@@ -438,7 +438,7 @@
   <string name="hints_scanfinish">Ni smeti</string>
   <string name="hints_storage_clean_size">Osvobojeno %s notranjega pomnilnika</string>
   <string name="hints_storage_free">Prosto</string>
-  <string name="hints_storage_free_size">Skupaj %1$s, %2$s dostopno​</string>
+  <string name="hints_storage_free_size">Skupaj %1$s, %2$s na voljo​</string>
   <string name="hints_storage_news">Novice varnosti</string>
   <string name="hints_title_garbage">smeti</string>
   <string name="hints_video_camera">Posneti videoposnetki</string>

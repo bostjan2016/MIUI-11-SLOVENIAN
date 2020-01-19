@@ -2118,7 +2118,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_manage_title">Povečaj hitrost</string>
   <string name="optimize_result_ads_close_text">Oglas</string>
-  <string name="optimize_result_available_memory_info">Dostopno spomina</string>
+  <string name="optimize_result_available_memory_info">Na voljo​ prostora</string>
   <string name="optimize_result_button_cloudspace">Dobite več prostora za shranjevanje</string>
   <string name="optimize_result_button_consume_power_analysis">Preveri baterijo</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
@@ -2165,7 +2165,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="password_forget_pattern_confirm">Izdelava var. kopije podatkov</string>
   <string name="password_forget_pattern_message">"Napravite var. kopijo podatkov lokalno, potem pa vrnite napravo na tovarniške nastavitve. Potem boste lahko zamenjali geslo."</string>
   <string name="password_forget_pattern_message_none">"Aplikacije niso zaklenjene. Lahko resetirate vaše geslo."</string>
-  <string name="password_forget_pattern_reset">Resetiraj</string>
+  <string name="password_forget_pattern_reset">Ponastavi</string>
   <string name="password_forget_pattern_title">Napravite var. kopijo podatkov</string>
   <string name="password_promotion_button_text">Dodaj Mi Račun</string>
   <string name="password_promotion_message">Dodajte svoj Mi Račun (%s) da boste lahko preklicali geslo če ga pozabite.</string>
@@ -3370,7 +3370,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tether_custom_dialog_title">Omejitev mobilnih podatkov</string>
   <string name="tether_limit_dialog_title">Omejitev mobilnih podatkov</string>
   <string name="tether_limit_value_custom">Lastno</string>
-  <string name="tether_over_limit_dialog_cancle_btn">Resetiraj dostopno točko</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Ponastavi dostopno točko</string>
   <string name="tether_over_limit_dialog_message">Dosegli ste omejitev podatkov za dostopno točko.</string>
   <string name="tether_over_limit_dialog_title">Opozorilo uporabe podatkov</string>
   <string name="tether_over_limit_warning_notify_message">Izključi prenosno dostopno točko.</string>
