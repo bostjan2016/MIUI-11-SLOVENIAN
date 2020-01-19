@@ -1996,6 +1996,8 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="copy">Kopiraj</string>
     <string name="copyable_slice_toast">Vsebina %1$s je kopirana v odložišče.</string>
   <string name="copyright_title">Avtorska pravica</string>
+  <string name="corner_assistant_gesture_summary">Podrsaj gor iz spodnjega levega ali desnega kota da zbudiš Google pomočnika</string>
+  <string name="corner_assistant_gesture_title">Podrsaj gor iz kota za Google pomočnika</string>
   <string name="country_name">%s (sistem)</string>
   <string name="create">Ustvari</string>
     <string name="credential_contains">Ta vnos vsebuje:</string>
@@ -5738,7 +5740,9 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="power_menu_under_keyguard_title">Dostop do menija za polnjenje</string>
   <string name="power_mgr">Optimizacija baterije</string>
   <string name="power_mode">Nastavitve porabe</string>
-  <string name="power_mode_balanced_title">Omogoči uravnoteženo napajanje</string>
+  <string name="power_mode_balanced_title">Omogoči uravnoteženo polnjenje</string>
+  <string name="power_monitor_summary">Orodja ki se uporabljajo za spremljanje polnjenja.</string>
+  <string name="power_monitor_title">Spremljanje polnjenja</string>
   <string name="power_optimize">Prihranek baterije</string>
   <string name="power_overcounted">Preveč šteto</string>
   <string name="power_phone">Glasovni klici</string>

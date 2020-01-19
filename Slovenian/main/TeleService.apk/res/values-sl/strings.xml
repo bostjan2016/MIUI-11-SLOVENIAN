@@ -1432,6 +1432,7 @@ za uporabo doplačila"</string>
   <string name="mmiStarted">Koda MMI zagnana</string>
   <string name="mobile_advanced_dns_server_title">Naslov DNS strežnika</string>
   <string name="mobile_advanced_ip_address_title">IP naslov</string>
+  <string name="mobile_advanced_nr_network_title">5G vrsta omrežja</string>
   <string name="mobile_connection_management">Urejanje mobilne omrežne povezave</string>
   <string name="mo_call_type_title">MO Vrsta klica</string>
   <string name="mobile_data">"Mobilni podatki: "</string>
@@ -1634,6 +1635,13 @@ Kontaktirajte vašega operaterja."</string>
   <string name="notification_voicemail_text_format">Kliči %s</string>
   <string name="notification_voicemail_title">Nova glasovna pošta</string>
   <string name="notification_voicemail_title_count">Nova glasovna pošta (%d)</string>
+  <string name="nr_network_info">Podatki o uporabi 5G omrežja</string>
+  <string name="nr_usaged_first_used_time">Registrirano v 5G omrežje</string>
+  <string name="nr_usaged_module">Model naprave</string>
+  <string name="nr_usaged_network_rate">Največja hitrost</string>
+  <string name="nr_usaged_network_usaged">"Današnji podatki"</string>
+  <string name="nr_usaged_operator">Mobilni operater</string>
+  <string name="nr_usaged_used_time">Trajanje uporabe</string>
   <string name="number">Številka</string>
     <string name="numerous_emergency_numbers_title">Številke za klic v sili</string>
   <string name="nw_subset_unlock_failed">SIM odklep neuspešen</string>

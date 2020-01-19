@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Izbrišem izbrane razgovore: %1$s?</item>
-        <item quantity="one">Izbrišem ta razgovor?</item>
+        <item quantity="one">Izbrišem %1$s izbran razgovor?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d sek</item>

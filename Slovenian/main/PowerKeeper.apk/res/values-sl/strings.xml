@@ -214,6 +214,8 @@ Varčevanje z baterijo bo selektivno obravnavalo pomembne aplikacije."</string>
   <string name="power_hide_mode_title">Baterija &amp; zmogljivost</string>
   <string name="power_keeper">Varčevanje z baterijo</string>
   <string name="power_mode">Nastavitve energije</string>
+  <string name="power_tools_current">Trenutno</string>
+  <string name="power_tools_fps">FPS</string>
   <string name="power_mode_cpu_state_high">Zmogljivost</string>
   <string name="power_mode_cpu_state_high_desc">Preformanse ima prioriteto nad baterijo</string>
   <string name="power_mode_cpu_state_low">Varčevanje z baterijo</string>
