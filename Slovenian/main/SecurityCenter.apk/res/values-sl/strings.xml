@@ -8,6 +8,7 @@
   <string name="HIPS_Perm_Read_Call_Log_Desc">brati zgodovino klicev</string>
   <string name="HIPS_Perm_Read_Contact_Desc">brati vaše stike</string>
   <string name="HIPS_Perm_Read_SMS_Desc">brati vaša SMS sporočila</string>
+  <string name="HIPS_Perm_SendSMS_Desc">pošiljati SMS sporočila</string>
   <string name="HIPS_Perm_SendMMS_Desc">neposredno pošiljati MMS sporočila</string>
   <string name="HIPS_Perm_add_voicemail_Desc">dodati glasovna sporočila sistema</string>
   <string name="HIPS_Perm_get_accounts_Desc">dostop do vseh računov v napravi</string>
@@ -2307,8 +2308,9 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_center_battery_last">%s ostalo</string>
   <string name="power_center_battery_full">"Baterija je napolnjena "</string>
   <string name="power_center_charge_time">%1$s do konca polnjenja</string>
-  <string name="power_center_dialog_msg_bottom">Trajanje baterije lahko povećate do %1$dh %2$dm. Vključim varčevanje baterije?</string>
-  <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije,bo  MIUI napravil naslednje optimizacije:</string>
+  <string name="power_center_dialog_msg_bottom">Trajanje baterije lahko povečate do %1$dh %2$dm. Vključim varčevanje baterije?</string>
+  <string name="power_center_dialog_msg_title">Vključite da dobite %1$s dodatnega časa. Te stvari bodo narejene za varčevanje baterije:</string>
+  <string name="power_center_dialog_msg_top">Ko je vključeno varčevanje baterije, bo MIUI napravil naslednje optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Zdaj lahko rešite probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Samodejno nastavite svetlost zaslona</string>
   <string name="power_center_list_item_battery_status_time">h</string>
@@ -2460,6 +2462,8 @@ To skrajšuje trajanje baterije."</string>
   <string name="power_optimize_save_on_lockscreen">Varčujte energijo kadar je naprava zaklenjena</string>
   <string name="power_phone">Glasovni klici</string>
   <string name="power_save_mode">Varčevanje baterije</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_summary">Dela ko je varčevanje baterije vključeno</string>
+  <string name="power_save_mode_close_xiaoai_wakeup_title">"Ne aktiviraj z glasom Mi AI"</string>
   <string name="power_recovery_mode">Preklopi baterijo na %1$s</string>
   <string name="power_save_choose_mode">Izberi profil</string>
   <string name="power_save_choose_recovery_mode">Izberi profil</string>

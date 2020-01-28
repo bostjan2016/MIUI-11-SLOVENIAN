@@ -300,6 +300,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
 	<item>Qualcomm® aptX™ Adaptivni audio</item>
+	<item>Qualcomm® aptX™ TWS+ audio</item>
         <item>Omogočanje izbirnih kodekov</item>
         <item>Onemogočanje izbirnih kodekov</item>
      </string-array>
@@ -311,6 +312,7 @@
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
 	<item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>		
         <item>Omogočanje izbirnih kodekov</item>
         <item>Onemogočanje izbirnih kodekov</item>
      </string-array>
@@ -326,6 +328,13 @@
         <item>, aktivno (predstavnosti)</item>
         <item>, aktivno (telefon)</item>
      </string-array>
+	  <string-array name="bt_hci_snoop_log_entries">
+        <item>Onemogočeno</item>
+        <item>Omogočeno filtrirano</item>
+        <item>Omogočeno</item>
+        <item>Omogočeno \"Glave filtrirane\"</item>
+        <item>Omogočeno \"Paketi predstavnosti filtrirani\"</item>
+	 </string-array>
      <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (privzeto)</item>
         <item>OpenGL (Skia)</item>

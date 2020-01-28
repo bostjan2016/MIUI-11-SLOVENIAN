@@ -62,6 +62,8 @@
   <string name="fast_connect_nzbt_reset">Držite pritisnjeno zgornjo tipko %1$s sek. med izklopom</string>
   <string name="fast_connect_device_title_connect_fail">"Ne morem povezati %1$s"</string>
   <string name="fast_connect_device_title_connecting">Povezovanje…</string> 
+  <string name="fast_connect_wbs_name">Mi Wireless polnilec za zvočnik</string>
+  <string name="fast_connect_wbs_reset">Držite pritisnjeno zgorno tipko %1$s sek. med izklopom</string>
   <string name="goto_package">Odpri %1$s</string>
   <string name="install_package">Namesti %1$s za več opravil</string>
   <string name="mi_band_vibrate_alarm">Vibriranje pri alarmu</string>

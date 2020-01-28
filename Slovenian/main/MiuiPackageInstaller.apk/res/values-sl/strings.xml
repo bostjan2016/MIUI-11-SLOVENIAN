@@ -16,6 +16,7 @@
   <string name="all_permissions">Vsa dovoljenja</string>
   <string name="anonymous_source_continue">Nadaljuj</string>
   <string name="anonymous_source_warning">Vaš telefon in osebni podatki so podvrženi napadom neznanih aplikacij. Z namestitvijo te aplikacije sprejemate odgovornost za poškodovanje telefona ali krajo podatkov do katere lahko pride z njeno uporabo.</string>
+  <string name="app_install_failed_button_text">Išči aplikacije</string>
   <string name="app_installed_notification_channel_description">Obvestilo o nameščeni aplikaciji</string>
   <string name="app_name">Orodje za namestitev paketa.</string>
   <string name="app_name_unknown">Neznano</string>

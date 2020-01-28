@@ -79,7 +79,9 @@
         <item>LDAC</item>
 	<item>Qualcomm® aptX™ Adaptive audio</item>
 	<item>Qualcomm® aptX™ TWS+ audio</item>
-	<item>LHDC</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -92,7 +94,9 @@
         <item>LDAC</item>
 	<item>Qualcomm® aptX™ Adaptive audio</item>
 	<item>Qualcomm® aptX™ TWS+ audio</item>
-	<item>LHDC</item>
+        <item>LHDC V3</item>
+        <item>LHDC V2</item>
+        <item>LHDC V1</item>
         <item>Omogoči izbirne kodeke</item>
         <item>Onemogoči izbirne kodeke</item>
     </string-array>
@@ -104,10 +108,17 @@
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Privzeto)</item>
-	    <item>AVRCP 1.3</item>
+	<item>AVRCP 1.3</item>
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+        <item>Onemogočeno</item>
+        <item>Omogočeno filtrirano</item>
+        <item>Omogočeno</item>
+        <item>Omogočeno \"Glave filtrirane\"</item>
+        <item>Omogočeno \"Paketi predstavnosti filtrirani\"</item>
+     </string-array>
     <string-array name="clock_options">
         <item>Pokaži ure, minute in sekunde</item>
         <item>Pokaži ure in minute (privzeto)</item>

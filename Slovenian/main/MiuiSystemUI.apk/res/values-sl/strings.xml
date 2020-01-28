@@ -2319,9 +2319,10 @@ Shramba certifikatov mogoče ni omogočena"</string>
   <string name="wireless_charging_tips_message">Nastavite naprave ki podpirajo Qi brezžično polnjenje (telefoni, dodatki itd.) Na zadnji strani naprave.</string>
   <string name="wireless_charging_tips_title">Obrnjeno brezžično polnjenje</string>
   <string name="wrong_password">Napačno geslo</string>
-    <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
-    <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej te nastavitve ne izklopite</string>
-    <string name="zen_alarms_introduction">Ne bodo vas motili zvoki ali vibriranje, razen v primeru alarmov. Še vedno pa boste slišali vse, kar se boste odločili predvajati, vključno z glasbo, videoposnetki in igrami.</string>
+  <string name="yes_bubbles">Dovoli</string>
+  <string name="zen_alarm_warning">Naslednjega alarma ob %1$s ne boste slišali</string>
+  <string name="zen_alarm_warning_indef">Naslednjega alarma ob %1$s ne boste slišali, razen če prej te nastavitve ne izklopite</string>
+  <string name="zen_alarms_introduction">Ne bodo vas motili zvoki ali vibriranje, razen v primeru alarmov. Še vedno pa boste slišali vse, kar se boste odločili predvajati, vključno z glasbo, videoposnetki in igrami.</string>
   <string name="zen_interruption_level_priority">Samo prioritete</string>
   <string name="zen_mode_duration_always_prompt_title">Vsakič vprašaj</string>
   <string name="zen_mode_duration_settings_title">Trajanje</string>
@@ -2330,7 +2331,7 @@ Shramba certifikatov mogoče ni omogočena"</string>
   <string name="zen_mode_settings_summary_off">Nikoli</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Vključi Ne moti</string>
   <string name="zen_priority_customize_button">Prilagodi</string>
-    <string name="zen_priority_introduction">Ne bodo vas motili zvoki ali vibriranje, razen v primeru alarmov, opomnikov, dogodkov in klicateljev, ki jih določite. Še vedno pa boste slišali vse, kar se boste odločili predvajati, vključno z glasbo, videoposnetki in igrami.</string>
-    <string name="zen_silence_introduction">S tem so blokirani VSI zvoki in vibriranje – tudi od alarmov, glasbe, videoposnetkov in iger.</string>
-    <string name="zen_silence_introduction_voice">S tem so onemogočeni VSI zvoki in vibriranje – tudi v primeru alarmov, glasbe, videoposnetkov in iger. Še vedno pa boste lahko opravljali telefonske klice.</string>
+  <string name="zen_priority_introduction">Ne bodo vas motili zvoki ali vibriranje, razen v primeru alarmov, opomnikov, dogodkov in klicateljev, ki jih določite. Še vedno pa boste slišali vse, kar se boste odločili predvajati, vključno z glasbo, videoposnetki in igrami.</string>
+  <string name="zen_silence_introduction">S tem so blokirani VSI zvoki in vibriranje – tudi od alarmov, glasbe, videoposnetkov in iger.</string>
+  <string name="zen_silence_introduction_voice">S tem so onemogočeni VSI zvoki in vibriranje – tudi v primeru alarmov, glasbe, videoposnetkov in iger. Še vedno pa boste lahko opravljali telefonske klice.</string>
 </resources>

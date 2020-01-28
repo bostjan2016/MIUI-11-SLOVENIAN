@@ -14,13 +14,10 @@
         <item>Zelo zadovoljen</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Prenos traja predolgo</item>
-        <item>Povezava je prekinjena</item>
-        <item>Izbral sem napačne stvari za prenos</item>
-        <item>Preveč korakov</item>
-        <item>"Baterija telefona je slaba"</item>
-        <item>Prenesene stvari so poškodovane</item>
-        <item>Slučajno sem začel prenos</item>
-        <item>Ostalo</item>
+        <item>Celotna ocena ocjena</item>
+        <item>Trajanje prenosa</item>
+        <item>Enostavnost procesa</item>
+        <item>Jasnost navodil</item>
+        <item>Ta storitev je koristna</item>
     </string-array>
 </resources> 

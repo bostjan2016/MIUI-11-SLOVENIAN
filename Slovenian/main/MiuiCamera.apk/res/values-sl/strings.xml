@@ -468,6 +468,7 @@ Natisnite kopijo brezžično na papir A4."</string>
   <string name="loading">Nalaganje…</string>
   <string name="loading_video">Nalaganje videoposnetka…</string>
   <string name="location">Lokacija</string>
+  <string name="location_access_allow">Dovoli</string>
   <string name="locations">Lokacije</string>
   <string name="lying_direct_hint">Trenutna orientacija</string>
   <string name="macro_mode">Macro</string>
@@ -559,9 +560,9 @@ izgledali večji na fotografijah"</string>
   <string name="moive_frame">Okvir filma</string>
   <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
   <string name="network_access_user_notice_agree">Strinjam se</string>
-  <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
-  <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
-  <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Z dotikom na \"Strinjam se\", se strinjate z  &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in dovolite Kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
   <string name="no_save">"Ne shrani"</string>
   <string name="no_storage">Pred uporabo kamere vstavite SD kartico.</string>

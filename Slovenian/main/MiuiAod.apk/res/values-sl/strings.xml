@@ -58,6 +58,7 @@
   <string name="custom_image">Slika po meri</string>
   <string name="deep_space_planet">Doba dneva</string>
   <string name="deep_space_planet_des">\"Doba dneva\" se nanaša na svetlobne spremembe ki se dogajajo okoli čez dan. Sončni vzhod in zahod v tej temi se sinhronizirata z vašo lokacijo.</string>
+  <string name="delete">Izbriši</string>
   <string name="digital_clock">Digitalna</string>
   <string name="disable_aod_in_power_save_mode">Izključi če je vključeno varčevanje baterije</string>
   <string name="disable_aod_in_power_save_mode_summary">"Ne kaži za prihranek baterije"</string>
@@ -78,6 +79,7 @@
   <string name="paper_mode_end_time_title">Izključi</string>
   <string name="paper_mode_start_time_title">Vključi</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
+  <string name="photo_editor_saving">Shranjevanje…</string>
   <string name="please_input_signature">Vnesite podpis</string>
   <string name="scheduled_style">Razpored</string>
   <string name="scope_des">Vsak kalejdoskop vsebuje 5 različnih vzorcev ki se bodo kazali po vrsti ko se vklopi zaslon.</string>

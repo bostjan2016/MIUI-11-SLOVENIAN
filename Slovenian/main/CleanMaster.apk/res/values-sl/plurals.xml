@@ -30,9 +30,11 @@
     </plurals>
     <plurals name="people">
         <item quantity="other">Preneslo %1$d oseb</item>
+	<item quantity="one">Prenesla %1$d oseba</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Preneslo %1$d oseb</item>
+	<item quantity="one">Prenesla %1$d oseba</item>
     </plurals>
     <plurals name="million">
         <item quantity="other">Preneslo %1$d oseb</item>
@@ -159,9 +161,11 @@
     </plurals>
 	<plurals name="wechat_video_time_p1">
         <item quantity="other">%1$s:</item>
+	<item quantity="one">%1$s:</item>
     </plurals>
     <plurals name="wechat_video_time_p2">
         <item quantity="other">%1$s</item>
+	<item quantity="one">%1$s:</item>
     </plurals>
 	<plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;Data>Osvobojeno &lt;big>&lt;big>&lt;font color=#01BB00 >%1$s&lt;/font>&lt;/big>&lt;/big> (dovolj za &lt;big>&lt;big>&lt;font color=#01BB00 >%2$d&lt;/font>&lt;/big>&lt;/big> pesmi)&lt;/Data></item>

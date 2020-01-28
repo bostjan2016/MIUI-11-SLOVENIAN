@@ -375,6 +375,7 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="notification_open_setting_message">"Ne boste mogli prejemati obvestil o dogodkih če ne dovolite koledarju da vam pošilja obvestila."</string>
   <string name="notification_open_setting_title">Dovolim obvestila koledarja?</string>
   <string name="palestine_display_name">Palestine</string>
+  <string name="phone_num">Telefon</string>
   <string name="permission_accounts">Za prijavo in urejanje računov sistema in združevanje stvari z njim</string>
   <string name="permission_contacts">Za sinhronizacijo rojstnih dni stikov in pošiljanje opmnikov</string>
   <string name="permission_main_purpose">Pregledovanje in urejanje dogodkov iz koledarja, planiranje poti, sprejem opomnikov in predplačilo storitev</string>
@@ -451,6 +452,8 @@ Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="reminder_later_notification_time_format">HH:mm</string>
   <string name="reminders_label">Dodaj opomnik</string>
   <string name="repeat_activity_label">Ponovi</string>
+  <string name="repeat_alarm_close_title">To je ponovljeni dogodek. Izključim opomnik za alarm?</string>
+  <string name="repeat_alarm_open_title">To je ponovljeni dogodek. Nastavim opomnik za alarm?</string>
   <string name="repeat_custom_activity_label">Prilagojeno</string>
   <string name="repeat_custom_prompt">vsakih %1$s, %2$s</string>
   <string name="repeat_custom_prompt_daily">vsak %1$s</string>

@@ -5,11 +5,7 @@
      </plurals>
     <plurals name="editing_mode_title">
         <item quantity="other">Izbrano: %1$d</item>
-        <item quantity="zero">Izbrano: %1$d</item>
         <item quantity="one">Izbrano: %1$d</item>
-        <item quantity="two">Izbrano: %1$d</item>
-        <item quantity="few">Izbrano: %1$d</item>
-        <item quantity="many">Izbrano: %1$d</item>
     </plurals>
 	<plurals name="uninstall_dialog_title_multi_format">
         <item quantity="other">Odstranim toliko %1$d aplikacij?</item>

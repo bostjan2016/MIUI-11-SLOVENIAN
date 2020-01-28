@@ -138,6 +138,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="latest_backup_time_loading">Nalagam…</string>
   <string name="load_backup_failed">Ne morem prenesti var. kopije</string>
   <string name="loading_user_backup">Branje uporabniških var. kopij…</string>
+  <string name="loading_progress_num">Naloženo %s%%</string>
   <string name="managespace_delete_backup">Izbriši</string>
   <string name="managespace_total_space">Skupni prostor: %s</string>
   <string name="menu_item_managespace">Uredi prostor</string>
