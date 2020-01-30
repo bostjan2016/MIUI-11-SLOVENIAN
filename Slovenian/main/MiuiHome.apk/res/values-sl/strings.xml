@@ -290,6 +290,7 @@
   <string name="guide_install_app_msg">"Aplikacija ni naložena na telefonu. Poiščem in naložim aplikacijo zdaj?"</string>
   <string name="guide_install_app_title">Poiščem in naložim aplikacijo?</string>
   <string name="guide_tips_editing_mode">Tapni &amp; drži da pobereš pripomoček</string>
+  <string name="hide_apps_title">Skrij ikone aplikacij</string>
   <string name="home_gesture_content_center">Centar za vsebino</string>
   <string name="home_gesture_global_search">Išči</string>
   <string name="home_gesture_no_action">Nič</string>
