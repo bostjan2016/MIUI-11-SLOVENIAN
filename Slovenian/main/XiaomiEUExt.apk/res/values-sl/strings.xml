@@ -4,6 +4,7 @@
   <string name="app_name">Xiaomi.eu Extension</string>
   <string name="confirm_reset">Potrdite ponastavitev</string>
   <string name="confirm_reset_message">Ponastavim na privzete aplikacije?</string>
+  <string name="contributors">Sodelavci</string>
   <string name="delete">Izbriši</string>
   <string name="hide_apps_close">Ikone vidnih aplikacij</string>
   <string name="hide_apps_open">Ikone skritih aplikacij</string>

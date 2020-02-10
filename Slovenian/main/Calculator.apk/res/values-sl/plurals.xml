@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <plurals name="age_label_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+    </plurals>
+    <plurals name="age_label_months">
+        <item quantity="other">%d mesecev</item>
+        <item quantity="one">%d mesec</item>
+    </plurals>
+    <plurals name="age_label_yrs">
+        <item quantity="other">let</item>
+        <item quantity="one">leto</item>
+    </plurals>
    <plurals name="entries">
         <item quantity="other">Stvari: %d</item>
         <item quantity="one">%d stvar</item>
@@ -64,4 +76,8 @@
          <item quantity="other">pred %d min</item>
          <item quantity="one">pred 1 minuto</item>
      </plurals>
+	 <plurals name="tenure_months">
+        <item quantity="other">%d mesecev</item>
+        <item quantity="one">%d mesec</item>
+    </plurals>
 </resources>

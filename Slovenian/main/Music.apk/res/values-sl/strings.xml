@@ -62,6 +62,7 @@
   <string name="action_item_multiple">Uredi</string>
   <string name="action_item_play_all">Predvajaj vse</string>
   <string name="action_item_play_next">Predvajaj kasneje</string>
+  <string name="action_item_play_video">Predvajaj videoposnetek</string>
   <string name="action_item_remove">Odstrani</string>
   <string name="action_item_remove_from_favorite">Odstrani priljubljene</string>
   <string name="action_item_send">Pošlji</string>
@@ -213,6 +214,7 @@
   <string name="choose_language">Izberi jezik</string>
   <string name="choose_music_lang_pref">Prednostni jeziki za pesmi</string>
   <string name="choose_stream_quality">Izberi kvaliteto streama</string>
+  <string name="click_and_watch_video_tip">Tapnite za predvajanje glasbenega videa</string>
   <string name="click_to_add_album_cover_and_lyric">Tapnite za dodajanje naslovnice albuma in besedila pesmi</string>
   <string name="click_modify">Tapni za urejanje besedila</string>
   <string name="click_to_shuffle">Tapni za naključni vrstni red predvajanja </string>
@@ -556,7 +558,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="favourite_music_right_half">ikono desno od naslova skladbe za dodajanje med priljubljene</string>
   <string name="feed_back">Povratna inf.</string>
   <string name="female_artist">Ženski izvajalci</string>
-  <string name="file_not_found">Datoteka ne obstaja</string>
+  <string name="file_not_found">"Datoteka ne obstaja"</string>
+  <string name="filter_by_MP4">Pokaži mape z MP4 datotekami</string>
   <string name="filter_by_duration">Po dolžini</string>
   <string name="filter_by_duration_format">%2$dm %5$2ds</string>
   <string name="filter_by_duration_max">%d min</string>
@@ -639,7 +642,8 @@ predvsem nudi Ultimate Inc.</string>
   <string name="home_tab_home">domov</string>
   <string name="home_tab_local">Moja glasba</string>
   <string name="home_tab_more_music">Več glasbe</string>
-  <string name="home_tab_online">Otkrijte</string>
+  <string name="home_tab_online">Online glasba</string>
+  <string name="home_tab_recommend">Online</string>
   <string name="home_tab_search">Išči</string>
   <string name="hot_icon_in_fast_indexer">H</string>
   <string name="hungama_batch_download_alert_summary">Samo člani PRO lahko prenesejo več pesmi. Želite pridobiti članstvo za PRO?</string>
@@ -1119,10 +1123,12 @@ predvsem nudi Ultimate Inc.</string>
   <string name="service_and_settings">Storitve in nastavitve</string>
   <string name="set_as_alarm_clock_ringtone">Alarm</string>
   <string name="service_stop">Storitev je ustavljena</string>
-  <string name="session_create_error">Strežnik pravi SESSION CREATE ERROR kôd, kontaktirajte SDK razvojne programerje!</string>
+  <string name="session_create_error">Strežnik je vrnil SESSION CREATE ERROR kodo, kontaktirajte SDK razvojne programerje!</string>
   <string name="set_album_successful">Album shranjen</string>
   <string name="set_as_ring">Nastavi kot zvonjenje</string>
-  <string name="set_id3_failed">Informacij ni mogoče shraniti</string>
+  <string name="set_online_home_subtitle">Odprite online priporočila ko se aplikacija zažene</string>
+  <string name="set_online_home_title">Pokaži online priporočila ob zagonu</string>
+  <string name="set_id3_failed">"Informacij ni mogoče shraniti"</string>
   <string name="set_id3_not_have_read_or_write_permission">"Nimate dovoljenja za urejanje te datoteke"</string>
   <string name="set_id3_not_support_format">"Ne morem urediti format te datoteke"</string>
   <string name="set_id3_successful">Informacije o skladbi shranjene</string>
@@ -1355,4 +1361,5 @@ Velikost Delta posodobitve: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_title">%1$s posodobitev!</string>
   <string name="you_can_switch_mode_in_settings">Lahko menjate način dela v nastavitvah</string>
   <string name="you_may_like">Morda vam bo všeč</string>
+  <string name="youtube_play_history">Zgodovina predvajanja</string>
 </resources>
