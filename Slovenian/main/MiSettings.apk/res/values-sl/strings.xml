@@ -129,6 +129,15 @@
   <string name="usage_beat_fans">Boljše od %s Mi Fanov</string>
   <string name="usage_continuous_days">Niz</string>
   <string name="usage_creating_weekly_report">Pripravljanje tedenskega poročila…</string>
+  <string name="usage_current_week_usage">%s povprečno zadnjih 7 dni</string>
+  <string name="usage_device_limit_app_prolong">Dodaj čas</string>
+  <string name="usage_device_limit_app_prolong_time1">Dodaj 20 minut</string>
+  <string name="usage_device_limit_app_prolong_time2">Dodaj 40 minut</string>
+  <string name="usage_device_limit_app_prolong_time3">Dodaj 60 minut</string>
+  <string name="usage_device_limit_app_prolong_time4">"Danes ne omejuj"</string>
+  <string name="usage_device_limit_notifation_summary_start">"Dosegli boste svoj limit čez %1$s"</string>
+  <string name="usage_device_limit_notifation_title">Preostalo časa danes</string>
+  <string name="usage_device_limit_time_over">"Dosegli ste današnjo omejitev (%1$s)"</string>
   <string name="usage_exit">Izhod</string>
   <string name="usage_focus_focus_premission_main_summary">Ta aplikacija mora dostopiti do podatkov vašega računa da bo zabeležila statistiko uporabe vašega načina fokusiranja.</string>
   <string name="usage_focus_focus_premission_second_summary">"Če ne daste dovoljenj ne boste mogli uporabiti vsah storitev te aplikacije; njena osnovna funkcionalnost vam pa bo na voljo. Lahko omejite dovoljenja ali prekličete avtorizacijo v nastavitvah.
@@ -159,7 +168,9 @@ Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podat
   <string name="usage_home_premission_second_summary">Za normalno delovanje mora aplikacija zbrati vaše osebne podatke. Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
   <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona. Za več podrobnosti smo na voljo na privacy@xiaomi.com."</string>
   <string name="usage_no_net_summary">Preverite omrežne nastavitve in poskusite ponovno</string>
-  <string name="usage_refresh">poskusite ponovno</string>
+  <string name="usage_reach_device_limit">"Čas je potekel! Dosegli ste svojo omejitev."</string>
+  <string name="usage_reach_device_limit_warning_text">"Dosegli ste svojo omejitev zaslona za danes"</string>
+  <string name="usage_refresh">Poskusite ponovno</string>
   <string name="usage_request_error_summary">Neznana napaka</string>
   <string name="usage_request_timeout_summary">Zahteva je potekla</string>
   <string name="usage_special_feature">Posebne funkcije</string>

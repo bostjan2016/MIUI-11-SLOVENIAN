@@ -93,6 +93,10 @@
   <string name="preference_record_desktop_indicator_summary">Pokaži modri indikator na zač. zaslonu ko snemalec dela v ozadju</string>
   <string name="preference_record_desktop_indicator_title">Indikator zač. zaslona</string>
   <string name="privacy_policy_title">Pravila o zasebnosti</string>
+  <string name="recognition_button_add_to_queue">Dodaj v čakalno vrsto</string>
+  <string name="recognition_button_cancel">Ne zdaj</string>
+  <string name="recognition_button_start">Prepoznavanje</string>
+  <string name="recognition_confirm_dialog_body">"Prepoznavanje lahko traja nekaj časa. Po koncu dobite obvestilo. Prepišem zdaj?"</string>
   <string name="recognition_error_cancel">Odpovedano</string>
   <string name="recognition_error_download_cancel">Kasneje</string>
   <string name="recognition_error_download_data_msg">Prenesite orodje za prepoznavanje da bo ta storitev na voljo. To bo porabilo okoli 20 MB mobilnih podatkov.</string>
@@ -106,7 +110,15 @@
   <string name="recognition_error_format">Ilegalni avdio format</string>
   <string name="recognition_error_internal">Interna napaka</string>
   <string name="recognition_error_stopped">Prepoznavanje ustavljeno</string>
+  <string name="recognition_error_unknown">Neznana napaka. Prijavite nam to in poskusite ponovno.</string>
+  <string name="recognition_interrupt_current_dialog_body">"Prepoznavanje lahko traja nekaj časa. Po koncu dobite obvestilo. \"%s\" se zdaj prepoznava. Dodam v vrsto?"</string>
+  <string name="recognition_notification_channel">Prepoznavanje</string>
+  <string name="recognition_notification_complete_success">Prepoznavanje \"%s\" je uspelo. Tapni za prikaz.</string>
+  <string name="recognition_notification_error">"Ne morem prepoznati \"%s\""</string>
+  <string name="recognition_notification_running">Prepoznavanje \"%s\"…</string>
   <string name="recognition_status_downloading">Prenos…</string>
+  <string name="recognition_status_init">"Priprava "</string>
+  <string name="recognition_stop_current">Ustavi tekočo nalogo</string>
   <string name="record">Snemaj</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snemanja še enkrat tapnite Nazaj</string>
   <string name="record_download">Prenesite iz Mi Clouda</string>

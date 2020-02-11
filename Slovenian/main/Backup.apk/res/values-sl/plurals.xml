@@ -48,6 +48,10 @@
          <item quantity="other">Uvožene in obnovljene stvari: %d</item>
          <item quantity="one">Uvožena in obnovljena %d stvar</item>
      </plurals>
+	 <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s var. kopij (%2$s)</item>
+        <item quantity="one">%1$s var. kopija (%2$s)</item>
+    </plurals>
      <plurals name="save_item_failed_summary_seg1">
          <item quantity="other">"Uvoženo stvari: %d"</item>
          <item quantity="one">"Uvožena %d stvar."</item>

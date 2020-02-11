@@ -4,6 +4,14 @@
 	    <item quantity="other">%d dni</item>
 	    <item quantity="one">%d dan</item>
     </plurals>
+	<plurals name="usage_remain_about_hour">
+        <item quantity="other">≈%s ur</item>
+        <item quantity="one">≈%s ura</item>
+    </plurals>
+    <plurals name="usage_remain_about_miunte">
+        <item quantity="other">≈%s min</item>
+        <item quantity="one">≈%s min</item>
+    </plurals>
     <plurals name="usage_state_device_explain_today">
         <item quantity="other">Odklenjeno: %d X</item>
         <item quantity="one">Odklenjeno: %d X</item>
@@ -65,8 +73,16 @@
         <item quantity="one">Delovnik: %d sat</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">Delovnik: %d min.</item>
+        <item quantity="other">Delovniki: %d min.</item>
         <item quantity="one">Delovnik: %d min.</item>
+    </plurals>
+	<plurals name="usage_stats_remain_hour">
+        <item quantity="other">%s ur</item>
+        <item quantity="one">%s ura</item>
+    </plurals>
+    <plurals name="usage_stats_remain_miunte">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ur"</item>

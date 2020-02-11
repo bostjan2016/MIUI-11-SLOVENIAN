@@ -271,6 +271,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
   <string name="account_sync_summary_all_on">Sinhronizacija vključena za vse stvari</string>
   <string name="account_sync_summary_some_on">Sinhronizacija vključena za %1$d od skupaj stvari: %2$d</string>
   <string name="account_sync_title">Sinhronizacija računa</string>
+  <string name="acount_data">Računi</string>
   <string name="action_drag_label_move_bottom">Premesti na dno</string>
     <string name="action_drag_label_move_down">Premakni navzdol</string>
     <string name="action_drag_label_move_top">Premakni na vrh</string>
@@ -604,6 +605,7 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="app_usage_preference">Nastavitve uporabe aplikacije</string>
   <string name="app_version">Različica</string>
   <string name="app_wifi">WiFi</string>
+  <string name="application_data">Aplikacije</string>
   <string name="application_forbid_auto_startup">Ustavi %s za zagon v ozadju</string>
   <string name="application_info_label">Podatki o aplikaciji</string>
   <string name="application_item_already_permission">Dovoljeno</string>
@@ -846,6 +848,13 @@ Višja občutljivost bo morda ovirala izvajanje potez ob robovih zaslona v aplik
     <string name="backup_data_management_title">Upravljanje računa za varnostno kopiranje</string>
     <string name="backup_data_summary">Varnostno kopiranje podatkov aplikacij, gesel za WiFi in drugih nastavitev v Googlove strežnike</string>
   <string name="backup_data_title">Varnostno kopiranje</string>
+  <string name="backup_difference_content">"Lokalne var. kopije:
+Lokalne var. kopije vsebujejo podatke aplikacij in ponavadi vsebujejo več stvari. Datoteke var. kopije se shranjujejo v MIUI-backup-AllBackup in jih je treba kopirati na računalnik po dokončanju var. kopije.
+
+Var. kopije v Cloudu:
+Rezervne kopije se shranjujejo v Xiaomi Cloudu in omogočajo brezžični dostop. Ta metoda je hitrejša in lažja od lokalnih var. kopij, ampak ne morete varnostno kopirati podatke aplikacij v Xiaomi Cloud.
+"</string>
+  <string name="backup_difference_title">4. Kako se lokalne var. kopije razlikujejo od var. kopij v Cloudu?</string>
   <string name="backup_delete">Izbriši:</string>
   <string name="backup_disabled">Varnostno kopiranje je onemogočeno</string>
   <string name="backup_empty">Ni varnostnih kopij.</string>
@@ -870,6 +879,9 @@ nastavitev in aplikacij"</string>
   <string name="backup_progress">Izdelava var. kopije…</string>
   <string name="backup_pw_cancel_button_text">Prekliči</string>
   <string name="backup_pw_set_button_text">Nastavi geslo za varnostno kopijo</string>
+  <string name="backup_restore_data_content">"Var. kopije lahko vsebujejo stike, sporočila (SMS in MMS), zgodovino klicev, dogodke v koledarju, fotografije, avdio datoteke, videoposnetke, dokumente, aplikacije, podatke aplikacij in videz zač. zaslona.
+"</string>
+  <string name="backup_restore_data_title">5. Katere stvari se lahko var. kopira ali vrne?</string>
   <string name="backup_report">Pokaži podrobnosti</string>
   <string name="backup_section_title">Var. kopija &amp; vračanje</string>
   <string name="backup_security_tips_message">Nekatere aplikacije morda ne bodo varnostno kopirane ali povrnjene.</string>
@@ -1505,8 +1517,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
     <string name="bt_hci_snoop_log">Omogoči zajem dnevnika Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Zajemanje paketov Bluetooth. (po spremembi te nastavitve preklopite Bluetooth)</string>
   <string name="bt_ldac_declaration">Če Bluetooth naprava podpira LDAC bo povezano po privzetih nastavitvah. LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. Problemi se lahko pojavijo med predvajanjem zaradi Bluetooth strojne opreme.</string>
-  <string name="bt_ldac_dialog_summary">"LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije
-To lahko izključite v [Nastavitve]"</string>
+  <string name="bt_ldac_dialog_summary">"LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. To lahko izključite v Nastavitvah"</string>
   <string name="bt_ldac_dialog_title">Trenutna naprava podpira LDAC, ki je povezan po standardnem:</string>
   <string name="bt_ldac_open_dialog_summary">LDAC ponuja visoko kvalitetno avdio izkušnjo pa tudi večjo porabo energije. Težave se lahko pojavijo v času predvajanja zaradi omejitev Bluetooth strojne opreme.</string>
   <string name="bt_ldac_open_dialog_title">Vključim LDAC?</string>
@@ -1516,8 +1527,7 @@ To lahko izključite v [Nastavitve]"</string>
   <string name="bt_ldac_remember_choice">Zapomni si izbrano</string>
   <string name="bt_ldac_settings">Nastavitve</string>
   <string name="bt_lhdc_declaration">Če Bluetooth naprava podpira LHDC bo povezana po privzetih nastavitvah. LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Zaradi omejitev Bluetooth strojne opreme lahko pride do napak..</string>
-  <string name="bt_lhdc_dialog_summary">"LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo.
-Storitev lahko izključite v nastavitvah"</string>
+  <string name="bt_lhdc_dialog_summary">"LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Storitev lahko izključite v nastavitvah"</string>
   <string name="bt_lhdc_dialog_title">Trenutna naprava podpira LHDC, ki je povezan po standardnem:</string>
   <string name="bt_lhdc_open_dialog_summary">LHDC ponuja visoko kvalitetno avdio izkušnjo, porablja pa energijo. Zaradi omejitev Bluetooth strojne opreme lahko pride do napak.</string>
   <string name="bt_lhdc_open_dialog_title">Vključim LHDC?</string>
@@ -1742,6 +1752,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="clear_activities">Počisti privzete nastavitve</string>
   <string name="clear_activities_summary">Uporabite to aplikacijo za nekatere privzete operacije</string>
   <string name="clear_adb_keys">Preklic dovoljenj za odpr. težav prek USB</string>
+  <string name="clear_all_data">Izbriši vse podatke</string>
   <string name="clear_cache_btn_text">Počisti predpomnilnik</string>
   <string name="clear_data_dlg_text">Vsi podatki te aplikacije bodo trajno izbrisani. To med drugim vključuje vse datoteke, nastavitve, račune in podatkovne zbirke.</string>
   <string name="clear_data_dlg_title">Želite izbrisati podatke aplikacije?</string>
@@ -1750,6 +1761,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="clear_failed_dlg_title">Počisti podatke</string>
     <string name="clear_instant_app_confirmation">Ali želite odstraniti to nenamestljivo aplikacijo?</string>
     <string name="clear_instant_app_data">Počisti aplikacijo</string>
+  <string name="clear_phone_data_category">Izbriši naslednje stvari</string>
   <string name="clear_text_end_icon_content_description">Počisti tekst</string>
     <string name="clear_uri_btn_text">Počisti dostop</string>
     <string name="clear_user_data_text">Počisti shrambo</string>
@@ -1792,14 +1804,16 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="cloud_restore_guide">Za obnovitev uporabniških podatkov za %s, tanite Vrni</string>
   <string name="cloud_restore_section_summary">Obnovi aplikacije, izgled začetnega zaslona in nastavitve sistema</string>
   <string name="cloud_restore_section_title">Obnovi iz Mi Clouda</string>
+  <string name="cloud_restore_section_summary_new">Napravi var. kopijo videza zač. zaslona, aplikacij, nastavitev sistema in še več</string>
   <string name="cloud_restore_title">Obnovi iz varnostne kopije</string>
   <string name="cloud_restore_window_title">Obnovi iz Mi Cloud</string>
+  <string name="cloud_restore_section_title_new">V Mi Cloudu</string>
   <string name="cloud_search">Iskanje…</string>
   <string name="cmcc_dm_settings_disable_summary">Onemogoči samod. zagon</string>
   <string name="cmcc_dm_settings_enable_summary">Omogoči samod. zagon</string>
   <string name="cmcc_dm_settings_title">Prijava naprave</string>
   <string name="cmcc_hardware_version">Verzija HW</string>
-  <string name="codec_low_latency_summary">Ponuja izkušnjo z nizko latenco za avdio/video sinkronizaciju</string>
+  <string name="codec_low_latency_summary">Zmanjšaj latenco med sinhronizacijo zvoka in videa v igri</string>
   <string name="codec_low_latency_title">Nizka latenca</string>
   <string name="collect_diagnostics_summary">Zberi diagnostične podatke za rešitev problema</string>
   <string name="collect_diagnostics_title">Zberi diagnostiko</string>
@@ -1858,6 +1872,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="color_unspecified">Privzeto</string>
   <string name="color_white">Bela</string>
   <string name="color_yellow">Rumena</string>
+  <string name="common_issue">FAQ</string>
   <string name="common_settings">Hitre nastavitve</string>
   <string name="complete_parameters">Vse specifikacije</string>
   <string name="complete_settings">Splošne nastavitve</string>
@@ -1969,6 +1984,7 @@ Storitev lahko izključite v nastavitvah"</string>
   <string name="connected_wifi">Povezan</string>
   <string name="connecting_to_vpn">Povezovanje na VPN</string>
   <string name="connection_and_sharing">Povezovanje &amp; deljenje</string>
+  <string name="contact_data">Stiki</string>
   <string name="contact_title">Stiki</string>
     <string name="content_capture">Prilagajanje uporabe podatkov aplikacij</string>
     <string name="content_capture_summary">Aplikacijam dovoli pošiljanje vsebine v sistem Android. Za več informacij se dotaknite.</string>
@@ -1988,7 +2004,7 @@ Storitev lahko izključite v nastavitvah"</string>
     <string name="convert_to_fbe_warning">"Preklop particije s podatki na šifriranje na ravni datotek.
  Opozorilo!! S tem bodo izbrisani vsi podatki.
  To opravilo je različice alfa, zato morda ne bo delovalo pravilno.
- Če želite nadaljevati, pritisnite »Izbriši in preklopi ...«."</string>
+ Če želite nadaljevati, pritisnite \"Izbriši in preklopi…\"."</string>
   <string name="convert_to_file_encryption">Preklop na šifriranje podatkov</string>
     <string name="convert_to_file_encryption_done">Šifriranje podatkov je že uveljavljeno</string>
   <string name="convert_to_file_encryption_enabled">Preklop…</string>
@@ -2237,7 +2253,10 @@ a nastavitev velja za vse uporabnike tega telefona."</string>
     <string name="data_used_template">Porabljeno: %1$s</string>
   <string name="data_warning">Opozorilo za prenos podatkov</string>
     <string name="data_warning_footnote">Preneseno količino podatkov za opozorilo in omejitev prenosa podatkov meri vaša naprava. Ti podatki se lahko razlikujejo od podatkov operaterja.</string>
-    <string name="date_and_time">Datum in ura</string>
+  <string name="datasize_decrease_content">"Podatki o stikih, sporočilih in sistemu se v procesu var. kopiranja komprimirajo, kar pomeni manjšo velikost datoteke.
+"</string>
+  <string name="datasize_decrease_title">6. Zakaj so nekatere var. kopije manjše od originalnih stvari?</string>
+  <string name="date_and_time">Datum &amp; čas</string>
   <string name="date_and_time_settings_summary">Nastavi datum, uro, časovni pas in oblike</string>
     <string name="date_and_time_settings_title">Datum in ura</string>
   <string name="date_and_time_settings_title_setup_wizard">Nastavitev datuma in ure</string>
@@ -3481,6 +3500,40 @@ Nastavitev lahko pozneje spremenite v »Nastavitve > Aplikacije in obvestila«."
     <string name="homepage_all_settings">Vse nastavitve</string>
     <string name="homepage_condition_footer_content_description">Strni</string>
     <string name="homepage_personal_settings">Predlogi</string>
+  <string name="how_backup_content">"Obstajajo 3 vrste var. kopij ki jih lahko napravite: lokalna, Cloud in USB.
+
+Lokalne var. kopije:
+Lokalne var. kopije vam omogočajo shranjevanje nastavitev sistema, računov, podatkov aplikacij in drugih stvari v zasebno datoteko v napravi (MIUI-backup-AllBackup). Var. kopijo lahko prenesete na računalnik.
+Opomba:
+Lahko uporabite Mi PC Suite za izdelavo var. kopije in povrnitev.
+
+Cloud var. kopije:
+Brezžično lahko var. kopirate nastavitve sistema, videz zač. zaslona, aplikacije in druge stvari v Mi Cloud.
+
+USB var. kopije:
+Ta metoda vam omogočajo shranjevanje nastavitev sistema, računov, podatkov aplikacij in drugih stvari v zunanjo USB napravo.
+"</string>
+  <string name="how_backup_title">1. Kako lahko var. kopiram stvari?</string>
+  <string name="how_encrypt_content">"Šifrirate lahko samo lokalne var. kopije. Obstajata dva načina za to:
+a) Odprite stran z lokalnimi var. kopijami, tapnite tipko za vklop šifriranja in se prijavite v svoj Mi Račun. Rezervne kopije bodo samodejno šifrirane. Za povrnitev se boste morali prijaviti v svoj Mi Račun.
+b) Če za izdelavo var. kopije uporabljate Mi PC Suite, tam lahko uporabite možnost šifriranja.
+
+Opomba:
+Zapomnite si geslo za šifrirane var. kopije! Ne boste mogli dešifrirati var. kopij če ga pozabite.
+"</string>
+  <string name="how_encrypt_title">3. Kako lahko šifriram svoje var. kopije?</string>
+  <string name="how_restore_backup_content">"Var. kopije lahko povrnete z pomočjo različnih metod:
+
+Lokalne var. kopije:
+Kopirajte datoteko var. kopije iz računalnika v napravo (MIUI-backup-AllBackup). Pojdite v Nastavitve &gt; Var. kopiraj in ponastavi &gt; Lokalna shramba izberite datoteko var. kopije.
+
+Cloud var. kopije:
+Prijavite se v svoj Mi Račun, pojdite v Nastavitve &gt; Var. kopiraj in ponastavi &gt; v Mi Cloudu, izberite datoteko var. kopije.
+
+USB var. kopije:
+Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite v Nastavitve &gt; Var. kopiraj in ponastavi &gt; Lokalna shramba izberite datoteko var. kopije.
+"</string>
+  <string name="how_restore_backup_title">2. Kako lahko povrnem var. kopije?</string>
   <string name="hsa_code_null">Koda za preverjanje ne sme biti prazna</string>
   <string name="hsa_input_hint">Vnesite kodo za preverjanje</string>
   <string name="hsa_input_tip">Vaš Apple ID uporablja avtorizacijo z dvema faktorjema. Vnesite kontrolno kodo.</string>
@@ -3900,7 +3953,9 @@ Nastavitev lahko pozneje spremenite v »Nastavitve > Aplikacije in obvestila«."
   <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
     <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
   <string name="local_backup_section_summary">Varnostno kopiranje nastvitev sistema, informacij računa in aplikacij</string>
-  <string name="local_backup_section_title">Lokalna shramba</string>
+  <string name="local_backup_section_summary_new">Napravite var. kopijo računa, podatkov aplikacij, nastavitev sistema in še veliko drugega</string>
+  <string name="local_backup_section_title">Lokalne var. kopije</string>
+  <string name="local_backup_section_title_new">Lokalna shramba</string>
   <string name="local_backup_window_title">Lokalna var. kopija</string>
   <string name="local_home_title">Lokalne var. kopije</string>
   <string name="local_no_backup">Ni varnostnih kopij.</string>
@@ -4329,6 +4384,7 @@ Na tej napravi je več uporabnikov.
   <string name="master_clear_short_title">Izbriši vse podatke (tovarniška ponastavitev)</string>
   <string name="master_clear_summary">Izbriše vse podatke na telefonu</string>
     <string name="master_clear_title">Izbriši vse podatke (tovarniška ponastavitev)</string>
+  <string name="master_clear_title_new">Izbriši vse podatke (tovarniška ponastavitev)</string>
   <string name="max_aspect_settings_all_app_display_loading">Samo trenutek…</string>
   <string name="max_cpu10_info">"10 jedrni "</string>
   <string name="max_cpu2_info">"2 jedrni "</string>
@@ -5314,6 +5370,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
  OTG se samodejno izključi po 10 minutah neaktivnosti."</string>
   <string name="other">Ostalo</string>
   <string name="other_advanced_settings">Dodatne nastavitve</string>
+  <string name="other_data">Ostale stvari v tej napravi</string>
   <string name="other_device_info">Ostalo</string>
   <string name="other_input_settings">Dodatne nastavitve tipkovnice</string>
   <string name="other_personal_settings">Osebne nastavitve</string>
@@ -5645,6 +5702,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="phone_info_label">Informacije o telefonu</string>
     <string name="phone_language">Jeziki</string>
   <string name="phone_language_summary"/>
+  <string name="photo_data">Fotografije in videoposnetki</string>
   <string name="phone_title">Nastavitve telefona</string>
   <string name="physical_keyboard_title">Fizična tipkovnica</string>
   <string name="pick_up_gesture_wakeup_title">Dvignite napravo da jo vključite</string>
@@ -5979,10 +6037,11 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="privacy_protection_title">Zasebnost</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="privacy_settings">Varnostno kopiraj &amp; ponastavi</string>
-  <string name="privacy_settings_title">Napravi var. kopijo &amp; ponastavi</string>
+  <string name="privacy_settings_new">Varnostno kopiraj, vrni ali ponastavi</string>
+  <string name="privacy_settings_title">Var. kopija</string>
   <string name="privacy_thumbnail_blur_progress_message">Samo trenutek…</string>
   <string name="privacy_thumbnail_blur_title">Zamegljeni pregledi aplikacij</string>
-    <string name="private_dns_help_message"><annotation id="url">Preberite več</annotation> o funkcijah zasebnega strežnika DNS</string>
+    <string name="private_dns_help_message">&lt;annotation id="url"&gt;Izvedite več&lt;/annotation&gt; o funkcijah Privat DNS</string>
     <string name="private_dns_mode_off">Izklopljeno</string>
     <string name="private_dns_mode_opportunistic">Samodejno</string>
     <string name="private_dns_mode_provider">Ime gostitelja pri ponudniku zasebnega strežnika DNS</string>
@@ -6262,6 +6321,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="reset_second_space_passwd_detail">Vnesite geslo Mi Računa, ki se uporablja v Prvem prostoru</string>
     <string name="reset_shortcut_manager_throttling">Ponastavitev omejevanja hitrosti za ShortcutManager</string>
     <string name="reset_shortcut_manager_throttling_complete">Omejevanje hitrosti za ShortcutManager je ponastavljeno</string>
+  <string name="reset_title">Ponastavi</string>
   <string name="resetting_second_space_passwd">Ponastavitev gesla Drugega prostora</string>
   <string name="resident_timezone_summary">Druga ura</string>
   <string name="resolver_settings_label">Razvrsti</string>
@@ -6569,6 +6629,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screenshot_three_gesture">Povlecite z 3 prsti istočasno za izdelavo posnetka zaslona</string>
   <string name="screenshot_three_gesture_summary">Ostali gibi z 3 prsti bodo izključeni</string>
     <string name="sd_card_settings_label">Pomnilnik USB</string>
+  <string name="sd_data">Podatki USB pomnilnika</string>
     <string name="sd_card_storage">Pomnilnik USB</string>
     <string name="sd_eject">Izpni skupno shrambo</string>
     <string name="sd_eject_summary">Izpni notranji pomnilnik USB</string>
@@ -7905,6 +7966,7 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="system_backup">Var. kopija</string>
   <string name="system_backup_info">Nastavitve sistema, začetnega zaslona itd.</string>
   <string name="system_backup_section_title">Varnostna kopija</string>
+  <string name="system_backup_section_title_new">Napravi var. kopij ali vrni</string>
     <string name="system_dashboard_summary">Jeziki, poteze, ura, varnostno kopiranje</string>
     <string name="system_default_app">(Sistemsko privzeto)</string>
   <string name="system_haptic_feedback">Haptična povratna informacija</string>
@@ -8034,6 +8096,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="timed_titlei">Časovnik %d</string>
   <string name="timer_switch_settings_title">Predvidena vključitev/izključitev</string>
   <string name="timezone_settings">Časovni pas</string>
+  <string name="tip_remove_data">Vrnitev na tovarniške nastavitve bo izbrisala te stvari iz vaše naprave</string>
   <string name="title_color_calibration">Barvna korekcija nastavljena</string>
     <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
   <string name="title_dolby_control">Dolby digital plus</string>
@@ -8042,7 +8105,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="title_font_current">Izberi pisavo</string>
   <string name="title_font_current2">Font sistema</string>
   <string name="title_font_size">Velikost pisave</string>
-  <string name="title_font_v2">Besedilo &amp; UI elementi</string>
+  <string name="title_font_v2">Besedilo &amp; elementi vmesnika</string>
   <string name="title_hdmi_color_calibration">Barvna korekcija nastavljena</string>
   <string name="title_jeejen">Jeejen začetni zaslon</string>
   <string name="title_layout_current">Velikost besedila</string>
@@ -9014,7 +9077,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="vpn_routes">Poti za posredovanje</string>
   <string name="vpn_routes_hint">npr. 10.0.0.0/8</string>
   <string name="vpn_safe">Varnost</string>
-  <string name="vpn_save">Shrani</string>
+  <string name="vpn_save">"Shrani"</string>
   <string name="vpn_save_login">Shrani podatke o računu</string>
   <string name="vpn_search_domains">Domene za iskanje DNS</string>
   <string name="vpn_server">Naslov strežnika</string>
@@ -9160,7 +9223,8 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_api_test">WiFi API</string>
     <string name="wifi_ask_disable">Aplikacija %s želi izklopiti WiFi</string>
     <string name="wifi_ask_enable">Aplikacija %s želi vklopiti WiFi</string>
-  <string name="wifi_assistant">WiFi asistent</string>
+  <string name="wifi_assist">WiFi asistent</string>
+  <string name="wifi_assistant">Samodejno izberi najboljša omrežja</string>
   <string name="wifi_assistant_auto_confirm_data_message">Ta WiFi nima dostopa do spleta. Naprava bo uporabila mobilne podatke. WiFi Asistenta lahko izključite v nastavitvah.</string>
   <string name="wifi_assistant_card_message">Samodejno se povežite z dostopnimi omrežji s pomočjo WiFi Asistenta.</string>
   <string name="wifi_assistant_confirm_always">"Ne kaži več"</string>
@@ -9421,9 +9485,14 @@ To lahko povzroči varnostno tveganje, ker bo telefon redno oddajal svoj signal,
   <string name="wifi_link_turbo">Uporabite mobilne podatke za povečanje hitrosti</string>
   <string name="wifi_link_turbo_app_settings_summary">Izberite aplikacije ki bodo uporabljale to storitev</string>
   <string name="wifi_link_turbo_app_settings_title">Izberite aplikacije</string>
+  <string name="wifi_link_turbo_customize">Prilagojene aplikacije</string>
+  <string name="wifi_link_turbo_customize_summary">Izberite aplikacije ki bodo delale z WiFi pomočnikom</string>
+  <string name="wifi_link_turbo_list">Aplikacije</string>
   <string name="wifi_link_turbo_no_app">Tu še ni aplikacij.</string>
   <string name="wifi_link_turbo_off">Izključeno</string>
   <string name="wifi_link_turbo_on">Vključeno</string>
+  <string name="wifi_link_turbo_recommendation">Priporočene aplikacije</string>
+  <string name="wifi_link_turbo_recommendation_summary">Sprejem priporočil na osnovi statistike uporabe podatkov</string>
   <string name="wifi_link_turbo_summary">Povečajte hitrost povezave za izbrane aplikacije ki uporabljajo mobilne podatke ko je WiFi povezava slaba</string>
   <string name="wifi_master_key_dialog_content_master_key">WiFi Master ključ</string>
   <string name="wifi_master_key_dialog_content_password">Geslo</string>

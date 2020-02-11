@@ -229,9 +229,37 @@ Ne menjajte ali preimenujte datotek var. kopije."</string>
   <string name="list_footer_tip_title">Nasveti:</string>
   <string name="loading_data">Nalaganje podatkov</string>
   <string name="local_app_name">Varnostno kopiraj</string>
-  <string name="local_backup_window_title">Lokalne varnostne kopije podatkov</string>
+  <string name="local_back_up_detail_description">"Opomba:
+1. Da preprečite izgubo podatkov kopirajte lokalne var. kopije na računalnik.
+2. Pred povrnitvijo na tovarniške nastavitve kopirajte lokalne var. kopije na računalnik; drugače boste izgubili izgubiti lokalne var. kopije.
+3. Kje se shranjujejo lokalne var. kopije? %1$s"</string>
+  <string name="local_backup_select_activity">Napravi var. kopijo</string>
+  <string name="local_backup_window_title">Podatki lokalne varnostne kopije</string>
+  <string name="local_button_backup_data">Napravi var. kopijo</string>
+  <string name="local_button_backup_now">Napravi var. kopijo</string>
+  <string name="local_button_restore_data">Vrni na to napravo</string>
+  <string name="local_button_restore_now">Vrni</string>
+  <string name="local_click_to_jump">Tapnite za prikaz</string>
+  <string name="local_config_off">Izključeno</string>
+  <string name="local_config_on">Vključeno</string>
   <string name="local_home_title">Lokalno varnostno kopiraj</string>
+  <string name="local_main_auto_backup_title">Samodejno napravi var. kopijo</string>
+  <string name="local_main_backup">Lokalne var. kopije</string>
+  <string name="local_main_backup_and_restore">Na tej napravi</string>
+  <string name="local_main_backup_detail_title">Nastavitve sistema, podatki računa in aplikacij</string>
+  <string name="local_main_backup_manage_null">%s</string>
+  <string name="local_main_backup_manager">Urejanje lokalnih var. kopij</string>
+  <string name="local_main_backup_manager_title">Urejanje var. kopij</string>
+  <string name="local_main_backup_settings">Nastavitve lokalne var. kopije</string>
+  <string name="local_main_backup_time">Zadnja var. kopija: %1$s</string>
+  <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
+  <string name="local_main_encrypt_backup_summary">Šifrirajte stvari za katere delate var. kopijo s pomočjo Mi Računa</string>
+  <string name="local_main_encrypt_backup_title">Šifriraj var. kopijo</string>
+  <string name="local_main_latest_backup_time_loading">Samo trenutek…</string>
   <string name="local_no_backup">Ni varnostnih kopij.</string>
+  <string name="local_no_backup_data">Ni varnostnih kopij</string>
+  <string name="local_restore_select_activity">Urejanje var. kopij</string>
+  <string name="local_restore_select_data_activity">Vrni iz var. kopije</string>
   <string name="local_restore_window_title">Lokalno obnovi</string>
   <string name="local_select_account_contact">Računi &amp; stiki</string>
   <string name="local_select_audio">Zvoki</string>
