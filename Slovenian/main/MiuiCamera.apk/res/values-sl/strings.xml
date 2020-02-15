@@ -561,6 +561,7 @@ izgledali večji na fotografijah"</string>
   <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
   <string name="network_access_user_notice_agree">Strinjam se</string>
   <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
+  <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli v kratke videoposnetke! Naša storitev se mora povezati na plet da vam ponudimo glasbo in druge stvari. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pred uporabo morate pprebrati in se strinjati z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in omogočiti aplikaciji povezavo na splet.&lt;/Data&gt;</string>
   <string name="network_access_user_notice_message_sticker">"Kamera se mora povezati na splet za ponujanje nalepk za to storitev.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_message_voice_caption">"Kamera se mora povezati na splet za storitev govor v tekst.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_title">Povezovanje na splet</string>
@@ -614,8 +615,7 @@ pritisnite sprožilec"</string>
   <string name="parameter_lens_w">WIDE (široki kot)</string>
   <string name="parameter_log_format_description">Ta format beleži videoposnetek z logaritemsko funkcijo uporabljeno na krivulji ekspozicije da se zabeleži več podrobnosti v svetlobi in sencah.</string>
   <string name="parameter_log_format_title">LOG format</string>
-  <string name="parameter_metering_description">Povprečno merjenje se ozira na vsa področja vaše slike, s ciljem enakomerno osvetljenih prizorov. Merjenje v sredinskem območju se osredotoča večinoma na sredinski del okvira in upošteva svetlost okolice, ki je primerna za zajem predmetov v središču okvirja. Točkovno merjenje pokriva območje samo na enem mestu, kar vam omogoča natančen nadzor izpostavljenosti
-.</string>
+  <string name="parameter_metering_description">Povprečno merjenje se ozira na vsa področja vaše slike, s ciljem enakomerno osvetljenih prizorov. Merjenje v sredinskem območju se osredotoča večinoma na sredinski del okvira in upošteva svetlost okolice, ki je primerna za zajem predmetov v središču okvirja. Točkovno merjenje pokriva območje samo na enem mestu, kar vam omogoča natančen nadzor izpostavljenosti.</string>
   <string name="parameter_metering_title">Načini Merjenja</string>
   <string name="parameter_peak_focus_description">"Ko ročno izostrite, uporabite žarišče, če želite rdeče poudariti območje ostrenja."</string>
   <string name="parameter_peak_focus_title">Vrh fokusa</string>
@@ -1250,6 +1250,7 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s. Se strinjate z povezavo s spletom?"</string>
   <string name="user_notice_title">Pogoji in Pravila</string>
   <string name="video_beauty_tip">Olepšanje za videoposnetke</string>
+  <string name="video_beauty_tip_beautification">Olepšanje</string>
   <string name="video_beauty_tip_filter">Filtri</string>
   <string name="video_beauty_tip_portrait_bokeh">Bokeh</string>
   <string name="video_camera_label">Videokamera</string>
@@ -1283,6 +1284,11 @@ snemanje in urejanje videoposnetkov v gibanju"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="visit_cloud_album">Obiščite Cloud album</string>
   <string name="wait">Počakaj…</string>
+  <string name="watermark_tab_city">Mesto</string>
+  <string name="watermark_tab_festival">Praznik</string>
+  <string name="watermark_tab_general">Splošno</string>
+  <string name="watermark_tab_scene">Scena</string>
+  <string name="watermark_tab_spots">Spletna stran</string>
    <string name="web_url_apk_warning">Ta aplikacija prihaja iz neznanih virov in lahko predstavlja varnostno tveganje. Nameščajte samo aplikacije iz znanih virov ki jim zaupate.</string>
   <string name="web_url_warning">Ta stran prihaja iz neznanih virov in lahko predstavlja varnostno tveganje.</string>
   <string name="website_details">Podrobnosti spletnega mesta:</string>

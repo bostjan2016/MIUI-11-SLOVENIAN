@@ -130,8 +130,4 @@
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>Registrirajte se pri mobilnem operaterju</item>
     </string-array>
-    <string-array name="wfcSpnFormats">
-        <item>%s</item>
-        <item>%s WiFi klicanje</item>
-     </string-array>
 </resources>

@@ -253,6 +253,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vaše naprave</string>
   <string name="request_permission_storage_dialog_content">Za deljenje informacij o vremenu v formatu slike</string>
   <string name="retry">Poskusi ponovno</string>
+  <string name="search_menu_title">Išči</string>
   <string name="search_weather">Vreme</string>
   <string name="set">Nastavitve</string>
   <string name="settings">Nastavitve</string>
@@ -301,6 +302,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="weather_introduce">Zmeraj z vami.</string>
   <string name="weather_permission_agree">Sprejmem</string>
   <string name="weather_service_channel_name">Storitve v ozadju</string>
+  <string name="widget_cta_not_agree">Tapnite da boste dobili informacije o vremenu</string>
   <string name="wind_direction_no_data">Veter</string>
   <string name="xiaomi_weather_description_content">Xiaomi Vreme aplikacija ponuja točne informacije o vremenski napovedi. Odstranitev vpliva na vrstico obvestil, uro vremenske napovedi delovne površine itd. Želite odstraniti komponente sistema?</string>
   <string name="xiaomi_weather_description_title">O aplikaciji</string>

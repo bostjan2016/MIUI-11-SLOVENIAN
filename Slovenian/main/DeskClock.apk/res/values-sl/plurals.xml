@@ -69,11 +69,11 @@
         <item quantity="one">%1$d sek.</item>
      </plurals>
 	 <plurals name="sleep_duration_hour">
-        <item quantity="other">%1s ur</item>
+        <item quantity="other">%1$s ur</item>
         <item quantity="one">%1$s ura</item>
     </plurals>
     <plurals name="sleep_duration_hour_avg">
-        <item quantity="other">%1s ur</item>
+        <item quantity="other">%1$s ur</item>
         <item quantity="one">%1$s ura</item>
     </plurals>
     <plurals name="sleep_duration_min">

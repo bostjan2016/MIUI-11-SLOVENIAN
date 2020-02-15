@@ -424,6 +424,8 @@
   <string name="recents_empty_message">Ni nedavnih stvari</string>
   <string name="recents_empty_message_dismissed_all">"Vse ste očistili"</string>
   <string name="recents_empty_message_multi_window">Odpiranje aplikacij iz zač. zaslona</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">"Ne morem uporabiti deljeni zaslon med predvajanjem"</string>
+  <string name="recents_task_screening">Predvajanje</string>
   <string name="recents_title_app_manager">Urejanje aplikacij</string>
   <string name="recents_title_game">Igre</string>
   <string name="recents_title_garbage_cleanup">Čistilec</string>

@@ -575,6 +575,10 @@ s številko %s"</string>
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
+  <string name="handset_text_unsupported_handset_insert">Tapnite za prikaz podrobnosti</string>
+  <string name="handset_text_usb_handset_insert">Tapnite za odpiranje dodatnih nastavitev</string>
+  <string name="handset_title_unsupported_handset_insert">"Ne morem predvajati zvok preko adapterja"</string>
+  <string name="handset_title_usb_handset_insert">Predvajanje zvoka preko USB</string>
   <string name="hardware">Pokaži virtualno tipkovnico</string>
     <string name="harmful_app_warning_open_anyway">VSEENO ODPRI</string>
     <string name="harmful_app_warning_title">Zaznana je bila škodljiva aplikacija</string>

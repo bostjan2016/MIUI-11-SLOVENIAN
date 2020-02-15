@@ -258,6 +258,7 @@
   <string name="accessibility_status_bar_headset">Slušalke so povezane</string>
   <string name="accessibility_status_bar_hotspot">Hotspot</string>
   <string name="accessibility_status_bar_no_slave_wifi">Pomožni WiFi ni povezan.</string>
+  <string name="accessibility_status_bar_micphone">Mikrofon je povezan</string>
   <string name="accessibility_status_bar_slave_wifi_four_bars">Pomožni WiFi ima štiri stolpce.</string>
   <string name="accessibility_status_bar_slave_wifi_one_bar">Pomožni WiFi ima en stolpec.</string>
   <string name="accessibility_status_bar_slave_wifi_three_bars">Pomožni WiFi ima tri stolpce.</string>
@@ -861,12 +862,16 @@ hitrost vzorčenja"</string>
   <string name="gxzw_long_press_tip">Pritisnite in podržite da boste preverili nove storitve</string>
   <string name="gxzw_press_harder">Pritisnite malo močneje</string>
   <string name="gxzw_quick_close">Zapri</string>
+  <string name="gxzw_quick_open_add_note">Dodaj beležko</string>
+  <string name="gxzw_quick_open_add_note_sub">Beležke</string>
   <string name="gxzw_quick_open_add_event">Dodajte dogodek</string>
   <string name="gxzw_quick_open_add_event_sub">koledar</string>
   <string name="gxzw_quick_open_alipay_pay">Šifra plačila</string>
   <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
   <string name="gxzw_quick_open_alipay_scan">Skener</string>
   <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
+  <string name="gxzw_quick_open_dialer">Klicanje</string>
+  <string name="gxzw_quick_open_dialer_sub">Telefon</string>
   <string name="gxzw_quick_open_qr_code">QR koda</string>
   <string name="gxzw_quick_open_qr_code_sub">Skener</string>
   <string name="gxzw_quick_open_search">Išči</string>
