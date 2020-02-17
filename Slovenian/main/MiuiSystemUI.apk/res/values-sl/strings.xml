@@ -1814,6 +1814,7 @@ Povezani ste tudi z omrežjem VPN, ki lahko nadzira vašo omrežno dejavnost."</
   <string name="screenshot_delete_dlg_title">Izbriši</string>
   <string name="screenshot_dlg_cancel">Prekliči</string>
   <string name="screenshot_dlg_delete_button">Izbriši</string>
+  <string name="screenshot_failed_in_landscape_mode">"Ne morem napraviti posnetek zaslona v načinu ležeče"</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_title">"Ne morem napraviti posnetek zaslona."</string>
     <string name="screenshot_failed_to_capture_text">"Aplikacija ali vaša organizacija ne dovoljuje posnetkov zaslona"</string>

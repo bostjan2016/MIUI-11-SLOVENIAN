@@ -29,7 +29,12 @@
   <string name="aod_lock_screen_date">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="aod_lock_screen_date_12_signature">d/M</string>
+   <string name="aod_lock_screen_date_12_smartcover">"EE
+d/M"</string>
   <string name="aod_lock_screen_date_signature">d/M</string>
+  <string name="aod_lock_screen_date_smartcover">"EE
+d/M"</string>
+  <string name="aod_lock_screen_date_smartcover_b">d/M EE</string>
   <string name="aod_mode_preview">Predogled</string>
   <string name="aod_mode_style">Stil ure in ozadja</string>
   <string name="aod_mode_style_title">Več možnosti</string>
@@ -67,6 +72,7 @@
   <string name="letter_space">Razmak med črkami</string>
   <string name="line_space">Razmak med vrsticami</string>
   <string name="mini_time">Mala ura</string>
+  <string name="minimalist_clock">Enostavna ura</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="my_style_title">Moj stil</string>
   <string name="notification_anim_pulse">Pulzno</string>

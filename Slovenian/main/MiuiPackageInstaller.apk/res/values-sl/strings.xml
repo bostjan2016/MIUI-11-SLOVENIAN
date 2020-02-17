@@ -90,12 +90,19 @@ Vsi obstoječi podatki aplikacije bodo shranjeni."</string>
   <string name="increment_install_pause_for_wifi">Čakanje na omrežje</string>
   <string name="increment_preparing">Priprava…</string>
   <string name="install">Namesti</string>
+  <string name="install_app_progress_clear_apk">Izbriši aplikacijo</string>
   <string name="install_confirm_question">Ali želite namestiti to aplikacijo?</string>
   <string name="install_confirm_question_no_perms">Ali želite namestiti to aplikacijo? Poseben dostop ni potreben.</string>
   <string name="install_confirm_question_update">Ali želite namestiti posodobitev te obstoječe aplikacije? Obstoječi podatki ne bodo izgubljeni. Posodobljena aplikacija bo imela dostop do:</string>
   <string name="install_confirm_question_update_no_perms">Ali želite namestiti posodobitev te obstoječe aplikacije? Obstoječi podatki ne bodo izgubljeni. Za namestitev ne potrebujete posebnega dostopa.</string>
   <string name="install_confirm_question_update_system">Ali želite namestiti posodobitev za to vgrajeno aplikacijo? Obstoječi podatki ne bodo izgubljeni. Posodobljena aplikacija bo imela dostop do:</string>
   <string name="install_confirm_question_update_system_no_perms">Ali želite namestiti posodobitev te vgrajene aplikacije? Obstoječi podatki ne bodo izgubljeni. Za namestitev ne potrebujete posebnega dostopa.</string>
+  <string name="install_control_cancel_install">"Ne namesti"</string>
+  <string name="install_control_continue_install">Vseeno namesti</string>
+  <string name="install_control_lite_mode_explain_des">T aplikacija je iz neznanih virov in morda ne bo delovala v Lite načinu.</string>
+  <string name="install_control_lite_mode_solution_des">"Lahko vseeno poskusite namestiti aplikacijo.
+Alternativno, lahko izključite Lite način in poskusite ponovno."</string>
+  <string name="install_control_normal_mode_explain_des">"Ne morem namestiti aplikacije zaradi zakonskih omejitev"</string>
   <string name="install_done">Aplikacija je nameščena</string>
   <string name="install_failed">Aplikacija ni bila nameščena</string>
   <string name="install_failed_blocked">Namestitev je blokirana.</string>
