@@ -41,11 +41,7 @@
     </plurals>
 	<plurals name="view_num">
         <item quantity="other">%1$d pregledov</item>
-        <item quantity="zero">%1$d pregledov</item>
         <item quantity="one">%1$d pregled</item>
-        <item quantity="two">%1$d pregleda</item>
-        <item quantity="few">%1$d pregledi</item>
-        <item quantity="many">%1$d pregledov</item>
      </plurals>		
 	 <plurals name="dialog_content_delete_image_confirm">
         <item quantity="other">Izbrišem %d fotografij?</item>
