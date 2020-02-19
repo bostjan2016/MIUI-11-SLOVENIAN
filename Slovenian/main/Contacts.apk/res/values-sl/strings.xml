@@ -1143,10 +1143,14 @@ Napravite varnostno kopijo stikov."</string>
   <string name="ret_sign">"
   "</string>
   <string name="returnCall">Povratni klic</string>
+  <string name="return_call">Tapni za vrnitev na klic</string>
+  <string name="return_call_calling">Klic poteka</string>
+  <string name="return_call_dialing">Klicanje</string>
+  <string name="return_call_incoming">Dohodni klic</string>
   <string name="ringLabelsGroup">"Melodija zvonenja"</string>
-  <string name="save_photo_progress">Shranjujem sliko...</string>
-  <string name="savingContact">Shranjujem stik...</string>
-  <string name="savingDisplayGroups">Shranjujem opcije prikaza...</string>
+  <string name="save_photo_progress">Shranjujem sliko…</string>
+  <string name="savingContact">Shranjujem stik…</string>
+  <string name="savingDisplayGroups">Shranjujem opcije prikaza…</string>
   <string name="scan">Išči</string>
   <string name="scan_business_card">Skeniraj vizitko</string>
   <string name="scan_bussiness_card_merge_tip">Konfliktni podatki so zamenjani</string>
@@ -1193,8 +1197,11 @@ Napravite varnostno kopijo stikov."</string>
   <string name="select_groups">Izberi skupine</string>
   <string name="select_none">Nič ni izbrano</string>
   <string name="select_show_contacts">Seznam stikov</string>
-  <string name="select_vcard_title">Izberi vCard datoteko</string>
-  <string name="send_contact_shortcut_todesktop_success">Dodano na začetno stran</string>
+  <string name="select_vcard_title">"Izberi vCard datoteko"</string>
+  <string name="send_contact_shortcut_todesktop_duplicate">Ta bližnjica že obstaja</string>
+  <string name="send_contact_shortcut_todesktop_failed">"Ne morem napraviti bližnjice na zač. zaslon"</string>
+  <string name="send_contact_shortcut_todesktop_overflow">"Ne morem napraviti več bližnjic na zač. zaslon"</string>
+  <string name="send_contact_shortcut_todesktop_success">Dodano na začetni zaslon</string>
   <string name="send_to_voicemail_checkbox">Pošlji klice direktno na glasovno pošto</string>
   <string name="separatorJoinAggregateAll">Vsi stiki</string>
   <string name="separatorJoinAggregateSuggestions">Predlagani stiki</string>

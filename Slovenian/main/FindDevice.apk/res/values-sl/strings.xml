@@ -82,6 +82,7 @@ Preverite pravilnost vstavljene SIM kartice (če vaša naprava to podpira) in da
 Ostali razlogi
  Prijavite se na i.mi.com in poskusite od tam odkleniti napravo"</string>
   <string name="unlock_help_title">Pomoč pri odklepanju:</string>
+  <string name="unlock_number">Koda za odklep: %s</string>
   <string name="unlock_wrong_captcha">Vnešena koda ni pravilna</string>
   <string name="unlocking">Aktiviranje…</string>
   <string name="verifing_account">Kontrola gesla…</string>

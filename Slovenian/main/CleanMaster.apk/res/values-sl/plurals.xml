@@ -40,8 +40,8 @@
         <item quantity="other">Preneslo %1$d oseb</item>
     </plurals>
 	<plurals name="view_num">
-        <item quantity="other">%1$d pregledov</item>
-        <item quantity="one">%1$d pregled</item>
+        <item quantity="other">%1$s pregledov</item>
+        <item quantity="one">%1$s pregled</item>
      </plurals>		
 	 <plurals name="dialog_content_delete_image_confirm">
         <item quantity="other">Izbrišem %d fotografij?</item>

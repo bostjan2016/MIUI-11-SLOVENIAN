@@ -960,6 +960,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="play_mode_play_all">Predvajaj vse</string>
   <string name="play_mode_shuffle_all">Naključno</string>
   <string name="play_next">Naslednja pesem</string>
+  <string name="play_setting">Predvajanje</string>
   <string name="play_video_with_traffic">NADALJUJ</string>
   <string name="play_video_with_traffic_toast">Uporabljate mobilne podatke.</string>
   <string name="playlist_empty">Ni najdenih seznamov pesmi.</string>
@@ -1180,6 +1181,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="sort_by_language">Jezik</string>
   <string name="sort_by_name">Ime</string>
   <string name="sort_by_time">Datum</string>
+  <string name="sound_fade_in_and_out_when_change_song_automatically">Poskusite bledenje zvoka med predvajanjem</string>
   <string name="source_from">Vir: %1$s</string>
   <string name="start_download_music">Nalaganje posodobitev za Glasbo…</string>
   <string name="start_shuffle">Zaženi naključno…</string>
