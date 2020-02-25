@@ -964,8 +964,6 @@ Znova poskusite čez %d s."</string>
   <string name="menu_shift_shortcut_label">Shift+</string>
   <string name="menu_space_shortcut_label">presledek</string>
   <string name="menu_sym_shortcut_label">Sym+</string>
-  <string name="miaudiovisual_notification_summary">Vključite za prikaz efektov na zakl. zaslonu</string>
-  <string name="miaudiovisual_notification_title">Avdio in vizualni efekti</string>
   <string name="midnight">polnoč</string>
     <string name="mime_type_apk">Aplikacija za Android</string>
     <string name="mime_type_audio">Zvočna datoteka</string>

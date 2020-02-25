@@ -85,7 +85,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="data_merge_dialog_alert_msg_two">Stvari iz %1$s in %2$s se shranjujejo v Mi Cloudu. Sinhroniziram in združim s stvarmi na tej napravi?</string>
   <string name="data_merge_dialog_alert_msg_two_pad">Stvari iz %1$s i %2$s se shranjujejo v Mi Cloudu. Sinhroniziram in združim s stvarmi na tej napravi?</string>
   <string name="data_merge_dialog_loading">Preverjanje podatkov…</string>
-  <string name="data_merge_dialog_title">Združi</string>
+  <string name="data_merge_dialog_title">Združi podatke</string>
   <string name="data_protection_title">Zaščita podatkov</string>
   <string name="contact">Stiki</string>
   <string name="deskclock_backup">Napravi var. kopijo ure</string>
@@ -460,6 +460,7 @@ Najdite in zaklenite napravo, če se izgubi.</string>
   <string name="micloud_setting_phrase_summary">Pogosti izrazi</string>
   <string name="micloud_setting_recorder_summary">Zvok in posnetki klicev</string>
   <string name="micloud_setting_sms_summary">SMS in MMS sporočila</string>
+  <string name="micloud_setting_sms_summary_for_google_csp">Tekstna sporočila</string>
   <string name="micloud_setting_wifi_summary">WiFi nastavitve</string>
   <string name="micloud_single_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov, da najdete svojo napravo in delite stvari s prijatelji.</string>
   <string name="micloud_space_applist_detail">Urejajte aplikacije vašega začetnega zaslona</string>

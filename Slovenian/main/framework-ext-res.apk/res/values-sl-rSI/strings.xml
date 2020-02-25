@@ -80,6 +80,10 @@
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
   <string name="global_actions_silent_mode">"Tiho"</string>
+  <string name="handset_text_unsupported_handset_insert">Tapnite za prikaz podrobnosti</string>
+  <string name="handset_text_usb_handset_insert">Tapnite za odpiranje dodatnih nastavitev</string>
+  <string name="handset_title_unsupported_handset_insert">"Ne morem predvajati zvoka preko adapterja"</string>
+  <string name="handset_title_usb_handset_insert">Predvajanje zvoka preko USB</string>
   <string name="handy_mode_enter_dlg_msg">Vstopim v Delo z eno roko?</string>
   <string name="handy_mode_enter_dlg_title">Delo z eno roko</string>
   <string name="handy_mode_summary">Da zaprete se dotaknite temnega področja zaslona</string>
@@ -111,6 +115,8 @@
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>
   <string name="mi_drop">Mi Share</string>
+  <string name="miaudiovisual_notification_summary">Vključite za prikaz efektov na zakl. zaslonu</string>
+  <string name="miaudiovisual_notification_title">Zvočni in vizualni efekti</string>
   <string name="miui">miui</string>
   <string name="miui_forbid_poweroff_when_device_locked">"Ne morem izključiti, naprava je zaklenjena."</string>
   <string name="miui_screen_ratio_hint">Težava z razmerjem zaslona</string>

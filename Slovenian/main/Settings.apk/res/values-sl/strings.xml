@@ -1138,9 +1138,9 @@ Aplikacije:
     <string name="bluetooth_ask_discovery">%1$s želi omogočiti, da bodo lahko druge naprave Bluetooth videle vaš telefon za toliko sekund: %2$d.</string>
     <string name="bluetooth_ask_discovery_no_name">Aplikacija želi omogočiti, da bodo lahko druge naprave Bluetooth videle vaš telefon za toliko sekund: %1$d.</string>
     <string name="bluetooth_ask_enablement">%1$s želi vklopiti Bluetooth</string>
-    <string name="bluetooth_ask_enablement_and_discovery">%1$s želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave Bluetooth videle vaš telefon za toliko sekund: %2$d.</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">" želi vklopiti Bluetooth in vašo napravo narediti vidno drugim napravam za %1$d sek."</string>
-    <string name="bluetooth_ask_enablement_and_discovery_no_name">Aplikacija želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave videle vaš telefon za toliko sekund: %1$d.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">%1$s želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave videle vašo napravo %2$d sek.</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">" želi vklopiti Bluetooth in vašo napravo narediti vidno drugim napravam  %1$d sek."</string>
+    <string name="bluetooth_ask_enablement_and_discovery_no_name">Aplikacija želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave videle vaš telefon za %1$d.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikacija %1$s želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave videle vaš telefon. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" želi vklopiti Bluetooth in vašo napravo narediti vidno drugim napravam. To lahko pozneje spremenite v nastavitvah Bluetootha."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Aplikacija želi vklopiti Bluetooth in omogočiti, da bodo lahko druge naprave videle vaš telefon. To lahko pozneje spremenite v nastavitvah za Bluetooth.</string>
@@ -2130,6 +2130,7 @@ To lahko izključite v Nastavitve &gt; Bluetooth &gt; Seznanjene naprave."</stri
   <string name="dark_ui_settings_dark_summary">Podprte aplikacije bodo prav tako preklopile na temno temo</string>
   <string name="dark_ui_settings_dialog_acknowledge">V redu</string>
   <string name="dark_ui_settings_light_summary">Ta nastavitev vpliva tudi na aplikacije</string>
+  <string name="dark_wallpaper_mode">Nastavite ozadje na Temni način dela</string>
   <string name="dashboard_suggestion_condition_footer_content_description">Strni</string>
   <string name="dashboard_title">Nastavitve</string>
   <string name="data_detail_description">Podrobnosti</string>
@@ -8054,6 +8055,8 @@ Googlov pristop k sinhroniziranju podatkov, s katerim lahko dostopate do stikov,
   <string name="tether_settings_title_usb_bluetooth">Deljenje povezave</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
   <string name="tether_share_qrcode_title">Deli QR kodo</string>
+  <string name="tether_use_wifi6_summary">Nekatere naprave morda ne bodo kompatibilne s standardom 802.11ax. Izključite to, če imate težave.</string>
+  <string name="tether_use_wifi6_title">Podpira standard šeste generacije</string>
     <string name="tethering_footer_info">Uporabite dostopno točko in povezavo s spletom prek mobilnega telefona, da zagotovite splet drugim napravam prek svoje mobilne podatkovne povezave.</string>
     <string name="tethering_hardware_offload">Strojno pospeševanje za spletno povezavo prek mobilnega telefona</string>
     <string name="tethering_hardware_offload_summary">Uporabi strojno pospeševanje za spletno povezavo prek mobilnega telefona, če je na voljo</string>

@@ -296,6 +296,11 @@
   <string name="current_version_phone">Telefon</string>
   <string name="custom_head_card_text">"Vedno verjamite da se bo nekaj
 lepega zgodilo"</string>
+  <string name="custom_head_weather">Vreme</string>
+  <string name="dark_mode_setting_dark">Nočni način (temno)</string>
+  <string name="dark_mode_setting_follow">Sistem</string>
+  <string name="dark_mode_setting_light">Dnevni način (svetlo)</string>
+  <string name="dark_mode_setting_title">Nočni način</string>
   <string name="custom_head_card_text_incognito">"Zdaj ste anonimni!
 Strani ki jih gledate ne bodo v zgodovini.​"</string>
   <string name="custom_head_content_pull_down_text">Potegni dol</string>
