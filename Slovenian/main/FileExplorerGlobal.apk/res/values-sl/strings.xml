@@ -423,7 +423,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="operation_deleting_message">Brisanje…</string>
     <string name="operation_edit">Spremeni</string>
     <string name="operation_favorite">Dodaj med priljubljene</string>
-    <string name="operation_hide_sys">Ne prikaži skritih datotek</string>
+    <string name="operation_hide_sys">Ne pokaži skritih datotek</string>
     <string name="operation_info">Podrobnosti</string>
     <string name="operation_language">Jezik</string>
     <string name="operation_move">Premakni</string>

@@ -4092,7 +4092,7 @@ Kopirajte datoteko var. kopije v vašo napravo (MIUI-backup-AllBackup). Pojdite 
     <string name="lock_screen_notifs_redact_work_summary">Prikaži občutljivo vsebino delovnega profila na zaklenjenem zaslonu</string>
     <string name="lock_screen_notifs_show_alerting">Prikaži samo obvestila z zvočnim opozorilom</string>
     <string name="lock_screen_notifs_show_all">Prikaži obvestila z zvočnim opozorilom in tiha obvestila</string>
-    <string name="lock_screen_notifs_show_none">Ne prikaži obvestil</string>
+    <string name="lock_screen_notifs_show_none">Ne kaži obvestil</string>
     <string name="lock_screen_notifs_title">Obvestila na zaklenjenem zaslonu</string>
     <string name="lock_screen_password_skip_title">Ne želite nastaviti gesla?</string>
     <string name="lock_screen_pattern_skip_title">Ne želite nastaviti vzorca?</string>
@@ -9951,7 +9951,7 @@ Shramba poverilnic morda ne bo omogočena"</string>
     <string name="zen_mode_block_effect_intent">Ne vklopi zaslona</string>
     <string name="zen_mode_block_effect_light">Ne pokaži utripajoče lučke</string>
     <string name="zen_mode_block_effect_list">Skrivanje s poteznega zaslona z obvestili.</string>
-    <string name="zen_mode_block_effect_peek">Ne prikaži obvestil na zaslonu</string>
+    <string name="zen_mode_block_effect_peek">Ne kaži obvestil na zaslonu</string>
     <string name="zen_mode_block_effect_sound">Izklopi zvok in vibriranje</string>
     <string name="zen_mode_block_effect_status">Skrij ikone v vrstici stanja na vrhu</string>
     <string name="zen_mode_block_effect_summary_all">Zvok, vibriranje in vizualni znaki obvestil</string>
