@@ -1159,6 +1159,7 @@ Aplikacije:
 Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_confirm_passkey_msg">Če želite seznaniti z napravo:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Prikazano mora biti to geslo:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_failed">Povezave ni bilo mogoče vzpostaviti. Poskusite znova.</string>
+  <string name="bluetooth_connect_settings">Nastavitve Bluetooth povezave</string>
   <string name="bluetooth_connect_specific_profiles_title">Poveži se z…</string>
     <string name="bluetooth_connected">Povezano %1$s</string>
     <string name="bluetooth_connected_battery_level">Povezano, raven napolnjenosti akumulatorja je %1$s %2$s</string>
@@ -1206,8 +1207,6 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
     <string name="bluetooth_disable_absolute_volume_summary">Onemogoči funkcijo absolutne glasnosti za Bluetooth, če pride do težav z glasnostjo z oddaljenimi napravami, kot je nesprejemljivo visoka glasnost ali pomanjkanje nadzora.</string>
   <string name="bluetooth_disable_inband_ringing">Onemogoči in-band zvonjenje</string>
   <string name="bluetooth_disable_inband_ringing_summary">Ne predvajaj prilagojene zvonjenja zvona za Bluetooth slušalke</string>
-  <string name="bluetooth_disable_mi_fast_connect">Onemogoči Mi Link</string>
-  <string name="bluetooth_disable_mi_fast_connect_summary">Onemogoči storitev Mi Link</string>
     <string name="bluetooth_disable_profile_message">S tem boste onemogočili:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;na napravi:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Želite onemogočiti profil?</string>
     <string name="bluetooth_disabled">Izklopljeno</string>
@@ -1220,9 +1219,10 @@ Oddajanje uporablja signale Bluetooth majhne moči."</string>
   <string name="bluetooth_disconnect_pan_user_profile">Spletni dostop prek naprave %1$s bo prekinjen.</string>
   <string name="bluetooth_disconnect_title">Želite prekiniti povezavo?</string>
   <string name="bluetooth_disconnected">Prekinjena povezava</string>
-    <string name="bluetooth_disconnecting">Prekinjanje povezave ...</string>
+    <string name="bluetooth_disconnecting">Prekinjanje povezave…</string>
     <string name="bluetooth_display_passkey_pin_msg">Če želite vzpostaviti povezavo z napravo:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>V njej vnesite:&lt;br>&lt;b>%2$s&lt;/b> in pritisnite Return ali Enter.</string>
-  <string name="bluetooth_dock_settings">Nastavitve stojala</string>
+  <string name="bluetooth_display_settings">Nastavitve Bluetooth prikaza</string>
+  <string name="bluetooth_dock_settings">Nastavitve priključne postaje</string>
   <string name="bluetooth_dock_settings_a2dp">Za glasbo in predstavnost</string>
   <string name="bluetooth_dock_settings_headset">Kot zvočnik</string>
   <string name="bluetooth_dock_settings_remember">Zapomni si nastavitve</string>
@@ -1275,6 +1275,8 @@ Možne napake:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Izberite največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_string">Največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
   <string name="bluetooth_menu_advanced">Dodatne nastavitve</string>
+  <string name="bluetooth_mi_fast_connect">Mi Link</string>
+  <string name="bluetooth_mi_fast_connect_summary">Povežite se z Bluetooth napravami v bližini</string>
     <string name="bluetooth_middle_name">Ovitek</string>
     <string name="bluetooth_name_not_set">Ime ni nastavljeno, uporablja se ime računa</string>
     <string name="bluetooth_no_devices_found">V bližini ni naprav Bluetooth.</string>

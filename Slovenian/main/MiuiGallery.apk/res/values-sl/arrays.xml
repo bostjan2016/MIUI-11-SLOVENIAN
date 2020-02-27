@@ -15,11 +15,20 @@
      <string-array name="baby_sexy">
         <item>Deček</item>
         <item>Deklica</item>
+    </string-array>
+	<string-array name="last_week_baby_title">
+        <item>Čas za igro</item>
+        <item>"Otroški vikend"</item>
+        <item>Majhno</item>
      </string-array>
 	<string-array name="last_weekend_title">
         <item>Moji vikendi</item>
         <item>Delčki življenja</item>
         <item>Vikend spomini</item>
+    </string-array>
+	<string-array name="last_year_group_people">
+        <item>Novi prijatelji in stari prijatelji</item>
+        <item>"Lanskoletna druženja"</item>
     </string-array>
 	 <string-array name="menu_copy_or_move">
         <item>Premesti</item>
@@ -47,6 +56,10 @@
         <item>Dobri časi</item>
         <item>Skladno</item>
     </string-array>	 
+<string-array name="recent_group_people">
+        <item>Skupaj</item>
+        <item>Povezave</item>
+    </string-array>	
      <string-array name="relation_with_me">
         <item>Jaz</item>
         <item>Otrok</item>
@@ -101,14 +114,18 @@
          <item>Avgust</item>
          <item>September</item>
          <item>Oktober</item>
-         <item>Novmber</item>
+         <item>November</item>
          <item>December</item>
+    </string-array>
+	<string-array name="three_month_baby_title">
+        <item>Tako hitro rastejo</item>
+        <item>"Otroške fotografije"</item>
     </string-array>
 	<string-array name="weekend_title">
          <item>Zadnji vikendi</item>
          <item>Dnevi za pomnjenje</item>
          <item>Dnevni dogodki</item>
-         <item>Navadni &amp; nenavadni</item>
+         <item>Navadno &amp; nenavadno</item>
      </string-array>
 	 <string-array name="sports_title">
         <item>Samo naprej</item>
