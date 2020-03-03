@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Odloži alarm za %d min.</item>
-        <item quantity="one">Odloži alarm za %d min.</item>
+        <item quantity="other">Odloži alarm za %d min</item>
+        <item quantity="one">Odloži alarm za %d min</item>
     </plurals>
 	<plurals name="day">
          <item quantity="other">%d dni</item>
@@ -25,15 +25,15 @@
          <item quantity="one">%1$d dan</item>
      </plurals>
      <plurals name="minute">
-         <item quantity="other">%d min.</item>
-         <item quantity="one">%d min.</item>
+         <item quantity="other">%d min</item>
+         <item quantity="one">%d min</item>
      </plurals>
 	<plurals name="second">
         <item quantity="other">%d sek.</item>
         <item quantity="one">%d sek.</item>
      </plurals>
 	<plurals name="snooze_duration_changed_info">
-        <item quantity="other">Alarm je odložen za %d min.</item>
+        <item quantity="other">Alarm je odložen za %d min</item>
         <item quantity="one">Alarm je odložen za %d minuto</item>
     </plurals>
 	<plurals name="snooze_duration_count">
@@ -45,16 +45,16 @@
         <item quantity="one">Vsako %1$s min, izkl. %2$s krat</item>
     </plurals>
 	<plurals name="snooze_duration_min">
-        <item quantity="other">Vsakih %1$s min.</item>
-        <item quantity="one">Vsako %1$s min.</item>
+        <item quantity="other">Vsakih %1$s min</item>
+        <item quantity="one">Vsako %1$s min</item>
     </plurals>
 	<plurals name="snooze_duration_summary">
         <item quantity="other">Alarm se bo izključil %2$s X (%1$s min. vsakič)</item>
         <item quantity="one">Alarm se bo izključil %2$s X (%1$s min.)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">Odloži alarm za %d min.</item>
-        <item quantity="one">Odloži alarm za %d min.</item>
+        <item quantity="other">Odloži alarm za %d min</item>
+        <item quantity="one">Odloži alarm za %d min</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ur "</item>
@@ -77,11 +77,11 @@
         <item quantity="one">%1$s ura</item>
     </plurals>
     <plurals name="sleep_duration_min">
-        <item quantity="other">%1$s min.</item>
-        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
     </plurals>
     <plurals name="sleep_duration_min_avg">
-        <item quantity="other">%1$s min.</item>
-        <item quantity="one">%1$s min.</item>
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
     </plurals>
 </resources>

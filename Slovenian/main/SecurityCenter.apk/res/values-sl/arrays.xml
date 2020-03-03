@@ -22,11 +22,6 @@
        <item>"Zadnji mesec "</item>
        <item>"Ta mesec "</item>
      </string-array>
-	 <string-array name="date_of_app">
-         <item>Včeraj (podatki)</item>
-         <item>Danes (podatki)</item>
-         <item>Ta mesec (podatki)</item>
-	 </string-array>	 
      <string-array name="date_of_app_all">
          <item>"Včeraj (Mobilni podatki) "</item>
          <item>"Danes (Mobilni podatki) "</item>
@@ -36,6 +31,11 @@
          <item>"Danes (WiFi) "</item>
 	     <item>"Zadnji mesec (WiFi) "</item>
          <item>"Ta mesec (WiFi) "</item>
+     </string-array>
+     <string-array name="date_of_app">
+         <item>Včeraj (podatki)</item>
+         <item>Danes (podatki)</item>
+         <item>Ta mesec (podatki)</item>
      </string-array>
 	 <string-array name="network_speed_update_internals">
         <item>3 sek.</item>
@@ -90,7 +90,7 @@
         <item>Čez 1 minuto</item>
         <item>Čez 5 minut</item>
         <item>Čez 10 minut</item>
-		<item>Čez 30 minut</item>
+	<item>Čez 30 minut</item>
         <item>Nikoli</item>
      </string-array>
     <string-array name="alarm_repeat_type">
@@ -164,5 +164,12 @@
         <item>Vzorec</item>
         <item>PIN</item>
         <item>Geslo</item>
+    </string-array>
+	<string-array name="app_behavior_type_menu">
+        <item>Vsi zapisi</item>
+        <item>Samod. zagon</item>
+        <item>Verižni zagon</item>
+        <item>Uporaba dovoljenj</item>
+        <item>Občutljiva opravila</item>
     </string-array>
 </resources>

@@ -2752,6 +2752,7 @@ Generirane zapise lahko vidite v aplikaciji Raziskovalec."</string>
   <string name="dump_log_title">O tej storitvi</string>
   <string name="duration_less_than_one_minute">Manj od ene minute</string>
     <string name="eab_provisioned_switch_string">EAB/prisotnost omogočena</string>
+  <string name="easymode_hint">Tapni za izklop Lite načina</string>
   <string name="edge_mode_back">Nazaj</string>
   <string name="edge_mode_back_summary">Dvakrat se dotaknite roba telefona za nazaj</string>
   <string name="edge_mode_clean">Brisanje predpomnilnika sistema</string>
@@ -5316,6 +5317,7 @@ S tem lahko aplikacija tudi vklopi ali izklopi način »ne moti« in spremeni po
   <string name="oldman_mode_confirm_will_oldman_mode_text">Telefon se bo ponovno zagnal in vključil Lite način.</string>
   <string name="oldman_mode_enabled_name">Lite način</string>
   <string name="oldman_mode_entry_name">Lite način</string>
+  <string name="oldman_mode_settings">Lite način</string>
   <string name="oldman_mode_entry_title">Lite način</string>
   <string name="oldman_mode_settings_caption">Nastavitve Lite načina</string>
   <string name="oldman_mode_summary">Uporabi poenostavljen domači zaslon in menije</string>
@@ -8931,7 +8933,7 @@ Vsak uporabnik lahko posodobi aplikacije za vse druge uporabnike."</string>
     <string name="vibrate_on_touch_summary">Odziv z vibriranjem ob dotiku, pritisku tipk in drugem</string>
   <string name="vibrate_on_touch_title">Vibriranje na dotik</string>
   <string name="vibrate_title">Vibracija</string>
-    <string name="vibrate_when_ringing_title">Vibriranje za klice</string>
+  <string name="vibrate_when_ringing_title">Vibracija tudi za klice</string>
     <string name="video_calling_settings_title">Videoklicanje prek operaterja</string>
   <string name="video_tool_box_title">Orodje za videoposnetke</string>
   <string name="view_install_log">Pokaži poročilo</string>

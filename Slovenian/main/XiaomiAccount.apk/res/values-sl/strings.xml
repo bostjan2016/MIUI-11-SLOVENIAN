@@ -214,27 +214,35 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="exit">Izhod</string>
   <string name="facebook">Facebook</string>
   <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
+  <string name="find_device">Najdi napravo</string>
   <string name="find_device_access_denied">"Ne morem dobiti statusa, dostop zavrnjen"</string>
   <string name="find_device_account_error">"Ne morem dobiti statusa zaradi napake računa"</string>
   <string name="find_device_activate_account">Aktiviraj račun</string>
   <string name="find_device_bad_response_error">"Napaka strežnika, počakajte minuto ali dve in poskusite ponovno"</string>
+  <string name="find_device_clear_data">Izbriši podatke</string>
+  <string name="find_device_close">Izključeno</string>
   <string name="find_device_display_id">Št. odklepanj: %s</string>
   <string name="find_device_error_password_not_confirmed">"Ne morem izključiti Najdi napravo. Ponovno vnesite geslo Mi Računa"</string>
   <string name="find_device_error_password_recently_changed">"Zamenjali ste geslo v zadnjih 3 dneh. Ne morem izključiti Najdi napravo iz varnostnih razlogov."</string>
   <string name="find_device_interrupted">"Opravilo je prekinjeno, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="find_device_io_error">"Ne morem se povezati na omrežje"</string>
+  <string name="find_device_location">Lociraj</string>
   <string name="find_device_locked_account_email" formatted="false">%s, povezana e-pošta:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, povezana telefonska številka:%s</string>
   <string name="find_device_message">Trenutna naprava je zaklenjena, sporočil: %1$s, kontaktni telefon: %2$s.</string>
   <string name="find_device_null_credential_error">"Ne morem dobiti informacije o napravi, kontaktirajte Xiaomi službo za pomoč uporabnikom"</string>
   <string name="find_device_operation_failed_error">Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno</string>
+  <string name="find_device_open">Vključeno</string>
   <string name="find_device_operation_failed_error_unknown">Prišlo je do napake, poskusite ponovno kasneje</string>
   <string name="find_device_owner_phone">Trenutna naprava je zaklenjena, kontaktni telefon: %1$s.</string>
+  <string name="find_device_play_sound">Predvajaj zvok</string>
   <string name="find_device_prompt_message">Trenutna naprava je zaklenjena, sporočil: %1$s.</string>
   <string name="find_device_remote_exception">RPC napaka</string>
   <string name="find_device_request_error">"Prišlo je do napake strežnika, počakajte minuto ali dve in poskusite ponovno"</string>
   <string name="find_device_request_prepare_error">"Ne morem dobiti statusa, poskusite ponovno kasneje"</string>
   <string name="find_device_unknown_error">"Ne morem pridobiti statusa naprave, počakajte minuto ali dve in poskusite ponovno"</string>
+  <string name="find_device_set_lost_model">Izgubljeni način dela</string>
+  <string name="find_device_title">Najdi napravo</string>
   <string name="first_login_time">Prvi poskus prijave: %s</string>
   <string name="for_diagnosis_usage_only">Uporablja se samo za iskanje problemov.</string>
   <string name="get_back_pwd">Ponastavitev vašega gesla</string>
@@ -548,6 +556,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_wrong_voice">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_wx_bind_account_limit">"Ne morem izdelati račun. Poskusite druge načine prijave."</string>
   <string name="passport_yes">Da</string>
+  <string name="password_toggle_content_description">Vnesite geslo</string>
   <string name="permission_group_contacts">Stiki</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>

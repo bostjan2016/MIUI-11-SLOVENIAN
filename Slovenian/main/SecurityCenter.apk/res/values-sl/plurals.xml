@@ -600,4 +600,20 @@
         <item quantity="other">%d aplik.</item>
         <item quantity="one">%d aplikacija</item>
     </plurals>
+	<plurals name="app_behavior_desc_allow">
+        <item quantity="other">Dovoljeno %3$d krat med %1$s in %2$s</item>
+        <item quantity="one">Dovoljeno %3$d krat med %1$s in %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_desc_deny">
+        <item quantity="other">Zavrnjeno %3$d krat med %1$s in %2$s</item>
+        <item quantity="one">Zavrnjeno %3$d krat med %1$s in %2$s</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_on">
+        <item quantity="other">"Obveščeni boste o občutljivih opravilih ki jih vrši %1$d aplikacij"</item>
+        <item quantity="one">"Obveščeni boste o občutljivih opravilih ki jih vrši %1$d aplikacija"</item>
+    </plurals>
+    <plurals name="app_behavior_privacy_manager_off">
+        <item quantity="other">"Ne boste obveščeni o občutljivih opravilih ki jih vrši %1$d aplikacij"</item>
+        <item quantity="one">"Ne boste obveščeni o občutljivih opravilih ki jih vrši %1$d aplikacija"</item>
+    </plurals>
 </resources>

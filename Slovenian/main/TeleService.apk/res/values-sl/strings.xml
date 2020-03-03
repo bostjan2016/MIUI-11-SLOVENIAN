@@ -784,7 +784,17 @@ Avdio"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalija (rdeče – zeleno)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalija (modro – rumeno)</string>
   <string name="daltonizer_type_overridden">Premoščeno z nastavitvijo %1$s</string>
+  <string name="data_disable_warning_no_mms">"Ne boste mogli pošiljati in prejemati MMS če izključite mobilne podatke (WCDMA/LTE). Lahko pa za to uporabite WiFi."</string>
+  <string name="data_disable_warning_with_mms">"Lahko boste pošiljali in prejemali MMS če izključite mobilne podatke (WCDMA/LTE). Za uporabo spleta se povežite na WiFi.."</string>
+  <string name="data_disable_warning_with_mms_lgu">"Lahko boste pošiljali in prejemali MMS če izključite mobilne podatke (WCDMA/LTE). Za uporabo spleta se povežite na WiFi.
+
+Izključim mobilne podatke?"</string>
+  <string name="data_enable_always_warn">Uporabim mobilne podatke?</string>
   <string name="data_enable_summary">Dovoli uporabo podatkov</string>
+  <string name="data_enable_warning">Dovoljenje za stalno uporabo mobilnih podatkov lahko povzroči dodatne stroške. Se vseeno povežem?</string>
+  <string name="data_enable_warning_lgu">"Če v vašem mobilnem planu ni drugače navedeno uporaba mobilnih podatkov lahko povzroči dodatne stroške.
+
+Vseeno uporabim mobilne podatke?"</string>
   <string name="data_enabled">Podatki omogočeni</string>
   <string name="data_plan">Plan mob. podatkov</string>
   <string name="data_usage_disable_mobile">Želite izključiti mobilne podatke?</string>

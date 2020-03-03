@@ -82,7 +82,7 @@
      </plurals>
 	  <plurals name="picker_skip_unavailable_images">
          <item quantity="other">"Preskočeno %d fotografij ki niso v napravi."</item>
-         <item quantity="one">"Preskočena fotografija koja ni v napravi."</item>
+         <item quantity="one">"Preskočena %d fotografija ki ni v napravi."</item>
      </plurals>
      <plurals name="picker_retry_image_confirm_message">
          <item quantity="other">"Prenos %1$d fotografij ni uspel, poskusim ponovno?"</item>

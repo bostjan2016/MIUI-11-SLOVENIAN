@@ -35,12 +35,17 @@
   <string name="calendar_tip">Zvoki opomnika o dogodkih delujejo za opomnike v koledarju, beležke in naloge</string>
   <string name="category_other">Ostalo</string>
   <string name="color_gamut">Razpon barv</string>
+  <string name="contact_description">Nastavite bližnjico stikov na zač. zaslon in tapnite za klicanje</string>
+  <string name="contact_title">Bližnjica stikov</string>
   <string name="contrast_ratio">Kontrast</string>
   <string name="create">Izdelaj</string>
   <string name="create_failed">"Ne morem narediti"</string>
   <string name="create_shortcut">Bližnjica zač. zaslona</string>
   <string name="created">Narejeno</string>
   <string name="created_successfully">Uspešno narejeno</string>
+  <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
+  <string name="display_title">Večje stvari</string>
+  <string name="exit_easymode">Izključi Lite način</string>
   <string name="first_unlock_time">"Prvo odklepanje: "</string>
   <string name="focus_time_exception_tip">Kaže da je zamenjan sistemski čas. Izključite način fokusiranja.</string>
   <string name="follow_sim1">Uporabi nastavitve SIM 1</string>
@@ -94,6 +99,7 @@
   <string name="sms_received_sound_title">Dohodna sporočila</string>
   <string name="srgb_color_region">sRGB</string>
   <string name="srgb_color_region_summary">Prikaži vso vsebino zaslona v sRGB razponu barv</string>
+  <string name="start_easymode">Vključi Lite način</string>
   <string name="stop_app_timer">Onemogoči čas zaslona</string>
   <string name="stop_app_timer_fail">"Čas zaslona ne more biti onemogočen"</string>
   <string name="stop_app_timer_success">Čas zaslona je onemogočen</string>
@@ -101,8 +107,11 @@
   <string name="stop_summary">Če to izključite bo izbrisana vsa statistika in podatki časa zaslona</string>
   <string name="suggestion">Povratna inf.</string>
   <string name="thememanager_not_found">"Ne morem odpreti Teme. Preverite ali je ta aplikacija nameščena."</string>
+  <string name="title_activity_easy_mode">Lite način</string>
   <string name="today_usage_title">Danes</string>
   <string name="today_use_time">Čas zaslona: %1$s</string>
+  <string name="touch_description">Optimizirane tipke in bližnjice vam bodo pomagale preprečiti slučajni dotik</string>
+  <string name="touch_title">Izboljšane kontrole dotika</string>
   <string name="trend_from_yesterday_equal">Enako kot včeraj</string>
   <string name="trend_from_yesterday_less">%1$s manj kot včeraj</string>
   <string name="trend_from_yesterday_less_simple">%1$s manj kot včeraj</string>
@@ -166,7 +175,9 @@ Aplikacija potrebuje povezavo s spletom in dostop do osebnih podatkov:"</string>
 Za normalno delovanje aplikacija potrebuje dovoljenja za zbiranje podatkov: kolikokrat ste odklenili telefon, imena aplikacij in trajanje uporabe aplikacij da pripravi podatke o času zaslona.
 Aplikacija potrebuje povezavo s spletom in dovoljenje za dostop do osebnih podatkov:"</string>
   <string name="usage_home_premission_second_summary">Za normalno delovanje mora aplikacija zbrati vaše osebne podatke. Zaščitili bomo vaše osebne podatke v skladu z zakoni, predpisi in pravili o zasebnosti.</string>
-  <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona. Za več podrobnosti smo na voljo na privacy@xiaomi.com."</string>
+  <string name="usage_home_premission_second_summary_double_link_prefix">"Zaščitili bomo vaše osebne podatke skladno z zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj ne boste mogli uporabljati te aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izklopi čas zaslona."</string>
+  <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"Pred uporabo aplikacije preberite in se strinjajte z &amp;lt;a href='%1s'&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href='%2s'&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;."</string>
+  <string name="usage_home_premission_second_summary_new">"Zaščitili bomo vaše osebne podatke v skladu z relevantnimi zakoni, predpisi in pravili o zasebnosti. Če ne daste dovoljenj za vaše osebne podatke ne boste mogli uporabljati aplikacije. Lahko prekličete avtorizacijo v Čas zaslona &gt; Nastavitve &gt; Izključi čas zaslona. Več informacij na privacy@xiaomi.com."</string>
   <string name="usage_no_net_summary">Preverite omrežne nastavitve in poskusite ponovno</string>
   <string name="usage_reach_device_limit">"Čas je potekel! Dosegli ste svojo omejitev."</string>
   <string name="usage_reach_device_limit_warning_text">"Dosegli ste svojo omejitev zaslona za danes"</string>

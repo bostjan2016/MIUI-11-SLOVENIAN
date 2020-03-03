@@ -88,6 +88,7 @@
   <string name="dialog_rating_desc_perfect">Boste ocenili Kalkulator v App trgovini?</string>
   <string name="dialog_rating_title">Ocenite našo aplikacijo</string>
   <string name="disallow">"Ne sprejemam"</string>
+  <string name="dob_selection_error">"Datum rojstva mora biti pred današnjim datumom"</string>
   <string name="eDesc">"Eulerjevo število"</string>
   <string name="email">E-pošta</string>
   <string name="error">Napaka</string>
@@ -163,6 +164,7 @@
   <string name="hint_annual_rate">Vnesite letno stopnjo</string>
   <string name="hint_enter_amount">Vnesite znesek</string>
   <string name="hint_floatwindow_alpha_guide_text">Tapnite za nastavljanje neprozornosti</string>
+  <string name="history_delete_confirmation">Izbrišem zgodovino?</string>
   <string name="home_loan">Obresti kredita</string>
   <string name="home_title_calculator">Kalkulator</string>
   <string name="house_rent">Najem</string>
@@ -199,14 +201,19 @@
   <string name="item_title_vel_conversion">Hitrost</string>
   <string name="item_title_volume_conversion">Volumen</string>
   <string name="item_title_weight_conversion">Teža</string>
+  <string name="label_about">O</string>
+  <string name="label_clear_history">Izbriši vse</string>
   <string name="label_date_difference">Razlika</string>
   <string name="label_days">Dni</string>
+  <string name="label_delete">Izbriši</string>
   <string name="label_emi">EMI</string>
   <string name="label_first_repayment">Prvi obrok</string>
   <string name="label_from_date">Od</string>
+  <string name="label_history">Zgodovina</string>
   <string name="label_interest">Obresti</string>
   <string name="label_loan_tenure">Kredit</string>
   <string name="label_months">Mesecev</string>
+  <string name="label_no_history">Tu ni ničesar</string>
   <string name="label_principal">Glavnica</string>
   <string name="label_share">Deli</string>
   <string name="label_start_date">Datum začetka</string>
