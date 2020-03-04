@@ -8,4 +8,8 @@
         <item quantity="other">Izbrano: %d</item>
         <item quantity="one">Izbrano: %d</item>
     </plurals>
+	<plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nova obvestila: %d</item>
+        <item quantity="one">%d novo obvestilo</item>
+    </plurals>
 </resources>
