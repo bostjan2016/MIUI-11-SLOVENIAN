@@ -165,7 +165,7 @@
   <string name="usage_focus_title_level5">Ostanite fokusirani</string>
   <string name="usage_home_permission_account_summary">Za prijavo v Mi račun in sinhronizacijo statistike časa zaslona</string>
   <string name="usage_home_permission_account_title">Dostop do informacij o računu</string>
-  <string name="usage_home_permission_phone_summary">Za prepoznavanje  pomočjonaprave s VAID</string>
+  <string name="usage_home_permission_phone_summary">Za prepoznavanje s pomočjo naprave z VAID</string>
   <string name="usage_home_permission_phone_title">Dostop do informacij o napravi</string>
   <string name="usage_home_premission_main_summary">"Dobrodošli v Čas zaslona! Aplikacijo lahko uporabite za nastavljanje časovnih omejitev, prikaz statistik in prehod na način fokusiranja. Aplikacija potrebuje podatke o času zaslona (npr. kolikokrat odklenete telefon in vključite zaslon in kako dolgo uporabljate aplikacije) za normalno delovanje."</string>
   <string name="usage_home_premission_main_summary_new">"Dobrodošli v Čas zaslona!

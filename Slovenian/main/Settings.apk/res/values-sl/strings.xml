@@ -2725,7 +2725,7 @@ Težavo lahko poskusite rešiti tako, da zaustavite aplikacijo %1$s.
   <string name="dual_clock">Dvojna ura</string>
   <string name="dual_clock_aod_hint">"\"Dvojna ura\" se opira na naslednje nastavitve: 1. Za izključen zaslon omogočite prikazovanje stvari v Nastavitve &gt; Zaslon; 2. Za zakl. zaslon preverite ali uporabljate privzeto al klasično temo v Nastavitve &gt; Teme; 3. Za začetni zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
   <string name="dual_clock_aod_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
-  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na: 1. Za zakl. zaslon preverite če uporabljate privzeto ali klasično temu v Nastavitve &gt; Teme; 2. Za zač. zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
+  <string name="dual_clock_hint">"\"Dvojna ura\" se opira na: 1. Za zakl. zaslon preverite če uporabljate privzeto ali klasično temo v Nastavitve &gt; Teme; 2. Za zač. zaslon preverite ali uporabljate privzeti pripomoček sistemske ure."</string>
   <string name="dual_clock_ok">Razumem</string>
   <string name="dual_clock_open_message">Dvojna ura bo prikazana na zakl. zaslonu, začetnem zaslonu in izključenem zaslonu.</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -6349,7 +6349,7 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="restore_finished">Vrnjeno</string>
   <string name="restore_is_running">Vračanje naprave</string>
   <string name="restore_launcher_layout_hit">Vračanje nastavitev zaganjalnika</string>
-  <string name="restore_oaid_content">Ponastavitev trenutne ID naprave bo napravilo novo. Ponastavim?</string>
+  <string name="restore_oaid_content">Ponastavitev trenutne ID naprave bo napravila novo. Ponastavim?</string>
   <string name="restore_oaid_positive">Ponastavi</string>
   <string name="restore_oaid_title">Ponastavitev ID naprave</string>
   <string name="restore_progress">Obnavljam...</string>

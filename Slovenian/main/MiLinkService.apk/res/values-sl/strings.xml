@@ -98,7 +98,7 @@ Povežite svoj telefon in zunanji monitor (npr. vaš TV) z istim WiFi omrežjem 
   <string name="help_page_text_53">LeTV pomoč uporabnikom: 10109000</string>
    <string name="help_page_text_55">"Če ni WiFi-ja na voljo preverite če zunanji zaslon (npr. TV) podpira storitev Miracast. Ime te storitve je različno na različnih napravah. Če želite izvedeti več glejte spodnje podatke o Miracastu na različnih napravah.
 4. V primeru drugih težav uporabite aplikacijo Povratne informacije."</string>
-  <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večktatni zaslon.</string> 
+  <string name="help_page_text_55_global">"Če se ne morete povezati na omrežje preverite ali vaš zunanji monitor podpira Miracast storitev in ali je vključena. Pri različnih modelih se to lahko imenuje brezžični zaslon, predvajanje zaslona ali večkratni zaslon.</string> 
   <string name="help_page_text_end">"Če blagovna znamka vaše naprave ni navedena tukaj, se obrnite na proizvajalca da izveste več o funkcionalnosti predvajanja."</string>
   <string name="notification_rc_desc">Najboljši TV pomočnik za prenos vaših videov, fotografij in aplikacij v XiaoMi Box (ali TV) za vaš mobilni telefon, poskusite zdaj!</string>
   <string name="notification_rc_title">XiaoMi TV pomočnik</string>

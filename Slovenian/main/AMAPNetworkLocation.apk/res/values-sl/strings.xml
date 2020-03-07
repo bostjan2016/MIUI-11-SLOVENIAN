@@ -16,7 +16,7 @@
   <string name="persmission_message7">"Da bo storitev pravilno delovala potrebuje dostop do vaše naprave. Dovoljenja lahko urejate v Nastavitvah."</string>
   <string name="persmission_message8">"Da bo storitev pravilno delovala potrebuje dostop do prostora za shranjevanje. Dovoljenja lahko urejate v Nastavitvah."</string>
   <string name="persmission_notification_text">Tapnite za odobritev</string>
-  <string name="persmission_notification_title">Lokacije omrežja potrebuje dovoljenja</string>
+  <string name="persmission_notification_title">Lokacija omrežja potrebuje dovoljenja</string>
   <string name="persmission_ok">V redu</string>
   <string name="persmission_settings">Nastavitve</string>
 </resources>

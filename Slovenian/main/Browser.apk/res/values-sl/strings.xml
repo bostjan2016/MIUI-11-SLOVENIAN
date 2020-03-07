@@ -1194,14 +1194,14 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="popup_window_attempt">Dovolim tej strani da odpre pojavno okno?</string>
   <string name="positive_confirm_message">Izključi vseeno</string>
   <string name="pref_accept_quicklink_push">Novice</string>
-  <string name="pref_accessibility_recommending_search_title">Priporočeno iskanje</string>
   <string name="pref_accessibility">Dostopnost</string>
+  <string name="pref_accessibility_recommending_search_title">Priporočeno iskanje</string>
   <string name="pref_accessibility_title">Dostopnost</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Skupne kombinacije črk se lahko v naslovni vrstici vnesejo z enim pritiskom</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hiter vnos povezave</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokada reklam</string>
-  <string name="pref_advert_null">Neoznačeno oglašavanje, lahko pritisnite nalepko na strani</string>
+  <string name="pref_advert_null">Neoznačeno oglaševanje, lahko pritisnite nalepko na strani</string>
   <string name="pref_auto_update_under_wifi">Posodobi z uporabo WiFi</string>
   <string name="pref_automatic_matching_searchengines_title">Prestavili ste na pogosto iskanje</string>
   <string name="pref_cancel_screen">Odblokiraj</string>

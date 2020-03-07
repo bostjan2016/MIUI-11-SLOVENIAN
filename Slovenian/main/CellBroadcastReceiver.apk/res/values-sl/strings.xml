@@ -292,6 +292,7 @@ Izbor"</string>
     <string name="done_text">Končano</string>
     <string name="emergency_alert">Opozorilo v sili</string>
     <string name="emergency_alert_history_title">Zgodovina nujnih opozoril</string>
+	<string name="emergency_alert_settings_title">Nastavitve nujnih obvestil</string>
     <string name="emergency_alert_settings_title_watches">Brezžična nujna opozorila</string>
     <string name="emergency_alerts_title">Opozorila</string>
     <string name="enable">Omogoči</string>
