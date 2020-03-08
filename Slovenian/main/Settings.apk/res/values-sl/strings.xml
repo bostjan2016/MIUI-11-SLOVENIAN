@@ -739,8 +739,8 @@ Približajte napravi (običajno s hrbtno stranjo) in se dotaknite zaslona. Kaj s
   <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke v vodoravnem položaju</string>
   <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipko.</string>
   <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
-  <string name="auto_dual_clock_aod_summary">Pokaži dvojno uro če se trenutni čas razlikuje od trenutnega časa</string>
-  <string name="auto_dual_clock_summary">Pokaži dvojno uro če se trenutni čas razlikuje od časa na drugi uri</string>
+  <string name="auto_dual_clock_aod_summary">Pokaži dvojno uro če se čas na vaši lokaciji razlikuje od časa na drugi uri</string>
+  <string name="auto_dual_clock_summary">Pokaži dvojno uro če se čas na vaši lokaciji razlikuje od časa na drugi uri</string>
   <string name="auto_dual_clock_title">Dvojna ura</string>
   <string name="auto_launch_disable_text">Ni privzetih nastavitev.</string>
   <string name="auto_launch_enable_text">Izbrali ste da se bo pri nekaterih dejanjih ta aplikacija samodejno zagnala.</string>

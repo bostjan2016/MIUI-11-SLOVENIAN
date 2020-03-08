@@ -139,7 +139,7 @@
   <string-array name="pref_tab_restore_array">
         <item>Vprašaj</item>
         <item>Odpri</item>
-        <item>Zapri</item>
+        <item>Ne odpri</item>
     </string-array>
 	<string-array name="quick_link_tabs">
        <item>Oznake</item>
