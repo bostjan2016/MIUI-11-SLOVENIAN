@@ -129,7 +129,7 @@
   <string name="app_permission_use_group_storage">Shramba</string>
   <string name="app_permission_use_group_storage_desc">Za iskanje in predvajanje pesmi shranjenih na naparavi</string>
   <string name="artist">Izvajalci</string>
-  <string name="artist_album">Ablum</string>
+  <string name="artist_album">Album</string>
   <string name="artist_area_all">Vsi</string>
   <string name="artist_area_china">Kitajska</string>
   <string name="artist_area_europe_usa">Europa/USA</string>
@@ -148,7 +148,7 @@
   <string name="artist_view">Izvajalec</string>
   <string name="asset_sync_alert_not_now">Ne zdaj</string>
   <string name="asset_sync_network_data_alert_message">izdelava var. kopije pesmi z uporabo mobilnih podatkov lahko povzroči dodatne stroške. Nadaljujem?</string>
-  <string name="asset_sync_network_data_alert_title">"Uporabite mobilne podatke"</string>
+  <string name="asset_sync_network_data_alert_title">"Uporabljate mobilne podatke"</string>
   <string name="asset_sync_network_unavailable_alert_message">Povežite se na splet da boste napravili var. kopijo pesmi</string>
   <string name="asset_sync_network_unavailable_alert_title">"Ne morem se povezati na omrežje"</string>
   <string name="asset_sync_power_alert_message">Priključite polnilec da napravite var. kopijo pesmi.</string>
