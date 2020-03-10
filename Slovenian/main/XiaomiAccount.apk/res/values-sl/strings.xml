@@ -118,6 +118,7 @@ Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="change_email_address">Zamenjaj naslov e-pošte</string>
   <string name="change_password">Spremeni geslo</string>
   <string name="change_phone_number">Menjava številke telefona</string>
+  <string name="character_counter_content_description">Vnešeni znaki %1$d od %2$d</string>
   <string name="checking_phone_num_availible">Preverjanje telefona…</string>
   <string name="cloud_service">Mi Cloud</string>
   <string name="collect_diagnosis_log">Zberi zapise pregleda</string>
@@ -289,6 +290,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="mipay_center">Mi Denarnica</string>
   <string name="miui_provision_find_status_text">"Ta naprava je povezana z obstoječim Mi Računom (%1$s), vnesite geslo za kontrolo naprave.
 (Št. odklepanj: %2$s)"</string>
+  <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Kaže da uporabljate privzeti prostor Mi Računa."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"V tem primeru se bodo vsi podatki sinhronizirali na vaš Drugi prostor. Da se ognete temu ne vključujte sinhronizacije z Mi Cloudom"</string>
   <string name="multi_user_not_show_sync_activity_title">"Ne vključujte sinhronizacijo z Mi Cloudom"</string>
@@ -317,7 +319,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_account_hint_text">Email/Telefonska številka/ID Mi računa</string>
   <string name="passport_account_identity_title">Potrdite svojo identiteto</string>
   <string name="passport_account_label">Mi Račun</string>
-  <string name="passport_account_name">Račun: %1$s</string>
+  <string name="passport_account_name">"Račun: %1$s"</string>
   <string name="passport_account_not_activated">Račun ni aktiviran</string>
   <string name="passport_account_not_actived">Vaš račun ni aktiviran</string>
   <string name="passport_account_notice">Račun</string>
@@ -556,7 +558,7 @@ Pošaljite to kodo našemu tehniku."</string>
   <string name="passport_wrong_voice">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_wx_bind_account_limit">"Ne morem izdelati račun. Poskusite druge načine prijave."</string>
   <string name="passport_yes">Da</string>
-  <string name="password_toggle_content_description">Vnesite geslo</string>
+  <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="permission_group_contacts">Stiki</string>
   <string name="permission_group_phone">Telefon</string>
   <string name="permission_group_sms">SMS</string>

@@ -580,6 +580,8 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Lahko izberete kvaliteto prenešene slike ali izključite samodejni prenos v nastavitvah.</string>
   <string name="downloading_title">Prenos fotografij iz Mi Clouda…</string>
+  <string name="drag_view_tip_sub_title">Pritisnite in držite album da boste zamenjali vrstni red</string>
+  <string name="drag_view_tip_title">Zamenjaj vrstni red albuma</string>
   <string name="dump_db_info">Informacije iz baze podatkov</string>
   <string name="duotone">Dvobarvno</string>
   <string name="early_bird">Earlybird</string>
@@ -790,7 +792,7 @@ za fotografije"</string>
   <string name="filter_people_sepia">Sepia</string>
   <string name="filter_people_story">Story</string>
   <string name="filter_people_tea">Čaj</string>
-  <string name="filter_portrait_hint">Color pop</string>
+  <string name="filter_portrait_hint">Fokus v barvi</string>
   <string name="filter_scene_city">Mesto</string>
   <string name="filter_scene_df">Mist</string>
   <string name="filter_scene_koizora">Amour</string>
@@ -1372,7 +1374,7 @@ za fotografije"</string>
   <string name="photo_page_save_uri_image_ok">Fotografija shranjena v Galerijo</string>
   <string name="photo_portrait_color_download_fail">"Prenos dodatka ni uspel. Povežite se na omrežje in poskusite ponovno."</string>
   <string name="photo_portrait_color_download_success">Filtri prenešeni</string>
-  <string name="photo_portrait_color_no_face">Color barva deluje samo na fotografijah z ljudmi</string>
+  <string name="photo_portrait_color_no_face">Fokus v barvi deluje samo na fotografijah z ljudmi</string>
   <string name="photo_portrait_download_sdk_without_wifi_msg">"Kaže da vaša naprava ni povezana na WiFi. Filtre lahko prenesete z uporabo mobilnih podatov (%1$dMB)."</string>
   <string name="photo_portrait_download_sdk_without_wifi_title">Prenesi filtre</string>
   <string name="photo_print_menu_loading">Nalaganje dodatka…</string>
@@ -2087,6 +2089,7 @@ za fotografije"</string>
   <string name="vlog_caption_style">Format naslova</string>
   <string name="vlog_caption_title">Zasluga</string>
   <string name="vlog_clip_cut_fail">Izseki morajo biti dolgi najmanj %1$d sek.</string>
+  <string name="vlog_clip_cut_fail_min_time">Izseki morajo biti dolgi najmanj %1$s sek.</string>
   <string name="vlog_clip_delete_dialog_btn_cancel">Prekliči</string>
   <string name="vlog_clip_delete_dialog_btn_delete">Izbriši</string>
   <string name="vlog_clip_delete_dialog_btn_msg">Izbrišem ta videoposnetek?</string>
