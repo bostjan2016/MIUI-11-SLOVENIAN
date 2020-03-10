@@ -114,6 +114,7 @@ in optimizira vaše fotografije na osnovi te informacije"</string>
   <string name="auxiliary_exposure_feedback_status">Preverjanje ekspozicije je vključeno</string>
   <string name="auxiliary_focus_peak_status">Vrh fokusiranja je vključen</string>
   <string name="back_bokeh_use_hint">"Pazite da objekt ne bo oddaljen več od 1.5 metra."</string>
+  <string name="background">Ozadje</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Vitko</string>
   <string name="beauty_body_head">Glava</string>
@@ -286,6 +287,7 @@ skenirane dokumente samodejno"</string>
   <string name="edit_skin_white">Ton</string>
   <string name="edit_slim_nose">Nos</string>
   <string name="edit_smile">Nasmeh</string>
+  <string name="emoticon">Paket nalepk</string>
   <string name="effect_backdropper_disco">Disco</string>
   <string name="effect_backdropper_gallery">Izberi lastno</string>
   <string name="effect_backdropper_space">V vesolju</string>
@@ -491,9 +493,12 @@ izgledali večji na fotografijah"</string>
   <string name="mimoji_check_face_too_far">Približajte kamero obrazu</string>
   <string name="mimoji_check_low_light">"Premračno je"</string>
   <string name="mimoji_check_multi_face">Eden po eden!</string>
-  <string name="mimoji_check_no_face">"Ne morem otkriti obraza"</string>
+  <string name="mimoji_check_no_face">"Ne morem odkriti obraza"</string>
   <string name="mimoji_check_normal">Tapni tipko sprožilca</string>
   <string name="mimoji_confirm">V redu</string>
+  <string name="mimoji_create_emoticon">Izdelajte paket nalepk</string>
+  <string name="mimoji_create_emoticon_error">"Ne morem izdelati paket nalepk"</string>
+  <string name="mimoji_create_emoticon_progress">Izdelava paketa nalepk…</string>
   <string name="mimoji_create_tips">Glejte naravnost v kamero da napravite svoj Mimoji</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Izbriši&lt;/font&gt;</string>
   <string name="mimoji_delete_dialog_title">Izbrišem Mimoji?</string>
@@ -517,6 +522,8 @@ izgledali večji na fotografijah"</string>
   <string name="mimoji_edit_cancel_alert">Spremembe bodo zavržene. Vseeno odpovem?</string>
   <string name="mimoji_edit_mimoji">Uredi Mimoji</string>
   <string name="mimoji_editor">Uredi</string>
+  <string name="mimoji_emoticon_save">Shrani paket nalepk</string>
+  <string name="mimoji_emoticon_with_jpeg_save">Shrani tudi slike</string>
   <string name="mimoji_eye">Oči</string>
   <string name="mimoji_eye_shape">Oblika oči</string>
   <string name="mimoji_eyebrow">Obrvi</string>
@@ -526,6 +533,12 @@ izgledali večji na fotografijah"</string>
   <string name="mimoji_featured_face">Obraz</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Pege</string>
+  <string name="mimoji_gif_accelerate">Hitrost</string>
+  <string name="mimoji_gif_clear_bg">Odstrani ozadje</string>
+  <string name="mimoji_gif_edit_hint">Tapnite za dodajanje teksta</string>
+  <string name="mimoji_gif_edit_title">Uredi GIF</string>
+  <string name="mimoji_gif_record_time_short">Posneti video je prekratek</string>
+  <string name="mimoji_gif_reverse">Obrni</string>
   <string name="mimoji_hairstyle">Lasje</string>
   <string name="mimoji_headwear">Klobuki</string>
   <string name="mimoji_mole">Madeži</string>
@@ -539,7 +552,9 @@ izgledali večji na fotografijah"</string>
   <string name="mimoji_recapture_alert">Vse spremembe bodo zavržene če začnete znova. Vseeno začnem?</string>
   <string name="mimoji_reset">Ponastavi</string>
   <string name="mimoji_save">Shrani</string>
+  <string name="mimoji_save_finish">Končano</string>
   <string name="mimoji_save_success">Shranjeno</string>
+  <string name="mimoji_select_number_error">Izberite najmanj 1 stvar</string>
   <string name="mimoji_selected">Izberi</string>
   <string name="mimoji_start_create">Izdelava Mimoji…</string>
   <string name="mimoji_tips">Tapnite za snemanje fotografije. Pritisnite in držite za snemanje videoposnetka.</string>
@@ -559,6 +574,7 @@ izgledali večji na fotografijah"</string>
   <string name="module_name_video">Video</string>
   <string name="moive_frame">Okvir filma</string>
   <string name="multi_window_mode_not_supported">"Kamera ne deluje v deljenem zaslonu"</string>
+  <string name="music_hint_tt">Vir storitev</string>
   <string name="network_access_user_notice_agree">Strinjam se</string>
   <string name="network_access_user_notice_message_live_video">"Kamera se mora povezati na splet za ponujanje efektov, glasbe in ostalih stvari za kratke videoposnetke.Z dotikom na \"Strinjam se\", se strinjate z Pogoji uporabe in Pravila o zasebnosti in dovolite kameri povezovanje na splet."</string>
   <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli v kratke videoposnetke! Naša storitev se mora povezati na plet da vam ponudimo glasbo in druge stvari. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pred uporabo morate pprebrati in se strinjati z &amp;lt;a href =%1$s&amp;gt;Pogoji uporabe&amp;lt;/a&amp;gt; in &amp;lt;a href =%2$s&amp;gt;Pravila o zasebnosti&amp;lt;/a&amp;gt;, in omogočiti aplikaciji povezavo na splet.&lt;/Data&gt;</string>
@@ -577,6 +593,7 @@ izgledali večji na fotografijah"</string>
   <string name="pano_dialog_prepare_preview">Priprava…</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Čakanje na zaključek prejšnje panorame</string>
+  <string name="only_mimoji_multi_window_mode_not_supported">"Ta storitev se ne može uporabiti v načinu dela z več okni"</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_file_name_prefix">PANO_</string>
   <string name="pano_how_to_use_prompt">"Za snemanje panoramske fotografije
@@ -677,6 +694,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="portrait_with_facebeauty_hint">Na voljo je opravilo olepševanja v portretnem načinu dela.</string>
   <string name="pref_advanced_functions">Dodatne nastavitve</string>
   <string name="pref_advanced_settings">Napredno</string>
+  <string name="pref_advance_settings">Dodatne nastavitve</string>
   <string name="pref_ai_detect">AI detekcija</string>
   <string name="pref_audio_focus_entry_front">Spredaj</string>
   <string name="pref_audio_focus_entry_general">Normalno</string>
@@ -1114,6 +1132,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_watermark_style_entry_timestamp">Oznaka časa</string>
   <string name="pref_watermark_style_title">Dodaj oznako časa na fotografijo</string>
   <string name="preparing_sd">Pripravljam notranji pomnilnik…</string>
+  <string name="preview_back_pressed_hint">Tapnite ponovno za vrnitev na pregled</string>
   <string name="recommend_macro_mode">Poskusite Macro način</string>
   <string name="recommend_portrait">Poskusite Portretni način</string>
   <string name="recommend_super_night">Poskusite Nočni način</string>
@@ -1200,6 +1219,13 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>
   <string name="tap_to_focus">Pritisni za izostritev</string>
+  <string name="timbre">Glas</string>
+  <string name="timbre_baby">Otrok</string>
+  <string name="timbre_gentlemen">Gospod</string>
+  <string name="timbre_girl">Dekle</string>
+  <string name="timbre_lady">Dama</string>
+  <string name="timbre_normal">Original</string>
+  <string name="timbre_robot">Robot</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">"Tega videoposnetka se ne da uporabiti za snemanje v intervalih"</string>
   <string name="times">Krat</string>
@@ -1240,6 +1266,7 @@ Način širokega kota vam pomaga kadar se ne morete premakniti dlje od scene"</s
   <string name="ultra_wide_open_tip_sat">0.6X Ultra široki kot</string>
   <string name="ultra_wide_recommend_tip_hint">Poskusite Ultra široki kot</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Poskusite 0.6X ultra širokokotni način</string>
+  <string name="unknow_error">Neznana napaka</string>
   <string name="undo">Prekliči</string>
   <string name="unit_mm">mm</string>
   <string name="user_agree">Strinjam se</string>

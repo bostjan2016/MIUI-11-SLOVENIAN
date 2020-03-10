@@ -43,6 +43,7 @@
   <string name="create_shortcut">Bližnjica zač. zaslona</string>
   <string name="created">Narejeno</string>
   <string name="created_successfully">Uspešno narejeno</string>
+  <string name="cu_confirm">Nastavi</string>
   <string name="display_description">Večje ikone, veliko besedilo, manjši vidni nered</string>
   <string name="display_title">Večje stvari</string>
   <string name="exit_easymode">Izključi Lite način</string>
@@ -100,6 +101,10 @@
   <string name="srgb_color_region">sRGB</string>
   <string name="srgb_color_region_summary">Prikaži vso vsebino zaslona v sRGB razponu barv</string>
   <string name="start_easymode">Vključi Lite način</string>
+  <string name="steady_on_screen_notification_title">Odložite telefon in se spočijte</string>
+  <string name="steady_on_screen_notify">Obvesti o neprekinjeni uporabi</string>
+  <string name="steady_on_screen_setting">Časovna omejitev za neprekinjene seje</string>
+  <string name="steady_on_screen_summary">Časovna omejitev za neprekinjene seje</string>
   <string name="stop_app_timer">Onemogoči čas zaslona</string>
   <string name="stop_app_timer_fail">"Čas zaslona ne more biti onemogočen"</string>
   <string name="stop_app_timer_success">Čas zaslona je onemogočen</string>
@@ -108,6 +113,7 @@
   <string name="suggestion">Povratna inf.</string>
   <string name="thememanager_not_found">"Ne morem odpreti Teme. Preverite ali je ta aplikacija nameščena."</string>
   <string name="title_activity_easy_mode">Lite način</string>
+  <string name="to_authorize">Dajte dovoljenja</string>
   <string name="today_usage_title">Danes</string>
   <string name="today_use_time">Čas zaslona: %1$s</string>
   <string name="touch_description">Optimizirane tipke in bližnjice vam bodo pomagale preprečiti slučajni dotik</string>

@@ -96,6 +96,14 @@
 	    <item quantity="other">%d dni</item>
 	    <item quantity="one">%d dan</item>
     </plurals>	    
+    	<plurals name="steady_on_screen_notification_summary">
+        <item quantity="other">"Napravo ste uporabljali %d minut neprekinjeno"</item>
+        <item quantity="one">"Napravo ste uporabljali %d minuto neprekinjeno"</item>
+    </plurals>
+    <plurals name="steady_on_screen_time_pick">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
     <plurals name="trend_from_last_several_day_equal">
         <item quantity="other">Čas zaslona danes je enak vašemu %d-dnevnemu povprečju</item>
         <item quantity="one">Čas zaslona danes je enak vašemu %d-dnevnemu povprečju</item>

@@ -287,7 +287,7 @@
   
 predvsem nudi Ultimate Inc.</string>
   <string name="create_order_fail">"Ne morem naročiti, poskusite ponovno."</string>
-  <string name="create_playlist">Ustvari nov seznam predvajanja </string>
+  <string name="create_playlist">Ustvari nov seznam predvajanja</string>
   <string name="create_playlist_failure">"Ne morem izdelati seznama predvajanja"</string>
   <string name="create_playlist_input_hint">Vnesi ime seznama predvajanja</string>
   <string name="current_album">Trenutni ovitek albuma</string>

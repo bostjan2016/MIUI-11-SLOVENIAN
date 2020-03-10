@@ -1507,7 +1507,14 @@ Vsi podatki na vaši napravi se lahko izbrišejo kot tudi zaklep zaslona."</stri
   <string name="gmscore_support_service">Osnovne Google storitve</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
+  <string name="google_base_app_fail">"Ne morem prenesti. Preverite ali ima aplikacija Varnost dovoljenje za povezavo s spletom."</string>
   <string name="google_base_app_install_choice">Aplikacija potrebuje Google Service Framework aplikacijo za normalno delo, jo prenesem in namestim?</string>
+  <string name="google_base_app_installed">Uspešno nameščeno</string>
+  <string name="google_base_app_installing">Nameščanje…</string>
+  <string name="google_base_app_network_anomaly">"Ne morem se povezati na omrežje. Preverite omrežne nastavitve in poskusite ponovno."</string>
+  <string name="google_base_app_timeout">Seja je potekla. Počakajte minuto ali dve in poskusite ponovno.</string>
+  <string name="google_base_app_title">Nameščanje Googleovih storitev</string>
+  <string name="google_base_app_toast">Google Services Framework se namešča v ozadju. Počakajte minuto ali dve in poskusite ponovno.</string>
   <string name="goto_set">Nastavi</string>
   <string name="gs_advanced_setting_summary">Nastavive za posamezne igre</string>
   <string name="gs_advanced_setting_title">Dodatne nastavitve</string>
