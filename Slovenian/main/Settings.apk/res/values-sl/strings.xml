@@ -350,6 +350,7 @@ Povečava ni mogoča na tipkovnici in v vrstici za krmarjenje."</string>
     <string name="advanced_security_title">Dodatno</string>
     <string name="advanced_settings">Dodatne nastavitve</string>
   <string name="advanced_settings_summary">Omogoči več možnosti nastavitev.</string>
+  <string name="aggregate_title">Pravila za skupinska obvestila</string>
   <string name="advanced_text_layout">Omogoči napreden izgled teksta</string>
   <string name="agps_roaming">A-GPS v gostovanju</string>
   <string name="agps_roaming_dia">"Uporaba A-GPS v gostovanju lahko bistveno poveča uporabo podatkov. Če presežete mesečno kvoto vam vaš operater to lahko zaračuna."</string>

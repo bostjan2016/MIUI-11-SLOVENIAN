@@ -1495,29 +1495,14 @@
         <item>Odstotek (v ikoni)</item>
         <item>Odstotek (zraven ikone v plošči obvestil)</item>
     </string-array>
-	<string-array name="preferred_network_mode_choices">
-        <item>GSM/WCDMA prednostno</item>
-        <item>GSM samo</item>
-        <item>WCDMA samo</item>
-        <item>GSM/WCDMA samodejno</item>
-        <item>CDMA/EvDo samodejno</item>
-        <item>CDMA w/o EvDo</item>
-        <item>EvDo samo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>Global</item>
-        <item>LTE</item>
-        <item>LTE / WCDMA</item>
-        <item>TDSCDMA samo</item>
-        <item>TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA</item>
-        <item>TDSCDMA/GSM</item>
-        <item>LTE/TDSCDMA/GSM</item>
-        <item>TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+	<string-array name="aggregate_entries">
+        <item>Priporočeno</item>
+        <item>Važno</item>
+        <item>Nevažno</item>
+    </string-array>
+    <string-array name="aggregate_summaries">
+        <item>MIUI bo odločil katera obvestila se pojavijo neposredno</item>
+        <item>Obvestila se bodo pojavila v plošči obvestil</item>
+        <item>Obvestila se bodo pojavila v zasebni mapi</item>
     </string-array>
 </resources>
