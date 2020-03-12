@@ -1334,12 +1334,14 @@
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_summaries">
         <item>Optimizirano za nizke latence</item>
+	<item>Optimizirano za nizke latence</item>
         <item>Optimizirano za kvaliteto povezave</item>
         <item>Uravnotežena kvaliteta predvajanja zvoka in povezave</item>
         <item>Optimizirano za kvaliteto predvajanja zvoka</item>
         <item>Najboljši rezultat (prilagodljiva hitrost prenosa)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
+        <item>Optimizirano za nizke latence (192kbps)</item>
         <item>Optimizirano za nizke latence (256kbps)</item>
         <item>Optimizirano za kvaliteto povezave (400kbps)</item>
         <item>Uravnotežena kvaliteta predvajanja zvoka in povezave (500/560kbps)</item>
