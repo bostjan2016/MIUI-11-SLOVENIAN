@@ -6405,6 +6405,9 @@ Znova zaženite napravo in poskusite znova."</string>
   <string name="reverse_all">Prekliči izbrano</string>
   <string name="rgb_manage_facerecoginition_text">Urejaj podatke 2D obraza</string>
   <string name="right_function_key">Desna bližnjica</string>
+  <string name="ring_to_you">FeelRing</string>
+  <string name="ring_to_you_address">http://ringtoyou.kt.com</string>
+  <string name="ring_to_you_info">Nastavite prilagoje ton ki ga bodo drugi ljudje sliašali preden se javite</string>
     <string name="ring_volume_option_title">Glasnost zvonjenja</string>
     <string name="ring_volume_title">Glasnost zvonjenja</string>
   <string name="ringtone_mute">Tiho</string>

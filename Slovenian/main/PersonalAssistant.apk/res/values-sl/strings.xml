@@ -9,7 +9,9 @@
   <string name="Whatsapp_main">Fotografije</string>
   <string name="Whatsapp_parent">Whatsapp</string>
   <string name="access_select">Izbrano %s</string>
-  <string name="access_unselect">Preklicana izbira %s</string>
+  <string name="access_selected">Izbrano %s</string>
+  <string name="access_deselect">Preklicana izbira %s</string>
+  <string name="access_deselected">Preklicana izbira %s</string>
   <string name="accessibility_title">Asistent</string>
   <string name="accordingto_position">Prepoznaj pogosta mesta s pomočjo GPS-a</string>
   <string name="account_address">Naslovi</string>
@@ -53,6 +55,7 @@
   <string name="app_setting_privacy_policy">Pravila o zasebnosti</string>
   <string name="app_setting_search">Iskalec</string>
   <string name="app_setting_xiaoai">Mi AI tipka</string>
+  <string name="app_version_name">"Verzija aplikacije: "</string>
   <string name="apps">Predlogi aplikacij</string>
   <string name="apps_label">Aplikacije</string>
   <string name="assistant_place">Prepoznaj pogoste kraje</string>
@@ -165,6 +168,9 @@
   <string name="daily_greeting">Dnevni pozdravi</string>
   <string name="data_error">Prišlo je do napake. Počakajte minuto ali dve in ponovno poskusite.</string>
   <string name="data_error_show">Naročilo je končano, ogled podrobnosti ni mogoč</string>
+  <string name="debug_card_brief">Nastavitve in orodja za odpr. napak</string>
+  <string name="debug_card_detail">Nastavitve in orodja za odpr. napak</string>
+  <string name="debug_card_title">Odpr. napak</string>
   <string name="delete">Izbriši</string>
   <string name="detail_action_delete">Izbriši</string>
   <string name="detail_action_open_in_browser">Odpri v brskalniku</string>
