@@ -469,7 +469,7 @@ Sporočilo je nezaželjeno."</string>
   <string name="mx_btn_enable">Aktiviraj</string>
   <string name="mx_btn_enable_now">Aktiviraj</string>
   <string name="mx_count_dspt">Poslali ste %1$d SMS-ov in %2$d MMS sporočil</string>
-  <string name="mx_current_status">Na spletu</string>
+  <string name="mx_current_status">Nastavitve</string>
   <string name="mx_dspt">"Pošiljajte SMS in MMS sporočila drugim MIUI napravam brezplačno ko ste povezani na WiFi."</string>
   <string name="mx_dspt_listview">Pošiljajte sporočila drugim MIUI napravam brezplačno</string>
   <string name="mx_dspt_provision">Mi sporočila omogočajo pošiljanje sporočil drugim MIUI uporabnikom preko spleta brez stroškov. Morda bo potrebno odhodno SMS sporočilo za ponovno aktiviranje Mi sporočil. Vaš mobilni operater vam to lahko računa. Potrebna je manjša količina mobilnih podatkov. Se strinjate?</string>

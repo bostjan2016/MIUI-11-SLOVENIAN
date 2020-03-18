@@ -1276,8 +1276,8 @@ Možne napake:
     <string name="bluetooth_max_connected_audio_devices_dialog_title">Izberite največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
     <string name="bluetooth_max_connected_audio_devices_string">Največje dovoljeno število povezanih zvočnih naprav Bluetooth</string>
   <string name="bluetooth_menu_advanced">Dodatne nastavitve</string>
-  <string name="bluetooth_mi_fast_connect">Mi Link</string>
-  <string name="bluetooth_mi_fast_connect_summary">Povežite se z Bluetooth napravami v bližini</string>
+  <string name="bluetooth_mi_fast_connect">Povežite se z kompatibilnimi napravami</string>
+  <string name="bluetooth_mi_fast_connect_summary">Povežite se z bližnjimi napravami s pomočjo enostavnega postopka seznanjanja</string>
     <string name="bluetooth_middle_name">Ovitek</string>
     <string name="bluetooth_name_not_set">Ime ni nastavljeno, uporablja se ime računa</string>
     <string name="bluetooth_no_devices_found">V bližini ni naprav Bluetooth.</string>
