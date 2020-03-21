@@ -240,7 +240,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="need_reset_passwd">Ponastavi geslo Delovnega prostora pred vstopom v Delovni prostor</string>
   <string name="need_set_second_space_desc">Dodajte geslo Drugega prostora pred dodajanjem prstnega odtisa Drugega prostora</string>
   <string name="need_set_second_space_pwd_first">Nastavite najprej geslo Drugega prostora</string>
-  <string name="net_work_notice">Starševski nadzor se mora povezati na splet in dostpati do vaše lokacije. Dovolim?</string>
+  <string name="net_work_notice">Starševski nadzor se mora povezati na splet in dostopati do vaše lokacije. Dovolim?</string>
   <string name="newSecondSpace">Vključi Drugi prostor</string>
   <string name="next_setp">Naprej</string>
   <string name="no_match_repate_scanner">"Ne najdem odgovarjajočih prstnih odtisov, skeniraj ponovno"</string>

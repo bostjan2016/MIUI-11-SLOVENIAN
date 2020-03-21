@@ -226,7 +226,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_background_start_activity">Prikaz pojavnih oken ko se izvaja v ozadju</string>
   <string name="HIPS_Perm_background_start_activity_Desc">prikazati pojavna okna ko se izvaja v ozadju</string>
   <string name="HIPS_Perm_clipboard">Odložišče</string>
-  <string name="HIPS_Perm_clipboard_Desc">Dostpati in spreminjati vsebino v odložišču</string>
+  <string name="HIPS_Perm_clipboard_Desc">Dostopati in spreminjati vsebino v odložišču</string>
   <string name="HIPS_Perm_deamon_notification">Trajno obvestilo</string>
   <string name="HIPS_Perm_deamon_notification_Desc">prikazati trajna obvestila</string>
   <string name="HIPS_Perm_get_accounts">Dostop do računov na napravi</string>
