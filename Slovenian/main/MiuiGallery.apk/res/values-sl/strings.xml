@@ -580,6 +580,7 @@
   <string name="downloading_desc">%1$d/%2$d</string>
   <string name="downloading_dialog_message">Lahko izberete kvaliteto prenešene slike ali izključite samodejni prenos v nastavitvah.</string>
   <string name="downloading_title">Prenos fotografij iz Mi Clouda…</string>
+  <string name="downloading_title_file">Prenos stvari iz Mi Clouda…</string>
   <string name="drag_view_tip_sub_title">Pritisnite in držite album da boste zamenjali vrstni red</string>
   <string name="drag_view_tip_title">Zamenjaj vrstni red albuma</string>
   <string name="dump_db_info">Informacije iz baze podatkov</string>
@@ -2067,6 +2068,7 @@ za fotografije"</string>
   <string name="vlog_back_dialog_exit_cancel">Prekliči</string>
   <string name="vlog_bottom_view_back">Nazaj</string>
   <string name="vlog_bottom_view_edit">Uredi</string>
+  <string name="vlog_bottom_view_exit">Izhod</string>
   <string name="vlog_bottom_view_save">Shrani</string>
   <string name="vlog_cancel_download">Prekliči</string>
   <string name="vlog_caption">Tekst</string>

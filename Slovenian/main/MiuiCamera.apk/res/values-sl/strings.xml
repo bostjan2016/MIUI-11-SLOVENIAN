@@ -1,6 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Uvoz</string>
+    <string name="abc_action_bar_home_description">Krmarjenje na začetek</string>
+    <string name="abc_action_bar_up_description">Pomik navzgor</string>
+    <string name="abc_action_menu_overflow_description">Več možnosti</string>
+    <string name="abc_action_mode_done">Končano</string>
+    <string name="abc_activity_chooser_view_see_all">Pokaži vse</string>
+    <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
+    <string name="abc_capital_off">IZKLOP</string>
+    <string name="abc_capital_on">VKLOP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
+    <string name="abc_search_hint">Iskanje …</string>
+    <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
+    <string name="abc_searchview_description_query">Iskalna poizvedba</string>
+    <string name="abc_searchview_description_search">Iskanje</string>
+    <string name="abc_searchview_description_submit">Pošiljanje poizvedbe</string>
+    <string name="abc_searchview_description_voice">Glasovno iskanje</string>
+    <string name="abc_shareactionprovider_share_with">Skupna raba z:</string>
+    <string name="abc_shareactionprovider_share_with_application">Skupna raba z drugimi prek aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Strni</string>
   <string name="access_sd_fail">"Dostop do zunanjega pomnilnika ni mogoč."</string>
   <string name="accessibilit_camera_video_switch_picker_and_state">Sprememba kamere in videa (trenutno se uporablja %s)</string>
   <string name="accessibility_ai_scene_off">AI kamera je izključena</string>
@@ -35,6 +62,9 @@
   <string name="accessibility_closed">Izključeno</string>
   <string name="accessibility_countdown">Tipka odštevanja</string>
   <string name="accessibility_effect_mode_button">Gumb za efekte</string>
+  <string name="accessibility_eis_normal">EIS je vključena</string>
+  <string name="accessibility_eis_off">EIS je izključena</string>
+  <string name="accessibility_eis_pro">EIS Pro je vključena</string>
   <string name="accessibility_ev_control">Kompenzacija ekspozicije</string>
   <string name="accessibility_filter_close_panel">Meni filtrov je zaprt</string>
   <string name="accessibility_filter_open_panel">Meni filtrov je odprt</string>
@@ -554,7 +584,7 @@ izgledali večji na fotografijah"</string>
   <string name="mimoji_save">Shrani</string>
   <string name="mimoji_save_finish">Končano</string>
   <string name="mimoji_save_success">Shranjeno</string>
-  <string name="mimoji_select_number_error">Izberite najmanj 1 stvar</string>
+  <string name="mimoji_select_number_error">Izberite najmanj %d stvar</string>
   <string name="mimoji_selected">Izberi</string>
   <string name="mimoji_start_create">Izdelava Mimoji…</string>
   <string name="mimoji_tips">Tapnite za snemanje fotografije. Pritisnite in držite za snemanje videoposnetka.</string>
@@ -780,6 +810,10 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="pref_camera_device_watermark_title">Oznaka naprave</string>
   <string name="pref_camera_dual_enable_title">Vključi dvojno kamero</string>
   <string name="pref_camera_dual_sat_enable_title">Vključi dvojno SAT kamero</string>
+  <string name="pref_camera_eis_entry_normal">EIS</string>
+  <string name="pref_camera_eis_entry_off">Izključeno</string>
+  <string name="pref_camera_eis_entry_pro">EIS Pro</string>
+  <string name="pref_camera_eis_title">EIS</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -1154,6 +1188,7 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="scan_qrcode">Skeniraj QR kodo</string>
   <string name="screen_on_proximity_sensor_hint">Za izklop te storitve istočasno pritisnite tipke "Nazaj" in "Glasnost +".</string>
   <string name="screen_on_proximity_sensor_summary">"Ne pokrivajte področja slušalk"</string>
+  <string name="search_menu_title">Išči</string>
   <string name="secure_access_web_url">Varen dostop</string>
   <string name="see_app_details">Poglejte podrobnosti aplikacije</string>
   <string name="see_qrcode_detals">Pokaži podrobnosti QR kode</string>
@@ -1207,6 +1242,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="spaceIsLow_content">SD kartici zmanjkuje prostora. Zmanšajte kvaliteto ali izbrišite nekaj slik ali drugih datotek.</string>
   <string name="spaceIsLow_content_external_storage_priority">SD kartici zmanjkuje prostora</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB pomnilniku zmanjkuje prostora</string>
+  <string name="speech_shutter_open_tip">Recite \"Fotografiraj\" ali \"Posnemi fotografijo\" da posnamete fotografijo</string>
+  <string name="speech_shutter_tip">Sprožitev z glasom</string>
   <string name="start_capture">V redu</string>
   <string name="sticker_tab1">Sladko</string>
   <string name="sticker_tab2">Smešno</string>
@@ -1214,6 +1251,8 @@ Obdržite objekt oster medtem ko je ozadje zamegljeno."</string>
   <string name="success_message_import_from_account">Uvoženo</string>
   <string name="super_eis">Super stabilizacija</string>
   <string name="super_eis_disabled_hint">Super stabilizacija je izključena</string>
+  <string name="super_eis_pro">Steady video Pro</string>
+  <string name="super_eis_pro_disabled_hint">Steady video Pro je izključena</string>
   <string name="super_night_hint">Optimiziranje slike… Držite napravo mirno.</string>
   <string name="super_night_toast">Držite telefon mirno</string>
   <string name="tags">Oznake</string>

@@ -596,6 +596,7 @@ Avdio"</string>
   <string name="voice_dial_out">Govorni klic</string>
   <string name="voice_report_incoming_call">Klicanje</string>
   <string name="voice_report_unknown_num">Neznana številka</string>
+  <string name="volume_boost_text">Glasnost uspešno povečana</string>
     <string name="vpn_settings_not_available">Nastavitve VPN niso na voljo za tega uporabnika</string>
     <string name="wait_for_debugger">Počakaj na iskalnik napak</string>
     <string name="wait_for_debugger_summary">Aplikacija, v kateri iščete napako, pred izvajanjem čaka na povezavo z iskalnikom napak</string>
