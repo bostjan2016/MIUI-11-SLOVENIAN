@@ -68,7 +68,7 @@
   <string name="callAgain">Ponovno pokliči</string>
   <string name="callBack">"Povratni klic"</string>
   <string name="callDetailTitle">"Podrobnosti klica"</string>
-  <string name="callDetailsDurationFormat" formatted="false">%s min %s sek</string>
+  <string name="callDetailsDurationFormat">%1$s min %2$s sek</string>
   <string name="callShortcutActivityTitle">Izberi številko za klic</string>
   <string name="callrecordview_menu_identify_numbers">Prepoznaj številke telefona</string>
   <string name="call_assistant">"Pokliči %s"</string>
@@ -405,16 +405,19 @@ Vizitke stikov so izključene"</string>
   <string name="device_paired_dialog_title">Pridobivanje stikov…</string>
   <string name="device_pairing_dialog_message">Seznanjanje…</string>
   <string name="device_pairing_dialog_title">Seznani napravi</string>
-  <string name="device_transfer_by_bluetooth_message" formatted="false">"%d. Vključite \"Bluetooth\" na drugi napravi;        
+  <string name="device_transfer_by_bluetooth_message">"%1$d.  Vključite \"Bluetooth\" na drugi napravi;        
  
 - Android naprave imajo običajno nastavitev \"Bluetooth\" v nastavitvah omrežja
 
 - pri iOS napravah bi morali poiskati \"Bluetooth\" v Nastavitvah
 
-%d. pri Android napravah mora biti vključeno tudi opravilo \"Viden\";
+%2$d. pri Android napravah mora biti vključeno tudi opravilo \"Viden\";
 
-%d. Kliknite \"Naprej\" in dovolite dostop do stikov v naslednjem koraku."</string>
-  <string name="device_transfer_by_sim_message" formatted="false">"%d. Shranite stike druge naprave na SIM kartico; \n\n%d. Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stikov" -- "Uvozi iz SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
+%3$d. Kliknite \"Naprej\" in dovolite dostop do stikov v naslednjem koraku."</string>
+  <string name="device_transfer_by_sim_message">"%1$d. Shranite stike druge naprave na SIM kartico; 
+  
+  
+%2$d. Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/Izvoz stikov" -- "Uvozi iz SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
   <string name="device_version_header_bluetooth">Uvozi preko Bluetootha</string>
   <string name="device_version_header_no_bluetooth">Uvozi preko Bluetootha</string>
   <string name="dial">Kliči</string>
@@ -497,22 +500,22 @@ Vizitke stikov so izključene"</string>
 Razlog: \"%s\""</string>
   <string name="exporting_contact_failed_title">Ni bilo mogoče izvoziti</string>
   <string name="exporting_contact_list_message">"Izvažam v datoteko %s."</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s od %s stikov</string>
+  <string name="exporting_contact_list_progress">%1$s od %2$s stikov</string>
   <string name="exporting_contact_list_title">Izvoz podatkov o stiku</string>
   <string name="exporting_vcard_canceled_title">Izvoz %s preklican.</string>
   <string name="exporting_vcard_finished_title">Izvoz %s končan.</string>
   <string name="external_profile_title">Moj %1$s profil</string>
   <string name="fail_reason_could_not_initialize_exporter">"Orodja za izvoz ni možno zagnati: \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Ne morem odpreti \"%s\": %s."</string>
+  <string name="fail_reason_could_not_open_file">"Ne morem odpreti \"%1$s\": %2$s."</string>
   <string name="fail_reason_error_occurred_during_export">Napaka pri izvozu: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">Ni bilo mogoče zbrati informacij o vCard datotekah.</string>
-  <string name="fail_reason_failed_to_read_files">Ene ali več datotek ni bilo mogoče uvoziti (%s).</string>
+  <string name="fail_reason_failed_to_read_files">"Ene ali več datotek ni bilo mogoče uvoziti (%s)."</string>
   <string name="fail_reason_io_error">I/O napaka</string>
-  <string name="fail_reason_low_memory_during_import">Ni dovolj prostora. Datoteka je verjetno prevelika.</string>
-  <string name="fail_reason_no_exportable_contact">Ni stikov za izvoz.</string>
+  <string name="fail_reason_low_memory_during_import">"Ni dovolj prostora. Datoteka je verjetno prevelika."</string>
+  <string name="fail_reason_no_exportable_contact">"Ni stikov za izvoz."</string>
   <string name="fail_reason_not_supported">Ta format ni podprt.</string>
   <string name="fail_reason_too_long_filename">"Ime je predolgo (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard">V shrambi je preveč vCard datotek.</string>
+  <string name="fail_reason_too_many_vcard">"V shrambi je preveč vCard datotek."</string>
   <string name="fail_reason_unknown">Neznana napaka.</string>
   <string name="fail_reason_vcard_parse_error">Iz neznanega razloga ni bilo mogoče razčleniti vCard.</string>
   <string name="favoritesFrequentCalled">Pogosto klicani</string>
@@ -814,6 +817,14 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="miprofile_switch_on_alertdialog_title">Posodabljanje slike profila</string>
   <string name="missing_name">"(Brez imena)"</string>
   <string name="missing_required_permission">Onemogočili ste potrebno dovoljenje.</string>
+  <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Povleci za osvežitev</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshed">Osveženo</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">Osveževanje</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">Spusti za osvežitev</string>
+  <string name="miuix_sb_tracking_progress_labe_up_nodata">Ni podatkov</string>
+  <string name="miuix_sb_tracking_progress_labe_up_none">Nič</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">Osveževanje</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Ni uspelo</string>
   <string name="mobile_equipment_identification">Identifikacija mobilne opreme</string>
   <string name="more_call_logs">Poglejte podrobno zgodovino klicev na &lt;a href="https://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="move_and_resize">Premakni in spremeni velikost</string>
@@ -822,6 +833,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="multi_number_menu_group">Nova skupina</string>
   <string name="multi_number_menu_message">Sporočilo</string>
   <string name="multi_number_title">Konferenčni klic</string>
+  <string name="multi_select">Izberi</string>
   <string name="multipleContactDeleteConfirmation">Izbris tega stika bo izbrisal podatke iz večih računov.</string>
   <string name="multipleContactDeleteConfirmationDetail">Izbris %s bo izbrisal podatke iz večih računov.</string>
   <string name="my_in_call_show">Moj videoposnetek</string>
@@ -1230,9 +1242,9 @@ Napravite varnostno kopijo stikov."</string>
   <string name="simContacts_title">"Stiki SIM kartice"</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_capacity">Pokaži prostor SIM kartice</string>
-  <string name="sim_capacity_content" formatted="false">Skupaj %d | Izkoriščeno %d</string>
+  <string name="sim_capacity_content">Skupaj %1$d | Izkoriščeno %2$d</string>
   <string name="sim_card_no_free_space_message">Ni dovolj prostora</string>
-  <string name="sim_card_no_free_space_title">SIM kartica je polna</string>
+  <string name="sim_card_no_free_space_title">"SIM kartica je polna"</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznači vse</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Izberi vse</string>
   <string name="sim_contact_existing">Stik že obstaja</string>
@@ -1258,8 +1270,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="smart_group_company_label">Podjetja</string>
   <string name="smart_group_company_unavailable">Ni podatkov o podjetju</string>
   <string name="smart_group_frequency_1">V zadnjem mesecu</string>
-  <string name="smart_group_frequency_2" formatted="false">Znotraj %d do %d mesecev</string>
-  <string name="smart_group_frequency_3" formatted="false">Znotraj %d do %d mesecev</string>
+  <string name="smart_group_frequency_2">Znotraj %1$d do %2$d mesecev</string>
+  <string name="smart_group_frequency_3">Znotraj %1$d do %2$d mesecev</string>
   <string name="smart_group_frequency_4">Pred več kot %d mesecev</string>
   <string name="smart_group_frequency_label">Nedavni</string>
   <string name="smart_group_label">Pametne skupine</string>
