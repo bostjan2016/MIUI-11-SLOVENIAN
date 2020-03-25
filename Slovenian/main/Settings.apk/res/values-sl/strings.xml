@@ -9268,7 +9268,7 @@ Preglejte pravilnik o zasebnosti za tega ponudnika storitev."</string>
   <string name="wifi_assistant_explanation_message">Google WiFi Asistent odkriva omrežja ki so vam na voljo in poveže napravo s tisto ki ima največjo hitrost in varnost.</string>
   <string name="wifi_assistant_explicitly_confirm_data_message">To WiFi omrežje nima dostopa do spleta. Uporabim mobilne podatke?</string>
   <string name="wifi_assistant_explicitly_confirm_disconnect">To WiFi omrežje nima dostopa do spleta. Prekinem povezavo?</string>
-  <string name="wifi_assistant_explicitly_confirm_wifi_message">To WiFi omrežje nima dostopa do spleta. Dostupna so druga WiFi omrežja. Zamenjam omrežje?</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">To WiFi omrežje nima dostopa do spleta. Na voljo so druga WiFi omrežja. Zamenjam omrežje?</string>
   <string name="wifi_assistant_intro_setup">"Novo! WiFi Asistent"</string>
   <string name="wifi_assistant_keep_connection">Ostani povezan</string>
   <string name="wifi_assistant_no_thanks">NE, hvala</string>

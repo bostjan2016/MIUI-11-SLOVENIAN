@@ -669,7 +669,7 @@ Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="miuichromium_error_page_reason_name_not_resolved">". Ne morem najti DNS naslov za %s0"</string>
   <string name="miuichromium_error_page_reason_network_changed">" zaradi spremembe omrežja"</string>
   <string name="miuichromium_error_page_reason_proxy_error">. Nekaj ni v redu z proxy serverjem ali pa je proxy naslov napačen</string>
-  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 trenutno ni dostupen</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 trenutno ni na voljo</string>
   <string name="miuichromium_error_page_reason_timed_out">". %s0 predolgo ne reagira"</string>
   <string name="miuichromium_error_page_reason_too_many_redirects">" zato ker je %s0 preusmeril prevečkrat"</string>
   <string name="miuichromium_error_page_reason_unsafe_port">. %s0 uporablja nevarno številko porta</string>

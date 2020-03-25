@@ -214,7 +214,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_callphone_single">Aplikacija je izvršila klic</string>
   <string name="app_behavior_camera">%1s je posnel(a) fotografijo ali videoposnetek</string>
   <string name="app_behavior_camera_single">Aplikacija je posnela fotografijo ali videoposnetek</string>
-  <string name="app_behavior_clipboard">%1s je dostopal(a) do odložišča in shranjuje stvari</string>
+  <string name="app_behavior_clipboard">%1s je dostopal(a) do odložišča ali shranjuje stvari</string>
   <string name="app_behavior_clipboard_bg">%1s je dostopal(a) do odložišča in shranjuje stvari v ozadju</string>
   <string name="app_behavior_clipboard_bg_single">Aplikacija dostopa do odložišča in shranjuje stvari v ozadju</string>
   <string name="app_behavior_clipboard_single">Aplikacija dostopa do odložišča in shranjuje stvari</string>
@@ -275,6 +275,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_behavior_perm_change_tip_ask">"Vprašani boste ali je to opravilo (%1s) dovoljeno"</string>
   <string name="app_behavior_perm_change_tip_deny">To opravilo (%1s) je zdaj omejeno</string>
   <string name="app_behavior_perm_change_tip_foreground">"To opravilo (%1s) je zdaj dovoljeno dokler uporabljate aplikacijo"</string>
+  <string name="app_behavior_perm_change_tip_virtual">\"%1s\"Zamenjano v avtoriziranje praznega sporočila</string>
   <string name="app_behavior_phonenum">%1s je dostopal(a) do vaše številke telefona</string>
   <string name="app_behavior_phonenum_single">Aplikacija je dostopala do vaše številke telefona</string>
   <string name="app_behavior_phonestate">%1s dostopa do podatkov naprave</string>
@@ -3578,7 +3579,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_limit_traffic_per_day">Dnevna omejitev porabe podatkov</string>
   <string name="title_live_talk_purchase">Doplačajte zdaj</string>
   <string name="title_mifi_insurance">podaljšano jamstvo</string>
-  <string name="title_miui_update">Dostupna posodobitev</string>
+  <string name="title_miui_update">Posodobitev na voljo</string>
   <string name="title_miui_update_latest">MIUI je posodobljen</string>
   <string name="title_mms_no">Filter za sporočila je izključen</string>
   <string name="title_mms_yes">Filter za sporočila je vklopljen</string>

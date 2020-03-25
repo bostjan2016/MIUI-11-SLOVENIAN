@@ -77,7 +77,7 @@
   "title_online_artist":"Popularni izvajalci",
   "name_online_personal_radio":"FM",
   "desc_online_personal_radio":"Samo za vas",
-  "playlist_unavailable":"Na žalost, seznam ni dostupen. Da ga izbrišete, pritisnite in držite, potem pa izberite izbriši.",
+  "playlist_unavailable":"Na žalost, seznam ni na voljo. Da ga izbrišete, pritisnite in držite, potem pa izberite izbriši.",
   "page_local_setting":"Nastavitve",
   "more_online_recommend":"Več",
   "more_online_suggest":"Več",
