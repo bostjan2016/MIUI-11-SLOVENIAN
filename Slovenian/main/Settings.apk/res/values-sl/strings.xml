@@ -6505,6 +6505,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_confirm">Vključi</string>
   <string name="screen_dark_mode_advanced_title">Napredno</string>
   <string name="screen_dark_mode_select_time_error_summary">"Čas začetka in konca ne moreta biti enaka"</string>
+  <string name="screen_dark_mode_smart_dark_3rd_apps_list">Aplikacije tretjih oseb</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_summary">Nekatere aplikacije se lahko napačno prikažejo v temnem načinu. Tu lahko omejite uporabo temnega načina za posamezne aplikacije.</string>
+  <string name="screen_dark_mode_smart_dark_apps_setting_title">Posamezne aplikacije</string>
   <string name="screen_dark_mode_smart_dark_summary">Uporabite temni način tudi za aplikacije drugih proizvajalcev. Nekatere aplikacije bodo morda prikazane nepravilno.</string>
   <string name="screen_dark_mode_smart_dark_title">Global temni način</string>
   <string name="screen_dark_mode_time_title">Razpored</string>
