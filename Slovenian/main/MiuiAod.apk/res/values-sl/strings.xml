@@ -52,6 +52,7 @@ d/M"</string>
   <string name="background_icon">Ozadje</string>
   <string name="black_white_clock_panel">Ura</string>
   <string name="below_image">Dol</string>
+  <string name="btn_know">Razumem</string>
   <string name="cancel">Prekliči</string>
   <string name="character_counter_content_description">Vnešeno znakov %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračena je omejitev števila znakov %1$d od %2$d</string>
@@ -79,6 +80,8 @@ d/M"</string>
   <string name="line_space">Razmak med vrsticami</string>
   <string name="mini_time">Mala ura</string>
   <string name="minimalist_clock">Enostavna ura</string>
+  <string name="modify_scheduled_time">Zamenjaj čas</string>
+  <string name="more_online_theme">Online storitvee</string>
   <string name="mtrl_badge_numberless_content_description">Novo obvestilo</string>
   <string name="mtrl_chip_close_icon_content_description">Odstrani %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -119,12 +122,17 @@ d/M"</string>
   <string name="notification_screen_on">Osvetli zaslon</string>
   <string name="only_show_bg_description">"Ne kaži časa, datuma in drugih stvari"</string>
   <string name="only_show_bg_title">Pokaži samo ozadje</string>
+  <string name="open_aod_mode">Vključi</string>
   <string name="panel_clock">Analogna</string>
   <string name="paper_mode_end_time_title">Izključi</string>
   <string name="paper_mode_start_time_title">Vključi</string>
   <string name="password_toggle_content_description">Pokaži geslo</string>
   <string name="photo_editor_saving">Shranjevanje…</string>
   <string name="please_input_signature">Vnesite podpis</string>
+  <string name="scheduled_mode_dialog_msg">V tem obdobju se bodo stvari prikazovale na vašem Vedno na zaslonu: %s.</string>
+  <string name="scheduled_mode_dialog_msg_12">hh:mm a</string>
+  <string name="scheduled_mode_dialog_msg_24">HH:mm</string>
+  <string name="scheduled_mode_msg">Aktivno obdobje: %s</string>
   <string name="scheduled_style">Razpored</string>
   <string name="scope_des">Vsak kalejdoskop vsebuje 5 različnih vzorcev ki se bodo kazali po vrsti ko se vklopi zaslon.</string>
   <string name="scope_icon">Stil kalejdoskopa</string>
@@ -134,6 +142,8 @@ d/M"</string>
   <string name="select_notification_notify_style">Izberite efekt obvestil</string>
   <string name="show_battery">Pokaži status baterije</string>
   <string name="show_battery_status">Pokaži status baterije</string>
+  <string name="show_lunar">Pokaži Traditional Chinese koledar</string>
+  <string name="show_lunar_desc">"Dvojna ura ne podpira Traditional Chinese koledar"</string>
   <string name="show_notification">Pokaži obvestila</string>
   <string name="show_notificaton">Pokaži obvestila</string>
   <string name="shownone_arround_image">Nič</string>
@@ -153,4 +163,5 @@ d/M"</string>
   <string name="time_location">Položaj ure</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Razpored</string>
+  <string name="tip_to_open_aod_mode">Vedno na zaslonu je izključeno. Vključim?</string>
 </resources>
