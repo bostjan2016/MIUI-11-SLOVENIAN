@@ -35,10 +35,15 @@ Za dodatna vprašanja poglejte Pomoč."</string>
   <string name="help_page_text_02">Kaj je predvajanje?</string>
   <string name="help_page_text_03">"Predvajanje projecira stvari iz zaslona vašega telefona na večji zunanji monitor. Omogoča vam deljenje slik in videoposnetkov z prijatelji in družino, pa tudi da skupaj igrate igre. Poraba energije vašega telefona se pri uporabi ponavadi ne spremeni."</string>
   <string name="help_page_text_04">Kako lahko predvajam stvari na večji zaslon?</string>
-  <string name="help_page_text_05">Korak 1</string>
-  <string name="help_page_text_06">"1. Uporabite mali ročni telefon za povezavo na televizor z majhnim zaslonom, lahko vzpostavite navpično povezavo z zaslonom brez omrežnoga okolja.
-2. Nekateri Xiaomi televizorji ali televizorji drugih znamk ne podpirajo pametno pregledovanje, lahko povežete televizor (ali napravo z velikim zaslonom) z mobilnim telefonom na isto brezžično omrežje."</string>
-  <string name="help_page_text_07">3. Nekateri Xiaomi televizorji ali televizorji drugih znamk ki ne podpirajo pametno predvajanje. Če ni brezžičnega omrežja ali če se televizor in mobilni telefon ne moreta povezati na isto omrežje, vključite TV (ali napravo z velikim zaslonom) [Miracast] Mirror projection screen]. To se lahko razlikuje glede na znamko televizorja.</string>
+  <string name="help_page_text_05">1. korak: Preverite svoje naprave in omrežno okolje</string>
+  <string name="help_page_text_06">"1. Če želite oddati nekaj iz Mi telefona na Mi TV se vam ni treba povezati na splet.
+2. Če ne morete vzpostaviti povezave med obema napravama, poskusite obe povezati v isto omrežje Wi-Fi."</string>
+  <string name="help_page_text_06_global">"1. Mi televizorji, Mi Box in Mi projektorji:
+Za najboljši učinek povežite telefon in zunanji monitor z istim omrežjem Wi-Fi. Če sta povezana v različni omrežji lahko traja nekaj časa da se povežeta.
+
+Opomba: Starejši Mi televizorji morda ne podpirajo predvajanja v različnih omrežjih.
+2. Če uporabljate televizorje, televizijske sprejemnike ali projektorje drugih znamk, povežite telefon in zunanji monitor z istim omrežjem Wi-Fi.
+Če obeh naprav ni mogoče povezati v isto omrežje, vklopite Miracast na zunanjem monitorju. Poimenovanje funkcije Miracast se lahko razlikuje."</string>
   <string name="help_page_text_08">Korak 2</string>
   <string name="help_page_text_09">"Tapnite bližnjico \"Predvajaj\" na vaši mobilni napravi v plošči obvestil. Vključite WiFi in Bluetooth za stabilnejšo povezavo."</string>
   <string name="help_page_text_10">Če želite predvajati stvari iz Galerije ali Mi Video, lahko uporabite v teh aplikacijah vgrajene storitve za predvajanje.</string>

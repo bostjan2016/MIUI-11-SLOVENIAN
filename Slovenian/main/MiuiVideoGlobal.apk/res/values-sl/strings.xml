@@ -488,7 +488,7 @@ za videoposnetke"</string>
     <string name="lv_subtitle_track">Podnapisi</string>
     <string name="lv_unhide_prompt">Uspešno nastavljeno. Zdaj lahko kadarkoli vidite odkrite datoteke.</string>
     <string name="lv_updating">Posadabljanje…</string>
-    <string name="lv_use_notch">Prikaži zarezo</string>
+    <string name="lv_use_notch">Pokaži zarezo</string>
     <string name="lv_videoView_error_text_invalid_progressive_playback">Ni mogoče predvajati tega videoposnetka na tej napravi.</string>
     <string name="lv_videoView_error_text_unknown">Videoposnetka ni mogoče predvajati.</string>
     <string name="lv_videoView_error_title">Tega videa ni mogoče predvajati</string>

@@ -503,7 +503,7 @@ Izbor"</string>
     <string name="show_cmas_opt_out_title">Pokaži pogovorno okno za onemogočenje</string>
     <string name="show_hw_layers_updates">Pokaži posodobitve slojev strojne opreme</string>
     <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi</string>
-    <string name="show_hw_screen_updates">Prikaži posodob. pogleda</string>
+    <string name="show_hw_screen_updates">Pokaži posodob. pogleda</string>
     <string name="show_hw_screen_updates_summary">Osveži poglede v oknih pri risanju</string>
     <string name="show_non_rect_clip">Odpravljanje težav s postopki nepravokotnega izrezovanja</string>
     <string name="show_notification_channel_warnings">Pokaži opozorila kanala za obvestila</string>

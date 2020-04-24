@@ -179,7 +179,7 @@ Izbor: hitrost vzorčenja"</string>
 Izbor"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">Izberite različico profila AVRCP za Bluetooth</string>
     <string name="bluetooth_select_avrcp_version_string">Različica profila AVRCP za Bluetooth</string>
-    <string name="bluetooth_show_devices_without_names">Prikaži naprave Bluetooth brez imen</string>
+    <string name="bluetooth_show_devices_without_names">Pokaži naprave Bluetooth brez imen</string>
     <string name="bluetooth_show_devices_without_names_summary">Prikazane bodo naprave Bluetooth brez imen (samo z naslovi MAC)</string>
     <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
     <string name="bluetooth_talkback_computer">Računalnik</string>
@@ -476,7 +476,7 @@ Gostovanje lahko spreminjate v \"Nastavitve gostovanja\"."</string>
     <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacij v ozadju</string>
     <string name="show_hw_layers_updates">Pokaži posodobitve slojev strojne opreme</string>
     <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi</string>
-    <string name="show_hw_screen_updates">Prikaži posodob. pogleda</string>
+    <string name="show_hw_screen_updates">Pokaži posodob. pogleda</string>
     <string name="show_hw_screen_updates_summary">Osveži poglede v oknih pri risanju</string>
     <string name="show_non_rect_clip">Odpravljanje težav s postopki nepravokotnega izrezovanja</string>
     <string name="show_notification_channel_warnings">Pokaži opozorila kanala za obvestila</string>

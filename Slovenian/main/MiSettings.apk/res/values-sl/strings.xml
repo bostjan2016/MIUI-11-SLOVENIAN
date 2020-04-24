@@ -86,7 +86,7 @@
   <string name="screen_cancel">Prekliči</string>
   <string name="screen_confirm">Vključi</string>
   <string name="screen_original_gamut">Izboljšano</string>
-  <string name="screen_original_gamut_summary">Prikaži vso vsebino zaslona v najširšem razponu barv</string>
+  <string name="screen_original_gamut_summary">Pokaži vso vsebino zaslona v najširšem razponu barv</string>
   <string name="screen_paper_mode_apps_loading">Samo trenutek…</string>
   <string name="screen_time_lock">Zakl. čas zaslona</string>
    <string name="search_app_name">Išči aplikacije</string>
@@ -99,7 +99,7 @@
   <string name="sms_delivered_sound_title">Dostavljena sporočila</string>
   <string name="sms_received_sound_title">Dohodna sporočila</string>
   <string name="srgb_color_region">sRGB</string>
-  <string name="srgb_color_region_summary">Prikaži vso vsebino zaslona v sRGB razponu barv</string>
+  <string name="srgb_color_region_summary">Pokaži vso vsebino zaslona v sRGB razponu barv</string>
   <string name="start_easymode">Vključi Lite način</string>
   <string name="steady_on_screen_notification_title">Odložite telefon in se spočijte</string>
   <string name="steady_on_screen_notify">Obvesti o neprekinjeni uporabi</string>

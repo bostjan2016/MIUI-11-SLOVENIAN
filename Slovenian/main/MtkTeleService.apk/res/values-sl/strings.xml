@@ -648,7 +648,7 @@ Avdio"</string>
   <string name="description_delete_button">tipka nazaj (backspace)</string>
   <string name="description_dial_button">kliči</string>
   <string name="description_dialpad_back">Pomik nazaj</string>
-    <string name="description_dialpad_button">prikaži številčnico</string>
+    <string name="description_dialpad_button">pokaži številčnico</string>
   <string name="description_dialpad_overflow">Več možnosti</string>
   <string name="description_image_button_eight">osem</string>
   <string name="description_image_button_five">pet</string>

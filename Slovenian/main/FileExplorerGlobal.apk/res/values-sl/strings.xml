@@ -213,7 +213,7 @@
     <string name="dialog_type_text">Dokumenti</string>
     <string name="dialog_type_video">Videoposnetki</string>
     <string name="directory_info_divider">"  |  "</string>
-    <string name="display_name">Prikaži ime</string>
+    <string name="display_name">Pokaži ime</string>
     <string name="domain">Domena</string>
     <string name="download_success">Uspešno preneseno</string>
     <string name="empty_title_apk">Ni namestitvenih datotek</string>
@@ -336,7 +336,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="invalid_name_or_password">Neveljavno uporabniško ime ali geslo</string>
     <string name="just_now">pravkar</string>
     <string name="kilobyteShort">KB</string>
-    <string name="load_more">Prikaži več</string>
+    <string name="load_more">Pokaži več</string>
     <string name="loading">Trenutek…</string>
     <string name="local_image">Slike</string>
     <string name="local_music">Zvočne datoteke</string>
@@ -435,7 +435,7 @@ Za dodajanje pritisnite in držite mapo ali tapnite \"Več\"."</string>
     <string name="operation_rename">Preimenuj</string>
     <string name="operation_rename_message">Vnesite novo ime</string>
     <string name="operation_send">Pošlji</string>
-    <string name="operation_show_sys">Prikaži skrite datoteke</string>
+    <string name="operation_show_sys">Pokaži skrite datoteke</string>
     <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
     <string name="optimizecenter_data_support_tc">Omogoča Tencent</string>
     <string name="optional">Dodatno</string>
