@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Preberi me</string>
-  <string name="bakc_key_toast_txt">Za izhod, ponovno pritisnite tipko Nazaj</string>
+  <string name="bakc_key_toast_txt">Za izhod ponovno pritisnite tipko Nazaj</string>
   <string name="cta_dialog_button_text">Strinjam se in nikoli ne svetuj</string>
-  <string name="cta_dialog_msg">"Uporabili boste uporabniški priročnik ki vam ga nudi podjetje Xiaomi, katera vam nudi več vznemerljivih operacij. Za nudenje nedotaknjenih in učinkovitih informacij morate uporabniški priročnik samodejno posodobiti preko WiFi-a. Se strinjate?
+  <string name="cta_dialog_msg">"Uporabili boste uporabniški priročnik ki vam ga nudi podjetje Xiaomi, katera vam nudi več vznemerljivih operacij. Za nudenje nedotaknjenih in učinkovitih informacij morate uporabniški priročnik samodejno posodobiti preko WiFi-ja. Se strinjate?
  *Opomba: za izhod pritisnite tipko Nazaj"</string>
   <string name="cta_dialog_title">Nasvet</string>
   <string name="downloading_data">Prenašanje…</string>

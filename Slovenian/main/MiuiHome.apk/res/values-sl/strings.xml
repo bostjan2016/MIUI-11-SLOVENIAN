@@ -92,7 +92,7 @@
   <string name="announce_for_drop_workspace">Zaslon %1$d, vrstica %2$d, vrsta %3$d</string>
   <string name="announce_for_edit_mode">Vstop v način urejanja</string>
   <string name="announce_for_edit_mode_disable">Izhod iz načina urejanja</string>
-  <string name="announce_for_move">Premakni u vrsto %1$d kolono %2$d</string>
+  <string name="announce_for_move">Premakni v vrsto %1$d kolono %2$d</string>
   <string name="announce_for_move_hotseat">Premakni na pozicijo %1$d</string>
   <string name="announce_for_open_default_preview">Odprli ste privzete nastavitve začetnega zaslona</string>
   <string name="announce_for_open_folder">Odprta mapa %1$s</string>
@@ -291,7 +291,7 @@
   <string name="guide_install_app_title">Poiščem in naložim aplikacijo?</string>
   <string name="guide_tips_editing_mode">Tapni &amp; drži da pobereš pripomoček</string>
   <string name="hide_apps_title">Skrij ikone aplikacij</string>
-  <string name="home_gesture_content_center">Centar za vsebino</string>
+  <string name="home_gesture_content_center">Center za vsebino</string>
   <string name="home_gesture_global_search">Išči</string>
   <string name="home_gesture_no_action">Nič</string>
   <string name="home_gesture_notification_bar">Obvestila</string>
@@ -510,7 +510,7 @@
   <string name="transformation_type_stack">Kaskada</string>
   <string name="uninstall">Odstrani</string>
   <string name="uninstall_dialog_message">Odstranitev bo odstranila vse podatke aplikacij.</string>
-  <string name="uninstall_dialog_title_format">Odstranim %s ?</string>
+  <string name="uninstall_dialog_title_format">Odstranim %s?</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odstranim %s in %d ostalih aplikacij?</string>
   <string name="uninstall_result_failed">"Ne morem odstraniti %s"</string>
   <string name="uninstall_result_multi_succeeded">Odstranjeno aplik.: %1$d</string>
